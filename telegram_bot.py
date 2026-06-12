@@ -297,30 +297,37 @@ def get_random_cookie_and_check():
     if not os.path.exists(cookie_dir):
         return {"ok": False, "error": "No cookies folder found."}
 
-    files = [f for f in os.listdir(cookie_dir) if f.lower().endswith(".txt")]
-    if not files:
-        return {"ok": False, "error": "No cookies available in the pool."}
+    tried = set()
 
-    random_file = random.choice(files)
-    file_path = os.path.join(cookie_dir, random_file)
+    while True:
+        files = [f for f in os.listdir(cookie_dir) if f.lower().endswith(".txt")]
+        available = [f for f in files if f not in tried]
+        if not available:
+            return {"ok": False, "error": "No cookies available in the pool."}
 
-    try:
-        with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-            content = f.read()
-    except Exception as e:
-        return {"ok": False, "error": f"Failed to read cookie file: {e}", "file": random_file}
+        random_file = random.choice(available)
+        tried.add(random_file)
+        file_path = os.path.join(cookie_dir, random_file)
 
-    result = check_single_cookie(content)
-    result["file"] = random_file
+        try:
+            with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
+                content = f.read()
+        except Exception as e:
+            move_cookie_with_reason(file_path, broken_folder, random_file, "file read error")
+            continue
 
-    if not result["ok"]:
-        error_reason = result.get("error", "dead")
-        if any(t in error_reason.lower() for t in ("timeout", "network", "error", "equest")):
-            move_cookie_with_reason(file_path, broken_folder, random_file, error_reason)
-        else:
-            move_cookie_with_reason(file_path, failed_folder, random_file, error_reason)
+        result = check_single_cookie(content)
+        result["file"] = random_file
 
-    return result
+        if not result["ok"]:
+            error_reason = result.get("error", "dead")
+            if any(t in error_reason.lower() for t in ("timeout", "network", "error", "equest")):
+                move_cookie_with_reason(file_path, broken_folder, random_file, error_reason)
+            else:
+                move_cookie_with_reason(file_path, failed_folder, random_file, error_reason)
+            continue
+
+        return result
 
 
 @app.route("/", methods=["GET"])
@@ -391,11 +398,7 @@ def process_get_netflix_async(chat_id):
 
     if not result_data["ok"]:
         cooldowns.pop(chat_id, None)
-        error_msg = result_data.get("error", "Unknown error")
-        removed = ""
-        if result_data.get("file"):
-            removed = f"\n\n{t(chat_id, 'cookie_removed')}"
-        send_message(chat_id, f"{t(chat_id, 'dead')}\n\n{error_msg}{removed}")
+        send_message(chat_id, t(chat_id, "no_cookies_left"))
         return
 
     plan = result_data.get("plan", "Unknown")
