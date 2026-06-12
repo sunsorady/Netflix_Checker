@@ -118,9 +118,22 @@ def check_single_cookie(cookie_text):
     }
 
 
-def send_message(chat_id, text, parse_mode=None):
+def send_message(chat_id, text, parse_mode=None, keyboard=None):
     url = f"{API_BASE}{BOT_TOKEN}/sendMessage"
     data = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
+    if parse_mode:
+        data["parse_mode"] = parse_mode
+    if keyboard:
+        data["reply_markup"] = json.dumps({"keyboard": keyboard, "resize_keyboard": True, "one_time_keyboard": False})
+    try:
+        requests.post(url, json=data, timeout=10)
+    except Exception as e:
+        logger.warning(f"sendMessage failed: {e}")
+
+
+def remove_keyboard(chat_id, text, parse_mode=None):
+    url = f"{API_BASE}{BOT_TOKEN}/sendMessage"
+    data = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True, "reply_markup": json.dumps({"remove_keyboard": True})}
     if parse_mode:
         data["parse_mode"] = parse_mode
     try:
@@ -188,25 +201,73 @@ def webhook():
     chat_id = msg["chat"]["id"]
     user = msg["from"].get("first_name", "User")
 
-    if text == "/start":
+    if text == "/start" or text == "\U0001f3e0 Menu":
         send_message(
             chat_id,
-            "\U0001f916 Dan Sun - Netflix Cookie Checker\n\n"
-            "Send me your Netflix cookie text (Netscape or JSON format), "
-            "and I'll check if it's live.\n\n"
-            "If live, I'll generate a mobile NFToken login link.\n\n"
-            "Example:\n"
-            "<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\txxx</code>",
+            "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n"
+            "I check Netflix cookies and generate mobile login links.\n\n"
+            "\U0001f447 Choose an option below or send a cookie directly:",
             parse_mode="HTML",
+            keyboard=[
+                ["\u2753 Help", "\u2139\ufe0f About"],
+                ["\U0001f4cb Example Format"],
+            ],
         )
         return "ok", 200
 
-    if text == "/help":
+    if text == "\u2753 Help" or text == "/help":
         send_message(
             chat_id,
-            "Dan Sun - Netflix Cookie Checker\n"
-            "Send a Netflix cookie in Netscape (.txt) or JSON format.\n"
-            "I'll check it and return a mobile login link if valid.",
+            "\U0001f4ac <b>How to use</b>\n\n"
+            "1. Get a Netflix cookie (Netscape .txt or JSON format)\n"
+            "2. Paste it here as a message\n"
+            "3. I'll check if it's valid\n"
+            "4. If live, you get a mobile NFToken login link\n\n"
+            "<b>Supported formats:</b>\n"
+            "<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\txxx</code>\n"
+            "or JSON array format.",
+            parse_mode="HTML",
+            keyboard=[["\U0001f3e0 Menu"]],
+        )
+        return "ok", 200
+
+    if text == "\u2139\ufe0f About":
+        send_message(
+            chat_id,
+            "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n"
+            "\u2705 Checks Netflix cookies\n"
+            "\U0001f4f1 Generates mobile NFToken login links\n"
+            "\U0001f310 Free 24/7 hosted on Render\n\n"
+            "Just send a cookie to get started!",
+            parse_mode="HTML",
+            keyboard=[["\U0001f3e0 Menu"]],
+        )
+        return "ok", 200
+
+    if text == "\U0001f4cb Example Format":
+        send_message(
+            chat_id,
+            "<b>Netscape format (.txt):</b>\n"
+            "<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\tyourNetflixIdHere\n"
+            ".netflix.com\tTRUE\t/\tTRUE\t0\tSecureNetflixId\tyourSecureIdHere</code>\n\n"
+            "<b>JSON format:</b>\n"
+            "<code>[{\"domain\":\".netflix.com\",\"name\":\"NetflixId\",\"value\":\"xxx\"}]</code>\n\n"
+            "Just copy and paste the whole thing here.",
+            parse_mode="HTML",
+            keyboard=[["\U0001f3e0 Menu"]],
+        )
+        return "ok", 200
+
+    if text == "/about":
+        send_message(
+            chat_id,
+            "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n"
+            "\u2705 Checks Netflix cookies\n"
+            "\U0001f4f1 Generates mobile NFToken login links\n"
+            "\U0001f310 Free 24/7 hosted on Render\n\n"
+            "Just send a cookie to get started!",
+            parse_mode="HTML",
+            keyboard=[["\U0001f3e0 Menu"]],
         )
         return "ok", 200
 
@@ -233,6 +294,15 @@ def set_webhook():
         logger.info(f"Webhook set to {WEBHOOK_URL}/webhook")
     else:
         logger.error(f"Failed to set webhook: {result}")
+
+    commands_url = f"{API_BASE}{BOT_TOKEN}/setMyCommands"
+    commands = [
+        {"command": "start", "description": "Show menu and start"},
+        {"command": "help", "description": "How to use the bot"},
+        {"command": "about", "description": "About this bot"},
+    ]
+    requests.post(commands_url, json={"commands": commands}, timeout=10)
+
     return result
 
 
