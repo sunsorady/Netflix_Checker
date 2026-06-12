@@ -1,0 +1,9 @@
+cookies/
+output/
+failed/
+broken/
+config.yml
+proxy.txt
+__pycache__/
+*.pyc
+.env
