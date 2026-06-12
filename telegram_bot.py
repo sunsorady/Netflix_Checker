@@ -350,11 +350,6 @@ def webhook():
 
     if text == "/start" or text == t(chat_id, "menu"):
         send_message(
-            chat_id,
-            "⚠️ <b>This is the latest Cookies you can use:</b>\nhttps://t.me/dansmethod/374",
-            parse_mode="HTML",
-        )
-        send_message(
             chat_id, t(chat_id, "start_msg"), parse_mode="HTML",
             keyboard=[
                 [t(chat_id, "get_netflix_btn")],
