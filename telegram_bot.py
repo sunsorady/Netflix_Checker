@@ -390,6 +390,7 @@ def process_get_netflix_async(chat_id):
         return
 
     if not result_data["ok"]:
+        cooldowns.pop(chat_id, None)
         error_msg = result_data.get("error", "Unknown error")
         removed = ""
         if result_data.get("file"):
