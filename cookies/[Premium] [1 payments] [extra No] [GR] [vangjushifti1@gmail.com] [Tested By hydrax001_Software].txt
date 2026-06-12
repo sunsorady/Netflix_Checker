@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Papu
+– Email: vangjushifti1@gmail.com
+– Country: GR
+– Plan: Premium
+– Member Since: November 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 4462
+– Phone: +306973754675
+– Quality: UHD
+– Streams: 4
+– Price: EUR 15.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: TV
+– User GUID: AUPQQBJOCBEMJNSNHWHPO324IY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780274808	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+01+2025+02%3A46%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=4914ea18-9859-44d5-8724-830a83b9d685&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1780836611	NetflixId	ct%3DBgjHlOvcAxLiA6TufqP8POGzculwGiUQpxZm5Y4fZ8_9pFlzow30xfGrx5cVKUvTol7R6XFgyNDgiHuNXCRYVk6REd5VRw73Fqo7kzAelD6NjNnWyEIWZzp8k4N83Y-O7zzplX1fEYzu2nCj3shXOxw57ZtXQ0-9Kc-HWlu57DjycJMCTWFYKF0yHVBCk6WQbhXeVHGEWAvxmrK_2xZPpTYpY4IfXXFZVGafqbsKl2J8_VZqfzbibghxs-kzW1GvF-i3QFaF7-RjbbWg7x7_BLDfrcWfEmep8YhFVqDDIcyXF0pX4b8Vt_0tiXp9MKnz8L1JM_KapRBt3XebajDm1N0r3fC17_l0luMDibd_SS_xBX_DNMXE5cgeOKhi1Vs4JhSfnkN7-Js9I0ruPhhb_ifE9MsEEabuHF8BBI7h3VwQQWqeEDtxCPv8PwUWh7WSQqqqvjREX4Vjr3a2e8ZhWSzwZ7qmM4UhIjpjK8-1Ao3T0Xa1RfP4OaddZZvWJvIs96WICG_0mnjs3FP5AJJNIIXp5kYavDRkBlHPdEoTbiP-wy-BP5-2QS3Gx671OCohMXXQq2Cyss0I1JO28Opq1vZ8IZUsGCidw18fYZOVGP303NyXogIdhgiXRHGMsNqxwcMJMLatD2SGyGyTGAYiDgoMiN5Fzw923DVdOnmO%26ch%3DAQEAEAABABQAHa7nlLM2RLWJkFQaB1hc428HM5hwx2M.%26v%3D3%26pg%3DAUPQQBJOCBEMJNSNHWHPO324IY
+.netflix.com	TRUE	/	TRUE	1780836611	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZg8u3asHwQKS1MBpFKInQBXK4z4CrDKI.%26dt%3D1749300607435

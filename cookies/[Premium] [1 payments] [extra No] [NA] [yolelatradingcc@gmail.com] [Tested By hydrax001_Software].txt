@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tuya
+– Email: yolelatradingcc@gmail.com
+– Country: NA
+– Plan: Premium
+– Member Since: marzo de 2024
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 2513
+– Phone: +264817801817
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amos
+– User GUID: EIC4OLZEMRFQ7EKUTPG75EZIVE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805490013	nfvdid	BQFmAAEBEFoUhhm-rMaELvElNNeONNhg51dPXJVu1f_2ipVVX-kTobEfCACN3UfNTqmiHevt2Wx6fjytXQseE0VsHEirUVVuZvfj5nm5e1OlKeXSQdfTJjTgRywd6n-EzkoqnCQqap5u1bh1k6V_J0zFlDmZrE78
+.netflix.com	TRUE	/	TRUE	1809700816	NetflixId	ct%3DBgjHlOvcAxKyA8FN8WfgqkCyVdtqfYjD6P0odZ26Sorj_ggZe_YuCZEJgAH0YG7kcqCjAsdAGp6xazJnBkTfcoGubq7FOg-QSogj2tF72fU1J1VZDzGb_HQkezvbX8KTsdoS4IeQwwWsbZvj2TsdnidqLupwhG5-_deFnj1Ki6h3yXeioJ0EZKacKPb_RsbXRxTVtlAgoi0sJtjHVF6q_Zk-RobSusvGLcUSAqTm60tJK2mvWYNkJr06N3xq-UD6NDgLQh1BNnc8sv5TnSYRpPest5tBdfB62lSUiMEBtt6CLL7BoJi5Re7u67gO_oWReT3HSQrcQ5KgJ-xlHAgAsTYlF2s36sfwQsNeOCXwITfkNjgnsZ9CIzyrifak4u1piyBLwAPVlA_KvHz7nxWhx8s5ZZFzGXN8g75jokIPHCoo7t3HytjEoMYgVZMoYFKBj8LXAXDXYH9Au6cHM8kU0ISqYaSmYuIltkfQiEUX-FQqj-2Bpn_sJXq1GIB2VVuvF1p88IaruTPd4KZ-3k98l-0SgUyoPocx-ZeWfMnS-MqTZP2wIJt5oWDkHU88wXH7GbuZyEhe4GkjlXGOGAYiDgoMYvG2ck9PnTR7teIM%26ch%3DAQEAEAABABRuphonx_RNqW02u31nVixAcPcey5oiNAw.%26v%3D3%26pg%3DEIC4OLZEMRFQ7EKUTPG75EZIVE
+.netflix.com	TRUE	/	FALSE	1809700827	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+16%3A40%3A27+GMT%2B0200+(Central+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b563e0b4-61dd-4e45-bf83-c46e167150b8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773953999734&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809700816	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFjWYDlMupLiADM-Cgd8PQDOD2rIUhdS0.%26dt%3D1778164815455

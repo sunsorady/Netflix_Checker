@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: KGR
+– Email: janu19mkce@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: 2026-07-06
+– Payment: UPI
+– Card: N/A
+– Phone: +919677456668
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jansi
+– User GUID: KH6VHYCMRRCBZDZ525OWMI6AAA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805704163	nfvdid	BQFmAAEBEG18BgjjGXoBWaFL3H-thEZg44-NXwQdjXA_nl4aTRxzd4mRBnJNmjuyFaR5BaHtF_3dsZ312TjJN0sNsBvcjoiEm_SWtlxNwpL2t2eKNBOTv-1Xe_PrdNv7knp0mSvfnDdMWy1A15EGF4AhayZl4xRc
+.netflix.com	TRUE	/	TRUE	1806674783	NetflixId	ct%3DBgjHlOvcAxKtA10pZ6cmJF1XnQ63MSe9zRZ6Fjv9w62GGcr8kn-hRr08mY3nWE6FvhznNypALrAh6zJZE5k7aCz_oAymJBOYCGlhinNQBIrOVWmfGgjk_xBphi6zN30DI25MsB8wiP5J-RnNiDeEqOHWTdMqYsGQP7XFaCNl08gCxrRYRRmVudDV8jr_PalPBoZGM82XEJeg-AjBFhMd_qwTBsyuJwspAlfjBwfanp847jKPtI-P8fsjca_ESS8wN8ekJQd7-wqKDNFJib95vKjTDdIe1r0wb3rHPIt9CQwwgAYy-mcOzGe81nHuRIJBZRnKfsic4XaFV9h3bVQsz4wIvMlrvEnJl2sNdLff8zl2NG5t_S3xW4uxJBz8R5kSMA4AEbV8wW3FbNxdQB4jKOO5uh1DCXkB6OXw1oqnb7O9wjKc1-_KqxL7WsJGy8DdXMH5rg-633MXApa8bmY6_fML23-mR51yebiCvJW7YQpuYuh0Sd4zbbAbDDFkiQGNhHVMskaWEKNqtSxPyjfLbhEnJlYondsYRMQpVsS8BngL0-PKHEbXo9ItCkUXpA9n1rEBkLI2ehgGIg4KDIOkcu5BppDrVG4Izg..%26ch%3DAQEAEAABABQlIMcEiehx4Za3YKWdc_Zr-d5JARM2fTQ.%26v%3D3%26pg%3DKH6VHYCMRRCBZDZ525OWMI6AAA
+.netflix.com	TRUE	/	FALSE	1806674786	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+19%3A36%3A26+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b478e495-fc65-421f-9b97-75cea587b87d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774168163865&prevHadToken=0

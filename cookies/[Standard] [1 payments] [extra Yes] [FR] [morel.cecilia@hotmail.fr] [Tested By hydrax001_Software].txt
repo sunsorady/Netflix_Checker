@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ethan
+– Email: morel.cecilia@hotmail.fr
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2014
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 0230
+– Phone: +33665470400
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cécilia
+– User GUID: 4M4SWKA2XNHN3P2XO4MBW5UVSM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801594878	NetflixId	ct%3DBgjHlOvcAxLoAz85XRDEvXB4L0CfTfhjCuVy7dipSP-AwnFB8x8tbOtTqJRwYoz1x9ZZC6rsYuMgHuWzNz5ZtHa138Oy5nZ6qkKrncxelFMCst3jhbIHJpv9EQ1eqR8yqu9oGiTvodgwbICL7_EVAYjuOG-IM2XHW19cv3dQrayglAbd3DCt-IfSn-iUealfSOKXJcNFGLxqzDH7r31KUC_zqY9sHeUAkstHZGmE3tzM35fo0Fg6VaZRAp8srgsbe3XypUqcvI9cz5rJvfmTo7DphUnFHlebVCAygyhTldvJY1XQt1rBwCGjQFz6HXM4C7aoXB2F1TzpdA77OkzZAY8x_Kayhw7MZIQXFklSXukLKRpKM8hUgPN3ZDVDqi8Q7RXkgAkibXcJSxG5P-r9EMnkIQWjtmlIxJiX0rrjfgWezODiIM-S6FsK-GcCedS_qHyY0k4wFrhBi3R2k3uKypE-ataYlY0KL8w4g7y0x24j2-Papqk3YsCvz43YBEkBq6sRPg7BNUTaAw-3I90Vh3GuTN6R-oGVO8qPy_jandMrWo9AR-ft2cywQrT1xh1AawfbVCBeYmsSzBnYlbbBkM31-FowSpqEWdNI0BqX6Iy0k212NoVH27NUW_ga6P36AZNwmM3d4SaX4rkMaxoyk3UeGAYiDgoMrhPvvv4ZdqZE-__P%26ch%3DAQEAEAABABQgP7JISo3dIj-cKZpl7UZD0ScsB-YtVxA.%26v%3D3%26pg%3D4M4SWKA2XNHN3P2XO4MBW5UVSM
+.netflix.com	TRUE	/	FALSE	1801594881	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+20%3A01%3A21+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80c9cbd0-3cef-4172-8749-8a39e48ea9cd&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BPAC&crTime=1770058881705
+.netflix.com	TRUE	/	TRUE	1801594878	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGTGmsO-Mrg4siDNI-DhL_IVDUJjyB9G4.%26dt%3D1770058857560
+.netflix.com	TRUE	/	FALSE	1801594878	nfvdid	BQFmAAEBEJ_vH6GWxaiIaMBuZsjlfQdgKMlwEgOIO5Bf3HyFBCoK-ANGjNcZlIZpCYqL75i3l9dWnx8uCT9GzSuIXq_XrARBz3B7igghBxqXYXBpNvvIzObnpp5WMA6PZRZN4I08pUrAd6VTutF1Mtbv3i4TYdbj

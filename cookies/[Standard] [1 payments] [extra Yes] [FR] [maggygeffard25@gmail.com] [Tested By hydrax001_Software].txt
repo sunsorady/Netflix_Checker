@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Senraï
+– Email: maggygeffard25@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2018
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1025
+– Phone: +33624322239
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: maggy
+– User GUID: EGQCHFZCQ5DY7BEAOQRRVYKLSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785660754	nfvdid	BQFmAAEBELYGb7GAvvScy8d7aNrXobNgc1ec8UicyXD35cNxKpjRroUHCi6NdZasIvdPOw4u9ZCBvEbZPBReH5WCH2YtNYC-gMK9l0AuBInRTqlwY0u0WRHAYm-SBzEj6Hz7xgnBZE5_YwdusFSEwofT1oqn8DlP
+.netflix.com	TRUE	/	TRUE	1801993012	NetflixId	ct%3DBgjHlOvcAxLqA4XiZ3xd7QlEHGfdKuuydLLR-_HHdMun9nUXUVLL8mvN6Eylwkl_HdCfF6973Rzdd34wKB2qLl3q1zNRG-ebHl2O4ybGlr_UzX1rOgDSxM4RyE3OJEgHure2CJUu3UCuRJE_ApiQz1SFvNnJn88REW61cxv-HYU8RSTG1EtxYf2GklO9Au7JDzNzGCPMl2_fYRnMNnrOOaa-DN-5SlH958gMZb1SAy20232mi-uNnrBSq_LMPQY9n8E0oZUKt3NOfpykx0usp21Y_XNG7o1tP8zbaFDBCosNTFGhD3ksCHAwjiDadUDaWZF7n1PbBFkENuKTGCj-Ox4CNszpNI31wD_EF6Ms5mQuOIZ2lJWY8l58rAwTFg8X1AL-rfAAWn143Nt9RzkDH8pDQhrCZmoq856iU0m1JOJN6jSRo7dYE0imylkA4YJXfSM_9AcytGv9Lp0-_H6SmN1t_KGJT6k8e6xTsT_Zkx_ZnuvxpqnMCVSAoj5sQ65g78Dj3fHy9yeCgB0ZUCgq1sKpVcVy8PgcVylRF74RLVMMKYLn_T9qOtjvAklJ8_FRqxvxAPHWRSMb5AUnrjs3Rh8zGvgbLL86gHwxCAwMw8cQANgus8LHW6HpNvYtHFAEv-QgxPTLbjvJycWTf5WJLvEjXYkYBiIOCgwdOkqP_GJKEmUjmbU.%26ch%3DAQEAEAABABTGg27R0WOdTfiQ9EL3dDFNLmzBe2-epJs.%26v%3D3%26pg%3DEGQCHFZCQ5DY7BEAOQRRVYKLSA
+.netflix.com	TRUE	/	TRUE	1801993012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSeBOANXpVAnDqd-gI9AsLOm9CxceS6AeE.%26dt%3D1770457012918
+.netflix.com	TRUE	/	FALSE	1802005337	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+13%3A02%3A17+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37b06f44-3dd8-4618-82e2-0b74fec5be31&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BPDL&AwaitingReconsent=false

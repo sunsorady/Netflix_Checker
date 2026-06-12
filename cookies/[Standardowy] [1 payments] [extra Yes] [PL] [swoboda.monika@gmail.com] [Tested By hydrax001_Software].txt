@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dominik
+– Email: swoboda.monika@gmail.com
+– Country: PL
+– Plan: Standardowy
+– Member Since: grudzień 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8628
+– Phone: +48506217923
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: swoboda.monika
+– User GUID: ZSEULSV3HNAI3AAS2VE333AXGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798459532	nfvdid	BQFmAAEBEF_VZfp_v3NoTJ9W1BpRci5gqLdhQ8L8TIAg81PrKMsNZHBZrSYICV8pYnbhM2AorWfcqcrsoDwf8zQ19b2wHRb2Qx6olFx5iyK2TuoyGUKGzTXrJGYTW1rDJYO7YyIcNievJsIcn8TXT9UFqE4E54_W
+.netflix.com	TRUE	/	TRUE	1799666689	NetflixId	ct%3DBgjHlOvcAxLIA8Cx7Na1Fw_JuiqdE1xQH4gMixEdFHCM6sRFxVL5FJeUh3GqW9zliMr2XhtdH52uYYTFP-ivVTONK8Cwf8jlok9qIBNCMBFuuTf1sWYAubn9snmVMjQQ0EoXWgNCZIcSWjTphpmky7XPN7GoHPtXo2W-pz3bxVT5uC13PDdurRvq9RRRADlAVZKPK5YmemO4pDZZtu2jlVSJ59taE18QMRDNyAX2vKUNBlzlhcGJawMZSY7Rywzz67MlmI8EedTFd1gTQqYY75PALqdZzenpcsENfiwXOpg9trO-aRdijKTA-x7x4sQgZU8322qvXj30n8eFjObcv8ET3v7-Esj2UwRLvfNVw1atolha-Q0rnzYaqpEhGAAowFQGGRVQ97NLo1OgsW3g4lcfnsLSJDyw_fchvOR5wrlG2uiqWy0t7FxBUq35xja1dq7C3uDbsVUt4TqrEq20VXJISipLhLKAKHe167L2pK7W54k3myz8YtvX-cO8D6z1Il6P5WIhi2AnSSZKRSxxYdd7ZBzvC5I6QAd9ofKwzABuawCCbXNkDc0u0P4VraJx5Gf1hgk-IBP9X44QbuWs1yq_DthDYvr4Q0h2ovLfEqjw8RgGIg4KDMmvbqKURbrEuvJ2ww..%26ch%3DAQEAEAABABRJXG_hINXiL_bZkMOALUxusPyEteukc8o.%26v%3D3%26pg%3DZSEULSV3HNAI3AAS2VE333AXGY
+.netflix.com	TRUE	/	FALSE	1799666713	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+11+2026+12%3A25%3A13+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0101d733-3127-4301-acbb-2b9a417532a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B16
+.netflix.com	TRUE	/	TRUE	1799666689	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMPUNVCijARUeVZpoQRqQFolU-QydgzaY.%26dt%3D1768131275522

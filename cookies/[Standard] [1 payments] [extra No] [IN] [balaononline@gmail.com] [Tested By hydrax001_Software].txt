@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: J
+– Email: balaononline@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: January 2024
+– Next Billing: 2026-06-21
+– Payment: UPI
+– Card: N/A
+– Phone: +918667700714
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bala
+– User GUID: QHYFVAC2HFB4DBE3ZH5PCIXZ5I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783281191	nfvdid	BQFmAAEBELZE275ba2JiDLXzZYFvomRg1FcqUm8fLKH_i0Cc7ogZerArD6jSWDg1a1rPoarz6NEzS4TQZ44_7m3AFCa701SMGzs75emxez_wbcQMt_ceVWwL2EnpOyJ6FmvX708mugdZR11T3fK3_uppkXdAV959
+.netflix.com	TRUE	/	FALSE	1783281191	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA6hWDLn8j0XYZt9g_6k0XDfkiL3YW0y_85kr8gYMTwFbnccRNLnK9yX-mp0K9g63N8VQZLqlfMvgSBxjEnCAPF3-7raIDGrq60qAwPEw3hMwRf6a1hyocRxRSIOElOevpk-IKC1ga5oLvPGPiAW98mYDS3kdmE8L3TuT9WiJF0lMTn4wPmqFjmM4CWHixmbEF-P6N6k5Xtw06Jakjq8IRrP9S4fkUrX7XpivC8fyVp_RPLztR6XCBLUkkaApqfqbqJYncGRbGsYazAschLsj_NFBlHfoA4st-u-awSZE3B9kzwq1aN9vNqN-dud2cOV1_-7guWkKMVfP2mra6Sl8DS1CILtx8NrdkRQ3DbpDvsKUk_47aNOIMOM7HqOizzOSZJoIKQVrI0hP927ggcF0e2o1bpFvMnKVDEGs8AYk4Lkp1Cz87N1UzhBKDJevQ7aHEcTm2wycEGWW1JTNePNxl31FCWWuSdM4dYNmG7O_efIp4OKvAZxd4fzEIplwQVeuPQCKpPli0fZ3D6NteI7jTkLkRpAYBiIOCgwGj31glrIi7XpGvng.%26pg%3DQHYFVAC2HFB4DBE3ZH5PCIXZ5I%26ch%3DAQEAEAABABQaWRO4YYQPdMV7GGTkZTWfH_YOCvdKTiM.
+.netflix.com	TRUE	/	FALSE	1783281191	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+15%3A22%3A36+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d20ab7f-d6f7-4d5b-9735-3999e127672d&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783281191	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTac92mtGuyTLJbfWYi2Cv-Sf2eai3zIdQ.%26dt%3D1775728352037

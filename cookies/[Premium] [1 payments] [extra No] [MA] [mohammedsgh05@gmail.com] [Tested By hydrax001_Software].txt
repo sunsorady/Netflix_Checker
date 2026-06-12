@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lock by dog
+– Email: mohammedsgh05@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: February 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 9928
+– Phone: +34631902647
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Locking by dog
+– User GUID: XX6LDIV7J5DFLJCTSIG2O7DXOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802985348	NetflixId	ct%3DBgjHlOvcAxLjA2NLaAVHNIlab7RMWdkkO04PQ-jqOurcLCf6KzhaBMDq8_ZlQUQvQwT7TCXWqpDzxlJP2gYpSOqvo_iCSsuedGK8eWN54D0H9PjY75E6rzOhOjVhSDia9-ANm0qPxqprbU8YLeqjxPGRlM-ixRN6-4yhYuNF5lxymtz5e8MlW0U67-uNZRV-L9nmypwPvDaoFaRYzYqI6E-QV-WkZAxAeigvJoPLbOHk_1cqF1RAiY6f7boUH29aZVX00KPnzUpSI7hOzEa8ivIwDmfnBP_dHHSBWqy7nWfxE5BcybKD-JBNeCnxFbB8sA2Sc3xdjbHizvL2cXDTA7gYYZqh-G3plACBy0ibptDK4yzeGmrSuvO71KQqyQrj1LN2lC7zUwmeSUVXo6bsw3UzZ3AMZ8itBP8MXjfNv3bL06xxwNfjz7auJviaFdPo1hyBjoOzMuaH1oTKPqJTIhNDVNu6huBl-KYWKd8NbSSosET9BbRicyqmkqX82FH-3dbzQrad8ynC1mUI8tWKUSADZjGD8X22b7VhMu-37BoJf8HnlcJD-fko-sGe8DWLlcJ2Ma10Nib7raoaG9BPbIyektM5e3PRwMD7WvgwiLhaj5FTRQwhau8bClXLl-Qr1QSbDOnvlcfL5mPOVhgGIg4KDHnQAERo_EJyfxK_DQ..%26ch%3DAQEAEAABABTF2xMqBfR94hzXJQnbDj6evspjrEkT4C0.%26v%3D3%26pg%3DXX6LDIV7J5DFLJCTSIG2O7DXOI
+.netflix.com	TRUE	/	FALSE	1802985346	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+18+2026+21%3A15%3A46+GMT%2B0000+(UTC)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e8d7ce6-7afe-4346-9a87-b5bd67c91c07&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802985348	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVNSzTvB4T00aSihuiNpjg1OhZXok-QmM.%26dt%3D1771449347920

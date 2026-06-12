@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jordan
+– Email: sevecaya49@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: September 2022
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 2612
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Severine
+– User GUID: RK453EPXUVGYZL7SQFOKMOFZSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782579174	nfvdid	BQFmAAEBEAXcnR2bnyOVtvXxgqPjC7xgZ5E0_WXMsw3xgf5KMjHRH0MhD4YBJlWaB9GEtob_rLhDBE765JVIH16JHewqiWBNFwdIY6rvT1My8GPklfFZe9olcYsuin0ChKscLVtwNtac24V0PqLXOwW_1p1rifuK
+.netflix.com	TRUE	/	TRUE	1788231980	NetflixId	ct%3DBgjHlOvcAxLkA8ENcXc3f_kNT2zJPyc2mWtWFDR5FDUhXydNiqEbVzcxFvd_qwbRVPYbxNkr9buBfz52C39VjPNF4iONX6-n76vwFcFYHn4MQWEdRYbSmiuCeu7Anq8uWu5yvDxH1G50HfdUzwkQnuKciFhlmOEpQ0Jd4bgAJxKC1PzBkhFy2_XQdUKS595cYcFSQmaRYwUWsU9wzKKF5QLdnb_5XVQYgn9wUmLjYJubt4mp3YtCA6_Svb90clLs5H7fmN88ujqJENHSRumagmbVPLk1RcjaeqBq8h2mGsBzYE7DmauleYBXq-q0uQwwGu9QJOtEMkvqXFtT4uk6j4zcGYxqRLXVGx7C29o7k8Hdb8yufj98uMp5wD7OM-DnoUfKjHDl8Qbi90MLZDKWBXUIGd16rCH8Dj0CbpBdHKx9Y8TBfFVO1AxjTCjkZO5ietYLS0rv5RrfIvg2SVp8-yjsfKXanaJNoxtxiGgFGrSAbRIPMypyUvVzKP4bp8aKU-q9vIQBRzv_FWRc4g2i6H8mw5baXMGbCbPHdr6mUCuEkliEUBZADe_cFwwNVlX5e5Iq4q3MSGeC3z65DmDmain9tYrzhHh8e1wQzY-dEhO2YXkV3cVTGlSHU3nFWXTankMtTrwZU9TIjpS3vVYYBiIOCgxMgLvR6GYFeWsgdK4.%26ch%3DAQEAEAABABSKyOw-0zzRcyH-NG8-Z6Ps7ZDSWhK5cXs.%26v%3D3%26pg%3DRK453EPXUVGYZL7SQFOKMOFZSU
+.netflix.com	TRUE	/	FALSE	1788231981	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+01+2025+05%3A06%3A21+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d1989935-f850-4207-8e73-c291d9d2d96e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BCVL&AwaitingReconsent=false

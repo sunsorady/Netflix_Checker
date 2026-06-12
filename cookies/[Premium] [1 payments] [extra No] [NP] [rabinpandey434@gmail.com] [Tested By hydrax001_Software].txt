@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Masssss
+– Email: rabinpandey434@gmail.com
+– Country: NP
+– Plan: Premium
+– Member Since: June 2024
+– Next Billing: 2026-06-26
+– Payment: GIFT
+– Card: 8158
+– Phone: +9779815437780
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rabin
+– User GUID: QPKPB46IPNH2JBRXDDMPCO7EQU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789644533	nfvdid	BQFmAAEBEEcWGIP9gfOj_rbMUZ5loFhgaj6X0tF1Xif5tMmHNKbfbwaoz_nBry86OCG3XG4yV99QsAI6oj0XJHKKoLN7TNOA_IOi0C9qp-LIZqViO5YOIEvYK3rwUQoRjN7tU4tm1KKjujCRYbVFpz2njNozoXNd
+.netflix.com	TRUE	/	TRUE	1801334976	NetflixId	ct%3DBgjHlOvcAxLoAyDTW0tCTS3n1REi1oMVJNbvmqOq-cVdhhiXCRp4p_WQA_hBrAWMngeU1vwlqnZrWLEuBJMHGgo1HuDTEhh_agBwtDEJXAhcGZ19NxCX2s8V6dqUw4sgBG_vusexCsrxY7kk_Sca5BVfJphCeUc0DMK3-vCPAusoTvbYQXTmgRZxGBnBbBqVJH_dI71cRNbUVLUvTXP0y_AXdCJ8JDyO-y82PI509P3ju3232VKB14d1N8fSzjAqm7CwVFYScxbv4PF46Pmux-yx5RtMrGQn9cSNZRgFpQdigtiVLvDSeDCg-63hNvWAxU3pjSVeL1THRQ1Yv5RjL5Iys_0Uwj5ar8s4XEehTJAW-7dosXPpq2AeettJ_IuV7miL6IV_fxFraTgtSFBCOiUW5HjSDDMhm5zs89wOtzZyXhJba9WGQZjNWEulw-9ossGQu0BSkwprFAjQwBHvxe8q1N77yeZpnwR7iWwryw2_ukwbYjvdVx6f5S7L4O8QUoExdtiXRuPtvq7Dt-OJcCWPiblUMnjJKTWXsQa49ciWzey8hyLR8H7axRimRa2v55zIAcSJ5O0EFwUOKep3hgErmKsojbj8omPR_sMAD1MMIKUbRsxVmdZzd-aME9pkL9IcYAeUXNDDefekGqwwuEVuGAYiDgoMDF9RP0a_JeRFlh7l%26ch%3DAQEAEAABABR-ogoViOfX-HED5gMRCgeooz5vVRKtC2s.%26v%3D3%26pg%3DQPKPB46IPNH2JBRXDDMPCO7EQU
+.netflix.com	TRUE	/	FALSE	1801334977	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+30+2026+20%3A49%3A37+GMT%2B0200+(Eastern+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a126381-053c-4819-854f-8f3dddad629c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=FI%3B18
+.netflix.com	TRUE	/	TRUE	1801334976	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgDFXy8JklkgpNvNAMYOJf57WfYh_RRlw.%26dt%3D1769798976222

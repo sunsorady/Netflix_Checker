@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Max
+– Email: andreia182002@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 0083
+– Phone: +33683245225
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: andreia182002
+– User GUID: WMOY5J5535BSFCMY76FRKDC27Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801168532	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA_8YTgfxcExvtVKb9vdEuqugm7l5H7hQrnCJ13fF_oyi0Gu-JQ6XHNk3g2aIuenv5sYX4gb65M7--60FFVib5yu9SMxCMWMewMd82RqPfso2ihyorWhHkmpQc2M8Z96TKTcy3xrHO4sKL1L4_v8cYUmiu4qWzOfy-Xqp0bTRLflA_s5smYhmFk8aDEc_hR8Vo9PGmcBT2FordxebeAdgxvNq8mdZwoj1e2qKv-j2pZnq6MJynseC4-wI_DyTaHhq8Q-oWqmRZiByGw8Zl0zhuKYxxeXlje2wQRO2CKRqit4P3du0CQ6k9JJMiYJeLYDTitcbHet7SUlVvCMHgNP3dMpPH2vNZfgEzo7AE4ygXqI2uXANvp0P8aolONjWzGt6ylM2eoLLxuUz5DLM1G0W13hdt_WLazdjflOkS_WKT9FJ1dQDiO_MtDfRNRnh25rC1g42W4RYttVWQ9pX-3vGlmha6IZLLWrDSEGLJ72jFkD4DUC8xQd1CPTQw7Pa1TGeqwcai0NsLZEXGAYiDgoMYKOR3UYrnhTTYL0J%26pg%3DWMOY5J5535BSFCMY76FRKDC27Y%26ch%3DAQEAEAABABS8jlAIdhyqghKtJzXQf2deY1YgIlMv9x0.
+.netflix.com	TRUE	/	FALSE	1801168534	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+28+2026+21%3A35%3A34+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=cc01497e-74ca-4c3e-9058-535cb1d9e5c3&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=FR%3BOCC&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1801168532	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJGyFh24Bu0N-wk6dgjWH4izdYP3sr8ws.%26dt%3D1769632531705
+.netflix.com	TRUE	/	FALSE	1801168532	nfvdid	BQFmAAEBENOakeq7uKHetfoNK8q5S3Ng1Fg0whIGfSK5SM313aVxJM6NH_jzMOx4D1AD6TBxPMxevyFMnPZ-7JbtcnulZcMEF6cVB5CC3zQXCh631nSuSDWDGUCtm57-N6XUpSpl-JZIKeg292iG_pGIZHaCeBUY

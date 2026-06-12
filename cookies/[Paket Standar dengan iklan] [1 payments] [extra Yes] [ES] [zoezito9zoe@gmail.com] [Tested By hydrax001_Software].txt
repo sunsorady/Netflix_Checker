@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zoe Calandra
+– Email: zoezito9zoe@gmail.com
+– Country: ES
+– Plan: Paket Standar dengan iklan
+– Member Since: Desember 2024
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 7534
+– Phone: +34622626430
+– Quality: HD
+– Streams: 2
+– Price: EUR 8,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Zoe Calandra
+– User GUID: NI4G2ADI7RHJ3CWAM7VAPCF5RA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13434034190981687	nfvdid	BQFmAAEBEJWEjlcZJYusNu2FQXYsFLFgsHfyE8dqu4uZtgO-Y7obcWYSNlC6dBQA4CdFhQCYq_w0aynCstX1E7-C7odB5WwdHFN4D_bFiAQXFydl1g6C4uJDlTyGcZ5eP6vnPdPIBZAn9O_nddcGjVmX9IYonx01
+.netflix.com	TRUE	/	FALSE	13451585736000000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+17%3A35%3A36+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d909ed4-b597-4e20-b010-836abdf1898d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=ES%3BMU&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	13453398576959152	NetflixId	ct%3DBgjHlOvcAxKPBJsJuROSdjSZI1NRZOxrOyy8e-VhCCOItMnQTtMQSwFcoVwio8hIzKMpaJqTNCnC3gMa6sCJrpQKpaiS4Y_wrsyIhm3Mx-B6BZXwWmKGCzpfOv3A0pAMkd9XIL1zVwlNItMa9OK7tQRZA4qgqg3J2M41TxoJet4Qg_qWipKnu1p-e-9DRYHboqpx29Z5ahsq3jUm-KtfzdceR3X_ttH35trug6SQjZjc6M1Or_ussJrHYLk1pYIvb5xLIidsNznq4XAnIN9LcNdeV8WPI9szsqUxNJaRl5jY515_Uz2yMkTzQp4BHdbylGXBypRYgGN_t4MlHXHAwnX0gN22DVeodfEY_4zX1NFxp_74rafeVJT0K5VgO2dwRSE6fNJcExlhQzirs-zlYgDJ4puZIKTb8jFlKO0rcwksNxWpWTO3vkN__WS5oAp5PcqzcJ9lHZ8K6hSdLiUUubDy8i5Ugmos4Sbh5X9g6ak4j6SNkK4APAO6tizCpcNc0Kvk3XQd_5gbDCZy8a0Ut7-wfseKUjtHEQaRGe6rgP5EDivC1B7pCBZQv_6esql58ayoIHnSWX-RU_RlDQl5wTWSdcVZlj-FeAtQBt33LKk9qt8I8SJZIOJPPYug4U3U6CxYp6m18Nv9X-jejuiWIEOsYDRIlZhjnNaDI73DCGLUXNdhr5gAe4uCj4VtPEAJ9kXVcxFCSFq7GAYiDgoMMasg_0C3UsPxP2yY%26ch%3DAQEAEAABABTtwKcH00eW1LxncU6zC7HXrv14GhKTbxQ.%26v%3D3%26pg%3DNI4G2ADI7RHJ3CWAM7VAPCF5RA
+.netflix.com	TRUE	/	TRUE	13453398576959120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRf2N03nYEyxi5K9m8C7sK0WXKZ_k5Qrng.%26dt%3D1777388976951

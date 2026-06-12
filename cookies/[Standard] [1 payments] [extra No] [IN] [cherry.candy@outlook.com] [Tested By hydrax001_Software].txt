@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cherry
+– Email: cherry.candy@outlook.com
+– Country: IN
+– Plan: Standard
+– Member Since: December 2023
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 6140
+– Phone: +919949133117
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ramesh
+– User GUID: K6WPHRUUGJDGDPNTT2BBERD6AA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798285375899	nfvdid	BQFmAAEBEOErW4ORDMqzPSS7LeQDW8xgbXyyaySAlTyMgYA21WPc-83MLdd2_UsmuSi1FDc3UOwJEVNbClDXSoNFfA6977XVZx4rTV3raNB--V1j_MM8xA3dnHXFxyyT2UkZ_ukXj8_dSVG3KmezgSfI9c6h5oek
+.netflix.com	TRUE	/	TRUE	1808132573921	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTga3GoGofGxy9X0VE5qSFE8N-93YPACII.%26dt%3D1776596587710
+.netflix.com	TRUE	/	TRUE	1808132573924	NetflixId	ct%3DBgjHlOvcAxK0A6m2lrI7p0JaxkTVoAuNvQ0uo3soXy4nuQWJEao5rKe07e6aJijYdyNR1VAZT5B5r99GpodizZ0C9keot4Lma_bESOgFJRup9FVKht3Zp5YpvTi8ScwLPUyPo8PGDMLTH-k6iSeZU-QtwAQGNBCSULqL-6gnfae3p7wZ7maEUcIOJLGIHiGTo2DpYiyQqzkXiZwAAoJYzZH3v73KZlH-qYyzSIYerfEvQt0Y1begS0ha3tAnUSO1pII93JescXcX5pBmZQP8bLjbEQ9kvjhplWiUMNJWpPi3odO3mObtLqQvIKOibYHsqi9Q7oZvma0x33pVa98uxRy1cRYd9paPRqKDdpn-lEo-ruv14EQvxglpMVBfLP1HHz3MGN_UBPJdczcERoBR0UHOQEQ8IGkH9BqNQ6CvH94An2k1dAdwJ9R7dx1zmlUk_VigJV8BpijIYs--ATx9Y9d7gApzWrs5ZEQepSgbLzu_G1sp_CPRXFnfxNqpSzB6DOGes1EJ3JwyysTRwNCILgjsDqt47sn1bDTRiOb2xKUIY05vrHUMNPeb1UOu5LebiBmflBTfE8wYqzJ9COEYBiIOCgwOLPFE8ovLosHUPfA.%26ch%3DAQEAEAABABTNDidpwJ4Epdhe9Xv8x-F1LiU0cSvS6p0.%26v%3D3%26pg%3DK6WPHRUUGJDGDPNTT2BBERD6AA
+.netflix.com	TRUE	/	FALSE	1808132578000	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+16%3A32%3A58+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e5ebfc7f-c536-4be6-95c8-2d5415be59c2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

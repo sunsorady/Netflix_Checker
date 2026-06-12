@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Titi
+– Email: yirgalemJD22@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5192
+– Phone: +15619081057
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: yirgalemJD22
+– User GUID: W6GACCT4OJAS7BGQROELQIJBNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806135429	nfvdid	BQFmAAEBEC-YCd6WbPQ4T0aLEc4QPj9g6LFTkNFea_Tm_epuFKnSpCp6cfTUBz_B23akRcR9FgMAcweRtknXFMU0AXVtTnJa8tI2h1Q77EDDdsAifyS5BnyI6fbH5zlzb256J3G0FuKzAYLoCUpgOecrcwrGBj1M
+.netflix.com	TRUE	/	TRUE	1808465130	NetflixId	ct%3DBgjHlOvcAxKyAz9eUnQzYqFbnJVKe-VXDk2JCuCaeP_7NIxYfAWTekWWrHNtyQp7azXIZhCYW7Kvo-RzfYDZB0598YqNkv4W15Kg8NG75cDk9SwzdVte_EYT-bcOB8NOnuKBaKy1zEdZT9F8hZiHjvomMhdTN9iHP01lVuOWSYzRBa-z_VQ9PSchT8G6TcNaWHbxFTvHl3UeNrU24Fnytu2Vx0eY092XEkvrgZyO_oov3qxay7rnGn8KT7SzcxyjCLwulym0qJsVwFyrss0V4_TXIoma0NlSx4PLzQMHYalFIsDfPQCnQLxHzx9c9T11KxvEHjpOoeCvtgu-KUJeTdnQA0JLDP5CFRQirPylF_9OekqQRdmBqT3xt9AI0CGe163I_-HpRyNp3eh7W-NGfd5GXT-k6l5whKPTqtHx91xLxkI-cASp7MWqy9TyAQJhlqjLBAZgMZeOp4aPs1qj6OpFgLOfkb7fPcEekFCoqHbzX57sVYFEwyoyICOsu6z7Un8utukC3-FyLSCRcW6cHfmR0qv1tm_tlXH3YQ0KVkpje6SPYe2zhVJzh3cHPY8hJt5lWPCrT83GieQDGAYiDgoMuyCcs8K2_Xr3U0lF%26ch%3DAQEAEAABABSLqxJvA2E-1aFgMjfteoYf7j8mgC94aSw.%26v%3D3%26pg%3DW6GACCT4OJAS7BGQROELQIJBNQ
+.netflix.com	TRUE	/	TRUE	1808465130	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKs2xPBeYQChPWALKZh6ronRYz1kwDsIg.%26dt%3D1776929128349
+.netflix.com	TRUE	/	FALSE	1808495529	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+18%3A52%3A09+GMT%2B0300+(East+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb307f3a-b8a6-4adb-b9f7-1d452e24dc62&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

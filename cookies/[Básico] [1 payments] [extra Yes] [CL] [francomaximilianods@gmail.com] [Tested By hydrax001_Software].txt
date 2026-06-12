@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Franco
+– Email: francomaximilianods@gmail.com
+– Country: CL
+– Plan: Básico
+– Member Since: julio de 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 5454
+– Phone: +56932967814
+– Quality: HD720p
+– Streams: 1
+– Price: $7.190
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Franco
+– User GUID: BLYMTGY3VFDJ3HZTPZ45FTTMNM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1840542231	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+09%3A43%3A51+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=996af30d-a16c-422d-9464-183d97e537b8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776730786354&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1840542230	NetflixId	ct%3DBgjHlOvcAxLMA9-pCKPh-RV-rwFBBFckh0ZNOhwZlIlwR38y8hTz-c7eIS48QAIPtFU_jkrLJnHpojCY2VK_O3mj9puO_czIGNX4Vk-qhEWjkZqVHh7W51dsdZhik4HJOgOUTCg5NblTd6d5PF3VnOqVK84rRep6-e6j8aWbKwSNcbQyIrPJXayZkHuWpiudMCfgr4v288WVWL1cKecILs22RNtl-t4hsLcQy98b6y0o9YY1ZPZEmWt6laPWN20UqWKjvhzJbM0uJhVNvoRsrMB-LIpFN6PU7Jx307weAyqwMcT5NIQGbn7O45uZ7fwkNOj41id2lP1zTTT_DybYgAbV7iRlk3xZwB5x-1m9mDYoim5ExaBrq_VbfWc3LxZETtKqg_5jCSignqzNNfdtMefvqesS7WbvNYtIhkuqkFCPsUZUovojLNBYUQUNox5DAFvgwC1x6FfO_HPSea8hAOb8f-6aby7xFuux3Ughrt4f0zNY0rINP9LH1Ir8k8BmPaA0_Q1mw4OD3mUnZB5qtnKY72vbctr29Nvhfu18HL6TKPs7NnGBJ3JN4LwnyddisC42Hb9U1UFWNvdDm3gQBqUNzgoBzu0pFby8S70t1FhoG8y3Xv8YBiIOCgzCu6VU7alaKfKpQU8.%26ch%3DAQEAEAABABQFYmF_IPLQ0XNNLxyo0xxYozaT46DKy_c.%26v%3D3%26pg%3DBLYMTGY3VFDJ3HZTPZ45FTTMNM
+.netflix.com	TRUE	/	TRUE	1840542230	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVD0VkWqU5OBeW8-HQbSrU6-s3PUh2AUo.%26dt%3D1777383828244
+.netflix.com	TRUE	/	FALSE	1839889214	nfvdid	BQFmAAEBEG7oHYLLNcPSpdkOx7SrJcJggg0UO253rTMSiMLr7Vin25XT5kf7pKloy4pDzcyXzk5yRDymo0Bm2PnUHbQ3cQ9Z5QvWxxYPfZYw_fYgt3tESXilJMFtFQeGMFGErydN8DsG8qXcT6ld95gLSNJMsQXF

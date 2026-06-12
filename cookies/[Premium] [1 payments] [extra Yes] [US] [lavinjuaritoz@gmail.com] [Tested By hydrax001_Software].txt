@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: embe Phanh
+– Email: lavinjuaritoz@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: July 2019
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 0886
+– Phone: +19092926678
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: WASE CSK
+– User GUID: HLUUXLEUI5HEXJXGDODNQFZWHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806687319	NetflixId	ct%3DBgjHlOvcAxL-A8JLdpLgwt0RqGCjIeMm9Q_-MXTbCgSow_MhmGMZeKom9m5IQbkR0OXQGSK8LH5ZRXYlC7rVMHZjwPwROnNtuHs91SC-tF5Xj6BZRfJU6vVI8hwmvUJD7bBc7UnPhpG0sZZMSAGh72RCITVN6ZqCTS7PoUzNzUOxiIOdIuDQPsz98AftH5f2rMPvzER3rm5obvHgY6d2wxwX1yy96OB1Rhl-JB17MOFl-737hbmcgDhs2boK5yKIfC2sioVIlp6-Fx0V4TsguN3wzPxKBuiR9eKpSzDEtumZedx4Z3JWBoMF5YsVpaII8m75jyFR1uw-Bx71rTy4aGoWaHgBOBOweWu0-AK5cVeo_4VQd5yRjQYTZ-PNGbccgNf6k2Cs2_95aKzVP2m_VcrmxVhIWaC7De2VMql-ONMfO6WN87k2tHU5CEAQ_2HOegq_yqxuoJ12gS9dwwjLts_I9TlBbNIgT2g-ayJqjxMfsyYTXcwgda_etZVswyB4bZWgW8NrfEcipxwDVAkAunfj6PggOOf9vT6tXWF4rxNHq8AhCRbLxNAi1ue1OM3TI9Leg4HO2F1I-D4Kj63t73sk84auwWAW3I4Pmr1PYEUHfBXPDvYhZFDL_S1Urco6NQNcB45lt_c5XAhzw9AsdZkfncbq5ghV-uKzqq-otJrrPOxSxDGvgRgGIg4KDGRoggBjPDKtwAb9jA..%26ch%3DAQEAEAABABQM1bhW0LzoUFqX9Fqek2MuPdYgUh8BJQs.%26v%3D3%26pg%3DHLUUXLEUI5HEXJXGDODNQFZWHY
+.netflix.com	TRUE	/	FALSE	1806700240	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+14%3A10%3A40+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fffc63d6-93a9-4880-bd01-33de9f42b038&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1803708358	nfvdid	BQFmAAEBEAYeK_hDMpFyKVSBHuP7HRNgjf0Am4-OBS_5TcKPqhRooYUbxUkBoHG6YxcdNU_Pey5ebSLMagL6KmEpS2s3KrNugDZ8jD_PAmPrxIHX_cUiKvn1Zv7Cf1RJu7sQR8kfU0sfGYUoI2fX_LRXipjXtnpk

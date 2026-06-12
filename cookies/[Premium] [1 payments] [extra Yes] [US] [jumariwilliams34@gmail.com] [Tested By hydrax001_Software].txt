@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mari
+– Email: jumariwilliams34@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: febrero de 2026
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 9159
+– Phone: +12295963246
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mari
+– User GUID: 3BHLHY5AUFF5PMJKISWRITNKXM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809382844	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA3E9_3uAo1IgeisHIfE5kbEYyUOq9K1X9wrVIbNoMIyOVP9_po-JDrgB1GRvV3jc8Da4L62SmcCi2G4yx4aUffAobWzjXUmVUnFCPmcKjx_xWytv7agnBWTl4aktKQsXwby-lehdsVrB1Ehql5y7cTcQGgur2SPomeCKO9IP0BWhLfhnoKywgghLsavru8HPvSauek6IjjsVA5zbgXp1txY_Vp4l-FoYq3_yYQVDIfgQR-qTwPXZFVH0WPuhZI-BBelzEG1ew7YUr7fcpZSen2WhyEgeJ-eodUwiYojcinKSmAJatKewH9UDz36HDw0CUYQi4JQRWxTzOdzx5IRGLCitw7CdswgXpzKsKWbtn__oKVnXkiAAz03WkgaGVj7NNmtkRgWoI_3PYg4qc-y2nYqA_EqnGYhvZlYwUSF5M4wClIIXTXorx143HvA0__8mAygKj4bkgUCLgODUT4NXJMg3WxIJZIF7KvwJpdnKjW3P7_Z9JkJEXC58C62AGePhLnEVvGRBQJt0KriatiS-dw-WZK09uXNeEF1gtC0YMqS2CxgGIg4KDOWlANJkcczwfgly9w..%26pg%3D3BHLHY5AUFF5PMJKISWRITNKXM%26ch%3DAQEAEAABABRHLLG7cLpGq4G2b3rKPgto24HPtufEC6E.
+.netflix.com	TRUE	/	FALSE	1809382844	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+18%3A20%3A44+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ea9e192a-19a9-4318-893f-fd2f5a24d5fe&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777846590851&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809382844	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRsus3e74YGdtSRAg3-N3WjcPgewHp09Mc.%26dt%3D1777846843964
+.netflix.com	TRUE	/	FALSE	1809382844	nfvdid	BQFmAAEBEH3W0y2IM9R0YnZSjHjwrBNgWuAepkr2u1P8DCiJLMAtRCmGkr7EIG0HlXRx4pQ3VfawgiqaMooBRKcBtRSuS_lcw2TIYHqCUiAqkHKa1GhG3UrZV4XxIk5LtPY_EBVT4XgwePCXgvwdcZ8QGqocy5-V

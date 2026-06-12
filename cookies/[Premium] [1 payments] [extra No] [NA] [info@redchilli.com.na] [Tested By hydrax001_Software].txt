@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dj lip
+– Email: info@redchilli.com.na
+– Country: NA
+– Plan: Premium
+– Member Since: October 2018
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 9990
+– Phone: +264812417013
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: amberlina
+– User GUID: VJCHCRCDMJB7JFXIZN76XGUXAA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787678695	nfvdid	BQFmAAEBEAN01U6v_4kU7iUTCB4-CzNgNqaUM5FirBShUYGrV8rxacmRIAvmJoOPdM5HE8ur7q5vH6zRuSIx54rJalm2PXBD5y3Eckj5f7fP6iJ0WbRfX0Edzs0R-WbP6jdCFX5mVqYPPW6oxiRFXcwY7rql-__p
+.netflix.com	TRUE	/	FALSE	1789318941	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0y7WoiOal9Qc_L6IqdJX7VTgGKmYmoeQ.%26dt%3D1757782940701
+.netflix.com	TRUE	/	FALSE	1789318941	NetflixId	ct%3DBgjHlOvcAxLeAzzdhOH2n5zQbJFb16k0nsHeeB38inGv2IkqC12c2F1c8vWf9--njlkBijAOMZsy7onSbTVk5AF_pDYMXzfobn7dM-RM2jxKbEF1THRN26h-FAvaIuASC5j2fz0nJiACFJ6yjcGmDcj3zn1I5e5RYgK-xNmxzBTfzxaFvZshG_VV18YNS-wQ5OiKsFIwBzORx-nFW629jmOqlFPfZfEakfxqhu8KTaxNZadPIRo4TTf3ZgQXnEyXT5p6iRZJBGTPRnq12B92A4q-9HOqizlcIftifrB507lYfLDlYQkyYFggtRC2OE6W8ml_RjYabAtHdO7rGQaht8p48Q4jmxdgNKhfUBeZmUVZzo4NpnsPMlsb8GsUauI0Kjb481arldGYkbNzJSy5kbaO-SabzDsopuqjpui42gUWuiTK_6w-jYjECHsrlrWQ2U8xgsbik0tcnmntgZm8pcIREyJspF_biZwOKdK1279O-40-WzU-zW8_wKey57TP4zEkK84awgxohNWRVH3AkpDr4t34NoP8FSOBkK4yBR5AWZAtS7wo6kr-OJ54LIiOPNSqwNeW8o_Ncby4JDN6ALbTwavPzSK2ieW_S0r2dWia8zIltjimJ1zs2HWnOKii9AqttfZ48xAYBiIOCgyK-k6Gh5qXeMEoEjU.%26ch%3DAQEAEAABABTU0WHUQDhI5CIJherIUnqqFHyoJAyqmQ0.%26v%3D3%26pg%3DVJCHCRCDMJB7JFXIZN76XGUXAA
+.netflix.com	TRUE	/	FALSE	1789319014	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+13+2025+19%3A03%3A34+GMT%2B0200+(Central+Africa+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5ba1447c-b476-44e7-9cbe-acd4a23aa96a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

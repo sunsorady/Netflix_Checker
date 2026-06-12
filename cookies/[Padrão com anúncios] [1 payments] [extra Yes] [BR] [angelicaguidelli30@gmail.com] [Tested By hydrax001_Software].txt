@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: (NÃO entre)
+– Email: angelicaguidelli30@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2016
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 4732
+– Phone: +5516991156569
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: (NÃO entre)
+– User GUID: 36TK2CH6QNAJXFJC7QRGMWO6HY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806618649	nfvdid	BQFmAAEBEHy1W2jlwBQTvkROJTDdnVJgr7XQBPwPoL3KHSYq9kL9RHTiAOZelohLyI6LnQRF-gwXSz55CvtUyf85-DWSMLu8xxlUEgmoXHVJxjBx7NiwVk5Be_sIpfozHLeA-nyWm13xwr2WKNFyvqKO0dUSCuLo
+.netflix.com	TRUE	/	FALSE	1807752872	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+22%3A34%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=85569636-7200-4873-8f44-f69f4ba60477&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&crTime=1775082669918
+.netflix.com	TRUE	/	TRUE	1807976111	NetflixId	ct%3DBgjHlOvcAxKSBG40zZ6ZJV8pHhtYbqiRC9yCkwWjneUTFLmWUv84wOPKcnx2jH2WxEBTNDbgLtr7gnUFQMOKUDyCVsrC-RPfBmnuqVse7rq6vLtaMJkKe-V-z8gsThKaIdTOtlUy9IinfFqGbxq8NRarPJl0EwU_Va3tpDXDpYfX1-mUKnpXjUqrUxOoyayfi8Xo1wQ2pn2yq6MGSPVuCE7SY3IphCZmAz_RrloyQvqeAjIApPZf7RcpodUnx98Clj4_y55m9syPUsMweOMcEqps31HijvKfHlmvaCFVBheFwNAq6qQgjgE-GLhGF1ccquT9h5fmcbHfS09LfB1Sk1FUJ2dQ9qvTxeDf68itJhGVAvZkYc0CM5pieZ0CVdu4IYQulKiFka-QKNOYMFliaty167qEuyagVPaDjJIA36XNmRUv2cPjep0AXhrMvC3tr3uJ149zQdxGAmWoeOyuDNpAy_9X87g0_KXOMiGQbjLlEQbDHD6241KwotNO2Uf-dTvXJM0X5BXE8JzNwqNIHt53LhyE0glFLQKZocVCzA8jYKaHDxuHroxuC1KeoaeHVrESwUfQk4_nTUaRp-bCs7uZLGpfgy_iJAgLuVwuRQHmNWrDhe-nUHlb5jK3wlBo8jPD5RKGBMEnmuxC4cIZ26N38OaB10-_QoL9-N-c7MrUYQniKVQFIZBO-wkiv1rwDqGkqc0EEiAvIr-YGAYiDgoMaJSvBHXYM783gK8B%26ch%3DAQEAEAABABTmNgMxs8do5cGKhcAxpJJ4eHZk2-CCKbQ.%26v%3D3%26pg%3D36TK2CH6QNAJXFJC7QRGMWO6HY
+.netflix.com	TRUE	/	TRUE	1807976111	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBt3sKwjHOVEDF9X3tReQcvcKlLw07cyE.%26dt%3D1776440109799

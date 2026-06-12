@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Davii
+– Email: osierra.ovb@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: marzo de 2025
+– Next Billing: 2026-06-30
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +34637370773
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oscar
+– User GUID: LZDY6JPUCRGJFJL7SKQLA35TZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806611449	nfvdid	BQFmAAEBEAVVy1Neuh-5OLOfslyudItg7PItP4KQwMeCKIzP-LJzVxpn-0hTicokre1wZoMfMbXFjc-44YgXjK0IMOWMBahITbMb-DHWg7pshmDoJe0w9seh5k76xIktdVroODkdGiIlTWQicLGkh4KkBQjXSqN3
+.netflix.com	TRUE	/	FALSE	1809098369	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTb9tx77pZ2A78o85L5yMLiUKgiadyIiBo.%26dt%3D1777598464312
+.netflix.com	TRUE	/	FALSE	1809098369	NetflixId	ct%3DBgjHlOvcAxKFBGxBg2sud8MBHESe7Nv_pSmHqBJIoVwqFEDJ0C5te4lqrJRJTdyAbC10FSsaHnwZ1cfyrWiE8m7s6oWtuSxyx2Bmg4FrQWgtEKjnqPckXXd0wOf1_YhNK621C0t7gTW20xfz7tNpMXfQDlFrRkVeMJUIjgufkivCaLlyCgqKn-yzf8r3fshFvhVarbJoYbH-hTKm9FGQKs-OfwhQaiLmUUjh9J5InvF3CaXQUoEO9WySXhIkLgEfDmNcKjpSpS-x9WqjoNkBJnrocWEOZpC_PNxjGvA2efUUiu0xoeGifDPhV3tjN4Jf2CLND4YqvGxZJ-ArL3dY4hlWT-Wr6xyCk1v4Nese1Zmgziu0vIAWJTl3zJKFHuzpi7Zmng5UAnhVWxPtL4Gkuu8v9nCKPTxtv4LKV18zKl3Wp4s2bKaqac5lCceIXgAwb8nMB04EGp5EMKo4xgzU06WRrN8fjvlR7wDubh2yo9WfTBbxqrXZo52UwkiNBHtYY7RIsHDYP0sDuJXxRTtVVL-_-bhtfLRXmPiFT7t240Fu6-kTc165huN2QhoFV3_jhEx57sK5f2NqV5QM0mytfb7dmPr5eE5-3K7AjgsbwtCBx7y7TqdsXTsvoXTMUtoeCaE7FM6AOjz1-VvAN1PVPgvw6-ciPMfRyTpZrleubvAYl-7DVU_peFoV9wE5QxAYBiIOCgxz9XjiaVPDHsxGkIE.%26ch%3DAQEAEAABABRg6FDHpPlprbfPE2_7et5C1Ni4kW_X62g.%26v%3D3%26pg%3DLZDY6JPUCRGJFJL7SKQLA35TZM
+.netflix.com	TRUE	/	FALSE	1809098373	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+21%3A19%3A33+GMT%2B0600+(hora+est%C3%A1ndar+de+Omsk)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2173e8c-c410-47f5-85bd-37a5f58f4d5a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775075441695&AwaitingReconsent=false&isDntEnabled=0

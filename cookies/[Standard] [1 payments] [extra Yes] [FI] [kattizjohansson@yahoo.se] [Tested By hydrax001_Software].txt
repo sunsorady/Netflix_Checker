@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Elliot2
+– Email: kattizjohansson@yahoo.se
+– Country: FI
+– Plan: Standard
+– Member Since: december 2015
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 9150
+– Phone: +3584575684072
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kattis
+– User GUID: MYHFMNLF2VC6FO3OEQHEGSASME
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796316034	NetflixId	ct%3DBgjHlOvcAxLOA7h1wj2k_9NBhNsZtgBb2iQrUn-Ihxk4eaZTbfNmz7_HUXjOIPRfni-3qwfKhS8Ma7Eix0LqIFEg_D5Ux4fqkKv_YQYk69-FctugV6GXKu6PnL5Djdlc1EWMEbIK8LlQrnRm-eApZ6tXvJ9UZFiHyV-XFMYaaQ9R9bDXX0DW-vSksRgrAdg4hEAwIGPdUsnagEs00lN2M57q2zCqB9UxPPj_xnqjue_DwgzG2AZ2-UabEK0fef1ILnfeW04TJE3V0aIvhaUYRewwbms27B0P4be4H2izZcSDCHpTOIuNPu1hk-e5L9SbihF9f29LPndGI-RrUjlnFgCuIdXmjjmYdN3woz_IS08ZafRm3RYdho18cWXhWkPZHe816FPG8MAWz6gAiNb6tzJFsIpMXwhrF5lG29nrOUo0jOvO96IB7BjgTML1hE2w-fOGt5ro4ZIyo4HcrUValI_8uq64eIYtrs3aRVBOdRxyIp96wNOVQP2sXSonxzyQWQU09esinKtMN46ZTfJ5ArspCi9v8n8BwLl0oezk6WIYaR2RHLoc5zkrjydewQat1jjoDKrD8EPeAEmLGRl_Juawms-_uNHB3r9oyIJJpJ9BbpENQBjMBRgGIg4KDLxkg95yQl-eN83RWg..%26ch%3DAQEAEAABABRrZIBzAvkl1BzriW9__FwxTHMJpeqWRWI.%26v%3D3%26pg%3DMYHFMNLF2VC6FO3OEQHEGSASME
+.netflix.com	TRUE	/	FALSE	1796316037	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+03+2025+18%3A40%3A37+GMT%2B0200+(%C3%B6steuropeisk+normaltid)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=29d7017b-04b8-4bc2-81d6-264a2694b13c&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=AX%3B
+.netflix.com	TRUE	/	TRUE	1796316034	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKwl-XwNyxd8NWk_WWq_ERfoZMyzGeads.%26dt%3D1764780033341
+.netflix.com	TRUE	/	FALSE	1796316034	nfvdid	BQFmAAEBEJtt9_4vr80tDZDsPetfWRhg5hmjKNx3i4Q3BFuBm0J6n9CB8FBE8oMn4bCr8QRoJL40vrtt4wgezFxdizNVd5SnXbzZnWUIX8TAFWtwHLy5wtHbHCBgU8JhpdvIMX4PYGHHKWtiSYiTRKPdBdeLlIyN

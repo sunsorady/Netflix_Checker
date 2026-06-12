@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ujjwal
+– Email: montag786@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: Juni 2022
+– Next Billing: 2026-06-25
+– Payment: UPI
+– Card: N/A
+– Phone: +919643537068
+– Quality: UHD
+– Streams: 4
+– Price: Rs 649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ujjwal
+– User GUID: U73PYE5MQ5CABMWEYP4FZ2TOBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780908199	nfvdid	BQFmAAEBEP20z1k7ejDwRG04qKmiXCJg93fT-fMRoCg1Qu2kgG23EwxH0AN77Xl_F5uITiQcc2q1ykMbTglcl9-SXYFk72ONUwZq6i6dwUL_I6brQr3i2ZIksk9MijWzH6tm3r5bsoBFtvuHJSnIKHaGWw2g0oiZ
+.netflix.com	TRUE	/	TRUE	1808583965	NetflixId	ct%3DBgjHlOvcAxL7A_atYby3g3z6QkRy5aVNnqCTgDPSrxmn59-9QcV-6-pWJky59n6GYkEvF1EPVgiEYlz4JM4rAjy5kUSZC2ZvZaN03Hv2FBMMmrTXuGzV6JuJ_-sAvH8lih6g12dp6auH42x07B4JkdwjwX9HenKCbSlea3vnVzIFgDGKF8toF3aeAvIvW3tjp0Kt7A1520I3rV-YBE9YPyDcSnkcfZ9FDuzABGpcJoNhhDTiCwpQrTwosOnJLSzIN8BNfE8AUyDtHkzp3dRmxYNA0lkYhwJXP6cQDtB-IHG8BjudLT7WXka42tlAKU9w4IxXvcur_FYBPQQpVSEFUw-AX_MfiZHCViAr-87K0FeIiliU-TBmflOKEisIaxrInIJcYcQ_zo9TcyMUua7IFuiKVYpyzuTWRPlIvLUJ26YAe4etOoTrRchSqMYdzkzaKmbhdJzKUTWuGMEhHqpN9Lv6zx5CU1mxO29GhBlGQTzN1N5pw-giJeYkuo23iAAMFgoQpTRVlTS-sf1YIFn0IBJcILBIuw0OGrqGI5GOVG08otsZl2yYRflVudPaNLyZZWHDSHAtvhLIBYcrftft9DnbJFGOFCt4N0jRouAFQKFnYROAZICnIl1EtNkP92VjBzHVihxw4RYoMNd9W_lNlh0UUUoqZLVTinPiq7rKYIUwS2ftSRgGIg4KDPAAPwVTRYFXBXaldQ..%26ch%3DAQEAEAABABR02rOTJWS3F9flJ9jZ_p3LTGovNU6_280.%26v%3D3%26pg%3DU73PYE5MQ5CABMWEYP4FZ2TOBA
+.netflix.com	TRUE	/	TRUE	1808583965	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQa9wfcIMwU5-q6UZtKMj6kqstnbds_cK8.%26dt%3D1777047965337
+.netflix.com	TRUE	/	FALSE	1808583982	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+21%3A56%3A22+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7b092e3e-cfb8-4bcb-8c0d-1b1917609c60&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

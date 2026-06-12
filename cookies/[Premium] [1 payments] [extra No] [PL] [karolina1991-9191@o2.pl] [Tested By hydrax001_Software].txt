@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Julka kulka2115
+– Email: karolina1991-9191@o2.pl
+– Country: PL
+– Plan: Premium
+– Member Since: noviembre de 2023
+– Next Billing: 2026-06-16
+– Payment: PLAY
+– Card: N/A
+– Phone: +48576767752
+– Quality: UHD
+– Streams: 4
+– Price: 67 zł
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Julka kulka2115
+– User GUID: WUFUX67OOFEK7HP2ST6OJCXPMM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807410037	nfvdid	BQFmAAEBED0F3XYM38QNg9GhFeePbPlghswBBmk9zT_0idQOzH656n06Vq41jBbm1eKZjZEvwRuzVyC11fHK2WpXNEHlB-mkW8ZdJqYUmGRHCoVUi4_mqm6Af4Ev0DON0kl-422UVUgHzyZ25QkkuykfaJwMeD1H
+.netflix.com	TRUE	/	TRUE	1807528376	NetflixId	ct%3DBgjHlOvcAxLUA99Qt2kPFnVMkpsi3-TodK4itf5CIk1OkwWFOKhjf7aEIYNssQtK0kbcMz1HgLXEjYE2Dn2PHgbvQRUid6oiFBLp1Z7sdZrjnRlU9Thspq9c-lFk_vF0tPskZqv-i1f4BMGsPfeNdm0TXzL4VIfVjde1w_QbSgz5hbxhir23NumDewjXpct-jpWlVWmevhOgNYLSjVYXG40H_8Rq1fbhgaSL8NbcuTEufsdH_82GRGfOU_W9CszagJTATQpgQlMdaHfiEerf1f7xqZpzx34cOFl_wEdEJUJ8v52Tg8aqGJcu8CihKOV4Zg_iKisgy-K4by-m0S09IxvBtbkVymEIO6edF3J7oxBldF0xAsLlmiRIdTLYvRlV1NwxJzoxYCVlKUBRNIqioeqkkU2HXcsSCh5euuikpPO1j9RiNJIhGM4VigENphYTfJVn6VBPCPJcG-zBiWS1cJYehAAH-KLjTVXCrnQHjwHtoz_-ALlXnKInh4NBlCgVMvNssnkjKRSYEfEPXiYSRc-m8k4ZfF75-zEFAce4jVFFphBP27PGGIcEps3PpXlFOqc33vdIMWmJqMD7LmAQvVh3IvbvqaAQFcyBspYF7Ju9NHVFV6Nmqm1-NIR2QRgGIg4KDMfvkfo8WHslEq1THw..%26ch%3DAQEAEAABABSxeMVeW5YOkK1lFCdru0ZvJsgwYNG7zbs.%26v%3D3%26pg%3DWUFUX67OOFEK7HP2ST6OJCXPMM
+.netflix.com	TRUE	/	FALSE	1807528377	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+13%3A12%3A57+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb8f28f5-1386-430c-bae8-3bc12c00dadc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1775873966335&geolocation=PL%3B14
+.netflix.com	TRUE	/	TRUE	1807528376	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJfJSjUCyGf-w0aEoOhfJCQHQdwq7Tb4M.%26dt%3D1775992375461

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Psykopouak
+– Email: mavilochca@free.fr
+– Country: FR
+– Plan: Premium
+– Member Since: avril 2021
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33767006142
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mavilochca
+– User GUID: AQCM5PRC2ZFCBNQXWF27IGXB7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792691946	nfvdid	BQFmAAEBEBdWHRXVS_n39EFKGBF5m0xgZkA0Oz-hgh6dhTs7qYeM1c2cXRO3nGFHXojRK97Mh18CYN8RWFw2-TWBZU-pf8D5aZKBsvxNifS5Jal_YofUiv7Ps8blI9Xl9aZsLoDTmhoUYu4wbVGrpzESbCwdWgvh
+.netflix.com	TRUE	/	TRUE	1795452288	NetflixId	ct%3DBgjHlOvcAxKKBOPs6wA2X1dfYue42d88hAUC2tL2KbXN4NmxjevCTtRuEJgdRMEPMPvBvFfSmzo9PzwD2hvropVrd89Plkh3egbHYic8MGEz7GDi4rJ9Ztyry4BdUdf7-f0uRyh_LG7Ry5O0fDUIMIw1WV7pkvnzgP6J_sYzHZbpR9Pp7N_53KNA7-y8VTx2yLW6CaQBhgzMVh5BUqDWW2AsWbZeVa5z1sHJ-bW5j3N4id_SptUH-BbDyBhZtzY5ALNaulWOeZtJmROQQ0Atv3HX75jU_5RMu9si2WoFZdVESd-_UOeNncNMm6QlVBxpWLE2ZG3zVWYZerAbWu17S5OdCKkUZbMRnwnE_oWPcjFbegs5op0AhorIf6fLHg8XKcVl4qhA6WJh7AGtRiVqT5vn0A2x5VbUq3U_pOQWVQstI3nh1OVWC12oeLwEbmoPQRj4ynr_Qgv9zpJVGT7Q40ch8SDuXlUM7Tx-dgtGU2BKVjGUKao3fpTTuGXfxysXB1tRwBz3MZ9UNfIg0LPN28_lzFY6E70zkQec45X6WbW6M5_s7KyvOZsRhZsMVNtZNfjfUJYC_a87fzxXnA2YR_L8c2eJqpk2pNuW0WNLTGnQehyTcMPf1wdwPzfz3m5-FWOkfe3KivpZtud39KiX1OGDC-oCHvK1J788U8j8SFbREDcoLXTP1URhEEF1W24yyX3WtxgGIg4KDPermUinoBtpuGXQNQ..%26ch%3DAQEAEAABABSkNPCewRlCl2O6i-ZHylNhOAQz_iOQqyI.%26v%3D3%26pg%3DAQCM5PRC2ZFCBNQXWF27IGXB7U
+.netflix.com	TRUE	/	TRUE	1795452288	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPMjM4U6CV7_8KZz5XphA5vMAFGXREN0o.%26dt%3D1779900287731

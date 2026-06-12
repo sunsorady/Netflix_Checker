@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: djohnson19
+– Email: djohnson19@live.co.uk
+– Country: GB
+– Plan: Standard
+– Member Since: September 2023
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1781
+– Phone: +447506846403
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: djohnson19
+– User GUID: H7F7HXB7ENELRME5WZVEKTCTEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3817563048	nfvdid	BQFmAAEBEBp5IUJ0CH6sQZDnq5ro689g73KYHNVHh8osmxulkg23TCMFLV9qga78OAS6qV7hnReV2Fvw581rgTOL3uNw_ysyODywPxo4cvpW3rLrtjxMrayHAdf9xWW_Kp6CIzWgRBHh92emOqjnLrSot1MuJ39H
+.netflix.com	TRUE	/	TRUE	4214107083	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbxiCFvVSrSlP8mh31FuBKMSSdrYgn9G8.%26dt%3D1767974436944
+.netflix.com	TRUE	/	TRUE	4214107083	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AtIxRXRl8dXE6wi2kFg1o-D6eCDoiIUpLh_KN45_Y-kK7oEPwqdZRB5ROw2dYk0f_jgRuaxdjXWGZ8y1HQTWuz2UVWAJ4E5Pa7aGYxirxzDrcqPUVC_LCOMP23hZ7Moy764jwrPDlAAS3BOoF8jVIbofoGEUmdEE1A1JZISjlMNjOMxGmc2nKXSwLZfUPepdcocN61Y2wI_Iwe99foBxy6N8nuqorAJwn3JM7rQnDd-i2qHxb71Sqyh0eKch1RGfhJVUJbzrYpwNFXaegkNsEcOTYQFwypWiQQHBW8PqgqugDPgtGfKcIqGLEiUEy6W-qKhXDZg2DkYy7VvskxszWfNhGIf2nJreu3IzS066C3bzESedbYwg57Q7-lSBN9iidUxb3JKLR-OenAhIEaoAVofBx78doA6dDzHlC6AT5lxaPTgvLSrHY9XhuqCELik1iv2C3hxVWiSeVkF3MSuUUZOxXyu5EMt3jWrLusToRPEm9Il6MKzQ85cgg8V7GAYiDgoM6qI8mlZe62vgQt9x%26pg%3DH7F7HXB7ENELRME5WZVEKTCTEI%26ch%3DAQEAEAABABTXR8JPxcVGklej-RYkHySSSgtJ14nM_1o.
+.netflix.com	TRUE	/	FALSE	3347785855	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+16%3A02%3A24+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&hosts=&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&landingPath=NotLandingPage&consentId=a8557031-6160-49eb-9ca0-bc602f5e85ed

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: romanvibewichtig
+– Email: romanvibewichtig@gmail.com
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: Dezember 2025
+– Next Billing: 2026-06-19
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491727326275
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: romanvibewichtig
+– User GUID: VMH3NQTENFEHBBH272USDO6CMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810155637	nfvdid	BQFmAAEBEN4dxyTh5rocnG0ojM2ulGxgXfNRX_aRRmGES4nkczzf6kuVVM2URyR_1yyl-yEeSeTTs56lnoAO2o-joGGIbPuQX6MR_nPbEvgRhD-fXK5z8hvmt2XSdSiQ_17tpXj1qdOFmZfONmcaQICc5_UOpKNC
+.netflix.com	TRUE	/	TRUE	1810214305	NetflixId	ct%3DBgjHlOvcAxK1A3-qO85PJBRf7I00iuL6r2I1LehQSSQjQ_aIbvvMRHsPkghilT02_tKQAZ93PiO9SwyYpxPjJRLUvdIHW2nRsFdQ-Pwg0qThWwLhgWb07wO759iFT5qEbZQIWNEPYi8WIyv9Bm16GixsGX6UxI8dte57AS7048JBTdeFH_507n-N4dOj6Pes8-C40iJLUCwPkX6g6A_ETjfWAdig7uDwDoNA23BP5JAawtA30zWfGJTKDB-vcNFVGU_HFX0glqvVL9Ip3qqmd0omcHqjzjGcO8K1y0661wbl9AQ59v72tmRpbrjMq9eLNgujBkiUpK6hirngoDr4lb1_3-hBbiQ7T-uDiwadOTDp3LmJZffsw9psqGK1xctJN9tCtaSRNZN5mVlNzPLfdLFIF4r-FGs1dsuYEn0Qk56uEvwHvM4eMeM5zoH-w0RD62-4xkvi1TUUjhBqY5abR3Pl6dfj38Movz5zfZCZIPmf73PtUv63I0wC6C56gCnHpDLUGy8nsMbLWcFhQa2wkyriwGSQ5vekp-BOn81bXbQJmY7FxWI1-eFMmqleYA2keDLoUX_d8H5rp9JxTufBGAYiDgoMNwSZxNQKnX43FlhT%26ch%3DAQEAEAABABSMCFxtFcvpO3GBBOAe0hjo43ePyawglJg.%26v%3D3%26pg%3DVMH3NQTENFEHBBH272USDO6CMU
+.netflix.com	TRUE	/	TRUE	1810214305	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3pXAx-OSAjqKJkJrmJ6utnfZ00X3V48E.%26dt%3D1778678304089
+.netflix.com	TRUE	/	FALSE	1810214548	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+15%3A22%3A28+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=119d6261-3c66-4333-aab6-fd32c9c4c93e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1774186785326&geolocation=DE%3BNW&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

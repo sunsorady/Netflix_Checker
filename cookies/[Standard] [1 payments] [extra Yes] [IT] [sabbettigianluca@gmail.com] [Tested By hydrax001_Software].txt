@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gesù
+– Email: sabbettigianluca@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: maggio 2021
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 4967
+– Phone: +393518510212
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Betta
+– User GUID: TT2MEUJECZDL3FHCOJHG3JRRKU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785875459	nfvdid	BQFmAAEBEBL501BWcn46Nhz7aJmHB-tgXKzlLbCPPw91IC9AdnXz4SE22T7klafb4tqINIyGVhE1Dph7khxAahnsLlN8mdMyRS_ztKxtvbu3kqz6Ppih6fLkeYm2dUJG7WHkEUJhFGQVTRLRdtaKU6LixcJ3j2VV
+.netflix.com	TRUE	/	FALSE	1790115184	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+23+2025+00%3A13%3A04+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c96b8673-83d8-4dcb-8216-84d1c98587e1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807959362	NetflixId	ct%3DBgjHlOvcAxKDBJxUvH869v1NTkw4ogUWiQc7FqoN7WSifj9lf2tC5Pw9SFouNByClICwjwg3NsEn-z7tB5rot4wZ38_MTnd1Ikel1YxWcSSQmEGIWL-huSQrOzYh_7_tj229MlktM1WpSTiuMHYeDwlmz_p67aoN6SAgWR9XH0VNBPH4qjimdJMtc2VuIFOBbh_ums8BDDLB5ktrdncoERFy54W3hcLtZP8SUfCKgAuDwoHSBZ_wSMCXoMJFABI7maankQnvIP1MZVgiK4_gD1XmDKLFO9YJmXHlp6BJm6ACDm6Bg5NUQ_Zh8ECe4_1P32RNnq9p2SYW2du6NjkraAAtqV_DWU6exUtsorkUm8OqF2d8TtdxD8n9V1pTaPTRooWxYzGniTp05CsYwDRQTML6IEpk2jd6pZkwWPYQpj-y6k6kMHo6aJHQfMgzDg6JyBXQk85mf-vlANDlUS1NU_ZvwZ73HNF5soyfD-PTMzkrHlid4QJDEeGATMBJSNXOs5bm4ymK7BguzHOpUHC4VsK9huAAvtDzPiqvLj56Bk1gqTnte0zH9ot70DytvqdjmITCrqZjorQWh8TsNLi42y20GLsvpCG-Tk2pBJXij2-BUiQZNlbKv9QfUE-_zA5ZCM1P9D8QlAja3HGwAfx0meKe2jLvOgqIE47Heh5enH3ety_kAwup8IgTCCntGAYiDgoMrd_-dY9uYC467YPT%26ch%3DAQEAEAABABTFgnpD7ClqGmXbTiIKatlr6zIu8Mc7bJE.%26v%3D3%26pg%3DTT2MEUJECZDL3FHCOJHG3JRRKU
+.netflix.com	TRUE	/	TRUE	1807959362	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAafXXq6owfUZGt6sOHZoRMqs7hIrtLLM.%26dt%3D1776423362872

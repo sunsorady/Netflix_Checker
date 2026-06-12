@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Theo
+– Email: renardtheo82@hotmail.fr
+– Country: FR
+– Plan: Standard
+– Member Since: October 2021
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 4556
+– Phone: +33641102646
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Theo
+– User GUID: TYSTETIRHJAUZPK3D2MWEZXLZE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808012799	nfvdid	BQFmAAEBEKpYT2IRd8Wj92xkylgqU75gdAw-Ooyd9BW398iUQuHtX31ODDu2fxDHfbHV9FByuURyAsgUHOX4M17Omcf2o0cmy7yumXDPXMKpLccVpEwLjK8sBe-B5hRUIzzUA8GaKqSesvSWvsg60GgsweF0tgAV
+.netflix.com	TRUE	/	TRUE	1808065812	NetflixId	ct%3DBgjHlOvcAxK9AyJx7TOk09gHdaQZg6h8nmgpaiDAN-Auw8DR-yQBFPodr1zdcIKGcEPCFHCUnjSUe4CKeN2o78XJ0SFywEuuDfKuDDzc0vFjiLEfplLTYjd8PjqlKA110ACt9kfNbGQCB8CNl65Cd1raQKQBkF4Jm_qWcUNlVmpk6FO3KfonNRzkQ9U6CR81ORbKpx_yuTu3tvMbzP-e5S_iiuLvevA4QEf0onZOMCv4aN_-jM07N03O7qvuB05E1GqLcjy5p5p0aUVXyZNONGMlm_1KHI5l9TYK1KEnoJpLnxHkhbRWDYo5eD5RpfY8qPLhC3BeGpQnpmr6KEstUa7kjoZLLoxvk2h42MYnXF3yL5dNrG5UNZ-Ooxh9zVFl1--a_FPZ_OOMMhxPkNk18Uq5Gptlc2OMFbmCvgVEBhGVELDgx1Uj9m6NKu2Z9BSmCeQWCN1X_m8SXRsTgOpLf6OFyDS9yWCLr3nHS89cfePm8p_npEPqt7QIaPovzLCsI44vO8VRhd53IZqnjMQQoXzUJjJ00E-3jJiBNYQevB-VJAMp307lASlK6KuTHQt_2Vw1KM4L1xJyVDEQ_8OlLstiWNO_yA4YBiIOCgy_qxuXyoA562QCYYI.%26ch%3DAQEAEAABABS8LcApmOFrSKdyi22D1jSUQ-rcov9RLzQ.%26v%3D3%26pg%3DTYSTETIRHJAUZPK3D2MWEZXLZE
+.netflix.com	TRUE	/	TRUE	1808065812	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTixPT54aSuSouXgrOnQLo1Cq3_5f5mgcQ.%26dt%3D1776529811551
+.netflix.com	TRUE	/	FALSE	1808067967	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+19%3A06%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b4c6747-9996-426f-ab3c-832fe2fe6fa3&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1776476757226&AwaitingReconsent=false&intType=3&geolocation=FR%3BOCC

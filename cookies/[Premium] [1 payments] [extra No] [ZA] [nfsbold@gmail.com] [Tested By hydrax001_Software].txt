@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nhlaluko
+– Email: nfsbold@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: May 2024
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 2444
+– Phone: +27724050309
+– Quality: UHD
+– Streams: 4
+– Price: ZAR 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FAM
+– User GUID: SJDMVFOLAFCDLA3S2EIFXFV5VQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807724073	nfvdid	BQFmAAEBEJ-BrhOVN_Tanx4X646WHctgxIttLGbP7TtZ-dRZo6H893NYoMDwQgsVbnjXZ88WAfKUU2jJ8M-Vfc6zKWdXbhTADYqv6Ysf0BCKOCSqtjeUT6YlazQ91Q-p0iTuA72RzFH3KDdUllLwY9a1yFalHvVQ
+.netflix.com	TRUE	/	TRUE	1807724093	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA-345EECAGlYM6Uo--HLKvrjODe04ceTT6XjhugyStKdrx0IlKt0sajdoD0nCXWFECRyKeeePzHB5berYnBvkTeZmaoyNf51bv81oGBJ7v7qWNz-9FXBOD7LLxzNaHRgI2XGOJ3cnkmjhekpl02AC9ihboYm4j9YtIsI2EHjWZB3Vfb9SCWtKIWSA0XWJM8uCp4xR7DYpGWtwJg34k_BR90v4OqDyk3Rmc7GUwkwmioW8nJLi3r-3c5CyJjhiIudpqG0FvWHBnkHr7l52nhTCMiNiXpAfTOooqBYDfujOGa7cOtIXlFkkZc6N_AESmj1-KtIg2qA4uWSg4X1Yk3YB_OMmKv35Ade9Cs18oFbwDvcCZbznFj0cGsMIs6PXzhQH-trUBmNKEQK5mm_tnpB_YGn-6MPrdMxMVxE15qXYvtlHAFikkZ-so-WTP0QEXY3f4JH3U5TihnKKQZRn9fVrlVr8dAEkgR2jrpN3rk9zQWklk-7l3r9ehq49fci6EIcMAqYo53sHrSUMBPnIQZRInuTr0p00VbrBM0Hby0YBiIOCgxoDBoRKczgWQ13i4E.%26pg%3DSJDMVFOLAFCDLA3S2EIFXFV5VQ%26ch%3DAQEAEAABABTRoixKpOckgJNDM5fef-y6DRBtXHZYV00.
+.netflix.com	TRUE	/	FALSE	1807724096	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+19%3A34%3A56+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3b277720-d2bf-43a5-8058-9894bc7a089b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776169568172
+.netflix.com	TRUE	/	TRUE	1807724093	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaEevSSP6y4QzrCfBI2MbyEGDe4RlZ08U.%26dt%3D1776188092692

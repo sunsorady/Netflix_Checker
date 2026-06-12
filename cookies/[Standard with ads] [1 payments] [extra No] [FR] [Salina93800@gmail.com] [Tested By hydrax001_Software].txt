@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sayf
+– Email: Salina93800@gmail.com
+– Country: FR
+– Plan: Standard with ads
+– Member Since: March 2024
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33651600426
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maman
+– User GUID: PVOBHSY6JZFATG4DP6WSIMU7UQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804200259	nfvdid	BQFmAAEBEHgcuIcTvfJVhDb2rgAPcVJgICuN7jAesDEOCcHyJj9twRTmasReeiOPR-hpY4Q5e2GUBRUU7Sa6jeC0yRw6ciY3649ZNsEt-xtEzNaZhnRMlzNFOj-tNT28-UhdkM9oZfYV-XizUiYh4dNR3sbptwzb
+.netflix.com	TRUE	/	TRUE	1804271886	NetflixId	ct%3DBgjHlOvcAxKVA3labTkd_H5x0UBQk4fHBBbthg6JWKSaEtqUFnWrOpKQzxaJ1wQRA0sZK6nZAbDyuNVphID8AhNohMbmWxTtpDh47_5w6qsi15zwEv8USHEY7PF7iIj543B4zDPzlrgyh2rl_tX9CAQVCXeEWU18UqdG9VzWyyICx2XkEJEvbiGL08gQHMN-KResEkuOM5pWG-jmSVEk7n1iW-yoglFjlVWP0kCGLeXLTeJtgcCz49CXm1ElC4IjI9JrlwvTKe6giA3HFCQERPJAuLFQ2xu2V4Gzzy5Kj6BIsCSiDO74Qawz37E9iQ5OV7cV2u-ao35XYpVTBkGcLt5XCj5j3rKIkU-WJAToWthqyDZ_m5nFcRQVG5_Xl7H93T7EDCsNJCORcOX6giZBHdGp7EJhiOL8b4WgMqsT0BFuCdGqTXSYWDANccDz_kJP27n4bUSV0tTOP7uGGnGPuYtAIWbsyydO0R7KYfgzIuhxkYMrfCCPmpOxuTrqusKCppwtfvAA9p7hWq28P5YWvNaGC3ZnnDfFl03qso4EixgGIg4KDDOzDTpN1QbNCTQG3g..%26ch%3DAQEAEAABABTdG_MoNJNg-ok00etkJ2LpPTHXFOZnnAo.%26v%3D3%26pg%3DPVOBHSY6JZFATG4DP6WSIMU7UQ
+.netflix.com	TRUE	/	FALSE	1804271885	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+05+2026+19%3A38%3A05+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b95ba7f5-1ca9-4ef2-90fb-50734db63892&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772663782225&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false

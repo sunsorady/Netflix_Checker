@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Junior
+– Email: carl.mannduarte@gmail.com
+– Country: PY
+– Plan: Premium
+– Member Since: February 2021
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 0118
+– Phone: +595983272126
+– Quality: UHD
+– Streams: 4
+– Price: USD 7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vashu
+– User GUID: V6SJZGSAXVCDROH7CYEX7FI6UM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794507338	nfvdid	BQFmAAEBECJ-Oy4vXdQO5qCHiBo2PpNg2FM6uQlyVeqfcUaTcyyCTf4R8dpHgNMXN_QZNlZF34SBjrmv4P8GumsGqp1N9smdRBtHxMSJRIMQ3JUmfi7BZHk9OYcYwwsgzzRqaFKlxRUooEVDD89zVHIM-XT7HhM6
+.netflix.com	TRUE	/	TRUE	1808769614	NetflixId	ct%3DBgjHlOvcAxKEBHKSO6XEvRGriGVM8FQN9OCNNvN6Wyr7fGQE8YyE8jXsP9mT08YrSUiGY8187vass7ZKRVLTOxP-vUi03DbexyTA-hy67QfOop-Fpev9IDZsLrAOlXXjbEZUd1dwa6iN1i8TjNMiXSmnKvdg-ceUEsFnlaH6voYFC-OR014Ru90KO2cay6eJoqbAMTWBpCEVDTzVSFSdjFCoZXHQPozG3_ABdlgxcj_o5Nq6qHeickAgbLyv7BOYFIk60ZWhsrqwtUEUX7KVruV3h6GBeBa_KJnfk6RV2_4CKWDrLx3XwTpU0cRzBip5kZoILo4IHGUkblWlXfcuSDiRbNRxSx5sJrORSYlRvLLZFoPlxJbl3VRs2-tZvOG9QIBbCJ8ND7qSB-usfLV-c3wU-oMfNEdYlkf0t0X0m8Foj9uGIgMxCpEgxzQPhrftqCDRdgbXjGWnH55g4TXpzgsj21vGANh_b45f6u-y0HmB_ozZIDa3gPrBfVDe2wfO8Ovt8NnZ32bdE3DBOb2LIjwQYHROIXqGJZt2P67jpegJkjuGfymuiAzpLezV6D83mxw82hVq0Rb-Vy_Dm1vBe2wr7wNaPagL25niud-PILfGwqnMV7whEg5mDgnAcMT73ULY5AOHnDelKJAzcnHJR6JeWQ_D41hoxlgsXCvED6daVqmPD8Qmx0Hc_QZyQxgGIg4KDJfcYreWmkOdWt4h7w..%26ch%3DAQEAEAABABS29stgAAB9Tg_6dlsLJGLZ2F9Ol_sLH6Q.%26v%3D3%26pg%3DV6SJZGSAXVCDROH7CYEX7FI6UM
+.netflix.com	TRUE	/	FALSE	1808769616	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+17%3A00%3A16+GMT-0300+(hora+est%C3%A1ndar+de+Paraguay)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c8c0efd-f42b-4f21-a183-3309e650a379&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808769614	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQj1veWbJBOnsM8wHfiPerxBp4kS9BTmcE.%26dt%3D1777233631371

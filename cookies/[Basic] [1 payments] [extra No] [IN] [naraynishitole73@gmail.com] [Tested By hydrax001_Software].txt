@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Narayni^_^
+– Email: naraynishitole73@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-06-13
+– Payment: UPI
+– Card: N/A
+– Phone: +919699742048
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Narayni^_^
+– User GUID: D5FLSAZF6NFDLOM43X6WMLM2T4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807547400	nfvdid	BQFmAAEBEKxPylR4zvtjC6K-pSMIljtgjWsiymcePsJ5CHKJ7X9srR5Vw8Efx-PUKfUYq3AMp9CSD-X4ZwuCJ5qmvgjEG0lOeXjHRGh5VJPUw3N3HtPqwiE2pGJfYmkDh6-3x_AtuCD_1d5RBFtCeJpRTk2a4sFE
+.netflix.com	TRUE	/	TRUE	1808570859	NetflixId	ct%3DBgjHlOvcAxKEBIN3_niRVV41eh0qwEOdJzk7KtgFgUipoHZ6jY_GlJQdszOhvQZFt6wlMipOpTQ4umw6ag6bftRATfTOO-zCSoTAtl5DLsAA1kilae7Yw2i4fSGFq3PrlvKO60Ns_bbUJH4-UY_VwvTPyyPtz4rMi71ogAhn7FfLjhIdpmig0Dw-vPnYvKIp6LhLGTuhsIJPY6FcWyrI8W5g-2REIvih4MFn0lyoN9LSVJYlGM-4ttrQikVe2swCi74VNdc6kIpN40DL0jQj7x2mPp6ZpsAeOxwjTxb6L6mWE9PCYqsuIO22JK8zMf24O0n82tFnYYwvw-ADpKLOcXAfKvZyRTvpFf3soqlvXh9hvnIRNFNQuR18qB8SRd_nHngVIMvLnJMC8jUr4U_kXlZJHGfGuLhKnUF1T9aIoJ9ypit2shI5refWRwzJVw2S-HVg5tbbkmOhvnUWJlHV99KWkeLOz8jzyK4gCU37nYfVHOXmERZZ8fw2J_4MKQvNzejTKZGZe1H7dQIUPnDgJKLNcf4t0LdNoNN2MUWeu-_ZLntl1MDj12tcnP-a1kpCCZiwO3Sw3CXTi6oUzirZgkFUoP0z2TXrk78Aa8rQw-C8AghL91Gr_UMNaJGkpjhX-qv12yxmQJpplx7pxI4jgzb3KZ-tshwlNMva4AlbbOeCMKyv3PMfEY6_Dz9jnRgGIg4KDKcMJpk_U_L8XMZkNA..%26ch%3DAQEAEAABABRHZqwrQlo-E0m3mHaYWe6mvDBQXglytuY.%26v%3D3%26pg%3DD5FLSAZF6NFDLOM43X6WMLM2T4
+.netflix.com	TRUE	/	TRUE	1808570859	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTnOgXmofDgx587UBp0Ly9X_8t-fOuE5A.%26dt%3D1777034855611
+.netflix.com	TRUE	/	FALSE	1808587903	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+23%3A01%3A43+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=15c1ba70-dffd-41bc-9792-1ace0612f1dc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776011259824&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

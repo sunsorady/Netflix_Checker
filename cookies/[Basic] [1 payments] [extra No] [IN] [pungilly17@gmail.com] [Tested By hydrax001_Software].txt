@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: NK
+– Email: pungilly17@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2025
+– Next Billing: 2026-06-18
+– Payment: UPI
+– Card: N/A
+– Phone: +919680175339
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: NK
+– User GUID: RNWLDETAW5HMBHG7JTVDBEZ4GU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806816164	nfvdid	BQFmAAEBEDb8qsBUJqxq5ltfcQjDyuZgei9OPU8JiO1-nm3-c7wPe2WaMV-XuTfWCmm-Y5rmxudavKHyieAqFuJAplmpXjf7vak1zkaavQxKeKwiVowv1keC5ABaPKzWz9QwgWKMCessPLdjXU2w7uispkNG7zUU
+.netflix.com	TRUE	/	TRUE	1812231916	NetflixId	ct%3DBgjHlOvcAxL1A99PKS4vgsGEr_EP-5HC0AKqIVB7dCD4NYi-FcVXw_LHJ-xcAunPWexT99KaXPUs44yvPfV1XsaSkjJfixWd4Cknsjtd-MCpwCkGc-z8CpCxuEusMHycnblfBu1LDVUQHhINAzEoCxs8pEiVR4tcJxOK9kJmHYcjACryqyOTn7h_PHZQWxK7R88EPEqMjynETdiBI5WB8fFxXsmnLoKC0tdDZHqvVPL0NUuaI0dLddZlvisNmxFhF6A_Jvd62Aj5XLoOAAhESvqkTsUNGnYTDX6fIOPdlr5sneT8hLxAXIYmCyVvjwXTuLRmBHLDHhTwwymGlWjQMG3MDHXVZK2JC3L0TYurCy15cdYFh5o9dHijVipTtaHr_IcyXsAuqM_CKaChPCnChgyvEyEX5CO9gkf-ria2SJjDbU29OJe0dKAOzTLtWYCpoIxRUWZuZAaFncA6hArimZs-ShmuWWA0WMa_A5bLg44cvHVXTQY3u1RHZd_M--0lqUxz5mXtZGYP2H6sW8-g9yjoHrIx59Z2mxgKdrymEywavWwJPDPPll7QS6XDLo6Rk3NcLkgbOsIwsqEqoozqQEjEgutpPRd8g_eHuiRVuQU2K91-BdY039LrC0T45z0KERCVYPIISWB-fXNkeoOYhXdTtnKsVcEuzvEpb7cWFRgGIg4KDMw3dLgNokQV1kuTzA..%26ch%3DAQEAEAABABSmgbfB7JrbMqRJ0lDV-fHZOP3GHhLtRhA.%26v%3D3%26pg%3DRNWLDETAW5HMBHG7JTVDBEZ4GU
+.netflix.com	TRUE	/	TRUE	1812231916	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJ5pnom5lPozHlrT71XQjgd8Jnb4Z6EXk.%26dt%3D1780695958194
+.netflix.com	TRUE	/	FALSE	1812252071	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+08%3A51%3A11+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a82bafde-aea7-42e3-8c95-cc0abdf42f12&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775280141558&AwaitingReconsent=false&isDntEnabled=0

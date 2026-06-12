@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jamison
+– Email: ballematthew4@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: October 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 3541
+– Phone: +19362404659
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Balle
+– User GUID: GEGDSXSVDBCPVGWSC6Y3G46MY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056513	nfvdid	BQFmAAEBEGML4efeCTe3yQrROFf9uTxgjbyeJBHpoDhnjkga-iH8CpUSpfQ_yVy1ayw7phN03dSIA7Eo1HLv1Vshsy4EtgVSp4sg71zZHVxeLFqnJW2vzNDqPhUV22xm4IchpgDEXyVuu0L2lIDu6SXwtKf1ePsW
+.netflix.com	TRUE	/	TRUE	1783056513	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AhRQUx48IWj8ndFlNZDZfbeBZEUEHyMdgtH8msurus3691X-70QOMQ7SXy_ss5VDJuuV1osKJgLO-9BA8Jzb_AV8km6koaNi2ysYKUzPatx6RkHQzx7AYxWrh9MNmFrno38e9pNqqTw5KLdrF9QkpNn8DlaxyT4I9nCSj-M_MuskHRKv2Tj62VwYnJSVsZdymAqzUaRlH-v6TBUORTBGK_6nTriRMmI1cTCylh9PWAphZHUPmAD6oubS0n5Ji6yUpYPZhnN_YuP4rDpFarLANDVMqLHSIqFyaKcY9-qQO4E7gfV5u2oq_yJehBaSgJve_kCN5oD4V57-9abDrbqCbln6WpXwAcCkFUA2wDb1WSbB94KxqZlc5ajTR3vnIXE1wCMnIZ7DHxX8VqJ1uvwa24QUHtnnK5zG9sMWIKda7WGj_6rk6AQ-ITiw-Mzrb2vTyd3hPQUtW8cG8d691-VDz8LBy9_9PiJg4rFFYpZTAbTIEFO9kBEYBiIOCgzOUCc_AS32LIXdo60.%26ch%3DAQEAEAABABSkWbn4dj71N3r8fNQbMD5oil342Ys4iWY.
+.netflix.com	TRUE	/	FALSE	1783056513	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+28+2024+17%3A36%3A08+GMT-0500+(Central+Daylight+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86bae1e8-9a0d-4c64-b85a-213279332b11&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783056513	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfOvIiOOPJOgptzeHoM202gahBqTsBkls.%26dt%3D1727562967922

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: atrayeemunshi
+– Email: atrayeemunshi@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: atrayeemunshi
+– User GUID: ZHJBTE5SLFFXXM7EW52QDDUMPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805439021	nfvdid	BQFmAAEBEG8bjRPq9pQ-SCaoF4WAlo5gq8wCdrongEjTBaaWl6KKL27rv1YLi7CPe58OGEZWuU_e4ML_oMn-JDTBZ8J5Tx_osUMHez4tzELWDzyKSVVPEF8aa-CYTl3VvQC0wgdgnBvQKVehirZrQqiMEKMKopop
+.netflix.com	TRUE	/	TRUE	1808898314	NetflixId	ct%3DBgjHlOvcAxKHBFf1nIc3a_cxn9EJmqq2ma39sNrSYh2RTakU8uA55G1_2gsl3gBygeOEB7NLMxhZa-oXTSqMCswcnwzk27Os2DDQLr0-yCDI6UrNJR5XYomSQpaD4vTz9rXCtZ-EC5JCkalXQ0zA_SX7dIEaOsLtn8UCl_sw6keIQtOt4nQ_u3BpeOA4t5hPltccwDT3gdcC1qZ10cewdJS88eZrxQ_trNTdF-5V8rcIX9sOVfjB9RY-m6CFt4gzT1Mc9gBOiZB9jAYGFPFHFt-d8Rk95uUieOAs0ygH7GNkrIsEJs_H2l4xAkytoMvly7W1JSlHGcne45ZZZv8ZUrZKEmn57fpnF15XY59nYZBBTJSxcpXnTfu0gVRdKgvG-6SFBawk6Ml89uR3RB3oWq-RHIkquuss8igEerGEIZIic_AvinTDbOek8vC2WuhS1R_ZJ1SH1Pz1OAf80pXTPwtBGBA-AeGbxV9fYdWle-wlAFtymM799Q0LZUuqAPlbhcy2GF2oCKnbxmKHgQalLEC6GNJbfzP--TUeXUHzqxXyCix5rO3Ic61zAiVE1GPkZPWkDIm6GcU9draOxMVN0iS-UGRWtWa_Fc3FrU2YWdC4D04xzVzFTotoCUyHzQu55fChVpaTA95EBTLXtXFSi0T8mr5MFp3feUxuPsT5cyOb1lshbTaZcQE61rdvqU0JQhgGIg4KDMxSO_2G2DPhWcNPSg..%26ch%3DAQEAEAABABSVo_ZLutRvjz41ECMkDcEdruNRPcsYiWI.%26v%3D3%26pg%3DZHJBTE5SLFFXXM7EW52QDDUMPU
+.netflix.com	TRUE	/	TRUE	1808898314	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5qGUwkum2GvAa2PMlxmW_FREt6iXarxU.%26dt%3D1777362316804
+.netflix.com	TRUE	/	FALSE	1808939654	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+00%3A44%3A14+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2ba9a0ba-30ac-448f-b41d-ad04b2353873&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

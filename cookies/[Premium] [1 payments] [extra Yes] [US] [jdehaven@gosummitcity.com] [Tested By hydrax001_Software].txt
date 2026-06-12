@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: exycus
+– Email: jdehaven@gosummitcity.com
+– Country: US
+– Plan: Premium
+– Member Since: April 2014
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 7164
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jane
+– User GUID: I5GISWLF5BBRVE3JPZJ46KJMSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807278364	nfvdid	BQFmAAEBELNCR6mKtAMzNRlL2qVzx89gkOpBzbAn1W-6hCG1IBBZkFCvBDf264MsO9jwKBSdPSbzM9CVYJqNOR1eb7mza0syZvZAT-ML477urfPa9vAyo5MQJyojY5f3to4zTmOe-7mkRe76_ojrrbPmKEwhRYLq
+.netflix.com	TRUE	/	TRUE	1807972892	NetflixId	ct%3DBgjHlOvcAxL4A9attrMGtjdWHGyeiag9ykoGV_Des4ISf40_r2WLAR4ToJm_pcXNeuXa93E7wyjPZhKu-YcpoaswYt4hVYWPN9A9WZdZupxPhoYK2410SL6AUYrfL4muVkgDIYf33H6B29XNVJWx8j_kaXRlROUtBaRwP9eCcPUZYkIq22ikakKm5aewTnOUn7r1x9KT9fqGfZANPqAcZNDu3VM87UyVi5b6sRBCkIlhNYK-sWNuZIvgk7HTbPhJT9iDIGRyUOIDDLhTLB1V_mbikJFIKVARiB9fZr50oAJLGpmXjLif-kdpaLi1yBH5S_kruyeIakG4-VTbcN0HK35CFG8cMJqxFJu2Ypr2g8urK1omwNDoiR2TKKfoQtfDBJ4WH9k6YxMSBwYTF_e4xKzFAIJMZsfd9lHr8AGB9OfcULawYcVrOPiIE6x3A5bdEO6Bqcxpx8JCo81tQ7MRvqJQ03d4Tk8p8BdWvu4WysDkI4A6sRx-weCwzV4zitB-vT-it4nzucbZEil6Z5QLliTVE4RbYE5PVAuHwe9Sod8oN13HeAA2nbmQ2g1yBt0DuCF-GLCHAoB14-6XgB3TE-mAJgzU3lirGfLURgAwiJblqMGS8DOP1Vp5lKsBHQGy2HXa2VAloVjjI09jjGrww2yhg54zqW2up62Yj8SCOI_AnBgGIg4KDIr9c64nwgDQ1iOtgA..%26ch%3DAQEAEAABABRClXOG_EREqndRL54HGxxmGykf4MYmBqQ.%26v%3D3%26pg%3DI5GISWLF5BBRVE3JPZJ46KJMSU
+.netflix.com	TRUE	/	FALSE	1807972894	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+17%3A41%3A34+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12ffaa95-7896-4fb9-9e71-0b574b8bb4a5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&crTime=1775735816545&geolocation=LT%3BVL

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Buki
+– Email: dmayen477@gmail.com
+– Country: UG
+– Plan: Premium
+– Member Since: October 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 7767
+– Phone: +256792328610
+– Quality: UHD
+– Streams: 4
+– Price: $9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: David
+– User GUID: HS4FO3CDVNGE5MYKM4MEVIGRFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791791586	nfvdid	BQFmAAEBEJVAdMNL3iMmjZAFoVPWB2xgIDXn1qXZvIAsQ676AxlvLg22CCufIQk6LYql1wuehwkRIn6fpOtx3ryBGoku7a4T3VFmxDt9u00nC71JmZn7mO4kuvZ870c8V6NjnqYQacluH_JpWpoqvI7Fjsl_Y8S0
+.netflix.com	TRUE	/	TRUE	1810200573	NetflixId	ct%3DBgjHlOvcAxKyA0znnjy7uuUQhuXTxA6q_CmGPebYyKzMb-T-iwdrC9igYMr0dVNrpBcRUxyL0zaYUcsjEGC9l--DVFA4_4CdjIvTL2vslA3IESnX-giOOnD9IEUaSk0iVrjLwm9mgXL2ha-Fc1NXmD7x2hxPwm_qDIATT6585duUhr0KLRFJ86qgqd9L8nfUVzsXCcScpGVvWMNskAy6_jqM-_yaYIIg66oE4ILmKUhUaGjKIymtKq9RVgH9iWShlE-0Awi5YJJ1zP-d6mAiHJkORWwIKkcBp_DOnjIU41c6sDZtQhOSIjx4w1qyjYsLEbKX0nWGDBpKQjOAW5Rn5icbTRk_aYAJYYZFSdmvIBSijDL_H4u_GcU7UXbWOJZdk7YiknrbEaj0IfS7gd0jQ0_itmJhT3KilemK-QOi-rC-eOb_9N36TKqhJWfKKSDGdm2B-1sTTo8iejcrqRiIVR3qNmAgmqHzMudyB79B0B50XrMZIK6kJ--inargfWEnka5y5xezP6U6iJ6qso87n5RCbRKjlco6nmTmCvLD3ob55IQjf8DeSnrzzsJAm8teGDmHITRTJI1eqjhNGAYiDgoMBrGAjRlshjVfdAfF%26ch%3DAQEAEAABABRxqdArixZRF7y3tIJJUzQQ2WGlDIHibII.%26v%3D3%26pg%3DHS4FO3CDVNGE5MYKM4MEVIGRFM
+.netflix.com	TRUE	/	TRUE	1810200573	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYPZUx-CnGItCl5eQ1Yzv_rATRPa8-ILQ.%26dt%3D1778664573557
+.netflix.com	TRUE	/	FALSE	1810200634	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+12%3A30%3A34+GMT%2B0300+(East+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bce84cd4-8477-485a-9b5e-5ea7ec8890bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

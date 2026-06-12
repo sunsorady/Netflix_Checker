@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ciro
+– Email: eren21111+001@gmail.com
+– Country: AR
+– Plan: Basic
+– Member Since: February 2025
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1027
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ARS 8,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ciro
+– User GUID: 2DSJYKN7LRBUTEQHJWZL5BHXSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056505	nfvdid	BQFmAAEBEE5CT4r_vGeQ9YsFVKbBSh5gqOjaUZ8wSxkH7BbFbfvxUW9O9AFEOpb8A17XQO9bV9xl7CGkgauzi7EIfhaGgCYCckcbo8jRM6xMVc-l2DfDkKJA60obXiI2tsq2juDvwzgaWXAPmaTVUeAB80XQdpqo
+.netflix.com	TRUE	/	TRUE	1783056505	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AvLCBg-t-lVm81ClCRVcG2VY63AUQlqflBTjt0_MfTgPz47M7ItHMko37iEdBSmK6BiIS_84OEaBugNusGrd_aL2MYgZFNLA1LMwAMZ47qSDrcZM5Ue4Fa1FM6Lfor10OjQX0JRsoDshFQgeaVseMf6dO85u62GAi1NqSUSbrvyClm_Dj6_2oUT5e-s3lCsxsoOit2OvDM2S8pVyXOJ-bxIeNh0HiWgrXQp15lajRaDQ1RD0Hqf1pvNkC5OAxlkZvyreQyan6gvMMpHwIrVs9XZ5_hCS0oJJyiTejy0k4fE-1yIypS7Dk5fd5ytJPVNYvJ9QyysybRoNL-PbkKDJ_f63W_IA-qhn4301Ptfkr85wp1YOXTctdDd9XFZ_6RZJ7dtA_4e16kcVX0cqeGZYa2aNEAzvlduhzIk3Gj9_OjGuPBwGFplyB--Fl86kB-TOkgZ1EXPMUSYHuA5pgKDK7stoEXpw-7AajhhNLksUGNbv6Byu_RgGIg4KDPixzBQN-NLD4zRYmQ..%26ch%3DAQEAEAABABQu5OhDYUtodYmdKk_JtQMg_4wnbcmz6sM.
+.netflix.com	TRUE	/	FALSE	1783056505	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+09+2025+23%3A46%3A36+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e695da35-960d-4701-8577-93c7b93bfc58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783056505	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtwlAvfuibgnaJyIBcPjoZciWYs2jh7cc.%26dt%3D1746845185663

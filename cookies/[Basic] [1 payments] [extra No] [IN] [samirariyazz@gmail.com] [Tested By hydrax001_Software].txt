@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Samira
+– Email: samirariyazz@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-17
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Samira
+– User GUID: U5B5ZNI23FCXZMNC5ZHYP7XFQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805654214	nfvdid	BQFmAAEBEPhNFshvE4IzNIcU38dYfANgIw9nO--kSKW7U4B02M3HFQSrPbJVUGEZ3hAehfJScGDntVcClhREGF60M7yjTw62Yv2lY6Fia6F4virYOkLYjd6rCVfsmOeKOBZEBOxcrcMw0DHfelxHD_kteb9CH_KA
+.netflix.com	TRUE	/	TRUE	1807888421	NetflixId	ct%3DBgjHlOvcAxLVAw7ep5y36PniNHPtSuN_h0pChUa46aoJ6uMJXjQ-cD41cdWKoDtdBuAfj9SNT4-PMR5YdfD0h3HoJyHyoSN5yLIguN42kc4TSmHgnq9_nWNPYyPPpFOB15WSPz4-dc7y3Imc__eQoj63rNaf0FW1HUVqxCgIfNFJ5ODNTEldXaKK6yvoMTXc6fjzZ33FUieGpdUb7PuceuJiDqbCdfT1HDnCYf3_xH0yAoS3imxNsx8d8NATr2gZmNKsNuvIIZmCQxyuGeBN_VmFZJZA-0NRTo4YNZvG2i8qlOiITEniUlP5C3UmpJjnOcs2D4xt5P5cKLW9II6SP0Y0i7odAhqh6PzuHQcvP4gjZJtRnSbGh5Wl_McnIxfadmifysJ4g_N9AcRg-0-7sxI1kO7D7yRIvOfk9BUVt94Plmkc8fsvGNstSJBhfwMUW4l0a4_I835gQFeUzjLSvwj0b1iKIp_2kNlMdeHbMttF1jg2AH4bEYdR6xMnxeRuyqrOwggYjc882vD64mBX-aWDumqXK5_zEbV2JBu8cJOnUn1dGQ-cBi8p2jbh8LlR40OK0mJATww9D8l8xL4a5JHj5YQH_4PL9H6vEuKB7dLMAOOE_fi8HaCwJlGOy10YBiIOCgwzU0fprjdzNfWevLc.%26ch%3DAQEAEAABABRzxDVIRptf38CjUDz84Dx6JZ06B_9ue7E.%26v%3D3%26pg%3DU5B5ZNI23FCXZMNC5ZHYP7XFQE
+.netflix.com	TRUE	/	FALSE	1807888422	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+20%3A43%3A42+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a4a95fd-3ec8-4267-b6b8-35f4a2a1c937&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774118213564&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807888421	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRg6Ryu0QxZ5AC8o84bjPT4tQH3rmB-lIw.%26dt%3D1776352404533

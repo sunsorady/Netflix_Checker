@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: krishkumawat503
+– Email: krishkumawat503@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-06-15
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: krishkumawat503
+– User GUID: ITINNGEGCREDRJU6ODHG2AIX5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803958465	nfvdid	BQFmAAEBEN-JUtO9kjYeuzxqraGf1kZgvKOdywSVRW8ysZamYiJDVXFFmrdTLqIpuVEW2REB2o_3UID4b-Uk4j4HM5cD76b9WSqbAzt4KBbKJBBzy2sGXitaeMRffueJOlWqldSPGq9OSkdiHaTCp7CJ8nzjNwMU
+.netflix.com	TRUE	/	TRUE	1810900752	NetflixId	ct%3DBgjHlOvcAxK0A2Y8ThlQzjOtZyFGuQg5dPkYuNJkckVXwgiNgy1lNyo6s8Yc0e1G06D4XiBAHZgPoempD0raviSPYVzk-VjdmFPsajE2FD6VQOh1hjWWoan9oxSo_f_9R60RKyvR7XkOOYiLiKHiUsSLs9tmd_Vx9IrsIGSHhvXjeigUxyMtdYIIMaVhcIgyvI5tUbh-ZSppL-PeQbXTyvhoLZItb2a05KTg1XnOrzTZj8DjiN9w6le-vhvB5Y1qn2X855lFZlwWSK75oa_q7kwNUa3cKDl53JETxVUNO0hNu-mTuA2h-QeAhTeG8RPOtY4LCDL2rhK9HIBMXgWDxcWuD_qI4nQDxgwkUcaVn4sZ8XDUFy6HQwd6RF5RR9JFHVELDhG52nxPpEsUbZWqhpWSVXFJ3glWvNVRb_0HmYpkmt85orPK7TKCECsuTZRzJ2vWeGQxAEbwIYHt057lIcNqOKeeeOb4esjgbCC1VjvT0Uobyc8SbpZNjYQOCQN7TTSjKoiI77PwttIICBTSUWMImvsx1LyVDCcmuA5jI7GgFf7hf0hAPNRIqnNAlXAJPmkAmpyJMSfffyTDB3gYBiIOCgyxa-VJl2--pAX9Pkg.%26ch%3DAQEAEAABABQwx3lVJweNow7g9PUi4a5ni9tqb8c0F6k.%26v%3D3%26pg%3DITINNGEGCREDRJU6ODHG2AIX5Q
+.netflix.com	TRUE	/	FALSE	1810900755	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+17%3A29%3A15+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07db761a-e119-405b-9115-8aedc82b3151&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772422465949&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810900752	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJBPTXV4mDWFnfK_JMCyYy3t61I6Z3LSs.%26dt%3D1779364750026

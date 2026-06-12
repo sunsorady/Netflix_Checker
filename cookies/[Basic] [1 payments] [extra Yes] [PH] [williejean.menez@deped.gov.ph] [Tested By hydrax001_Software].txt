@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Willie
+– Email: williejean.menez@deped.gov.ph
+– Country: PH
+– Plan: Basic
+– Member Since: November 2023
+– Next Billing: 2026-06-19
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639152137748
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papa
+– User GUID: 4NCKLMURDBFK3PVVR4TJTBVQAY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797947270	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AvbZNKEOY1_LnENctSgY3oWDUYmdmnqFafM-_SdtMdHFns2bCFDVZCTGQulujmLyFQbxWK-C3gos4NFbnUPCRMJA-MSwXjNYEWgqOPyuoHngopdhRblZeIdmwqLYxSjNe3Ez9xC46c4X3LZukz3w2RD7b4on2Fa96RgsKDcy2EGJc91ZQjlQxBkTfOdQAwAk2Y_8h9h2Sqbo9za60hFMp6lWtv1-AtTWZxQeQ8cuzplFV8C9wRrCeGu_hIwzl3qGQQunu_PE1zzn2ZWWtdYEDHCYIUEn9b3QzFIri_Ji65VRANXG0oI8TLzvB5SCTEqGXEkU9XWrf3oO5JjBxYTz-59KD5mUiJRD77dlQRHhpLt5IMVLvAdVRne4BmFjRPzjpFXNxB0AXzC9hd0nsJXZnQp98e-zqvRBCJZ6Eb3mmh5dkA8V2laU6QGoJelg6dMHax63YY-MebChafZBo9-V83Xl5Mfu14J5gCoTr-SqdrZhpCk-Td5MbY4AGKI-3xgGIg4KDHb-UVQyDJ3mn8diFA..%26pg%3D4NCKLMURDBFK3PVVR4TJTBVQAY%26ch%3DAQEAEAABABSwP3-ZvXziQhcTV7SXepddkwjRMFM-8nc.
+.netflix.com	TRUE	/	TRUE	1797947270	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAi8KXSQAHXSm6-sV4jYmUXgOl4w5DdiY.%26dt%3D1766411268906

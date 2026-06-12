@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Christelle
+– Email: christellepascal09@gmail.com
+– Country: NC
+– Plan: Premium
+– Member Since: August 2018
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4976
+– Phone: +687825571
+– Quality: UHD
+– Streams: 4
+– Price: USD 17.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pascal
+– User GUID: YS6P2GHRR5D5FE5FVTRHZUMRCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806484988	nfvdid	BQFmAAEBELF6Ve45s_vF-pmkiDeyb_xgJiNnLnga9KPejpeW7VBV3PgVcFZZmEmnd6IVd4uaVayV8DTWiD8uJH2B5i1IZRmIFXqyISk8A59fu3qkT4BdulDOBFIepE0uhLxYfHgO0iioLNb5vw0W_l9zRe_XXHL-
+.netflix.com	TRUE	/	TRUE	1810431227	NetflixId	ct%3DBgjHlOvcAxKIBH9GOpAwlMUIOmmMbPJhDuS--QKZc7sOHbKmHj3Tf92zt7IiG1CUv6B4yPzXm-5OWa7IGB58_Y1c0-ToI4NCbT5saGZhych7a36D-9FBOjZjV1-ZT-tA1N9_ThX-71A_WOsTyYygYeTwtu_wRHYXDtyBFs7UGZIeRs5ZilRyskTsuwGOYYBlgy3hgFj5T-y9F2uis-CcrxqaGL_RHYA0nVxVs5asxxH1axz9nlxPI0ULcTXhGnEmOi1us_Tpoc3JVkrcIK6D1D9ZboDHQ9zI0QatVYd0SwCAJ8CH6LW_lY1-DOim3-MbVAvhMr5E_oqyscHc7XEkkDxuqrY1M8vKR0Is3YRQJJXj_uy8DoT2-R17j8D33pvHMVZKTfzLHLrJCeGeM18U9ErMVkordpapflAFH_f8UAdfD9MVT5PELLKeo_n0xkeiqCLUldufFpHHGCGbFk-bzTAoRq1PEE473qPiwRZ0dzv-_DXc5dBXhDAWmOF8tnkPIw8S8BbTk-mQdAo5VC-vy2i5OgOzaZh9aPmBeuIp13vnLQSuu-RzZ2CiIZAYKLNpgzPjhpFUtQWeeJ9aXK9yZfhwpInPaiXOh0u6hgB136nxLH2TPx5ubO5LdoiwacomvL1_qrcbV4QweuvTmd_L0B2FZdIQKOjBmSQyaRfVj6DknB2aTuxsJbLoO9YzL39Rq74YBiIOCgzB392_rx2mUHAfZwM.%26ch%3DAQEAEAABABShu7HPED6eIJnd_osKd1ALgc_mo-w_FwI.%26v%3D3%26pg%3DYS6P2GHRR5D5FE5FVTRHZUMRCQ
+.netflix.com	TRUE	/	FALSE	1810431234	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+12%3A33%3A54+GMT%2B1100+(heure+normale+de+la+Nouvelle-Cal%C3%A9donie)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d4be9b0-9da8-4235-a977-d8b36ba8a42d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1774948870142&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810431227	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXDJYU_67hrjivV7mxYbLehPSYf5kKviA.%26dt%3D1778895228594

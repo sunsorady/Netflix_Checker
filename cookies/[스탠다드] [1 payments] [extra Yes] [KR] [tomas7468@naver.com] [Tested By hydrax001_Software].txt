@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 김태양
+– Email: tomas7468@naver.com
+– Country: KR
+– Plan: 스탠다드
+– Member Since: 2021년 8월
+– Next Billing: 2026-06-13
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +821082540120
+– Quality: HD
+– Streams: 2
+– Price: 13,500원
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 김하늘
+– User GUID: 77TYQ2SLCFGQ5IYVW5FPWW6AHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623097	nfvdid	BQFmAAEBENPx96AFDPgAGPxRAwknwy9gbTNyy0I5_eJH3HxDTHncbFyNglVU4L2DMma3YlFN77eN4CZqt0vFZW_M69pC1ezJNFXeuHwJNOcDq_ibCoLQKWitMh6LI1QFuggnLMYbEAEtyvWF2VVii7ARVRM2UfTR
+.netflix.com	TRUE	/	FALSE	1804337815	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+21%3A56%3A55+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=58fb0c1f-d323-40da-bf8c-058fbd0340c4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1804470591	NetflixId	ct%3DBgjHlOvcAxKDBC-CJUt61LzBJeEhlK0WXvV1PgAvSfbwhUtvAclI_UBLhrIJx6Yq2LmnzWLz2Irjfa5lmQ_5M1oQ3U9Lst-ncWAcH6iQgphxr5YJdCMLGuzJU3odrKoj6cuE-ytLd1d5MhnTxgLzazt5ps_t2kBu3J8pSiHWDCEB5fvgkA8yZ8LTxOEBNh8f1zIyR3DxF9oqOJ347c8w9c3zdsaiPKOgrF7UZvg2hPHJ0Xwv9iOeIfUffn-bm1pIgLMpgaGwxarWOsauKjIQp0VSZ69QP4aYW0AUtB1fGAffj4PVyVXCCCbyjSnx6jvm06f8FZFYmm2NExxgUVpN1a62iYITBsMdRcIKhKkIS2fK1A7Hc4Fve9dMxtGlSSi4ahF2ob97A-qJUOoyTY6ajveXPBaWJv5TB7FhuS0NKNVFUSdVO2ODJOyZ9mavJi2xTjZfVwsEd1he0oFtwef1KAJF7CTSaVnnSTA2R3u634Ipp5ub6bGmiOTQEXqEk0h-yN6lYn2T7vIVzO2O-2K45rOQucuUc46k8fW0yzFhYKF8G5J7UryhqnAK4PH0KjDv5qZUeBrB6zFQy1fKM2pr933XEhArGVGsxRQEvdJu0EEGzi-DPVGDHNE0nzLoDOilvShwdw1UL4WvD5EVMRdlwZqGnNHtRoHDDQAyz03K5J4sUzE_l7cpeXMcxhvMGAYiDgoM8KltVXxBCbD98rqs%26ch%3DAQEAEAABABQPP9y_3PkCQyXvqc-WQ0WC-mbsBPvGPxQ.%26v%3D3%26pg%3D77TYQ2SLCFGQ5IYVW5FPWW6AHQ
+.netflix.com	TRUE	/	TRUE	1804470591	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRjSs8x0lGi8JjkJooc2zdjgcKbxWskKdg.%26dt%3D1772934591115

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Akarsh
+– Email: mateljanmaria043@gmail.com
+– Country: AR
+– Plan: Premium (Extra Member)
+– Member Since: February 2026
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Akarsh
+– User GUID: QS2PLAJBZZERTDGDUQQYMDLSZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802310577	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA8L883YhH9F0Rer-GShOAWbynh192lIEUx4OyNMltBB7iCRcIofSzLZgHTluY9EcFz1NCUzendAcltqoEVMtytilr2uQZ0r7wZR_UzqKW19_CuT0ATanUqB6ptv48bHRRrqP3jmzziQmOUzWfWs6M8Q9oXYeoOlcDJ3fWnXA3jlyXG-9wkexkmTUeR2vABsOEJV7BKPeNBdPbgph3qpzfvaX5ffAOj2h9xu4ZQxIyUWf6u7FWVSKzlC1FGV_LJ4HUQQPLcYVo2y-O5BDaxbvhb-wDmFOqcYJS01u17brS9aPgqKTs4AYSAa0Y1Jegh0NXa7u4Y1TnyGj1E68u6s0A-Q7H6oBLhl5EhLQWEer0cdOjy0GTnh2zTBWyL24-DmvIlZ-Pu7qJTFzfZR8MkfSZPejP5PeB-MGWG6DwMmaXoWu0LDH7wJUYYJdyNZYOClqlAJEkotyGXIpUG6J9o1JcYcQDOrseG8PJqNpkBy8B6OcavqF46SnEVeQmNiMStH-5hWEoWWsGAYiDgoM65hbdZdT11DueuSo%26pg%3DQS2PLAJBZZERTDGDUQQYMDLSZA%26ch%3DAQEAEAABABSliHDtsSCM69t1SwVhbHaXkms8Aj4OxCo.
+.netflix.com	TRUE	/	TRUE	1802310577	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcDXiLz9Zgujs4FgoPTO6jou_C_sq9Bck.%26dt%3D1770774569344
+.netflix.com	TRUE	/	FALSE	1802310577	nfvdid	BQFmAAEBEDQ-35TmKCE1wslS0EbmP-BgqsmRZrOiGFCZtaTW0Oq0G7Lk6jzY-YFxrWo-04rDEvYl0GaoGjjwyeJHMD2OgQajjvLJNdz0Uigd0LjeQt1-MKtyLVSDLVEGTTQCQ6qRYrKVzpi4f_A1NIwUP-TqnslP
+.netflix.com	TRUE	/	FALSE	1802310944	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+22%3A55%3A44+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5392da02-922c-4154-b1e0-42797d3df97c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770774577585&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: giacomo
+– Email: barbarinamartinelli12@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: ottobre 2018
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: 0157
+– Phone: +393487604123
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: barbarina
+– User GUID: JD5KJWKHSNBWTM6VQZWYIXKNSI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791661798	nfvdid	BQFmAAEBENFQ5UN_PtN3B8yP4nNriwBg4L3cB_UYt88vrBmsPZYzvXpA9xIPr1SQLvXnrsGr29K4jXr9DvZftgXkTPWvYVMft4cl8pdeK9h-yq_aIgsoOUpwLpXVtbRSvaa9xPu41pAF-79JvbBYFgwHX0zEIDXq
+.netflix.com	TRUE	/	TRUE	1810155792	NetflixId	ct%3DBgjHlOvcAxK1A8_mBkhBLWlmyAMYQKq6EsjsyTGd7tLNA7oHINuDivlJDgRdPK8O-yen4msv489u5B9UyCq8deywhnP6cZBgO_SluPWLoUXfKosyVWt8gSdLKn8JGlbtZlfXcNm49d672uxGPdQz8IhsUMFh2tc15GMtHCMdYrSmX6OSFFDYUtscn9Il8ou9rhxNX5v9XY8cwSKoSezGGOvm_t4qcn8nNR1bQDUBQ92jBqMkxiNhd31ol6jpWYqRcbcis748tFcThv9aNwTJLsBMkwr_aywnzLrqxLc9qPZQVZO1vEha0ASAhn0Z0wqZo8dKR6FUZHQL-cae_hszvWbpHS9rKyGumwJy_jFwj9AEZa2jQeUCAt0YkqcKCpu5DywGk1Fdb-Tc0NGfxjvPDLcscy6EdjbLQPE3t_vpr42tZwjFDSna6M1QmszMF40py15hLamCNw_niMhlC5JXVqqqiVlHlyUfImMGLaEy5h-ReVIMEm9zKQGD_auSCcDqaI1a-QaBaRlklAnBsQfvtqTZNGmZwzJk0oK2Ksc8_z6bGFTYVxQtM-QRSjGbHTrBiryGrFRukRyWbHkjN1xaGAYiDgoMoB9mHrrRhjQOtJq6%26ch%3DAQEAEAABABQAXJYQ7LUpIOZM1BTCeztTt0T-i7gMmW8.%26v%3D3%26pg%3DJD5KJWKHSNBWTM6VQZWYIXKNSI
+.netflix.com	TRUE	/	TRUE	1810155792	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTgkaQOkdQPR9eUxrvkkkOfU38p_Oe9gBo.%26dt%3D1778619793024
+.netflix.com	TRUE	/	FALSE	1810156991	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+23%3A23%3A11+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2c6791f9-d838-48fd-967e-00bd89003972&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B34&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

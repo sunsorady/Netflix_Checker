@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ED Casa 1
+– Email: eduard.bidirean@yahoo.com
+– Country: RO
+– Plan: Premium
+– Member Since: septembrie 2023
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 9233
+– Phone: +40725638555
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ED Casa 1
+– User GUID: JQ7M5GGEEVFZVP2DRW77CTPWWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788134487	nfvdid	BQFmAAEBEAPKuOoZCma2mJtZ0CQhfHpgY5E9DbUzSevHdfkUWbZVk63Ny7qh4uyWWm1oCAyrcJ05B_8vLnnyYYKTUJ4sdWi8qVOJGRsvYO871l_w9p2vZnqMdVpRH2d_mnTxyL1Mx2Ndyn98hbRdJmIcs0z8Pmyf
+.netflix.com	TRUE	/	TRUE	1810216288	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRY2RMeXxqNbMSffGf1KEYerZdCSJt1HA.%26dt%3D1778680288997
+.netflix.com	TRUE	/	FALSE	1810216289	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+16%3A51%3A29+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b008e59a-2269-4826-8400-a6561a0484dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BDB&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810216288	NetflixId	ct%3DBgjHlOvcAxKOBO5vyFwhuwyDyovdIkJ-5i0q_1a2Ed8b8ewF5GmcA9oq0h_BpCdkpYq3queZKufgeo3SdtsEkmeozkzqjZT2DXRVUARkOsDYNhEcXImEHbKaHo47QvyBsYGA0hgbKiNQhoQ7SFTPhgdmXFpA59zt8ak5cL-jrNN-GJhY0hwP93PIQoIOy0UE0-doT6jN6_TV3SaIJXT4mXxhY0Q12H90z1tabWsM10K_W8A9g7aDqwQbRAwpDE3lYHegYrwrcVq5yw-wB0iHQWLc1l4BKnGatHixXoaeU6rG199glLHE___tMBESwDvf4s3fDH9jTIicJ6wmHGGOwPJDLcRPzaU6PitJnMIr5TIngAP4FUE_pqvrf0wgW-o6PAq5AG6kuN4aGFGwm9ELwH1iwfvZ6opa0jbvQtIt4khVxQcB8t6JP9B3oSRzBz4RcHZm8rxKN87I42D6Ce_EsC1b8a9_ejz3JY5BAZg8bPinSlGmd-pK8sbcVL8cgJRpO78ovp64e6MqsnNX1tajmqLTwoY_KZ70Vye5HujufdhOloQCoHXQaCEA_kNNDDltoxy0vUQMqyVNmeOzgD8GxAzNPu7aVGTFf-OusZ_P_RnUQGIqB5k6WHdb0Yowm0vsRDt2HLWwcURHeGMiNgSPrG18M4LZ6pBzIIqT8YG-FBsDgW7jvN04KtgTYhMXte4ZwKxnDHd6EzAYBiIOCgxDTmkRXUqakry8CPU.%26ch%3DAQEAEAABABTjPjDEMiYrngu5dw4uimHqtANIhJdUDPY.%26v%3D3%26pg%3DJQ7M5GGEEVFZVP2DRW77CTPWWI

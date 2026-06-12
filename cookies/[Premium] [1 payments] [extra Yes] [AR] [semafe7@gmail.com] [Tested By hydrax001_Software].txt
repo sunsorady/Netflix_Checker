@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Guada
+– Email: semafe7@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: febrero de 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 5920
+– Phone: +541155690402
+– Quality: UHD
+– Streams: 4
+– Price: $ 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sebastian
+– User GUID: EUB33RS6EVB55A6D52WRSMHLRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792046539	nfvdid	BQFmAAEBEIaqXjhE2PF3O1fPg0GvlX1gCEfsCVHgtO1vAaYzVq6lR-xMHpUCy9N-Ar7pcyeaXjO0Mk8vhIHdvFQEu_CRLTJqUM1kaeyGiU2l0nsghrJ8CPjrDRnmuu8h_twWzv-3Th5O0PecZiQoT4luF5fEtb81
+.netflix.com	TRUE	/	TRUE	1808536874	NetflixId	ct%3DBgjHlOvcAxKDBJtkBDiMq3rbUj5yqSL2dJKQgj5bz48qqIG0USVrwknK3Dfzg6fu7SN_M8HG5CmzZ8kjGU2Lj50snvVe2Lxz3Og3V2ARQqgKqA48jAbLuhX3hrztCZgbAkKzE94mNlJPoDPgGmqjXKqEjEvOIxH8v42tLW1m-yP5GN5cXkj_IfhIjct4E5-Hm_9caxdbt-x3VtfdN9RR0veHvDqn_XVn92Upv6xQA4Q4Zl8LHEravSOYPFvX4XPQWj03xdR-hTUlwhKk7cuYQoiKemNgMNEKcWeyUzHly3Yh5Wm6NZvrpKPe9JKhV7snMBpWdJi6assdS-zC980SEDFf5znUWEIXQ9yrJjwwUxw7Tq36RcbGOPSYMaQSO7NPgxm050toCDxARZvs1ToFfm7EpIaptnRDB9XUyonUKkRiXJSffTKHz2WnPlYQKFS5Rr4HJGLW-8kIxKrle2vwjMHqLAsCh2I8uLY1Yh7zbn366N6Y_34_FFjdsHmJdV9JikT5-AinkvNmr2ymMx8v6hS8EmZeod4V8e77u_WuX18m3p0PFO7GXqvDabCgUYIzEXgGFxd3GT_LrvZ1WbHVV0FTBusxGQnvtcb-gJu8R7rVhMpUrdb77K641Xw72mvLfYcUUkAVjYVd1BD_aJQkp5gfWdKk6672bXKN4vFJ1SZfi5YNHZ5k5BAk9rTEGAYiDgoMylYxbqQiKqZmW14W%26ch%3DAQEAEAABABT5r6Ur5sO4GxJnq1kjsUVu6rURtJ-83BY.%26v%3D3%26pg%3DEUB33RS6EVB55A6D52WRSMHLRE
+.netflix.com	TRUE	/	FALSE	1808536877	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+00%3A21%3A17+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70c0f17c-f5e7-48f2-8f43-07b598ae2655&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808536874	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLkqYkS_GTze6AqqldC9T_kV0CdEj2LbU.%26dt%3D1777000874455

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bruno
+– Email: simonidamata@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: August 2015
+– Next Billing: 2026-07-08
+– Payment: DIRECT_DEBIT
+– Card: N/A
+– Phone: +5519996690149
+– Quality: UHD
+– Streams: 4
+– Price: R$59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SIMONE
+– User GUID: HAOB264DNBCYDJAAAU65OIJAHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1773944372	nfvdid	BQFmAAEBEMD96AESkLaHgntSPTLv1CNgM10mHdQm7zd-yaY-DPxmIHFf6tKoCXfseUd_76gRWVtYZZo1C4Dk6cbZvezJVE7toDUuFRgemdts1-B9nkmlZfy2hlURjNLVAUrdajSQpas5zfFHZGHBk5GvC9wJO7cr
+.netflix.com	TRUE	/	TRUE	1793487869	NetflixId	ct%3DBgjHlOvcAxLiAxDDCYU2KDhoWvIqT-IjL1Gn2vEF11-FbPhnGvE2dnJTE_Ng6zND1dYe9nCuv46kbE2rcPbU2scDrFK4O8nuEMophAxDUTDY4pP7Mo49G4NHfmRgwpJ0PM-fO94D7fNOZsNQBVW0sRCdzYObWt0o2tbJsfc6KKJErVY6j4FzVChWSM1KL69hkxRXMxy3PeRpAUVLUnmK0KZNmDZlWtvRvTxKdG9AQb2OffBtNNINJhDORC56t1_qzt_8dHH1dHKfwfsw4GPjPoHceBHNpfY45U44vKkd_u_LQZZCtqhGmcgKl2niFCgaXSd4WKVMBNCWoidqpyJW4ZP-2bcFFhi-gRZ9OA4Sw03WUjuFBkVN7G2hNSVKsIGDz9DbKRJy5XWdRc7ECETmFMYIlAdR6DER1p07p7Ggn2jLLovZjpd1pjjRQtZ7CK8F3dh9u8x8VAiGwAVvCURAiyrY0Uu0vrvAwOUkhptK3qMXN1Ck18VidKp6SzfoW0rGUGTfh5r1WmRzVlu4ha9ATMaoijTmz-ntyTT2HZE6jBr3jot0tNX9fr-Je9b1enO0BwyqRtcL5Ko98LOOVkz14FNIbvHH2n7GyCbonHy2KJ0l7XL0YzoCLktktasHH8yu6D51056SSSwoyfzaGAYiDgoMJoqdLaafbQzFMmLh%26ch%3DAQEAEAABABQ1YkoU3uI5RwYB6R3hyJfXSIX2a-Uhm0I.%26v%3D3%26pg%3DHAOB264DNBCYDJAAAU65OIJAHQ
+.netflix.com	TRUE	/	FALSE	1793487869	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+31+2025+20%3A04%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89275407-d59f-468d-8623-f1bf01988795&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=BR%3BSP&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	TRUE	1793487869	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRD4jhOBY-Zsa13cXEKJFyiEjiZDhSkMtg.%26dt%3D1761951842550

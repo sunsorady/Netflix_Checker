@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: danielcristian
+– Email: danielcristian377@yahoo.com
+– Country: RO
+– Plan: Standard
+– Member Since: May 2025
+– Next Billing: 2026-06-17
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: danielcristian
+– User GUID: PV2EPGSP6JGTJOZ62DDUT3TZWU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBELjefgZiSQkuERFC4xIg_uJgm2HYRHXqNXr8Yfhmnlq15Gc2ZaOOwhMgD7dTUUd4xDAv_qn2ouZIYljMmdV1J0zQB7TxffsWCL2Uz4FrazMHoeuv32V5k5tK-rR39KGUMgONEAqLvQWtg4Wn-5VWxmlH
+.netflix.com	TRUE	/	TRUE	1808158427	NetflixId	ct%3DBgjHlOvcAxKIBCHOCd7wXFgj7YWv9HsMRpAGsiYeQQkQL2hbM72z73xi0rIFmgoweu_DDugS73C7hGEZlFOqXI4Jl_bcHiMxQiI0GMxg9tfZkBIxiN1NpDKWHEerajvdEWoOkkMaWNYlbM_f0dgG_GGVWtuaXKUg_2Ony8rAzghTuLlQEEd7FkcRrbOprRZUvT3pUulE4N-Rtjv5j5uolb7iY_6RzY6Ct5OLZHu3f_MbuRRw23c404BwDr9zwcBTyl8dyI59LoGgVB9DHYq0ggRmI4XgkZEbYedzwedy0aaIKP5R4JweMuXGFoR2Tww-HWE11qGnTzX0O42XLQ_fRmNPW7VbPIMMsk8hX3hUJaeGMukggpQk5iSf3nFMWy8x9unX12JQTXGJHVfDmkNf2st13tascowA1kNzyCDVPqnezRk-bz0DrCh_pTCvkS8RipvZmLmJB3WJwAUmEJAek20QiBBP7T724ACiVjCL7hjCS_lNq5VpId7DrU5OcJ8tbduGvxNAxkvy3mE04mes9II9c_Dxx5L-4qv6s1Mo_aZIQuMetajndPEJeHP9EmLOpZDtEEwqhovMCihReiuebYsdHoM9NDk7-G-sBAUZ-L-yxuNyxUY5wLWi5bebpO_6slkCXyTNgBG3kThGNh5Knw3VStITVLB0VdaW1koM9GPfJdVyCb7ld3e2mGGB7Q5WzA4YBiIOCgxnr7tnBAiELudE59g.%26ch%3DAQEAEAABABQu-jFcgrsH1RjLbkNWifJFyE8wbvIf_0U.%26v%3D3%26pg%3DPV2EPGSP6JGTJOZ62DDUT3TZWU
+.netflix.com	TRUE	/	FALSE	1808158426	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+21%3A13%3A46+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=ec14a046-15e0-42c5-a00c-1e5068e7f775&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=RO%3BIS&isAnonUser=1&intType=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808158427	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR2BGBzckShJF1Hmul4PzC395fE9ul4Hr0.%26dt%3D1776622427338

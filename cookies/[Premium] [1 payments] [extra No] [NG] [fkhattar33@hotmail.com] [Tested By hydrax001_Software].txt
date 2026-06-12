@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joseph
+– Email: fkhattar33@hotmail.com
+– Country: NG
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 9631
+– Phone: +96176183348
+– Quality: UHD
+– Streams: 4
+– Price: ₦8,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fouad
+– User GUID: X3C4JQZFWNDZXIR7RDLIXIO3DA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804272805	nfvdid	BQFmAAEBELQz-_14gpTSo6YYkpaq6AZgLHBvUJGMIoirekPBMWY_ZGjhOpbkr8gylMGEriF3wxm0f8hvTyVFVDEUKwDU2H2pdVrkFUzCmldUjCmU8nLzPWTv7m_lppEBvW5EbFKVD3O8zkjiB8Ne5BvvDAtl_Igk
+.netflix.com	TRUE	/	TRUE	1810444691	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA7F8-oGR9YQ8sejcg_AVsO37bvo5gLF_oxQy3EG91eFSQxcXKauQSa46usCxRYHlLfuNBUsep9e2vQH37La1iWKLHuQuZLAQ384F43noF7kVirM-tdAFhEDHN5c6CYNkqk-ZbSmZmKZ8DfZrzv4PsSQkpma-f4Rd_tk42-FabSxm7vwdjX4wWQODMHstywnVRiPD8nGDL8J1mEytvpRjE7lLzo6-F5kQQe3K_PwLh9d1I2d7DHizAKKNy-Xqwi43SQjte-RvNrXsS0JycHnEc3jyvIzuKBZbHVUhwNnPGFlLmA7E5YPD-vfPcdLAdsdqCevYabRIOgGE3VxeGtcY44GFaPWIfKbaPLigtBKJgibERM8k5iDo4Auiv2upPVNSYeE9rLUtOmsp9CDE1YsOXeyKJZVTyFzKa0xcXjvw-BSs1Zmvkxd9drPH0ii95Fxle1JfTWwayUPX67lyBQe5X7pc1a41f6z8MwAUZPDLPv-fVSucpoObvIVDe2Z9icpbmXgkfWv6G7H6wGSxUM3WKITcp9_6qBgGIg4KDMxJ1dJHrVMhXgYNzg..%26pg%3DX3C4JQZFWNDZXIR7RDLIXIO3DA%26ch%3DAQEAEAABABThUk20rzERmLsxM0SuOUzk8FEynzohk1I.
+.netflix.com	TRUE	/	TRUE	1810444691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQq0D0k9ej5GETJwWZXjWRBxDMZ2tUpdWM.%26dt%3D1778908677550
+.netflix.com	TRUE	/	FALSE	1810454813	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+11%3A06%3A53+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34aa83ad-9f3d-438c-be4e-c548bc83f2c3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772736610133&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

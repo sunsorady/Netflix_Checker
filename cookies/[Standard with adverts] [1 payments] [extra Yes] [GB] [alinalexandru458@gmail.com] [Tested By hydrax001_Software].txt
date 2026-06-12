@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alin
+– Email: alinalexandru458@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: September 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 2607
+– Phone: +447502249365
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alin
+– User GUID: AX6OGI5AQJHLRGSVHUV3RIBFYM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788712678	nfvdid	BQFmAAEBEPers3n-pHaLJU86WdZSGqJgdtEWROf7mfkC1ZKxFlVYm13R4J--LSs6ZSoDJ7ju9H_G9U2jtOb5AnURHyKljvS8G1AsQ-is0tjt0cVLiUm_hyorS9hsCRc10OKBk8yEwggsuHxnS0-qXgdSH0NEvXEI
+.netflix.com	TRUE	/	FALSE	1802547921	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+19%3A45%3A21+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6be00c94-ee1a-4149-a466-de29a271e166&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802631846	NetflixId	ct%3DBgjHlOvcAxLuA63ZFCT9gEgeCYbVxJoj4CNVEl1l0N4cDbLjEg82wyhs07jaagiwRhBiMjR3BGgakvM9klU3B_YHpJedhFmP30hOZ0LBeKsCqXUcTQAAQPZwsUgbW6QSi_5glTdM0_wB8AOoH7BgSqRGTth_PtyD2E4KiVl0_rE9V1CQfJVaoIXJguy0rp_9Xs5i9V1LKMY8w1aw5bXd6g70FxJAfYNI93HA5nmFhffAELaUyCUB7GWMtvg5vvlXE11fQAr8VHx1mdTmS_11VEWiZrO2GjfzZd4X9fZRAj3kQyFWdFkRsl9U8J5SFVhimgMftPxSoXSaVUGQzrLOb_0cjUuAAA__sw-rQrh8OykD3W-Qe2EvZMrZ8xEJ2QiOBu8np_8FPhp8IzQD6QHydpgiLR_ar3TI9qynKfp191qWaTMInmxYQFMHOBOVDO-9dWO7D8eRLlNRlDZWh_b9uzdzoZjFg-wMG8elCa5s2WiDEabmmjKoi9vpkc8sT4pFadq_qJzNsJMYXS_P_BmEVZSUK2K7d8b7tTcMoDX5XMgQbKqOs_8ypjpg-7YWK5LuQg0arZTsnb_7YsxtWehH4B0kX7S2fstLBka4DQ4t-0aRNwliN2B7bJcpoZ-VUBNlf-Cr-hTJTvt-H9l9WrMkt_v2xeCAiE9dGAYiDgoMzlNL57gcofheGZAG%26ch%3DAQEAEAABABS90F6XL67_ObEI_TipHsYZ_yTrIKRrBEo.%26v%3D3%26pg%3DAX6OGI5AQJHLRGSVHUV3RIBFYM
+.netflix.com	TRUE	/	TRUE	1802631846	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRsvpiaG0nJZMtnWC_WTTVIqRY5nov3v8k.%26dt%3D1771095843332

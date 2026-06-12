@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AHMED BALALA
+– Email: ahmedbalala9490610648@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2025
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AHMED BALALA
+– User GUID: ND5UFLK5XZF2HJ2STHHKHJUBJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791385056	nfvdid	BQFmAAEBEEE_4zqT5QM5MKGU3tIGZFRgtTDMFAnqqJ3sZGqNVH46mg7NWTbpcyG0IS55ZlVjg2XPO-432C5a-eBpYihyMJwD2nP1sQE2IlUULmKMxY49QHusUIqxqCXsAS3NoebrG3X6__l_7S8cIpR3VfKcV62z
+.netflix.com	TRUE	/	FALSE	1800896466	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+22%3A31%3A06+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f9294283-b985-4b05-a03b-9f5bc50676e6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808910482	NetflixId	ct%3DBgjHlOvcAxKBBJcW45dtzsXoqBRwGtSdXcio5QuSdbBagxJ-9QiB_YmGrrR3KN-0dk7cCjXN0jJpodONOdG_jq_YAigD_azmv_W6atkvL9uKiwlzSRsnA8fJ1Wc018RQn_sobvMSfmbt4rZ0rw5x4IJ2pOj3tgK6CDkO_5Lq8MoaN8JDbYcpMmUhLW1Flfi7RZ5V0jgCi8w0W2w6MMNE6IY1b_6mJ6idGOiHwBlp14-jrZWQNeSkgfRUztgagSbektFyA-8_Fj4_6GCJaVHBMCklIqFDEhUYMYrhZ9bs3_7gysUi3vaVzI9xXGpkrmaxh8fUo4VDlu_BrKLyRPzReHkDulT_EsmzOOBeK2r7v5d9sJkrC_eGCpMyYZiwl1SL6bv1QGB4ofmNRgRXU5FuM9G4Xo0LOY_MAmJ8E70FTVHlUCA7wq8osCRK8DVcnOFZkodhzHIZQT_0K43ntsTOd0yvlajBtaZCTMbi55OcdTplQuO78ONfthNvVykP85Jy3YUPB8ATF9wJKN9qLFf_MyYg4pgexB_0dSmArQnbHnEOAqOJ0OF6-H2ZBM_vM00ggb9Dgm_s5uJEXlkqb3ne-Lfy0IdEkdm_yiOIZVPdXFcebLWCTwIWF9Fl9yq3aGEY1ud0cE7dv75EGW_IBnp20bQJSDv0VNsVOt5P6BKhgr3M1Le2FIuTCpgSehgGIg4KDMco6BJBM4iJ03BtTA..%26ch%3DAQEAEAABABRdkHgUhbsZic9mUnFvql7ldftCRqHNwpQ.%26v%3D3%26pg%3DND5UFLK5XZF2HJ2STHHKHJUBJU
+.netflix.com	TRUE	/	TRUE	1808910482	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGTgVxNNvctjyg3EoA4Mc12MyHUPsnpQk.%26dt%3D1777374482412

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aggiung i un profilo
+– Email: ileniaiannone04@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2025
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 9706
+– Phone: +393512512305
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ilenia
+– User GUID: NQHPXIJSZRD25P3IHB4XE2UWFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797769286	nfvdid	BQFmAAEBELs4Q6QlvAweDmrsetdTKsFgGJYrnWf4pR91nUGy91m_FP9cKaMykmuztVJ1otPCOaVRznDF9uBgip4dMJyDyDH3TxQZffJREAKyOVrVAGtH6YqN3WuDqm7eZYiaPDHfy5IgS-g479Ix8q8c4zMeFRQT
+.netflix.com	TRUE	/	TRUE	1797769377	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNAwLfSWW8Wd3P_F32469NCbIUdEgEKAtB8Xg_TVUbdjniV6Rfc88mEArc9uKQgww9B_qXqJgGmO1WMWHDbhoU-Vco83ZZnR8ZWU3NqOCqkCtVzq05_M_jyasjlFq6VAI4PtM8Xxgh7oTtllEBdJi-_30JCKwbqoEQGBt76dU9tEcm9-jA_5TwPCcmTrVNtajeXj1ahUqlw4E1UXusdWcajHWkw6JnjCo3sQQOm_m7qKcj48G1PQi7rXatReKydxWSUbmreQ6sNHo2eJKBc4VBJQQAqFNn55WVH8xGiDww44Jdf7UjhJFm4YF72qwxQpRMOgq6iUc0PB7A8l2gydaf5bvUP62-T-R4djVLj51eaSCukYE2pq85n05Q_XVd90InFucgO_Y4C2_TPk97SUxVsDsfyY2moj7X3XBl0JkXFDAG82vUScaiJpo0Cl-nVldyrVQIDLns576NUY06nw09oWt4Vc6B4buwL0fjFTShhEu6INiPA6aNJe3TseZK6LUIt-gwYwUX0W6y748Df1sYBiIOCgyJF2ast5OxBrXNIME.%26pg%3DNQHPXIJSZRD25P3IHB4XE2UWFI%26ch%3DAQEAEAABABQmP9VFlnDrjotd9qjMnsFdK-GnfTIXjgE.
+.netflix.com	TRUE	/	FALSE	1797769398	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+20+2025+13%3A23%3A18+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a683c5a5-d993-496f-b1c6-cfb56ddc8d50&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B72&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797769377	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzmYrqq1YLWwaz1FgwF4p7IcUHAbGiTJ8.%26dt%3D1766233377293

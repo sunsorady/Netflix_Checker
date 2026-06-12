@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kieran
+– Email: claireferris007@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: October 2014
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +447977539375
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oggies
+– User GUID: VGWT2FQCUNFXHO33ESSDYE3QPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783333292	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+06+2025+11%3A21%3A32+GMT%2B0100+(British+Summer+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cebf3488-f404-4a4b-8349-55b13c2bbf36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1
+.netflix.com	TRUE	/	FALSE	1783333280	nfvdid	BQFmAAEBEIJx87z9cklgTQqcDcQmPDlgot4FvP6g3-PyBPQ06I4kQ8QLCj8eh60yUlsCSB5S_A1lLK57K5a6L_bmRGF7LWabrtrUo0synJ5TCirxnsUCB8pE2nb8uzVVI48gIVbPa-g7l1y6JP5cExhXDAdv1ftG
+.netflix.com	TRUE	/	TRUE	1784833588	NetflixId	ct%3DBgjHlOvcAxLiA2Tpge5bfJo5gsQEEOjuMCQ_NyAaM07-nQGXegZoO7jmF3qFxANyKRDIuXtvwiCuVe16l0FHh9OgeqASmPZHP4SL6StkgkyXkY20co0YeBhu9vsXWnNFc1ailbGgsknE6RkGOOORUhVjZcnqPA4R6-65_kxiSLF5dG5nv92ToB8KlEc1sUdtfB2ttpgMSKQUf0Zu60YPrmZvXhj9CfNvHwKV-TgqUeU14zSkZEhc3_T6mebewVW0rzhAK3T8ib1JhvgAQAgJnkL0ryQroOMANEtMxtIRm-Mt-f7vFi3LRQrvMhPnXNIOuw8uQiizrkzGJnEWE-R-PLQmM2Pjv5ji5Vjr3BScpXcFGqLQV3pcyfxrbp-3GJm2K0BgLsAZksd7hcbL50MTmhamsGdczuEdkW7BKtBxOS_pVq0C-x50u6vdx21JSNrp0lTMvi_MqFI-erv8Xx6FFeYnrla9_NFCZ6eBMWCNBD0m9JeGyk86vLLzWi2R7Q2Pz-UE-J3hlU23vFQYzsX5V0Ght3UrKl4PzN3XOO9-xCoESQruHWfqYCbjbHS9CzPTrTjd353w5aUZHjE879vxXz-mSzp0fH0yo65BJ43ApR2xLLE0sStrhTn8aK_9b5gOR8TbLQfzr0g9zkV0GAYiDgoMdkOoHAG_qfpWxyuH%26ch%3DAQEAEAABABRLXnvu2GL_LeeTdDorbMsFv8OWt1BOoc8.%26v%3D3%26pg%3DVGWT2FQCUNFXHO33ESSDYE3QPQ

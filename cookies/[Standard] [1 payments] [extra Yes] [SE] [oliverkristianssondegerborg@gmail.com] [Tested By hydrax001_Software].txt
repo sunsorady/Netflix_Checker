@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oliver KD
+– Email: oliverkristianssondegerborg@gmail.com
+– Country: SE
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 8432
+– Phone: +46739849323
+– Quality: HD
+– Streams: 2
+– Price: 149 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oliver KD
+– User GUID: GQZVA6XZNFDLBHILCQUWRIXXPE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787511133	nfvdid	BQFmAAEBEC8wi1lp79J9HpL2O0pN3x9gLME5TLnKwqjfBdb6ZwWt2HZAaR07PNwqWQa_Hu24zEecA-K7r9s7Y2YqmDD_8iDVyFQ9NJoa38j4zDaOjNJN41Aw3PiRjyAOU69iuRxpzBTiU1nyAxzvlRqVl9f2xR-z
+.netflix.com	TRUE	/	TRUE	1799240447	NetflixId	ct%3DBgjHlOvcAxLxA0HOv_vRTDk6mEofVDysoXTYi8n5n5jLhCW5ySUOM0eSM5b4I00I55Asqog6l3699Q_v4gTREpHvoF5MIYcbBl2F9q8U-1sIl9n2qfEke8ARxOABuRBOZUjsYsVUSR00oBXjo8LX0Ww3TG2tJxgFaidsge1mxwUL2zIPDQWo5L9Ih4QWVSTdycCYgxiJ6wenql-LrQzbv_1m-3Pi6iUGaBSEit0T_7R_JbVD3DIWPDq_QyAN5Gqp0AQmYv8wz_wjTCf7gyYdtyIVojEDpk8OwHn-mO1wI3ulcb0VJ1Icg5KYFEMC84OdmeBaYni8ekmVYTzOFdQt8YsdPdTB3fKVlU5Nt3ycG90OwUj9mGCQhpLbzSN0iUe7LNety4ksj8LiVdi2MFUB91D5vTp1AAl1a2B0cyRpx1rB7rPOA4ygOec7RVMOEXk-7HMpxildWdUaPPCeTEO7v5u3EnTY_f6dX3fcjuosZ7nUAGwKYZmjy4r0b1eG3muRd1SpXE_2vhLRhFWZViLif2v2ka9I54YkgWDLdDtodZjBWeRnNu3dR2Fa5_FiGxEI6L9OenxMkt0QXjF_uWACZEV3VP02FnV3s3Yj0RWwxzZXb-suMj4lab7PHTiuu8xA7RUWuFbYFanxfX1isEn2LQS7UzeM_xSWfRe9GAYiDgoMfypRjmWFKI-xoPj_%26ch%3DAQEAEAABABTHvhQQH9CZHuCuOyswn0OVrpwkCOpqK-g.%26v%3D3%26pg%3DGQZVA6XZNFDLBHILCQUWRIXXPE
+.netflix.com	TRUE	/	FALSE	1799240449	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+06+2026+14%3A00%3A49+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cce5e350-fca9-4ab0-a19f-f6cbe21e9df6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=SE%3BC
+.netflix.com	TRUE	/	TRUE	1799240447	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSe3q3_askMMR4-95TOOTbOr1W353I8AWw.%26dt%3D1767704468883

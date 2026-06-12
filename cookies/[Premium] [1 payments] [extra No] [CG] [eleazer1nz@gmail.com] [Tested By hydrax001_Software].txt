@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rosset
+– Email: eleazer1nz@gmail.com
+– Country: CG
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7320
+– Phone: +242064611872
+– Quality: UHD
+– Streams: 4
+– Price: $9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eleazer
+– User GUID: FQEOH6HXDZBKPORTI5SUOVT5ZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808861891	nfvdid	BQFmAAEBEDYG598PXqLnv8Vgq3GviUNgx_2-NxHELCmteyodWI4QVDnNIHpQcUgsGhJ7iHb_C0xdpi92vJe36mfB4BTClkKbPFiK9KpJYNQhH39-R-CNiGmy6P4UwD2cbP6G9zIGH3J2kwIo9fbzh0pfwQKYmRyM
+.netflix.com	TRUE	/	TRUE	1808861917	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA4mO8F1I9YKAtD3cdjqjGNymAlsf2JKVIBHuMvJUwM6x_H-eSWDL0Mw1jnalfnfJqupCq7fgUdfwMhOwz2d3jWS9I3-qqVbhbMxipSEDzMm2z9RNZkWoaAF1Y-qlKf2OgsnupObMzLQfxvEIeB0zE1MlMBx9t3SWPV_CBgWNxxlM6cQxnGhYmvh3ylwfn7k6i8qsFl9uY9yvfqxpmVuO7lHUr65Ngv2_nXm1NRWgjCD8bszd_Pl3jJ6UZ-pDQ1IIYbXLCNYDlZwSgXGSwtBtuMK4n5nv_LftH6HOjuOEG4BIckwyfZz_5zq8t3JGqmvFwt7JyRg-xvJpSyHAa6S6Aw2iIKTVsI9q5fPceuOcBQQb741s8LcVNG_Y6yw3fENIaUZg2tlOwHx9WNv7y4sA2LAHyeHNNmjzaFYLI8rsCWAM0tyMO098Mf_O5kRRIafzq3c7TVRAaFhfOaAnzvZPu70idzKTrM2LXvzK_vJkWsuyd19flPTLeKuiR1NqcOsqLi_3eZpLN9Yw35VotohKusgjoH_a7BgGIg4KDEIsAek7RQyCLW1Scg..%26pg%3DFQEOH6HXDZBKPORTI5SUOVT5ZM%26ch%3DAQEAEAABABQIphzMUXbmSRqXbjwoqs7DWUeNwjbrFMM.
+.netflix.com	TRUE	/	FALSE	1808861936	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+21%3A38%3A56+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=efa485b0-ebf8-433f-9207-4a3685b131df&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776193256336&isDntEnabled=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808861917	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvVC6KLKx7m7eJLTWyNEH2Qz4aQiROZg4.%26dt%3D1777325917436

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sid
+– Email: gurmeet.singh.gulati@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: October 2024
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +447588519019
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gurmeet
+– User GUID: TFUWX7VFIZBDZHACMZUOR3GLGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807099006	nfvdid	BQFmAAEBEFVZXP2Ral46KfD1KFP2dnNg4Y9xISGnGiv45rFBJ-j3yZ5ZvjHbz8EeQGEXmq25Xl_eyD1FD0WaHPOBBiP5pTjq-7G6Zl0wwQJd0IiCz8utwzfHijenxxcxT0QGwkthC7Mwq_f6C4LXZlLkv0fCCfbR
+.netflix.com	TRUE	/	TRUE	1809552874	NetflixId	ct%3DBgjHlOvcAxKxA7ycsKLWYWa8J9kgfAC2die4xWJpSM5kMYz3WmwzGKnOBfieeUpG3JkEUPBE0j5DFKr5LWQxubIY0nLsjk6QQJDLbeLB3YAePwMSvU_A2KGWOoaT-6hJfT6DrnhH1f5o-ze6-G0oIRGaTQlVU8-f_OQF86kM5C5LQXtlTM_72Q2SbFg857Uq9n5js8syWFOsBOy7bPOQ1LvcxzELck6hSNUNH3KdI3OvdXD4pUVG_5f6-6TqZQrq1TVV7m3g3oh8uSSfL3iVmFWuFLwXKQtGAFZDXnOzjFAlnhB8MbNsM0Suwj3ljkpCMvUar0FFEPCEgw42FnGYfpBDH2d4785jPmhmH8RTwGQX14z76g5aWWIKeOPlOM910bDubY6-LIalLWqzlVlUpmsWyf0jBxkwPUArkwveNyiTb-5US6VFYRc9C20ROc0ZO2vFRK0LArElXpzVXFGHzS8yCIKmPhnD3t5S0DRDxrEyeFmUsDMCMFJ6vJ4RAAHLzqVMPUQs820-d4KzE6p1RNvzfQGB2qB3bNxI_KBop2LV7s90rMhJdZpNuwkJgm3McJBK_2FgXyHs76sYBiIOCgyqKZf8Ac_rLaZUIzk.%26ch%3DAQEAEAABABTj2iDAVjxAfyQCyy-Um3Q88zRfKJWHdec.%26v%3D3%26pg%3DTFUWX7VFIZBDZHACMZUOR3GLGI
+.netflix.com	TRUE	/	FALSE	1809552876	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+22%3A34%3A36+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4854c2e6-a184-44e2-a0b1-5ea23b7bc3c8&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1775563010251&geolocation=GB%3BNIR&isDntEnabled=0

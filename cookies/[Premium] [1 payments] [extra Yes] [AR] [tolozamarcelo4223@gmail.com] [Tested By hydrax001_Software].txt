@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ori
+– Email: tolozamarcelo4223@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: January 2023
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 6762
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ori
+– User GUID: VSUROM6RXFDCPKUPDMNPKOESXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEGcca9Hev91fh5oNVxDBKKVgHfAiXuiGAsvm9nFOZH1cuskIovcW8b8Fe_nSqMbpWlPyoot5reHR2-vU3wKeQJpNsI_KDhYENR9F6_OLVYJUC3pbyqyPinMTX2l1bsRhSIGvwv3vka1c4k4rcWw4yv8E
+.netflix.com	TRUE	/	TRUE	1785265597	NetflixId	ct%3DBgjHlOvcAxLpA7v-fnuqkc8-53xoz1rp7USL3v1ljoQVjVgdS-3S4ojc1v-hV4hmu_RgmrOb49jNTKN2pgUafWrxV1qQl2uqvW4_JVtet6wuTjQcNwQ7XJTHHp3auWhnJVc5M0ZAk_NYmFw_S-OeW77t8SnU9JiSnwZjuyMReoetmmioqWwkZv5a5rdl0WUm05YfojWNtlVb5P8zo6g9RE1m1FK3b6gfatwWWKBHPL4VwsGvs13BmjncCi0Vm74PTlVY4ZL4dGcFHlM9BftLpxOdQ2XonQbGBMOaJ54N61oeOqox7WexTppxTtDowOZKzlpN39C2GzmiZudBoS784IDW_V0UMHmh5kCxswSWbN83p8rBce2Pt2DcH9VZZS9_fbJTjtW1IIGOqzNO2XY1v-UpOOz6yXmrvtav-QA1rhAYj6Jd47D9sedUJLWnuo1J0huT4rkxOm274vBSKVUWY3c-CM5_2sAlBHYSydNsFTKd4f7iBu7Jlwp5tkzK54CmmCgQ1l2MiQOJw-80kRXDPG8tATTmbaisECx7OUcaZ5h60TiXgGENRPVgjLAhDyloa0MIsNhNJcU5FZxb2TXCVmXZyWvvZQcaDw2o5z4ztCyDcwn5liE0txSAyhsGm_3kJti_1o7t4irys3QGdhoGIzY8EBgGIg4KDBiZ-8HJr_izeSF5yQ..%26ch%3DAQEAEAABABTjaKhh0oAC_pEKqKkHbeyUyKyGwUWxTVo.%26v%3D3%26pg%3DVSUROM6RXFDCPKUPDMNPKOESXI
+.netflix.com	TRUE	/	TRUE	1785265597	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQs_uIXatJTJxNuig-UAj5RKqAG1bO9mRs.%26dt%3D1753729539932
+.netflix.com	TRUE	/	FALSE	1785296948	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+29+2025+00%3A49%3A08+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=557ad17f-831c-47d2-938e-3cc226cd7b2b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

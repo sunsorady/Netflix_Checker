@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: FER
+– Email: pochaguerr@gmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: enero de 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 1875
+– Phone: +542634356376
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: GUERRERO ELENA
+– User GUID: MBDBMMXCVJHSLK5KYY2IZI5D3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551687	nfvdid	BQFmAAEBEOsURdj-nYsKLHaskLmmwqJgyE52C_K7bPxk0mQVNW6qohWqOdYtFYjglhKdBof5JRFmSYFl6X7mjBD3oQcezW3yXZVr0jL47Ky_3NHnFTRSnuTSMEzEvXYsti_2giEw2HYegsjtpdceP-Gc9DXrvM_1
+.netflix.com	TRUE	/	TRUE	1783551687	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AvBVu8bgp2-9iJh49NGYYi8Xre5I4l5F94T59zkQ813qFzlqxqtJgV3kTQbYgLi1mHGxWFxTdrV3qGNIzlzjVRGSOWsdEY82LIYstlyPnYD-uXX3VghLMYVPAC6UAt-l3cc36lqua6dz67xFw-HCjdzGlvUE_lr0xGgujo6imhXJLdcVWVEnSeoOnMATAzGR4GuxuScyPhOn9VtthE5lp3jbr4xvnVYHHd1W5eUfBJ9dwLl-zzhYrKz_LUaqKF8VTj4Pe5hCE8aO9ovox2lelo-bZSQ2EqH6AVesCRM9eYicYhIwuOKImXbblxJXUWMMS2Jh49pn9-vx6NWBBWOZ0xl6RkV6zPXYeOflyJlmDnAv9150JewB97Ea5nFEedMV8-t6lKE-osueurrJzIseejG7uaUNvP4cEuiGi_2tXNPzMNlu74oUCuV4LnPz2iHd9zM-pYStqPyLlm1rXvt4hemJelZAdTF2CPt7NlTSeM-fV6MBRhgGIg4KDKQOhqtjf_RoevfZGA..%26ch%3DAQEAEAABABQGR9-x1V3HT9nM6UWPTsvn1ouwb1fi2SA.
+.netflix.com	TRUE	/	FALSE	1783551687	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+10+2025+13%3A03%3A46+GMT-0300+(Argentina+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6be13ac4-8ac1-4619-9e3b-cb98ddc298e3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783551687	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQkKXmnFUyxtT46V_oKy8rTFeDzmjsuTX4.%26dt%3D1746893023873

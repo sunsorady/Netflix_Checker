@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Monkey D. Kevin
+– Email: sandra_wotiwoti@hotmail.com
+– Country: MX
+– Plan: Estándar
+– Member Since: febrero de 2023
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: 7833
+– Phone: +527531440329
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alejandro
+– User GUID: XFGJ4NLGEJFHZFA4JIYTUSXXSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811718975	nfvdid	BQFmAAEBEN_S3_ws_eYmo4GRcNzl0tVgxt242E2ct8S3-K9WU59DqfPwRPGM7BZlE4FKxaYz9_i-5ias0cc31S1ZZn8tVwFC_XbqO9PxIkKnuuqDpoLjGLMMxMFYQXLqYm7CP57TD5E_6T7bJTrU1RhGV3RloC8m
+.netflix.com	TRUE	/	TRUE	1812071998	NetflixId	ct%3DBgjHlOvcAxLtA8Ll0nWpkQl4DEYxwFVMevND1GsnoHEqkPbGx7kPlS5gXLxtcE2Vx6vPYkb6vsQpPWB3U95AwwnCyrjYUnxgjnMe4C3TiEvQI2t3s9ZNl_UbtYEcHfUKsKAcHaHUKwn6sajNY1HyOEFGCVyz7NdxfCoLtNEfSqow0SWB-dmaoMB5I90ij-mRRTiGiNiAWm5_PAu4vn9szYiDI1f1Hl3mjQKdl8ELiB21xVADtyiIQSyyAo9rIK7s5RpkR5yWaMBAxNEbACbjtmysmgLiYV6iwbP_5ecTaCbfuSG6zz4iX_J04l84YKRU0-KgLdW7GWELrD4H7HhEDbBAWy6nYBROmCnEwRl03WH-CQxhYxMK-gkZQ8KQ0BEDMMf3x2xDAzsJr9QO0gLrKFqtK90xnFD1cgealOxQE5tsshupBqgE8LxSZQqsqxVL_AcfXa3NtjB47Wfmej1MvVG7Z0X6K07_SZFTdFpnyRZW9wduO0yhZRznMSp-LSfmWDuokQqdHWK9GlTvBFi4w3Fu31LGW3Uv95POHXqW7ZLarpMEtiWk_jR_zdUCPmWr7l3bL_VQFhabUBVBglPyXtnQ-fYOzaI3jj35i6i3ZB9fDa54LwggQoQ0kCIcGG3A7eAdJpIwmTakU2Z1TzBLC1PrGynkPWAYBiIOCgy2XizpVVg80AhbrBE.%26ch%3DAQEAEAABABTRMK2bhj0otk3SwJ-zr5ybgJJC7a69cDs.%26v%3D3%26pg%3DXFGJ4NLGEJFHZFA4JIYTUSXXSE
+.netflix.com	TRUE	/	FALSE	1812072000	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+19%3A20%3A00+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4dbd8eee-e5ef-4b9d-a8e0-6f82af71b659&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1780182966827&geolocation=MX%3BMIC
+.netflix.com	TRUE	/	TRUE	1812071998	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsGCmpbvUA603pvxEVcaWpCF-Uj7-D-0U.%26dt%3D1780535999046

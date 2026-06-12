@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ALESSANDRA
+– Email: mamalex103@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: dicembre 2015
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393311361406
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ALESSANDRA
+– User GUID: NFX7MWEORVEFVANDW3RFFTH2K4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783551688	NetflixId	v%3D2%26ct%3DBQAOAAEBEByjoeQD-1lGKdTRIbSEktqB4ALKpyRyfrMxwGZboHgSEqksbH6cppFO79pffGFy1KIN4gSjkm0CzZO1Td2yd7ezxrvAwphAJjrbt1PyTjyaFTCcIYcBrtDHOJ720N2S4C9_3LWxn1YQT4Fu_W8fqwbEHmJV3kA54008G_d_EWk_xyRLA6DAFqoJvPlSo2pNbB9xGLcrrBW5ESK2agA8iAMiDnZflRvkMMc2SIgeiPWMfem17CKn13PXLxjKAmvik1zw0j35J9oNBOm7h_GVdos7usMVWe9QxcqIdH0wgN-kSfcgmPVdfHnDmDFNBlgBtCymFZsQPHhaX2NYGOU10TXpWiVrQohsL8eXiiplCcoEIpkDIJ3L2dqABuBQ3CBlzDiufYXWIa352nEV749JOiDMRZAL3Lx-0eU2eEDvjpuKg8_V1DdfHhBUsmBbQZBlX49QPhffatbixK71gh2uX8Z5IsOo1GUaRDTbGTKRyawpS__c7MMSRhtd1Hi6M58J82XwrDa897xIo3zYniGHLe5bJzRhmRCVih9TvGrayoNazvgFWGi3CSZiLwUE7JBiFExWJCKA8JsemIkkddRJwmPpbXut3dmSXHAZHlqeaP_k3vszPAt7RucJfe17-arwoHvM1_EikafnfrIuWvL4B7siRQ..%26bt%3Ddbl%26ch%3DAQEAEAABABTZQMDEt7EeavS59_YNO3XAyjwJlyUt3qg.%26mac%3DAQEAEAABABTp8Il10PvPlILw09BPII0PJ0TXk60-rng.
+.netflix.com	TRUE	/	TRUE	1783551688	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTXDP_ZqzM6JyFpOccY4m7iR7Bcb9bzNP4.%26dt%3D1660554423092
+.netflix.com	TRUE	/	FALSE	1783551688	nfvdid	BQFmAAEBEP4vKV2nTjFy1E4oPe6cUMBgb2A9onjNVpltiQmkS5dYcx6w3E1Zjx6pnjRNcsNGKvLFbTquH1ARcxQ3lkT-X_RMUJo8shDyzC2eXazT-8Pllf_u8AdEr2U986rDVewMptHezI8orCgnMpIe85hIfBwO

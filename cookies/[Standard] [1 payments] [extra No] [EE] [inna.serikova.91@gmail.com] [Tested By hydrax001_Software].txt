@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: inna.serikova.91
+– Email: inna.serikova.91@gmail.com
+– Country: EE
+– Plan: Standard
+– Member Since: January 2019
+– Next Billing: 2026-07-11
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: inna.serikova.91
+– User GUID: 4WBVM5HPP5BJZCHFDTANOMRDJY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1978331926	nfvdid	BQFmAAEBEPddo4tbig4jzP0smjO4mDRg-YWd9aCllj1bKZVc2PJNgsoIL8EviVCONCT_ySiSRDEgdy1Dsf5cxOJUSgeNlGty1FHv35Q51vKwsT1Gj3NpE3sLK6QQq28EcwcwZxs_XqCACA3aIn1R0QfH8zfso893
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTehL4-xAbcmMhWi2x6IcD5AkgvDyzqJs.%26dt%3D1768239800093
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxL8A97nTSdG6klokYeOBoooT3T1XRLLivbYVp15MnnHJmrQm784hzUCXcvs5JL7st7OowHpIZfIr8j1LVOdXl3UhS9zPPObn_8WFHIf-rlsQsyG8gTdeyGV0tzXoRKUwSx900TMdpjdQpwNwuUtEWVqU5cOPd5mG_SPAfXO5Jh20npjW4FdEHxmosgeMWSyD1IsVm9mRBBCJAOgIgIz3q5I2sLaMmdeMdbapdRdpnMb41D865AtCN6oVy2PCOL9nyXCjkTRrIwf8IiXpnolb2vBh7lCm6IZ0zUbWBaxA-LclTw9VB8CE0fonf4HzdQzYKB7TkHhLd2CXagzDgxtV3D5clOEWz3HtbhM9LFEoO4LzeGrv5y3VkeUFMvsPjABIVLHyKOiqbxBgcpZ7Ptbsww3b1ZB9k60DUOfkPc6pkF7TZ3-Xr9SJWRc1qdH-BkePsVWAc-l-xHVSz-rIp2_gNOMfqir-5Up16bbVfXrFa1ZN-dC4iAJxMzyHmbZXUlKCJgLYiGUcpHiQchOZDTEaufmd52qys_JHR-k-idYL6AY250O1k9Fef0SIdVjaX69B-ba0lV-awnMVeouczbjYCXUHVZHR7rk3P7FQd6xLjvlqlzd9qLXH90IWgFwxHg9FMzY_m08ZisULGsurGm_DwDK1vsSxcRSratLlueeCJkYBiIOCgxh2lF88Zy3-_XYr6U.%26ch%3DAQEAEAABABSTfHj5Om84t0AWIYxu_-jvYQeljqLRMWY.%26v%3D3%26pg%3D4WBVM5HPP5BJZCHFDTANOMRDJY
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+19%3A43%3A22+GMT%2B0200+(Eastern+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c288e205-8bdc-4af3-a0b3-72454cfbffc8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=EE%3B01&AwaitingReconsent=false

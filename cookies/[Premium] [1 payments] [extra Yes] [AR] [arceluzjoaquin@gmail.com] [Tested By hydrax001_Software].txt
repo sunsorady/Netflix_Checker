@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JOAQUIN
+– Email: arceluzjoaquin@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: March 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 3157
+– Phone: +543442623245
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: JOAQUIN
+– User GUID: 3PVAD4FDYJBM5I465KHQHUPZF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803352576	nfvdid	BQFmAAEBELnF2BQvPoRV0uFdLyQo_shgTZYx-hGyAhMV2wUoya1uIwwiG6EB6W6DdHdvjJMeu0P_ubpTqBLhwH1V38G6HpEVgUgGKkjGRu36o8BeaU02PUreD1WYVghpHH46Xso-4q3yL4UGLjksEsRqgvowzdfP
+.netflix.com	TRUE	/	FALSE	1803352583	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+00%3A16%3A23+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=317cca24-017e-475f-9009-cefe03377c35&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771816576978&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808724433	NetflixId	ct%3DBgjHlOvcAxKOBL1g2HU0nNHZf1r15IHHEWHxLWYqzbPW_McR4d1gkQ76z5H8k8AEZHUwlHV7ukiY04y8ENPKwfLfTMGurA5LokEJmFDFIL2pDQ5qYORaygzmvVImDG4W6RgQsniz2YsgIXfigskOpj9ShhNWwlp6Eqi2xEu0trwD7zO8yVgmXNd39-f_N1b1_cjlE0De7q6ByGrH4RmlJEmEcmA4z1joi3c5Dtw1jbtwQM3lgYeaQjfH0hzcUszKTaeWMRKptcXfr_6e8qpzx9QiPSuhXU1DQeZoYiB1D44PEI4bdX5ksmFl-DRD933OzFB7iBfHJL9GZzFf_EaMM6ATvk-FfujkR3WGlBfkm-s64s8OGiCog0KGskEwJO2_Uv1koW2AEb6npg5W11UhII_M3t46ReKlttuwaVyCTvppJclfvw0y0yzhExw0FUUzj-YwwM844xboIBHRnDxtLxEmCOxwdVVpFRvuUHHF6KhLYeT-Po57ZU706wKuU0MPZK751uTBZPfvHwHCE53XyUNODHKQCXvbwSujZjAVJ2aHwP_TXIbnzB2pA5e4-Wj4ONSlSwmTUT29z92Xhda5_dxb4Wv1ACvmpHkL1aS5jGr-3Jlu9bBg4l69unZLeaNjUwERbP91fWE_SkP4sAg4fhwVQCZXbCM-Xobh4gc7t8zzXlxMFwQqHY8dhT2Cy1CDUEOViSv0r_YYBiIOCgxxYVe16W3LGioPy88.%26ch%3DAQEAEAABABTz0MWi127iwV0mvCG9OyuJ5JEj1NaxHuY.%26v%3D3%26pg%3D3PVAD4FDYJBM5I465KHQHUPZF4
+.netflix.com	TRUE	/	TRUE	1808724433	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT2X2eOhyURu7h6YwcbUJ2z0ZcG4eOYLqg.%26dt%3D1777188433902

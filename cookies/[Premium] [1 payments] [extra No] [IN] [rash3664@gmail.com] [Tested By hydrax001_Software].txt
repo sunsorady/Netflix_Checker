@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PRONIE❤️
+– Email: rash3664@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: agosto de 2021
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: +917043891995
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: RASHMIN
+– User GUID: JM6CC4ULTFHNPAJYGEJ7XTH7WU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792578798	nfvdid	BQFmAAEBEPtl0PLKUxxSAcDvl97B8WhgYd_L_vrb2_V3lCONmWtrAmsXA48N6cdgW0IpZfaYZQKjGzlIUWqYJIKUVfLsMl-q3SQ12qRjoZqRQKwFL1q0S1CXIOITnPwd95sQhoK0sEWv3nbr5nmyKP1NbFeH5THC
+.netflix.com	TRUE	/	TRUE	1807116664	NetflixId	ct%3DBgjHlOvcAxKKBNDiTP3o-mOteNJKJOUcDjLo-f1b26oXtL-1YZFySmOeZN-C-BZFhy7FAowgWehp5o6IeDWOo5--u92AAhhuoBox_HQLiyBDTiO2HB7YJknaICIOJ9uURxareRi2JaB1UZ7RN2HJXwV9nmyH8xb8LPLh-rqXrINwjLXw7IDYRvf3chwK9cNTkU72-9cqumqmXWP4QlfnJ5MJ8vV3osqnL30xsTbnauP2vK-SB-8YlNOCHE0vWlD7zUDvLvTBk1c46iVSzG1p5m0-Fi-M1pxfUnFS5AoFbAulDqZONK03cvKC0NIG6RO2Pc5kgBhxdtAxxha_ry1p6AHJRknJZg-80eNxn8X-YkQm3eEK_8VJ_ldr2csiDKqffyAIvEMyVqZsWOoBpJ9CNbQ_uKpDquP4BwbDKWV61QfJhp7y7RPbnHotzwxAzuliYq4JFRMFXkjfnBSzjNG8L8Z6bh9sdtej4d5SkzxIJEsT5BItfgqUDQ2jTBg3IQPDS2HaKN7tvJzmbW1CJ325eHBxwrh_miJJBAg_bFJjNcQ8AQuu61zobOksu9sHf4CJOCWr4uUIpO3zdHikzZin_QzoKYo4K0M4o1lsEGjaOjXWmAct7PdAIsqtVZdI0U6x_3dhtiQSwOIIOdnZfi89TgkZj8jOwAuMPtuxPOl1MZrDeSFg_8zz-BKvsIH8d640c-482xgGIg4KDBkdAQe_BgsedZ3w3w..%26ch%3DAQEAEAABABT2LNZqv6FLqkdvi19Z2zuDqLA4MPsrgvo.%26v%3D3%26pg%3DJM6CC4ULTFHNPAJYGEJ7XTH7WU
+.netflix.com	TRUE	/	FALSE	1807116665	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+12%3A51%3A05+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c325824-66a3-4624-9cc1-878d0fc01ff4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807116664	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIy1Li5sp_UK4KVjs8c7nX7-YdZ6vuRIM.%26dt%3D1775580634291

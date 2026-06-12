@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lady Pahole
+– Email: samanta.pahole@gmail.com
+– Country: SI
+– Plan: Premium
+– Member Since: enero de 2019
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 3599
+– Phone: +38641566550
+– Quality: UHD
+– Streams: 4
+– Price: 10,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kliknče upaš
+– User GUID: KGZE4AVT2NDDTEOFACRIQW427U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEIZwRSLeD0ZLSf52w55uT9Zg3YYVvWXbhyRLQXntOBkYFP7Lu2Y35maY9M8XgkuAPkoHbzhAh6fSK5Jzca34DMaJiEnB1Ce8vVrlfzwAP5AJD7xIYKpbam7ibQW4uUdPkDeiJwK7uF_LK25MrJfV7dm9
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isIABGlobal=false&datestamp=Sat+Mar+09+2024+20%3A25%3A37+GMT%2B0100+(Srednjeevropski+standardni+%C4%8Das)&version=202402.1.0&consentId=14cb32c6-15e7-4a6e-8ef0-072c7dff9bf1&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=SI%3B120&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1783623127	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTERsKdRRNj5VWpie3aJ-eEtkxCQSKoOts.%26dt%3D1714923058638
+.netflix.com	TRUE	/	TRUE	1783623127	NetflixId	ct%3DBQAOAAEBEFAF4vKPSiMp8qebGAN9efSCYAmiZ6ROhMxlx1wJQndqI3nct_wcs-qd5ZNLrc17UNyY9CM_XQGoWk_3NMQAzSqDVkRHtRA-wZzssGC1-Fq7KVVB7D70wcOEWnMFI27n4jGuhd2fSu21w3esFHEL6rcRmXL7UnSQCvf_eT147NAqGhy4y3uOjv7Qi2aKbjvk5UkPE3o1TPjOg5FieExmWNCxJUIzeuDAfHRizQoLaZcXGu3CWLItuOu9n8HdQIR18Gqnh7lwp6vSX0EBUjGIldBaj_0mhuF9QvjZwUFbiY8Xu0euJIYIBFIy6OLnbO0Rp4jf6VqReOG50Z2A4bZqWKxbq75kJDmx7WG0tUBIR2HBkXaWlvyjKPtee-bSrd3HqxMGA99slWcw7-xgmEsPbkukSqiMrKlnGDkyXd5pCUVG_UHQrFoxbpl0SePOB5XI_XMfS7x7L8TfBScBDWMSmHN87kdMA9cz4aueUr1r48UpGaD7zttt0IJYMhSfIPiKy9cxjwlIi56gH5z2ShHT3DKW_2LHdb2SlQkS48PoWVv2XeMa9Pay8r2cuhoGSGfREOSihzwK2yMuiuhQ_QSNayzU7G7Ju005UVsKWipDsgzpR__R7y0G61XEmq1YuIKXTq1Hiigl2Cx63utJzYUd7I6usJEVO2nFGh1JdtYEbFHH8CZaqD05ESze8VaYC7vjq-sC2hGtHxJRbgqXJVD0dEjV-PfUfRrnVY3uxySsLIX7qRz21WdgZ0iBEXgeSJmgM-q1G5wI-3SMmAM75O_T7NZmgiw15DaopmQUdwTbH9gBnExeURftTgaWp_IqCObxFHOp%26bt%3Ddbl%26ch%3DAQEAEAABABSmR0O5Z2QfcLYbcvmpwaXMzOezBNpD3Rw.%26v%3D2%26mac%3DAQEAEAABABTEsv_y2mfNRGos272ooavI4-vqRBfPfeg.

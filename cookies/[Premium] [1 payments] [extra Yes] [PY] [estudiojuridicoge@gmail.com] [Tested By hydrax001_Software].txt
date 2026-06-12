@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Julietta
+– Email: estudiojuridicoge@gmail.com
+– Country: PY
+– Plan: Premium
+– Member Since: febrero de 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 4268
+– Phone: +595985680120
+– Quality: UHD
+– Streams: 4
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Deisy
+– User GUID: XANSDHEZQZHYFBGDAGS57QSZEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789944077	nfvdid	BQFmAAEBEK42fhp7lncPd3pnciJKK_Ngoj_IxRekvys_V2-x_gFLxD0j3xhFfBiTG80tpnr-tH_eLc7tzwJpoWIYgjH5tLbotKL7gRC7dsu8zA5eBEOKt1t6bleTvAsjf77cUMMJm-Sttjohcfm_Gp8GMiLXfTo6
+.netflix.com	TRUE	/	FALSE	1793652447	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+02+2025+17%3A47%3A27+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f03b6475-a6e1-4241-be20-d21cadde92b4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794243029	NetflixId	ct%3DBgjHlOvcAxLlAxvYJ7QA9UC38mF-UqZF3Qrf8kBnCZ7wl-xaOZdvYV1KFe2yn9CX5IvLQxyVeLQp0R-xik38M4ZSQPq1Ip0-tJ0p-MjmsrmoaAwAgsc8jceVPvggYecwok3hhs8G4KJZdkr_M_KjvmwLQl_5bqwp2n8eAsq_UoTnPaRj0RuZgis1xN82yzI9E63dFBjQOHwcJw70M2QfuHj21qvijL4VKvcUtxdccKj1C9oOhXfQfYymmr4PidnawJ9koTrr0HlSrA6bZWZ2ssDg13SqZxEj8L_sff66fYcS0Rpvh2RakQDs7A6K8rFOtxslcigmfbQ_8wRVxKvPlk0cqx8bDKrq0v6qiY4MPWHmro2iMzv4GN8GljiatjpYYjVUdDfrXRjDjoKf5B3ChahUYBVD64sn1Kx9e3tHz0gEuEYush61JjMWhfFFk5q-KAeB7HwiJXL0VA-mcEKTZg3jvnycZjn1J_eH9kes-VOWRmSki-oLySQCdSFUdAGnM4JPv-z_3hPah9knM5i4M_gOo3MD_QeSNNjt7RWLUJkpSNdTgpNfaaDz1uRzHcSUlIW7UvuMcEMmz8rN975ZTZnAhsTMhCwlf2bDkwjPitCEoxoAfifa9fz5UhS1_3XLoPerYRtC52vxTMw0esbGGAYiDgoMNe23O-cjJGWS7LSo%26ch%3DAQEAEAABABTznyHhwoiT1vHtyvJRPS6akMThiGRrA8w.%26v%3D3%26pg%3DXANSDHEZQZHYFBGDAGS57QSZEM
+.netflix.com	TRUE	/	TRUE	1794243029	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRMLSjubjWlBk1Zxi1it7hcSv4k-9sxw4.%26dt%3D1762712418344

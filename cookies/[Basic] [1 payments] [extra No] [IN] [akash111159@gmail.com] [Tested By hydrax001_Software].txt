@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aakash
+– Email: akash111159@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 7985
+– Phone: +918808520009
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aakash
+– User GUID: YQR56JJ7BRB65P7VLXYKZA25L4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807377055	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA-OPlxsyaG8LAIzCjtH-1m8eNBNeZelxukgjWf1HrjnwpROCGoN1iLQZYDLQ3E3cF5mt0BR_4lehWRxyB8la1sZRAI_iNgDHU-OYhATXdL5MxYTeQpBMWbpym-A3XGe6kzwCdjgU5UmmcRha-aCeR88BfF_WmPcivuAprGlfW8JA9yMWOGb8tCPvzV6Lybsb0iTlmW2WdOkg8tpUaLVcB3IBUgvf9FrtRSsZftVvFM_P4bgtFme-9GO3l23qqV4Ri9ClvzskUybyj3XioCnok89soHiEbBcdJ9d7YCiZalPyvjHaKyfsvtsp79VXzQbTzpOicQ29L6vvvRE7xKW9CTbvd_cpgQC-ak-Ox2TrIkLWjXnWubS-0tv3k325yS86mm4jeTTR6oSAQcKr-4IfbXhJr-gXP5JdU8kMJh0QP6bFe0Y3Qq1PJDfJWAwFmkbEUNW66--Sfo_kwLWs6Ec42GEnp1kb1jB6G_pacfkW3oFlyEi-bPjDI7G3xqD-JxyIpd_hyTpELKbK1YdFhG4shS5SxWlXuXhHkH_vcb8bzAVHHBgGIg4KDDFqynr_ypAfmeQdMQ..%26pg%3DYQR56JJ7BRB65P7VLXYKZA25L4%26ch%3DAQEAEAABABRvnntEToDkLyvTePFc8rBqaSjQgAlc6bg.
+.netflix.com	TRUE	/	FALSE	1807377056	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+22%3A40%3A56+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=396efe45-92b6-4a3b-8993-81f1dc4cbe06&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775841055712&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807377055	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT44nCtvQmuHTXeCdB8iDNaEF8MmvS5uQ4.%26dt%3D1775841055564
+.netflix.com	TRUE	/	FALSE	1807377055	nfvdid	BQFmAAEBEPYG18H1mYFJPueZdxmOG51gczI-5PnGVmacopXIuj0bqeuBjUyY_fXMjiKuxvgG_0M8tADNv9RU2UZE3thhrcdpKeBj8vwnofRJ55Mj7wGUjHuLJjgeAjHct6ijmWVPkN-p8I2_fY7oxCAgfe1ZAJ0L

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: alpam01uk
+– Email: alpam01uk@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: January 2026
+– Next Billing: 2026-07-04
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +447719734412
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: alpam01uk
+– User GUID: SNEY67SNZJHW3PUCTLVNCAPZEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3800723344	nfvdid	BQFmAAEBEAeIIdRde2Lj76Mf1D0HsFZgEd3GYdGkSXX5qTbHKoXAcrtxyAt5OslX79-kC6rC7Cj0n9Zdrghqw511kHYq_s2f74wwrySxmJVoGPuumRMJWg8Bvb-t-z22ibvS1vQMLKCW6DxWCL6gQJrgtXMqjV0H
+.netflix.com	TRUE	/	FALSE	4172686272	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+04%3A30%3A16+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c5232c0-a9e3-435f-82e9-da1bef6fb24e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	4172686443	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFeaTPr8QDmeOvoWXPpaD5D7Txa3vSs6k.%26dt%3D1767933016523
+.netflix.com	TRUE	/	TRUE	4172686445	NetflixId	ct%3DBgjHlOvcAxKfA6Nm3rqp07LapZEZrmsRKbugKILCrzL104g-9Vfe6luD_AoQ_EpwaDYxkjSkm-U7J0gKu-tzLz-hveMZ6-lo3F_dg7iL5Qafca9nz14zNa-DaAPN8rrfe7WSTqdZ7Ug3SWoAQsjDK0iz-jZdoUKq2SIMD4_G2dxSLSuzfzwQ5M6eyB-PdRFTsXBh0Mlf1wwOwkPCBF_MiEtkajiUsjMEYejoLHWbFiebnHWU_QQ3XNBKePTQqeJhmtLMwLqlN9u0kFSlBaY4ty7Nnowj6OWHbaYdDUySINWZbNSAlW8mMj3FwLoeUj4DUN7qKuATDG-51KLgHTa-kOVlt94f0K8LEm1dzV5a-VYtYPcwjehAiIVDXZvaQwZyQbSv8xS26DoKnDD1KF7P-l7vMxxZA4sh0pPloGh248F9e8ogOdUOewdgR7kScHUGXRUurpnpxwjSF87LS4VpC1yw5KM_m9GrdXiYkDqe4xou6GCUViElAOOs1_OLZq12_YzwTtTFhUdk1ox-j2XrUBNxYfmlCkc0WnAI33TvohiRB3-wUoOgcqkYBiIOCgxoNm1kTnzf4QymXwQ.%26ch%3DAQEAEAABABSHFJswcjECLnYai-hbB9nFlzcC6iP8DzQ.%26v%3D3%26pg%3DSNEY67SNZJHW3PUCTLVNCAPZEM

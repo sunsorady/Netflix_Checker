@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: luana.angel.c.jordan
+– Email: luana.angel.c.jordan@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-06-17
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639179914110
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: luana.angel.c.jordan
+– User GUID: LAKSPCFILRDM3JY7JVPTJZEPOU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805900880	nfvdid	BQFmAAEBEHx-yuLz6FMsujX9I1_NdU1gT12hEmqeC8Xl7KesGOw4JCR_Sh-aV285ekS4RDGw-MoBPuOf0L-WaAIsuAs6H7JqxSjHr5kXZEsOi32nCLBhFEWj5Uoe2q31y4nm4h3NyFBSJ0AwXnlbcIT2nns5uS_x
+.netflix.com	TRUE	/	TRUE	1811138232	NetflixId	ct%3DBgjHlOvcAxLyAwvZHncUmKFl1akv6715XzreKXmMjnJ48_okIOR6lCDpjRaTzQL84jSN-ZAvTAlVreDi_ZD5P3jzikYZFhbvPHLG7S5zyOzts8cQeCOIRPP56HdtLQRRpyZjJUMeelzcay56kD-Z2eEcF_dXg59pdkL8yfjruGK8BjfwfVxTtHd2vGESE4YcqUxwAdd7hsXm_1S5KoYTQqwgj3zjuxTc3h-aY_kRgnAIllb3S2T2F0BWxmY_RWZ3-cm6E6d9ZbeVAuda1Z2DVNrH5GifII8auGCWMW20Nrk2tl9bFOE5ejMq--7bF_Sr4aKcSrnpofTnJciwN1arqGXS-vaWyAdAp39sZwFXRdrUyj6lGFpG0poif1oBSTpSOiUE9otxHAIisWcwLy0Ajnx7k9f3Ua7WbDt-pYLI7iPW8pE7ZvoVK7lGxe2lkAy9f2s2GX6L1khVIfr_XNqPtFEUpTdyTCXs7Tb73kh8PiIVjU7adFdUSRhi0Sz6GuE1X-9QEI6A8CzqkrPJx1R92l0x4UZs27Iv7w5h0XHzc719l4ZrFzw_hYDk6c1UB7dKo_Zdk42XmaclEmMlK4Dob0qfEZc9wxHq8Ejm8STIk2mtkKXphMBi9HY-ofM7QWssmOnnbcuqFhx0rHfoQYAWtGfnD1DHMo8kTgd8uhgGIg4KDBsfKMWz__VLcywq-w..%26ch%3DAQEAEAABABRSU3NFh_zdDaY2HWr37ZIXsDiExB2OW9k.%26v%3D3%26pg%3DLAKSPCFILRDM3JY7JVPTJZEPOU
+.netflix.com	TRUE	/	FALSE	1811138234	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+13%3A57%3A14+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5cb50f0d-9504-4d20-8016-7cf944a72cda&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773317701483&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811138232	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBQm_4A_ZVxlmNebRZ6xn1nLRzd5uRYpk.%26dt%3D1779602231678

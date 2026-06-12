@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dar
+– Email: joaquin.energia@hotmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: February 2018
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 2841
+– Phone: +34640852239
+– Quality: UHD
+– Streams: 4
+– Price: €21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dar
+– User GUID: QLWYFOV6ORBY3MP2TEAX5JWPHU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789495718	nfvdid	BQFmAAEBEFjSGOSIdZIWxoAYcfguWt1gzEZ0IEkCsvKaIz0MrcYvRyq2QVUkCZEshgXdVYDecJCDoJVnZwCApWyStbeX3-7f2Wmy5HxdwfL62xhEnAN5VgkkRRLL7y-yg38MuBnhsrjs3T569YlFcFlltPM67Iq7
+.netflix.com	TRUE	/	TRUE	1789495803	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA0-DHmmGm0tTTBAinrkRRskRUjylZwbq_Kn9zAeiEoxOx-UJbbFAc9JQYON64BSxLyipWTe_6-SXPka2GTHnFUud0-luYZjvWTgdh89TsHmmqyFNyWlF_g-YcMGFEOth3TMAjEdi3vhVvsAONfLCgu1yRdl6NYz8YKUgH_IK-ATTjZgnoZ6Tu39TRYWTDwGBMgYsAjrlLmtjKfV8U3ZQjGOhwByyBwR6kGTMSoem1R5CrfIdS21r-w2JEXos3_F5BGDL7MT-hqz0dTYUOGFm7-CwPR2X0NKChFNfBYMiJLKrDg0gfuUrFLpmg-uUzbf_awaMBt9n9ih3c1fD6Ka7G2a6ckuH_S0nP7ArlisYYCLrt-94BhUd_sqB8Nup-fjsGXLaWyTqtCLuUJL9hPTHIkwQeBGlTGRsAG1GaUtdR43zDb6QfeQxbluYNaq7HWLUMfmJCiUivPIiCKWoaYdp5_tHdv0NAczfJsDzmclwaqj3b0D0vGwvXoFWJEGk19wNmqGDpw3EyalZLJC4Ji1n05q9LBgGIg4KDHhAkmGLuAIU_azTBA..%26pg%3DQLWYFOV6ORBY3MP2TEAX5JWPHU%26ch%3DAQEAEAABABRPe8RPL2usEVhleApFg3CiQAS3FkZFocU.
+.netflix.com	TRUE	/	FALSE	1789495872	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+15+2025+20%3A11%3A12+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=170c48ed-e0c4-49fa-ac87-5ea99fcc35cd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAN&AwaitingReconsent=false

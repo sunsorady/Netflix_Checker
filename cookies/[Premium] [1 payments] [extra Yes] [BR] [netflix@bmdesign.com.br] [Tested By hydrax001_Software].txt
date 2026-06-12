@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BM
+– Email: netflix@bmdesign.com.br
+– Country: BR
+– Plan: Premium
+– Member Since: agosto de 2017
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 2190
+– Phone: +5511994517212
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AURI
+– User GUID: XQYF5D5ATJFULNFAHEJ7H4APSI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801534590	nfvdid	BQFmAAEBEPnUn-PH0r4SRkPFpjY9ekxgdx8Qp8G9WAx2QEL691mBfLW6sHGI2Rqs7r_6s2Uic1WuBG_trjwdOxY9JRoI1-VkNSqvnmPo9ddgOwsIWu4JLhsep7IwqCRd1UKUA9RljjGl3qFmylZVoHPA83qHGU5o
+.netflix.com	TRUE	/	FALSE	1808830982	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+10%3A03%3A02+GMT-0300+(Brasilia+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ebf4e4f-7b0b-458b-a3fb-09c8ed5e511f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769998582148&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808834586	NetflixId	ct%3DBgjHlOvcAxKABJ9MCyn_pflR44YGmDx4UWdJOmQMfa44UMAJU8RCIAshN5T66Mi4Nq_X8n8R30Qrcbm4kLxZQ-0z7aAOsUcyPBbjBovk4yLg-9U_GUm02j_unSZ5TYCzZEamRdyZncRvsQXj8Lvhmj_lXEiBRFXxWJE6kEP_rp6Iv0vo3MY4SriHEbjTzEhqWkEEErMK0hIWYyGgJAzHYyN8WNi4SosrQvZmnyRZ73AoC9ed4Lypz9MFib38cJMTlAv2Gv7nXg2MTmq-qjLYuJXUUrGTeY4snCfRyVHmfZlBG5_KX0tVTg4bCouvXxYUdip0-DkfxX2YG3Psh4iXkgfZnSRpxAasJubtGHUa5L8vVXfIaupX2FLQS_3p3-c-DGTSHlZ8lJs1sU-awxGOAM9Hulc4tNmWalspO4BO0X-oygX0dXpvf_ySEioj98gM8tURRV1c4JsdQCYtnMKeJAB3eTW-_OzIsxGCe8BiViGKphltyDZMpFr5HMtQ8tERHy4r1ufjghSM2CX-3xZO2UbAl570MY4CkAtXZzPq8uAw4DvtHcudkqSh4WHHNYHUixtpGFPayog89HqnG-1HflmR3A4WXr09jp8r0SLzR4ooD7LnVu5qFDhe6SCpDnvjQZAbVkNj5mkktrAmNKfTezCcSxSiVQU--t4FMZXNpj7IArQ6szCHi1DJGAYiDgoMraW93RRrASCrxfXj%26ch%3DAQEAEAABABQyZoacaQT3ojXy-h-Jo0jCk1_ReXUvxBE.%26v%3D3%26pg%3DXQYF5D5ATJFULNFAHEJ7H4APSI
+.netflix.com	TRUE	/	TRUE	1808834586	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKZEVSqWpbQl2ZnMsLaqVXT1w8NQr1x5E.%26dt%3D1777298681537

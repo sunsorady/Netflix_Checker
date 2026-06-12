@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gino
+– Email: ginoguimaraes@hotmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: December 2017
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 8021
+– Phone: +351911068297
+– Quality: HD720p
+– Streams: 1
+– Price: R 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gino
+– User GUID: SZGTBGUFERGHFP6BZKODVJRBAY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1791359722	NetflixId	ct%3DBgjHlOvcAxLmA_zQcplH784givR3gSR-tfuGVsi7EaAPHQuVy5uuUCY1ZdE_mRo7264mEJOXM_1mlnw-DdHlotMfP-WjOXMbspDSH0aO2XkoCKbJUxTfxEhRtvp6-5ZZ3Uc4RhazWvUe243jxJbmS2M2L5VluYL3zXB5Ax8t7_bwT6-fn-7p9NZlsAPvWhQGQ663FKKBgkBabzRQJkfsF1aCz9zZ2DC_kV0G_5NDHHWbhlcVKpITyZZ9IsvNoW0o0CzHgLRt7bvscgV6JuCnDMq5oroIT5vNATZd6H5sHWSKjcJsYTncobwDKsedKFJ523eMvDm6vT54HH1CXHYuU1iRUbFsjBvB4cnn1rC5b6P1qvOqvLupA9w_7cCTknoRrAyGwN3I93xRt_5AWFom8GzwMMI5_Ascgkg1q_K2aw6BVKR5Cs2yJTDG7pXil5IMAWHE5tqAXQTVzO0GPuxpwXqAPtcFY9OyXapCaL7rfZWV-Vcwz1KdQKhJHmKTDF4FtuLU2uJ5hvNevWuEYzBUwVWoGGiSMvw5W6ZS7Ve4sBPgGTpOdi6Oa8U_RCknwcp-tFohqveVpemKsChGy74NJctjZ3q165v9_3krbzFhbl3r-WKPfkrNJROvnUoRmNRiRt9r3aqPq_vil1GvkkAgHRgGIg4KDDO_4cluWm67jSDcmg..%26ch%3DAQEAEAABABSdvBXFubKZk4ep7TPr1EXaobLfcu5wlqk.%26v%3D3%26pg%3DSZGTBGUFERGHFP6BZKODVJRBAY
+.netflix.com	TRUE	/	FALSE	1791359722	OptanonConsent	isIABGlobal=false&datestamp=Tue+Oct+07+2025+09%3A55%3A22+GMT%2B0200+(Central+European+Summer+Time)&version=202508.1.0&consentId=0efe327c-76d6-45c8-b219-aa173e1eb1de&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=PT%3B13&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1791359722	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS2ZZs1Mk2jqd1Ak5K6psxuSZSjXlu-ve0.%26dt%3D1759823722456

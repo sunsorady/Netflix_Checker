@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: leo
+– Email: lroblanton@gmail.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: julio de 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 0399
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leonardo blanton
+– User GUID: 7PRMHWMY75GRXLI7Z3CJ4PMCYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806037089	NetflixId	ct%3DBgjHlOvcAxLHA7TvJVr8RY8rNMFobBuUY-H0tRahn7OxzI3qYrza9v-WFbv6FYhIa4muRG-rgCIjTCYBJE6RBonNiJdBX0a_Lf4tHdJLjUVZHYyFO-Ak46t7SuVc97bOvrMfM7Nzgw8WhwPEzgiBonW9IU5ygBbi7XoflpEGNZ5DkH4sRyYBg47WWguepcsY2lqTN_mnCtRG1NqinpZkdcvk6pBoPSHgctfLw6DsCqhJGPmM_EZiWa2wvuV6YXwFgogVnRGz67nJk6wGxYuHbUgpeGlLtEwH53mSPrKvOwnYyFA7MYj4boD5TM_vPni0q5yQAMXQwsHti_nrB8v1KjlWVZbaQnSwwZlWO34z1W63PVLGy2Y37trjq8LgVrNziLZAlON-5-I2cjtykKjGCcJZ0ptunXRJ2LDXjB0UacWzeZPK3-erKs13d9nZ3-36zyrjIjf-mTLhBuZaPHsX6VVAyVM0nzEV5nZLtYvPzVUmeK5-wYuAiFykdF3x5t_7ijyhnBiHTveYMourogFBL4eqQmWF49zFP91SUzndeUD_L6KSyPBTf6Iewpw0PU6ijzFbk0j8y60Rrp8Ufj2geILYion-6DFLT6DFgPiM9BMAGAYiDgoM64Qm1Ff4kU-aRjY1%26ch%3DAQEAEAABABRE0Q7wSe_AfDV4BB4oZdvWqISs4CIzpwY.%26v%3D3%26pg%3D7PRMHWMY75GRXLI7Z3CJ4PMCYI
+.netflix.com	TRUE	/	TRUE	1806037089	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWBfZeRAATn5jnPSZ0YDzM3hKHDsFUeZk.%26dt%3D1774501089129

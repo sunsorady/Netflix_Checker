@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jmskiee
+– Email: silvestrejohnmark036@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: N/A
+– Payment: CONVERGE_BILLED
+– Card: N/A
+– Phone: +639071394329
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jmskiee
+– User GUID: DFTZ3KC6ZJE7HIU2S3L4WANW2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808810529	nfvdid	BQFmAAEBEIzgC5EUZb5nCXqb6HjQE0Vgg4lcRIE5zSQ6vKxYT3umDbpaYDUFB3Rsyk-UzwsK3KHpDRlRPoJugFo51pd5IIky2Dv9dr9QazR4brpL6bYEBL-jJpL3-S6uQUgwWchnkQ_Visw8DIGHgI9QFZN2tYtT
+.netflix.com	TRUE	/	TRUE	1810093158	NetflixId	ct%3DBgjHlOvcAxKBBDnxdC-4c9U0DB7eNacDy8L--CFOxGrrUXbyWQ6Nhba8Anye6P87jfgLtbc0TfuhZ-9ccnFo_3RYQyUriGSWYy3KoiZmyhPN1yoF0Z3yr_P5AcqgBrMhPYDfB1nQUCFqmlRXemxm7WHj9e0W3Cj72dte_CC8WGy_6M4wrRK8PSr2Ot26xzYPCMRCvMQ5hDp6hyPRKWy9p1HGRbCRvOfCQUbNbW89_IDmtfj1wyH-qlKVczNcTwxXk5BfkBcPzyLDZVWK7lcRWA4f9LDSzj3s8EhubT9foNT_lpbFzepAqakYw10Dr_CmO8lctMeutTCWkSUz1Is8XXfsyusnXepzn1xJP-JWaIM5XhfoHUbMLuUr_QneXiFg70F-uJqUpWOJqheeW3CsYWhEcIAidU-YtfMd8ovmYCroQ5zL1vnuBpHis3SGlIiYxYaecf48lObIMW5FivEbW-3DRTvC6cRMdM0w1go1o0r-VYhrKwkskJBf77gpjeLm7RaR-9bEdat0M9FpCM30g35s7dG5J1TjCz4cxPvw50iX4zwev_a8qFrPVAPgD_49Qua_XnddS53hW9tbRWM0pTXNZkdokYdEZcYqCygG2xOSkL5iyq4s20oqd-_HM-GhFYS4oMn8XdCAWbgST5u_uJLXOtgy6gC-96HraH_pdrQxDSEJF5Du0svXBhgGIg4KDD8iKa4FcaMivk4BEA..%26ch%3DAQEAEAABABS1lDsb1wYX2A7wp9zMe8sH74NKvWwfrVw.%26v%3D3%26pg%3DDFTZ3KC6ZJE7HIU2S3L4WANW2A
+.netflix.com	TRUE	/	FALSE	1810093160	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+11%3A39%3A20+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=28901547-7fc4-4e01-ad0f-7b5c5582b319&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777274505240&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810093158	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPCDUtW-d8orjpa8bgP2GZOX5BfbgtIAc.%26dt%3D1778557158517

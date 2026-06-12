@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fabiano
+– Email: mafalda.b.f.c.2019@gmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: novembro de 2023
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 3900
+– Phone: +351934650441
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ana Mafalda
+– User GUID: J35EGGILYVDFRAMHUY67VGTB7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805578401	nfvdid	BQFmAAEBEHxwdFo38kTtyXULskcfgAtgSuhJT8cEEzHvN1oVnFI_ztUOOF44RQ8Cmon_eQgyMz_vHtFh3j4-lGQ9U6RochSToj2vi2He6JGrSZlcsV5RpiZ4SBmzzqtP3uCADOmvMu__vmHmDxAdz0ciAin1Qrj1
+.netflix.com	TRUE	/	FALSE	1811022972	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBcCFE0YsjtCf2T3fq1-XJbWFmZZH3U48.%26dt%3D1779486972513
+.netflix.com	TRUE	/	FALSE	1811022972	NetflixId	ct%3DBgjHlOvcAxKHBE7O44tX2zTFwHmgtgtBPi8I7KApHMlDw9caKiEA4GEO-HUT9yBuWCibb-e9sjSviJc_HCjp0CMOf3YM0hLB1F6AGj8On2gnGxCOyaK088AQBIeuDuOBWnbSQDdv__ev9f7ITU6pOMLODD62XGXzWyoeY76Ub9PevgGRYR0DsClhCqo4nFimXnE-OwyAdicQc8gT55paVJiiotbgHAbL3beXHPcH5pD7HrJYoNqEvKvsYF8iGk0Fv3XivfT2bfdku8nqpl7Xs8hcB5dJT875TOZ6YlRWmDad6k5HBwBXe-qP3ymZFakKjxw8tLy7uopPwcPuw4gdhoM4K4nZ8mmdpGEnJGps6rfURnovN3NpG1owF9RbovsviUcTe6GZC-g8yUZqeODJeG8BOwVBHpVoAeaMZfNNFuVJk26KwI7mBW-5DMYaL3O30FM4aj8uMt2wPO3V_N9Dumg_KvwJCvlWpN_KmqElAulGj170j82A5nPENQ899JSSIB1VNcz6M3CEgso6UURuOdQ0lHTBGhVBuSdJg5sb0BPG5XBeRhVIzlbxd95up_vSEs7By69j-dJdGApqoPOgmKZjgttRGD_6DxJum1kxJoovfTWANscVFk5A7T0Jx3AA2G3EIsz8McydreYsseGOcuLZrT7c1OHdTvd2WrWpbaDl10U_a69HA76WCCA3xS1vVhgGIg4KDHl46Xb8Sap2so3rHg..%26ch%3DAQEAEAABABTA52ayi1zKcBuTnQw9EJIg7U_mvfnuPyw.%26v%3D3%26pg%3DJ35EGGILYVDFRAMHUY67VGTB7Q
+.netflix.com	TRUE	/	FALSE	1811022974	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+22%3A56%3A14+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa556c17-5530-41ec-a461-00104c3a1b61&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1774042309604&intType=3&geolocation=PT%3B13&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

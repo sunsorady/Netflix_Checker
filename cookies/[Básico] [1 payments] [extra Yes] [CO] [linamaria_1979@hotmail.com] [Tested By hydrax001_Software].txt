@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DAVID
+– Email: linamaria_1979@hotmail.com
+– Country: CO
+– Plan: Básico
+– Member Since: julio de 2023
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5162
+– Phone: +573172614983
+– Quality: HD720p
+– Streams: 1
+– Price: $ 18.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LINA
+– User GUID: HQTJWARL3JCXPLEASAOT3JJPYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1838690113	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+22%3A15%3A13+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b86b701-84db-4cc7-8bdb-c0195973c665&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774308069608&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1838684916	NetflixId	ct%3DBgjHlOvcAxKDBGW_4IS_dCM9BMC_ggz6Le8qLq20etcZTVlDqPSIfXE5MC65Ujz3jedIwo6poKm_ni0Z69kVtLZbXKVpKZpeiaUQTq0F5DyWpVIWV8CZGrSBGf0fLo8vaPkaX2lioL1TRZ2hDOgbJEg30GBd7QBcjtIR4rK6EqSWdoiuiPUSabqF3RCuXksqV6Vvf2w0er1xhqefxnGgUllvp-skVKpegL2H9qxoMaiFT5uwEfAAg0nNSW7PPrzktwihMathn8mqn3EwMZGpy4fO16Pk0kX4mpFqbL-dnpNdSMfhsobaf8dHF5z0seE_KgOvW-iVVts9tauCl-8PwRL8DSOvtELsy8Rxtxf144ovMXgpcBYn7cUTgrucRGWbj64sG_1oDuJvfyXJgcpzVLuFkktTSxvzilDtLodTGn1f88ZMQRFC_T-uqimhG7jJ2HVX9BSrI9JTy7y-QEc649pz5bDnq6CvfJ5-IPRnmX1Ic6y44ov6dMoeH859N3tkRMtM-fR1KFTzozspSQv1JAZq-M-ZSwANHzJ4CMaeiShUaAKviZF6SRxFCxJACykl0vCx0wuoua5EqjWiFZTE_oRhL0Z1XytIzyhxST1-kAgIT9JHgKdUKpyVFKOJq6miKp67c6sU9BVGdAAgkevXsxFoW3w3W7UvY3vUiI89sZsDifK1icrt8pBc57KPGAYiDgoMFOQCkyzXWFY_M9yM%26ch%3DAQEAEAABABSnZu6U_KRsn-T33Ofie4dmr-adbbCGhnA.%26v%3D3%26pg%3DHQTJWARL3JCXPLEASAOT3JJPYI
+.netflix.com	TRUE	/	TRUE	1838684916	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxbRa5PFBjJ4vLKPG6DTd3C6S7Iqf_LRU.%26dt%3D1775526516664
+.netflix.com	TRUE	/	FALSE	1837466525	nfvdid	BQFmAAEBEBAJzmw-BrSVotCeeKowhlxg0cTau-9x0EAKlw3GjAFURkdeSNsM8d75eR_4CU_uxsgX0ESKuA9Y-buvuJlfzJM_wf8R2wBMTcK3SZvrmjK5Xjo_nJFQEUg49ZqfVwvr29UL_7uUFUC4EFNyYz5yYIeb

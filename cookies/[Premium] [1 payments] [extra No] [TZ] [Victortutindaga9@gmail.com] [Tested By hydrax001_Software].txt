@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: WPV
+– Email: Victortutindaga9@gmail.com
+– Country: TZ
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 9558
+– Phone: +255764515161
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Victor Tuti
+– User GUID: EUFUK3F4ZVGUTGAKSU646PQEOY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800690335	nfvdid	BQFmAAEBEF_cXKAmiqnGdtXC3AHmo6Vgz9HzEo2ieUqDLyOIKmcDDqzHkvG4v1BYtY0-M8tX36BSj_a7oIzVFXfi1WEzAmGh2iV5nwla8Bbn8H0vM22clSdUTsjg_iMzvXZLPcBSnP2mUuDLudU-Jp3XB6uta4Qw
+.netflix.com	TRUE	/	TRUE	1810038189	NetflixId	ct%3DBgjHlOvcAxKtA4i_Vm0tHGanUXAItbJYxN9neqKrcAnB4EYWz7kmsMF9VDna2ffTX3JsGxpoVbRXMSBIyL4zzj5szPwNPcWzPeDP-gZd7TGjX_RZNdELm44f1NNoMCPWQIXxf3g9xF-nBi2PnOYSF2fWM39zAyJMGCWuLITnfM11tZ7y4Xid9A9xrnaslDZcpROwzdaPr8DWixSl3l7GcD8jvH6hYKYMBSPb_t5atPnbEb2-jevR2IGy87ro1jwwsO7b2UoBV8I2pIu5-HgtvapY1OoBU-82cO1d3Pk1KgT4GwySEfXM5V7e-3KpzN8HWieiFqTS2tqmFU8GtaQkW0qeeefcPau3TILQ6qZ8hwJIyFvBG17XyIYtUNfgflZvJFonnpvyW_2eeEFccqpTKS8qf80uEn16qozZACdG49o5moEwRQBJod_qJMMcp-CIWir0UOja0aq2xe8b5LU4J8KKOoQD7l_QgS-bF_K8J6wNJ4evl-p9A0Sk50Vx9whcDIEb1N-BOL-leINrqqwktj4hHPWiqyhxSBO9Ep_PS5YQAopqmfWUQjJzt2rKRF7QsOpLj3FQahgGIg4KDIaXYtI5tHKnsWX4Wg..%26ch%3DAQEAEAABABSHn2Ohgyd7PqdBF_C-TEziRvaSKWywiVE.%26v%3D3%26pg%3DEUFUK3F4ZVGUTGAKSU646PQEOY
+.netflix.com	TRUE	/	FALSE	1810038194	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+15%3A23%3A14+GMT%2B0300+(East+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6eafac42-f47b-4cd8-9436-12504fe532d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&crTime=1768976590258&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810038189	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFrMCndlSziKBawyVdrw2-HFzsSVmuAXA.%26dt%3D1778502187285

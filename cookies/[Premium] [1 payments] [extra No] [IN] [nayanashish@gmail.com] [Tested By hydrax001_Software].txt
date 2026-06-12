@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ashish
+– Email: nayanashish@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: April 2022
+– Next Billing: 2026-07-02
+– Payment: UPI
+– Card: N/A
+– Phone: +917303635825
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ashish
+– User GUID: I7EIHV7QAFD5HEOP3KNIXPXJJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789322132	nfvdid	BQFmAAEBELpiwQ4s4hb9IQ1yBC_DuW1gsZ7ODCWvp5XySLrvlDgqgyg_U1V4MVGJreqa4abBfT58N10PI6oECr7IqIdJSDoOgZTHHxFcHNGzTf4ryEqC1AI1vnbatKDuk4a1LWqPKKkyf4xPLo0S21Z_XtsVBSe5
+.netflix.com	TRUE	/	FALSE	1794228056	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+09+2025+18%3A10%3A56+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3103b9da-155c-4457-9184-1a605decb32d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808150487	NetflixId	ct%3DBgjHlOvcAxL7A0bVAYgGAVr1jcrozDasmcsgabpodI2E2oulBE1qnbPF2coThrk3Kysgb5fJO3qx4MxJiHVZnXUHplMpseK_YVjuRfOJr46UJba3LQCpQDaaelwSmXPsqhE1m-C8GKvAbKW4ysjNkduzsS4ejH5-fjuOlu_M8efMT8jw4Ny9p_GxQT9O9pUe1cEXD5_fgvLJZ0RPovt7HbIQeDmZUuNHAVPh9nhFN69EA-LXyIOoerfHa-mRO_Y4PEaO3pwnj8enF0vOIubcreGkgWxztx7i0c80O1lNmRIhpZC8EuMZfOyDP0333Ig3weDnL7zfbrMF8XClCiu68HTT69n-h7Wy31voFnMP2mQk0lAjWeXjcXLUirB9vouN00NJotx6fOzsu95847HOEWd5jevDLofMTikm16wA1W-q1hr5RCDIo4jLIfzA8pB1G92-VbaBYVIefFkMbwrw7Lc2hqPwMjf2zzaB0_9ZaE6cJivG1ha2YjP-eFSyv1Et5UcN81URecoQRU2KqJNy7FUEgZ9jkfH2kikW6jsy2yfcXiYWYFdn3ZHIkIijZ3tUwTCR0yPc-onN9KLd_exNtSSGUGgfFMN_JDCBhFFDTbmMKubKc6Pe-f2nvqhpEgb0kCpK94Ik9FB9E9FcEPLsbpNPaPXwP5xqrkGUVoCAUZJ8E8z6vhgGIg4KDCPD3qNUGPymux0QCw..%26ch%3DAQEAEAABABSCosl2xTfyS9DDFeIVaE_fSK0_5FMj9_c.%26v%3D3%26pg%3DI7EIHV7QAFD5HEOP3KNIXPXJJQ
+.netflix.com	TRUE	/	TRUE	1808150487	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdSe8Xe4RgZaDenzRLWp9dDGcTRKm7yjQ.%26dt%3D1776614489103

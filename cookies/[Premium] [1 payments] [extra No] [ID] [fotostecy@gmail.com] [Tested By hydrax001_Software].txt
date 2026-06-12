@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: C
+– Email: fotostecy@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: Januari 2026
+– Next Billing: 2026-06-14
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281252333649
+– Quality: UHD
+– Streams: 4
+– Price: Rp186.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: A
+– User GUID: 42VU64BV5RHRZIYF2VSWRFUN2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808805928	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+13%3A05%3A28+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0cdd4c00-4718-4e08-9201-f55ac549e47e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1777262506577&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808805924	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGttjopTPGM5DfAoXjGhunvvoQsSnTZVc.%26dt%3D1777269933187
+.netflix.com	TRUE	/	TRUE	1808805924	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA4daqPLx3Licy8OiBBUY1yO-1dqd7AMuppKEDBkfzawwXDWwkUyk6C7Sa9V86aKzlga0Mk-4WPSoIkafONlfG_oysjL2s3UCq7wcNC2ZXdNsotftp-Yv3-r72yZkQWPLwvlHazDaWpO6QEfe4mTMjjNoRz_9v9YStq_9D3yuUdE9atkF5A5igSr0UsHIFlue4yJJYjZqX4bvNd0J7FVslkO6A4ZD4akpskjr8-6RdQyVPwxIiUsQ33kgYUk0BGSBDlLQOzsGgh0CwVuU-Vk-N4aUyLNspYLw4WBHHXh6LnPc0Tvv5TYFK5wIFqdM30zIDKoamkERipKsahfS4tGjHRYlDg6RNtxNTxgHzb9dMJNuIBLuIiTGZaBAShCCS6iDtwivkiFZKqdu-u55D6igSFhGSRUvTz6vHM-JwoE0H1ihS57S2U4FR9OS8aY4DquzkpF787dmPZKDiZkm-Hf3lvvdB6WZx0IaS4Ts54BbQzHdSoL5osfg5hMRhoVlvQXI0gnCCjHEi0tiRvE_OaTRHJen9VKOtxgGIg4KDBtQPa4NKtH1CVwvdg..%26pg%3D42VU64BV5RHRZIYF2VSWRFUN2U%26ch%3DAQEAEAABABTdT6Yo-0k9czsoWoLGsPy1k0yuWQB-SaQ.
+.netflix.com	TRUE	/	FALSE	1808805910	nfvdid	BQFmAAEBEKMVR6SAK6bjpnUwlCO-QChga-_14_TIPHTAQ16Qt1Tai98_wBVWzCux6Pn60FbTmlgfYvDTRJW_yH9vlwD6rJ04nwYJyve1b5L5O2bKjAnWPK0l6jmWtqV9X5m3clxwAV4dL1YhTMosQ8PXkQZMexAq

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: deepakshinde32
+– Email: deepakshinde32@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: March 2023
+– Next Billing: 2026-06-16
+– Payment: UPI
+– Card: N/A
+– Phone: +918850392055
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: deepakshinde32
+– User GUID: 3HKXGAB7KZFKDBNIRUESEWOZP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808292012	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA2cwivcPpYPh1PniR0JvD13JvS8RnvpJl5hBCNp2AlHL-ruQ-Pq0Zev8OJ7LDPrX2qlzLYy8Kgbm4WvF53FPf0s6F446xqz3VGF27m98OK0K3Qg7QNwu_0CJOfdnOsUUnGUfQlvl1A-4RxGkVHBmheXrxEsWx29DF2Y-xZJRWlIgJVDYcUqYWl6RH01SNQ3Jr0KkH7Wy5SLCBhM0Jqusa9Q2xU0qQSUyanULg8CoGg3zk0AUyppqatQcO8p5kghHRrkG34HhrDPhxS9Oj_PR0IGcRKS5DknGCWYEXe5dgtqoL0Dr9GlFjD5vIdV1Qk53c_5qwkruOxAaEls9dIgyTwTA6kY9JDz0M8bHa4BaXp7ET1XGR6pojpHAw7pI8bsfA03DCtNFY9-CJKoiL1X8zIwdRLZq5eXc8irDg5FsbCZt17xb1Qkv94KrwdNzmCwoSlCVqeBRBU1X9d_zOFac0oHbsyrEciqjsJq2UFOAY8RHh4WqAt6losWPMXcGtbjMZHT3EV_x1D81eTVTvtUMGPc96uKh3giAuv7N6XPgmXkj3wIYBiIOCgxmn32q7Vr39P2kH70.%26pg%3D3HKXGAB7KZFKDBNIRUESEWOZP4%26ch%3DAQEAEAABABThymJhvzsr370NLB0YVtFhz6OtHi8GAmY.
+.netflix.com	TRUE	/	FALSE	1808292011	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+12%3A50%3A11+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c52787d6-36ca-48d7-afc1-c87c068fa64f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776755836196&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808292012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiINrMElqB-shN_Qkz6LrEQgGTfBYz2_I.%26dt%3D1776756012649
+.netflix.com	TRUE	/	FALSE	1808292006	nfvdid	BQFmAAEBEC9jXZ5jZegyZzpPkH42Rw1gLa7FjM2I9v7ZK5SalQfbT1-z91ZmfAmIFB8S3D8SXgjrOWbAy-fFWiVQrvQA_nf7Fk7e97zsNpT6WnInm-nHT_JdZlcFbsSRrqLoiS1OJ6FNcJEXN8HtbzE6WNpQgXVq

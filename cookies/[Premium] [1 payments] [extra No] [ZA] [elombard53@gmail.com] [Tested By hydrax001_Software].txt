@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Henrick
+– Email: elombard53@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: January 2019
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 3080
+– Phone: +27729271988
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eugene
+– User GUID: 7CJBDB62EFDDDK7E3SSKKWKFW4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797724466	nfvdid	BQFmAAEBEEZZpvQ4o5ERzi9YbmrtwuBg8FrKm1crZ-ny34scdKGix0lX_AlIXAr7B86vqtTncAG-Mrvo50akYM5N-dwFP7pX62qh-H0jZ1qj0Zql6L5WxMd1LygPMC_oMeDpgRWwhsmY5tEJeYsM9Ve8rCKCGgV7
+.netflix.com	TRUE	/	TRUE	1810463236	NetflixId	ct%3DBgjHlOvcAxKFBFv1ewFT8NLfgS7ITsM9vE_okGbSleabRl2kMh_QSRN4XoCL1rTXGj3NV6_3PU6hS8Pj3W2GLB_6vmX57yUZkCoaAB1N4nJg_ctVJ1XOkifghBlRvbBvxEHKIL_mgaAHqL5OMHPS0DoK3o9z4c1Alf6owWlrgjgX8cO5DFJvqvcQIzHEOsnV5bOBmyT-vCOof9J3H4ElXbI8kcJuBL0cklREckh3B_1ImdTq1TaV4QVdsykmIyELOz5hpzfwXEb7Lr33203pVTyZ7Le56ZsjdcYD10TbVvcgRR92Bv9XdgH8h69dCvUp5YqEicyJ0qBuhuoJW3qUqsrWGSZ-KDR7XRFFWJUM_bA50gSOQcu47i1kDuJZquJIVFR_I2UaH_XvckVW08cpcwbvO8hWYoQfq2DPsHRObLklDFJx8vCHFXyEBRimNJnh4M4_4JEP7h3uN2t8RY8BaZjOABFzMbUv9DRsduPC9daFLPeRwjTazmOttJKHtS1JFIxd2WfsUPp0drt5Xv3cBJ87eKKeH0yB_ne-DahBlcYDL6A_PE7cSq2GHldXXKB_XE186UqAjBpasJ46pd8fy_Lk708t_3pDGIRTPeCU8ZB_scjVPqv3j7sshbMSjKnLf4zwbUYKr7eCmk0DWU-F3iOfbUoL5082PdyWr8EAKopvb3RvdlZFcQm6Xedt3QkYBiIOCgwqv5-FzYz3DFSLDfU.%26ch%3DAQEAEAABABQPtN1JWEmuKgg88SRSDmMfRUqx1_9PykU.%26v%3D3%26pg%3D7CJBDB62EFDDDK7E3SSKKWKFW4
+.netflix.com	TRUE	/	FALSE	1810463237	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+12%3A27%3A17+GMT%2B0200+(Central+Africa+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1286c64-9b24-4e1d-a22f-c23b31ec5af0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810463236	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSdJ7O-vKLc7L9-5kvxorOTMIF0DzWcW0w.%26dt%3D1778927235309

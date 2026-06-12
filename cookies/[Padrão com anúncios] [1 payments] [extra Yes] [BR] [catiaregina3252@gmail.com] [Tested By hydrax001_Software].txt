@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tangerina
+– Email: catiaregina3252@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: agosto de 2024
+– Next Billing: 2026-07-04
+– Payment: DC
+– Card: 4979
+– Phone: +5521989194505
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Catia Regina herculino da
+– User GUID: FOBUAG4R55GR7PMEFY2UZAVYGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802640516	nfvdid	BQFmAAEBEJZi65G1GnLb3X8p1QvGEkxgh3Wvq-pdNuLEgI_S7hHK8gqkkJNUZtc_YJaetczftBilf9YASYjlGHC6hMQ9B4SkYqwLCSk1u7uV_ijlm7SX1mgBJkh8UPvyssBh0m6l4Ji-H75cZWDt8C2VBhtBnoIT
+.netflix.com	TRUE	/	TRUE	1802640730	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCAzvwsubkB86Tb3OinS5nwGMYWyzhdbfzxC98k4B7u5InLwmdb1XurHt8yM73Fk-Fr6qlUnup4hYWu7iVakq17bBhxVVOV72M0afoNdaHwedIx4479Imyju4jnCzTyo9e6WKfr2H-hSw-Af4PICOZvnYBF6bmnmHVejcC6MdJYnl5WIUITtFL23UztCEZXql0gB52Nu9HW1x7WUgp77XmyMJTwoNY6NvOjOtgxZ8Mov3GgLPF24p_omlFDvJN4Z7e6vX0H5B2gD1B3d7QQ1YW7lPZZauBgePVe5vRBy74NWPO3OAdGqdJVSYuGjbOveWTXxNU3czfSYqvgeobcmJIn0iuQ4kXMoHgPb4uGDbylWEWtrHbE6UxZFWqwFyheB4IqpiNukrMCVu5vgHjs_1w1pwIbsSoASS1PvV1tfVLs244VdS-ZghmVWcs66RwMlQQI03P3G4qWDETswmyZef4I1E_MwJh4UqUkXOBPaiq71P6-i3tgOy13JYalteuvp8n74GxGAYiDgoMk0TmsBsqR3OUcGtJ%26pg%3DFOBUAG4R55GR7PMEFY2UZAVYGI%26ch%3DAQEAEAABABTo1STHZyMm8dSdJ4m7vgPlCzQ1eILh4Zo.
+.netflix.com	TRUE	/	FALSE	1802640732	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+18%3A32%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e09a5b70-031e-4232-b179-cc9ed2ad4499&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&crTime=1771104520923
+.netflix.com	TRUE	/	TRUE	1802640730	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSq9mjldIFT_fQuWyyy4OvUaKDgzuu_FzM.%26dt%3D1771104733534

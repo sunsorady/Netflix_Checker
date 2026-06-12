@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: junhaodaniel0112
+– Email: junhaodaniel0112@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2026
+– Next Billing: 2026-06-18
+– Payment: GIFT
+– Card: N/A
+– Phone: +34614193009
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: junhaodaniel0112
+– User GUID: OPQMCBJZ2REGDDYC2JT5CCAMAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEPXpOn8iT_ErEAKdf_6jOO5ge6j4vGD6M0PumuDT2zIKqYeHEKHG4bFxmYRJx5mfIg8yAvsv98932TPtxewyi_KggTa37Gow2D2smrDJtvOHfoRSTfG4YNAsEmH_4T2mVkeC1vS0MoCeKKIeeRqtie5A
+.netflix.com	TRUE	/	TRUE	1797703458	NetflixId	ct%3DBgjHlOvcAxK3Aww92VV_TP7qqFpsvBJvKXrwj1KKQTQBUkAJbHOHnzQb6cT4oj17j_-w9MQ3o2Imbw1TUBEHbWp8RyUIixSRH_TVzhSZc2RcaNpF813pu0DGjvRUvjJixQvhDa4I9zFkd8lR62wYHfKOby7wm_NIKatFDIIGUfL_5WxW1A9-CZtVuNQYcSGmnKryinPX8BpsbORJvTxj2W2Y8bNrJ1I7Q40OAJfs4V9dV6-LAP7TFTQnQu65o1o49yIl4rqcaP_IEKoT2__-OyFJKxO2amxsjo-SC197tFMEeMDgbXbfz4jNKnkS3wXMhRCHh0ZUIt7TMLpst2rh4ZBpJP_94JDnIdQqad5QXaM0JUiY5Rmotn0wY3gKaWfdkpYrZMk1VC8FGhS598syvf2bk_wmdNLLUHCA1jaV4Ul8c-4vf9-bwtC_qTY-KDjsOgU6xT0ID1BqPX6sEcMb3-VYwm2M7wUmFKDmkPDqU9w-mO0ycx7ByYL8YJbETM1K9vfZFqX5_ATU_bkYJ0Vz7X1hAaoT7ydgyFeAJ58lVQJZp92kl3FtYPr_jAt-MQHyrG4k5SALgCoGkAZ8ZVcdbTIYBiIOCgzAsv9whI2WLh2-R1M.%26ch%3DAQEAEAABABRHzP7xqKR7_nYeDq43u7vPmwdEbjfVObk.%26v%3D3%26pg%3DOPQMCBJZ2REGDDYC2JT5CCAMAM
+.netflix.com	TRUE	/	FALSE	1797703458	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+19%3A04%3A18+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=03e67889-8b8c-4c88-9428-2e1f29a7823f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1797703458	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQcb6xSEG_OWWdplYJSk9IIpAn9hIScOuk.%26dt%3D1766167458652

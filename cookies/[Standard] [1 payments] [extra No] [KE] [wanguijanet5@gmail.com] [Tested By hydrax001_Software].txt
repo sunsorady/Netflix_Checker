@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Levo
+– Email: wanguijanet5@gmail.com
+– Country: KE
+– Plan: Standard
+– Member Since: February 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5225
+– Phone: +254705667560
+– Quality: HD
+– Streams: 2
+– Price: Ksh 700
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Janoh
+– User GUID: PAW7ZEQPOZAO7PNTBZUKPLWECI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799763197	nfvdid	BQFmAAEBEFa5EJXvkhNe5sCANPNGT1lgt5SStGoaMCoCGU6sUROP49qdHHo2WaJoaKwM7KKE50uP-lKJ2wxzxQhJN156DQg8A6d4mcGFa0t7wEPDDCsgg0J_ePyI-zLCZxJoRau6WXhBN0RkUWhyMq07oFRy7gsp
+.netflix.com	TRUE	/	FALSE	1800451407	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+20+2026+16%3A23%3A27+GMT%2B0300+(East+Africa+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=29a6fe01-02e3-44a5-9392-4868e63f583b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768068751859&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805270439	NetflixId	ct%3DBgjHlOvcAxLIA4lvbkhl0WjgVjL4I1hBO1X52L0nhbxJktedFSQ96lVDbbgTvTYnCtbzUKcChCc-5U39azbJT5ich0y-10effYtlm_KOH6yUfpSdFzxSwcnCKn4pP_dsOE07vFDpuX9m-A9IL-ca5iJGHUBTTDugv26qJ4O3Mcyt2cvNsZY8fFECfCPMJApFVO5BRZ4jMWOfww-LRtXgtpbOwoi3R9Nltd70hGM08TM7i1ICwMuES8_zPOJpn1sJiCt6eTOPacKZVX8v1ta-K9xQPrlwc8-pV4l5AiFOu0mnbwErNpLeX724IHVK2K9C58cq6H9rlELGIx1JU-bNmzQi_z5OWZLy_VwHrcbsCCUaytU6HMMHKAXqdAkVk6fPOamlayquCr8LptRF91x7A7Ecse1M0V_UNQKOc_SUOKTcoyky0g_eI4DPzuTLdV16YFXmoMSaDbAOrSx6oP0Uk5iUB9-unUZ3BDVg97QKfvuHMOfSsOOTIx6vLZP3x9zpxm4W4qpFSbF0O2JOGfpybhO25L10IMNTEuVMHSRfVdcqlafe4BscmpkCrSkAf-EVXhIrgb4pJPjvHagMU7I7pq6zWXZpKjqXse11HwLs4Nu2ehgGIg4KDJgHLV8FpKELCU7gaw..%26ch%3DAQEAEAABABT3AUjDWesUTLz9CTSNMAPIvyzejDjJ_W0.%26v%3D3%26pg%3DPAW7ZEQPOZAO7PNTBZUKPLWECI
+.netflix.com	TRUE	/	TRUE	1805270439	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAEnQItUqYxeUFKpJHLNEXsYV7iq6sCZs.%26dt%3D1773734435701

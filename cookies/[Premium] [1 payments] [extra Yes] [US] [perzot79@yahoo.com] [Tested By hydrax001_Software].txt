@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ERIC dont
+– Email: perzot79@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: June 2016
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 7726
+– Phone: +17739885769
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paulina
+– User GUID: HUXTS7ANLVB7ZEBVGEC4ALMTMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783623096	NetflixId	ct%3DBgjHlOvcAxKlA7oWYRaeSYppeGxXhQIvyT8jOx99C9X6I_8kkcuViQiUHaZM1e1eg25W4LGFjBUBrU59TGxCHee0sFn3hAdCqvgF-zlAyTf6J2YZBR92B0PKpNtSl2cU5RwokQn6z_9xXMxNGh1EaX1b_boL6UqMAij6ieLCJGSh7joGCmW7lFScG2PgOLLdyUljub_LycWam3grHx5VHrnX0Ioa0DcoumP0wnqm62MK4Y_bmsTXd5kKvnnE4_KxY4Twh4HeQPEcqTTmmHuIWjXVaxzm9mSLoD_BwaeipCULuVYabhoBWiyiAHeXEi6Mx99YcGe3TPCBEgdyfCG1SHycVtKYlMmIsLUGnCvz-8-fGkng1NvFJxmEYOICDKymuN0ggI7fXIu4BYCTNbrLSMHLPMxmuezLEicNpMdsLhawH2JXOKhu5c2qopHSjH3kVJdc_rmB-f7O6xsVkDZ5U4OZyi9HwkMN5YTyM8UU7gvejbakI-ehIFqABn_nkQhe2GxImE9uFnFJJFwu3xpgquvbT2PsBTVR46rLhPHLKG8kMDwEwiteWhb_QPGSc6YYBiIOCgzHBx7KCoCCDIAXclk.%26ch%3DAQEAEAABABRubvaO3QNi0LGYOMqJ301rgQ7clVeycFc.%26v%3D3%26pg%3DHUXTS7ANLVB7ZEBVGEC4ALMTMY
+.netflix.com	TRUE	/	FALSE	1783623096	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+09+2025+01%3A31%3A29+GMT-0500+(Central+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=45c59569-5373-47db-ac58-bd2b9927bca0&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783623096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUGdnqGUk9auBi4sMnZvuqhSqmEzU7SKM.%26dt%3D1749450685539

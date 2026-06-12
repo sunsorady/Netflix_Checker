@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jeunesse
+– Email: carolinebesson@hotmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juin 2019
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 7681
+– Phone: +33678718317
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Caroline
+– User GUID: ASKWROSVPFFEJNAEOZ3GJ57M24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797790181	nfvdid	BQFmAAEBENGwzbzEsGmP0mrLuMX_gUBgCe2T5k_M1bwfIQVx1ihzKAMDrCvMwIcpPuykKqfito_TDqLABpU1H3YAILGHpsPzR6qemtLHg9RV0qFbCdwxRYwYWBC0qH7bz-UAd5djBA-LgLUpOqJQnzCZzGeDaow1
+.netflix.com	TRUE	/	TRUE	1810140667	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAyosGXrrTewcNuumf696ZdqP5UgAzHEY5sUJK0poK6MD_P3XNyFm7Dq8CII7mCANpgjkjN90WdFaELEXF57nknvUaBr8VTH9lkBfY17buwg7kS2Z9Ze09Yig9FcBOzTJH_vlUT2sMpUZIySmml3qkhDmxEVQsKUA-d9Q5ETxnk9yQB61McmkzIT-6Fome-Og5shWNH6lzJOn8hpfjQN2PMr2xn5HKD3QQT-KacwESpsZrt1MeeWCBnCHNQSxDNobU-FPc7pP_TphKXJWpdI3h_EbrVR9XxlTHPtJP3pblch2AoaZ9HozmDm5xmsLA2p1zF2MYi3NRqj9mFDWLx5LPzt52fwRJVz3VdptQHYC24d1EPcgP7wXvr7L29qiqhaxS6wr3j1eb2M50Y56SyHSMYLZ7t_kZhQOo_SyxEldr_UeJFMoVLQrjv7ptuR929cERpDoIJWe0AKyulwrwabrS9wECLuEEO5_kv61W4EIRPC74AZybfRglhWPqUpu-rJ56Qo403W9t5A-tjdc-pnfBr1wNoKVUQ9PZTXmGAYiDgoMpOnGHsUE1AhJByRT%26pg%3DASKWROSVPFFEJNAEOZ3GJ57M24%26ch%3DAQEAEAABABS3VjcN8qL7nu4OXvvI1SUCGwfqfYRJFJ4.
+.netflix.com	TRUE	/	TRUE	1810140667	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHVhw6gq7j9RLVH6MiXfc_Xsiw8k8jZs0.%26dt%3D1778604668566
+.netflix.com	TRUE	/	FALSE	1810140676	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+18%3A51%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7e1a925-2ac2-414d-8a25-455df3b9ee25&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BBRE&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

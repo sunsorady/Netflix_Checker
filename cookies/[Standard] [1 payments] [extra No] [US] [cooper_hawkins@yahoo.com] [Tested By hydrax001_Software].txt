@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ezri
+– Email: cooper_hawkins@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: September 2024
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 2760
+– Phone: +17135155662
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cooper Hawkins
+– User GUID: J6HKLB3QX5DTRATBW2EHUMOQBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798403452	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+13%3A30%3A52+GMT-0700+(Mountain+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9abd27b6-6bdf-4126-85ee-4bb09b8731f9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1798403444	nfvdid	BQFmAAEBELG7JWdIHfSg9DQuUfNGrwBgCEBJYya-T2SyzSpo0hM6TbzFx_yyitnJsUahiEbSWcqf7aA4vYHl_BbhcD2D4aqQfjzYCRDL7pstacdV32jGWaAOs6VonXpZz_fBBRob37XsPTcIBOja1BCfo0QLVXti
+.netflix.com	TRUE	/	TRUE	1810081265	NetflixId	ct%3DBgjHlOvcAxKCBFAhKK1lOqeRnLxet118zu7n10Adwq8KhYL8KmhvSge8kDVIEoO_qGOY1Ga821vTPnOhhfJCSdWycAdjZGz4F4NSIoSytuKbi4omRv59t03S-ykagumRVT7ipPIz-mrtxfzb7hpFO9__I-Rd79ACyGgq4NJxzmcONSjDY_Xu82WDNAgxQQGjoMfmiNY7Qm8vX_keHeqa_kS_tR6Mx3mKJhoI4TSJZUyyZlIa1Efm5aOU7v2zqdfhlus_3lvaj4eNfxPDTP_JSK6EIhOFqulYJZnmBzQGkhePjPajatMNFoowmfF7aJTBS53nEfrlEr-2Php3u6U9e9kmZKHI8Ae3henkK4DRVA9u_04_JOkKdc8EBtf7mlpA_hVEFDrBzPHa7-lbkW3GWf13MIrpTRz5PYDtPrkeEXN_gXIRTDMSWZ9UtXoutk1BhywIEiy6eK1sp1vysuP8Szd6z-VFZG1W0ra8e69Lb2OM0Jrkr3II0VoMXvpZY67NWwDCQNYl-P0Q1eyRaxEF2YUqFCs4OJ_TAiC5BiD_3dqNRq0dhl6PYNedvRTvEWeYGZi5XzVHtK3893yrJbj-bjDwWalYO5ejENjQF15cPNpVwIMdVw66EYdZ3AeK3l8zbAMzRbiKjGMTe38G5sN-UeKJo_C9j-fbxGexfVPZyT6jbgpLGo26mBFAx7AYBiIOCgx46KtybTlHYNI4OKA.%26ch%3DAQEAEAABABR2cLytPw3ygbqWdjgaouA1FpuVhi3fqCI.%26v%3D3%26pg%3DJ6HKLB3QX5DTRATBW2EHUMOQBI
+.netflix.com	TRUE	/	TRUE	1810081265	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXp88aglAmgCsDN1jGkniRXSpfoYiIrXw.%26dt%3D1778545263799

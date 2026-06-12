@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Me
+– Email: N/A
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +916002859306
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: No
+– Membership Status: CURRENT_MEMBER
+– Profiles: Me
+– User GUID: ELQ4BLUSXBDBDDKVAXS4KRVNZE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801408088	nfvdid	BQFmAAEBEB4IR0tBNCzGdGrMFbnYg_5gG8V6W7Jbo29kV4GY3lU-zu0pFOMykJ3gVmj8jYD_2nyAdiXqcdPIZRSC5Pn51w9UWICMbEK39xl1IQ0DSDL9_jJmGMV_W5TLW0Dn81qlPJIboJxtNSw-upV8E1mebY0v
+.netflix.com	TRUE	/	TRUE	1805117261	NetflixId	ct%3DBgjHlOvcAxK1A6Q_ess8qwtqHKJgLqCFmq6riRkVP19F3Uj9S2RawenBoFaGD2c-jAr8HvAf6XsLIRkfkqR_DN8pxuNeHweUIinezll_wp6uIxSrJcXzqUDLlVDYLb76VPvgGS6TI3TUcMXbMtW0xyIwKcpTmfUiuUloeF_9HTwiz6lLJYFWxDOb3KxRtgn-zo39QNB6JH1dXg-95kP_H-3AArF1KwryeA365gkqCJfsR9Az0gVb9oRYrlYcTemArNYX0sdPyelydMqLd_tRmR42eTh0jMepqODfHGEU3PP2mp_gV59fE1UlUJoHLVGKRHiVmGF9xThq_rR7je-s9iDTynBwbLCuPJdNHgrq-vjGJgasw0-G75Djdu4CTDaICbQIiX2BAqeYPdoyBethte7naWsXbFnAlKGmxmBs4VzkhQicOmwM5cXFo-uK3FkIlxTc6LM8iOEwC0DppVD1aL9pLyWVkfslvDxqRsixybWA8OiwmmMPusX_GCdva4atRDBAsvXHUn2c0fnFWId8L4ingFEzd9RoxuW5pyRyEvaWkhuV7wmw_Pjyl27alFcjRI_K0oOfhIqgUOXRts3dGAYiDgoM43ibsefD_Z0jWl2D%26ch%3DAQEAEAABABSauL7ofhgiosHQGGDxWLEZex3zl1CSayY.%26v%3D3%26pg%3DELQ4BLUSXBDBDDKVAXS4KRVNZE
+.netflix.com	TRUE	/	FALSE	1805117263	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+18%3A57%3A43+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d262dc75-08f0-48c6-9638-cd4b81a028fb&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805117261	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMUe5T2buCueuPDEKuQmw_SPzbqxaFQhI.%26dt%3D1773581262359

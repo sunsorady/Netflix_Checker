@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ppppp
+– Email: reihanmuhammad1605@gmail.com
+– Country: ID
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-07-07
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281218406974
+– Quality: HD720p
+– Streams: 1
+– Price: IDR 65,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ppppp
+– User GUID: GJBHJ2WJHNGY3E6ORVU5VA4S5I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801823364	nfvdid	BQFmAAEBENzE02W6dcBTxpdCzqItU8hg_O4YxcoEUxkY42P9Jmdd4EGytjSzwq1MQ4mfD8e5qRSbUuOQD-VT5o7wrrrVTBNtkKgbvr_W6X8V9M7ZHL7kFG25RuqkbYzAygpCBvrLABVJ38cWQtjTZrRWvB5mJBeA
+.netflix.com	TRUE	/	TRUE	1807516410	NetflixId	ct%3DBgjHlOvcAxL_A7UZkai0wwVelq1BCYYgWxOj8s81iK4c61NYjXKk6n8qmwMFkSUkn3RJT_qwP9Tggu_ksyAJQeTV2Mu0Qx2dEO9D2oek7QDppuGrxfFiQZOO9ajDpIIsWs-TLFInmGAfnth_N6nbX01vLdEQYH1y3_jq-4TaKkqJhHpQv2sH-1BYN4R3me3E57HADDnhqWR6fCyWmDM0ySaCep7lTD0Zfvp7lOEAGDQ7m43yEFuVhE80GPyCA3vHVSxAjDnT-myNxJEcD20XdtEZJ_xdKnb9KH0vmx8NmvrLp3B2sqhns809dA0zkHdJqaX91taKfSpZNCDVICqXraIfO0KM3oOVkSnqxiKUDoTzMf6nlE93_QvbkppQLYQSyyfv3wh1nALSPTNwhbkZwVco9JxNp3QwfsiI8WtsPn04oE-EExB0bUc2NS44Cl7uyVJjMsz6lKLBYvWfT9eA7ujM1T09g7vOvNCH6Ss9kzky-kALiThjtAHBkYnXyFJCdeV2ByfJQUIdxMgEvTR6HqGLCXSKkaICAIRv7SHohbqXEyL6eEkPLeDlQJ2o53YiOztm1g4P-xsgOu9MUXzWtxtkPHaThwio7u73WTl0uEvN4ek1vEfZgJQOmZjA_BnH6i9huOkrjw7i8SR1u-YRb9Fnoc3lMb9K-1laG5bDFT6hM2m9GuKBH4sYBiIOCgw512zUn4MSC3v3z28.%26ch%3DAQEAEAABABSckNSp3tMC5gOKlPv-VpslTg5ipdW2FVo.%26v%3D3%26pg%3DGJBHJ2WJHNGY3E6ORVU5VA4S5I
+.netflix.com	TRUE	/	TRUE	1807516410	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUEFCQlxVYZOpp_i6Yh8M5aVmcO_SDRjQ.%26dt%3D1775980408932
+.netflix.com	TRUE	/	FALSE	1807524950	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+17%3A15%3A50+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77c1e6b1-dde6-407f-ba54-7f201116a42e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&crTime=1768554036014&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

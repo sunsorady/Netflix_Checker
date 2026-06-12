@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maria
+– Email: trishthao2005@gmail.com
+– Country: AU
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0877
+– Phone: +61438055173
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Trish
+– User GUID: WB2V3SCAZRAO7LYHZ4CNQ2R3E4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809179752	nfvdid	BQFmAAEBEBj1l5JoEeXGQMni66aKUulg2GH0cQDNSywT2Amgh63dQWNG3B5UWOhKf-y40XURi8QkusJKQGPHbiXn9tft3WQ2WEuWDsEQU6-170gFGySzm6jCe121E6JvjSUePqOP5eYYHVxFSWhtqgbSRmMYJjvX
+.netflix.com	TRUE	/	TRUE	1810103316	NetflixId	ct%3DBgjHlOvcAxL_A9s8AH86-bpACDdJF_4omTiRzc3nvjzHQHgZaQbmIrhOgEQHCV_O-AaURvwbymyLbVWA4t1B1oioNwyagvdBq7kplbmUPaNgS3WJtjtJigdxsX71akCz4f_1e8oBxWIUqCF965OAe03zIcTvWl9t8tNwovh483W0-CrQCKbqoLMWcnaj3QfrW8JRb4gNN5fTUOaYD-jrNFNroBHyArGySFMnUfEGaWQaJqhC9c7ZYyBYFBNqEB3PnHP-D62dIjoItgiiufHNpICCEMNbHPR-RD6urlT1RyyNQ34do3VV_UUHWSafsBGz5tJa49NLsFmGkAWSxD956wwNiCX-Q2dne9fEWeWNFTjoVPLlwRCKmJnQ6Hy9dOetJi0yxgHXsMzf22E88exPEyYe0fr4OX_6EOL6BRbNy_E_sNNzwRt_VDegiQd2Bqq-FThulsLayKMEofaer7reFUgHPRzhC2F6UWb37wS5C9_rjyA0tFFLCQ1TTUAQfcOHhjhykgjjKWJ8sealFrHquZvN8c3pdW0uZONdxyj8gg5kSuUl_pkf9L_dFLne6NdXmjzZk3Y5L5czHLlAABclmiP6hPAg6cUQ-8JSmK-KI4hCPyF1LSyhSrxmoUGVmGLlEHe_uJQOpOxkN2yK6FnEDdNOdDnXlo6eWj7fJms8Y1eRmJbb0AT1BVIYBiIOCgw63XX0ISHazprNBag.%26ch%3DAQEAEAABABQ4GyTv6ORh_-WcW6LIOAo_UPNaPDC581M.%26v%3D3%26pg%3DWB2V3SCAZRAO7LYHZ4CNQ2R3E4
+.netflix.com	TRUE	/	TRUE	1810103316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBR-tfjYF6Xd5fya4Se2Gt_bTsR7DZhJM.%26dt%3D1778567315395
+.netflix.com	TRUE	/	FALSE	1810103364	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+16%3A29%3A24+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ed8dc7dc-faca-41c5-b76b-b63335ccca24&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

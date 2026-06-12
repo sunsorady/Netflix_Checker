@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Christos
+– Email: eleftheria.exarchou@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: September 2025
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34640824945
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eleftheria
+– User GUID: XO4NRZQPNBC3LNEPSQRRKN5YHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEBixiw0QmLKzX3bubyoRgdpgk0UMp_PgJYrxhCsiwOm09DKamHvF79TqwuaAHUT_r-ZIeHF4AjDHs4RhOrRFfsk2-n2ee-Q6yy0IUp8nzkyShjwTfTfonSW9fRblOsC8rPSQJMNZmOwfEFjXSDJaYDq2
+.netflix.com	TRUE	/	TRUE	1783623127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUVaMIJWpO-sykVXKq9c70uEN24DoB5xk.%26dt%3D1768354415896
+.netflix.com	TRUE	/	TRUE	1783623127	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA38m-i-rOJUt2zjnO6J3iKxyYENUxGslc4VgCDLwYKup87fsfdU0uDxSCq5KuWix-LmEA-QGUlHOuAY3xfffUXpkQb_h_216hvPPVlCYUH5x3ODB9nQCrq9Yd5Q0IZqWXKDf5exFByyMVZW0iJ4q3wI0Eg7SN875GPPo4-4xWOUMop82onfoJ4t7_Ei1gPD-Ks7YWaE2DgOaU6zW8HdykjeB80KPhDO-8_hfq0TXrJAYW0X0YLRc5__N1h4Woud5fXKz0O14tGH6RcQKJ7_5DSpK5bWAAC4WBQAUk2hB6mqasKRe6H_284TCsM8p5TVztu5k0ZRD7Vql_D3tFgmfKP3euJciF9P17gfZ0tJWTvqKv5Kt40n1q2-gieSQIpZKBd14hk6dt-DlpjnH9JGDnFEOGNCHUJ44XOXa1YYnd3HFfxLSe2izo6dwjweWVp8kC-KgeXEyrr8oBH2zutZGdkJXeNQ5-NfgjONIbww3-Xdf8rhQMZPaNTGnYgFY4LLSDzKKcxgGIg4KDBxXm_IkhRZxSy8GFg..%26pg%3DXO4NRZQPNBC3LNEPSQRRKN5YHY%26ch%3DAQEAEAABABRAU2uaxS4L6nU1kHteVREue79Aqr7cvuE.
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+03%3A34%3A11+GMT%2B0200+(Eastern+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e577279-407f-4f0b-a236-bbbee4c2dd42&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768354411357&geolocation=GR%3BI&AwaitingReconsent=false

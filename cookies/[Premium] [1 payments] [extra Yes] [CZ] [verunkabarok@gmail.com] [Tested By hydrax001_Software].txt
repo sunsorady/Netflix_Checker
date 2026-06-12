@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tata
+– Email: verunkabarok@gmail.com
+– Country: CZ
+– Plan: Premium
+– Member Since: říjen 2023
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 3805
+– Phone: +420602979709
+– Quality: UHD
+– Streams: 4
+– Price: 419 Kč
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Veronika Svacinova
+– User GUID: B7LMRMFOAZBF3PRMDTQDULGRRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEE_aLt7tULDicFYR1woq0ghgPASJkmeAE71JEBeuXbFMw6SsAONp0IgmpFYru-1KaUi88exKEIdCSyk3BkWR4RYuHLZMeIkYnBJ-L5OMO7FQZQmi3LDTlZixq79kh9dp_FN7mew4kcm_0QabQh_PwWSs
+.netflix.com	TRUE	/	TRUE	2008937329	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQwX1uAbRbX28EOxzZ6APfLHPcQ626hJUM.%26dt%3D1770064228724
+.netflix.com	TRUE	/	TRUE	2008937329	NetflixId	ct%3DBgjHlOvcAxLlA_RJz_GTxM1tqjWWhUWvJS1jARD-f4epmeEpg83lT0wS_EgJPHvlRNkBQDNCBIJ53u-aN96CbOBQOPwpZHpCYggqNg3kjf2h7B8Fbl93fF8uTE9iBkLc3Nj4EnWxKc5mAI56nEUZQ2ZBxj_iQHfllkjL3XQn87Auf4XHoWc1fTG1Am_P4xCdSKkteeXFKXpvPzknYvEOpHx97XCJ0ltSg98cDO2Lt0wG-2eoNJaCfdPN8iPqhB6QbgiwSxLGaQ7QwxR2V0ftoc4kc5AJQwUshwMvvKA3OGQJqu8GCEF6T3Jhvw1MmXbr1tsZr7cG8TMbuShScuaA95wQZSdSfbwub1ooJhEO2HpuZ8gKSEPM3I8ZBihaOCSVGIpoB_By2zpyAmd0dezvtPi4wj52bZibe8CgcvBe_WgTBGmclKKJy3CncimliztcplJSk1brzj2C9oxydaVXCFBmCp4tWhN8t6_kRxRiEJtdl-iZxfqYp3BbuQZa-8Jq2yJBVHNgvg924dDU2RNP96P9QFfXXYrREDkhj6y7m3AyYWPs7XvSeP_i8LpHf3HetSwq_hoPqgnKIR2cLVKG5ztoQ7SEfqr-lOtAJG_mkBhhF1VUaQKxhSfBrQ-ZJulUOsYuxF_kqPd3BA3tgPeKGAYiDgoMEs3-rg3YmXk6oxST%26ch%3DAQEAEAABABTinvy_JoFtrOjq0AGugGRmMcqNFlMDYyY.%26v%3D3%26pg%3DB7LMRMFOAZBF3PRMDTQDULGRRU
+.netflix.com	TRUE	/	FALSE	2009105976	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+21%3A33%3A23+GMT%2B0100+(st%C5%99edoevropsk%C3%BD+standardn%C3%AD+%C4%8Das)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7b42aea-875d-4f2b-8c5e-6313fb25f84e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=CZ%3B64&AwaitingReconsent=false

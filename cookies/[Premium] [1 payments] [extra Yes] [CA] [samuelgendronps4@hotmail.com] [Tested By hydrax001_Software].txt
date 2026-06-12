@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sam
+– Email: samuelgendronps4@hotmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: mai 2022
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 8018
+– Phone: +15147062627
+– Quality: UHD
+– Streams: 4
+– Price: 23,99 $
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sam
+– User GUID: BLIU2YBZOZEBXCTA6LJFNY6PYQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803884549	nfvdid	BQFmAAEBEDi4lUUiKf2LwSjCMYlWHBZgFa8B88Ak63_XSlMNw55VbSyvjUtoc6V3Qk-ykc9FTavTot1xCLNOzaaSjqZJbTapEl38dcV4NRufaA8pA_019I4wyHn_oqXgal-GsmYe6ju9Gg5kvh2S_wQ9OGka-6kx
+.netflix.com	TRUE	/	TRUE	1809318000	NetflixId	ct%3DBgjHlOvcAxKGBOl3c4Dp_vPm3VlL-I_Rdr246iLfPiv1uMzV5sJ8PKhAJ5B9IfVoNDe8kiWl1fsaYpxINZH37Nd9_Dne3VFv1qTMwbAufQiS4qoZ7SfrKSqvw--fTsC4KBQLy3ZC_hkwZqXtRxSTaZLrBc0En-Mr-RZszk_yj3K3zsFIMLe9w-Ohu2mvuHR9jHlNpnrD6BQsUAjpnT6cCGfpnuBGA_yIFioxtJj1cQFG68zwjM6G2vyqM1pvHyvBdf3_EOHgunKx0YWGGEYY08eUAay3-ISw0p8Xlt5xEeGx5t-6T69En9DTs0Mw4KvHIXkJb3nN_JWBXeNcXD2uwv_FOOKKfH0_1cysNRntLEuxQLdNi7WoZyojCCs3WB_WP1EgylsA-U9TsOlaNnBZOSy5R36p4XXBidINjs1a9Q9H-npNtxEk0uzeKK-n5acR-HtEzUHdrkQK9okXy5WI23DXL03nyF7XVx3_dV9GRr2KJh8H7aUWDa-C6aNaIH9ptk2V7dBDkKpefvW6GDw0_gUR3pl9dFkoL_DydOejdqEqppbVBFO-U8jhXvQGRvYvEkcBLMEkmYvCe32zfJgvZ4DXG3MKzvqTHyynmr82sFR-aG2W0rP64QsoYufE-5-v3EYe4R76IpC1QJ0WTSr4zfIx7M6HeeOsqPXa2d2TeErP1Tjz4yOQnnMIixXdd-StGAYiDgoMd3akoYV9eFOI8RX9%26ch%3DAQEAEAABABTvILs-4WnhsuCVIXvqsH1AG6tLCRtX3xg.%26v%3D3%26pg%3DBLIU2YBZOZEBXCTA6LJFNY6PYQ
+.netflix.com	TRUE	/	FALSE	1809318004	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+00%3A20%3A04+GMT-0400+(heure+avanc%C3%A9e+de+l%E2%80%99Est)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=97e9122b-1196-49fc-9bdf-42771a55961b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BQC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809318000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS90xKkjDFdsBRtf37AVj5cPEQz3-kVUIU.%26dt%3D1777782000718

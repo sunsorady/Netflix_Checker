@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pablo
+– Email: ahmed.gabir.9.5@gmail.com
+– Country: SA
+– Plan: المميزة
+– Member Since: أفريل 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 5425
+– Phone: +966531491261
+– Quality: UHD
+– Streams: 4
+– Price: ‏71 ر.س.‏
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pablo
+– User GUID: U2NNB5MWSBB3NKGGGYMOPYZTSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797602245	nfvdid	BQFmAAEBEKci5Ieqz3p92a6vOj1F5VNgUvQ86tE1cunLmtcpwS8ifZ_JMIF46lGn_NxKAP8TTBmWs11rbqUTM3GOukzVllitA32KvYxUiHiEwRkRTIcIbbkC9xsaVBEHPWcFN30KE_BLEeb4lXYEtL79A6RbAzRZ
+.netflix.com	TRUE	/	TRUE	1809438794	NetflixId	ct%3DBgjHlOvcAxLJA8e_98XNsqkiV77YKuYh-YZV79_MQpPyj4dO4QWW86UltaUm-8gN_wkhiB0Ak9n9OMdnzwsjpSMHRPG6Cvc8Dj2lTf7VqCr1j1ZTaKOePpHti98xd3DxHa5CKm384IANeXMqriGicU61E8BQXX26YtnmKx_i4oI5Y6ORllYw_-QFoBsINwgd5ZB-gAQleRiBcCdnoavP0vC-BIw8utnd-vG3SS-T4sqy7-q0gh6vM0jmxUVjbF5m66L-3H6rijd2gWtgSFQFT3sapMuQjq7s5b0WIMad0ZQrRnjEwrMlYTi5b5WiVtVuu8HlPrmyCZ9sVTZzWkHrlUpSulGsxmBXx94CKgRLfoMb7NYdt4PJMszcVByF3UY8H_WXuDdA3O_SDpy4tNbBD5Zj6UrVIb0VKymsZHlZEdFIZR6OV0kiVip1E8pQhe8tknUzE9LlG0l_S--Ia5SMsFAaoEuqXEsjS506Owu4r1zIs5tQADop3pmXpds8r1nZ7Hnv7pmzRHWYwIp_anoX5U9K7rEaQBaajANNihEJ5jUtNkj-tBI6CKQ7NeMmzSFPhcUwRK6zSZEmiXe_E2fO18qZk_etklRGrXTpbrK6hJ6JqrYYBiIOCgxXVM3M_oFT6-ZfU1c.%26ch%3DAQEAEAABABRQptiSwdosJMiQ8ya40STBwl1rgQ7Kahg.%26v%3D3%26pg%3DU2NNB5MWSBB3NKGGGYMOPYZTSA
+.netflix.com	TRUE	/	TRUE	1809438794	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTC-KkNkuW6wlhi6jNoRdvHeeRceIGd2-s.%26dt%3D1777902793908
+.netflix.com	TRUE	/	FALSE	1809448252	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+19%3A30%3A52+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=94ec70cc-50af-4613-b131-abee6c55b670&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B34&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

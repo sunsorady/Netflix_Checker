@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pop
+– Email: gunnymorales@hotmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: mayo de 2014
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0652
+– Phone: +541544082698
+– Quality: UHD
+– Streams: 4
+– Price: $ 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pop
+– User GUID: XNGNFVYFKBD3DGHI3IY7ULDLNU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809314971	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA81i-anYMwUUUSg_VtXWZuI8IZkq4_opwq0PAYCZ-luQsBdWOs7rDj8rOYXdtz1JiwpbJJZOok9y03Q3SHkk3ubU67Rhn8SawodaT3zgVw-pmfG0z6r3OSp47DQlvpmICOt-5F4LgS7EZoaqSDg2EK-yYRTXmL-D_0RmLZkTs4qb1ruLOzV9uPJUTzf23A1iHuXhgk6yEVCjjnhja_rE6RFJOdfjNkUi2o7xinyFpWRRepQ6IWHRezFrSwch81vTek9DfdkggI4NqmGX7z1jb6HZl8fWJVGKIx7ew8sy14KRF9FFAWQ13UyiuS2QTTI8xQ8ntFXoWpBpSSs-CV16A42nFx_Vy2SL0CDZnTF0CWVqXYLDq3qTqBJVxzgoUySJadhJGxNSkWHRni-_qtNqtxRzRs1OPGHbhZ75swfav-oulaoYA5aiYvlCv5d8sKdmFPqDWnubwv4eUWulw_qmHEPPhyavddhNKkTb5Fk_Qf5U4d101nNRwc4-l_qr1lLCaO3Mb3LrzQmFXiJMGJ5km-byNMyqGAYiDgoMymTNJHeQIC5_5sZS%26pg%3DXNGNFVYFKBD3DGHI3IY7ULDLNU%26ch%3DAQEAEAABABQsGtmtX2q7_PT6BD2XuhjD_M3xnYsfYCQ.
+.netflix.com	TRUE	/	FALSE	1809314972	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+00%3A29%3A32+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bfcc502b-cf09-4bc0-b82b-33729abb5e47&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777751416711&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809314971	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9PLftTLWwlNwoqS9ur41FO33AiuY4uzo.%26dt%3D1777778970300
+.netflix.com	TRUE	/	FALSE	1809314971	nfvdid	BQFmAAEBEOi37tXnSfAq-uOYes-67wtgHHWHUwZLCV3oxSm-hCApILq_OlZk_d3n9nS_4sFqLiwzM9cyn1aLbQUJ4etKgAEkBYoie3m3SQmi_QPQTGODPJN2TIQTs0VPWCHluV84-tyHOJcUiiAbTn8UyZbEDTUm

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SHADOW X999
+– Email: anaclaraferreira62@gmail.com
+– Country: BR
+– Plan: Standard
+– Member Since: November 2014
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 7556
+– Phone: +5543996832490
+– Quality: HD
+– Streams: 2
+– Price: BRL 44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Silvio
+– User GUID: PBPT457LMBDQPDARIXNV2SRL4Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800634460	NetflixId	ct%3DBgjHlOvcAxLgA465d_OWXHxpldwR8dYUrx1wX8JNRPeXyb_ulnPSEOz8YYQaY2qNaKNJhoKPiVXhAFAbc57XEHEo_Y4Tt_EF96PhR_K4z47qYbunIeX0rhgs8_iRJFd5om-wa2jQr8gsEdS1kxmLOvOo3YkmCQKmBjgftcMXO5FO9Qxxc2NjrCOBvGH0XblQ23Qm8glOzol9R-VXyt4cIqh38ceiNpycG8Y2i02dCFXY8dhTsJPKiBS4T6ujFQGr69ykCeJQM36oKKvdRTEGdXSsKekmmZI8Zl-d42GZr5-PJM-K6_zmBwzt55-uJssb1UCt0a6qC9FKVsKELOh3aYCGOyqi428ZxGLSPoOWcsir2Nc7J3dAky-g-fPQywB1hOZ6zKfkkJtHoBQq8tS1R0JoVF78Fg-dgXmuHzAQVRCY-11YQEq8VHsq3mK9E-VdSfNQ3HsTR0KjP12u2FaKzHKAqd_248G5lq8kxa1_VZW1y96kfM4A2TizMC-2xIXviTCcNVKH4jiKYJBs4YvhpbHP5E0yuZlxfc_PVdQjtyp9yZl0a3rTzrj6UrKAzIdgGI55EIQ5Dj4JG7XUnnox1cU2LoFIkXt2-88zozfDmx7KTCq_RmKXL6ykf5S6IG8K4WZF9LiaGZ1wHRgGIg4KDMt2AARZc0XSavpaeA..%26ch%3DAQEAEAABABTIAChIrKYP4AfMbAFVJWednZPthgKvGZQ.%26v%3D3%26pg%3DPBPT457LMBDQPDARIXNV2SRL4Q
+.netflix.com	TRUE	/	TRUE	1800634460	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6lnL5Ywywtl1APRPEq_VwvOB9Q78wwq0.%26dt%3D1769098581010

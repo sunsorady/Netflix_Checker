@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Thuy Tran
+– Email: cjonescurtis@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: May 2025
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 2004
+– Phone: +15126603772
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: انا حزااااق
+– User GUID: 4N5PVM2C3ZC55BJIE4DSJLNGS4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808257828	nfvdid	BQFmAAEBEBl7pTjRGJ2Tr1TBoxZasSVg8iUMXTdvIcTbuuyKLVDUBs3hwUMmOBVDCuR7EnGLBjOKspRnoph9wYGmXf4V8IIxuUjGksiJvgY6aWOqmdfCVFxGzl3DHpP8-Xcwqjof4LjWDy4lJcs4nZZPv0cNIDAa
+.netflix.com	TRUE	/	TRUE	1808836980	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAyBtbgRyc3OoPh_Y5jsfcFtZza1DbGx8NoY5fAUYltWtoj5-9JRohnOOeeeyZrUUUnutq3guXtpK5u3D4Wl5hWMlEWDoEt8E7zMZZn_WIRS-hdAqzUJAPbOX3jXn-xEjOxPDuXhSLyWzF0_ccZJW-YEA-doGYs-nOdTXs-BC3gp3nA0l5pPyAvBhQv1Auf4yWuiBGzg8jgOm7jk4uRe-0esQw9YTkyxvCfPMfrZLHIt6mQ4vKMpKigQ30bz8E5S0WCcuj53o7Cj8eu0eW7SKAxKPJhzeO4Nwv7Q3GxIabPQx2yGW2GDzCoeyRVqfw9mZ1maCDZVlps7Qw2kqfj5n_TuzsdMx79tyA4SaPGNscYGihf-uPkw-UdbgXAg2OE4lTtUnkqqamDm7SYR4aif3tZOnWCP9CRMiFnFRPrMZ2dyq5jKx_EtUKBJGjsUSUAN4jFGQAU3K8ZJsXpira9nGWY0DqXEWitsgFoue4OC7n8HaVAbKrPeSaL9jS_XyE0E8vqqQbD50xVgwq-yVdB2bFxDFNLK-GAYiDgoMp6_BVgeBXwJxNlgo%26pg%3D4N5PVM2C3ZC55BJIE4DSJLNGS4%26ch%3DAQEAEAABABRQT5QkRsG63VLPnUvuui2yiaDQpCmlKHo.
+.netflix.com	TRUE	/	FALSE	1808836981	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+16%3A43%3A01+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=929d0795-f67f-4b4c-8f0f-a1e824138faa&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776721812253&AwaitingReconsent=false&intType=1&geolocation=ES%3BVC&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808836980	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUcxBb9-ldM1WPs7_MjMIDqyLNZTfE33U.%26dt%3D1777300975596

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: manuelmb1973
+– Email: manuelmb1973@gmail.com
+– Country: MX
+– Plan: Estándar
+– Member Since: abril de 2024
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +526672512144
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: manuelmb1973
+– User GUID: VUIUL44MCVGINPSXLWZRIURYNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785889019	nfvdid	BQFmAAEBEJU3eJ0M3--eVo9QagSAf5lg2wfUdTyFOV-snDt6YMCuZylD72ZoGitncGHmQ8g-msvnsM_Aa1OTmdqJ2X2E1oyNy9NzaprXswrE5pV0h_Jfk-EOegUF_ylw0e-S9qWUIWGrErYIGBg2uhP7UK5eE9HC
+.netflix.com	TRUE	/	TRUE	1809739319	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTmTdx9_N4uTcYIfevQMSadWC4NYtrC1g8.%26dt%3D1778203319210
+.netflix.com	TRUE	/	TRUE	1809739319	NetflixId	ct%3DBgjHlOvcAxKIBFebVV7Jk5vT409V_Wr8ph_8TK06DfmWWG8jhp1WwdTT9Jq3T-qMTUlGMsgVBM7OQnlsNlZd3gUqs4aEB1bP0UBPt-oLyblDk-JiRgraCsMblChvKXpk3yqz_oxrNhIwuEH6ii25q9VCa7RjVzM2V8K9A27SYaYeCeEsvWfjQHMlFfSlUSVdTMd67nWMthVb8qRSirFGjyPyQIP9PxWr9ge7D1NShoP_9QTnftv6932Yf6f9Ld4GaWBFO2ixw38sV6SaPEKhQ2Y-o8zNMy21axElIic2RTWh5ZYhzrVPmTSkfQS5TORKAbfRQDhvhT00eY5j25ZehDqmF2oqIAZVOePdW7InR8TWd8GDcjFvlk3bhWaJswg8_3YEwq9HCojlwYHFlvDY6uq4GOG4jB06MEeZk4vzel-CHiNZdbX-kLSitT7lhh0qW56SbIozwPgoQKVPCG6jn7_xWosA5K41lTi3t_dJEs5h3eC4XDpPgju1UXMAD7q4gkhTH0sDKAIR0n0VQLiGBnUlqnktjXVH3nSeXn03REtXGD8wrQFrVl1WjLTf56c8I1LkQZmpgdsBTxqvmVP3NPvrY-ZmOM7AR_UMdoPc1wkYZsHaG2-wIGUNgYGrFoJDczm4CsBgVwURr237K9-BkwAUOjlwgJ031QyDg7130sji5oi7fcaeT-RIylnKlN8W8ToYBiIOCgyjRZA6qaUppvOEktM.%26ch%3DAQEAEAABABQBmuuNucR2oCzONr8ZnQx2_ri-N02RR9k.%26v%3D3%26pg%3DVUIUL44MCVGINPSXLWZRIURYNQ
+.netflix.com	TRUE	/	FALSE	1809739320	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+18%3A22%3A00+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd39b6e5-b9d0-4ebf-b127-7745c7c5ec94&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=6&geolocation=MX%3BSIN&crTime=1768439084451&prevHadToken=0&isDntEnabled=0

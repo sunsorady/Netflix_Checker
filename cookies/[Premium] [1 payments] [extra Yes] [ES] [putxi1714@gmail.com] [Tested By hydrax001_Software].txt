@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Narcis
+– Email: putxi1714@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: March 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 7357
+– Phone: +34654088537
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Albert
+– User GUID: ZB4VERDAPZBCPGUJ326TMGDJLA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787225833	nfvdid	BQFmAAEBEKZiAdu7v0wkptmGgWnSWRFg_YKH_dIYElHrvR0BvIS4BN72PjqrA6I_GESa6l5tlC-jtSNJziDQO8JuAL4krN6YbJQXdedGrGbfbu54PCX3FJRJwlTvLx77boOaJqS5rtM6-Sm-pM8-mWaEUpywRRXO
+.netflix.com	TRUE	/	TRUE	1809604352	NetflixId	ct%3DBgjHlOvcAxLQA5VkzQRWssGhoM7gdO2PH2w9E-DRKl4v7t_6JTWHeXKclKDZK4mCwrOfONd6XvxPS-xy02170KyxwqBj-3DZxojOUFg7VvBFS_KKUKDnkcJlH1s1ERLmBK1Okd0HQgqQfMENRhhFDR3BkqZxb8U8YxqBLuK1uBWDt9tk7bjulzTJFHW6AzfvcjkVuISrqLPFaeaCN_67AOAMsIpYUu3P9pJIujoPals5zTjsX_kXn3BAHZ1vDH_zU-Ef1M9fI0vR9V6_A_k8vfCCk7OsL3x7pBJPGyeqV9Gx7DVnm7jEJFU4jhQmZx1N5VTuDhV5qoj6y9EkQR77lwr1KIZZ7GckRAXv4JxWochwiE02SKKHwCqRM3SLVpCQa9q2rzKAlBS25Qma69flzpsDvJ1XHQjjUoGiTnI_Ey1LWAK3_t6We3db_6_yRc3HJylmV6r799BHStc1JoRmZ_9FA5G3c2j5Jre-eQye0ShdJfP9Mxhpv4Z_0B0EMSo2jvFWaw7cE2r0or3R6cR0TFMDiZGYJUaUcFVe0rSXmD3nCRdN4ubDVjZG5G-8cB148vhFH21T-6BPcaqzQ1PsijqbYadranOpTi0QNFBYHIuAw1J6x_pdMwJHGAYiDgoMiC71IjiDJNhpaa5G%26ch%3DAQEAEAABABRd2OsClp_1GQsW8tsaZislz-OQ457C2Fw.%26v%3D3%26pg%3DZB4VERDAPZBCPGUJ326TMGDJLA
+.netflix.com	TRUE	/	TRUE	1809604352	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTPxBujOvWpudP8c82HQ9emYEiDaVai110.%26dt%3D1778068350431
+.netflix.com	TRUE	/	FALSE	1809604356	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+13%3A52%3A36+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a42ed2c-48de-476d-ba9f-f5180d25cd2c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BCT&prevHadToken=0&isDntEnabled=0

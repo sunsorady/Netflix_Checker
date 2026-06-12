@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Andrea
+– Email: andrea.obradovic888@gmail.com
+– Country: HR
+– Plan: Basic
+– Member Since: October 2023
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 9000
+– Phone: +38598700615
+– Quality: HD720p
+– Streams: 1
+– Price: EUR 5.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Andrea
+– User GUID: RENCDDBIQBDQXAAFTG3L6LG3D4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792497595	nfvdid	BQFmAAEBEDWgSWo3YE1-eC7q8HYCihdgNvKfZM7wfk2f4hL4jv-MEQIS6Rd6H-x5-Cvwqha-l6AZZVoa3UY9PEKPcrqGhLzchTJCLJEAz1-AzZLdGkKaT9alQAX3_jUJE5qhziAJAqe5DOPOkJWXsO-B0xoh8LJS
+.netflix.com	TRUE	/	FALSE	1797705252	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+19%3A34%3A12+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=f42d1d7f-19fc-437d-85a4-5698d7cce6c3&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=HR%3B21&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1797773890	NetflixId	ct%3DBgjHlOvcAxLpA_EcsAq-nBI1O7CeisuKRCxYSU0Pt35luYS20WxvpWsftUGvaK0AJPRzF55PLzGKVvqcp1Rxeal5unVXtimfkGzVjQBE9JSYwiDhqdC4FGonfS6TQ45eZVEeSyYY_ZFu3hpLwNvBZEMcNAFkoGUufgoJtYJAmyePFN9NSU8miSd1CHG24ZBdRqobmt3kcDWHU3obFA_UBVyxmA7XMEMe6w9lYD2M9BrLqTHIhqNmpoHXX3QAO6bz0jApPNrxbkR8yjPABbjDLH3XdgXp1YSevNMD4FpxM4j4cQteW87z19PKzoFEKAURQMI4fKKFpxZLPHftHyF0BfpYMpnajav-adRi4A3ZphAo3KRG5B3kjJGZS14bpzG7582yZ-aCLvlUC7G4vepddYGYeLvudrle1BczeQ_jM304dd_dCMCx3Wy9Vrq2jB4a8CRuzFVB-v8cPD1vj7CQDhgHZuqYgEAT_F0rc_Au-V9q4oFU9n5j61pwnIrJfHdeRP2xsnXLYorVgvf5H6F0wOahDzg_oIo4ngd9n_xN0ZH70ignBSBlJSPNOrWBM2SRZ4l-jNiXKx2XHGD1Heuvfgmu_gmmiG1jvilOh_6ZC6WjF4R-ELoHGnAYJbQSFmPvJEprmNabSUfbQxZhbrwChQk6yhgGIg4KDH0fyBfnt0wQzpvaJA..%26ch%3DAQEAEAABABRb3sfLI9SH8Le-T1PlnN7U6fMPspgbVA8.%26v%3D3%26pg%3DRENCDDBIQBDQXAAFTG3L6LG3D4
+.netflix.com	TRUE	/	TRUE	1797773890	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR3Eqjc2GbA4AcHghjdEx7pBggP52_LRsQ.%26dt%3D1766237892741

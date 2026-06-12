@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luis
+– Email: acceesspro@gmail.com
+– Country: SV
+– Plan: Premium
+– Member Since: noviembre de 2022
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 6976
+– Phone: +50375876083
+– Quality: UHD
+– Streams: 4
+– Price: $13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luis
+– User GUID: MUWBYAUD4RGM7FXK7RIXIQZYEU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801451804	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+12%3A29%3A42+GMT-0600+(hora+est%C3%A1ndar+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e910ad26-eaa2-4b61-b0c8-1d679db1e817&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801451796	NetflixId	ct%3DBgjHlOvcAxLuA9L-Z7a26bAPYhaFhplqlnlhowH-40ZSbaZN76z8_imPwaVilIz1lnuRc_myKtQrUzhHxnRSJYbx7bIuffrxe4l8WEg5zeciGw7ZVz_H4bQFSBL1Ty6JjmbJnemF3bRXNctDHGndtNusJJ3g3Rohmns25AVFf94md9V11hQafAC98p2gKKxfd099fJK3pdGgJFXwimK3AfcDPzArrg7hQY1LrR7zSeRYzTTdTnQ4QuKgTDmRGW2GfvgHEJ83Ja9P5ZsG_UMhLkOspy8CloBigC3_a2vl5jsJUMZ0AXgDV1U5pf6jU4x69uc050ixvh7iADhD4hX5S85LFNsBMiDpgDYc-0PXxIVZ2ZdQ_I2sRk4-rF66CAa68FPqqmQbkAGpJsqRKIV1UNvIGAM-_8cnaVBRFOMDFWD--mgbzOw8e5Yej5vSoJRJ3ck4TS374AUGYZBN-ArgUuJKp3k5Z_GCF_fBehwsXMQm8EgufclFrDL98vTNbcmEJLx0C0pz4VgmfLJ-LrFEoAD4pnzwk7GbFmgi_1-ZrwAnwY5Zg60BQ3CwJaC9yZVd0_ylkK72FK7-U8uUbxymoqvo_ySaSGVYDK0yMrctuMrR7YNArWt4Hb6SlPwd3kUnsgBl9fBSXw5E9RfvF5Fph4YC-BLnNrQiGAYiDgoMrjwB63yYcZYzF0Hv%26ch%3DAQEAEAABABTgBaBazmkbeR-C_0D6VCBobxaQANDZ6ac.%26v%3D3%26pg%3DMUWBYAUD4RGM7FXK7RIXIQZYEU
+.netflix.com	TRUE	/	TRUE	1801451796	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWYBfnO9MtEpryWJjIHQPP1VF8tdbKNWk.%26dt%3D1769884175689
+.netflix.com	TRUE	/	FALSE	1799059066	nfvdid	BQFmAAEBEIoYX4-u0BsITiE9L-2DgdNgx-Dir-lk92T8fbcqrcjETW98SACXxVAgqQBC9WQsl46PARfOWUVaKZ6oERTCEgLGe5kNM8EefO8abBaRVPeYC6wEoT-YRNB9CvzlryR70MsyxRkbDI9ndEHzWb9BeUVU

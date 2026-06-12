@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: USUARIO 3
+– Email: gloria421q+kn38@gmail.com
+– Country: NI
+– Plan: Premium
+– Member Since: November 2023
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 7413
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: USUARIO 1
+– User GUID: 6A3WZP3EQREFNGHVIU6Q7D4CXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809633301	nfvdid	BQFmAAEBELUEhWliNQn_9cnjBw56ob9gzkhnC4oU9acT0_3uvlhusrOU_I--NtdaXIKvNSqPsfU83zLVS_YVgycm1bIgK7hCZ6HwbXdOduMFu3-G4xD7dUu953bBiLhXxIyrdyODmyVELf11-BAiPEvlRPKPddBf
+.netflix.com	TRUE	/	TRUE	1810781389	NetflixId	ct%3DBgjHlOvcAxKIBP-m7g_lVomQYYb7eM0rdb4KOaxvVENRzry27QdN2bx4Sg6243uglb6h8XXRVJCixv1xmqpgBM2aywFiSb3NEZ8Bt9zh5M_pr_jPU-fxxYdOZ5XFgG8FE4E3f-QCM-yCAOByvKziyfv7A3muGn2NVd3JnwaUl41cvONCC1aVCNV6VncbKh_vQEdg1_TjjZt8dsgOB-RSz8sBJqIFIEryGio5fq_-HxQHcwRy6R4KRYvg1c5EAh5LKGmccZw6oPzibkqg90FWEojU_se85NF_qPVzRx5oFksTY_7ByszgOy4UR3vaK3D4rum_0KXu3MdpDKRGUJ7R9y5rVt1QnHQMSEmURgn1peMGnhcXU3wrEjnnJxsdzgapr0Plo_gAD6f_evYvgGKHGAEQLVFP9lK56VGaCWKML7ql2Iu81D0zK5R71ehWew0rJFE7CiBp6lDvbTUkJj0UTY8A13aKew7il2yerMV6z97nLMWtHvt6se6V-W9QMRGEihCRJ_Q8qbu9YJJaHVpNKG06ZtESXGNTuV1XSd6YeyT94LaorkGoY5-U07sBPw7Qa5cZTa_XPJ9-oXUEcMvQ8BIB31CxA4CNjJsbGUwQN2JKBgoJdUaxa-7CwG2u0YFsddzBXMoHje-ZdRYJ-Iaco9aGEeqgBfR2gkpCWxcqNA7JcByM8ZmFaSxf4rz17cTupw0YBiIOCgxZ6VNtyh9JNKIzWWw.%26ch%3DAQEAEAABABSXWxsKsv6e8ngpnYFHfXrx-oKugc7mQIc.%26v%3D3%26pg%3D6A3WZP3EQREFNGHVIU6Q7D4CXY
+.netflix.com	TRUE	/	TRUE	1810781389	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzbnyokEVMaeq_ShJ3Q0UA6WgwlH_VQlc.%26dt%3D1779245391046
+.netflix.com	TRUE	/	FALSE	1810781423	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+21%3A50%3A23+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=570217f3-043e-4fce-8fb0-d8ce86c1894b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771788556900&prevHadToken=0&AwaitingReconsent=false&isDntEnabled=0

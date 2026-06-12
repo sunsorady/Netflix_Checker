@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marcel
+– Email: marcel.hertl@gmail.com
+– Country: DE
+– Plan: Basis
+– Member Since: Oktober 2023
+– Next Billing: 2026-07-02
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4915753079172
+– Quality: HD720p
+– Streams: 1
+– Price: 9,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Franziska
+– User GUID: OHKSSGQF7JCZBAFHK4CNDKSRRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784898672	nfvdid	BQFmAAEBENpwKoZWq_u9UfielWACoGJg6JtXiIg7ke4NND6srjJTh15FRO8dKV4CAv5mDrOXV5UXLyGMRuou0zal3wFyd-GwxdArmdtq_iPHfXiJP5prrfv6b2IHTVwE7wJBivvB0WYgBu9P4rOtJeqaRJGRn3XK
+.netflix.com	TRUE	/	TRUE	1804197357	NetflixId	ct%3DBgjHlOvcAxLkA1Fse2QRc72fcawEd9On1h0RyfTr1N_n2Eeg38BvARACnZIeFLZXzJaEclDI253PiFgRX7194cnT57TNmBUvdxS8pG-04YcJ8eiHb4t3Xqj4vSb3b9B19XbfRLGdoN79ljhprmJaT7Y_wtKvuehy0R_o6eGktHsS5Dcw6Pm14AVUKrse5dIvbgTAJ5Flhll9jucx4uuiyoDL_qTWJXa9k_pZSOhTfu1PlHjvsVul55q1380wEAVSzeKzTq-2ywjt-1oP5zW0Qh-W5UBSv8EpNFhVbyR8VYzI4_bl9qJ5tL4Ck7JprRTrcS3oYiiEYTmvzduPWEPVaxKy0x7Nw3qg5L0U70g0UwE840FeLxkCvntE24fr_o9oihh4xCtdK6xZ4J1Qca0b_MHR7kztLvH_iH8awLVjCKNO-jzc2n3lg4XHx6je226gFL_cUqYvXeSn3Cd-5yQsW2moj0o6LuYSQyofFb4pdW3kokMsWPiufpaBLz-KuP3O5y8whkq_s_nrSOKKE2qem7YfDm5k_MrPY9ju-PlT0GFDCw7AW8eCnS3Xp0zBqORR37xlYOUn50gDMfAoRBXul6eQ5LAirCM8v7EEuYE6NdN2JZZiVZrpWa4zNoSocXNvmMyNBBGAToJJmlEODCcYBiIOCgxxSHlhlcAMPIrkoM8.%26ch%3DAQEAEAABABQUGaF0iqSRUunaCBn7Nw02ps2GWUVozbQ.%26v%3D3%26pg%3DOHKSSGQF7JCZBAFHK4CNDKSRRM
+.netflix.com	TRUE	/	FALSE	1804197358	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+22%3A55%3A58+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73ee1d6f-40be-4935-92e0-4bfad8f83a99&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=DE%3BBW&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804197357	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZLfiUWhaZrkvYDJLp5wL8BScavqZVFvw.%26dt%3D1772661356110

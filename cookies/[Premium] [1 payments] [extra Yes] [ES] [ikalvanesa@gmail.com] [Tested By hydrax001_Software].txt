@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Iker
+– Email: ikalvanesa@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: febrero de 2022
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 4071
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vanesa
+– User GUID: CCTV4HJ2PBBOHPKICSWNZDFYYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803607341	nfvdid	BQFmAAEBEPhXC73sWou_1HEe1ONqvetg-FsDbDzLjh66jyOXJyv-5658XX9_5knwUuS0XSkSMvNHX8jHgcTPWN8PdhMPpHPza6oJWvlCBERYL-qZfQrT8cKlh9zZ8Q0X3CzGMzAHZGhvsXLTYIZpHGk2KaCBp3xK
+.netflix.com	TRUE	/	FALSE	1811298574	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+04%3A29%3A34+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25851e7b-1150-46aa-8e96-da0a555c503b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772071226749&AwaitingReconsent=false&intType=1&geolocation=ES%3BNC&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811298578	NetflixId	ct%3DBgjHlOvcAxKCBBWatK2IrgXxFCLnnPAWtXxJ3lsW_SERR_f6HCDFOIh82Ex8JiUYcetnwcdy6wbzylrAp-bwHevFYkoM4D77IWDOYiNBqdEVhTCf9IjvVj3ZGChBRBXOh8WPe4od_AW1jSLekJNFPZGc4YrqylCw5uW6EJeWkWE0JLeekZFcjxd1TV0KJfBM9S1RbrZhcmLVYmqYsmEeu24p2EBNkA84sdwmW0J0nTKq9jzPteDVRKBFBwU38Qo8MqL52bxqLb2Yizo6tAoR0k_qqnbAHP4ZE1fp2Lnn8gZFnP2fSg5YW78oxJ759M7S9RNF5AUQTw7NyiKDB-yl7OBKo7RuTZO5-f2UOofyDPGOeBk6aSIrLNr2WXaq999M0ggiojAEGrQYupPYR64z4WuYd-GFRIysUpPHYv2CPtqYu9igWiNz07ryblgU6_1UNjfr_6j7uc_aLgG3hbhe_G728xqS6-2PvXHgagdHGoi2escf3-P7VIYTc1Pg4bmvtYfSU31bqCiPOvLaTqhJwf0XjZv47yin-F2r9fkAZsv8Y5Ajw_Wg_Qeb_eiMKsVXxpMyDpNseTZXbnvSkE930JQQc9GY1y4FTzmLc5NDM4eco2uXjquza00oZ8Sy_tsRl85U6TDpB-Y3zc8PjPZAIPx6HLpUb_ZtPLPgRRk6pIepVpnt-muH3DRpBJMYBiIOCgw7IMq_JcVPenKISiE.%26ch%3DAQEAEAABABSg7eFKvGwoUF3iLcBhar7ym5GhqdT2D2o.%26v%3D3%26pg%3DCCTV4HJ2PBBOHPKICSWNZDFYYE
+.netflix.com	TRUE	/	TRUE	1811298578	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS3ZB-NFqIPCdTlmjAgeuxnKrkrHESKhZo.%26dt%3D1779762578171

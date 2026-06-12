@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Invité
+– Email: soraya.ranaivoson@outlook.com
+– Country: MG
+– Plan: Basic
+– Member Since: December 2023
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 3987
+– Phone: +261340376795
+– Quality: HD720p
+– Streams: 1
+– Price: US$3.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rupesh
+– User GUID: PAZVSRPI6ZBG7BVH6NA425BP7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802636524	nfvdid	BQFmAAEBEL-8HkcvQnn_0h1hpCvZJbhgbjFoKxtbeoMMASDt3uMm7PQNIK9_5bW5kB2_w9PIVQUYDw2ljkZUG6MGkKp04p7qv5Oqi8atycF-lSUIn9Pcw4RIWvpUGFHf0sfluXN_6X5gNF97AdrlNNpEumL59o-w
+.netflix.com	TRUE	/	TRUE	1804805178	NetflixId	ct%3DBgjHlOvcAxLLAwF-KnNzJhOYR15ZBcafprMW-33C2Qyc0xQfNTGvDAk9g1Zb1QAQdSmwqEG6QxhQnBTsT-URSOK9cxzYC47nEaFSBgx522QBDhVLAvedrGe7-qlocvmMr2wZLgxwM_fFvWKiwgpQGJ8Ei2CmIeYUijFGrXq1g--hwKnMxJjT1nNOYwD3pF1iImYQH4B-e-XahweXOcnX_u8UFS1gKfD2og45oQkLNASi5zf_3SIPn6_3RYzGHqz30vrUDpmG1kmPrFpuq92678YXdYKUihFIvi-f7X2HuA-GDpMgXY1f_IvaybFERmBbd-t42rc25oUt8u1EwIzPESJyuJMumylL8neTQZObuGr-mBN1UnVtgZLzWBqtsf0mhbY-5A80L4xVtqQcp9OvtClhPktbctJc4xLDgtouTXuaX4XT9BOT1tsGwVr8sbeJdCYczVDkAUszTTn_lZcdBqUWXGKQJvhb9UxIKZimnHF1TmctkejUIbFZ0UYJyoV7ykAYiQE_uudJ4KvOo4V72tR5d2OnYN_xXJCk7U9R6NI_EKc64vdIaoC1-GIKBarwcY6PbSQXk1b5x3JWRGtJTOpjcC3S6yAdVTsFujxzmUTYn9D3UhgGIg4KDK317c5KNT2JnrX0cQ..%26ch%3DAQEAEAABABRj2UsOgVf5XBpWv9dvGdObRcTe7UQscGs.%26v%3D3%26pg%3DPAZVSRPI6ZBG7BVH6NA425BP7A
+.netflix.com	TRUE	/	FALSE	1804805180	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+23%3A46%3A20+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=febaba29-195b-45c2-9464-512db015c463&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rick
+– Email: jhondoe.indabox@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: abril de 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 5958
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Isma
+– User GUID: 3JDRMTBXIVCMRER777O2W6NWJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1792959760	NetflixId	ct%3DBgjHlOvcAxLhA4SpekNOtEK8zboZaNMN0eymDtR-PFJ-HMSITEz_s71EcMGXRPxC0mReO_6ezYLUfpeEaLETDnUbrkc02zLy1c59_30ZdwzNEZJ7oLXbizJwsrYFEh9vGqO4GhjPe7GwuKRtiUOAWYbfiI4Cj1mrdG3FBuUAGtTKjzfyvekraPMz4EqFSjqa8kDZz9xv9LkMyuaM2tiO0mYz3erVYwLvipCfYZM4Eh3LwKAX4JfTLbxWGLOBDssujvFbWQjEaGaMVLSzoVumLH-ubTkGMh6xYk1yOrYB1nIKnyp0gAg4e8EAHfEmBx3PUC02PsJA7NyeBywmV0xfoEx4FRS-5g_sqGDWRBFXv756huSPq8r_JGtXcMUvq5PFY2e6rHm0goV9kfZEFseGe3A0OXB957-JyxRxaj_5D7TAG0hIc_74tazCD3DJRjNX5GxqaRiey-yqOQ_yzUFwXE3_GBPkpiELXsofffd2pJOyX-eIRanANnt2hSpNtu3qyHAwzqYOAhtbugLFt_LGN_PU4wgi536hyQvJ1PKKCS1Jfg32kwC4IG5rpc-5Dpfe-_DI0kc_eJKW1jafySrxlyirn2VZN576E8ZoVvBt95MtFo06Mz82VBBj7JGTowlTqVzs5gydln8v6VAYBiIOCgxwLO2Qxtv66aqDv4c.%26ch%3DAQEAEAABABR-TJ9ngQGbC0H7RFXjc3dGpzFNieOKTpY.%26v%3D3%26pg%3D3JDRMTBXIVCMRER777O2W6NWJU
+.netflix.com	TRUE	/	FALSE	1792959762	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+25+2025+22%3A22%3A42+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7c0ee60-a2d2-4fb1-938d-cc43f1797939&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BAR&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792959760	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRESW4d_P7pCfsIh2x27P-Ff4awU9dQ5JQ.%26dt%3D1761423760707

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Choly
+– Email: alexandrarocio@outlook.com
+– Country: AR
+– Plan: Premium
+– Member Since: December 2019
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 6886
+– Phone: +541151782940
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Invitado
+– User GUID: DTMRV7WYD5CHFK2UQFDUNZH2QE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791183317	nfvdid	BQFmAAEBEBjmSrSLb8ZJ9NLDd8LgX-5gpIlHnqbS_2POwdGW0SivBz9d7e5N95TWIBY2TeqgNLTLrGAWdqn8cNurOgw-pRKgEsmfmY5mcGhjs0bmLvW9MM55BVbv67Vpzv1h_mxyT8p_bhJTGNZvu7TJVDnGTu3l
+.netflix.com	TRUE	/	TRUE	1808168819	NetflixId	ct%3DBgjHlOvcAxLnA0IkGX_aRV_tnnpC-NC-Xh0IgqCCyyAez2HK6BfQONf8dPMtDrbGli-jR3x0ZpCcyXb8mNSldM5RHFqgToObXw93Ri1Ka_1gi9TEmyKd9QhoFz-Il3eLiEHe51gzzCJQVQY_TSOxdqUfU7Ho50LaakRhH7p3BNuxAYHGazy0aV2JK71Jb4vO0l8xxJEuGni6WF2BPRZ1n4igpMoi1rY7ZpN-cDCOQPWQarX0cUDPwrC7aWScrROsvO84mT4VhhMv681aikP6N1049X8g7zKQN7pIyNXbI_Fao_a-XH7ouTgl-Cecr85eOkIGr0KOg0ksX63flHkvZpoAmubWC9b1xd6vKATYcyg4itGkUWZJx8S8iMLAmjXXHxyUbeMiOKLOi2FbE13mtvZvg-7y-94RtbCuatmntHq1WInb89S7GY3dmUtQ0-P-AlOIPUdvcQP7V2yaU8_4Bp9ULib7eFclCJ_A-qQaU1B7_f3RrVLqEkVhSHmPW8TATHdHMKuulBAOFVv-81F3zbFfGlcrpmTos_41ShPwaFXAI_MqVpuot9VSwN-9WMdWHiGKP8cHJjGX9bG2-i_syBbKzsRyodzLJT99wQOI3BjwVh7QtCKXxESOxVphMgEAT2KFWadPUDWwYSGXbW0A3iQYBiIOCgyS1MLmiFq6FArh-k4.%26ch%3DAQEAEAABABR4nDkNOjaOhtF99hRLxOc8oF0YIxVvN_s.%26v%3D3%26pg%3DDTMRV7WYD5CHFK2UQFDUNZH2QE
+.netflix.com	TRUE	/	FALSE	1808168820	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+18%3A07%3A00+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b597592-196d-45eb-9b3f-1dddc4aecee7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808168819	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1l_DGkRGLsIQs1W-F3ouazB7zbJ0xf9s.%26dt%3D1776632819071

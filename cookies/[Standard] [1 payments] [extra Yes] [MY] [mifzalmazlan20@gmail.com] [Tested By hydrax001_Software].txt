@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abang
+– Email: mifzalmazlan20@gmail.com
+– Country: MY
+– Plan: Standard
+– Member Since: August 2022
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 1400
+– Phone: +601139398049
+– Quality: HD
+– Streams: 2
+– Price: RM 49.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abang
+– User GUID: S6ZSVPGCWBGINIXBTCI5WT45XU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807208903	nfvdid	BQFmAAEBEPNiADt-SW-VwGzqhq4iB5NgFn2SQmee0fiGdGvKNZqjnLLOuXlCqZc7851jE1WT_Ool8KU9Xr2JWNvYC8HTdlx5jycPQMjf4CMoTKzoe_7i0571E2jeoGtB0RHdnPk0jTi1PCDYgMMRsz9ICvlyO6lR
+.netflix.com	TRUE	/	TRUE	1809620805	NetflixId	ct%3DBgjHlOvcAxKMBF9z4aLU1mlH7X6dRbOySRg2QcjtAwlqXPmV5jnXDOXrTZo4UXiZDrgzjjPkv04OPjjTF1zvKvVSNzr8Bxpni7VrpC-6PjB1C19kCqo_aqFBl7egHD_cEB8dE3vPW3rO8_B33V3_3b02vb_bDDpK4EDBi9MEq56DaJU6P3R68lTFyK-K1uJhYrtUQ9t6usAsqht3HNtA9CepG0FsL7Clbx3reJ3_bGcrHmaohrXlYW5nvKfvU3alHTA4l6xT7hrHqfZyQ4264SWtxuYbCiBs7E9g5b0j8FVkD8D90NRpgqIeY1gcFfS3KoJaQJhefQVLWQcn9zaUG82njB0QbCyHdo393-JugDHWJqZ6H43DXybT5A1PGLnVHDQ0XG-xmQhu279dJlPnM_H7hGuvJS4EEchq9PqQiXDpbPJGtEQqTrgHvvsWNnWHk35Izodr-3uP51esTOxXZjoj-__2OqLUulRx95DKdcs9PfxBtXVcO2n8LdGJn40UCyLETZS88TL5-3N85nFHmJ29FO4BVax9Zg_gXOj5GfIWUbAhEk4weiy0ii50ZpsMWoieVlCLKKKX_FPgWDBfH1ZtTCKA7tKzMcBIycTXvXM8ixwMnFIPYyraaAfypjrRGWskqtQg8Wze-ZixnO9onjqy6VI07ZcRJFgiy3gGlGoH7McOoY9x08mFJ7sK8DMLMJlAmG9qGAYiDgoMg8FHkJE-90aa9UID%26ch%3DAQEAEAABABRHCqljQdKrp_LO347WtJhXiKzgNnht5f0.%26v%3D3%26pg%3DS6ZSVPGCWBGINIXBTCI5WT45XU
+.netflix.com	TRUE	/	FALSE	1809620807	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+00%3A26%3A47+GMT%2B0800+(Malaysia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7976978-150b-4c48-9e32-29ebfe3c4299&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809620805	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ0_LmtfbTjnJcn-mT7V-xVt_WP9MZE6eM.%26dt%3D1778084802510

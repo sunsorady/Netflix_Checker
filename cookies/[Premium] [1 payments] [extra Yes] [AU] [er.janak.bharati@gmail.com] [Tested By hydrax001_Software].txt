@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rajendra
+– Email: er.janak.bharati@gmail.com
+– Country: AU
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 5329
+– Phone: +61468957747
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Janak
+– User GUID: L4VM7NCMVFCI7E2EYGXFS367BY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEGO9oOknZ14le49443MX0WtgQgJznv6WsY0JOaf2G2u_pYaO9PWgjHGZkHQMqzfC9G2Cg8j_BgursDwP6BVxr3EW6ZO8j1bbl0jw0fa8iSk3es-L2LKCmgLm4OlrAFw-BJQqtsUvloj7hTowsm7DubkZ
+.netflix.com	TRUE	/	TRUE	1783551686	NetflixId	ct%3DBgjHlOvcAxLiA2OcF6hPtXnnEVmOLeG6wzOQN-fSW9Mn0-iL2JUGs5x0NeLy0c7azrwRXnDDn5MbZuxpN3-0-cBVWp0_hTT_cxrhgl8MADI6Vr1GZH9JMrroeJao3IaNzkLADp2rlfH10WUn2QTDcbbmUiiqk3sU-c1lwwPKLfPGMfEylNb52fus8ij4sEkVj3mRiowTgkb6dWu7zHZqq9IejUp_R5siBE4FgBk3SCJcumfyYu11-nfpuRo8QLPrtRkHlox6LpExau9BxDzvUJOBD_5cu2z-zJJUGKCFzS7C9rwJay9aS6myMyCeTg1-0dkDaB4FCQ6x-YbO4njneimSNy7ULfnDYM-tsyaJjmHDMWgM_BEtvI3SGX8fiaIcYSDt3Qgw6bfyaLWfdOfyCSfTFq6dJ_T8McHqycx6p26FBs_3JUqSszPcNBrnp26cVm5aHAFxk5WSNaK_IZocGV3WhBOxMzPuxb4JmQImxB1sQVR_eRY-WhREkwjuon95vzXDNfXVIpC09Y2WsPFz_4w4nlUG6VaePrPvZNjJnyBD-POoFmQ3Dw_dyyQkPHmNYkBsNBlqqobvZu7WmcZjxjcK2maTqjxmzCpwCuLndjIdEsydkqzNsB0A5oZxgMOHtClizFbyFCdIjKXvGAYiDgoMaXOPwxl6JfVBsW8w%26ch%3DAQEAEAABABSlJ_NN2Y-CMLiz1zRQcaNoquw_3ZO8mGk.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783551686	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4DE6Zy0JRPpSJetpM6NMLYs5JU1jM4i8.%26dt%3D1738241365064

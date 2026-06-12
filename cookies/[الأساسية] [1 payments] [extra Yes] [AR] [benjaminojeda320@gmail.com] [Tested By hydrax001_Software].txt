@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Benja
+– Email: benjaminojeda320@gmail.com
+– Country: AR
+– Plan: الأساسية
+– Member Since: ديسمبر 2023
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 0004
+– Phone: +541152298710
+– Quality: HD720p
+– Streams: 1
+– Price: ‏8,999 ARS
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: benjaminojeda320
+– User GUID: UV4ZNYAQUND6VIDQS2WKZGH6MQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790726642	nfvdid	BQFmAAEBEAWAcYLWKsQ_Vi9MwkeCp_VgHaZ0C0Of0DPS0JTgDwKa1rulCIaGSprz1m40viw86EA00jEHj2tByIZbwX7Uwl_of97ZFSJQyUCKafr_wBuxp7BShz7W5-3usNwwtINJLPCx5PHLl5YI4CWdKRcwCuaY
+.netflix.com	TRUE	/	TRUE	1795612584	NetflixId	ct%3DBgjHlOvcAxLiA-0nF2SFd8Z5ePe2H9P_RX48vYpebraMEGP_zyNKoWMCC8-XmMDMXTukcXJOgm3W-gTniS145isGi6dahgjbVupzHXf1vi7WVD2RDVgec7Lj29Arx5DFndctxJ_yqj7osTgORg3QZ9ocdnIJX5AQKL7MjykstMxjshrHua8_CgXXpDErDAoS2GFGqCPKK5okzWT7jXbFY8_WjEA3bY17vUTow7b1BFwOWWZ-g6lNftBQcyPgQV7dh5ojjzhx6v5l7p0E7sNNmcYvfHXr5WDV_GrJZYINxzs0PRc3sNYOgCM1C43C5esc2RXZRkMmKS6wxWkX72DFc68E5UXvbdnS_ltLsXtomHqGKY5YFpNIj110L3fyEitQZkrhpx7wT6BYzSafSHcgTgkr7t46EexahG3n5cegKqmZJB2nmcgm-sAJp8xddwJzi1lJc2zDmjHhkdekW3wnaVelggT_1C50kWo5-PnUhAmhAK-XqmsCbzvDvLn0DNDUaYmomZrWOGsmYyd0rYqOmH9FaW7OWmjbOyeh7Lfrs-ydTU3ygJJpSSfnMnfERpV4i8buERFrHaFjIQXk1U8p_M-53X67_YoWTmN4WMYl7yPc90v1-Gf41JH_haHVX9_tge1LZa4N8bT9MC1kGAYiDgoMLKKI6u6T__3WElAE%26ch%3DAQEAEAABABSomQkL8rd1lFoaVP5TTE6SR93zMS5qNs8.%26v%3D3%26pg%3DUV4ZNYAQUND6VIDQS2WKZGH6MQ
+.netflix.com	TRUE	/	FALSE	1795612588	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+25+2025+10%3A16%3A28+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e33e78bf-ff19-40d2-a880-d57a9d6f838e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795612584	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZg6t0_ItbHSBdz5_21G9Zd4sHJCivsEg.%26dt%3D1764076583956

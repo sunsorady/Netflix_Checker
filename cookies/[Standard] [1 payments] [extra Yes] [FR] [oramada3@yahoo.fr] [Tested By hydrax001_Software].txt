@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mikaël
+– Email: oramada3@yahoo.fr
+– Country: FR
+– Plan: Standard
+– Member Since: avril 2018
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 7563
+– Phone: +33618663061
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ORLANDO
+– User GUID: IINPKIZ5ZJA6LCLRYRQCAIYZ4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788463854	nfvdid	BQFmAAEBEPfLBeG5Av7jXJVyZNbWB6lgxQOk870Tq4njwcY0QBMCQEuoEP0Lj4Q-hXwX7tOm8Ja44haL3nTM_4A_Js8DaTaEbW5T9wsNJ__Eiwb5Oi_KDZfr0fPBjuMAfDI3EHSBg5umF1zUartfcq3nBvyDdNvB
+.netflix.com	TRUE	/	TRUE	1807866406	NetflixId	ct%3DBgjHlOvcAxKFBLcoYBFtNQbqxwNZ3e3by4xJvEQ8raP1XSyZilJfiq8fwaMeTqa0Kl60-WxIffi5nWaxBgMNn_JtrwXTEMa5DQAwTZ-bhmHnt1ccBWUf1ttsu8h3tFS0i5Dz-IpqaDpijRWYCU8BzpKEyKnn8SU1tTpyGCoZylYZ4bRNSi8It3eW_bb_AvsfRuhFvwNrFt8NoQCjBI-uYIw94xy4wHQTqjhSFrOK5XD5y9bS1MWzgV91dSJOWgSL__AiJykJVFjublg7DyADY0buIx9XGp6kHpPdpb37Ho-Y7Ftky9oOUa-2mv53U_tGCPw9pCrS6N9L3fdsjfBzX0_b_diZVmTLlhTcTPopGwdSKJ-jqspmjfrnQPyfaAm8oyVVq0c3RDYZS5yOCtOj0fv4t3RV8RhG7-Zq1BPhfFq_QB6WPz_aS2xmC3RokunV2tTLvCqtJB9TuX5z-9dGlndWnFCNxrLPIT2nn8tRn3_hwl_Yziq82LtqNmRfJLL3sfE8Fl2BRqdLjLY_S7bRFfuesdGRYmvL_1xQ_HGB_zH3tMwUtR7wGCxOeGB1By1YUvNfx92wEqAT6Fxt2oQcmLPQHGPoNPupPvx5Xq4aH9mYAasGVKAaZYUCGvq_b4GS9ot0grrsDNZsQt6ebG-6v3OO5aXRbZBziYWA8Wi8jlp5OdCxLU7vSvmc1wu7OBsYBiIOCgygXm4D47OZXrj8igc.%26ch%3DAQEAEAABABQDddXrqzLEsqTikAuGSr4x13I-5x-2kSc.%26v%3D3%26pg%3DIINPKIZ5ZJA6LCLRYRQCAIYZ4I
+.netflix.com	TRUE	/	TRUE	1807866406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkDFZoFLIVgba27cFSKfdcHwgkiqu-Hjg.%26dt%3D1776330405770
+.netflix.com	TRUE	/	FALSE	1807892328	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+18%3A18%3A48+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92dd86ff-b780-488e-af74-ad9c5d61ceb2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Henry rob
+– Email: uwimanarichard6@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2023
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 5275
+– Phone: +16153511169
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Richard
+– User GUID: XKGW6VIMY5HEBLXORYJOIUPPLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783920833	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AjfjjUNt0YVh0BR3oq4J1lYngWuDZmIaeGg53Yv7lXypwo-8hMAxy1vgX73IBeLwyGlUQgFYyRGEXk07bxcQyVIOliBYZb0RKDfYteSSgTk7LkcYX6ieI02xOfC2gRj25GAVaH7hzDGxQ9SyBXJnDbgbD7pe9x_BPenMwyMv2NN7Fyk8l9Bc_DoCB3ifMclcn4-zgWjZOD487RtQeFe3MERVNnvWlDcK8wpjVRtN4zzIfOHO3hp2Z5oZBpIsdKTC1XQkgXtbJlW_5t2jV6GvrVe4nnIA69Et3Y5uAROAM-UY4Vyw-JZy8vnGinJLIMT994DLKfF32FTtIdwywNgX5ddpa5AFAiP5RLRrAKnEaG7WT-5uE321szb_JiiZbOLMS0-kTndVLtFUNYMoXDXx6K-DQzVtTh4IzhsFzKEXtQWlx0oq1mXFeUS8GC39kSNgE6UQjcK6GzLNpUZ6heghMq1-X8hY7n3B_vlLOdFMpHXj9iHxOxgGIg4KDAAxZdfyMLilfiPQZQ..%26pg%3DXKGW6VIMY5HEBLXORYJOIUPPLY%26ch%3DAQEAEAABABSYyExU81Wvo8oeIYQZQv2V9Fgqvboyo3M.
+.netflix.com	TRUE	/	FALSE	1783920847	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+13+2025+07%3A34%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd5b7ab8-6862-4aa1-bca9-0c6f98b8b9b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783920833	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQMj9_EO9nEHA_QWg0-eNbxce3VCTDIxe0.%26dt%3D1752384668485

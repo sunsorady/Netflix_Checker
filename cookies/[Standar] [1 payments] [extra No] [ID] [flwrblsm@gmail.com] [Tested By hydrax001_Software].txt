@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Epic
+– Email: flwrblsm@gmail.com
+– Country: ID
+– Plan: Standar
+– Member Since: Mei 2023
+– Next Billing: 2026-06-23
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6285962527023
+– Quality: HD
+– Streams: 2
+– Price: Rp120.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Safa
+– User GUID: IKLQBJYOUZFQ5HSGVHHIV54E7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1779211221	nfvdid	BQFmAAEBEPHEqCR3LQw6aIOpY1ju8tlgrMwBfLlQBDse5AkaQnTRV0JB1xpxplGRoX_S9onSgAT4QEtPnrA9oEEPyJgSCr_LWWtsZ9fdnZQNNB-o280sqyWfD6cFvgFHOZsrF_fLMzb4xOQjCd5ZHl-3kZfD9G4p
+.netflix.com	TRUE	/	TRUE	1808793537	NetflixId	ct%3DBgjHlOvcAxKABMIOABHHwFzWBLApfDYy5y4dxzMMcZszc4oZMCw7BjT119xO0Ylc41atqD_LY2Fxl35V761Ej5PoiYN1nB_ssKi1oTcWZhGnZTP0mTl1g8iKrgwLTVHFqTwAIMtYeOsjXMyI8uaaWZWwYXhS_cJl26X38NwIiUmwIEN5D-Q7tkjML3a0cb33XpyHmScSbXgaTeIaCpmYB03cv8oHQUBD1U4J_frJB85F7P3dj2bfpEFVtoujog9soUetWf4XChLAKRZ_T5ynIQChSk8KpxcuWQngQ00THjd1IFLddlUt4nsRfb7bmjB00GMXjRVwncu1Fd-b1aK2M_uwXrt_fAV8SfNaDawBkBQxfNxiF_0-X9en4u6VCsJkSSKD4yUpS2xtqX8UICwVojwNGtO4kFS0wTVLlce8T9b7Vxu8SL8kv9VZ362XsJg70g7llXtnKiK9aFK6xiEvVwODwjd5lvtxLEquguzJhsUJ6U9kRzXBoKa1Wxb22if_hQMuks6cc0Fwm8t6PqNTqKpfLDLa6bIviOhSOuFyMwNLMNS1niLwmp0VhG9GJfyhKqHBZc0E2qMdceJ2axk9YtV_BGmL0i25sWAXiNG2S_AEe4rk4gIAl5-xLbBP8NGCkg9Y0Mdok-iUJI7m_V6TA0Pd6LQT3zBb4xMd192zyTGtNAEwrMscHmQWGAYiDgoMuJyBAVxvBRz7J747%26ch%3DAQEAEAABABTq0fW1WZppHIAPnFZRT0OKmBSWo9uWSA0.%26v%3D3%26pg%3DIKLQBJYOUZFQ5HSGVHHIV54E7I
+.netflix.com	TRUE	/	TRUE	1808793537	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgUMxw5Nskrf136SBFI42vYE6brT1Q0Cg.%26dt%3D1777257536494
+.netflix.com	TRUE	/	FALSE	1808793561	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+09%3A39%3A21+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6be317d8-90e5-4cf5-96c6-568d8a1c0767&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isAnonUser=1&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BRUNO H P
+– Email: engbrunosalles@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: novembro de 2025
+– Next Billing: 2026-06-26
+– Payment: DC
+– Card: 7408
+– Phone: +5565992567271
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BRUNO H P
+– User GUID: Y4MW3P3GF5DQJOH52TP3GP54LA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801083607	nfvdid	BQFmAAEBEB2llsTKQ85y7USDDZZsk6NgEKDhxtV-GA58lvYFedCDZE7wdqWmMqOzD4osneCemxM9MaoM9SO6mGwASZTNb1jHlPnZWJ071hZGPMT-turdcDB9KwpR7Cgs1fmHrEqOly5Z9adp2TgcjxNG-Cmpcwtm
+.netflix.com	TRUE	/	TRUE	1811030767	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA-9lDcL84RuTZI3wPslTzcgWt7SeCyFK6h1ScK1XLKP8przoEyfvVnF5LcHNg8P-WCtn7fKuyGEssc8QDKTvcZDMkTACKf7-5IYhA-fIG_glmgQ7DmH-caEy8AgE489CdMlHPD5g78_4V1ymoNwuN7DG9rJiaSBp0Eboe9dDipcNSt3As0z2QgnUEq1X8qhclpF5G7bg1UUw5a1ZMDZVplovONwr04tAaSkt-tQ7S6hpDRYanF8b5oIIl8zTsdebXJ3O6NPe9vSdHbBl6JYObWBaMp3GPDpOy8aUUbb8zUdAzWffAYT4X2HEVW8-AzrmfnsAEUarvt-EtqMPhInrfWyi8Dl4A-VWWJZTKnrii1b_XvR2dgSidloACfPBAT4-Tks1hH-WGKuXLUq4GumGUubzpLRKdNt6YGCI10ueMC9QA1cEz2BzIHQLAMO6zDswYQtFZpyhtA1DCE8sBKD6Ne1tW6nyCG5hT09wqhxi1Jhqkrq93FAeVDxQQfjykTPYZDOQkStIjH6PxZIPsz-GhgfnhomcYigULSkIu-UiGAYiDgoMT3sCvvOq3GFwV47D%26pg%3DY4MW3P3GF5DQJOH52TP3GP54LA%26ch%3DAQEAEAABABQxwa2wsOS2hPwVCUfTxvH2CRwjCe4csSQ.
+.netflix.com	TRUE	/	TRUE	1811030767	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWmK8ubF3O56ohIlJmr_AofsH5_bCGfJk.%26dt%3D1779494762292
+.netflix.com	TRUE	/	FALSE	1811030794	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+20%3A06%3A34+GMT-0400+(Hora+padr%C3%A3o+do+Amazonas)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=902a68ee-b2b3-4ac1-a954-ef79c7215422&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1769547345346&geolocation=BR%3BMT&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

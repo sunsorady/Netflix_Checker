@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Albie
+– Email: davidnewstead1@me.com
+– Country: GB
+– Plan: Standard
+– Member Since: November 2020
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: 4047
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Flixnet
+– User GUID: IEVB74DXSVCYTGOW6FSGCG5U7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783790515	nfvdid	BQFmAAEBEJBgFSx_pnVG0eXFl_VtZjVggFAG-aFsZIVcOLD-yI-kwBE6gDgErBY_4RGS8zLkceiJ6Or52saZUImT0cpTABByS8gRLzWXhe5GvHDgsqXXelxTwhpAWKSeX4FsjLUc0P8PHPDH_EoUGcyXEFBgILWN
+.netflix.com	TRUE	/	TRUE	1810236789	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA0ANXbfqrgO7q-5Eykg0NV7XEaXlIVfdgmPbVFcaRZxaVb6SujfYus7tg4TBctdSCxh_NKci3WdJ3awEbDkC35DQbg5o1SGcD2ghUQdg2khsb0rk98BzdZ0Qp3JPzbsqhKsfSTbuVfgHo8tMWV0E-4o7EitzravjPCnx4aYMRqU9X-yIZizdsFBAyWnIKf90QYIeNgoBeX0-j4id20oNQtwmyP4ESx8QQjjrEX8LjiMJJVJTfKCrH75RcsnlVCsoGF23MCiPBF278Vv8W0GjS9ZE4c8wQn2vrTe7SNrCzuZizOcLBPRdrIT3yOyGZOuhKGL5hs39kbMhnX7iE8AEpzwhniuGN6KBxZjUrRbjQdjTsm5s9oIS8WxAybFwSqshp0sNx6G_rGHscjH1CZ-RYFQXRs0UNTDpuN-7aWvg4W-xpd8m-5hBHMCz3H6PgD-IU318FG0p0Rm3uSLiwwRCOMz0SiKx-kgGqZl8-OZzpV0uqCdpePfS1fMWumwJ4Gr1hTQTdT-rHMQyv3CBuQwt4fsT1OAYBiIOCgyBSTGr2wbkmM6Tiso.%26pg%3DIEVB74DXSVCYTGOW6FSGCG5U7Q%26ch%3DAQEAEAABABRYkv-D0SCyWrQDkSU7VNNTXfFuA6b6aTM.
+.netflix.com	TRUE	/	FALSE	1810236786	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+20%3A33%3A06+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=770e6d20-a835-4e60-a32b-197e58791133&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810236789	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGo01lA1QMhkgxgUkom9uJQG69gUbqs8U.%26dt%3D1778700786839

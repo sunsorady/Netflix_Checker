@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Deep patil
+– Email: dipteshpatil66@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2026
+– Next Billing: 2026-07-07
+– Payment: UPI
+– Card: N/A
+– Phone: +917620141268
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Deep patil
+– User GUID: VLOSRQXB5JGLXPQICNYBULS7VM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEDuePoczAZNgR_Cl8nL7Stdgae4hEJhgGSEd8ev8f3woRWc7V0stEWSuCXtzL_44ODVXQkoAhhuif9Lt6hqYTRTIHGccTx9nJzUSmnOnccS0SxaqSt1teIcxJByaEjdO2p56yU0aqKfZ9l_0z-XGjfic
+.netflix.com	TRUE	/	FALSE	1783792316	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+28+2025+14%3A47%3A26+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5c08945-fb9c-4405-8d0c-e87d9f38f964&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783792316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQAWZPi_pWrGzPK3uyurrbCW6TGXZ5m4Ag.%26dt%3D1748506234128
+.netflix.com	TRUE	/	TRUE	1783792316	NetflixId	ct%3DBgjHlOvcAxK5A-WCaWrFgP_1xzDfWkNUQ-lh8phLlEeXqWWmUmcml3xCb6I-aTItMRYv5Zjx6yqO1RhrGNzLetfAy6clhRAc5k40nwf5EfZhKxKvsvQt3WXPtzmIgGcvqbXYdaa0EgOuEybloSui3BFg0-jAf9E5f63kiflRC9jk3AgzrLRtC3mh-OLTIaHCu8ObBLz5PAvC8CY-pWTaTtNB5-ixJopj1PXXnPs2CuAjIZ3u7p3PewtMq23yYkXwlv-Gi72ZjyDL75eRKfvUdx6X1pQO_yz0KJlkPQ7gQebJIIKm0E-dl9MUjprwH7mOZd8gdoUKgxNoZwbUUXS7viRebiyrY8RM9fNkpjve4cS1P5uNg0gsY8Rz2-PoUAH0y45stctDsw94p8CQ4JTYu2V1_Q_cBf27kdmciYlqK1BPGKsuAbh8g8lfkITEfOycA0c0XVkNLUuSdhY9ieGPEBz4p3FT80kvf2eGYVjcQuncZyca2IAEVI4oDpvMWDeMnCMPBJfCY-IMWGy1rtjk6JdexbUvmqFwcAMULdps5Mgap1hjgmrWvfbEQ6SebFb2VG-nPHBuAXRM5M1sK39KBz3uARgGIg4KDMU6wkaJux5K9yE7kQ..%26ch%3DAQEAEAABABTL1v348TeDyDEGZ58L5GouDlNNvTl6X2U.%26v%3D3

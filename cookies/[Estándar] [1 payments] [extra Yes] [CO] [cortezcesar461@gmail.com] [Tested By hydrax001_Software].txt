@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Léiver
+– Email: cortezcesar461@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: septiembre de 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 7008
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leidy Rodriguez
+– User GUID: ZIPLTY45BZBK7GSSZWOXFDED5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794859836	nfvdid	BQFmAAEBEDUMnewxiVKFNoZr6-53lytgYaVsz677vScLdTS7AcdgzgLn6X1O3mTR9LrtsgGkwgYT7LH9LlBHFVfmEJK32YkOoL47_l_3PKvOCI3KBjSDZdQX_OuTwYwqz-dnBM321otoXD4wYKKOjisU5t2gEeAt
+.netflix.com	TRUE	/	TRUE	1810937713	NetflixId	ct%3DBgjHlOvcAxLLAxJuKOHt237fZt6tSewNp5bhjENxBoWjLUbPXinsEwbc1NU6DNtTOMxQdpFVRRdF3KJzBtyClGuvTeEdfNGQmDdK1K0GZfyB3sUCRHci6wHFKZDlDk9Duh2dNdaH7-PjD9_-P3KX6TN2LKBlh4Uew8BrgxjLEsfuj3qWwzTccSbGrNcLWNSfgwp7L4LfBB4A9Wi2YjgpTmSJzWS_1TAcs2hZh1iHoM_FHfXiFNA-E441KtxJwXN4gN075tnbm5yjF03MLFdMp8MNqXCICHy2MP7NigH2mwoo12pBAGl2E64y2-YBEmImZJFG6KDnBNpAWylmF_Jh_ISh974sHzOvqxIpzq2ZKG7SdCYOlSSRpSthLX_YKL_S-91jQOn-LtEOEe4mFVFiuzibaPpeLs9rd4cO2v68F0fNQ72gKAeiAFi2ZkVkr2QU8R0r_g14lce3zOYQW2KNDrsgUzSVZ3D36ZLjK-X9HTAsgzjERXFqqVdaoTtThomOO2TUSJdGqsASvvJCkwica0_p3eKJhcDBCpK7pQFgT3zuVc06qXGFiYxtZnY6w_RPu5_aZVKsCxopUsJ2qfQCWEkTuKR3ROrD7pyumKTj0KvQWdUtaxgGIg4KDLFFrRmDYY9TDgfCVg..%26ch%3DAQEAEAABABRtktH1dgDQ1q5SNLLGewPbxEvbfLgcs_s.%26v%3D3%26pg%3DZIPLTY45BZBK7GSSZWOXFDED5Q
+.netflix.com	TRUE	/	FALSE	1810937718	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+17%3A15%3A18+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1783943a-9bae-4ea6-b2a5-654a9f80b2b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0&prevHadToken=0

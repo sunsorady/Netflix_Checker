@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Elisa
+– Email: e.ardenois@free.fr
+– Country: FR
+– Plan: Standard
+– Member Since: mars 2020
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 9361
+– Phone: +33652030119
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elisa
+– User GUID: YLOREJTRCRGUNPQ4CWYGEGOH54
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810416871	nfvdid	BQFmAAEBEBn7dY5WKvQ5cbsSGskhFHlgozeR4LbtW6M0VNq_Hk9YLWCdiGqV8O4JzjPDBZRjuS3bj3Bv8_xO7ZvQpfePwQmiBzJVqjMOm4JqzZLL4aD4h7tgsKoO-VNRllVq9vgawN-iLffF6MfyLQ-Q4RXFBUiD
+.netflix.com	TRUE	/	FALSE	1810725110	NetflixId	ct%3DBgjHlOvcAxKMBBYYbgw07iBP2_CgnHEzJtyFkzl2kuPyctSPpH3uB6h_tpKJczg1eVk93DW30Dx4q9e97h7KTwyUXkvifsCL6vnoMRS5sNkfZmPAZOv0sOy9GzhEnoA5wA5XHMbHg5gA3z0jTvK2wWO_sx0rItKzsB96h662J-YMyruG_0qwTGp8XG9rpOOgdMrZGSqCu4Xq6tHq-YJX_S-bZ2GuRauvVhDQPSeKECphzE8MfjFU3j9QJsPpScfGo9RBkAzfKUP0dDX1OkQKeRxQWdNr_NfXq75XkMA_LIHlPwbbV5uS8ElWS0HjgqkyAfVGYmR9ewzIstPuaxMf_bj3P-dWG_gv5Z5AgOaXdw5n0p3jvIi0wxhSU9TFE0wu3O31JKDlO9YMqthG_-dYMyXRQ57jyukT9xJwe6uZ1G975m3UGiug98b2uSdacwbIEYLqPAhEANWiMYM65IVqtVqjRipip02M4ZHvga9C7A14a3fe7CsVNxSiHeXH3MtHran5KG6QWVzUS22mO6FTmQNzV6InoevK53ls2qfNvc5MNBY6z5mR7zWEl9fT7MslP-HGwyNx_Zk4zMlsoBq71sBUuNDGvqzM1vF-lUzULEfXrQTB7BHbIM9weHGgLGxtRWS2NDToDruC_b5Io1m1hmwrets9VLI1DzjsI5U6nFOcSH1c9B4cPDWyS_kIm4JujSMDSgUyGAYiDgoMd9Zoj9anJutRrT_u%26ch%3DAQEAEAABABQ3uyzzxfglEtsHNT8LaSjqBXvMQC-UywQ.%26v%3D3%26pg%3DYLOREJTRCRGUNPQ4CWYGEGOH54
+.netflix.com	TRUE	/	FALSE	1810725110	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+13%3A11%3A50+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=79b1f810-8db4-4ecc-abab-839cf539f759&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1778880798872&geolocation=FR%3BIDF&AwaitingReconsent=false

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shared family
+– Email: borkirsh1962@gmail.com
+– Country: IL
+– Plan: Premium
+– Member Since: September 2021
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 8923
+– Phone: +972507498430
+– Quality: UHD
+– Streams: 4
+– Price: ₪69.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: borkirsh
+– User GUID: PJAVVVJRTFHDPDOJMXROVE5RYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795355741	NetflixId	ct%3DBgjHlOvcAxLuA2peP_Nju0Wieh2aNkkCdE21E8hafO-5qYb3ve2WWR9HiqJj3QjrSpLxx_bybG9SkwG6hsz6T7E4OnC5g7AP1IuqxPecB0leXudoOASlehWMoqDnsPjTttIc0fmtzilE4FsSdJJ7BHW_fBi3XxDtQ3TB8lfSOJS2QY0Xh0YdfQNoI3HPbJ-w0XM6Sl-C3XIh3qbwHOAShMEgnkadDMWX7FL9ShjbtpStdTCkb1StprkdV43ip7VgG1swLYITpnREIBaW05WH91KhFzFSODzLcZpzQJpw01ZyQHEbi7dSQxOKEkRVJ0O49LgQ2Y1ba7vo00W3dGl77b02bIf9mBkNVOQ_F41QzuZ3VcQYNqc6u2aie2gljY0uyBstqCX-aNuZXJyHP9slu-RPbHinflKDNVANDhulMKEh7WWu5ndEHKKu4M1sOaR0jz9dl46pik6M8ixHBV2_yLNbLCOuT_uhfin5xSG2R7ADDrp-_gFzEQcmgH9OWx0fDwmRNAvOj3aNpqNaG1SKZWkyfmN5d2BgW_ZWmbvF7uOg3kW8fQ8QDCPTQ26iazCgPFK9yQsu0N9vruNe8_fkouhzX-zJqCn5e7et1cXmSlfNYEep4gjC63DXj6jck4Mu4GuQbL6G2aNvGtmtRT8-OVI1gA7M99beGAYiDgoMm1S7b10lwhF7hOgp%26ch%3DAQEAEAABABSEkeA03Arwy52rxhdxOeR1Ro5z6BwjbFA.%26v%3D3%26pg%3DPJAVVVJRTFHDPDOJMXROVE5RYI
+.netflix.com	TRUE	/	TRUE	1795355741	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJx4nuqKHciYmp3c2JOCqKSZndW2hrpSM.%26dt%3D1763819741287

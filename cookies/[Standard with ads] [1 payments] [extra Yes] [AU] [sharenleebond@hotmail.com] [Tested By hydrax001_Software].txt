@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Utas
+– Email: sharenleebond@hotmail.com
+– Country: AU
+– Plan: Standard with ads
+– Member Since: June 2024
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 0571
+– Phone: +61474642223
+– Quality: HD
+– Streams: 2
+– Price: $9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sharen
+– User GUID: VW4WJWLWSVEC3EUICZFVO5K4YA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808103133	nfvdid	BQFmAAEBEAb0iX3FHzYYP_8pbni2Ma5gT4_vxOasMRvjQi0-SvGEXUzNlf9DWJiAYAFt1XEWtQMERuFMwNyen-_G1BvCW8DqHsIGHcckqHQ6zf16c-s9hoRK62XAeXi2OVgXO2opPEVLLFo1hy41GbBb4F77XD79
+.netflix.com	TRUE	/	FALSE	1809348608	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+22%3A50%3A08+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=567f311b-5e59-401f-a9f0-057edfaedba5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776567133041&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809521413	NetflixId	ct%3DBgjHlOvcAxKCBLL752UncHV7bTT91aF2fCfJopF7YB72YU9oGmaxYkvkRCWR7oxSjwtdx_ytmGXG39asDNdlVLo5BTmxkIcDq9dLtMpS6nFc_8YD5XeNoGJ2uxc09zEcQFXjdhff1KurlvRquEdnW92v_94SwkeIi4K4vAEyEROFHYjF_mcMmVF17IqjIY566sZsS6SXHXndkbl8VjUg4tpYtwJQrVGb6ND9s83e18kEvX33laWpiFq8RF0RcHm336zaoFr8v6iUaXUGOMVUcXveWZdIHRz_68g5DymAZe7qvZhLflJLB_vlO8MiM1skTm8t5a0iE5vES9IC3rxcODTNHE29rukrX9BEBlwIsF-htNWXdHQrUn9PdPJXwgEPJNwENPm65YUu0vXR1jpXxMukuiimSEhcB9ff6PpxaWeyyti2JPphCE-QbBPmi_9-Im0dn4AeexOi422eNoIwJhdh6xw6nJdHRlpiI74UOTEi8FgSg_Fse0wOWBywGsGXW2a86jA4pUrCp2Ace1AKqfmv3i6XZ-qspBLqWExw8owXMSFitcm8dEtnxI_ZsuiyyNZAQ8Sa4jV4zRE9eSH1KpDgdQGvRVFedaea-0woJk6fXnPHAFh6MV1aqXJnKhomCXttdkx2wZV0zQdnBRXYvxaXs2O1AVVZh344Z2rkboTxZJ-tMX1x2Nya1RUYBiIOCgxdTYKNIJKtXAH5hkU.%26ch%3DAQEAEAABABStbNWe8YkovpD-oxkUgqnH1AaFC-OGyMk.%26v%3D3%26pg%3DVW4WJWLWSVEC3EUICZFVO5K4YA
+.netflix.com	TRUE	/	TRUE	1809521413	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTnk0oVDcQyKp1ciGAlAGOUPee_QCh_Ve4.%26dt%3D1777985413761

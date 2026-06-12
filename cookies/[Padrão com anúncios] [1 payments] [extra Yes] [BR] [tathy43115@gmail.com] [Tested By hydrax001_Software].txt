@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mar
+– Email: tathy43115@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2022
+– Next Billing: N/A
+– Payment: NET_BILLED
+– Card: N/A
+– Phone: +5541985071653
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tati
+– User GUID: 52BYAIVYANFVPET4WRNT3COAQQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804642150	nfvdid	BQFmAAEBEGjy-oyCpX4Q4S2IDzvZA6VgWVNP2Bq1l3F54B0leFP9voJy8f0edcBcKoqlT_CQdh_TWx-QwQM0bxZdEXqTC97kRM6uh2339gCoT4vkkNQx8-gmcq2xz7qwlwR_SgIFA-fj4RQi0FR4rfJ13_KJxXmk
+.netflix.com	TRUE	/	TRUE	1809136261	NetflixId	ct%3DBgjHlOvcAxKvA_t_1e4Zr2jUj8qA7thcplZarhKBrlE8Ai4VvOKd73GrdCScXWdXvwKhwGSu8Jc2GXhWSjXlhefl4mD_7dBHfNSPQKCPzok4SqN9zO7Zo9bwyzkAZNO1pBmjNWEsn-X-dtT935bQkVgLDKRRtiNM_sBnYQAnhe7JfA47LqILr51AcdMTCIGQ7IZqakjPIv1sKtvJKvY7DXs6iZ0dBmPP98rreNbBYkyI7iv97d3lRjghvhUoJs2IbqMnHasDTmsLYMnlB6SAk6c5qP-ghgIdlDG7vhj4PYpt3aoWpOQKXsy3JHe6WfWmuYh15uyuccbiiPa8TwDyodWCNGQFeVx0uSyyHaP-ajF_ev3a_gmJq11m8NH7cq5WFiotwJUc5rpWN9OVGInTrf491AuWchP61TFYuXss1OMXycOp6tFtwwEUO4XFhYfX5ENUatYhUDJy4fXXG2MkrUVb1QWujjvg3QeKRFon6bnPWnM_LN-D5aH-EVscWC5BNgj1Kz_RYuwSTGt6ZvVBY2WHJeZslDR5fyJ1EFDRVcIolZvYw_nThHLdjmW8ydMWSdzntvT1ItA9GAYiDgoMEK2TeyLCaPCvrgyV%26ch%3DAQEAEAABABTMV5AAgH7d5w23AO4vyXeaWa4j_M9j24g.%26v%3D3%26pg%3D52BYAIVYANFVPET4WRNT3COAQQ
+.netflix.com	TRUE	/	FALSE	1809144460	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+01%3A07%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c797160e-544d-4c95-92ec-28c87e373184&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773106145232&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brijesh
+– Email: bjpatel1998@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: May 2019
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 2016
+– Phone: +19057825325
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Brijesh
+– User GUID: ZXN7A2DF7NFI5JNX637566WITQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804497670	nfvdid	BQFmAAEBEFXqENLe22cBVv5daAMN5ZRgWWFBpEhhRtukbiBw8VBZpe6BzihnwFLP2jx4W8uJsuqZ-SRtwdfAIUu-1TqevDG-Z5ZUoYuJJeAGUj7irpIGFnTzF8FYz_xL_a3M13qp3xz5cZMcyUKVoD8FCJJlwI-n
+.netflix.com	TRUE	/	TRUE	1808731838	NetflixId	ct%3DBgjHlOvcAxKFBExB6DmG9wOkDqf5-NdFNDiir4Sqwx74IH96M5lM6Bs9VcwLUPUpXHEtvHmqqSMWz4hJjTZ7NvvIx6sdOf1DYTv4xMnAm5939hK5sx6VWrmR_ELB-VrE-msfLZgBy6K35_n6mX-j0vLtRb9kxLxpwThpqrvws8c0XGRfEbp-jm-ouz06-EUl6zjCccDl_hloeajdlaiexemxro92z4dH9Rfs7M7ekpEJFFZXYZz8LqXMxbNxFEgONXsnNttROW__0UcCC2lLb4FyoM2LVgv7GWhiNq_MJr75f9iqFqLTErpeKGD0OJt3wKgCauTXl9Typ6tTsC12ghpdgpprbfmFRPtNmOBITBBEJXec9_M4aXQn56Nv9v7onpqAmzc7Vtm_snh79rwpPQS5LQ6EGwoHvVPLBPeC07MhOq7Xz-7TB9v3Rq4A7Q1SwjgiLfyC6xIi4MrjmDlXeCRm-6pkop2V6GTssURtHA4fe9luCoRc2zhxUhMvUUg5lvbktUrM8wBdwB9GqQwI84ZsvXNXEn9VpDsipm3GDI8f1vVOP3x65qOBEZB4RfKz1bbazjfSuv5sOsT7-5xzufFdkaDmxvZGtBW_xCuSe6-UI-M3B38-C_4tqyQyGAqilph46tZ9yhkAfGCU1ePzD3SfI8_YRc-GMG-1D6VEDHRVH1PmVDJAlZ-cD9dwx30YBiIOCgwjDboo52hkhupv97U.%26ch%3DAQEAEAABABRvdmK3GEnk_8VKqtb5AMqdptp7p-W4xZg.%26v%3D3%26pg%3DZXN7A2DF7NFI5JNX637566WITQ
+.netflix.com	TRUE	/	TRUE	1808731838	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjuvWx_0Evsp6_D6nj7QZGBW8l_xIR2To.%26dt%3D1777195839161
+.netflix.com	TRUE	/	FALSE	1808732412	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+15%3A10%3A12+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=563476cc-6c69-4f30-b201-0eb4bd99c340&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

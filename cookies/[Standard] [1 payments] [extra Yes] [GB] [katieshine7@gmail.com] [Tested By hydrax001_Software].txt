@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mia
+– Email: katieshine7@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: February 2018
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5021
+– Phone: +447809599331
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katie
+– User GUID: 4TRRQCDAJZA65HH2NZOSX3QFAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEJ9sCMM4wWDGFyZJKokGJv1g7Ma5kG-9HsDNiMV88e0_WQv8y0yvhPTuS7GDP6Q4KJYtdmpQo9EJ9_a2g0d4JJCJjiYCF52BTsJIgUf0waWnGen5Iz2kn22C04Iq8s3icUIDXxcxGnhi7Bhjxh_uIzZ-
+.netflix.com	TRUE	/	TRUE	1783792316	NetflixId	ct%3DBgjHlOvcAxLhAwjL-j12J7bKTno1TSOsGYIhYfDzPDg-F8-0NKDtejy5LST-NzKDmMiawl1HW_3F9X6ldevEKwsA866SGXXL_kEGN0FvgHZjN1aTEeA_Nme5BPmXfxJXgYXClWz-JfnNn96qmIhTnQ59kb8_nVhDkDmucXduczN0V6CCuJ0iz9LtjXcPxBFNc-0NzcZymYaTbzCjc-MYjqWPG1bWWvFP1mkCP9vSRU9G1AzuUYdwXIh4Q0rwqwQdP5PE2oB1DqABKVocVz9fbhuBpQDJNUTPiptUVTKiIA6Lggwx7CK_FBde1jUCt0s1Kf0NOP9QqfLk7bqTrTU8kC1NdsRiTlHmL4uaBgn3LZUv9dvVowMJRKUk0HLGw7zs1UtlmyEQ597U0rR7296iq_UeM9W4-4u6CaSlaxzTVePRpH8vFhxZMBWz_pz-5G6M-8iYzSJhYMutIEZK5Cbv7ALKkev30Hzi7Lv-KQ6sGEl2XOA9FPwk23AEsH6nyeKVFniv5Wv-MGzBXMwNO-Dj2ylvAwf0DkdstNkD_OY36hcVyKk_ulhTC414hiN0rdpT-QJX6eiW1_uE870ryH-2aHyy54kYawWPToYAXGFCIy9JxG4qF_mfqs04USkbCs-5i6DmPeNQrIN5oaUYBiIOCgyl4uVKUH9Xa_rNbAQ.%26ch%3DAQEAEAABABQziq1yRZvS00fzc0BYvNKmIMgvR2C6OUk.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783792316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTWL7s69uLv0kMFmA2awJA738vS1Ex6OvY.%26dt%3D1740434400473
+.netflix.com	TRUE	/	FALSE	1783792316	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+24+2025+22%3A04%3A30+GMT%2B0000+(Greenwich+Mean+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e09a2537-54c5-41c9-a3cd-5729d118d7fe&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false

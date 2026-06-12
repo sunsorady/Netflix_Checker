@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Edith
+– Email: netflix4amara@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: septiembre de 2021
+– Next Billing: N/A
+– Payment: MASMOVIL_BILLED
+– Card: N/A
+– Phone: +34692391240
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Erick
+– User GUID: ICB4YVEJMRDMLPJ2KQLQEREL3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEMIS7A-HWb0vZV8QNHC3wzVgcdBaIRVVpJ3CsiGiDICEulmHdFAiuSKJPNntIl4yEa6PhhRq3W0Yr2y4qIWriMLkPQ_aSmMw-fyy2sVX9a0fewwIKoEVlHIgvhQrVv_WNN0oXjapCS87NPS6OumTJAuX
+.netflix.com	TRUE	/	TRUE	1783792316	NetflixId	ct%3DBgjHlOvcAxLfA3fqbp8L56CuK-e5roQ_BMJZnwHspf-Hon3NHCdJzYzv7gt21KF9RZKKby2JbsIFJFOkeviMqJKy0TSm5jDtknhgwEfwHxIt1HP6psfD-J2NqvHw53koNYidi4WKRQEmzPLFCuBLrP_FEWJ0jTxbncxZdFkBqBA8XTVkp6saD5O8lqL5tr919ub3DqqzzjouFxmwziNbBTreLWskvGjfuusaGP-OddbBU_USY8_2Bn1_xmmjoE5Ceh8Wx8xr8SvHz2EIoNkLgYzlD0yrBVSvYePqcZAvGPoH_oJi4UYi-FN7bq-pzjsKjPXHFCVDVs9CVqOYiQd2NuKQB7Svt0VKPjXr4555EJdePl0VUVa1CF2haUvVEElCIlvTLun7tQpR62xsE8_i6r7XkfEp9F9X7lGBCJ2PM2CYJLi8SrW4yYFyAINt8UghlENKyYxdGhZykZU9JAjaymfWMOkOO3J6fklzpSLlZmnUgHbpn1hDEGv7tSW9BoNcIg0jsSabDWi1ou_DhSUyT3TIoXFOGoUOF7YfHVAMLRtm3gN9Gql7XwPcvRg0Cx9kUyAlf1-wwZICiTi9qit5JANAVtt2Q79YrAWUTOUdmACdiEXJ2gH7CuQne7NvS9RGIHGW4R5hKFY0GAYiDgoMAKlfIo-WG7dj114a%26ch%3DAQEAEAABABToAW0YGaVX8-u_sVprObhtWru2sk5ifVg.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783792316	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+03+2024+18%3A05%3A39+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9738dacb-b352-455e-a9e5-e7d9dbbaa2cd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BUT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783792316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQT0xWtF7gmNgaByNCLExgkcmJJye2ImxE.%26dt%3D1733479829782

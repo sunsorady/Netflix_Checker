@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Allan
+– Email: enirtak@duck.com
+– Country: GB
+– Plan: Standard
+– Member Since: March 2023
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 5109
+– Phone: +447506292414
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katrine
+– User GUID: PGZ7LCSU3VHJHC5JX6WLHKQDHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804797798	nfvdid	BQFmAAEBEH1qhVhng0xAX7PW2MpUl9hg0xoRp2_h5LOsmrYf6u5fNIVHXUuxQJ4sM8_IXIjE8KwCtC6_nuqgR-oTQyK0OS7QCzxqmDrqpw2pdXT4BoRWUnlvrM7RI0uVkZKARMLxARu_JLNXWFPlT5ptN6Yb-SSO
+.netflix.com	TRUE	/	TRUE	1810152511	NetflixId	ct%3DBgjHlOvcAxLjA_DSEgeYq9duw3RFHAjrZ23OrJRj9_nkSkCjeE0wRzSvbW9XcFE67w-MOOgwO-l0dHsuRCrgNjITtGdc0B2qE-KSnNWjEuvXUlsqRPek4aOzmC1zYobmSYerGm7fKntrGAPg8ixs1H5INsU6BnVIY6xX6HOuWsva7jZv9eUQZBALrXwe9p0jlbe6wL7bJdd5gO5wnPNRrazh3QN-nUTXuXuqgEvcODihnnSfoWPDUp8ajvvT2U8d2xpQV-Wx1-D3QcxAodJyocpO_PkdV93YynlBQ9p42Mq1R4bz0F5n5IAO6EiWq8bR3tPt9IyuqNN4EUl7EFtIhRR5Hkvj1SqV1-SrjNFnKjZW-x7ejoyH2OtY9kYMkZ7WHWa4EZZ8E9OK4avo_TjQ1b_iIa2cJvtSRvTYvO_mKdyceO1HP8Fuv16rgejmLDXf3Ux_wW6GhciBi_k4RocsSbdTbAKtDp6Q-0dTzlzWO-SrZ2ob16TxW7ycLQN0vN1BFCd7c7OKDVVc5sZIp4l_VZXK1CE43D6WllPg4Ls2ryKznIXWlbr5eFno5d9cVAILJLQ9z225vlkI6d8ezx2QJIQBpxej6dpzO5znuLiRS2Qay3FUreaw5cLLJ7aCs-hD1l_VKQlqXSiyqMOqCxgGIg4KDOEiq1QAsmMnR-rLkw..%26ch%3DAQEAEAABABS3GG1ecGwlo7mAG-360WSvXqefVxaWHqI.%26v%3D3%26pg%3DPGZ7LCSU3VHJHC5JX6WLHKQDHY
+.netflix.com	TRUE	/	TRUE	1810152511	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxUrypnwdjbxHP_y54KpOh4dHmfHeXVlo.%26dt%3D1778616512087
+.netflix.com	TRUE	/	FALSE	1810152572	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+21%3A09%3A32+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=c21ab2b5-76c8-4d74-856e-ee5a7f3c5cb8&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=GB%3BSCT&isAnonUser=1&intType=1&prevHadToken=0&isDntEnabled=0

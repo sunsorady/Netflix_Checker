@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Terka
+– Email: dubinek.piskomil@seznam.cz
+– Country: CZ
+– Plan: Standard
+– Member Since: October 2020
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 9675
+– Phone: +420776219675
+– Quality: HD
+– Streams: 2
+– Price: 339 Kč
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Petra
+– User GUID: SXABYENAABBMDNRTDHXGSC3H5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809177752	NetflixId	v%3D2%26ct%3DBQAOAAEBEMUuJ09bVgqdKyidJxswppeB0HaoxBbK66KoetgPP29N469I44k-Ov2a3j276IgAkJBKnTuNkGdlLJAWBUzGJlvVj_K3siCJhiraY7cwhGsys9FZuI6sHif1xJHfLVN6-WRu0B9COkuHkxFAgg0Nig7awQFfrR_TJBosBC334CEVkAJ-Fvx4jU4GXCaQY7ef6G5ZFGPvXcY3NWahIeF2PsCYSkY5L7x1sR5yXQ3e0nQXL5M3n3ySyDeYPjN378czIuRcGunDS610cvHIdW86SezCIG0PQ7XPrSn-SFlo5C8cyfqTjfcIm65yJ4uZ4IEppDhpUUKBtyaHWKlCc0Nx68qPR5LIxrvAuTnobJZtKQWO8EH2YWLqLkr8eoPcf7-67l-YgIJpKuFv-Y8rWSg8ndFiDK3vFJzkqGpx4M51deJLXAk0-EWjzJiYZEeR5EAfo7XKZrxfjIfTQvvx50xDKS2vUh1iXQBdyYeC1JilPBQd_BxMskbPMLAym69OZU4OP2mxF3T6RB6OHH9LvoF0ClqIpWOk2x1ZnGfYDc42R6D8HMfjrU-gTXNIUI9fjwTvmVkWfSFK6_SI10589_qYCoI-TVYJ0GmxOh-yWZMdSqJK71ltrJwjqm4WrXp4pzoN6zLJ%26bt%3Ddbl%26ch%3DAQEAEAABABSMlRnUkvTHdqMZn-_OsVXp7qtviquEWQw.%26mac%3DAQEAEAABABRT4TToaEZMC0WzaX6cQ5dZFcWjmiN9zwk.
+.netflix.com	TRUE	/	FALSE	1809177752	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+11+2024+18%3A50%3A22+GMT%2B0200+(st%C5%99edoevropsk%C3%BD+letn%C3%AD+%C4%8Das)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9dd3e3d-0104-4eae-b8c9-70fc86c8e9dc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=CZ%3B10&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809177752	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQmq28rZBQTagyyNY7lqQMPa8oCks3p-Sk.%26dt%3D1718118941212
+.netflix.com	TRUE	/	FALSE	1809177752	nfvdid	BQFmAAEBEOgDg9Rkj6X3YdDrm7UKO-1gIC7iLc7_MNrCDv-EaekCQj6AVs1H9IB4Q0I0HQc30-vE6aRENPLfS86A2RooM3ZAOm0rX98mFb90w15LvHLP6PhfIL85hML0LV3z2n8c_i8QyEF8Glh-YAp6KTP0s6l6

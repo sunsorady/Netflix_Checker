@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucia
+– Email: paulasmz29@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: junio de 2022
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 4942
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luis
+– User GUID: DWEHWIZL4RG4TA3P4ZVXKJZUSI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784486703	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+19+2025+20%3A45%3A03+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a732184-a3c1-4dcb-94b5-952c14af7b0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BPV&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784486721	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLzAsIx6piUkL2NqEC_vASxs2hWxuGq7W-BCtV59meLgvI2KVZ-IHQe8LVnBa4unWOJ7r0sAV2IkOrOsL3aQ8XYhoD-RvTy1Ght7EqDzV9qtY6Ykf_nTzIxEVVAc5HZa_pRCxg34C8QEmzVYLAUmPncJr599hVv7X1os1xRemkGdCVYXhV6mSW7l_93lzz4Hj3NS2_9JSaFTpPJ36AW09Ud25AYLp50xJZadTgficG7ruOhNCMBWZCWq80_4wqS0-Yy6-WovDqbX1-J9cXiwPD2Fv65EZtYeuyAX_eTq05P8LHYSW2pifcZYb_qKrViYLQVQFZWcMqXPWGGvJIbRUe0TWRICVmNz_Z3YNrDpHmJJcCeoEajAHYk3WnRv_kxGJ9AdRiBp0fcENlh_ZaBHknrYJbppBSkSwYFrimM6crE3iCm6H_vaR9xM4hIAJvqC1bfpN0u2QmDV5eEGv8PEH3Z-_rdcacWQx57BxKghMjesT9faDYHGAYiDgoMB3bNcmTORobiYAx4%26pg%3DDWEHWIZL4RG4TA3P4ZVXKJZUSI%26ch%3DAQEAEAABABTuxoDFnSnz_Uwr3sNUkzsGTa_cfhAANnQ.
+.netflix.com	TRUE	/	TRUE	1784486721	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEF14sDo8mNU_OSQlgMCjnk7U0wh9NH7k.%26dt%3D1752950721633

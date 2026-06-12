@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: squid game
+– Email: elvinaas178@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Nisan 2025
+– Next Billing: N/A
+– Payment: TURKCELL_BILLED
+– Card: 0095
+– Phone: +905510702517
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: squid game
+– User GUID: UW35Y6UENNCVTJAPRP2LIAZUE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811265017	nfvdid	BQFmAAEBEHArLbp8eUcIxIPISGZwnGZgtVhzrJ2V4ECsYrXBsCx0jvUJ2FGcI-4heOBuHhjzpHe4AO7Bv7ZbDvBIMk8fb24cgVeGX75d-VJpTx8B_L7DTzcayz67lr107nV3h1lFgFtINlOeQEqsiCmHCGoBu_sk
+.netflix.com	TRUE	/	TRUE	1811325467	NetflixId	ct%3DBgjHlOvcAxLBA1aKk_t6bXW0YySjNuE2_7Bn4m4o8VJIf5Qrsu9yxu8AZXjBAPQDxOQY1Zn17vcq4S_6pd6E1VZ6bLw9wRffeu-uVc1xhw1sV3e-eWyMC_g6G0lS8j20CAkW1Aln3OywGfz894zoDWfCw2_mc-nZl24OhdDp4_HYtGq6mgwqcN2TBdgYN_nFnoy0AOpltGrySPhIywfg2oXFflg3PMhYpXR-hjZSdaaoTLF7j2bfoYDyqB_FLrZGi-bcwXav-k3B0ACMrIjRj4R4Coqn3UJFeNpQOFVh0qvSdmvE2hXGyW5YkFwgQ6A4-qPI-alqKGn-z5NGbzu9BiGDGxB6oy1laExYKp3TEfNGEPvxU5CJZLEVQ3zhPKChIHI2l4Iw1G-svUKouRh4MWJgM3Fa9_O8WPyK8KBkbFyglMAqJGHRwnufN2VtFTtB4bJSisGXtF537SPC1_fxPHVxIyg6W6YbnDnEsoSRW85yCcKHye8GHDOaPZJ4f9VhXBO6wKBLoXZp8zDBGkDL3P49j9aMn6uXboOy3pI3jljlM4pdXyR0frTgUG71JnD0QOX0L6kKawIXD6GTOgMytwuxUulxnxV9Ai9bGAYiDgoMfecVJeCDcdjH6IWi%26ch%3DAQEAEAABABR0IUdqEwPWm4sUAXKHpqdOKpxdsRNa-3o.%26v%3D3%26pg%3DUW35Y6UENNCVTJAPRP2LIAZUE4
+.netflix.com	TRUE	/	TRUE	1811325467	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYp6n_MLRy7oitA1MQKmbPQyqhHam6gs8.%26dt%3D1779789467559
+.netflix.com	TRUE	/	FALSE	1811361110	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+22%3A51%3A50+GMT%2B0300+(GMT%2B03%3A00)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b7188f4d-de99-431b-adcc-566c63b891e8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1779728964051&geolocation=TR%3B06

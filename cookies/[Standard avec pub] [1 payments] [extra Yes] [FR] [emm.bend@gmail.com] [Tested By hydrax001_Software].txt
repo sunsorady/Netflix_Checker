@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paqueta
+– Email: emm.bend@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: janvier 2019
+– Next Billing: 2026-06-13
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33676519112
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: emm.bend
+– User GUID: FVTGFEP6UZH25FKY2Z4W6467O4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791657458	nfvdid	BQFmAAEBEK5d_ShvLAd_QzOV-Fu_0rBAtK9H3LPmq84qeiZDlIIaHd2h1TUab85MlbYe5VVdYYngRHdNVPuCxOC8GyPGAJ0bK_ZIfUzRh-TUM2vStDIVrA%3D%3D
+.netflix.com	TRUE	/	FALSE	1806172321	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+19%3A32%3A01+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d2b1927-6588-41ea-8ff8-74bddc776334&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BOCC&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806343657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9x0thJLeE_2o5bEzwLrZKA8ErxX18pYA.%26dt%3D1774807656065
+.netflix.com	TRUE	/	TRUE	1806343657	NetflixId	ct%3DBgjHlOvcAxLRAzXJiB1uDL2ikCibviolK9xtkQ2zsaFxqguSUPVsh4-kuDWOC4xxuT--Fq6ygCcJ6tjanT8E6iSg5qDKsxGxsUsO95ME_HLyPc6h-Gds88dzCd2OM4uEXaCjrkhAbhjFtUJ6NuwPl_ab5kLvAjEYh-m_WWY_KDi755J5XN0tGWyNp93FvG4yGql_bnF4v69ELN4lcde9SlaEf2VcPO3HypiPJ2v6xdebCyYGM2IEv40zQaKLmHQOW1KwKfH9Kr92tQ3eT5v9Gy4SkD7gpctyeYwC-ood3vnb4ICttsOuO-0F-IpwYRuuLvo7MvTiBKTUpPALdzQ-X8-c9R9j3nngSpZKo8U0275fov9jnCvxObeBPNPcmUSCizIfJrqar2eG85AS5r9V8H1D4z9jM7Lr8f9xIUhhhIPhW-IBCVCeKWRIdsuhGVG0sF1XFhvglnx7SrfV_bNJbfbReE-QpEYNwZLN4CxpKgZgkhHUSx0Y_MOTlBpJSn6DzN9PpF3GaIhG2YxUQPeph-k_aofjBNxVDwR9jSxfqu7E1fAxLAtR8DpzFbdeR6eV_IpaSjVHDy4yZkEnlFudxEoIK8icYW8NpRxazwck_Ll7sYKNwwj_l_yhBhgGIg4KDDNRHnKtQFeFoEweEw..%26ch%3DAQEAEAABABRSGiY5U9yNyxxGD1UnnQSg3_GL05UR37s.%26v%3D3%26pg%3DFVTGFEP6UZH25FKY2Z4W6467O4

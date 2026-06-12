@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ratheesh
+– Email: vipinsiva9@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-27
+– Payment: UPI
+– Card: N/A
+– Phone: +919567253939
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vipinsiva9
+– User GUID: XI6AQTPU4RDVDJPZ4YPIIPF5ZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796531774	nfvdid	BQFmAAEBEPz5ltUrQzjddZZMo0qMAXZgvcOCjwNz7YukJH1gVfk_jz875Bu_ruEcHZSAgO4kEKPB2AEYGnWnYwiCWhcgtieDaJeAqK87z7ybd_tyk9r0SVGi9aDVYDB_2CipaYxwT0ovzHGJawZs6Kfk5CKy14Gp
+.netflix.com	TRUE	/	TRUE	1804504266	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIgclHP0P--h2HcEZZo36jK5_IC0vgEuE.%26dt%3D1772968327859
+.netflix.com	TRUE	/	TRUE	1804504266	NetflixId	ct%3DBgjHlOvcAxLqAzGs86OmHI_IB6yRznyhBFMXoZsVQ6RT3CXi2NHBY623IJU5zeF3TElJB53tb4aaoBgb4kB3VGu0EBuQMlffefhivcmFXtphFxcxnTDuR1l9OBlikqy6yNNsShIbYTKYEewe8AqxWEsSTZPccorXHMNnMJiPZTRE1IlcoJSjWlI7y26t519f5cyfYpJOHyyTl9CoX7LpdAMPlt3iiS5OC52iZV2CMz4bfQkKSPzTbsDFgypLEHuZzwXP3KSaC3BMXF61Heo9PzK_63JPmkWhq0HevOORF3A1iLn-HLhU5symf8WvXsM7Od1me_zxdN8EnF5TnLIbL6OhKOEojzpeI--45n-O2659DOGH6Rw5H4Z4UyJ5AALA51n8t0ZbjviXxZ8JDHGg60PaAEe0ivyCcUNF2Q1580Q4PXFPhFkuvvMRR60aOqysL0xwO5xeI6agFoBEtRiEIVKLRP5phc7eqBuEK4xbPxuc33dPTWesY8hhO67AijzmoXJbajbvMHGXLaUAP1U7F0aBY1KBrtKIf7vkkJA1Y44mYANEsnRltQz5lOk1ZJbT1KnsKwMYQ6EfVV5tQvF4CQsIsV38bjftLZRJ-yhYAT84wzq484xIwoDAxIa_THCwJbCWj4eSUXR8crYOFrNAtrCjLJIYBiIOCgym7ls3piBht4wh_jc.%26ch%3DAQEAEAABABSXKZXbp3dNiQawQ8TrBYDu_rUM5gzJVU0.%26v%3D3%26pg%3DXI6AQTPU4RDVDJPZ4YPIIPF5ZA
+.netflix.com	TRUE	/	FALSE	1804513888	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+19%3A21%3A28+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a5df464-0eb9-43b8-b055-ca6cd7a43155&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

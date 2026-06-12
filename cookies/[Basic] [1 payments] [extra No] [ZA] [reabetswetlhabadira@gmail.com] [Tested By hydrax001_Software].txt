@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rea
+– Email: reabetswetlhabadira@gmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: April 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 3257
+– Phone: +27697837046
+– Quality: HD720p
+– Streams: 1
+– Price: ZAR 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rea
+– User GUID: OIMXLH4TFRESNLA56TYUI7CGBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794561923	NetflixId	ct%3DBgjHlOvcAxLfAxZtUgdEaax5IY-NDW0MEkbHV9pMPLdGL_WDfsiySP6nrPNSOXJ-SzzimuXzp9OTXkb44nqLjalyh24lzDeHOjhDLrbBr6-v3nnKIWRP7pKszTLXdJObH5CPFcwxIvidO9YmLDfrcoQoRaZnUrfBA4WqppHxZSTr2tRkuRKXntcUZCwIuagTsJBjLbCSKi9RM-YyLb3fLuzGrG-PRTAUpaxt4O46SUY5FyrtImHXjAJlDMt6P6rx_S92fpMoCyKC6nCeVJfsoE1F94hh3vLLp4XMtjUX6ReCosVGNsgVg4GOAIv-ZCLQuHpN8J-xfCy7LdHh2kWS6GlfombkljI3XNi6k8iz8CdfEOOZNAB3KyjBBUua2jW5A444irTHUNHkvpsB-iF6ee5qZMEEGRQGfdPpGdX59xKs75tH9AFSGe2bS0PZnRwvsgcjqK4PYQ5DbRR9QI8Q9O83jIb1dBXs8Lh11Jhz-muDpk5JCJIskPFsKkKoBXmwZxNG_-o1haTwtiOCk28sz4Rfezj9G69QoEEfV3nBSqi3qfjly0pIwsi5Kghd0vdqvvHgX868dtIMNHwNt3EG0oEF7qjTP7ZsEcBi1yASQcJ9BskG25p5J6eLUzRjhuJJkMZHFGaX9Y4JGAYiDgoMzUnPCYhABZKcvfcP%26ch%3DAQEAEAABABQTnBhyfkF8TH45SLMTLp6cCzspUuacIiI.%26v%3D3%26pg%3DOIMXLH4TFRESNLA56TYUI7CGBA
+.netflix.com	TRUE	/	TRUE	1794561923	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfuDuiLTwv7hpeVVKjgXQjyqA_dTgOFTs.%26dt%3D1763025923200
+.netflix.com	TRUE	/	FALSE	1794561936	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+13+2025+11%3A25%3A36+GMT%2B0200+(South+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0e990c3-cc52-43bf-8798-a51bee3a5ec6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

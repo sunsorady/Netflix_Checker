@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: quim
+– Email: onaprat11@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: March 2020
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 7760
+– Phone: +34658892233
+– Quality: HD
+– Streams: 2
+– Price: EUR 6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ona
+– User GUID: 5NC72RVCOFC7XL5YALRY4HXKNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808848129	nfvdid	BQFmAAEBEPOxuRQgBSvtea98WMMfruFg2t28BDykBRVYvVe-KHbuKrVcYm-PdscYBUti-m8yPlptu2dNMj32mFlP6D-x0YCfukToIvgqqEJeGDwKlPAG_viY3OqepGpUP3MBworFskgEaT0zToGzZBZCKyN4r9qi
+.netflix.com	TRUE	/	TRUE	1811514627	NetflixId	ct%3DBgjHlOvcAxL-A8fyCWYWKJ6YsmiKMJOy0IZvD19HwPafgS8puU7h3lQEw2vQA8GHIvq7dTTM00FSCSge4N02R8LS0Wf9V0K6NoyEJrepUrSMD9S5FbWFW3OYVIn3d-ikqrpWtOHj2FrjOSK_1bVvDkqF0C1f9JVzPWryBHLuFib4fhDS7XAiyZEYoEVa5smP3DrznKArR8zxobyBFO0rWdmF-k-5_D7cHS31xyyUKZEw_p-9XiY-VbszEh8RyrGOai46F-hI5FePUcUvPviguYiLrwh0dz-mxTiVKXklVGLePS-qkSqE-7WcVH_3yMVMjlu17uzpK6tsFMfjv-SFMTnw3rQWNQfdFag_FRUmZ0lmCgGSkNRzAbQCmG35w3COfUesbffcvPFUBtqSyhMnBSdBxs_DW7ksTG3XC5rwbl-012DG3dqWA-AIwz7QFuZqm_xAE84rYNv-frNRaszv1tE2Q9uC49t3bcN6VCK5_uKEyhbOnte-DmXE7pAXyGI_k4YeUoVzHxgNrF4vHAF_fs7TYY-gtshFht_oJN6APFiNmULzGg58g2J7xWe3PkZYBhQefCX9S3M4d2MUm8aRwI3PeMJ44ec5lI-NrjaMkmlWKkTjBCNdLxMiNB0K36ZyYUtf8qCxQhR6j-5y5jJWZjCT721mSsa2hq6mU2RZkwnn2UsyjKmM1hgGIg4KDGMFEmLv9LOemnHO7Q..%26ch%3DAQEAEAABABTal5FE0SYQP3HylDBPYPiWOncgj--PZiQ.%26v%3D3%26pg%3D5NC72RVCOFC7XL5YALRY4HXKNI
+.netflix.com	TRUE	/	TRUE	1811514627	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHvScX_dO94KK7iLJlNAqVx-0EcCu1Y5E.%26dt%3D1779978626895
+.netflix.com	TRUE	/	FALSE	1811539375	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+23%3A22%3A55+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86d6eca8-7856-42fe-a785-e2f9281a5595&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=ES%3BCT&prevHadToken=0&isDntEnabled=0&crTime=1777312167436

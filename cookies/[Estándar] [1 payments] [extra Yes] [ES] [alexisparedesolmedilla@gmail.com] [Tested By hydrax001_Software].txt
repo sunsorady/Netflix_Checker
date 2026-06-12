@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alexis
+– Email: alexisparedesolmedilla@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: octubre de 2023
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0767
+– Phone: +34722479773
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alexis
+– User GUID: INRFASYX35BN7EBJM5O5E55USE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811858738	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+16%3A05%3A38+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6994e74b-eaf9-4250-82f9-f0bf8db60719&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1779622392966&geolocation=ES%3BMD&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786172527	nfvdid	BQFmAAEBEHTr2L1YxoKnzHonLDYL-mFg-h3DC6HPTey71Vj3SaEVgEWPF1zk3cuH6LeW_2dnw4IMFUzEWSdb4aMOzofA54hEPw8bUFzujmmkv4XOKZF9wHN2q-3RTEnLsqUvhSjKdpWNDpBW8zpfxIj9tghjratf
+.netflix.com	TRUE	/	TRUE	1811850301	NetflixId	ct%3DBgjHlOvcAxKPBCvggpCy8xRqywUcAM7eIgjTQeP-AKB_bem7IOzy-l7vwuYArqzEPIus1rsyGhGb2XuCP5XRE9Y-fIVKCPpqMxlnBhMT64JY7vxXQ4XCrGEf10_Bj9hu4bogXMrBGOrz6-oyeSkqR2NKZsXHY_bMfoltTbpeeAbZw8L9m7OwgfZK0IzHlu6OhcwKRZ08TWqw4OVHIqdrdVyRFZhw0pkfnStS-RyeJdyquST2xeErcV7mPjDzraK8-MRPX80eiTEWZAQobz2_Cq30kh1XZm37oyIWBSiLzWlKyBQKsF7LzoJ3BwGjPTSelemRj7AC_ikO7f3JH2UOIoSodxB6cE54_cxKcKCFiwnO8vhfZ4rfps2b2tUIWPkto2vkhX3xBiNJCMCMkg1WDwowlVLyrH9evtEPmCvrwaRE08sR7bzrxKuapNUmiyPiJU1EBRk1Rs4uR2ai29SPGH3Ak-_rlnd9VV7Pv7RFWuAcuGtLcc3sEWzDgEGjBmTIb5ZMjGtsJagpm43izMdDaZGC8wyNSoFRhxO8woOslp3HvHPnDkcPLX8am83FnSYT1wtb7yQOj6eOXYYWMon41R8EDOhBK2w84_XUcBgcMTXhs9Mf5kSchDfwDgDA6oIYcx4oxYzDznYLAkC2RK_PFVXczbbmLynAxr1y4hemgsLP9w_FAr4fhMufA11p-1SvmG_xaxNXmKe4GAYiDgoMNFyzKpKyvlyuV809%26ch%3DAQEAEAABABTWMZMagDjegyvoxiY8sBva6rL4UpSddSk.%26v%3D3%26pg%3DINRFASYX35BN7EBJM5O5E55USE
+.netflix.com	TRUE	/	TRUE	1811850301	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIRMgN31hiPDENzkiGJACjNqsuZlO1u_8.%26dt%3D1780314300665

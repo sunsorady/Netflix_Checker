@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Terrific first
+– Email: doloresholt1984@icloud.com
+– Country: ZA
+– Plan: Premium
+– Member Since: August 2023
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 8469
+– Phone: +27744775248
+– Quality: UHD
+– Streams: 4
+– Price: ZAR 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Delightful dolores
+– User GUID: PVPMR52PGJCHNNAVLAQLDF6L4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783693299	nfvdid	BQFmAAEBEI0Phl6Yoo7vJ2ArSrtxyDBgmpxIOiB87tbdHYUaY5X584CUugRYJe4dBGYnxsQlvpC6W73wjJBPE7lXqyLRcdrvNZn6wwvViKtm0JsPchYViqzSQlsnJPGF70BL1Ki-W5ChgubLYdchYNnZ94HZyPpR
+.netflix.com	TRUE	/	TRUE	1803665066	NetflixId	ct%3DBgjHlOvcAxLrA6ixtWYJ1-On07YjrHx9ncs-MpWHZr5eEz10o7fY5sXjVcAth4-yhNDenkqVbIUCTmXeJ7epc7eL1KUGe3G10WvgTPcwQ7toCE2XHTCSqG_9cdsUSOkcm3znkEtXZTqjIJN8Gcx-KUuL8PKkUPNklcIEmRNAe0TLsHvOuMDSEg3NaBT2DhBsPTfRINWcT_ZEmYg-E16-t2ven-RAqnkFmxVUN-c5NojpG8Ghi-OyB-M93OPKFgvW0TU0bmAn3TTxpfPLvmq0FgVYSH3zOn0QLb2XX5G3kA-Pcos8v6vM2GiU84ZX30lWxQ6WxcSfiqKOM_JXT3resGKMJP2uvoImbq-wzZsSzInZyjIUCVTywDuHpWsOeodJItDwTq00-tEnY7z9p1Bx0Jtikaz44E4KO_Yif1GuPzRQf5GjfBSN3LbSI-nEj0PCnJQ_-kmd-iUSTrGsuXLv-6AQFW69hvkTHVvw6aGLoWf7pq4ggqTSWQ41g6FkkpIcCdvsN8ee2j7ieo-n3zxGkX_-cjquZuYQBvffB4DfiUA_keU3Vohk_e39hQ6dmyZ5BROQeMipVDDip7fzIzIz48sHWvd-Haxf8TH8f80Id2LZJ1jhY7mqN3YbGmwaZzM9b1yQLEMWWoxYXPtZ-jlTNOXXO4e-GAYiDgoMY4fa7qKF0lEuUTAv%26ch%3DAQEAEAABABR57sw0eV-0NE6u19d2PTN-tbdSehyZcNA.%26v%3D3%26pg%3DPVPMR52PGJCHNNAVLAQLDF6L4A
+.netflix.com	TRUE	/	TRUE	1803665066	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQn8fTSIVOuK8URTjIb4vYqPfD2w_0Hg8g.%26dt%3D1772129066186
+.netflix.com	TRUE	/	FALSE	1803665081	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+20%3A04%3A41+GMT%2B0200+(South+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72b697ae-e47e-489a-8254-63f66b488b97&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

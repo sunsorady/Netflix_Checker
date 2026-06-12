@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucas
+– Email: jeromebaverel05@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: février 2023
+– Next Billing: 2026-06-28
+– Payment: DCB
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jeromebaverel05
+– User GUID: LWECVBHQGVGILJOMLTUA3JJPZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEM7SWDW0MtVsrU9uSzba8lRg3Jp7rR1jECaCXkdxAM15t2-fzr44gGCceWOXu_apoFbcFy8tluD5venVnKGngGzlt5hw1BU2ANWtDLy070tpjJysH9AtOPy4oGBfgG7NQ3C_-bGh-FH5LStC6UEu-i-s
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+27+2025+21%3A09%3A55+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a94a3cc9-612c-4b1a-831c-baa9bd1e958c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BBFC
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxKnA1GObJ_nx1_frq6XVgwX3ODPJttELBEisIJduHvYGaNY09g-1r2PoCh59lV8tqQgDFIjf-L9us5vHN-r4AzHXiz8DuTBOGwblByKQqoKivWFrHOcTWshuSrHWwjssT5ZXcxpeSofJHRwDgk78eu_iAaF3LO39brJMTP1AFmBC0gBoAbkfo2fZtcGIQhCfUL_B1TVRBjZRNS--Dce1bJJzE6_RzY1P4yKEVa86rkTlkcvxzNvKhxCUfKCSn9ZR7CeG8oxJK4VbEbFTOw2vP0x9HCDeajSxv4yHeD1LgYRUf-I7VYvEERCYoBFpUbcJ0I6vWfALZzuea6ORAjWg3IzVMgtb7KbL-M9snHmp15R_Cju9lsBDFveIkmGHdzZwC6LZynvZ2hzWUs8cUTS-6lY5s41be1g2roUivaH9SsgbTWhsJjvYZ8sx9x_Awo1VmZaFgh6Nqmiece7khNEV-IEbV_I4odW8KJMWm9WgU5SxNfeVtOlTCOGHNiUguAbZBnksVvp9P8hH0aWOAHNDT46BqAr5qvgDY2H8Ol9Jf0oBFSh10HUdUfUUxgGIg4KDI4qSyIrXHHT6r13bw..%26ch%3DAQEAEAABABT_CN2UeNK20Azf2Yyi-ouUxAMQXT3AYPE.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDtsWQaraNvMhOelvUHr9wEn7o0xL1BCs.%26dt%3D1748459737536

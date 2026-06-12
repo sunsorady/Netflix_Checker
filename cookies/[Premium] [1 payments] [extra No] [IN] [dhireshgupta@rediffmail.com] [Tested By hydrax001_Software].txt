@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kritika
+– Email: dhireshgupta@rediffmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: October 2019
+– Next Billing: 2026-07-11
+– Payment: UPI
+– Card: N/A
+– Phone: +919312430490
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DHIRESH
+– User GUID: EE6R3QC66BF4BK6RTPIEAXCVMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807632390	nfvdid	BQFmAAEBEOCBNnfGArEsAqdZkZ0cpvZg9DSPzarNWuDFqfy9x_OzPmIo7OL1stJnQXf_s3iVkDh4Kb4fyIo91lDUpZEgpskPLGAapClvtzW2lkfY24ulHW25Tjz76Xkh_iLKctbAZzTKXrBuoqaz7upsTBmqn3a8
+.netflix.com	TRUE	/	TRUE	1811303558	NetflixId	ct%3DBgjHlOvcAxKFBCJIRxVeycHhDLt3XR7m_Abiaj4IlETljqCKcNwAT-yx8ApkOmX4sK6gmksKQtUx-waondhfoRQQBL9KbzcqIrPZZ_ArdU3xD8AlASJlsmF5JQB6GFJO51k1un8KiTn0RAyMNwEAAdDjXiR46EAZjCS_onNk-aR1Ocbi4066NFENVDi0YPH-3uZV13X8jBYMUm_Cp3X-S4clCPts7nbxbMcjBI_g7hbmqX572TmB0-wvtzJBJiMmnGUgj7_0sDBhoL-ME9-MfVw3PizN_Fs9hxzwVslaVTAvy5b8k68lYeqkzswLtOsp2PT_0_SQ_XRIfP34mI5K5HzFpoN1To0CHVgS7v2GcfudJBje6MPdxJVcOGbXm2K8SqcztnxCfGv49zabmLDA-A2rOU4PedZeCT0F7ERx-m0AljYsYVNgXeDHp6buetA9S2k3VAqKLm2T2T1MpEQIm9tMsBABGFt6iafeRZDSXheRKtahxdpoNOKo3hUCtjvprl51JgY8oZqPl3ZBlVn3zFxz_KUF_zSRLh_5BIltE5wJPCT_O3GjQPDrZ-JZvje45ZcQFXrRHEMPloPzN097UnSPQjAEemwZmPx3c-vQ3xQMckLB5Yrxzueh61p5InAKDR6_p-mTD1Ao2waNPPwP83oWEXWMWEZLPL9A4-IxrLiZ0Ubxi5-yZA3-mCarRyoYBiIOCgzbF7xqnqKIaDy8RjE.%26ch%3DAQEAEAABABRxiNUhar-cmCf-Dt9DrcUQ-kBZjVfsjus.%26v%3D3%26pg%3DEE6R3QC66BF4BK6RTPIEAXCVMQ
+.netflix.com	TRUE	/	FALSE	1811303557	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+09%3A22%3A37+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=902f93fd-7aa9-4a81-bba4-075ca38512a6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776094127711&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811303558	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOeirAQeY5HxbRLyOK5uFCpaPh9XNYFH4.%26dt%3D1779767558921

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Govind
+– Email: govindagurdhami83@gmail.com
+– Country: JP
+– Plan: Standard with adverts
+– Member Since: April 2026
+– Next Billing: 2026-06-27
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +819019272552
+– Quality: HD
+– Streams: 2
+– Price: JP¥890
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Govind
+– User GUID: X7T6HSNSV5GIXIVRBH6OUZ7TCM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808313218	nfvdid	BQFmAAEBEP_sqmN1lBb8K6bNB1xOQZRgJEEjJJnMkPpOFhoJPKi-pUHUAGR_i00ulea6B4pWCpqre3dqbfen5vGv3Rhv5EqnJGWypBt8zSSrGSAA-OPgFou1GCBikzuZg8NVmErMyYzCPBDC0pu5EoPdlTwSMUjB
+.netflix.com	TRUE	/	TRUE	1811595848	NetflixId	ct%3DBgjHlOvcAxK3A2B8sp1A8EKl5MeRgtvAS-zMgwwNMtKUFaV8OFVXDjdzqJ8y7bfwFYYsG_kpvjzfepiF-pdhYG4K0LQdJHpiKz36RoNymkavotDmwsUm4i8tmrCS_9UQ7psw0pCFfiMVIbb_ckS3hpSRetKlE3nTTg_bOi-a_poDgSEsDSpNCr-ZNqK02fYCwP0HvN1F28XVZ4170tF-mQjpR3PFe9hUp198doK1bknftGQqwpzWTqJQudq3sE02eg3HNwOTf8LI3n0fbcdwflXb_eZmvyIffcKqJWoeLBjc1EJlFQVSM_Z74Ea2vaWPbE95O2e0nfiw2Da3qdYN8lwifpp8y0DCU9Ib87S3BSRtouY811bcSTzTZV1ChJfB9HvZ0T8132ER7yNbzcyQjaFtVI9ebIcyyj0oh7B35d3NdkNaM4z3ncx70KnvE0ocilSq4hjlSfUWmD0gSqalDAeDjzU4TPVybutm2HNzIfbQrl7GIexlSsoDS6FTlVQsSpjYVvsTWDsXn_r47AY2U4BV7zTxL-jHrf4uUvw2aM2gfp1BReWtm8ZVmEEw4u4wR1N2DQw95nWG_1y1pyG-CjMYBiIOCgw7F3oA5EFJMLSEraE.%26ch%3DAQEAEAABABRrF2SR4m3xQUUIoGJQ5KI8VsSZxpvC9z4.%26v%3D3%26pg%3DX7T6HSNSV5GIXIVRBH6OUZ7TCM
+.netflix.com	TRUE	/	TRUE	1811595848	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTHD-4_-jXl0bXRMwIvPOc-ODvoXc58OG0.%26dt%3D1780059848829
+.netflix.com	TRUE	/	FALSE	1811595903	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+22%3A05%3A03+GMT%2B0900+(Japan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1a65af9-d337-44ca-b117-7600a1b7638a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775806376267&AwaitingReconsent=false&isDntEnabled=0

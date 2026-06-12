@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carlos
+– Email: sop900@free.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: décembre 2016
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 4180
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carlos
+– User GUID: S2NT42T4O5FTLNDDWZO7IF5T6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802698479	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AkBhXpE4d2fkdXTW_NhHH55OJ1TBoPzPo9CZgeeUeC9YQHCjcX42O43NuT73FsNhmPQKx462zl64_c8JDXTRQL1paa0xmlfziOmj_7AJLXjUCKpYoK2z89ogQf_Hm2VAIe-sjEH_pM481-JwrybFqlIo8vD-WUla62I8zd1Oqnhx7ewzJlwjgk7D7vUdQhlKa0-YN5ZshgPlppn58J1j0BEEOKuyp6rP2XmGa36WwfdHib-TApUM9oGdiBbuz8SzN0l4_6VmB70EiSxJrbLD-_PGk3-hvRaJDb5oR4Q7OvJhyy2r3RPMszFKmV7LT0LP6IJlTVRbAWt-k2dAwm9InkEXCFT3BQo7PgtahQGJYMYVBAThfTHpwDKoKbD4sGaGn2BGcwpRakIdJK7dJkUQcj1HtEnzX2xDvoK0fuY7r87zOOmyF9mX_3TM9vf4r2ZEPVqJm3Lrj2N4LY5zGsWxUj6egx46608x0--ecrQ6LEe7T3fksG2v_hgGIg4KDEz8dMGkj0baRoeEpg..%26pg%3DS2NT42T4O5FTLNDDWZO7IF5T6Q%26ch%3DAQEAEAABABTjn_CsFu-Ri5N3OVlme-op5GSZUoNzRGk.
+.netflix.com	TRUE	/	FALSE	1802698477	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+14%3A34%3A37+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7939e288-396f-49a6-b977-6439c330733f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1771162468643&geolocation=FR%3BCVL
+.netflix.com	TRUE	/	TRUE	1802698479	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTUXhVYylBYQl6n27U3ls8czjdHde4wHc.%26dt%3D1771162479551
+.netflix.com	TRUE	/	FALSE	1802698476	nfvdid	BQFmAAEBEDO-Usu4v-8z6i4TKjIL7RlgMnjPnc4Ix9vzy2HGu32wXXut0ajnua-ijD7ZaAZNNtOgCcAHA1ayn33zeg2crteg8zKYIcsnI-5XpMzDrLObUfRhXYWd_XKyYrXfTHXyzwIfTm0Uc4Ja7xCefFwB3_jM

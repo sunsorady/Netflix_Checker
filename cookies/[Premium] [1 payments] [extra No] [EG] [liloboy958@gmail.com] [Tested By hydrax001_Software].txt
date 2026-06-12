@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aly
+– Email: liloboy958@gmail.com
+– Country: EG
+– Plan: Premium
+– Member Since: August 2022
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 3561
+– Phone: +201033772284
+– Quality: UHD
+– Streams: 4
+– Price: EGP 240
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aly
+– User GUID: ONR7ZXG52JBZXHINLK4MNKGBYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809565682	nfvdid	BQFmAAEBEJoQksl7nOi4VrGwUBAGcOFgljDq4aH3rJQ_1WHZy_3oIWeJNZ5U-_SCgP_CdQNV4LxiTOAT9MRJU7iglkgeqzgrGI-lH9WrCI1N9AXVjorldR06QSFu7R4wjDqsb9MDpBN-ON8mnM8S92h4kYW5lV8p
+.netflix.com	TRUE	/	TRUE	1810943913	NetflixId	ct%3DBgjHlOvcAxKKBDiIOkKbyQ1FewdzxWITQ8Ur1D7H2EtkxvEcR1TrwVXRQbH6Dg3MJZTFipKCwsKM-G0cUgpSpotGhpATnnL2QrKgR7Oa_06M-QcV8YmM5ZGQtykvmV9P5VKsNhwPD3CMmvvthvZBHf7TvPEPxzQJiizek3-lm8ByiPtTERacotvLFwkBoCBqisnZxw2mohaFBgwcsENIhW6mOseVEpHK7C6uriiICreWum3emOdaBuGOr1yAxQ5NOj-FUSqrgV-Upm3odAPT9CrV41GFiui5vZ2A1kCLBRInoDrNHGDByVTc2YUBHUIf1_5fFVhtDuPLTFTVzDhdZX5Jqpr7HvcRz2mJx3RDfuKmltv72u6eW42jnATg5EOmDNJTvsqPDm_k8-n4LCK8fBP53UEeN5GkQ70rJ3hsYLIHozRhqBED6RKpwRNxTLLPBDLx2sHiPs1xM4-1saIstMv5s3UwFwKmXoZrZ4DvtqqJT7AMouE9vHzpRaBcdJwC-6NjsqoZunbtrCVy7XFRrB-90C-BgTk_F9Fs3gNytBpcfNwz-ttLJLxsKDgVIs0EMv-YvZsBHFFQkiSWzUF9ibHYAlQZ-ziYsRqSwa8D1mi8Tr9TXGGcqg1Mazw1TkCPMVhBE0R8kcgiW_QpBv6ksgDwTJwZCYFGq0pI_joY_0O_x8cEruZpYHICZuzNpO2Cq6l5qhgGIg4KDBNGRjuLLZ7-Bt6Osg..%26ch%3DAQEAEAABABRjtL0_-c1oxXjGcvICtZOu3df9Y8IRLHk.%26v%3D3%26pg%3DONR7ZXG52JBZXHINLK4MNKGBYA
+.netflix.com	TRUE	/	TRUE	1810943913	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTYEY7PSDBK2i4BjB76DVmyl5rHKMaEeQQ.%26dt%3D1779407913236
+.netflix.com	TRUE	/	FALSE	1810983635	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+14%3A00%3A35+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=31ab0b09-63d2-4035-8fb5-e26d04531a25&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1778806741306&geolocation=EG%3BC

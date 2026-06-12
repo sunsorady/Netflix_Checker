@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jeronimo
+– Email: chvallejos@yahoo.com.ar
+– Country: AR
+– Plan: المميزة
+– Member Since: ديسمبر 2015
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 8701
+– Phone: +541140761096
+– Quality: UHD
+– Streams: 4
+– Price: ‏19,999 ARS
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jeronimo
+– User GUID: U5ZRXBHJZNBSPEPKCIWAN4NEKY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799472659	nfvdid	BQFmAAEBEHWx_OKRO7Vx40onzzExewBgu8BDnIHS-IjFBO8CkqTINbESAU_F55kwIutbAMNQ-Me0q1zyBcS34mmshv8Rij_bAN5Le2Adgp3H9f9jEJhMxMffTr3GacF4HE_kUcoF-OhpecrmJ65wai7uGDChUGRJ
+.netflix.com	TRUE	/	FALSE	1799784441	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+17%3A07%3A21+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=517eb955-a112-4fb3-b038-6bbbc9577236&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801252571	NetflixId	ct%3DBgjHlOvcAxLYA7_AT6uzWV1wPv2mNxG-yNlQUHusuiSjV-LwKYrYnRwsLZ9e2PS7q2pXCIFYk7mAuo1iprJp9JxmH8dbeLUdtypuofyJCYZqz-f2z9keMeOAnPNPjFrrpzCQG6QNrWV0XcTTEBuOiW7UgyokYTSPm_9w7kl04WuinU6FGBzFNZOj4s-k3lsi2PduuZXWi-cDzJA7tT7PN0RZINe8D8zlWmdFjIhGk0XBZjCGLqZ_BotZHDaRqFnv8oEfVDFCwY6umB7F7uFQ7t_m2UUHGIvg6kdfGNSe2rrwo3WLCeeGFyqTD5B7Hybe6uoNLbwNq6IPBYyj2ulDswvcoNtsQLBkxArX02fjv-SMR6gy39BYFSektL1Y0ggqyHqu7I4iffWH5CTlriYKjzYosW5Pn-UGbw2i2WTy5B8BBsSM_omN8VQ0iF-LnAyqiX51PbcdYPPjZpanMyb0JI3XZ01eZSmUYZD4zYA1K4W0Qr7C2XkVhPLG66gLOziDh0ZsOxKvyqomJtIJocKrmm3DhiK19EIQcmGgZ1GCGXlos9Ch1hqKtTeJqLLNkpkqPpYEXrbuVAwRp1vUPlhTG3_0arBXSRFGapmIjI4hZYEjlPjseTp_YzFmpeJ8AWYdLFsYBiIOCgwTVd4a4lygWFqBPOc.%26ch%3DAQEAEAABABSMwYG4l6Iy9MpJ2kf8obBsTY4gHZuwmjs.%26v%3D3%26pg%3DU5ZRXBHJZNBSPEPKCIWAN4NEKY
+.netflix.com	TRUE	/	TRUE	1801252571	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPV8gnXajst7FJD4HuHRextNF_qidSJts.%26dt%3D1769716572265

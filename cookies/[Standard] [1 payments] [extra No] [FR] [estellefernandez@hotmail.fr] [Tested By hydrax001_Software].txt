@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anaïs
+– Email: estellefernandez@hotmail.fr
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5812
+– Phone: +33685552415
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: estelle
+– User GUID: OALMLOMQKJHEJNIGBQPDUPIG54
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790762407	nfvdid	BQFmAAEBEOpkA4Zaz94AYN4fPnq7rThgoEair2TWclrIE2GznToeOnnlYS1UIcswYubdjfpBpv83J99JiQdeW7YR5yOuuRo2PF0AhBwLsuQZGhETq-d_lUs_ULla-yYQotS2rmD3fer_OBrp0fDoG2AQRyGWb6Gz
+.netflix.com	TRUE	/	TRUE	1799333069	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Ao7BKJadzJVEldsFi7fsO0iFggKYQPdQUC2sXdap1vqUQIi2nwZF4LGrOSEvvKhjrxL8S6YicpCez40gWGD5IAzChaeaVhpiDjNL4h-koGwujPuTG1uko_ZPxTJIz8MJ3vVIdl9taEbAgO8KrgR9yXhhT0CZjvsvFykl22ng-ZSvK2PD6BRtsxBGqwR7pGKreHUE79eQh2W-G7J61UyISKJIMKu50RaXBI2ejarspnEDfRBxR9T1IxBmhmtLKaXNsON_Pa6NJeSN2fKpZbo41dWpK9cRMSvLFNS3TYwIYh8uyuBWBzPjuBu92YRvy2HvGfXdbhiCFQPCS0zenVoF4fWLOvyWnbUMFqDqbr9-JZz4TPniSUbhOL0i9qGXzfAafKw5jC1cXRUHp2621bE0Wgd7e8jPIoC_lkh-HtEJdNAlNepIW94LexWP6qQbG7veXLhOdG15PxFzFlR5eMUrbC0opB7GN65zOZqFhPp7ZkPbk_HUkty4frHZWtj1RTFdGAYiDgoM8tIPhA9nGl9y_elp%26pg%3DOALMLOMQKJHEJNIGBQPDUPIG54%26ch%3DAQEAEAABABRpMNH_KR_LcXNFLGLxpxHwdaIWowhJ_NA.
+.netflix.com	TRUE	/	FALSE	1799333070	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+07+2026+15%3A44%3A30+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe3ee55e-f00d-4535-93ad-737e37dbf4ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BPDL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799333069	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8mwdxVOJyO7nBo7HhNrP0_aYkOczCI8g.%26dt%3D1767797069838

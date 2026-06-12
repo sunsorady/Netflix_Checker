@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lieyel
+– Email: angeliepioquinto1988@gmail.com
+– Country: AE
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 3114
+– Phone: +971501674431
+– Quality: UHD
+– Streams: 4
+– Price: AED 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ANGELIE
+– User GUID: ZR4A5WHVZZG5LD3P4MUR6SWIGE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782912082	nfvdid	BQFmAAEBECrba812bCx3wQ9BwcidZUJghqU7ilhjgfrmmtC-7gD6CyUbic9Bd89n4i9xieygF697ePRzKF0Yzi6wiD2c32XALwllwRg3PmWoxGyk8DQDUJUwReKF0JWxCj6H53_lzXbG4HQm7KBmSjTOGn3TKMFe
+.netflix.com	TRUE	/	TRUE	1809701987	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA80QfcCoVZPFAEz1nLijI7TvigjyuTd0Mn1wU0tfBH_IGBHTXF0EwjEaNuue7_1hZkK0xIQv-dWYDn-6bpgrxAsBL9WuTu4-1N0V6xw9VZO9swQeWM2Y3HW9vTN1kWt0KvfNqBKAwKt7fsC3t2LmDuSAoaJkPBvxSJPouyJk9cOWAcdM8Mxv0loPB5g1Y796LsnLnxs5jT7oSclXcPGq_heg-g506bKYaUfeWxMQNmGwwKSPz6I89l7TrXa1JOrSWql1ZS3unKHJ_4tEThKlROoX8T18A0kbILUeEgT5oo4eoDkE-LG-fU2VxuNFLO_kSaxT1NCciu6qdnSnqt4XRY3BLXqwO7UeoJO5NeBQgWDjaREXPPCNA2RnMWUShw_hRp8JcOiyEMPFUN_elLw6M4YAk93vp6a6ruQzsYu-h5RTt25OQ_Ry3CLv8B6y1rX-nuo6jGvHAGVBJMefXeHPC_wvNaJKgo02M8ZyUBmmFAyW7oIc2gG7XwkVeFC_tMylWNENvlBvR7GoH8r3PI1-TgCUvXDqwBgGIg4KDPqYpAsxSBQv4Ph7gA..%26pg%3DZR4A5WHVZZG5LD3P4MUR6SWIGE%26ch%3DAQEAEAABABROlgcXcNuG5RKy0bMzjReB5MSqEvmZEyk.
+.netflix.com	TRUE	/	FALSE	1809701992	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+18%3A59%3A52+GMT%2B0400+(Gulf+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dfabebd8-7c09-4f0d-b168-720d9090ace9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809701987	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUWNKiB0UFG7SpxMPfypSXHdReVP5PRTM.%26dt%3D1778166045394

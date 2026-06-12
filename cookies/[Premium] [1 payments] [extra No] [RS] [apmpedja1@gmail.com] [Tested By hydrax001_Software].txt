@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Peđa
+– Email: apmpedja1@gmail.com
+– Country: RS
+– Plan: Premium
+– Member Since: svibanj 2021.
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 4350
+– Phone: +38163236805
+– Quality: UHD
+– Streams: 4
+– Price: 10,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Peđa
+– User GUID: OBLEVO7ZU5C2LO4BY3K4PKKVFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3122957995	nfvdid	BQFmAAEBELeh8OwPT12NEM4T-IpzVtRg6XlWrROGxoQCiPjOHOmrkfZNdpysswxP20yDGlUtpGjRm4dgVGuakT_vJMjA9EkLUBUyXEBgrQl4UTJMuZUd1UTjHfaoyc6o4U3bW9SFzHc6Qh2-PkNIb4Qyl2FE08my
+.netflix.com	TRUE	/	TRUE	3122957995	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmk-qGdH_BPFkES5pNc_4tKcCpz8oUVRU.%26dt%3D1771178256245
+.netflix.com	TRUE	/	TRUE	3122957995	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA4Oo71oKgkkXbQq-yDo9U3a7d8c7T-x9e0NJ9IjvL17ek9WWgTH4zSAJroG37fhjrlIxi82llSPAggMlsVryIG9gBd3Jg_GaPQZeSpAxA9s7kcutzsfwqOC4BsI9vUAGrqM-6T82sXt2qeLfOMb4B8hK_kOxc7CgT-cvnBcgKK4f4u10wgYtNLzjbJqI3wC4S7ltO9Lpwpsx-L8FiriSY9fkwC2VzzxCzKRhfLE8WcBwD148vurRkn8m2nMFY_BIx77FLPzM-WC3oUUy7Dd9rNqB9Rp1nFyaHjLY9TW3RCilNR_SbdOzhciS8dX8tkLy649VZEUxStyvRmXmwBEY9Kc-8Z8jcPYzeehFXDXETDTIgkS-aLK1Dttud1Pbj3-fsseDOWJRK0so109cGfwDH-AFMRxlvFASO-aGqMPRbHAEgpk62BZaONr3uNeee7KnVOJ2_xQPGwBNSVvgz4A8RHEbUsyroMn-LZaDwnxOmrNIqpUus1wpZey-jFDox5HYNpeuv4pgGAYiDgoM54Bn9UHBTyNg-MdD%26pg%3DOBLEVO7ZU5C2LO4BY3K4PKKVFM%26ch%3DAQEAEAABABR3QOXYCCuhjaeof-Xio1vfoJK3l3XrvWM.
+.netflix.com	TRUE	/	FALSE	3122957976	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+18%3A57%3A35+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e18d10de-2885-4c34-965c-8da0a4abd9e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1771178247369&geolocation=SI%3B061&AwaitingReconsent=false

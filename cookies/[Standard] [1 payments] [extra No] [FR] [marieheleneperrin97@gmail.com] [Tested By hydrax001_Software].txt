@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Camelia
+– Email: marieheleneperrin97@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: février 2022
+– Next Billing: 2026-07-12
+– Payment: FREE_ILIAD
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MARIE-HELENE
+– User GUID: TL44LDJKSRBDNLNNKVD3CRXITY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802556507	nfvdid	BQFmAAEBEKYBnlIFQHICe62oSisL9nZgcLFqeRTPuL-63AbrnP9ucbxnIC94mqIOE7hcD4QMc6rEgzFpHd8BUQ4JIxwHPMd0bororPRBPM0SKYrSZ7q5Agkukt4lLlVEpd6pnTJpkxicN2Ta2uAizFo2YnlDiZ40
+.netflix.com	TRUE	/	TRUE	1810277695	NetflixId	ct%3DBgjHlOvcAxKHBLetGfQ6z43NwKixGurSrh3FsVhbgd_1JMdPcvJ6Nn5BMtEf4nSuBmK3F_gid56dsp9_nq2zLaYlPvxzKjfw4fqzyaHcej-mnItj6Bd8nAFL1FNyUF4lOpS2fGGgsTUtrJ4HL1RDxMI6dcPVxW4Dit1jK3TfEqyQTVVjSn_D87t1P3QeqxzREQS5BMpTdxx1ZPF6Th3dKTfVr8QVlnTRHWUcbdzdE52fYlM4cjHy4tyM0Qm6dFHaeFIJAND9lO8c6HrrCgFaBrRU1IDsq-_N876X170dkYnPy8ELSGKSu674FSIHsSEYKQmfgue86_we-NNLHZ8h2PU_9Y87sflhwlcCpDI6xHMEpHxKS9PkgPKKfydPK7T0sUb_-XrhxF_4tBZBpYzsEL2Yvt8-8RyQ8ncxSZP3hdE2npXEl_C3CyR3j6PbcTqi_sP3FHrYl3kJQeOhtdiUX-KzTmoRPxpoTcwoJgZ4ndJkRcgN_eCdJyoov09Jl23DRkg1lWrCC6UY44gDZjKYKgKVRqtFtC3ArF-aYqORGQG6tlPXnxlw4VqiekTNJGzXkCZFgNdlybdEgHdRpa0_RTo8_cNRHTUmGcTVgmfr3ydFMq14gGYuPAeyYffdB73y4BUU0wFWyIzBcP2aFQuzg-XFRrzdtUQIGxY4_xB8mierw0R1yY_gyRxkqdr1vOfqchgGIg4KDEc3n5g7uETeIEebEw..%26ch%3DAQEAEAABABQcOWmRL31pg9MiU4NJOvm6CNeE6x6fR_k.%26v%3D3%26pg%3DTL44LDJKSRBDNLNNKVD3CRXITY
+.netflix.com	TRUE	/	FALSE	1810277695	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+08%3A54%3A55+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=26f12589-204b-45a7-a26b-26a927e6bed2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BGES&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810277695	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7_C0gBeZV2N8ujwy9W4DCCnxpoSLSvgI.%26dt%3D1778741694430

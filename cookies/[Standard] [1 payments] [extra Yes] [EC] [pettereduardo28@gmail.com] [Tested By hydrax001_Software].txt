@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ana
+– Email: pettereduardo28@gmail.com
+– Country: EC
+– Plan: Standard
+– Member Since: October 2024
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 8956
+– Phone: +593962564962
+– Quality: HD
+– Streams: 2
+– Price: USD 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papá y Mamá
+– User GUID: SRMN6QURSRG4XJBBM46UOJSRGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795031369	nfvdid	BQFmAAEBEAH8iEK9855AYzk14Mz4CJNg4db4l7kO74y64vngHbjBBB6o69XbRsPY8BjtSVImStofvHxUNxe_R0qThGumjA-UaGUu4YGOJ2B9KsNs6cQ3jrjBvcPReuu3napboLB76FBV6BucYnVUIr3l9T4crJVc
+.netflix.com	TRUE	/	FALSE	1797799871	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+20+2025+15%3A51%3A11+GMT-0500+(hora+de+Ecuador)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36328f29-686f-4d41-9e14-22a5fcea424e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800651974	NetflixId	ct%3DBgjHlOvcAxLkA0xM_La1YZRojbchGyXVCfxS3PJYGR3xCo49UGnFRz65VA9G_POHsFlPgwm9dGIU99W_YpUJNgFdPrGnkS0XedD3m_7Tlf9msP6CsgYLZOSJJlO7SrBp90cj3rpvYBozo1hnZ1W7CTkBjUPUdLkjJSNkzKIQeTx581pO_Sp3P1vfgWmYfimHCGHJvcH7K5WJek_1TERdHjePGQteN7K28RLODpCvbClks2s1CNeyNwGJCItVdEMAK72sPiYRnoJD4CmB9mLdADKODU9_sCreMkeQR5kUtPPe3bm8_VM3t24FLv6BcjB9Wijz_OPfFf5hn2rA2m_I5CQE0MhGQ1OGTzULnEkvviq6QOcB4SRStjCixJI_sFjCGMfUQChHDaTIBfgSGRmPC-zFczguDQwUN40NGISJNOKuNkkuNwtmQzkuY0yJBbCXLtfPIpeeIaxAFPooLUYl_qpQ7KJANrc_fehewsHOHXUE9iylFLkoAbPun18iG1bJvSSvzXZr50tTkIXJkuG6sQxNWugZKMa8WaOCNCyoNhtv46ISJ2CL6Oae9kYAoE4cqTmmvYWnVGV3JPJabtzPobSGNu1Uly5rwvaStVnYgwuwRN7YGXMNXNG3gpP8m00LBtUH7sRMMTiwIOkEBKwYBiIOCgwpVD5HC0kuaiJ8a5g.%26ch%3DAQEAEAABABSv706k6zJBA5a95JJ6QN8MOiWECm0haoE.%26v%3D3%26pg%3DSRMN6QURSRG4XJBBM46UOJSRGY
+.netflix.com	TRUE	/	TRUE	1800651974	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSqJ3Ps25fANAMb5rNl5lmu5DV0_ZBo8aE.%26dt%3D1769115977727

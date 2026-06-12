@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: takeo.iphone5s
+– Email: takeo.iphone5s@gmail.com
+– Country: JP
+– Plan: プレミアム
+– Member Since: 2026年2月
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 3917
+– Phone: +81708996107
+– Quality: UHD
+– Streams: 4
+– Price: ￥2,290
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: takeo.iphone5s
+– User GUID: ZE7JGVCTXZHI5KE6LVFDQASCMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802507579	nfvdid	BQFmAAEBEJmpsfMsy3QixrPWu4733ohgf21KQ9TndO8FP8vlxtH1l0iCFQ97ugQlFqvnkxWjhgC5r0Z_sH-zbjq-tAf4ZT5kxK35zI9WPOUtJJgdO1qPeK97pWcWJYzrY4YWHPAynvk2doEM8dxk3xmXZahZEyA2
+.netflix.com	TRUE	/	TRUE	1807705483	NetflixId	ct%3DBgjHlOvcAxLSA9UKbsIsBrzr5NRaoVenA7K8h76j_i2YbrWKCNZuPP-F1OSDcHAd_4x2Y6nr8mwq3siOk2ecxcyQx5ck4ZIs6jsPNa6FWHExqeCtAcfA5TohiZZbWLrEKCFOsA0Y_V92j8UyMnmNrxzYUXomIdFlrXrZmBOL-BgXlP0dHcLLiTS61iysLr4DKv3ykQ-joRmkmEWQA5QevAhmw1AUYo6xrbTgzEhJt84LyhIWZdvMYmsuP_WSvDFvmB1Pt-RBeQrk49EZNN93InE9VwX3UYDmhPuYG2ku1B7OE_fcjTyyMPFesvVaZIJ7e5YbcP_4r-SVlGVn6fLVtu9okUzD1gQ9jv_t45fkc46KHZ4JrYR3TNXu2d1lFtWvHHhIcihs5sGlGEpMpbqQ1B8kH7AnHmPW7aQOGJdEE-is3MW-hQO0EJZ3MPAN3PtVgL11klclfholhSpXJ4mAWacJgfixfNl4HnnDWDFgIzj5BrxsK2AFa4XNAWRBngN5Qe8JIoHrjuFA94RMhlQSzTkoQxGRBAhaq6UBflEhKpKy5MYnIIpsimiPhtJhzNwqIooZXgua4U7G9UrKXb6-LZbuoguSdSZlGK853YTUKgwt5HmNt1oau5pdsecYBiIOCgyspXPGcS8A6OJqNWs.%26ch%3DAQEAEAABABStNLZ5HaW1185QSgfA-MTTkIrHRoCi4DY.%26v%3D3%26pg%3DZE7JGVCTXZHI5KE6LVFDQASCMI
+.netflix.com	TRUE	/	FALSE	1807705486	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+21%3A24%3A46+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f45de4e-ff52-4de1-a3f3-8ca0cc9d0bde&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807705483	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRt0cjhTYx27KasM-dQM33hfRAyHbhUkJ4.%26dt%3D1776169459719

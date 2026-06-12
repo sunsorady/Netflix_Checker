@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MaLoU
+– Email: muriel.paddy@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: mars 2020
+– Next Billing: 2026-06-23
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33662125853
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Muriel
+– User GUID: YN25MEKZ2JEA5NKZRWUUFMHYH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790446150	nfvdid	BQFmAAEBEBFJpo9ChgS0S0qnfiMC_aFgvAavaCtvH8qe_VGPoS3j3O5G2xXzWx_F50bb5wxWY0eeEKO4KR1bfIZWW7YPJbIIbp27_F6uRsDnMIMUi1jYTnNmawv_xE4ELK6Jd7kOMYWZkptKBnpiYsMfOfima-94
+.netflix.com	TRUE	/	TRUE	1802704707	NetflixId	ct%3DBgjHlOvcAxLkA3fR_9H_E5dpRl9uljwgcj6upMqIEtZFW6xYz5gVmhUFg4CSMciKsn7jX2liC7mWBRumI81fzlHHwsq94-TuITttmmscMIfifokdSEyhTuS4BkytILSjzWCm1hYWXygrB0i-xizxIy_BrDMBAi8_vqe8qMlJGbEdBixa9nO_h3gCE_ABoM9jI78pcdIKq2c6Y1UpnubTOtzu0t7z1xKWEh0loPajXbU15AFkUSyUoKY9HgfaZQVQDZYmDkdGTD4m9SqB8Ep5qHjaBZWkatQP-TYE287iZ2GRwPHUc4xGmXuWGAlEv5GjapNqRRQDbk23X7KWbBaB2SWyoTrSuIBgn7UsQ8cl47oMnPuTkR7q6p7SmRNegGKIzNd-gqaJcLuueNZSQmE5lSk1m1kWRtesic3j49mqhSbV3thx1LB1NlC8vs46gxDJyKl72lJaE-8yphb03J-lFDBrS1S9sh2fqjnv8Qsvdadl3zIMAf32dzMJTsWSOvXhRhCzJmnR8a2YuYHjb-VCoXLDRgPMgbzJ_RwAP3_SLrwc2tl6z441ZIhkmZFK1zPF_VM1RSgOkdG1VFylgWtGywlo8QQtKDlf13FbbcSatOnVB_82lpzY1jJGyaz2TLlZ0QWfbU8ek8MP7AJCMp8YBiIOCgykur36DLae0m65il0.%26ch%3DAQEAEAABABR2jNAqxz-tzFZbQQZwLYuAFD9DNW4f1pQ.%26v%3D3%26pg%3DYN25MEKZ2JEA5NKZRWUUFMHYH4
+.netflix.com	TRUE	/	FALSE	1802704708	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+16%3A18%3A28+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9cf820f-c968-4827-98ab-1cf4597356ef&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1802704707	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBfDXGxCiSZI3vgsCPEhL3X7tFtRKvVtk.%26dt%3D1771168707056

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: vielgervacio
+– Email: vielgervacio@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: June 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 3062
+– Phone: +639672649230
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vielgervacio
+– User GUID: RJEPTIEKZZFITPBSA6LLZHQ6UI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793014408	nfvdid	BQFmAAEBEKIbqfu5GbYI2A3QDNxvmXtgvmfTFPEigLkAtLAvHeBknr7HVKCgiQt2z6Q-0QfzXgJyEEOyWaJluU0eoda5HwUzGBKmQBr757uT-x9ZJ7tKR-klqWtRL_0izIoqGp_cBSaKY_ds-z2p6hy5Hk0yTRiQ
+.netflix.com	TRUE	/	TRUE	1808309544	NetflixId	ct%3DBgjHlOvcAxK6AyFTyeB6x0YLFKZ1dRfgp0GWbf2VnJeMdbzQNylpymZe21dZdNffs1pSZr0fz1JLNcjvcOUKU5ywGbdunQyYEV89RZ7auq4RUtsMupAQ2WmHFuRVWAz0c_RtWl_C9fM8776u0CJHQc2A9SFIyKHUradD6qSXQ2NwVLAGh2ECBEaXWJPAyP7vVDfRgOOdlsZ7BuPUhaviwYh24AEO6JeZ6QQ4rSnpivJboQ_O6_-GRS4v_x8pbZUnKpdZT3NNCrCsPG3elVJX6CqpnrYbdCN5wGQHQkW4WoAlUAoEqJAViXcMXyob6hZXJEEQWmBJ45mZTa3ch7te5P7P2fbUSm_HdltvVdMGl6KNgqggupjCfalR9FLpojHs3zLUeAHDanOzHZdTmZ7MYVdm3HYW7KLHYm2tiSTQWTpOjAgULvYi_o7gU38hlY_ycvUtZKU5ReJuC49v2sy43Tfw-LuDjPPsQ8AKRRVbsSF15yiRcBUBKj0ugl7273sk7Qi9NiNgLnfmRm7SqU5N7FNlPPswFB4-eJGdxka7H44dO61zbrilNh6O41ziVfw2wb9m64_qrbrnKuvNHEanQ87VsekYBiIOCgy_cAH2ioXZXa8N_YM.%26ch%3DAQEAEAABABSUQ60cqog-FdIp4nMr19LT-_p3ICBzdtk.%26v%3D3%26pg%3DRJEPTIEKZZFITPBSA6LLZHQ6UI
+.netflix.com	TRUE	/	TRUE	1808309544	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvKOXSiRKd_8oQI36R7W5dJP4aXx0vVSI.%26dt%3D1776773543623
+.netflix.com	TRUE	/	FALSE	1808311613	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+20%3A46%3A53+GMT%2B0800+(China+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0d572c5-4c93-4e8c-a207-5241708f49b0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

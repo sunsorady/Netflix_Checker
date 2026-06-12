@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emilien
+– Email: chaozu75@gmail.com
+– Country: BE
+– Plan: Standard
+– Member Since: mai 2022
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 7457
+– Phone: +32497261613
+– Quality: HD
+– Streams: 2
+– Price: 16,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jessica
+– User GUID: MDOJHUBR7VBGXBXCUIDKM6FQVA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805535114	NetflixId	ct%3DBgjHlOvcAxL-AxPrxmdB09vqOQctbNBiGwUi4uJGvpOs8OHqiI6r_03Yg8YRduz2HmEiHiDhx5PNhA6YySjIrSo4aOqAGgL_MVRuA3EFaxzf7J7AUSmbKFoYGV3JzPFgPSYsec5uffL7ONhPwSHbmxyxz0KVL8odftQciFroxRuzSOp-l4TlummLQzT5lrXOdkWhQIWrRf7_UvAqp_aFwoX-p3k62lMJEpqOXyOTBI3ULjuxTQSU48AQwMUc7ivCuTdjmceSsx6gvOooscMR7QQ-XXzVgapiHv4tyZN109dEuzKjvVLeoc53YM2dcaWwA0Yv_N3QisyGwt27zRmH5_gQeoxs4e9Of9j2nH8D9WNV4-B8OvRJv1a7_df87j1yL_OOKHh2gPfn8QAwIvRQ0q5_zhMEtu7izBdOYDfdybmXKISaSyMLcQ6ZeYYTpWp24zp1mqppO-8zgo9YZIq2_3Mb1ApqKLtUtYwddsPj3YvvG_q5js2CUCh7u7ASRupBdiIfmMR7ouMhDvifIlfkfmy7ahoMi_tJATGRKmcMB-DqejSaqpC2meaK66nNjbh-5mj3Ll7WRAdfNcw1CVAn-7gVtKFERxiqusbVJOqd0d4jTmHyf1QMo0vIcBeDSRsMbNrZRzV5ZArP4sIscbdWUJm4MAkJj9EN8Tgy8nFFFw7R5e2-lWGerBgGIg4KDAVWviqJw_Ma-tJkxw..%26ch%3DAQEAEAABABQAHzE0XNnacURk8Y9HBYBld8n2XmOzdSo.%26v%3D3%26pg%3DMDOJHUBR7VBGXBXCUIDKM6FQVA
+.netflix.com	TRUE	/	TRUE	1805535114	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4py3WZEKw9kGGre2wBSTpNSkGOK_2bXI.%26dt%3D1773999115055
+.netflix.com	TRUE	/	FALSE	1794076823	nfvdid	BQFmAAEBEIyjpgzN7fQw_bKMSVPOtjtgbCjoOK4BvLhE0-HMhefPNi2F5U2Bf0ORmB9nFcEYFCqiN4DsiEF8meBhsLcGeYdLEbLlEXU38oufT5NuwWQjpBDR4JCTkJCKmaEHkwyazRe7dq7SnFtLUuhsiBweLqae
+.netflix.com	TRUE	/	FALSE	1805452299	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+11%3A31%3A39+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3850976e-acfe-4db6-a3a8-c6d3c7041964&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BE%3BWAL&AwaitingReconsent=false

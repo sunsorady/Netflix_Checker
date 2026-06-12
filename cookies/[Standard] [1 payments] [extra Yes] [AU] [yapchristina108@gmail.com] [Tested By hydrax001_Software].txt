@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pepper
+– Email: yapchristina108@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: March 2020
+– Next Billing: N/A
+– Payment: OPTUS_BILLED
+– Card: 8274
+– Phone: +61438128288
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: yas
+– User GUID: XKTRV4WGIBDHDH4BS7POJJXDUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785717362	nfvdid	BQFmAAEBEEScpAGa1Swz2BdZ9UGxoEhgt-xODHnIF1Mt66-P55o_7Ij2dEo3H8N5XyDs7sZh7XmcDxRtf17-Hiy1rGhaXYtf89Gi-L4K38OF_EvKP2_ME00jrKkb2HUxtLDlzuhXiojJ9xH70j6SKKJkSC_Sgrrk
+.netflix.com	TRUE	/	TRUE	1799456004	NetflixId	ct%3DBgjHlOvcAxKxA8eA0yPjIZpJhnTW2cT4MXKJawL5mBE8RojCzfRtpPV4AtqZtB_-TENm6CjR3X0GagBwldiasCxuySZiyTHJ_kGg9k1Ryfe48YyIOXD_brAmH8-x-LBrH8DItbg_dQefP7OfTM4kqE8D9aTrisUEFpxpFNyrlJ8zni5nj9Eqp3_yhDCxEYqbPlEfLcHkH_WjzdRfxKElaGRnOznxGBQUoFilgJNXD8zbPra3OdMAY_PA4sNHGMEw8YQSGBbS10e8TTC-W9WYC9bljdSCZixNIz2icbX-lg3bMRyVtRSjIdsS_k_YTUvU0M5z-mrgKk3vYi8XNds401AmdIAxQgEkLTDX8-dKrpg7bhUqZFQjwhFEW9yYouyGA5iEyloBLTuakzBpAbU1oyl04qUfsNUVM4ay1WXDraGVC-1GJvjbGA-Jiwal_dslqvEfy-in6vqX1hT22yZQjzcUUzuzyDTbOM19Ih4eWGi6yqHsQCeAbbNV_a3xYFMThoTT2m7oESlQnKatGh__Gi468-4ab7PVvDyf_Dz5nfDva4KytRwzDOcpUXRyScNY_7MtC1VYmFvpfzMYBiIOCgw7CcjL-7iPJaaM1oM.%26ch%3DAQEAEAABABSqkQqUi_arRRqCowxIxpdfnOqFw8zX5DY.%26v%3D3%26pg%3DXKTRV4WGIBDHDH4BS7POJJXDUM
+.netflix.com	TRUE	/	TRUE	1799456004	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRF-ti_o5ZDq6s0bVxcOVK3Qi24B4VcQ_E.%26dt%3D1767920004049
+.netflix.com	TRUE	/	FALSE	1799456137	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+11%3A55%3A37+GMT%2B1100+(Australian+Eastern+Daylight+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a602ae8-ff58-4e53-9ba2-046c20a3b987&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

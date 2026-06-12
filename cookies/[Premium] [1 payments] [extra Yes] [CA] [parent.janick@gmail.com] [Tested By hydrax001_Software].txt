@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Edouard
+– Email: parent.janick@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7243
+– Phone: +15148029179
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Janick
+– User GUID: EVAPDPCGBNHGDFJE3VB7VDA7D4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792538327	nfvdid	BQFmAAEBEPWyf89tS-jPFNkhpqqMkGNgtTorMSMt0wY3Orum7XM1qYkiApcAdGgjZqQokdoKPHg6GB8rDd0BBt2J3mOWRBwat7gOQ7zOMcTj26Qe0dUBA0NvJdTiBwI-iMoJwGZXH-uKizmdng4vSLWywFdEa95V
+.netflix.com	TRUE	/	TRUE	1792968148	NetflixId	ct%3DBgjHlOvcAxLMA_LSW2gBs0KEr184OQjWxRIOTlyueeUhq4dQ8_mhu1o7zx62xz0A75zS76M_zy9V_OCFze-lZxuitV5GuATHWsmByQTvUjxc6FX1V8BBHFlTsU_x6czC5QGBEqNsLFupqkwR0DHdiP--uDoILXfNckhA2DKwV6Y9Vv4LY5yMuxgyxQVdgb59ReF0yHAK18dRdb78VLCf6nni1xoL-SxIzjWFAnVcJxmkXv_5XGoN7JvSLjIIc0uaK5Rx0ELkijWg-1xwL7mK8tSQ0QCsKhDAJv1eDkNU0A4EtEHgnx6VEszeVsau-Nx9vaIQ3m7JPdDcH5GHLIvRdAQEHExr0WLiXcaBeRXYUZbZGo-HhlwJYe6tg7Fkz4dQaS4uDbJ1f--WR7I9FwYQoODfcaqMjQbMxrcp8KuVCnbgV9U8ozScKq4P9878_e92WvnRI6frW2ItJmNGWGIUTtuXVbeOkTpQf6__ch11eDW1ejmpfERI-ZyPBRgQZSmUA5YwviLgijMCd_7uSMq4ZjqHcifxtTv-9CSy3_zRRU_rQd2H5KoO0V4mwRqtuY0vnEgHHzS07m8llAAvYS-7Ve5x6nnlKGIB0U-dkJ3MWTiweF6_QWwYBiIOCgyIduoxEHkTZIJfAmA.%26ch%3DAQEAEAABABTtRVcnXu9EhnBkgbzi6ai3dpQGXj-n8W8.%26v%3D3%26pg%3DEVAPDPCGBNHGDFJE3VB7VDA7D4
+.netflix.com	TRUE	/	FALSE	1792968151	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+25+2025+18%3A42%3A31+GMT-0400+(Eastern+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=894cfa51-59c5-4376-b0b6-efa082d4037c&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=CA%3BQC&intType=3
+.netflix.com	TRUE	/	TRUE	1792968148	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfUnOXFUVcctber_yCgf3vR_J79AJrRAI.%26dt%3D1761432148764

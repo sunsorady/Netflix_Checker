@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan Luis
+– Email: tostadorasinpilas@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: julio de 2018
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: 2948
+– Phone: +34639060909
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: san
+– User GUID: FNVN3AURSRFJTK5SST2WWH3G6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	13446396833257521	nfvdid	BQFmAAEBEFRY_OCG9ZPJro7uZXdLoRNgKwRojEDBquayTB701juGmziknLpZE87EKH_reOdTv1LlJNrto5cn0sduiEjnEY-zFxTnRUCDFAadH18EQPI3iWlsepCDfOb1mtfRc0LAYrbIZIA3JSnhPK2kSU_D3R7s
+.netflix.com	TRUE	/	TRUE	13453564722854410	NetflixId	ct%3DBgjHlOvcAxKJBLDfPsGqKHRfUTFMu-Ki0aLsusvffqVYdDZthgG9pk8V15V4KI9cvQsOp-D0KE3ysqrCxQbBa7B01jNuBDn9cuoLXVUFkD2SiksLg_lm-lp4DM49KS6E_PU6gEHbXPi9UKlK8KlUosDFaGGeHPLp8C1hyjuMRTxrp38Q4j3UIITdMAJ_ClrrNOL79m4Bujc1y4ijv3zHg5Xiz9dv80JbVq7QWrSqVqXVmoAAdyFyLv8CdMgBT9m55XMBjSpO06BtTKkF22uU1vZ1k8cWFK1U9CCBk4JO2JnJ1Y7ajbTRnMfZAY8IWFsY8vMKG4Fl20xtHnYsfc1gT_wGvOC5BZdzvUgpooC3pvS1MNI-ZwHTPtZaQk0F3YuphKf2LTX3HJm4fePOQ2R7yV7pgT7fdtlfup9GRow-loyt0yxjcYqqeYyqFwFjMxzm46przKbMikFh0BK1Ztc84fXIbCE-37__ILDsHT2NNpQZ1VNKrRgSHJyLHF6Pd7Y0FYXL8flG-ASBqGMzgtA1aLQtEVyCgZCzVFarN5sPIKLtTaUELcCn_LPiqgFiVkRx0pZz028k6JmO09ZL_mVXus5nj_kIyYHyPQ5BFfRk6qg4_FBPNqsR4g1kLn9dc8LEUkWTAmdbWuPgWyivOecAn_SB6SwypoE90fuFY9zj5aoo2y2FweXB9-upuvDviQO-CYtnGAYiDgoMWv4r1bLDmAeUZDn-%26ch%3DAQEAEAABABQZ3OlTQm7kOPHv_7dV7CTAdnn7oiky030.%26v%3D3%26pg%3DFNVN3AURSRFJTK5SST2WWH3G6Y
+.netflix.com	TRUE	/	FALSE	13453564723000000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+14%3A18%3A43+GMT%2B0100+(hora+de+verano+de+Europa+occidental)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d9dd834-64da-4609-b562-ec60a036512e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770387239655&AwaitingReconsent=false&intType=1&geolocation=ES%3BCT&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	13453564722854333	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTuZkq1X-OTKLNKU7fBDFdDrydzRJXUsFk.%26dt%3D1777555122559

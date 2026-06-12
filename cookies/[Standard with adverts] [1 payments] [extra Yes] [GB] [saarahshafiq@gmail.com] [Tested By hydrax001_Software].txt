@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Saarah
+– Email: saarahshafiq@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: May 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 9993
+– Phone: +447825085759
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Saarah
+– User GUID: N2GN5PIW6BGMZGHQVDN47XDQ34
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803261082005	nfvdid	BQFmAAEBEEN9ZPzT28BeZDxk_KoKYLJg89Nm9s2skup7uA7q6HGS7q6VO9Qa_C8qceo3Lu8U7juk68592SrIIqwemG1pi_EQp9Mj_Hz9HG2R1vCH5CrPYaSx9N_PR3Kz_6lgIws_c7Hb8-G-1KkRaaSrnr2V-_iS
+.netflix.com	TRUE	/	FALSE	1806438579957	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRA42Vs_05cvozoMTkwDEznJDiJF2i7bfo.%26dt%3D1774902576781
+.netflix.com	TRUE	/	FALSE	1806438579960	NetflixId	ct%3DBgjHlOvcAxLKA2pXUc2nmfNzGC6eR9uKsn3dhEL-sNETACSvLhM8B2zsDrjHis1aqHsYcqw6MZwOCrl214GY_C7Omh8lJW6ZQXWDLuG0mPtQhDFmPRBIW0XyrhFbtiU6-hmIdNOsmUQ6BdjXuAEW71OJx7WRc5yAwK6iCj0W1jy4lVM2llMWgx1pIrnmIemH62Xi-ugo14tIKhS3TjdOLSLb7Tvb5ol-ecHZGH1k68akpoznDbey8BscjGv564UMJGoEXRqqbfxIIztUYPleosw_zLt1DMEtzvG9XABw2_Pcr5HYAOqJqA8IMoxoi8bVBlR0uVG_WJbHd0PHgBqqxFuRXr0NX3TtPIcieRY2qpK427LsAoEhKlJIsqIyKW3vAQqd1GBobKIW7kAmrPtwFNde9tCB3sCuGExnHiJOakUdr_mggDCYxNVSTEj0koUM1eEK4LRZc3k80vTTS2jMkCqGS0rKuDnXygb10no4Rn59z9MeU9IgQHz6LMjY-qQm_9zZK4m2XLT7vfVP2fh1khOJavnBzd-9h1EsaUWrcxTs-mwC954D9nWp7BPZlpQQXLICqvmatBlplxV9HzRz0HGvgA9M9w-i6_jE95KMhnU54p4fGAYiDgoMTfxEXHkVD1j07s-P%26ch%3DAQEAEAABABRa3nT32puK8gnUzGm8r1SdKoL-4oYPerw.%26v%3D3%26pg%3DN2GN5PIW6BGMZGHQVDN47XDQ34
+.netflix.com	TRUE	/	FALSE	1806438581000	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+21%3A29%3A41+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=85634bfa-6b3c-4693-a932-5f8bee96fdf0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1771725052986&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG&prevHadToken=0

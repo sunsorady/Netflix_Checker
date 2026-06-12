@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rodrigo
+– Email: elsamarianareis@gmail.com
+– Country: PT
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 2427
+– Phone: +351916287752
+– Quality: HD720p
+– Streams: 1
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: elsamarianareis
+– User GUID: ZUAACV6JAZCNPO4KQW7FSMQUMM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796409649	nfvdid	BQFmAAEBEBzpTeaM7AEENUH0qu3N1ttgnAFoMvjVM5oZVcwAxZ6scm-ERRVUp24sRL7Tjsh7mCsJXrOx4MNEkT4mmi8qBZ-C_Cx6-tMYwKG5TlkNmcYcobiNLsCaP0OMS1HeJnwwyx9qEFXlsCMXbreZFc5zFGgD
+.netflix.com	TRUE	/	TRUE	1805792480	NetflixId	ct%3DBgjHlOvcAxKHBKtOyYP5CclT0WoiVtLY4Jzb6AVFtjVkkUqtItjNqWOVW91fHwZQDPLtiLdUUZtmGT-JdRRtn7YcQmnRmUbfaDbTlzrIwLEPghKNEQ3C4Hn56kUK6lTkoss2zf3VoXX0cfd7CTZsawGqccwTcYxHFLNcqWCKG-hR8S80Cc0bP2dk3n84hsrq7_AiRZEqYYr3vWXDH0_7G5k3Yma907mmAii2ueirP155ZVhXO1O0L-8NCXvoQAwfe3bVka22QZqZOS9TgtZfVR7M-oJF48lsFEPGOUXts9C98JAr1roz0CUhoLfmmQqWVA2NjWLB6Or_R7QxOKAjXZb_MpOgYNoY-eovyn1xDuZ8flovxDPZG5zM8Fg1hwAT8eMq5mDd4P1qQH5QgLY5vPOfPJ1XfsLFC_MqPckw-awby90cjZgVKuIfnyUvUY-4cm1m3wPzvNBskyU0FT-8G_hnEmf5V8C9jkI_A1vgwMMrIkCyBQ2uP5Yna8svZjnKZBMR1oCfOdrWcNJxR9thRpAhJagSGWzNZa8avThIbrA4IhR7n5I7gekNaF4OOXwNknYd2hRGHO2-YoVMWBuhYACwpfJkWuP7GZjjss6S8Y3TsX5-dIYrmp8n2vWvy-AGrEJGwmL6Cyk4eRjnyfmLl1CMk5uTIYVB8DqQD2JeWWsVi1UZXRLp7n03zvN87dog4BgGIg4KDIKifl255FdWPJp0Eg..%26ch%3DAQEAEAABABSrcS5X6itrqUSWNKkIBAV674dyNbxUZck.%26v%3D3%26pg%3DZUAACV6JAZCNPO4KQW7FSMQUMM
+.netflix.com	TRUE	/	FALSE	1805816139	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+15%3A35%3A39+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13aba0a4-7120-4044-bc74-da64a127b75a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PT%3B13

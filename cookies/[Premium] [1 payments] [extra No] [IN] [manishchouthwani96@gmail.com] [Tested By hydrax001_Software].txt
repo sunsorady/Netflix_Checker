@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: manishchouthwani96
+– Email: manishchouthwani96@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-14
+– Payment: UPI
+– Card: N/A
+– Phone: +918871102777
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: manishchouthwani96
+– User GUID: JYE6JWJGLVFBNHF5MBIE3UX45M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809259930	nfvdid	BQFmAAEBEJ2Hs2ziSJK952YueoPjeA1g9W4p4pCMg7Y_shBKoq_sbyG-e4j07_mIn8YJhaWRYeUs5S8ZHFZc3v3E9fCYtP1A05c6Nbpx7K_dQAhqyo8mP8538sfUPamkHFnfXKIyEgbfKHbvy_Zp5kOMqv2h3Gb5
+.netflix.com	TRUE	/	TRUE	1809341278	NetflixId	ct%3DBgjHlOvcAxLMA7AMtnHCf0WGsjdsM454UdikLorWYKhJVMxab2QLucHNTaBpfHsvPul2OjCsQN82_jqVRpyPeXuq5GyAHYXHra19IJN7aH2cVgpB_1IYYqs-NRcpWr7-wofZXXdPet_eoMklzYz9XetEXqRmqtBbOUhizvnwT-rymQiDYqv6WmmJBAzanYD2phMVcd76OmRfLJkIpzwrqMs1Rgzi0g2bFPJ0ONuzhpS75u6d78wRU5bZav9ot8MBHf5ZBQ1iWORDoVUV5j2noTWphJEWnIB0UUh2N7Fqu2ZzeIoMNxVTbbpjYRccrbM8hYZlQG6XZpbMuad-foz6HeJKwNKV6MfUTo2Qa_uT0Cd3DcTN7PIK512XZRzKiM3cBZnsASOGT9B7IOCDyyHZGBumC7kdb77_XPwy5NO4giTA8FtUTjWXEgplmDQM2OjmiAbNDPDlLjGx6mVO-mGyWkCUmxAYxfFqE6Ej7QGFlroCveS_qZhrnOF7uGRdW0th6VScK2hYsiCKav2WcybgzC-d5OP-OuIuoH6mlaQwz_fJxvwy19irHMRDOf7sJ_KmLTcSbnuZbvplxwAzkYI4K8roWfNwzcjQ9FWfWBrjNsxA6zZ7D9IYBiIOCgzG55qI58qv94qw19o.%26ch%3DAQEAEAABABTsKpkElNzo8clYvl2CuKvkTbGpJd6mvQs.%26v%3D3%26pg%3DJYE6JWJGLVFBNHF5MBIE3UX45M
+.netflix.com	TRUE	/	FALSE	1809341278	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+16%3A17%3A58+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=70f32f14-5f6d-4de5-aaa0-c54b4aa6a3ea&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777724421868&AwaitingReconsent=false

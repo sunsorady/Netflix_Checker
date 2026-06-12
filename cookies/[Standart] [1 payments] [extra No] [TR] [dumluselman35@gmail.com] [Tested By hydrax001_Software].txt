@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Talha
+– Email: dumluselman35@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Haziran 2021
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 0025
+– Phone: +905446310479
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Selman
+– User GUID: 6DQ5G5IBRBEUJFGVJWJPEK6CG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807471942	nfvdid	BQFmAAEBEHoRWXoz1jefByHYkQagPmFgD9OlOhtzOYArXIdQYmi6i9r9eAQb6m3DT3TJmTBN8SKKADUQRWO7TobvqQ701gL_RvZd3QZt_CVs2erPETO7GEGFKkUsnb5WmfTV7FzPzQ1bnyyZrda6NHMmwIaZuEo5
+.netflix.com	TRUE	/	TRUE	1807612809	NetflixId	ct%3DBgjHlOvcAxLJA6gm_hu1c7asM8GGpHuifFLW9CrVVAWpajXMiNP0pVoxxBxfNXpCv8q0-MhPaAZIEYeN5i39131Ii5TMsXG_PeOB-D1v582h6y8ptjANC0poc5RMKX8PfcOKu2calbSi51qdDV93jB0j1WSFu5lwVXo-yTuWxOvNThzYd78J4i1OWJGgSg4G-BEfM5OuSpeW9xEL2iNM8VxwopS56XPqPcFttkrpraMlqWG5kHBVxMSWcy2hACkwK_xVul1bpPCnsEWh8oTIyXnawbvuCMHlUEvTUWKdSPFAWF0q4BpQrn9GQPn4_7n2ren9G7Ic8klpztHi4qAJGUVYyqao_ugMJKeAW2PPC31HHPe_aMHn324hKdESZwpJGqs3g8eqB3fvMA44Ok7Z_dRDsmTWQ_S2l9OxD3nZXIUBG6v5aIrXmdBLCex_vR-kF6GtppAt3QIYsqIfal0WyngTCxa8C_zDmEcjyvNIVapfPRzRLwy3cjNNYZtffJgDGOQATdsw1wA5T_GGIR6C_g6y5hHxewgWP5V2y0pCM60T8Ddp6IZk6jyAiaTbmLAoBgMzYx13Pm7oQdJ5gCv5fSJ46nSZLuDIqSepJGLQZ0OMAgEYBiIOCgxDQjF7zQf0ZGAW1s4.%26ch%3DAQEAEAABABRIaJIg44ngs8JoqerPhLQte3VyGuWSs9U.%26v%3D3%26pg%3D6DQ5G5IBRBEUJFGVJWJPEK6CG4
+.netflix.com	TRUE	/	TRUE	1807612809	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXSfMrylZXgc_oXDlV5TaNRvDFHZIk9eI.%26dt%3D1776076807420
+.netflix.com	TRUE	/	FALSE	1807641736	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+21%3A42%3A16+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f111d59-d1f7-47d3-b3c9-c7f655edf70d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775935760936&geolocation=TR%3B35&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lilli
+– Email: mrspud22@outlook.com
+– Country: AU
+– Plan: Standard
+– Member Since: January 2016
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 2152
+– Phone: +61422161056
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kylie
+– User GUID: EDQ7PC6X5NBYNJFWGHBB53OPQA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793600991	nfvdid	BQFmAAEBEN3wJoGmMivoYsKF6lFGkp9gHs63MVIj1p1Zau8HhrMZaFNDR874Pz_SPnPhUsWWGOgld4pxds_1DS9vyn4P5-13nvNSt1E_cot2zmtl8S2ov9RTUQVmcPTfY99Kih6bhuzgVScMDjNmJJvFbYMfg0Wh
+.netflix.com	TRUE	/	TRUE	1798344310	NetflixId	ct%3DBgjHlOvcAxLmA3LHK7gw5qqKnLRevHLhKRvCbGXYL21lE7i0_2HuI21HMBAEAGuW-eYTMiXX8JUPTcDJRS-U5FAomP3VymOPgW7i9kwsznKRS6BMuRZcW7W5UER3Zw3h6G3r0Jw3bCTWsaZrQTUAl7HfMzEkqHeqKdD8TDXz50MbmxlOoFzOZUvzdRiyjpet275RwIgb71YohwWzoiUnrpCQcPdyE3VR-_zAZSW2UI418EkwnzgsWuVfWM0IAwJZlahdkSkUXobNpqJDeQxmzjqG5unrPId7fhU0IjUT8hpmOONcw-2JNm1BiiPzgopFWbjFNk5Zni8rD57NP03cpj6IF99Ckl3krw5OdtNjhMq7lru_ktqi1Yr8BQMKnnIBKdq5HZW4vFk-Rm9-lEE5dvyaaeU7f2hPkkdMsSzN1_PT1WGMTtoWLxK5ezREKt99gYiHYgHXzhMrVXLXOPs6f6IHAExDYidmai63G6LPK5rdeKrHrhzNkuSHq1uDLoyxPPeVUwk-9ZWe982wEJcz7mKUS_FPl6FqBF8dy7Kan_JK35UF1OHOIa1cuiHPnOACA0jQnxV0u7BMTdlkvlcPTAKApZoEtW1EimzGAGY-s7rrT45eVR2-6gw5LgbiO5_p_j2tb5w31dhQ3IEfSLyDTBgGIg4KDPNdLhNYKXo5eQ2-NQ..%26ch%3DAQEAEAABABTfY9xRF2PjosRTeFBivlKSPAdSjpkmhYg.%26v%3D3%26pg%3DEDQ7PC6X5NBYNJFWGHBB53OPQA
+.netflix.com	TRUE	/	FALSE	1798344313	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+14%3A35%3A13+GMT%2B1030+(Australian+Central+Daylight+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=847aa8fb-1a75-4674-9a68-d2a7f058a6c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798344310	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgoi9I-5rjDcsaEryjgjbRLvUZ6JjGa6s.%26dt%3D1766808310989

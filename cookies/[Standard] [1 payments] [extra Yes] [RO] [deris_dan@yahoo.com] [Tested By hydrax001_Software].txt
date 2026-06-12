@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dan
+– Email: deris_dan@yahoo.com
+– Country: RO
+– Plan: Standard
+– Member Since: December 2019
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 5828
+– Phone: +40745364172
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dan
+– User GUID: FNEIHGEAIBCHDJ37R7GZJHR5XY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798902870	nfvdid	BQFmAAEBEPCys-AaKNRE6W5gIv8C-rZgnycFILqCZ45--5EclpV-gWPmdCdXv71wOXK7CQNBwhrnrLcxwvfbLOU-RzwQl7McSppb0pPEt60npdknC14OFyZEUiS8peSF3loGjOlggPaq3vf-gWDrzNaoPffgzDsv
+.netflix.com	TRUE	/	FALSE	1798922913	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+22%3A48%3A33+GMT%2B0200+(Ora+standard+a+Europei+de+Est)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b01df720-710a-4747-bdd6-e5ba74df0250&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BNT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798975917	NetflixId	ct%3DBgjHlOvcAxKRA-cFNwEZVJEuPT36AMvd5nwTCyjIVz4vtzXzZize07DASSXSC528b9G90eX9LZoEpjzRI3qy82OB_ApnWAm5LN1Rz6Md3oi42knKRoW7E3vtVFp062lgvDf1nlmyE1Ut3IUDHZluH-spgFME_pSErHrlYJ-4MvanKnNCa9nDZbkkb6vBeLj7CCNr2E53bMaJ18CsTVylvLtO9G3wRjo5qDpi73eJnh3SDJXZpeDm4fwjhH7a2CSllO2Jv8HXacW8m2T7Mz8vGP4-iYWUl-axjAwgrvAJ-sR3AAy5miFbR10k22QfqKpRbWjK-E_kKtfL4oZVEjLeduaDVpFl1RRi_MR2xLDmRj_oeJFXy-xZk90Tu-MCfrI6u38rNoqtgI4t9t4OWYPtJop179aj6SUEnr20y2XGsc5QnwZFl1-CIj2_q5mTyE_CcuFIMIs9tCyjKhwiiwqWHbR6IxoxI44V8PBwt-yB7t0ch72uyaGGOlwg3NIJx55MMozg_f5kXJTMBnCxe0Tq2hPrE0eITF7AI5svGAYiDgoMXGtrSmWrEosIisoF%26ch%3DAQEAEAABABTVw5ONSI5KjaJjpPskencGUBk1aPWfdjM.%26v%3D3%26pg%3DFNEIHGEAIBCHDJ37R7GZJHR5XY
+.netflix.com	TRUE	/	TRUE	1798975917	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQycfmpUKfNHNlsA_2OUbDyRDZLRDCVF4o.%26dt%3D1767439905377

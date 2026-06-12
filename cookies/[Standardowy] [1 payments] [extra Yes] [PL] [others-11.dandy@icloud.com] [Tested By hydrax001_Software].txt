@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mama
+– Email: others-11.dandy@icloud.com
+– Country: PL
+– Plan: Standardowy
+– Member Since: czerwiec 2020
+– Next Billing: 2026-07-03
+– Payment: DCB
+– Card: N/A
+– Phone: +48794643636
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mama
+– User GUID: A7LR7UBHZVFIZKNO2TZLNDWX3U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1683929365	nfvdid	BQFmAAEBEFpdEc1KiB_EiDGxSA6AhgVgPbYuidjRgP5UBa1NXp_8SLA2zlUAimF0nz9HG6NknmcJvIYf21ZlsrX0s1-WLySwEcsDGk-_BGaJyLPGXFFwkcT2Y-DvidDosQXNr0iIsw_NYp9Iv8tNPn3ZNu5Oj2D0
+.netflix.com	TRUE	/	FALSE	1685656927	OptanonConsent	isIABGlobal=false&datestamp=Wed+Jun+01+2022+23%3A02%3A07+GMT%2B0100+(British+Summer+Time)&version=6.6.0&consentId=9f18e90e-8386-454e-a0fd-4c4e2cec0fd2&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1&AwaitingReconsent=false&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1685915221	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRujML1BTmgSneCJgxVsb3b_gxXqxyesKg.%26dt%3D1654379218138
+.netflix.com	TRUE	/	TRUE	1685915221	NetflixId	ct%3DBQAOAAEBEJiZ0FuGhN0kB9umGXLgFmaCYCIR_7ugDgame0_NvdFyBI_nFKC5ffXDTX8e6i9xGOSZoykRZat348XccSzxJdG-FPSyAARUrs_4w394qISOgc4cPYQ1z3_90_gjkXmmbWobxqF0O7SCNlrO3qNMQwFiO89O_EYX_D6qAbFWnNbYmLAgud_RhXFqpJI5uYDuJAwlHGXBNcC05h_FnIwu64bBXavubpmSRwVSyyZukxajOqX3qipKl-nwARxh9h8we9WCVIJaIpdPio6oCTd6mJApwtqh6DXWY8onMxTKOT7l3lM6QvOp96fhoBDLZjsXAioba-wrCcdluxkkLEvaYBTlPBtu62OyDNByCbheauBSanjoSK9RYmIqZkoSTQ16TWBqUELCddCRcMHmWqEYCxMYSPDOAlBZDb8EX6xLLcXmp92TIvaxBpa7JJ-J8WrdCbW9iNSj_Je6DM9BbT2klYfbpBcbuZWv5Y37RifGA-JgvcWl-49_tFM1BMjQNX1BKT34HDckpXNxXuP7y14301p359IyOVNb9jMU2RJwPPKzX8TSgKNHj-Efh6Ae2FghfCfoLK3Xh8cgLWlINtKbIOJ-SuLlg0V4o8oWAN6JwD0yMAGyUm5JI-rkaLFFjup1yubrh7VyL2k-cEia-Jh_cFo36AO_gROJ5clLt-hq9_s4d_XkGpD24Dtp1emgGyzxGCQYsScO0Q0VpvAvJ11H9zdzV_i3iJQISIGYUgNvxkLntqG1_W9dZxKzq5kpgb-Xxv_5neTvIugo1R9a8tzFrHF4IdQ0bT3KjPbEidJKliSMIWR_u6dGDSqpEJ1pY9pgHnBI%26bt%3Ddbl%26ch%3DAQEAEAABABRIPWYhc7La4FYDI98mOxqzAYHFBGKcVFo.%26v%3D2%26mac%3DAQEAEAABABRqnAZd6WGtCkaaU6aUaOCKTK7TQZFMNFk.

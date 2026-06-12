@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Edward
+– Email: ehenik63@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: October 2024
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +16317749465
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Edward
+– User GUID: QM326U5MPJAYRFDRX4ANBZFESU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799592068	nfvdid	BQFmAAEBEHQVk_LN1gvFyDEEE7eqjL5gvEUsNabrEjAiVMlFU3fvTYtzsg5zBRC-6YK9VWauA2ZKVSdYbzgL9fPMnGgu5HiDd8LPwhQp3oQ2L_4AhtRysK-2FWhl7P7YggKc4emJOkq1SmEk8CE_XogkWI9XRgX8
+.netflix.com	TRUE	/	TRUE	1802522200	NetflixId	ct%3DBgjHlOvcAxLaA6vmnoz94b4-R-GH-qJVxcJm5rkpvIJ7L2Fm9IO9j6z5_Y3ogQVcB5Bhyxxbo6t_QGOnMU0PirdKG-X8B9eZBBeVpMMpXUgcNhcpzE7P_9lILTCS_49zBub1Lul0kIs0vAh1tX710QQ3w5PMSLwYbtvBGqOo396MZQ5uDubueCHRlqdQBOz0Ef9SFp3daEzXy332vYTCkPEi1TlKzCCxCqOdxKh4p9ZOlxvtQY5zRFLUPJ2bGxsweGDkeg6n0IylxCLLdz2YP8kQTUP21l2qQU7CjxSYQHk_S5k8yqCMM7iW_lfP3JxYJCidrwdJ6-mk9-bZmUrgZ3GwCtfJ0wF3p6Zqo3jdH1K2g9dtCxnnkJSs9Lo_WOHvb8FNY32OJu3sU_iMiZALWe20TYFckmry5hWdNuvN4RblsN5VYjieTFyYrjFVCTSBrYvL9YespRLcLlTszjJP1CwHqXKthU56auvZ7H90LgNDMfBNWHiwbqZLMkjAiGK0U4zQNCaoZwouTfjmgFy_7AbA0IQwy_Mv4genwXzREWybKHyJY4uA5GlocUprVPS5JY3kgwz4Y4-Dw_KyWLCYVFNfHFdGQFNcizEweg8QkXJwPDZLwMfkZ2qrDrW27JAZ1SQxrhgGIg4KDOTGmBGMwV3kQkAmaw..%26ch%3DAQEAEAABABRSbIRcv5zI6gZ28RhWSSTWTQsw6W1U-RY.%26v%3D3%26pg%3DQM326U5MPJAYRFDRX4ANBZFESU
+.netflix.com	TRUE	/	FALSE	1802526526	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+08%3A48%3A46+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=396cf42e-548c-4c41-b4eb-2f89d91859c3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

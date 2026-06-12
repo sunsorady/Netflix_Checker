@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Moritz
+– Email: mc_mo_jo@yahoo.de
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: September 2024
+– Next Billing: 2026-06-22
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4916092920007
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Moritz
+– User GUID: 2X5KGFUJMJBYBBICPMCGREVBNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788555999	nfvdid	BQFmAAEBEEW89oNKAHz5zQWP5_OPp6VgmBHuTzH0XiT9OHI5HxMLfhG7bxKMJLjrIPs-MJf0mxw0rTTqp3ukIQbdAH4AhvT5HKiYlxADMOAYW1F9lqOuVWDAdKWPbjMbMsiVpe69tH_sAo0vK4NgtGFN7-NBXc-r
+.netflix.com	TRUE	/	TRUE	1802001667	NetflixId	ct%3DBgjHlOvcAxLwA1vkmsbn5qHsvOz3GIIdol7vbKIBDZZxh2To49aMFax3WFmKp-o35QrODyVnYifTEM1aM63yBqC95_LWfDSVWlVpMME9af8394f_Sw1_V5qWwQe4YzNU4zYi5s5vgheAw7qVg-ZPJExnNeGfCm3CqsmqY1lq3JCtIRo6x6BBVjPTu91Uc2mYw0QSex1CcVzaskW9i_-eFncMkQO_9zD4cVla2d-XpmGJHtgRjCZMHHafdxf6FsAiSuDE8MbUibzxXn5oA5EuiJYdjs_IlNzorQrNmFKcQgrWD14JhY7lMS_hqy9igB7B_ss7ODxwH82QGlxmlvSUmvpwOBuknMbCK0pMhw5Z2CtmGZEx9MrpypGP4BL6dIfHvT01IfMHw6-qcNGMwCboBJ2yjYAJLv6FRAR7BGB5WYLBNSDKhqhn8MGygDb1oMmWzgLdufGHiQrGBvPyIZRPo26nii24mxzWXkVxBZoLkdJUAkqaj33uvokzG4hZMkGMM72fD1SxRuQUYvMVlq8DYY3LqwkZVP3EFsNaE-3OJv4tcSKzAWbeUxMFpSrAiaOJSIavooVgsF2Oa3YQCmCAAUfUWU0rznFjJPxMMv1UQ4zm0qkdBWAca5WaCP9guQn3AdCLZwdcgftFVC_GNxYRA0aLx9rUmun0-5EYBiIOCgyvUzZ7_wAwzwUes1Y.%26ch%3DAQEAEAABABTCWEEWWdwA7KnTon_Eppl0ZDeZCfMI6Kg.%26v%3D3%26pg%3D2X5KGFUJMJBYBBICPMCGREVBNQ
+.netflix.com	TRUE	/	FALSE	1802001673	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+13%3A01%3A13+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=018b4322-fe2c-440e-8b67-6b78ba89b030&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=DE%3BHE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802001667	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJJDCfBf03h3vtG6i1rAW-czlUC_tbOhQ.%26dt%3D1770465668626

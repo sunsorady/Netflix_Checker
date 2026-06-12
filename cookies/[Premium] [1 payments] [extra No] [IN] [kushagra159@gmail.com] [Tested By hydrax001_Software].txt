@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kushagra159
+– Email: kushagra159@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: October 2021
+– Next Billing: 2026-07-02
+– Payment: UPI
+– Card: N/A
+– Phone: +919532989587
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kushagra159
+– User GUID: IOMYKRQAMBCOVDCP3KYCPF6JVA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783291794	nfvdid	BQFmAAEBEEC8XZ5MUhYWKBeLEXyHQK5gPlbcCvBtJHE6Wj8KHea-Ltsr7fB9KkEBAMgYzBSlJ0RNVZLfGJvwPE9giUdja3VIcvcLv9rNfPo9l_dRcL4nVh8dCnltqqOZc6lNcYJW4tZeDol6Y9xW2CX-jXUL33aW
+.netflix.com	TRUE	/	FALSE	1783291794	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+17+2025+18%3A58%3A32+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=831155a0-cf22-4351-b72a-2bd9539228a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783291794	NetflixId	ct%3DBgjHlOvcAxLwAzeq7iWfqj7xPmB9sCdRu9Z2RF-kUZskh7z0gDY8pvgvjRZRj9s8aR1992Dxb65sWKBzCqQDpsOrwIppzPbencefVe_QOgvwV71NbLymHjVPHWaUwjS6jqzBUhpsB_7HV6IyV_ImtQJ7uR9Q6em-iu6vhc9spz6B3tSzFnj7Y8o1Nq3nfTwPMP_zSryM6PWR_5BDKtAnAHGKNwYOlg-sCVSspA-A9SUmj5tUG_lY2boO5l-hiuyV5nzHVlJAZQX0IV_FH9-0LTAN-xyRPY_3kmH5yusP8_Q-ZqED7iIGG_L74YcXyGBNZoDccJNobKIGfTfIVvvLFTaIFEGB50F8RE2pITIbnJDl507x1gqpPt8ZHyZyWP8OobfqBJhFNMRph1aJtMEGhDNFNvVxTT8KmzELSOk0x-du4YTAtfcvjMTpqSm6Ro1r3KGE23zGlb5bgOE30B32qU_LWPmaiGf3borQFqtGcKpayWSQOCiwsX5Kf6wFX8TzU0eD3FCIOWF-DUf28oggI41ZdqdYQR3YavoEkS6lTk3BLRsMzdSrQU_1qtySCFuJcY1_PTYqF2cgi95UzJK2LdOnbQOuwouKmwWEePddcIvGgnI5V5tNqZgjoRNeL2ri2alTDL-x-qqZ4cqpXn_xqOCvvikyONECrekYBiIOCgysw5XADUmomMXNeGE.%26ch%3DAQEAEAABABR7nGBx9D9KyaZ0Q6J3I6LH9SCDvvJ08s0.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783291794	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9JBqN2uhVJfZv8it6kELkYTev0qHKwl8.%26dt%3D1742362877450

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: White chonkolonca
+– Email: cherrywishna@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2009
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cheng
+– User GUID: 4D2UT22ENNAXLIFGQ4GZ72C77M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792988743	nfvdid	BQFmAAEBEDVN0San_KDC6brJcgHf2ehgtJfS0aJif4qg3gVKQyeVJDmkE39Gy9Zd3uoLdkoBThcQ0ooljiO0Fk5X88TS0i24GHuDulam1U290BbAOfZe7KpjrODNoQg0bM3ls51kh9qPKRFhK92Uq22IRMvE4Tq7
+.netflix.com	TRUE	/	TRUE	1798697029	NetflixId	ct%3DBgjHlOvcAxLqAxUvp-zUQRokT3vWGU_s694FF3Mn2NjktDCV2IXRBXQ98MZX8KewL7sxXc1fEmVGI04Df_xzz2sslzkrqa2CApRNcBZ_jGwLIyOQlhqelLuhDiy4li5TknO842IDw7gAcUpAmlv-3tfxixcuA3SJciEGRMTF2Go1EkSF2wVchw4va3Kh7YKYq_hJuLEBKjCuETW_hpKGnPUm37HrVVjv0SzOu9eB733l9AxTHDy-Xg6f0Uxq9wx3LEPVSyoYJm4EM9JO5hfR0-tl7cI1IcL1fh39BFD8UCFd8uvP0J6er1rvJjp6ajMcDlmo1LJ9awhfTyzHNY0Zgeix5EWCPxjAwOEpei0cZcLeY6SbbnfZVPt4i7UMr5EwscOBn6KWgy-AubHZ4gles3ISrX9shbrGxsYgFzxg0bMT7Ulijv2SbbKCDO6TIO2IYh2lwm1Vsr3Kc61D4M4EVbfgPAYULGHyVeqz3folU_TYt_rS5HRAGC34HRNkpG4d8qyr9PIWXyudGDIqQM_Qr3esiug773OY0IQjLpG2JQq7akAsrhkzWTUz76tGMicsiX4U_Plo3myEq_9Z0S-2RAGKLD4yf7ZIvAu0spstc0H_NmRdGj3o73DO4AMCxjNdqXRJrkhalh10I5LtI9_G3ZIux1gYBiIOCgyLJRb8HmEBLnVtx-I.%26ch%3DAQEAEAABABSak31YeqX3m78ja9AvjKLMqRZhYEt9EPc.%26v%3D3%26pg%3D4D2UT22ENNAXLIFGQ4GZ72C77M
+.netflix.com	TRUE	/	TRUE	1798697029	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT92rljQ1VPxQ4MK4gfusqlFjq2ts4mV2E.%26dt%3D1767161008465

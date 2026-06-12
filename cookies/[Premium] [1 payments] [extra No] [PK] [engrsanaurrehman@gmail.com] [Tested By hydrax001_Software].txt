@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maanii
+– Email: engrsanaurrehman@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: July 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 4671
+– Phone: +923360644916
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SANA UR REHMAN
+– User GUID: HF75KFFB7RAIDIRVYQC4BROT6U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793553710	nfvdid	BQFmAAEBEOlFzfCN6kPnNEBtXEePxTlgts9bgBoidX3_SqWf4tfUTBIN9UYYTJ0_kupbKvfckroku373yJCgzhUYQN-AlrXWDOlUkfXm7wGU9bnSkemViJkjjxj1yosJK2iNcYzPefxpTbxhg17sgRuJfQTbnnQe
+.netflix.com	TRUE	/	TRUE	1800823811	NetflixId	ct%3DBgjHlOvcAxLnAwiiICOMwRr5ncax-K4nYLN96rLMyDseTB4S4K0kjUaBi2ma-mSbX3EP7-nGDOj5jFGzTSfF5i9x69YsmGRnvoB9BpkRrnqldFPYkc2Ho2erQGXN8xbIeVnQZk7j5atJKb9xum1db5kqn7zA9mVCAzuKtneW7hF6oDFqZg8rGjdvkyp83YeqL1dzgZII_M3EiAtvNXuFQs-GavWzXuPU5azMttA1NLbnr9Sj1cImZ6-Ugc4tfNijdQ43a5DJr22iMKXpKbTb6BFy24s8fEna5OprNuZ6IBb1WXZP_j8ciYVpHksdiYwrWRGwtCIMwVt-mXftJXTux0QMoSo-7evaTBCsWqHFmYgY6QSc6qBAK0E55XtRxig82icfEc36sEwh03HF28mDb2JD0ktW1UdQaiIyGZ_Xup5qhn479vRAlXCGFMxP2DPUh35QpdgWr9u36wFstmpTPYlZF5xBDOLb5KtjcqEqD5UVtlj5q2pxC7fEqtN5gDHkAgwNfEInzPeAcMU86ayvbTBu4YGkyGYPyUbW2ziZuQe9RGXTsOP70cmt_vMLudxjNMQFiHTACfu4trXAS-CJm2tMPExbawdyVooTg1SL8VRD4FrfGx9QreE8Am_6w1uBTmd3yOPnMi-aFsw3ncB9Ee0YBiIOCgzrfd4WEuIA3f_gbaM.%26ch%3DAQEAEAABABQJuYyDG3q5E6XkbvmRAppCBx5uj8UgYn0.%26v%3D3%26pg%3DHF75KFFB7RAIDIRVYQC4BROT6U
+.netflix.com	TRUE	/	FALSE	1800823812	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+20%3A50%3A12+GMT%2B0000+(Greenwich+Mean+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1862d16d-c9e3-4796-8019-ee4bda44e3e6&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1800823811	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT--Hfxof_g8gVAPEt3o5I6VS22a6XcLNE.%26dt%3D1769287812533

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mi
+– Email: myllapereiraramos@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: March 2024
+– Next Billing: 2026-06-24
+– Payment: DC
+– Card: 6323
+– Phone: +5541995807032
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mylla
+– User GUID: S6BUC5NMGRD3HL2QPGXAUGHUVQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801075672	nfvdid	BQFmAAEBEEXPn8MwrFJIUzcTVZGq56JgqWQ8rqj_Wf0ByuPCS68HuFfNBhSYCieC8mMwwe23r_GpLLW3bC5a8NkNNG7z42tzu_gqlS3etLsh2wYeqaFCFZyyBg21wPDAoZL-2Ro3okQMTl0w5tuqEv9QRbprdTyV
+.netflix.com	TRUE	/	TRUE	1810704121	NetflixId	ct%3DBgjHlOvcAxKABBBG2klTWMLBjOznvCOdUVeLDucXtSOJJY1cNGdRSp3K8RzcqmJqRTRoryv318TxInZ0SJW0uUxEa8gnw0OSOL_UeMm1LulyVpcyOqF9NuYn1qe2kboFdc4oS9saWERpSz-YBKQ7NJaa65Z92y6sejFxsg3JN6kNS3uzXZempJ0vsLZKA-DA1dH4h8xcCRAi-Xvp-kEoJYWXAUvBEr_-tAz7jdbIqlDkcy1Db1sJDh9osxQFIudkREJou7D_NDijgGIqf1MzSRiEbJ734P6b6XbD8d0__pt-x-3dkZXERlnF6YYapRNWSAWoq_fupHq0zOWQqG-IzsH45d_uqofVaHovPnffzPQmItsfuumcpjrS22lEALTcF5KGToF24lu7rv7K_fXsvoXZIcVU4MoTYthfQhQesa5-BeRnMVXCwLXApwRjqXcv0gQ9WmNMHmmhcaDol1ZuAVveIWj2hLvjnWUqAddDXT0vKrr_Ec1mt6EpBQ40h9dR3IVuNnqzqpvpBMluCH18P-IfIlG-o_C5nxRlnPn0EzPRG1maGp3MELhEHZUwNVFssvzeul9i5D6kf7YvX7m0GDwAvKwuNTO5efVcvFF94KXHW40M54Ap12w2-ZVaPRgCbFVwO8ZI-o_Lye_tnm3X0RAadgGKck4gixxMuFP02SnVlPnwixoVTfuSGAYiDgoM2WgZqKKXhw0vgScI%26ch%3DAQEAEAABABRUoZS9Az2ZYlElMbK_qO-uU9Hda6_LXrg.%26v%3D3%26pg%3DS6BUC5NMGRD3HL2QPGXAUGHUVQ
+.netflix.com	TRUE	/	FALSE	1810704177	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+02%3A22%3A57+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33219cd5-27ae-46b0-a9cc-785ecbb94623&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1769539667339&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

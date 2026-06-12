@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ryan
+– Email: ryan_maguire677@icloud.com
+– Country: GB
+– Plan: Standard
+– Member Since: October 2024
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 2457
+– Phone: +447510410912
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ryan
+– User GUID: SOZF6N3BENCWNB5IT5GFNGYJOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEBdVwlS4v_e9IMTRrfJvnbNg9NZL0Vz3z_T4xlTf5z_4NjAERREDuMVkb_3OxBCk_po0q7zWQ1g2bH56WouHMIjIbmcdexNTQQNdeoxc6nVS3IDm8AxW2u6hhcuFVD6H7Bhvu67X5Et5z2uxnkq91ZMW
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+14%3A14%3A00+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58f5392d-ae14-49ed-a25a-0404e7964154&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BNIR&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1781798731	NetflixId	ct%3DBgjHlOvcAxKCBAWgDdAX4lUHydQuzav0-1E-CD-ULXkg50_Vnrj4HqPueJ3UrehMC2uakk0_P3_fSq_ZO71E5FdqMk7LuCDvErVmidHNV-ocl9vg88_57ozWTQM8dmADJDSli-_j6D8KjKVQsrqJ7WKHN6RieGQy4k96RPY6R1th-YbOq7JaWE4b5HtPJ5_tzw7jWw7JRVAI_V8Ecn53ys10lqELenCH70kcm6YxZdzipX42LAAPNqDa2SN7W8CvY7IPcyph0JdCr9jirwBsDliS1q13ttDBryo_rL9SgGNE6ylkBhoZbjLGXmLm4b2caD8YP8HLbBeORCjMDokDqXSzvDwdLwlfXn2ANaRifRXwWvo4if5aYIah9k6P0_jRM9B87bWN1ebMbmHnAr_K4Qymgaq1F2ABFrd-jC-IgJ-hMP8MpgZHVud-etetNdaoJNpq3s7-Qh8TA6R_xH7TimpwUx-lUpeWtVPUwmd5gXZogHbBe65sCJAIKlAk2Mz1iD7QnLQEhhbfmkS-bXzI0GJH4OOuXKNPBXJJId_ilqBoKg7yn6f5RwYJShZCfHgC0wDjmf7TpqZ8fIB1XqgttAc7FkCMcV5WCLbYHMu0Y8X7JlYKzOehkhSS8-8BdCoGbfi77x7fKcfg5eHsW8_IzgELgqPfd4wlKIPONMNb5yYITNma4rAFmG62IUoYBiIOCgzxDsK3RXoZl6u65r0.%26ch%3DAQEAEAABABTF4niyKTA14eliBns5TI92XWKoAtsvJWE.%26v%3D3%26pg%3DSOZF6N3BENCWNB5IT5GFNGYJOE

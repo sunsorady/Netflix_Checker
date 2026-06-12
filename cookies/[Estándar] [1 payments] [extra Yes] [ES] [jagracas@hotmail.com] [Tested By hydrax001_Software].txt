@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eloio
+– Email: jagracas@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: octubre de 2023
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jagracas
+– User GUID: MHYLB2A47BCQNLIYTQM2JL2UJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792432960	nfvdid	BQFmAAEBELIVIGHobpJB_tTv_gZj8xFgzgnltxmv25eP1lb9pPYaXhfYQDlHOxNUpSvWl31WQcKnhY0v_rKZFuJOM8ikb1t87Y8r9dStdwtGUu9QxLzJbkbM4hW97IR0Mr5Npj3cbz6h5IprtTUvvwNKGMGq0ac3
+.netflix.com	TRUE	/	FALSE	1800975801	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+16%3A03%3A21+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=309304bf-2f70-40ca-9add-ecc3e3aa0d96&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=ES%3BAR
+.netflix.com	TRUE	/	TRUE	1800975802	NetflixId	ct%3DBgjHlOvcAxLiA1mCW3gmoxnofsUbG5WJlqPhYFB_vHvKgjQIPO6mzWS-yYjAeNOkfxzsyvKw0wKzak-ppWDIR_qdCRF-ja0GZytuyOZloifClaF1MBd2ESh4xBgX1xUFHGyPgNjTOLtvhMHjcxK62gap2Jd7vWK7noGbxCCtv0w5lzmtGMkRYOLb_GjFwLJfmmyB3IHTxTZ1JQIJkQBxeKLfXNDF6PZc0x8JX8-ovhnzJWz0g5Y_vHU--VDj_i6BRNahErs-g6JBxgZC9rfYlDDONYmIfXuY6DsW_BAv7Cc-dcxy4S_abmEh5G9pZRlc1wBEK-XaYKfxl7jxi6jC-LvltLMzTpD2sQfN47xLOXkCFyRXVz4AOcxvEtKI6NCAceOJDhCpnla23O-yBuB8wrmayzzlXJb_57td9toGHhYtn-tjYDMsigyynnJXbLKjNByJAIIzY9vGsH33UHAnRvlMh3gsn9VTPWobLzqMgDWz1rtunhSqNDbezc7tCyaR5bORr1MoHpjeErhPafOuzMrxsx873_RRE26k4ta5XAX7tVW9Y_WViTHm4_UMoEWYe8IeyCL4te_8aX2RPTj51WgSO4kPwQHFSHrGe58NlHGObOTWrqcGQ8-z0Kr4BdOYv7zSY6UjPL8D-CAnGAYiDgoM2mTdadNMa-fbAbYU%26ch%3DAQEAEAABABSyA_FTUERVZNAUx9O4fzDQHyHrqnG7HHI.%26v%3D3%26pg%3DMHYLB2A47BCQNLIYTQM2JL2UJA
+.netflix.com	TRUE	/	TRUE	1800975802	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHnrvIe_-UR45Y3vxzBEh08e0KRmDrUrY.%26dt%3D1769439801731

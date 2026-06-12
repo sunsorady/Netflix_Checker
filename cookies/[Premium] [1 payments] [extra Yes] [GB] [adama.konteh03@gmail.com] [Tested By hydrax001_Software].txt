@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fatou
+– Email: adama.konteh03@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: November 2023
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 2560
+– Phone: +447751040772
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: adama konteh
+– User GUID: L7P75HKC75FDDCIGQC2HAP5BQQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796649092	nfvdid	BQFmAAEBEKbziwfO7IIOqz64Be5gsORgSeNf-wsYNvktQKj1d-rZIX5LNlq6ZWzWu42OYxjoi2YO_zOxSQMjsB_iRLtBWFyuzUCRPNjIN_J1-miKfHPkYumHEY-W6OTmDI-RBoLlJV1PZJOdfKX57GvhHxG2Ef7c
+.netflix.com	TRUE	/	FALSE	1802214465	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+23%3A07%3A45+GMT%2B0000+(Greenwich+Mean+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8cfcd0d2-711e-4e7f-a244-1f3e06135b6c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802268361	NetflixId	ct%3DBgjHlOvcAxLiA_J9BWUajR2qrpor7Q9HoYyUE-tCD_EoTRtc3AIWYZGBQRwJT7FTca03a48ziY2xZ6utddShGqe-x2Hpm8XL3KXHQTV9b2gF3bb6rdA1VOBbAmaHfKl9-yWkjyd9Tq5toQmZCgSemnOl5X5WtSAR_RX5ZLFGNgSF_xeK8jDl7bwdVYTs04IvkTqjo3ijVWzfY-Xr0CTZHvlIIW5r1Qxk2cZJ0DuyQKUPa-mHzSpkyjwawjwcqKsgIyBDNmerWFmlAHWCgORGQme6CUk618qv7hbti_PDlBzg7VoECHnwkLbkQSPHL1VNZ1z2aLl3h-vw3UAXfJh1QN0E4vH5cCC0SOfDTztIuj6qaQQWYOsJSvSxVq3f8ygJhl1-axqQjOTikj2zPy6jrG_c5cld8TEhNpNfX5fJbEAh6tgSBe63TjVnu4G-Si8Bs_XMguLx5mwZS8NLlSLrrUFFDXpY65uRKJb10xHphVNJ-1H91OSs5ZP8V2BmVs-qRq-LHOXws3YBe8QRfE9DeZtDmIB40EAw-ETVAuDQZknaXq9BXG2YZra2riUmpYSz69qXFQvSzMJZTPGWFPmsPCsgU75NNJhu0SF5XRR_RQ76VuLAfWfiRZAM20IB2kmv1iw4ANBjlaoTF_S1GAYiDgoMa69hKDO8-LAuHXi2%26ch%3DAQEAEAABABTcz91TLFkvYPVAg7_iFde0q83vUZwqA1g.%26v%3D3%26pg%3DL7P75HKC75FDDCIGQC2HAP5BQQ
+.netflix.com	TRUE	/	TRUE	1802268361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRW9aS-4RYc8KQ8QxIUzui-R18vojl63FM.%26dt%3D1770732360635

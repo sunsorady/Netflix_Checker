@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Laptop
+– Email: vella12287@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-28
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vella12287
+– User GUID: A57LXRR4SZCPLDWEVGWEK6HCQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800414222	nfvdid	BQFmAAEBEMY55viCkH8mHGy7eDnBYJJgVwV-n61Gw4xUVz-YGFK8Q8XB1Fys0wsJpv9ID5nsuCajisUJhzu0_U4wTxxGKLeMKLwyiYD9DZ7ot4nA4mUGOMZeQHu-LtakxkE5K2aqx3pyQNRqbXPbSwjiRWBD9dm7
+.netflix.com	TRUE	/	TRUE	1803919492	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AgeN2yy1ISPAEXPrarITxLAp3pjVqJ6ybhfn5Lw9MM6TD068jrtQDON2-UZ71vHRIcB0DTC3syjYPgL72xIB0m_uBy_pY1Jm3GIouOeiWyCQ0s7VZx6-NpoyahnzafDreuhXmYztXaHrd4LQBXohyOwcmFKUFk5YlKHFwkXuPPrgzu3NxSazAcmAh5DWSXkrscqyTkjcLdE8ajXd-1Ry_Qir9XHiNSt_l005qbpJIHq9BS5kxjE-h6nACDcgGcERNgOqegBTHYZfmcFCYtmpgb65wdDyL84YxZGh_fAK9Lz0G4ZdmA7bS-oD6at6K6FdnRbe35fMVVsIqt_rBSzMf8pizp8IYyKPZ3dlbRfTe42mZmVKgGXJkvjJPEhnsolFoOksaVIeNWF3Iyt30iFfJcFLKw7eMztBqHXQkYB9UiyFcm7dn4Z4V1R15PiUEgC2mgKNBLMOqXQVVcAt_MGm58mSyEHNjKYchGB3-BfxpITjuaBvpHbIEssYBiIOCgwEi42KZ6u-hPL_KGc.%26pg%3DA57LXRR4SZCPLDWEVGWEK6HCQE%26ch%3DAQEAEAABABReZvaQVuq8i_3dDBY0uUDQ3uuTIxn0bUk.
+.netflix.com	TRUE	/	FALSE	1803919494	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+22%3A14%3A54+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=739d150a-e078-40a5-9dda-738250d21d98&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&crTime=1768878129796&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803919492	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtrhJX26-UiWipmrRk2mVaKJFuHm3GzbI.%26dt%3D1772383490596

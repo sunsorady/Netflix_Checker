@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gianluca
+– Email: prof.sideri@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: gennaio 2025
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393337669288
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gianluca
+– User GUID: LGSZANKZO5E6DKN7KAM6VIVSJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784983745	nfvdid	BQFmAAEBENWnX3CAykC0DKpOrEoVt5pgCsYrpKyXTmjwh1861zgvSz9_wRFQn7P1HE7K1HfaiJi0HCr6tT8dp387Cai5krWyl_CYiHXxbUZArRXLrx4RjHtjsKl7g7Q1haBHOSFuK06nXI0t92JKrRJu9KRXyZeJ
+.netflix.com	TRUE	/	TRUE	1795521224	NetflixId	ct%3DBgjHlOvcAxKPBAxUnMLZ_oD3iSgfPbgN7k8wuJCtO4mOk8F2dhrkEH8ECLzPRR-7lYjI6firwsU6mj8lksQsYn2qwP1Yk8T50I3Kr_thb07-gX6s-VnAPZW5Z7Vw0ZG8LkWPpbFF-bH7Dp3_UAVvk0GAOWoejtE5fCOqA32gFnsvhqw9-Vg8yPV6QzwCpC9IGfBsPvwLSMIAJQVCdieTwb3R1evrfXnuWRRqwm2_ZQVrT1v4jNiHJBGnQTjTI4k4JQeCoX_IVaKzUYaR9i8ob9-GbUYex6poQcaXcOnem2vzSP5c19fVOkjF5dfIHd9VbKr5uDE5dhECcKJ-FrgiwzngIcQ0GQ8IM97gM76oAMjw13wbPazFKr8Gewvl65kVk_Y7EyKV014yfGc3vVRCsOdzRtJXdyti3lW-dYob_OhJxTqjrkuwe1I3hoaBQaYc2I_FwF7Y-11UGRpxeBEYbwkXXbxWwZMg1QyhNz2rhAWpfeZAInQY2tgJF5rPXh8YE_ALkOxMy-Ug66fqApr53zQpYu-r5CKGtQAlrjSWvVlu8MTJ_8Y8eNukebDr3zjEfe_5LiTjZtsp-JFbc_dESNC4MoVf-Wc4vB0ekki9WUfqKbkZvGQpp7gUVZjDfrrT0bb1HxU-57B06j1oCMDhLpVF-RHKYgzmHtX2nCUStqR7r3QZ849gxrNwvvDQRYiQZeSyi1JTUWg4GAYiDgoML9qd2up_Ay3yIWIS%26ch%3DAQEAEAABABTaoXwqhCDtpbjI3biv68o9Emj0z7FrqGc.%26v%3D3%26pg%3DLGSZANKZO5E6DKN7KAM6VIVSJQ
+.netflix.com	TRUE	/	TRUE	1795521224	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8o0p7CMtpoXz-aitG4aRQr7jjZFgTIyU.%26dt%3D1779969225334

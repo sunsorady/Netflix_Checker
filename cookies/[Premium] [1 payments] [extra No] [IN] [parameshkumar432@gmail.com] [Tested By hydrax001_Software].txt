@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tandung
+– Email: parameshkumar432@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: June 2026
+– Next Billing: 2026-06-18
+– Payment: UPI
+– Card: N/A
+– Phone: +916362024581
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tandung
+– User GUID: CJ3IZ3ZVJFGB5JDECVTAUNQKFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805043563	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA4qWqYPjhLWTo3kG33savesPoGh0SPGj2F_gJelag4qac5dOn1wR4hWJ2T1f1rUF-xFtXYcLzqbbvl-xMrNpb1MB3ONUHhaQzlYRHfqkLEC5W64Anmkk79b2d1a_qEhFNBlwfb60JM22G8YaDsyTYPfBNNjbEKhLzyEzf0m37dH1Ef9m3zJVhdZt78NLFWMFNCb0cPhixWf9dfUrmu8lPLfKk3H0tZ_U_uUq3ADwPbCwaw974371en8t8hTHvKmWZmwRhbusmLPbDkW67WtCOqShHDbHisQ_dGrKztBSvxb7YR4S0JpHbBCGfT9ZiGapv0XndzK-vFNccSkgBbvHqVL1_c2RuUiSy-wEwekbk4zk_kQ0NVUdIklzwxX3QZTz1vvHneZNx6FzfU1SJhh0IfEh-Ffwr73CG9YJheXWaFSe-hhaXakpJIO9NfUi2SKdDyyK-TdtNZ1rsNA7U0qv3AdAOgfLnMgImyLJXBQGjiOcV3MAtwCCRJGoQEBAwRrEEkBxGAYiDgoMtGzqilEPw4DDI02V%26pg%3DCJ3IZ3ZVJFGB5JDECVTAUNQKFI%26ch%3DAQEAEAABABTkDu6Epb-TxZpBeKWJngOBm_b0_otK8q8.
+.netflix.com	TRUE	/	FALSE	1805043565	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+22%3A29%3A25+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5785d3b5-0fc1-4605-b8b3-eda8eac7250c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773507449161&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805043563	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNmSbU96ekiUbln0ALMo8jHGxNFhsNchU.%26dt%3D1773507562989
+.netflix.com	TRUE	/	FALSE	1805043560	nfvdid	BQFmAAEBEPDK2CNMkIG89vrrEiiutC9goauM1ITTxPaZny1kJaq9JdBI0M3N3WcbUNFdsmSkiQNvi6Zj-uUvMh8sNx63cLuGI52ElbPDFDfNH4K625qsPnjoNe5_tChGqZ3sj0qx1FzCx4UMzoJL5qEI4FVwLE2U

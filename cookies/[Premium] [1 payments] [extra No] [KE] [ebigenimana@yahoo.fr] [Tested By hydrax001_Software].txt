@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kevin
+– Email: ebigenimana@yahoo.fr
+– Country: KE
+– Plan: Premium
+– Member Since: August 2018
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 0337
+– Phone: +254711636737
+– Quality: UHD
+– Streams: 4
+– Price: Ksh 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Emmanuel
+– User GUID: KADDB6XA4ZFZDHJRM25DB6WTI4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799331338	nfvdid	BQFmAAEBEGmDbWg_KFebhNOx5kWJXttgG4ZCyRUpNRE2CZEYjDbtQxb9lNxw4PXM9aIXaa5ziqK2G8PswPLME7cmeBD5MXD0vAtOEUx8pTZm5AcEW22TeA5cpfdh9hktWbk_A7oS_cTQynBVRozBfMCq8QSQd-ve
+.netflix.com	TRUE	/	TRUE	1800562531	NetflixId	ct%3DBgjHlOvcAxLmA60Iyc-tbzGl6zhl7UmKQXZUXxi_vJhYwT-rmW5Rg7H7fxrsXkufSmo3wWIodKK47UYVwA7buMBZAe17Q4utUwj6VIC_512MYJ-w2Hj7b054yuKUUwRfq4fekSjgAFATbhzzFa-uSjyXjuuFX3VIijyvPL3f633m0wp0cczJgl08QJppqPQP_kzV4uCELVyGbsTjdlLrEdeT3Sef-7k2p79Q9g0X1em57MWDczeicURjSz2vBKOC5e3kOf1NQQZvqMz5ofEVNC9NGBcFPrf2ik0zGNkkdMC0alD6DgjCixQVy8nIeMzQr7ORnmMXKC_sARw2s-HARBvFYaP10ubNfeott8Oui5oAsHpU7eH3z_kZqFKUlhSUFjQG_ltRfPEtuJYzzZRu3P_1j-_jiO04q0BLn2gGiotylpLaBiNOl44iOf3Y8AYpFipLudZZkPgC342sE8_vpzNTO7ZrHscZLCOQ80ME70V6hDDrqH1GMMszP-fcwyhzNCW8P6nvbNCGn6a9Exwj1QbJ_-s9TsaIBhS161MFtjyDYB5l6wlartQ10_dcxq7OioW49cZ9Wl5nsnLZ5B0iMBLcPIMibR9BGUjegoiIC3Gay8McN1n8cnz5DNbvmZkxkgekvS-Drn8NcgDQiLjJ5hgGIg4KDKmJpIwHSDN25lVWIw..%26ch%3DAQEAEAABABTIydiOIp2NAzWjUPIMhSEz6rTOlT_JJSI.%26v%3D3%26pg%3DKADDB6XA4ZFZDHJRM25DB6WTI4
+.netflix.com	TRUE	/	TRUE	1800562531	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8l71_-EP10tSIUuR66Lc1r8btI3QOb44.%26dt%3D1769026532626
+.netflix.com	TRUE	/	FALSE	1800562638	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+23%3A17%3A18+GMT%2B0300+(East+Africa+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b3c45545-3df9-451c-a820-4bd6a0d562d0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

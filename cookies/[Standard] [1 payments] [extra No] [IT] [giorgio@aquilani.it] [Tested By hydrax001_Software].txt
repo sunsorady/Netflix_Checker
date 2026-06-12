@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Beatman
+– Email: giorgio@aquilani.it
+– Country: IT
+– Plan: Standard
+– Member Since: novembre 2015
+– Next Billing: N/A
+– Payment: ITUNES
+– Card: N/A
+– Phone: +393484863003
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Giorgiog
+– User GUID: KRKOF4VUE5CTXB7MFRPWYZHILU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788477281	nfvdid	BQFmAAEBEAbJOOxEKJUh0TVrcYUBjvZg0sm_eA43dfZdPUMQhPFSrx1fRObCa9Q-gknuKEmygQiejiMdjjGRqbCnbAI1KFNmhZTnoQQJzD4poBcTu-v9Pmd4wFIArp0ryTflOzrc98TF9xzSGMWW0H9LANdMnb9Y
+.netflix.com	TRUE	/	FALSE	1797087629	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+12+2025+16%3A00%3A29+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e0702803-d9df-4d1b-92fa-a0ab3527d727&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B62&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807732439	NetflixId	ct%3DBgjHlOvcAxKKBOOeFKPeTLs9fkDfmTbYchNLdXxPGKJaWhLNGCQdUneVa8G2b_6hMCN0kafDxno-D4qq76wFKiiXABh-_UQbfOexygvfCWV9tl5WTH8KHoIjA8XpWtPkoruLsoYMSc-fJwMfl-tUOIjC3yNvW8ta5EFyy27-FCj-XZxfKYmk2I8vk8HlTt-yzfwnDo5gXd1fcCEBiomBzCUwDh3R-hLE_qrf_tZGSHb1hG0pu1oj0eogEaDNqnDj9PArb_eNA7reZ4Uzf-5C35PQnJWB4H6UBQ6-fPG4kzYy3o_kskMxf-AAA5TuS9pc4I-tFsHuEw6DN9r-ZWpTiCPIuWpzSErYABupw0BSRc_2dYbZHEsnv80Uv-X5SNj65ek4LVbhTunHOn8auEW_xWKbnvkzVKr8L677IgJw0YjGkeLSv4lmwdnkb78ixUN5qeNgXvLCIH_MdSSSxujV4Yk7xlj6nM-Hd78mEXDVhm_XKsUdoyWqmGKbwCunyT9dP0nulc5Agg4gPJ6I6pnsNP_KebBdmdRKDDWg_7D9_It0loWSQfpwoSEE2c8yCGkHN8CDQc3PuCRl8uDAcps1pTs3v3LP-CO4LARoB4xC50g_-vox3Xpi523lva4EPm11gvl2HELk_mLcHmEKvVwAeK-Me-SzCWjAWSG-jCQuE_FiK8gFjMYUQvAUdRT--GjSpA7CTBgGIg4KDKkVOYnm5TMY_-sjZQ..%26ch%3DAQEAEAABABS_oXiXtb9tXscVwnoADsHvWcdw2Qw4KlA.%26v%3D3%26pg%3DKRKOF4VUE5CTXB7MFRPWYZHILU
+.netflix.com	TRUE	/	TRUE	1807732439	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcgi1xvMx9i-2ATopU6huoblLDb7p-lg0.%26dt%3D1776196439100

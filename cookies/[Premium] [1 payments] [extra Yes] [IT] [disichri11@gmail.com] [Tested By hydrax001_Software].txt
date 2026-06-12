@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abduì
+– Email: disichri11@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: gennaio 2022
+– Next Billing: 2026-06-18
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393279859034
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pistolero
+– User GUID: H3TK7NLHAVAQLIIHH7KHDKCI6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBECrgCWEEFTXOFSyFDPNrKyRgy4w-7x1q2LBKvc6CgCeDCotfwXAEB6Z0ipT_2JLYp-IUajP3oAUNcRwZxInElB8mdukbmXoDJeUBmamonGkvUQm1BJqti1iMCV8yaxDwREswhbZ6f1jMNgeoQ_L-myaC
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+17%3A22%3A06+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f9e87cb5-7514-4d0c-ae31-827e9fab08ce&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1771627628349&geolocation=IT%3B34&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783551686	NetflixId	ct%3DBgjHlOvcAxKEBHjkJ1NxT7p4EGhrbvfsIF6kbkapcLWWFwiQdLB8weSB56h0UbO9I7tVKbiH60GxG_50EkSeBk35dDzq7C7GReD-PYaxFtddjf7LJeIqWwmKAIkB11ADOZcext3qRiPCJKR_mBQLK0KwS_ra1BZXwxfEFGSytiXAbUZ-PWPnHwrrHFvabfcZp1lAhlWt1sxfuxLeF35pHw1SIydyX3GF7rhryO7Ef3I5mablBSwnw-Nl5aPormofhFINIiacpPWHQ9bSU4xOzjR-WAJRqE3cANL5xkXGTL9855PZmnGbS-fYDfsRwXBTLIZZ1vCgwbsjbOKe5MKmeO6EzqdKMkABG8LSOTE1tLP4-AqwRjrG1r9gvNVMk0nOX2LzCai_n_ea3-4fXuMDUVUVbFyhkZPkihqyaHC92fPlKWiRjYVdGRIbUStf_6z7D1lOxbcigQed2VP5Q6ItwfSmjEqvh38oQBaExATPKLWPhe7Brkon0qTXkdsiqIe9Nw7o1A_7AL67EfKsNEZYygi8igZmQtFrbTjP0EOWoACPtJy1H8hRGOIyOqSTaocerjp0mq2kOijpU0SjVCawNUlf_aQZz7HAywO7bDsfWuFwCPSh6p83pl1YzZe73TiZBbpjEpL6b7XZQeMiQ75UG2vfu3bd8v3iNBNRZukM_u0_cGLb4pTnLsjrXw__ChgGIg4KDC-sJz3hAjWmv8ouEQ..%26ch%3DAQEAEAABABQ-quYVxzkVAts5Itba7AtWJWmYMfVon7o.%26v%3D3%26pg%3DH3TK7NLHAVAQLIIHH7KHDKCI6Y
+.netflix.com	TRUE	/	TRUE	1783551686	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpb9Qsqzdj-RVAT9JEXSm3PM4o5Xe4DHk.%26dt%3D1779549120436

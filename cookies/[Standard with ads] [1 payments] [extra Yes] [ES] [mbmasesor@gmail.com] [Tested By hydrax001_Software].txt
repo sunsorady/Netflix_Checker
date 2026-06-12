@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mbmasesor
+– Email: mbmasesor@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: June 2021
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mbmasesor
+– User GUID: HV5JPTCVYVGV7KQWGW5EOMCRGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809015899	nfvdid	BQFmAAEBEN9Fi46kIMFqD5bvb19MlYVgGTcFf7v-7v4T7kqn8ToZCewyFq_4RJJtL73pNMFVWh3D5oBOdWzI-mmyuyHRwOnPco7BGQAN6lDpjbNJ4arW55K0px-55xTnVf_iSVUt8NYTAZxFXUgeH9p0aTioqHX9
+.netflix.com	TRUE	/	TRUE	1809015899	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRj_hdN7ShFpnBxSLCnaZoddatcx1S6cY0.%26dt%3D1777479900012
+.netflix.com	TRUE	/	TRUE	1809015899	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA9jSE9orTj0zUgke2uc0BEIzmDBBLB9xg64N5JmSwXc9RSm0JuNube8K9sE68voZRnW0aILUnikRSBUuCLBEKoPfNQa_zmIrMatcZeqB_WvDzSxy6UnBcAm22aP4sTyyAmPLorsGyGug7QdRkjzx9QeWtabxwIvSJdZB26plNbzY5MYMChzzR2NRPIhnSSbVf9ygHiFPIbIdEOTgokmux05UpXiRW19JV93aDbp_LTYJqmVtKULQbQ8fRGjeO6684ocvt6XfAJRxPdBeH8hZP7hwCy_6zszc8z98Zx5q0_IBcTZjrpBtvIc-n11JXkR-2f-7Ilg0VwYQuhlY9C7oQd13dMA4mdkxrdgY7VZOBzraMIPw5UefYdD1SZEqsqHuAfjFs3KFFmjTiWUzm5lbPV4rbEEdW7GowTvjwn-wjTf6VvKiC0zRDt8A-rmm5XpHNQ03hT2m9l-FjCYfYcgPGU6BjatAIBIPD0Uz5CymRKkhkzQFs0QfAllRzWiQTkRa4715UayDtIBUnBsvOvi2WRrixgk2MVI8GvvLVBVuGpLUeSsfBxgGIg4KDJtKnVlmAYTPP7sbPw..%26pg%3DHV5JPTCVYVGV7KQWGW5EOMCRGY%26ch%3DAQEAEAABABTQcWCdTWX-0qAJL64pjcEdfuzLUg6Llto.
+.netflix.com	TRUE	/	FALSE	1809015900	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+18%3A25%3A00+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=df2a3e45-7a52-4d83-bdf2-58f9c7168872&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1777479782409&geolocation=ES%3BMD&AwaitingReconsent=false

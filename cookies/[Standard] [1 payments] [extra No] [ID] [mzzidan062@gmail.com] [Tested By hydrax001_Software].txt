@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zidan
+– Email: mzzidan062@gmail.com
+– Country: ID
+– Plan: Standard
+– Member Since: October 2023
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 3003
+– Phone: +6287735615623
+– Quality: HD
+– Streams: 2
+– Price: IDR 120,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Zidan
+– User GUID: EQFJEOLPORE7XJGQ44U522MSCI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794107723	nfvdid	BQFmAAEBEAdmhXCQnCYH6MqmQCC6-Olgusv6i9q4INf6hEHMvLGhP3S5lYf9VOhnGO5BQqQDPgqkW2uhtrMsAqxBsiVZxvUFPq1PLfq0VKdhNSmIMNedebxbyn9FTZaQUS4a2zhCul5-UZiIqwbxF01SJItw3rex
+.netflix.com	TRUE	/	TRUE	1794746120	NetflixId	ct%3DBgjHlOvcAxKfA1_DJzb7pdL7Qa8gYRCLBGM7kHSZ9ZrrU5mSfJSkYwdHJbDkgZ8y67eTEKQIkD-jYhkCeD5uazf0Ba9hAV1Lb7dQVTNiO6vei7CC--A44l8mresGBR6LoSiE-kB912Bi5gZKpSiPj5My8q_udOOoJXftsmDNq-sQREJViuQXXyEq79ff1SOMErYYofc-pJa7piPHTxh24r_G39Qw3G6V4urjqTjtjUXCzDSFBGq8E7zSwIo9WoDktdjDRwnSu_zBAlHUz4ryhXsVIygrTfQJw13A3gl7g8fat4rChCyuYdjB-1bo16i7vRkOqFA2nKhOvJhr72ny-SZA3kfl-DExB8J_ZzLNo50JtVZNn9lNxlRNE3zkRS5vm28tbsHwX_1KieVTG87Ku1Qxe5LX0nwmNBXcc428EEDNWm69YTwj76wV0F23ek1bAbIKSqKjfw9b4GpD8czSgIzBy0v15gBNZ3Gzuz4OpjPihL69cYVQ8aWrm6botsP1XTUCoTY3ogJh098RUs1mBhny2X0PYEHghc2e7XEcu_Onh-pE_AGVvp4YBiIOCgzEug5debZMuwA6yTQ.%26ch%3DAQEAEAABABS27TatZcVls8FULKUfEW5_vtiXdsKL8wc.%26v%3D3%26pg%3DEQFJEOLPORE7XJGQ44U522MSCI
+.netflix.com	TRUE	/	FALSE	1794746119	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+19%3A35%3A19+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=61a7f9b7-cf77-46c9-8dec-1c542e8b1faf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794746120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkvjOoEXZGZQlL9RBprcMbK5AnDyacGEg.%26dt%3D1763210122360

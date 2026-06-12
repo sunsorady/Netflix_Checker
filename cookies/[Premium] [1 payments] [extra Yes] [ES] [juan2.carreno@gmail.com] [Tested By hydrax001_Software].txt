@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oksana Chorna
+– Email: juan2.carreno@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: enero de 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 4037
+– Phone: +34616309563
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan Carreño
+– User GUID: H3TG5L4NHFBEHLNAE2GFRFZX7M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805045283	NetflixId	ct%3DBgjHlOvcAxKHBE_MBqMycduN4ibLtwHPM5K3XrVP4XJ9Ehef6drIrQnOd5MnWOtzcaO1ChIqCvPngylklipF2LLxopg3_Om1NZQWjgYNVocRf_SOimNJ0wP5wtjeW0H6SEIRkG2e6Xk60KvMIm4h1a_N4H2lwKe1_R6Spx415tn5MsyaYmstYYNUCR3ueUD0JsO_4rE5zlmISLCUZGOwiXuuE9MaFYdkb8H3wAs6MIZbMPRDvtndCtJiw_JUWnWT099koLi6NIRi-XiAJodtn7SZcWrZwUtICluHDOQO6Rt6g9lrhGJQlrxvJrlnyPLqFpOxCcyQE4fKHkztfeQ4m1HXtrbVoel8W7x0Gz8LqZS_TDJ6EGPdNlP_7UKu-mS9vAB59Jsqm53LDILenE5z1DlSvkWp3bK-1Fwd54eDZM_NawWOquMmdkzMKoEjNgjlCumbXWt5l-_r9uXLPRsivkZpADsHrBzi5mWg9pjbrXxPUq3WW2EhgpbV7Q9O5M4nutyUCNCLoEA7AhhsaTXsptZzm7NVvAHXbIvqJmsrcxwNc5rw2vHA80zk4FCZWRjBqAIR0qK9eY7Qxo7xSC_lYk8lzSq9GXNXLx-GvWtJDpyWCNowbWFVUYpDpkxYwtG5k7FDleRAawzt1xfiXss0U5_ZpAh_YEXyU0mmUquAbaqvOMoheP_Xv7vFK1-aEtuDPRgGIg4KDF7DceKEj3YKIoEJlA..%26ch%3DAQEAEAABABTggxxI7FH6ylp9QADgN9iDgK4w9QoyjJo.%26v%3D3%26pg%3DH3TG5L4NHFBEHLNAE2GFRFZX7M
+.netflix.com	TRUE	/	FALSE	1805045290	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+18%3A28%3A10+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=90eef4a3-e3c9-4706-91cb-1b5201ee0d8e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=ES%3BMC&crTime=1773509290783
+.netflix.com	TRUE	/	TRUE	1805045283	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFMRCCqbed4nMXkIxMrmvxMLcpaIy6dWM.%26dt%3D1773509283787
+.netflix.com	TRUE	/	FALSE	1805045283	nfvdid	BQFmAAEBEEn-HAsZSB7KkRQiZ5cucrFgLorhDs_o6UdJmRiw44g9tSzjMGo61X9dQLEc8mkezARoG_pMFTPlIRCapwAjBz0UBCD1Ckv8LTnufNgKSYyi6li2dktYimnqsCyKleywoSDPpy6o8FJNXc-UiS5XwHRJ

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Elif
+– Email: elifpolat1599@outlook.com
+– Country: TR
+– Plan: Premium
+– Member Since: Mayıs 2024
+– Next Billing: 2026-06-28
+– Payment: DCB
+– Card: N/A
+– Phone: +905383623246
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elif
+– User GUID: ARMVOTU2AZFVDLOI3KTKGQWO2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799160293	nfvdid	BQFmAAEBEPtpjfSvbLAfx0nHlMoJQy1glNClTW_wc6A9PvqPKfldv7eJHItkC4HoVeoT8wfgAIbInZD8nEoSpmdBFCkxsN4MrLnW6RynYs4BT01ffaR4-lqgQmWEuqJ6FwTZXLvhY6KPS5u3heDSyvnURfdKvVAH
+.netflix.com	TRUE	/	TRUE	1807901664	NetflixId	ct%3DBgjHlOvcAxKuA_v417-sFGk0puu1c1aLPXdRoZDQPP5LYGUrXAf1UE3R29XS9DXBgmgSrypuNQuqZ_tJByip7c97g_nSowWmdW3uE3KgBOtEXzWfMSYPKmg5PBMjJDZa5xiSO_XFwaUSpMJ6dWtIg9OluAmha3X45lFCZIcew63eHsMFPVoqPDddQ_AUjiffNrYwf52wMAIFh7GK5enVPAAWjNSDy80VRgGKwMR4GGWklpUhN3E94ABnaRVYKHN0EOLL4948uicOrEceetVD6FnLF5PvY7Jh7Gp9pyZjEwPlnPP6vQ7wmzzpkMryQSdkeiAaQTOLepdGS_bAbNJIcAi9zKO3eqX3sCbylH7rcxWdCMF7YTg1whxbyAskWfWUNAy-EbeiQ-KDcLyBTc93F9BvrpbSdbNj_0982mHhLdtNcg_c7R1FyjhS-m2t2P3yDNp0IPl35Vw2_Y8gZ6Htn0YeC7_AAfurVS1tBafcUny4EyixukmqlydflrhsC8RuZVuOQ7oC6twBadVTdHBTaJhbt0R9eb2DjZ_ksH-aXy0_RgXSWczEZV39e7fLpAky6M6OfIY7OhEYBiIOCgwWkxAzv3T2rpnAIz4.%26ch%3DAQEAEAABABTsAxuW2T4TLyyPHDxFY92va92X1pjr8sc.%26v%3D3%26pg%3DARMVOTU2AZFVDLOI3KTKGQWO2E
+.netflix.com	TRUE	/	FALSE	1807901666	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+21%3A54%3A26+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=861d7d4d-8208-4f3e-bb83-7ccea2c4dc89&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807901664	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOkYuCjjeesCGSyIOp4wVORTYuPmcaJIM.%26dt%3D1776365664658

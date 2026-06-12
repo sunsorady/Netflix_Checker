@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Daniel Filho
+– Email: marciley.lopes@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: março de 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 1772
+– Phone: +5531992160314
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marciley l Almeida
+– User GUID: BIET3X3XN5HYPFIDCXKXNHD7TU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802745597	nfvdid	BQFmAAEBEOBb4AAUPrQNyQODiiS5qIxgkSOOacoWS8_reQBbsJ3ifKcoUTLcPuNyIUh1xAE5pXbTAIeRO1ac3gE4jXLH7qv0knsZgJC82iNqQWS6zVXDXRZadtRPe9z7Mt1S7WVO_IZgTuUzXsw41F1ExIdsw0JI
+.netflix.com	TRUE	/	TRUE	1804552871	NetflixId	ct%3DBgjHlOvcAxKGBKalYWgLDNcD6LeKtbsZgsCzTuZvtb7i0vl56tHynrU7Oe1BapVP-SZNNiXxKwCcDu48ieqCd3pN7K6-FyLRU9f61voomwoMY5nUVKgVXDMNIFd-mo51u6gYN--JmGOn7rFoIsh67n2RBjc9hm3ghNkxsjSYXoMARXnr-rfiHiL96rH7t_KMdWghgHRe7XuEQ5U_xTISk_7tb1uWli8EjxX2czpgQpXTDBbKQqBa72eOFqCsdppgu2uixZ7MfjPkcqZeSLDRciO2O63pVGyvOBVbUqW3yCVeM6Xu3YKYPATTER95zIeWvgYEI_qvTYGsoRScvcfbJvnk5WQUPyMEOgrVPLihKwsCsLnwjIcB2oRFGtRE8DdVKt_MtUcfoaX60D4WQ5cdaLUitqDhanideuN_MaxKOXOkHJQ0nRPwZJSpDZvCOfj6oJufjga6HOtJTvQF8SQVo3NNJmuM7fJfIx1qfScKmo2IdNtvvF6sdi61H34_A8gDDCJ5rYbu799qSOuUXuo-qQbUZFzpjFp5jais4j18sZTAensMihhFpBSQHus05FIT615rTzH-p5_N18-usKUPJtiDPq0s3TqK8xihvEmSLarKUAIVGsXD56t9jQgrVVSUBM8_g0Gb1oToxXa_SfQVCM3Rkffq72ET2Zez_cvq-nmZdXMNuj5uCCcmoodzN4-gGAYiDgoMh0sVawg5tG6dQiln%26ch%3DAQEAEAABABS5ugM3ZC-RxAKLBjeXvpub9-gF2bm5uFQ.%26v%3D3%26pg%3DBIET3X3XN5HYPFIDCXKXNHD7TU
+.netflix.com	TRUE	/	FALSE	1804552871	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+21%3A41%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88579f37-72a2-47c9-befc-1e54eae30f25&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768768233129&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	1804552871	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQUFH2F-iI6Nt6nKP1NIj8C7JDfM-MFYsg.%26dt%3D1773016870077

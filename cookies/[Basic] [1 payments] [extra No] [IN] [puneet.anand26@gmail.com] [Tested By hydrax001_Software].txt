@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rayna
+– Email: puneet.anand26@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2026
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: +918899251831
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rayna
+– User GUID: YAT5OK6LUNGDNG3JKOMEGEYSZI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812201060	nfvdid	BQFmAAEBEKAvFHiJDcAZ8R6vjYA-r8pgEvUFxSKTcm4PnMcYQzUfirLdrfRaaA6YTSGznKxubySECr5dVTpLINlxPZPWsIB6iX1epJwgpfMG2ViAmNRa0vFi1CuFm5XasKwzePQT5ttXr9UvODyTlmVeYtOy1D1x
+.netflix.com	TRUE	/	FALSE	1812364857	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+16%3A10%3A57+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=25f880f1-0007-4402-9afc-5fd12809dbd6&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812364855	NetflixId	ct%3DBgjHlOvcAxLIA7KkTm1jtmlASEcBAiFtHDa5WCBZQ4YQhjyzis39bzohVNmzWpzBRNOKQ94076rkiegIRPXyRP8Ba6Pp_900li9Xi1AO0JLcVxTzY0y_rcEQxe11GbZjAFU2kvpmjXWP5UHKDpzf5RIRZwL3vNZFpy_2VoApRUxA6VBPJj0VeUQOZn_oegsFJyMl2z6P3Rf6zq03XDQQ_kqx7aAgbuE3DAa5VtQ0XrM-lM3I2wV70vKDyEJyivUNArXN8vdIO_ohCUo7aOxLqkSvfpkzmPBfvK8-OuU2eBrK5IzowOwYoVc3WOphb7YfeyYD-pnqglNoaVh4jWezu9cg7xSQRWMZWCdsArnnlZc-T2llPjo7iO7BWnHETtDfW5OzoAg9pG9qialR2rD4g7uWRFGnM2yVTBfYAiiHWDxtNkbJEhazEir7U_R44SRRx8FFvwW7ekRgEQI9YLBBA0EPZiV8LdqU1PXCcSdu5RRnv-PYP_LOY3qLtUHSynsXtU9xZYKrpTDD7x6lqK9qnIDjjywWn9djsckILpXVUP4Kg3mNBaMhA8IAJIrmxaZ4ksZUDH7s3ht21wmPHrBJXtxJNX2PRkE4y--6KMogfiWx3hgGIg4KDAX7TVnyGj_GTYPAiQ..%26ch%3DAQEAEAABABQoL9YCP06ZvUep93ZZN4F-7H6gAljXPSk.%26v%3D3%26pg%3DYAT5OK6LUNGDNG3JKOMEGEYSZI
+.netflix.com	TRUE	/	TRUE	1812364855	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwJ51ig7vPBWy7sMM-F7W_c26OPHOJcSs.%26dt%3D1780828855509

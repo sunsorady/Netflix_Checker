@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marvin Pasquel
+– Email: marvincha123@hotmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: abril de 2026
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 9451
+– Phone: +529983534190
+– Quality: UHD
+– Streams: 4
+– Price: MXN 369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maria de los Angeles
+– User GUID: 4TAFZ6FLFBAB3CNOEL6HQY36PM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEJVTkqJgBUAguiIhIp7rNZFgylCxET_L6vgnFWTP-q0c_9lmRKUiDvNJ5sfiwyYFeSVTvszHPFDoCdVXO6LLmq5-Cr6IU-UW2HjlwGcKC0wXdtcLF8sTKIGFQX2w4hX0wrKDZwvxqBjWRQDWxWXrcWVc
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	ct%3DBgjHlOvcAxLuA40VnfbXC3qJi5NQN1AAdO4JclyKPCv0aUEH3s3ijG7qtI5uuJvqSWG3VjHR0Usb0t4X0HABuCEKg1T5LSTdKjlQqJox212rqXLWnjZIuvCNScODX7ouXc0DrJpvkgF_nowNxMQf9OZyEfkzPWZ5TQTAJ0xLQ_R_sLPQ1Y4ZibsJr5lhT37cxJgOn8B2cPzHB1mdPLzQ6leaTO6_IfG9buNY1-PEArDnGlnhiU4DwwskKY-CoY2-FgZ2UbF6cKr4caeknp8IO4CzLuSSpwOE-RGlUJeRpoKKBfMd7-EuR8084Esh5Ul_RoLUnXGQADxRhr_LJCoSVMD00Z5PwHRUBSrfLQYBsumW2o1JpXGZrsQCqaw38X6cw_l9fxaT1Cwrb89MGnGFFICPHGoZZvUbXssupwpmpYSJNIhttV1pwSeR4Yacv46yA4rIamp2Qip4EY9j5rPHHGuV7UkjPOeDbiO6cv5EwuyQ_PgtF-XY421qFg_dgjDCjPfnopJR9bcMRQGrUr3_sM9qDsopR6PySA3bKwGejhMOzZeEeOUGQGHwfHMgAc1UR_p8aqj7eWaYDLqhH_w8mshxhcVyQa4rsL-z4leqGwovU_rx8nzExDpPYhWp3v5RxQg0ISRCnIR-zbD8y3BhH-Y3zPx6F8b1GAYiDgoMJAaIdxxMNV7VUo9_%26ch%3DAQEAEAABABT6pOmc_zANjnk4OwZ-LbAjW97zdwocnIg.%26v%3D3%26pg%3D4TAFZ6FLFBAB3CNOEL6HQY36PM
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSBcASuzkp-zj8NUxj_rQwgXHpc_FYBbo.%26dt%3D1777117132745
+.netflix.com	TRUE	/	FALSE	1783551684	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+21%3A45%3A28+GMT%2B1000+(hora+est%C3%A1ndar+de+Australia+oriental)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=868eb10b-5fec-466f-9ebd-556b777a0608&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=MX%3BNLE&isAnonUser=1&intType=3&crTime=1771762213452&prevHadToken=0&isDntEnabled=0

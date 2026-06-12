@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mia
+– Email: korutytto@gmail.com
+– Country: FI
+– Plan: Basic
+– Member Since: tammikuu 2013
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 6697
+– Phone: +358505717600
+– Quality: HD720p
+– Streams: 1
+– Price: 9,49 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kalle
+– User GUID: HV4COHJKMBHGPCEXGQK7RH46CU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796663727	nfvdid	BQFmAAEBEIKKLgoPuzJiZxIFBJd3rCdgVGByaZboJJWmG57FQ-wh0cwwcwqzaPRfyejFV3y9xiJ_w5THs6TK7JT83HpTYP8SJAiVJ4037-pHdkEGBzpyD5z_tbWeMcJjuBPHIK_T7TyDr6HXu58OjMDOAqpg-u9m
+.netflix.com	TRUE	/	TRUE	1799194356	NetflixId	ct%3DBgjHlOvcAxLeA8qzvk7hgntb4JaW5k9ejGsvNgZ7jYMKVJRmwgi1zjLrtnLKT-EHl7S7jjPT37piCjoTe6pW7QycBjkF1Sh0vuEk80YMYnIDV_jVmjQZGss0w-wVRS_yGX0OAwypOS78rm6KGvR9ffzg2FMF-z2a8fYqW0OThSB4uSA_naXr4DHbz6ExsMhQjor0IeyWbkHA3Pm6PMc8oCnpD0w4qdrxXCUsltIjS7Zw9SVhfoH75OdyfvBlY4-Jzj7K6qmV3WMtm0Fg4RtGkl9vGZJN-TS8gUf7e0iiwZW7zCS51pKfF1DC1brBFjy1caczmMZD9QD4kWYbqv_p_KltdoQSJa1EpinuqZ2T7ydO5pN5xB43OZEGv3GHmN9etyv4yVoGeNQi8-Hecbhev7ZSj3G24nCR2I7ZnkM2P-OYwpq-F8nF-234XEEitrfl2gHh39mU70uih58qxRIm8gp3ph6ZLCLslwm6BEgif0fZWbj7Pn99zyB0pqB83HYrhaDQMe67RbRyhb1JtJaFxFCCMAINzOiQodtkeH99hvRoPATRatC3miztRACp70zxLSdaVz3wOKxHkg6ZFKA5t5DivL1almAz3OOrBIPWvVgXQIiR2DUCXUISoQG7CVnJICDgI1FEz10YBiIOCgxsznD0uAzCC9ybS60.%26ch%3DAQEAEAABABQ0M4R0jiNJDmcVR4RQdxhSQf7dHgckDQM.%26v%3D3%26pg%3DHV4COHJKMBHGPCEXGQK7RH46CU
+.netflix.com	TRUE	/	FALSE	1799194357	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jan+06+2026+02%3A12%3A37+GMT%2B0200+(It%C3%A4-Euroopan+normaaliaika)&version=202510.2.0&consentId=0f6f8c82-f47e-47f5-9b92-63be444995b2&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&isGpcEnabled=0&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&geolocation=FI%3B11&intType=1
+.netflix.com	TRUE	/	TRUE	1799194356	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYB4tXtnaGStGmuzoSLCTd6ncKgmXixp8.%26dt%3D1767658356376

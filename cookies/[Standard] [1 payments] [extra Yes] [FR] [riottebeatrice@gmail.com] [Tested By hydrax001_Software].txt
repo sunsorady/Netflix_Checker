@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: samuel
+– Email: riottebeatrice@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: juillet 2023
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7777
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pat & Béa
+– User GUID: LBDMXAPEOJAS7BF6I3NMB7XUTM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786885165	nfvdid	BQFmAAEBEMy0uG1kuVO7sqoqTuI79eBgrniQLmXxlR0he4s1Lll0E_uAePZVW6FePksArjcaCfi0bKqGx4dur040_x7wavQ8P6T0behA2Waoi7Zsj8JVVgSDOwaBDGbboRq9cleya_peDe50Ac8P3HK9YAXebTyM
+.netflix.com	TRUE	/	FALSE	1809312930	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+04%3A55%3A30+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c5d4a62b-e79b-43f3-804f-fc45a7852137&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809441213	NetflixId	ct%3DBgjHlOvcAxKEBF76J3iTP-X7JeU94ZyfOA6MU3uJcWdq-mb17kZpvFQ60uJfmnLd6HYyA49qMrwjKpJqQt5D3fQjb6BL21eQV8RH_GxrKHUxTWCy6g_kW_oelFHX2mGp8b5oQXMh0_PvtuDw47oCYHDQDiuRPYt5vVwqIH7uWBVIcF28tQ6NwvTXoqos8SmgyxfaK8NUOYcLawqBLvzwVaKl4n6ahGVF8fDsEJJUPckdueJR9lVflAh8m9EpCasmAHdMNEGSmDfkkpnDFuc6ngHASX_l8e2bMMOZzp_1Q37_4CNRMfn9jdfPwkggrWYnPJRaD1gaSce9-UiB_EpLZx5GqxuADiGNfW4NXnOa4vvfdZg9fi0rYYXAbkTsll54cn0-AxXGqI_t45Sb-62s1o-5gIIVd5pTydCFdMrMWSSTZyIkJ9Ov1WuFDAlGta_G6KcV1XGA2z1-r33fdz6VXhrRHkYe4edoDRkdH2tIrUM2V9TVkaedkYDR8DJ_gCBEqS-EpH2RlHK5BiNBalaI0BN0XE3KmkYUPsoBH7kEy-YzICigslU4wEtvmY38UNk7WHAzDuiqwlAD5okeIy-fAHAcCw_GOEcowfC3deHXjqJi0Sjo2KgKzRiUVAhniF-hakmPb07Ve6oFaHdB826W1Ejl5FSaQHuajOOP569-ypLNktlGuzqTTijW3Y9crxgGIg4KDD-ILZTiupSK4l4lKQ..%26ch%3DAQEAEAABABTgSHvXmW12Br-CAw5DJ1dP80ksiPJpU5Y.%26v%3D3%26pg%3DLBDMXAPEOJAS7BF6I3NMB7XUTM
+.netflix.com	TRUE	/	TRUE	1809441213	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxbdY6ifg52R5fSPgrW2BnILLyMpvrSTk.%26dt%3D1777905213913

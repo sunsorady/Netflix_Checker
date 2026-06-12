@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Szabi
+– Email: rasztaszabi@freemail.hu
+– Country: HU
+– Plan: Standard
+– Member Since: 2022. július
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6472
+– Phone: +36305359812
+– Quality: HD
+– Streams: 2
+– Price: 4 490 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Apa
+– User GUID: NVFVLVL73NHL5D2BGDDUFYA2UY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787471825	nfvdid	BQFmAAEBEAizZB4tFVwTHT6KhSk9qhlgCnoCZyvojiETrGFdbCpyDG7IhA3y-1M3eMc6ZayCnR8kKdtyn6yBGd6YflIX6LecPg42MGchYRj9ttvtDalVb6Z_c8VitcW4Zi9sjW9ok_GqI3c4IgcWx7pZhcrDUoUD
+.netflix.com	TRUE	/	FALSE	1800259614	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+18+2026+09%3A06%3A54+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2abe87f6-1b33-42da-bf0c-f81843a2f5fb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=HU%3BHB&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801406274	NetflixId	ct%3DBgjHlOvcAxLoA1nxFRBm7hBdlk01aiUoAnuZ3HDm1ItkCRSfJQgFE2yEh0tKwkWHzK3Mv0KfIg5EpI_cUbQ15DJXJkSO18ywDX1yPd6qEUyV9Q2Pt6ZuC934QBZLMPt0ZePQU574hPlk9uXYeJHKQmwTIV_TXfFTJ_5pfwMqVBhBcHUxaxWC7d0HJa7AODnQNM_bnph6T4sCTpOLnzqy8op97EGqKWzYPhAuELN3-5A6ve5zG9C69BRJlA5BWAnSWKiiNIxMh36X70n_-X24WmuxBBw4RDSn_Jku-3XAmeF7UPQ6fz98rYGKDSJNZwdrUYrqPQuhedQH7hN7AAIo3gRya2AE_bUf_UaXSDtf0-acdxhUPdzcWUYzu_fH_bwXDvb7hw-II_ochqNgMniDqGWDOGZSqXqbPIoxVEy9DjEicEsyrB1-kxcB5nnrFnYc1KXHL6roUxFk-aN9GjpRCF2cWw-x7_V_MZeMZol2CO0zPAaudE4jWXzoKc7Aw-H-TRglthlgXKxz3RRbtz0qiVgczFWllhg_YuTlYAibRzBybaxcgt2Z_J7yAxZ5HPh6u4Hk4m0wMS_xSlHvljuGUikVPFxdupWOgPOiotAP_3L9jVBAoFXWUyfl8yKra2Hoos9YHtM0J986V3BWXLyawyy9GAYiDgoMk7P7iRAPfFS--5cZ%26ch%3DAQEAEAABABRv08_0omBRxK2SkCSM75H9jov-oZf1w8o.%26v%3D3%26pg%3DNVFVLVL73NHL5D2BGDDUFYA2UY
+.netflix.com	TRUE	/	TRUE	1801406274	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS-XdyQdGJjZ61NW6KEZ4H36i57HDwX_w0.%26dt%3D1769870273298

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Caca
+– Email: rahul.athankar18@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-07-08
+– Payment: UPI
+– Card: N/A
+– Phone: +917566242423
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Caca
+– User GUID: CQZWEUQ74NBCPHYEAJTDTAVIZU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807157597	nfvdid	BQFmAAEBEDjRi1cYSKNeGhAHNe8K6OJgW1hL6nauf6i8BKkeOh8BNrjHcbyOZaES4eeQIfEPL2UY82ovxf39lvz26zDghq4bB7FuPp9T7GaPilFCTzrQTsCvMFBT6d1VVo4vXlzLX2L8eYlGZOJVt2yIbzmoKgYI
+.netflix.com	TRUE	/	TRUE	1810221656	NetflixId	ct%3DBgjHlOvcAxLUA_Rr0byy8yBAfIgqpF7c3wqayCYW4b2cBsUgqmrW6wdsY9jS87B4ThidM6r85JP4hRtgHBhXji4gUILwbS6qqUhHjfmMqJ0WuBDdORkyuUzgmbLYLZ9vFbloKE7dM_zi_oxYraBg6LWM8FNlX6xBw40czQtCBVSrwl1Xd6GBDeMYuilKwiZp7NilHEqEUbUHIfjhB16_lliowu1cUeFVr2oufrMacxpaoytNeC4MtfyCmrL5HjyuJ307ICOBlaoV3znhKWbiStPE-BDGzFbole1NLXImexXkE2rSL4ZzKy1QuQNg9zJwPK7sk4CWmpMN1sibB2tEftghfeVbEgu7E0jju0nPwUkXihS5tDH04_kuR97V3fsLgHv9ddA6iuL7wJH1VEliu6TvRaAm56W66n2enXni_bnTQZAa3Ys6yTmbGqKJaeE4TPjTdIG3xM3pUOE5bGnRmbOq16br6PBaAEAzu66m14O-28iZW1EjZ4pARodIxbIlsp7ojwh171Ms2abMmja2Ae_KVIE9KfAn7onrWJdMf7TU6WTy67sxGNmVsMSnK7Dz3UlfuZ14urcJAQJ8ptD6GXIMwsGgrocCLC-oAk_ZTL5qgCuKk1OdmQZMjGTl9xgGIg4KDL3_5yQ9WLmQMSHkaQ..%26ch%3DAQEAEAABABQSPt6n2LShmPpebZQezU8hYYB-sz50Qjg.%26v%3D3%26pg%3DCQZWEUQ74NBCPHYEAJTDTAVIZU
+.netflix.com	TRUE	/	FALSE	1810221657	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+20%3A50%3A57+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1d14aaf-251a-4036-885f-b66a0171f0a1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775621709508&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810221656	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ5Z4Fa5RcUbiaMuUbQnsGn4AwWs5V8Q6I.%26dt%3D1778685655119

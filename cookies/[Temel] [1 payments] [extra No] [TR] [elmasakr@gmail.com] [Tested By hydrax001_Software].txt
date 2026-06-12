@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pınar
+– Email: elmasakr@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Ağustos 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1958
+– Phone: +905387824159
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ateş
+– User GUID: 7VX3DUD24NG2BFOX4TAXXJEKTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801330198	nfvdid	BQFmAAEBEMdB2wU8GH9Mditzpd2T_shg5qb5CKCtsw-Vv60FlIIidNboEM_GfznuOqO7u0V3OoqHxIgiiqDZUVwOBp6W33X967NRpY0Oi3R1Vpj4D-mDOK62NzW9fe51HXvOBuXk9eK_Z5x-LRn4ufTai7wbUwHb
+.netflix.com	TRUE	/	TRUE	1807916937	NetflixId	ct%3DBgjHlOvcAxKEBMTbBP19g7ZkDStdUnjelS81DG-Sfuopd-8ntlSZorX8vWruDYeb-dfBdPnKo928uccjdWvJxV6zHSYVB6QxJB7XgCEQAae9RvZ_j5dGZJDfUA9JGOY3rhPF5lzE8RmGkPdf0BGp1NX0apsvcMBue_1oAci4RZPFgvL-0cTUSO166Slu90whle3feZ-y2BT0IqdHuboq9E-LiOAEGbCtiaPpxGIOZElb3mNA4O4dL7yRdJNEpVDhltFrd77_WSdDZEoADMAANnXusHd4eANFpYo5BeqCaX8Rha-n7gHBrfxyF0OnLXZreZwD_6LA4YcRGaVv6KLpGqJx1qXZ790AM4M0EAFxqvotDlBa3QdF14METwf6oI-Ydbd925zemk0oT8KDpUVUQQCCo-EVPwByZLeBzXywkPrtAZyorS5yV25rQ9epAop4NZiwEakak3jzP3TA7fksaWuLxkNM-fP9bF5oXyajzWqSDqKZ6W3onPteB2GXiCoye2MihoSEBtffZod5768cdz8O71DsVrPcxCNMhU0OjCoNGso6YlSTHGu9KbXGNWVnYAvYY7uPNmx8ubszdLYbuPElZCPWdHNxACcNWc9K11ZdbsWnJsnd8bYuGV7zK86lfen-PUtp0LPLkX1Nymw-FubL_N_qoyH4vEXqxUHDr0umeXCwQH3-LfK2N33JxRgGIg4KDEWq8ThkZeTin3RuSA..%26ch%3DAQEAEAABABQ9N-_rNscroX-BIOf8IZZ-nritsNpFraA.%26v%3D3%26pg%3D7VX3DUD24NG2BFOX4TAXXJEKTQ
+.netflix.com	TRUE	/	FALSE	1807916938	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+02%3A08%3A58+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=41e99b9f-2a7b-4b1a-b816-9eac28345d9b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1769794164450&geolocation=TR%3B34&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807916937	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1jfM-LxCOQX7Olg9vp8r_XOHpOyPGRI8.%26dt%3D1776380936613

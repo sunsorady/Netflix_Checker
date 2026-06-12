@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pedro
+– Email: andreialuciarocha222@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: December 2023
+– Next Billing: 2026-07-05
+– Payment: DC
+– Card: 2977
+– Phone: +55998386535
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Andrea Lúcia
+– User GUID: UDF2MXPZ3RH7BHITT3PBSJOIL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808504171	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA2gZbwCxDEBJIhCgQkdHU2Bu5XKuX1jxEZPdhinE3EC0J8eg6ea3uIPS-GUv_w9YswAM_GIpf0nxW1kHvs48i01ypPAjCDw63cq7W2XB2JxhP5AIBgc0-6V6n-_5RIIKFwId1AsqcGtKtbOSvBxmhPoM6Dib1JfAfsuFH5VOCOP6F8m_sfUWJCuAXJwwhyBwZn0dZu-dsAaABUo711-G5vW8ZfkMy2vwwC7oxm6w-z9m8cMiNny3JXlL3fsgFjNV_eMzLq9756w8P-scTd6uAakYN-dO2rw0yqHUgkXUJ8GHY2ifeayWcylavqZCSFyyy2xnFjZITFB32GW-ROd-LuSoxarOLL0Kg9_P66qm-qf5y-o-FgsYj1T8FFwvctxxSJbRh-btnUMHRf5LhqU-cO7SRlG0__tkMbx6HarRF33GSGNkcgoPysj-pYwIQ0_YQzQNXvoTr1piBaDRwjTsPFGvmxWsuAgdTwhU2ND_SRcGAlamjeI9mA3YVq4psn3gXtj3ffdXyO5OrHC2ouwK5SdsLu2uGAYiDgoMxCMal52Wh9CpjlE8%26pg%3DUDF2MXPZ3RH7BHITT3PBSJOIL4%26ch%3DAQEAEAABABQTz94d9lycZlSIjXFcao4MMgWUOXsgIDM.
+.netflix.com	TRUE	/	FALSE	1808504175	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+15%3A16%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8af03fe4-83dc-4d28-947e-ada5ec883f3a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776968116744&geolocation=BR%3BRN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808504171	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQX6RUzydx-xt52JEKuEyESWUAaF0aXeZw.%26dt%3D1776968168537
+.netflix.com	TRUE	/	FALSE	1808504168	nfvdid	BQFmAAEBEDyGh0wq7lcjJK4DeHIeGGBgnnDZTit6xaLPdRyKYyk3sjLUi6aC-vBC6tSuGjwWwqEKPDfTtBoJldSSTiUoh-15Lf7vAzcrCpfy55uXkuBM9XXB7t3sQtCRnFQyjoxtnHVPNMmUqJgZPLoXDCBSXvOu

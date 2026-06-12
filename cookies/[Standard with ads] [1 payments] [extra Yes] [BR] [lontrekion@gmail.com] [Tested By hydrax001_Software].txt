@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lontrekion
+– Email: lontrekion@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: March 2026
+– Next Billing: 2026-06-20
+– Payment: DC
+– Card: 2052
+– Phone: +5511959913517
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: lontrekion
+– User GUID: 5VV73HUBMBC4ZO5UU23H2RVOMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805591468	nfvdid	BQFmAAEBEONJWa-xPP4ODeNUVXXRm9RgrG__HsBFGAC2qalUMDU0QFhM8oeAtzV1bbPng8pFgVPIevfg8oYRWSzJrRjV6BgQSCkZsjZDzJHd8-9uApfPkc51jiQlBO1i3cXxXfEki3rz3XAnSxZon2JptpYcEhC8
+.netflix.com	TRUE	/	TRUE	1809260583	NetflixId	ct%3DBgjHlOvcAxKPBAqpymUoNVWvJxtjE0u6a5LL2UZxLPzi2wXwD56sONnOyq3iLxKoiof1v8wERHp3bjZKZISdXbH9UtfTRdGEWapmuq0wXybgyKdWFcMMHSkLw1zDFt7hLhUVknerZF17vKZFx2dBl3ivanFdRj4Fa5J6TiHBNDmIPb7qnM7_rDQOQ3IfO1PSfO4kvX2d96C8ynpaufm9XGOJPn6DfMMvXhS5Iy7ufuHOAgK7jhh-Q93WiOR2nDjbmZXBr8gzenarHUr1rVq2PfELTK8GnsYmYElj9e-poZ4PfsSRyFJUF_2LwHdmf_E8ZS94efIGFa5lBR6DzPfL6n8Qp9XF89tM7y_f-9EnCROaJBLvDmwi05wl9Ylszn8_-w5bjtYNE2ydVvQMIrwy8ik0TkyYI_6AtX6iZtdp-xbxTVP11fEDDqsjYU0NrdNXQBr7ohk-bzkj5kemRkekXHjS-kSkBX-3XMCWa-tbFh0xjTmP4HDmfg4JQYNdjkp3ECSGkE1Q0ZfWAJPy8NfkEcPjULmHVtTMU9gbJRg8yb71szBkjib4b4QUvKYQUkrYZ9z4jr_ebiUzyeJzbZ2N7c2s7vmm_LnusZztm4AwwH6Y3f0VFRP7dVjQN2M7Ecmzvj0LXgdwyC4CAHjQEVRFzwWWnDfIzY_iT7CwZ4in7OPWD3-jtZR0_Ghlg4z7VFeUTNplNUPGxOLqGAYiDgoMYAOACFfZ0t9L2ycg%26ch%3DAQEAEAABABSjSTt2IOkEKfQcZmTaMBGoxHolkFGb7FI.%26v%3D3%26pg%3D5VV73HUBMBC4ZO5UU23H2RVOMQ
+.netflix.com	TRUE	/	FALSE	1809263054	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+10%3A04%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73c968ec-0ab1-4b3e-9e30-ec37d86284b0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&crTime=1774054930570&prevHadToken=0&isDntEnabled=0

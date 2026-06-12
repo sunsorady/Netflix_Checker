@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bby
+– Email: ilhambaruna0@gmail.com
+– Country: JP
+– Plan: Paket Standar dengan iklan
+– Member Since: Juli 2024
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 5371
+– Phone: +818080561191
+– Quality: HD
+– Streams: 2
+– Price: JPY 890
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ilhambaruna0
+– User GUID: P7LO32FAIVEH7EXMJ3IK6H7PHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786679861	nfvdid	BQFmAAEBEBlgRFjzJyUHIahVgSHtswlgbPFINF6ZjRmqwgG9Te18SS4FYUqWuguR13eW1rngwcZzuUDASO1Q3SgcGLk1YZs_mr6tVTn4ikYDLVmSHtG0_22QFzvh1FbK85Q2bGBaPLavXHxyAJuN9BiWzsVWumbe
+.netflix.com	TRUE	/	TRUE	1802479661	NetflixId	ct%3DBgjHlOvcAxLgA6ygPboiDOiAa140SVMnrLcizFvI8ovht6zaKobDHBrYQ5JblhyTUs0YgswAoCN7gJGHK0L16QTxxKABjkGNApD5a4eB-BXEsCzyJhp0l2dp_KOYQO_P0RAyIxVZc9fcC4ZC8yzyiQ4nBzTYaFo8rwZDxTd-Cr3nlTzbKT9cJbsjQ3OsEriWiNMD5ainjyagIwhqnqmrJw3Yq1KBh5jtmLK407tXeucYHitTUstypA0bRrGgR7T7ByVbD5F17rClL6VcyIMyag2Y7jekxodPkS8b5f_NsZq72WN43LuObNZxLHA9wTWYMfpJ6IE7tjZQm41cemNeJzYAYVrDk18V6SwXJTHD2TXb3ExNY1GdbbbLwNlj3HMal7MtgXKhjJOUi3rJlXQw_wtpUXk6DTb9Rt5_qXHGuiYCZlr_QlliUR2zBwb6jl31ez50EiW70S6-sHDFmYgk8RLYq8uaskwrX1XkqWvbSamcS7adUymFIH6G8kIKAd0XRrRGYOi2AE1vYT3S-qYQ9Ez8KN6IeaRbafBh5gfhkSUkTk292qs58QiKmDluw-gqFUuORFKupN6ThI5o8ZGwFufdq0Uc6YDupDefpyak9Ts4rrxu7KTGlZaQ8q67hTBnFrA7dJyd9U-TzhgGIg4KDJerdwMwBZM-HRkPxg..%26ch%3DAQEAEAABABR92fd19xIgYl22VVX7d_PA-AEOfoyi77M.%26v%3D3%26pg%3DP7LO32FAIVEH7EXMJ3IK6H7PHY
+.netflix.com	TRUE	/	FALSE	1802479663	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+09%3A47%3A43+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e80fb4a6-0e19-4fc9-9e86-3027ba18cd11&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802479661	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpETse-KtRtPYQneyZlsjygbyfAwJYK6c.%26dt%3D1770943661586

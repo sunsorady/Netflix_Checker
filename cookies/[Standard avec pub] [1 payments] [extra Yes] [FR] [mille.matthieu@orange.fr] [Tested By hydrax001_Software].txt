@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Laetitia
+– Email: mille.matthieu@orange.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: avril 2019
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 8279
+– Phone: +33680527963
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mille.matthieu
+– User GUID: GHUYLSEUCRGFDG5Q5OYW5K23RM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789938766	nfvdid	BQFmAAEBEJ5PP3esCZnPAhoTMmQ36hVgRWtMirBYN4N1sVY3TvuI-jAvFf-7lx9bG5-mLTUHk3KAydmsWQxilyXR0qokG3z_72LtYGDLeLuBapnvsvczoc9j38LNhjFFMZiVuyThfdyJaCaZ9ixamEtHKQnyHsWH
+.netflix.com	TRUE	/	TRUE	1809362094	NetflixId	ct%3DBgjHlOvcAxKGBPovOdmdrY14plXOaj2pZ_WZtA-6d4kV4536bK3Ete7FW7ZVjVWrkoYALHjI4hYIgRfu2I7FrSJUazhmZnc68a-5UmayiKZ-2syzYtqclEl3xcxDd4ff80ErnBINzccX_3v3BqAskloOhkYvAjUuLidXLBUQMMvPKpAjKu1M4WEohha-xU2RmK3ShcMax0UdBfDrLyatDyZjr2N6EsEPqBqvOTqoex_Dg6xUzV9ujX-81Y1d1I8uwGzeBCLx3CpSB33uCqfg1Ney20J_9AjiVHrvazqjvx6GffjwuFhlzIy5y5QwWiGf240P3PldQCyMTHYkHRqpJw0L-SoXKuWC01qCILhFjmddxeUCrJNo6NQNI1PEmr0hznxpffo_N6iFZq4DvPELDg68bzRQ8Cpg7Y757ku1fCsUPWhtB7J2Pcch9heq6zMqj70mcpMgOt6JR7JM1e2AXb2rNouM6p32EA0y96ec9O4z9djGyjScdGz2tPJMnxvFSofgfXm4ial2PsncjNMuHqzebaStYdLAziP6pW94lN4Elx7kg6WZT3523eD_vXbsFp_XGapQUFVnvo4TCJlBfcyMKbVR0aHD73uJaH_RRoVfIWOhlKSr1t0YJaYC0JfrKHLtPV2xtg7FX4kIBUNrVTLS__WFkdQ2f1o_33GIuuimR-TwCl7YDkQqdPJwo6v1GAYiDgoMBT6df7fqWuGOb8ak%26ch%3DAQEAEAABABTw4Vvttfz7FUFfO_H4-gUbljuser1awAY.%26v%3D3%26pg%3DGHUYLSEUCRGFDG5Q5OYW5K23RM
+.netflix.com	TRUE	/	FALSE	1809362095	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+18%3A34%3A55+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14bb3a4a-e172-47c7-989b-9cbfbe0b176a&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BOCC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809362094	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSq8pBX-ITCDbF8eICX3VVbFD3kc8_tcxo.%26dt%3D1777826095632

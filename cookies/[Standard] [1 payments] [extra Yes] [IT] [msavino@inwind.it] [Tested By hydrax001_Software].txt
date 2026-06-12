@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Superfrucio
+– Email: msavino@inwind.it
+– Country: IT
+– Plan: Standard
+– Member Since: settembre 2022
+– Next Billing: 2026-06-30
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393492624086
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dott.Savino merda
+– User GUID: 7YUHDRQ5CFCPPPUSNTCOX2UUIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783056510	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AghrQDfL_qdkcgSQ0LzD8AQIg-PP-m2VoH2FXv-aoOx7G6hsORs5MOdO4p4b6pOhLv8TGRD7NJR1ZXGx5hQpWIlFvCaDaV7DPy7-Sgmg1r8AL3P40hbAeKiUTq73-z7OkUePBvD2AaE6bblqk2SG1eOPa8rE8pxeoZxE-SBkwra8eMddr0AUPlvWevoCwGAjwtlhb-pu1zBSdjTwuuyicGU2kvQb9J0Z_ALzQwFnjA2t-BqvvRK1IYFzy5nRTIAtXNzx8ycypz4iRotzLANwr3aiU975AIwljSnMy8ZihBE3eNasCgw5cS6aVf_mxDru4FOpTqXr6Xif6WUas9pwm8CE4Pcl8Ql52UqM1Kdx6p5UaXt8hwbkG3OrlWxa7xTx6M9qmPlUy7d3ZKk_eab66XLDpDqGV8NfhPATYeG_IbMvEtKfXvCsACSl88e4YBJGGkYhzyyWGm65a6M3mUBH2TQgZkd7-gKHTuwlIdYUVcgqaKX_6bTq_QYyARgGIg4KDPYTN1NwlRAO9BU-Ww..%26ch%3DAQEAEAABABTCx5nt_AN8Wl6j50pkY_wZ7oLLRXRkfyM.
+.netflix.com	TRUE	/	TRUE	1783056510	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSo-MiuoXvy5iCZA8PJwESUmmPLd3whOo0.%26dt%3D1745266541849
+.netflix.com	TRUE	/	FALSE	1783056510	nfvdid	BQFmAAEBECda3rNhqYBsHIKp9jlihzpgOv8vK2JcauIbSOU-Rurw6Vsx6QvaIeIJeollC7_9It5S-FybTGJNbi6Q6dAhAs3WVCVNbFOMIwG3ILwlqG9IYpWZUeGV3tgqrysiWvz0J7xwfxuPzJ3DYi1AC6rs5kQV
+.netflix.com	TRUE	/	FALSE	1783056510	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+21+2025+22%3A17%3A12+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f58cfaa0-998c-4206-9e4b-861aadc5e747&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&geolocation=IT%3B62&isAnonUser=1&intType=3

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: baby彩里
+– Email: Kojimaayari098@gmail.com
+– Country: JP
+– Plan: スタンダード
+– Member Since: 2018年6月
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 3245
+– Phone: +817024104542
+– Quality: HD
+– Streams: 2
+– Price: ￥1,590
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: baby彩里
+– User GUID: IAJHKHTTGFEX7GSAWMQSDOM3DU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799364209	nfvdid	BQFmAAEBEL6EPvLjnxa3-OfBnraqsS1gaptzNu4IqVkJYhYLYpEhTTIJY9DMS5SSOlxetpKIO0Jl9qfWZlNx1-IYMWyD5qGl0XTIe22wz1SVCIUjioYEO76vcMgE2Crta41vVcq-uxGhihI9XOvZUxrzZRqxzTsX
+.netflix.com	TRUE	/	FALSE	1803560919	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+25+2026+22%3A08%3A39+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1aa44ffb-a9fa-45ee-b6a6-6774ff03ea80&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803620384	NetflixId	ct%3DBgjHlOvcAxLiA1-n3GJ3IE3drf9o420y1CN4Gx1pwRS7BSmTGQfqp5m4b3X3t0FdPfe5-6XRD8FcMtr6nlP9aBZ6nRAid2Gb1oj1BRydzyXcqgwCUOKF9e4-aQ7TNupOWdAWV2SaschV7Mrxw8H0koKfAOSSbdrIjaNy_lB4WmS_8ARqP3vsMFJrKD4HdmBL7V7giw10DvDXGIEYgsDuvY_oWQ_Q5sJ0SCd_K3TJ_bMVtwAHyGDnoegSh0FQ7ak40kUjsNOaJrft5Qt5itDO1AECTOiNWXIC7RdlqN0ahBcvbmOqwEJl5luZzik4ymxndFwXn9CVKAQiK9-XufZsNg-lulIxa5KgfG2PMc1-gcPXT0bg-FzP2rhbjEiQ6vBut0mchnRg6FaJH414WfJupKHJn6BVNYLH83rUM-qqu-NVYr14TB7ZnZRpn8RIDbgekmEr7L5KlQM8GED1wCZ5M2gZhqSH8mdldXcu2zlIM2OK7pi2eHWFL9OiHxZ7mpjEiOmqgZciKE4ymWG7LYIfQt-3-vyHiPWQpPmJaKgz5U_zARCpYcQjVlTh7z9uSuUjryyB2KpUgWegVZr79B8tXrrU2s5lBPB3n7UOAk9L8881QhnqbeZ_6ms_e5SWJEV7rKu7Uu1LQhdblRV6GAYiDgoMU3i09_yb3tV3uzDW%26ch%3DAQEAEAABABQx7-xSH6A1RqB7E4dBchG6LAzizCAM3QY.%26v%3D3%26pg%3DIAJHKHTTGFEX7GSAWMQSDOM3DU
+.netflix.com	TRUE	/	TRUE	1803620384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhOv0XL0Sy14WSmTUIL3DbX_pVKBfq9Vs.%26dt%3D1772084385959

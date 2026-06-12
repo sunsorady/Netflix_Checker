@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Elena
+– Email: elenileonte@gmail.com
+– Country: RO
+– Plan: Standard
+– Member Since: September 2019
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1986
+– Phone: +40745649773
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elena
+– User GUID: 7UQR23QXKFFCTCPBJUTMFFBQ4U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEDVdyxqe_GU9q_wvJsrWbCJgGpV1JQdG5PezePfFK8WidnIiB-n1UwbsGrAORNJW7IKjfBEed9CcGU-18QsS3VjbgzUflnYBm72jNM9uI0tT91FTIaoDVi4Eq9KJ6PxkoY41gtTR5kpXnLu__8TNsUZs
+.netflix.com	TRUE	/	TRUE	1796993284	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AjV6UyNOHP7T9nXVU5Tm4-MQe8ikqEp_O5aBYwyptTjoJ4-_Z1LgvXJ9qrGlvOP7idTc6vFDj6OLLtk1RMKvASXpoiiN-0flCWLeNj2HsKmBg9t9m6q9iU0bl5UgefAesqAeo83vOt78uD61GUgDMl0jEvTu09gwpZXw8PhSdK1DAmdtZJ5LyRyLHDH_Pp3DZnvTXBkPlkxV2RfxTcggFdQLLWfQ3JBLP6vmF-nBNE6FcQW85fktfZBijiytcDvf1geYhhm7wtBD3pv1eTH75EpofWxbq3OuGOsonv50qx7_vTkRQlQj9kFTfOfgQzwzS2HFGBRz4Aya1_WpsEL2YWT2Hyd1HQcO8voOg3vD8-Ohwvh9SRjYQD6SDddPA3SOAjDdULKPLMI3KiPPZVNGualqeCup67nRDlbI-p0hBmnY3Q2Dyy4YbHuQFhtkX8Dm6C3RBu9UuC1sczyI9W3cPsP9TsBlM5IvwAS3KpCNelcOp-BoSucYBiIOCgy5V_V_aRCohczw3lY.%26pg%3D7UQR23QXKFFCTCPBJUTMFFBQ4U%26ch%3DAQEAEAABABQ41s_6efhmB_z1emQe8DDBbr4ILYHyrG0.
+.netflix.com	TRUE	/	FALSE	1796993285	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+14%3A48%3A05+GMT%2B0200+(Eastern+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55a72a49-07a3-46ba-abd7-09232b7f0d23&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BSM&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796993284	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSeFxYS4o0-t9q02BGz9yNhNkL0kDfBe98.%26dt%3D1765457286212

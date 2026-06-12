@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mamași Tata
+– Email: orlando_pub@yahoo.com
+– Country: RO
+– Plan: Premium
+– Member Since: October 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 7874
+– Phone: +40736517441
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mamași Tata
+– User GUID: R7A2T7LF5JCPVPDWHPVNPZHAKA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783867616	nfvdid	BQFmAAEBECFICD8pwr2AldyKb9vrZsRgaNq6ULOmyvU6uX7GC61B3ufpTMktYuGuL76UYsI2K_cj4xsmGFO2GW5m-B6YFMvR6CDfdGYhrbqAa8Vl4_S3bv81BAINiLkepfhZX_Wa--im1WCEFNTh0oXymQjOagCj
+.netflix.com	TRUE	/	TRUE	1811349333	NetflixId	ct%3DBgjHlOvcAxKEBGk7wfayY6k3V2glsWDyX2G_DeosZ7Bilj_liA2SEwxmi2-vEEWaHMh8C_vryC_NzEcfDvgLcAOFgaiYUB2747Bmu_FEW6M3RktXhLN9ScIX_DEDeIsan3b1DH5ZP4qF1GYSQO3YCWUG2RB4Xop6kXhdb5JBJSLQ2_HmMtbQ86YKqqdCU5oI4wlTfq6A0cMWQctS28ZYo0q4z6f2Cy2VfpVwUiQVbqhRScAG_rqVZq5K6HMQOrFHI1cTVtv9YhvoSw0UKStP5jcRKQUe0nwn1HrCklFiaZh62GPZN0d3h7G5O5B6R0u9wEG3kOOLnMzSNNmXSgClz1i2UUEHvbjr1fAeHvTTG_wAou8gCUpLLl_OSF3hA6xZvrLhDZvhqBGcytnrqpCHaGH-yiJFJ7LJVuNOrSL6dxHkKtKNzL7OmN2Ss9pLuKZVcfJmNf2wehl0UpU03G6qmYXmcxv9vje8wXwh2rncNTImpefatBAQ0f7QZc_U3Hep5NsQVxawIZjGGPe3LK3fqtMXEalnm4HAQq6DgxHgVJtO6tL5e10_5mb1Mx_JJ0AIAyp3J-oYhKo-I-L89b2jqrM1tIfQcSIuE5Kwpd6qasVw9V8aahSe0uP3koKsp0_xXUnyxEGIQieSrD_W2W8vYijchyjGgEEuoEDOkYvvDI_I9Cq4rkLdKN1ce6x06BgGIg4KDJ6hlz8Cx86SMOkjNw..%26ch%3DAQEAEAABABR-b5kJuvjRqEntydt7z5ZNNHpOsveYFWY.%26v%3D3%26pg%3DR7A2T7LF5JCPVPDWHPVNPZHAKA
+.netflix.com	TRUE	/	FALSE	1811349333	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+19%3A35%3A33+GMT%2B0300+(Ora+de+var%C4%83+a+Europei+de+Est)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=830b10e7-f38d-4790-ae3b-dc5354c4cd58&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=RO%3BGR&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811349333	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROpMod9nmeaN7-p4ujPKw5RbRpbjmSUaU.%26dt%3D1779813547631

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SOFIK
+– Email: siempremusic@gmail.com
+– Country: SK
+– Plan: Premium
+– Member Since: marzo de 2024
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 1769
+– Phone: +421905760347
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pitr
+– User GUID: AYM54HTK2VBM7A4J3Z2RED6IYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783242353	nfvdid	BQFmAAEBEI5M-_M3xA4tjFkOzjwO-YFglFCF8UFlrkyFF6owuHZsS1AFNp0pCr8U6oaGr1tkzeqLcpK1jcNtD1pTrNAxf9cVqxyCnzGjACm9YDQzjULbp3AABkUNCbVwrFtyMhVSpDNnTYb-JZrO4wJ3ZpZJIwsD
+.netflix.com	TRUE	/	TRUE	1799594061	NetflixId	ct%3DBgjHlOvcAxLkA_NQRY8wkVmXrGLyoZnoLpghuJosGvXW8qFtQqCg9PgK8hKBzCMCZCd-oZZaSBVcpZiOGa_WHej_TRggIkhOjH-uhGywdKv3DwFItajGVxWGJ6g0zKirQWdRGhragLdyouvxv5XB_8jFKB9kCXteSRId81FtwFBZLfazXWYOlNVktUUlSKFasb74nDUZzDNP5YWzFOaXN_MohGOU5k9yO0agTCHayUPpc-nxe51n4VGQZHAC2Q9_0rZZ7r_EY_1G9RB6KiDnzmhKGkRRDFVQm0h7dWbddd9xb6odXvu-56TmS0_g4SbygIYBugKo4Djbt2qr8FlYuvsv20sBQ1XyOSLHCqi7ejvPOFTzNjRzwcDPYoISeleGzgVbpBfRWe7YCHCLJy_N5Os_96Qviaco94_9TtG3nZ0-IET7mSAU7sj8XOGOaNUGSm2bfik1hEq86J62Ei-opP9-JiCOiMsPrrO1M1UV5yztKDCRAu6wM8koNe4g_iZUZF7hkTa-OZwJtsYIY7s-kDJ0F5xdfxQbR_XVKgSFE3cB2QH3Uqkqk1lyuEI60RJVii2GRXyQ8pn3ZVH1crxeU_67Ml1OsOt431zWSbYs8el26qErWECJ90AEUAqVWNUZzXEREJ1uy9KPxElrYDgYBiIOCgx6nsL-p61kf3EthDU.%26ch%3DAQEAEAABABSaPyIsnhF5M7kwJlMFOvJGUVFBignASdE.%26v%3D3%26pg%3DAYM54HTK2VBM7A4J3Z2RED6IYI
+.netflix.com	TRUE	/	TRUE	1799594061	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_tP8rGqlKsnvM7Tug--J_ZQtv9gmLp2w.%26dt%3D1768058061997
+.netflix.com	TRUE	/	FALSE	1799594149	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+16%3A15%3A49+GMT%2B0100+(stredoeur%C3%B3psky+%C5%A1tandardn%C3%BD+%C4%8Das)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=90789c5d-4590-4cf7-8bd7-01e848994051&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SK%3BKI&AwaitingReconsent=false

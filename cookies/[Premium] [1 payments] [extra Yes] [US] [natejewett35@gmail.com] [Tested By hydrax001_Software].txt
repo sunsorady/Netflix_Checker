@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: E-man
+– Email: natejewett35@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2016
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 9564
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nate
+– User GUID: BEIA5C5UIFB5RIXL2EYWWQGCPA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBECNT_idHict1xwIKxgirvFJgh2D9FPXK05J-bKhO-mafxElj1f0yN2ICHx3FbIUIF_j2GJLD7mIBoo_w7ubBQfRjSRDhXhMfPfbFd3ivYy1a6xbyhzxfdfHazkI-0jzxqvIqi2wBjAnryYVvaAMnfqfW
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+12+2025+22%3A23%3A44+GMT-0700+(Pacific+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4b71e4ca-9bef-4e35-9fa9-c25b47c58ca2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783812237	NetflixId	ct%3DBgjHlOvcAxKpA46465FPXSfZ08sjnX8b5q9XoxCkh_FgLxMYUBsKHOFYWqrch5ZiiGBJqm6GFlfrtoUrkuWjzmlranMD4g6TiqytYivKEyYW5t3UnduDaycM65F7Ba0m6Bc5AVmQ57S1CyqyuT_m0drjIWvoLqjaBMELpwDxqL7rr-Qtj3Evp7uqfEUub3G_lY2OWp5ElOj65uZpUdALpN6esILr_Z3-OJRiljZnfdOBP21NjnaS-U0DPfyuSFtmWegU1X8CaF-YZ8hHovi9kVwWGVg4Wezdr31Xr-YU5JOe9dCqjXgMZX6MKtN3fOL3fEjTvhkaIOdQpOKL3vt6B6bc7xAXhYrLJvTorO0IUnwHmEiV7VEhfbXotg_nmDK6_Th-7rHjZfKyxwlqFQhJB_ZZbt064NyWcjw7UzstXfp_XmA0E7SIiuFWsZOb_YdQvXmE6Al3WgGwL5ZTwNomUZBP2rvJ5_VHA7cBClDtSlvgQBEvRUE2Nq8ci8Z7vwE_CyDMyeTjW6_pk46aDdJg4MCALLD-hsXhFQA7iHsFyPF7rl5Ncuqi2EZW6Bo3vENSsOu9GAYiDgoM2DmsAnkpKVfj62ub%26ch%3DAQEAEAABABS4-1hv-b9FgfAshA7IOVpcDKYAQKiqJog.%26v%3D3%26pg%3DBEIA5C5UIFB5RIXL2EYWWQGCPA
+.netflix.com	TRUE	/	TRUE	1783812237	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1BRunrJjx9qxiv2VRLrIBzaVjhzPImIU.%26dt%3D1752276240977

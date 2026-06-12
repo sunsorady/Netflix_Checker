@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rodrigo
+– Email: nelcy0388@gmail.com
+– Country: PE
+– Plan: Básico
+– Member Since: abril de 2026
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 7037
+– Phone: +51965843324
+– Quality: HD720p
+– Streams: 1
+– Price: S/ 28.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BCP
+– User GUID: 4K5CVMI4A5F6FG5EHQHAKDQHDY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1793140590	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AkIG8xe_MzGj0rm02suKlImaZM6nHIgr2e7l9AaEM7iqWmn3fla-kCkS5Pn6JpME7znqMPS0SjUYJ2XPgKMYPuEXnQcvE1RS6G09LAW525mdnhSx4uWnTjGzNjBbIIeosq5gWt6dwPFqQsVGWidM1evrU8RuDd-YNeANpfaPfV5NMcULB2ARFssDgsY3lFiVoULYQ5MRwOnabTEoEzpiPHFVNyXGeRNyCEiD0cpiGssChjvYNEWcKKm9HfeZ2wsfdGYuLEv1FoaiHY4cJJXfEsP2fGXLL9rE6KP_Nzpf-KOi3ZsPVN1uYlJ76Ap0fWd-vkML5RISLuXPH2yZXme7xc2BBuuii4-EsPdaFfbXgD5L_eyEAcbyVrP4QaJD38dKF3sViHZ9pgxJHFWKdN14Uczgtu_r6xi9z90B-wha7lPK55E-oFl7Tc7cf0A3vFmQIlRT8EmapTaafCW4D0VOxoWqsgroZbytZ6xuN_BqlRg-N_SMfMnXDEMnGAYiDgoMLlX90ExvKS97YKYt%26pg%3D4K5CVMI4A5F6FG5EHQHAKDQHDY%26ch%3DAQEAEAABABR-xUbQyh61yohNg-ljKppOpCwO3wp4aSY.
+.netflix.com	TRUE	/	FALSE	1793140593	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+27+2025+17%3A36%3A33+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=899f4ac8-fa13-4a05-b4e7-efd0cac0f306&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793140590	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTT-UBg2RITntpkk69ID3FMO6p7nbOcXIo.%26dt%3D1761604949071
+.netflix.com	TRUE	/	FALSE	1793140586	nfvdid	BQFmAAEBEORyLzhvhZfWOFPZye18aShgc8XI0oish-mfn23urQ8NHZArI4yrF65TziBCJaOcWrPoo-xQqkJyZxpfqCYoBiY5QyPjOZ6H932E1T9znjJPJdxI15QwxMfcNfiZRLrbUigH6xPxff3iVqJcs6ApBuyC

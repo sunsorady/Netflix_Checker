@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Victor
+– Email: viictoorvba@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: setembro de 2023
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 2270
+– Phone: +5514981846250
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gilda
+– User GUID: LP72L2STWZH5DJZKQGBNRIMR44
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551683	nfvdid	BQFmAAEBENlAIzAgQjQXx-NCR7R8d_pgzm9u_MTo96Bcd_X-iur3P63IKPZtK8V9jj3JAmqfEjP7oWPL9FWG7GW6r6zLJVA-pu2oVwmtYkhHAM-wr7J2sfcCsozHRro2ff9B2NtYeejWPhpfOG3JGFvngi6QtR1G
+.netflix.com	TRUE	/	FALSE	1783551683	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+12+2025+12%3A15%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a207e572-f28b-4692-a935-416a4796f8d7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783551683	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLyAr0oqZ277bMHEulu3pwPwa_7948S6BLSQkpL_E_hkcGY-oqu3k-f_CL1zG2VVsMiDEnhmxNGUcwlmaacHNBm_rui4_JIStXkEJbMKO-EhwL0H20QO3glbOX0sCEecSkxQUCnD9xOiy3K5mcAQh-qe18ul7NC6dGofCK_0DixOLp90aCF2e8Eqfl5j7-_JlTVjx5c3FhmkAZJ38fENdKI8HP-LRUJ7oMzvP0sTdReSWwjHCn3kmYNck3-BEBbhqvGAU_uXZOZ79togTqgBG6IPqTLay-ayJmBaQaOuX6gIYGuomzonSLV0HFQXHRGDeu_it8X8azdOJEe7ptF2BFWqPpPWi0Yw_qyjgXoLb462sQTNnP3Bxr7C6qcuCtikCZ9x3AmDmoWopLSIV-67DNS_fwlW82QIRSxPs64zqffcQztmvrr8bROgX_SWxLgWntLq1lPs6-Thy4wO7nJZjdzBaiihGjh2zB9oENfnflBcuwkFUAYBiIOCgzsg0wpea9yWS_-VDQ.%26ch%3DAQEAEAABABQGI-IdwDUwqeqKhfchjrvbaXnUZbkk_2A.
+.netflix.com	TRUE	/	TRUE	1783551683	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJ75Ecx-6OOFF8IhgBIfxuhsnfbLKsv70.%26dt%3D1747062935845

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rei_x
+– Email: mycosmictales@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: August 2024
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 2575
+– Phone: +923485616447
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Devil
+– User GUID: YXNHNUX7MFDSFBR4W3USXA3Y3U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1833648823	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+23%3A53%3A43+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=65ea9453-7b6c-4d8f-8dec-3084c622c4d8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770489932134
+.netflix.com	TRUE	/	TRUE	1833648820	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AsmCQkP7LZi3iEKqeDx4cHjmq18ezubTq1BFg-BwpO5LDp3lOrpvEUBEBEZ0b41EgZUevbRKI_4ZvrEgPyquUOcN81dGMmPUQB4p4CI1gECSCGdGrxcfj7OIYEQJ8B7Yz8u1blSWLjqd1BTPdQ1Dv4_uyLbGkfX-TPOER0XtGla54hEcO17wZCc-yskV1M0GAXlAqlX2x8L2KvicBqFl5ItYfwrfZQfuoSFP2So4FR9X-ZTgT9xn099xanwmwGHA9JYYCdqkoiobfTFSZx9YlZxKn_Tiglk8r6Jld8C_1BmesBnlKYB5wfl-fbndqayztqQwsmG6OFWrC4_nw2RNO-FzdB52q5ILtLsg7LiDtOnoWDCecvqKYBHrgAZCQmAUzfe0iLVzoFuOWLPwRE_z4GtaqKUL6fouKCSk3jzTGR5ogeCC14YbMf8XS72xRgzfZYWEYv4rE6lRy5q10onuH4tFoIoWhZgycIl3ZNJHEhks2fsVjgj__xe544wmqcgYBiIOCgx1LkzgzD5UceVOnKY.%26pg%3DYXNHNUX7MFDSFBR4W3USXA3Y3U%26ch%3DAQEAEAABABS-QVzc-4ddpgK9Bw5sQ9qdKACv1AfwTzU.
+.netflix.com	TRUE	/	TRUE	1833648820	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQouxLt5MXyMjxAtjTpJYomglrrqycKdyw.%26dt%3D1770490420180
+.netflix.com	TRUE	/	FALSE	1833648332	nfvdid	BQFmAAEBEKw8yavMpkiWwyWASZLbVFFgcj32bHzG2RYYsFjssPAQLQr_mIRcjmWe2yfSECXLf5_4bsNP9_VrCRG-a4tfbtKKYoJGnXH4aHCsnCEqd9COyd0ixcbqnvMCxevQr2SNaE5ZLYp61CabuW_7U6zK-jqS

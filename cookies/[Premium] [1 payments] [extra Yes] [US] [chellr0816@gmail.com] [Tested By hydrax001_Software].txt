@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ayden
+– Email: chellr0816@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 4182
+– Phone: +18037671924
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Birthgivers
+– User GUID: RK2LFWWQYFCTBEXWMHSPS7KF4Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809471284	nfvdid	BQFmAAEBEBLCEAKDWj_ojEd-Mdqld3JgXjUXHEQMmv9rOnmf2mzCwwIWAXotxLcxOpH42bgq3-NID8RisK7eHDiCcADwp2XhJbWw5KTX4YUG0nc6EvwtbR91YUVUdgg594X3x9eayZirO0tI2rKjihVmGk_4COhR
+.netflix.com	TRUE	/	TRUE	1811338273	NetflixId	ct%3DBgjHlOvcAxLNA3syENtQqTVVb8QrC2x54tYFaStxW1J1uZYv-fh2QEWkTNnDUPlJGYkbhYxBYKEEbRXFGIpAMdTjkNPIp_YbS8Svy8PUtsQyyvmnkoLOKXMKNxAtDvpcxS0IZ2rBTpQKd8HhcY_ZmlFUUnJcDdvTy6gTQODaWh1vdSwckgwMH_B5abH7dkrIHuBYKFIqIyeCzVlQk9m7I_8ecXGW6TlNNdQxKIHmd5VTYYkGbH-tzAEdpT4DFDDE-RHLMvEerhqg440hKqA_XVCRPIDi-NZXyWe9QhGB9WamB11ALR_fiG7_BqWq27JfUIbvBxWma2Vv7nLhAUqLEbVERT-xS9WMhFDMYkEDnpeAeriPFbk3_kgB_hqSF9F3FE0O2a9jVg35V7BlY9IhUL-Lc_gr_KOnDVsMvKt6UsX-lOS93bKB3lXuBo4lAgSZJPkDG1mjlG7IR07SOP4x0vcRxXEin7dqUBhYgzu62_O1Bu-YdJqa1waGFQYbNIMZZm7GJzie6eKG6mfhlCKVipW6Hi1KTkF3jg7kZUW80fZoApDKPstqLfx95mcMsMwy5ocz1UMTRAcCI-QMdm-niRpVdUUNmArQhTKIKkyG4sGxUzimrMv2GAYiDgoMpCMY_WOPEQK2sIU0%26ch%3DAQEAEAABABRt6eQeiNWJj384f8QqKvjW2B24TmR7UmI.%26v%3D3%26pg%3DRK2LFWWQYFCTBEXWMHSPS7KF4Q
+.netflix.com	TRUE	/	FALSE	1811338276	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+09%3A31%3A16+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ce02d4e9-d8b1-4aba-9324-dd8db9018dfe&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777935212358&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811338273	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQClHXkV7u7gzM4Wny-7qlDZcAT0XqojwY.%26dt%3D1779802273610

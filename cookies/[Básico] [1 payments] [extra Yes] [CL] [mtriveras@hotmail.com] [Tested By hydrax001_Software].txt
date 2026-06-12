@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chisperro
+– Email: mtriveras@hotmail.com
+– Country: CL
+– Plan: Básico
+– Member Since: abril de 2024
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 5351
+– Phone: +56986290732
+– Quality: HD720p
+– Streams: 1
+– Price: $7.190
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marite
+– User GUID: RK25FWV7ZZHSFAIZXPFPYIYOQ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEOHAukN-Tchu5jrG38HvkEdgl-gWvZwvj0fM5U1jzMdtuHOQFACP_gzSQkkjZb1EQ06tWJdUAGP847BgdX53IACD--foNJH0Icj5zlTnzOv8nnbIhmseh8oZ9kX57Dz-FBHnxLKyGzwsbrCxqtYYIW9c
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	ct%3DBgjHlOvcAxLlAyVQV--piuSqB7kA_W_ydJc4rvBqxNMRpeUyBHKIlqC8IFVT0XaxF8gLzxKR9iVVVihfa4Fk4Sd5-_Jt64W006ecMj6qMdTHxl6xF0fOEfdKn8_VrntkPg5sE1wKSiGKcgYEFTz9QBRTlAwRQYD8ecELps-cDdNsq0oFLsxgK-cYv6pQE9oAf58w0WIj57vzrwejO810D_6R52_Ek52c5Wv1TzT2ldmfm_wDlzpX6IlyFFDR2M570YMwPZ25qlYm15dx8r3IPpR0gs146aAFogCBu33Jh5Iw5SGJVovsTQu2C8hQwvUAqOxM3j1kGsUiwYux49AuxD1HwTB2LP4w6ycRFuGG2AV3mfW_yUt2BJkru1b27gtOXxSQqkor6lxUBgKzNXSd-_XNCNLzXJle8BPlsPpb24feNRr0xRT2tovpBUJRd1VoFZO798c1Mnfno_IZ2sTaWsj9CHkoJXGF6_rFFXRXd60YkXwOxGlSD6vu5W_DKmTXk4EUXQloPG4haeeALFvQ_7sq6umsyOLMJ4F7HbPsZt-qdfgM-9cpx0CULC1S8WbUsEl5h-ixmz2LsD_WNOxNEH4r6o4JB5vIvk9cPgUYmZBnWmLl9UzVEmwnJEBhsh9pS0_BXns_7pgBBYYqXK_IGAYiDgoMleMNl_AMtdXtHpKR%26ch%3DAQEAEAABABRHBc8jwGZKXfwcYRIicU8891TCf-HS8VM.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROaQtPvDi1-YmmAUg3dSYTSZ9-jIqNHao.%26dt%3D1745366075990

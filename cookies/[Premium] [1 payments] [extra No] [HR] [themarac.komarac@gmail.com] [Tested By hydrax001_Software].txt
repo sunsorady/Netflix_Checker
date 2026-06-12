@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Filip
+– Email: themarac.komarac@gmail.com
+– Country: HR
+– Plan: Premium
+– Member Since: listopad 2021.
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5220
+– Phone: +385981771322
+– Quality: UHD
+– Streams: 4
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marko i Marijana
+– User GUID: VVWZFSWFO5G2XGRLHXP6YADXU4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793883768	nfvdid	BQFmAAEBEKl464juizHyCzKNPmAyaQ1gqW9veJLOMIy65fs9KFtUwyu8YhWA6-gALfdDwKJWuK1zAvYDoOZ9QXqCsIf097zO7FhQDfCkTRn78_0_UsV531P2Rmc8Cd4cDYkcG3Ye7TbOvjh-NjRoJvRA0DoahDNX
+.netflix.com	TRUE	/	TRUE	1799759202	NetflixId	ct%3DBgjHlOvcAxLmA3aplGz8D88hVUr86AKuv1kChjfGBBiAUeWkMgsqxsJWM-TVbRdwENIPUBUkGNne2pk_MtBJMJ-A6BEcC2cZXMfq78uVjayeOBUCJR882paodebVQg5XDaDEkBQe7QMQ5dwMNhf5YNNbGUVWGbpgaYH5TvxU8WZNTfTvdG4LBp_Sp64QwX0ly03CB1r5M9f9811P6O1ruyxEg7B-9O5N78ODhu6YOt4dnPaFhIvp3zX3oPOsqI2tExsJkuPOPbnQdWiQJiOQbllofPxvm0X9v-S1iM6-7jzLmCMfHn9vl4FOrWgjapiZ8h8Bb56BPy6XiQ3bI5hAaEatydjBp1mhcFVzhQfQlkCr1l25WE6oeSnm6Df-13rfRzwJo3aJ-2WGfY7fN6ef4U_29SKPwJjbQcnjKreFhzAeV_F6ajiEr-m4X2bWSzN5k6ZMxVjj35IXIbIMJDE_lssMhNLqcyq19om5zwlSJp-Lea11GpQ-5XRo1OUlvr7cCqpih568rcqUQOmeiwQ2ER6H7HPnjNPWoZ7gopm9ETPQFDGuhpUR5KLxx_00k2ZYvgKh0pZ9aZpDXMTn61Rs7C4tCePOf5q0LsT2z1qfgkWXfAMGMfAXnX61mPHpOjkEyFHtryhxJ-3QA0bCo8jqRhgGIg4KDOfLBaJamYKT4XA2qw..%26ch%3DAQEAEAABABQrIfOeWJqIgrGckMxYpPhQBbLbsUbfHxA.%26v%3D3%26pg%3DVVWZFSWFO5G2XGRLHXP6YADXU4
+.netflix.com	TRUE	/	FALSE	1799759210	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+14%3A06%3A50+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=275a518d-c268-40da-8005-da6ab9dd7b1a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HR%3B05&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799759202	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQwmB6DiJkz83NKuUHbQ-JKZkLluWHYRIY.%26dt%3D1768223201532

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nathalie
+– Email: nathalie@nathaliecottin.fr
+– Country: FR
+– Plan: Standard
+– Member Since: juin 2020
+– Next Billing: 2026-07-07
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33680723487
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nathalie
+– User GUID: XPUFYCQHTFCJZEMU3J4WD2AZZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798917306	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA5V4P_W-fXfrh8v2Qgq84LWuCi-I1tFPUcYZ-HNNNEt5C55QwtWAo0yhimtHMl_TK8kuiygFZd5xJS8Q9GjOKC9jEpSdZ5pA7A-gmj-me1Q_mej89jRyzZdIEJk0z8xz2SwN5d9k08vRB4u4nVSO0Q-rwLOpGPwS1IwulSMmgg7gQPhtONk8DlBQAs0vy6WN_cXNp9khByKkc0uij_aKpWGOgKFkQmjGCr8BA1xodh3TqA_MegrOzZOAPSVSczZhc1HY0QGXX_1EKBmPrKGapK2qu-Nj8KV6i6if3rTBUfkz2WlWQTH6yL9vgnt5KcB_wpfR0AJF0Gbeik_HF3_XX5rzgoWGlOMK68EZ11crDs1wBOpUWbxjFJMxBFodW1wydvso7_ibsvpncc4J4q0He3meS3Hle_L5OwRBsMQdiAWczt8kkomTTLwYwZ-K3LrDpW5NAa0leT62dZTYruM-UuORt9JILaHcUa0h2u_yjSn592cUn7xBjseJtr1mR2GlL616UOzb5BgGIg4KDMldufNrhpT1zYTXFg..%26pg%3DXPUFYCQHTFCJZEMU3J4WD2AZZQ%26ch%3DAQEAEAABABTaot2B8yWaLEDsEm84YRlUkY4K2ElwerI.
+.netflix.com	TRUE	/	FALSE	1798917306	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+21%3A15%3A06+GMT%2B0200+(heure+normale+d%E2%80%99Europe+de+l%E2%80%99Est)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2e9b6f2c-cb39-4bac-acf3-73ada94149bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3B
+.netflix.com	TRUE	/	TRUE	1798917306	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXZHyDaSLuVezoBV_1vu53n_y1rp5hUr4.%26dt%3D1767381299877

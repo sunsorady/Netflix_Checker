@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PP
+– Email: rejanekelly61@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: junho de 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 4779
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: lailson Araujo de Souza
+– User GUID: G7UWQPKNDNBURPHM3SWESXE36E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1779805844	nfvdid	BQFmAAEBEBG0vLIYniPbYFYQfFgbV5hgjF-9q_imNWlrzimAELLCFRDeURM2H6CybYG74TDlwTVFnzSOvbhlX7NixC3wVloEVq4zVWpHzJRO8KKjGG1pF0cKYhiW0OAYPkBQPUZ8YcobxTru8B_ArJpxSXZBjmR5
+.netflix.com	TRUE	/	TRUE	1794155427	NetflixId	ct%3DBgjHlOvcAxL-A3550_s53OFHStgbvXLez4IZNRt6t-8Qrz_QNsdz3n7rsWxrlaHACQ5Hpz7s4JdbBcYJpOkVq4s1kG-kH0kkUP7EBdHwjeeY7kzPNGxQgBJisC7vo2EDE_T-DhG4SCuLpdfPAoDIe-630amOiI3mDEEgMtEA9l5bfkLxnJSteNDcz_onooiPXYJFPFPuHTBMzn-9otrzE-svQEeyXvGtlACGQfbh6BASMTkTY6LHxn1BK4AiicAKd_hGml_ZXz-4_UKbUFb-G6BYJ7pUq10FBrruHMKErbW0yhO9Kya5Ra13eTJrbJimjAUwBTJu7T-NECIuOyrvXbzIMGHe_KsOFt-er7MDU4iYQw9AeK0tcGpuI96Rl6eGQkikE6hT6eq9dVvyNvQRRYr6o5npHWc5RW5g87wlz0ae23hm3XpKFIgJRS3mM5xnWvjzX7FoVCgUXly36G15ejTmcDSwGIof1Y4i6aD5CdYqFV9XyA0djYolQxTGyiCfGOrt-DHiWRL8irkewdRBAT0HPVORmuxdoUDlKCTDN0yLRJQvn74z4zBAxP53z4marNAYH65_CCxG-wYRUUWSh4ZbfY5Y3HMgOxpdTQXmuNtRBLdydeyX0DcpCiTwbd0CBxTCYxjxmFOEhnYKEVLXJw0oB3jhRomgXDJ786-aKMLQ2OuIRHhCMxgGIg4KDBi4M4hzvqCQJHsl_g..%26ch%3DAQEAEAABABQRm__uqYBPDqRZKu_SfOADNwM5WSIdf-U.%26v%3D3%26pg%3DG7UWQPKNDNBURPHM3SWESXE36E
+.netflix.com	TRUE	/	TRUE	1794155427	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTR9Laxims3OMgEnEWaPHNYNwhC-O40umE.%26dt%3D1778603427891

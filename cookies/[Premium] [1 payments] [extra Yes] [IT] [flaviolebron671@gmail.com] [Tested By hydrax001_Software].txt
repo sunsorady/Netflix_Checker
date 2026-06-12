@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alessandro
+– Email: flaviolebron671@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: febbraio 2018
+– Next Billing: 2026-06-17
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alessandro
+– User GUID: 72R4YRPYHRDMNLKYOKINKRIVWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783551686	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA1v38Aw4Zea8AC4zRAqoF_vReeCl0DIaWjYk9x6JllRafdI-xk1YvoNYlvngkAY1xnpsgcaJlhjCQ7BTxd11gG0nIFcGq-P5SL4ullKWaQ93dvIMkSfigCwpGjWUJEOEXHFa5un9wlrT08Soe2cGPqIX88D2a8AMPqGY3aBK5Y4Zy5f8UaQFX3FxIF8CAkehwiZKqZfzRXGdGHzRdXAgunNDuMuSLncoTA5PRltWk9M-CGK_aOEA8I9CQyzHvPHj4G10AlOZR-QYLHAIrp_ikv3Xjxvgb2CPvJQ0OsKygnPZewDMHAl5dbp32xkdNQsfNOTk41aX3tG6RM99vqoVMuTdMf4fTTIWDodR7gARzngO64_0V9yLVmKrHhcvZHlthdQ6KSB6jwxPLA1w3lCaH81nT8u0ocEmbFZ92pxqvfpulnvnuSs_44AeP26lLbMmESo0e-albpkys5bsRdPidoRd9k5_4MHyyRePIqGBiOO5lcvf5hYLjCJ01AlL-XYH6bDmKE-6QRgGIg4KDNsphSBF4A5QLV_fiQ..%26ch%3DAQEAEAABABQIo2qfWxjj5M6sFl1DK_D86fa_ldiaXQg.
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+05+2024+23%3A18%3A27+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13929822-f0ef-4de5-9068-b8b5b95828ad&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B62
+.netflix.com	TRUE	/	TRUE	1783551686	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhe6Bv9QHE9TuybJmsfhn7xiTgV7FDzus.%26dt%3D1733437102232
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEB-w1bn1VAKjvZfYXHfgQ09gIfnNQUkOC5DtDVjD9aZlRdUR2PN17VfD3K-zooxIA7nReOge2oeH5zHdES-s5PAmD0DDLY8r7FWKM1mzauSfO-nA0z3E6hU-hjuyzDQyCrvoCIvHvqutSYn_rP6Buxjm

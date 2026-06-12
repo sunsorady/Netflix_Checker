@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rebeka
+– Email: zsofiavadas@gmail.com
+– Country: HU
+– Plan: Prémium
+– Member Since: 2021. augusztus
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 8589
+– Phone: +36703346792
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Zsófia
+– User GUID: Y4K6R3AEHZA5ZEKOY6JZ2KY33I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790954118	nfvdid	BQFmAAEBEGzLOZOuLsn7j0myd-tY4BRgE2X9T-taFlsPqpD-m3ZHOzIoPtaWfmKuDHKx_atmSiaQwkp7eW2DDKrkruPSXVdrE0HnyZMlZ8t0lmDHmjl88qMCn7dnLqYOIloZ8YQp6OGesUp-8UUh22Hqw-kFv7ig
+.netflix.com	TRUE	/	TRUE	1810296671	NetflixId	ct%3DBgjHlOvcAxKyA0JIDx3mWrvLvF6u5Fd0zxNnxW1qXBEKnVLbGJlO3JkP9FtIjSeoyQRGB3v98KsOFGpHJtmM-IgxOiKP9SbhgTSObpjkqXvGxOGmvQXy4Z79u_adQs83ZkDIsn2R7OwUM_Pw1wkfPTSjvxWqi9ES67ypLabds7Aw2dFgObCAxRJnf2mSIfHdRy9E7NqNyfdtoJ0Of4TlHcB3L-23Yjt4ZWh62dbbiBBluBKzJFW_ma74bQMcu221btWj8WSMXWpuEYQ6FafsOl1CoEpMr_q3XpCZunYHJ0RjJJN15UEiAYOX-fEX4M11K_gNSLeLbWCbol9QuadLGGlCndF5jNx7C_B1OVbYdbCoIQoV5NR275TPHPa6FSPT_6xsOj7ArybUgstzqLouXrEKLxQmUtDE0MkcDFIoOAPtKDd4ajQAiQb2b6q5q7gcC0IbSjBytlFi59fV5lrzqZq9RqyU5OAMBeT8gp3feg_jx8a3aLSTWg1L3a5z_ZX7SmeiN94MljyrfxRe_8Imux4N6QC4fah_qBeQ307OWcsbiRaHzpyXnnxWiVU86daxINUUksoFvQJS957LGAYiDgoMxky2PPcMLxfANBuZ%26ch%3DAQEAEAABABScIJUYXBSa8YabW9IUcNh_j2qVdzdNGl0.%26v%3D3%26pg%3DY4K6R3AEHZA5ZEKOY6JZ2KY33I
+.netflix.com	TRUE	/	FALSE	1810296676	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+14%3A11%3A16+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=65feee66-a8c1-4d03-b233-075ec86b4f52&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HU%3BBU&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810296671	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQT7X-uzbAz-N71XdMrpQ-rrp2ccWVPgqE.%26dt%3D1778760672694

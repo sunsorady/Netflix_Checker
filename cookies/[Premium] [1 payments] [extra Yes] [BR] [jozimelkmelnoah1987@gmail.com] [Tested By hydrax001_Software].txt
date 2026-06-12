@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melk
+– Email: jozimelkmelnoah1987@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: abril de 2026
+– Next Billing: 2026-07-08
+– Payment: DC
+– Card: 7624
+– Phone: +5541996248589
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Victor Afilhado
+– User GUID: 4KXBNR7SMZG3ZF6EIXKLSALYG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807234380	nfvdid	BQFmAAEBEHezQk3Jcdf4xHvgjp1Nr1hgRRJiBVufmpzyP9lDmoAulqy_moC7z45Qx7u1I8OMgAT8_Q4GPYlsNbnZJ1oebyg--qHbgOuwMJey5OoO84AiXgNdRcqju-GttR9QiTPXB08D_IWaf-ZjEDCKzwfPeUHW
+.netflix.com	TRUE	/	TRUE	1810602188	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA8z8IA-R6hbwtZVaitTn-CTDbnl9m9Yy3UDBphV4YXLxNaboQwZ9eS9FZYq6TW5c9T1vICX607lH2GIrXHUp3GvP9i5MAPMneD-IqKTBKoJ4cB1qemmQYNt1m70t6eVqkIHX_sXsPH_YHZe87BSaCZMgy4hxSXVdP21UaRZ6LYTVYjIXdR6iVio0ZA65hqWVGerLefXD3D9PthLsL88BQdVkq24esFeDpgjP3nTh_spvKKOZnAOMfyRqIfUx_pDimV_bbaEd4_v4FYEkhX-7pc6U-2YYRcenxOhcEL4pCsV1L-v-RY-oNrA76nx8DDKQ0yK9sm43pmyb8HgEaa6iBafW6gDSRml0TNdrnMS4UfBaLWwgZ20nLOuDpTyiH5msuxeaFnkHML5CrSPqyOu7HJyAOBdlvMfYxXPFLsTAA8TzGBVEnq5WpbiDtlM0gkfsePGvhow1uco8qhqaTIl_tB-3y86hKhiAPdwltDrAOe95Ij3GTsmDKcWa8OpH7jPkY-dZoYzMlGSP8mQ5cJHr_m4yJ5z1sI4M0xgGIg4KDDgGEqcjH-oXzAKRLw..%26pg%3D4KXBNR7SMZG3ZF6EIXKLSALYG4%26ch%3DAQEAEAABABSSpHvL2P-5NVxDI7ppCVlf_7rXl0fTdPk.
+.netflix.com	TRUE	/	FALSE	1810602190	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+22%3A03%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67568f12-8929-424f-83d0-8def7e4097a5&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775697893075&geolocation=BR%3BPR&AwaitingReconsent=false&isDntEnabled=0

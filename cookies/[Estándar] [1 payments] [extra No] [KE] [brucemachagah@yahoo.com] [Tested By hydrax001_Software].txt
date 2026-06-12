@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dyke
+– Email: brucemachagah@yahoo.com
+– Country: KE
+– Plan: Estándar
+– Member Since: septiembre de 2021
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9939
+– Phone: +254722527087
+– Quality: HD
+– Streams: 2
+– Price: 700 KES
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: wilfred
+– User GUID: K67ZQ3GFUBAVDLE6UYOI4QU5MQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783357154	nfvdid	BQFmAAEBEN8WXTSxH_sikOuX-R0TUOBgHbqlr3DuMSPZJwedSY7Kgu5VLKIV6-fTlNuj6q2Q1ng12HAmpzVuxm0h6JypW903CDoWMoNBLuaKcO-mIIZ07sw-HhXpynNgd2XxI0qvvE5xpgA7VQcq88hSncLzEkVB
+.netflix.com	TRUE	/	FALSE	1795777382	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+14%3A03%3A02+GMT%2B0300+(East+Africa+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3e63d28-c6c6-4663-8b0c-71d4014a8206&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=KE%3B30
+.netflix.com	TRUE	/	TRUE	1795862315	NetflixId	ct%3DBgjHlOvcAxKVA-2vVI-oJl00XLB35WB3qoDrF67E3fndfkxGb5cunSNy6lOSd8qvj82MnErc41awPrG6j84u3HLs3boekHNW7SO4EdyFKPqTnqwsYTAQNq_MtVJp-EB1Hx6HjGte5DBy9RkTR2MRqDCdQFCE0n4nJ0JNzOZOzV7Sz90QOEwLwAqd2oFZK3_O4-SX9LTkVX2vhw7toIGFZf-i5JgJCwZyvucCbq0jKIIv8EQm7A0HBTUDWol7AjyzjMLhW7UvI2F7oWFzezXJfNls7aQsz1dfK4qaS9-UetOXOVfAuYE6v3wEIEuzsMT2lAZ9njlBy3ZxqU6kQHPKGPKikvGlpvqYRyp3ijnLGa8-HpNaDFqdcMlbFIvmePFXJrkBYutjn-X07KAwV6AQ8bmHJ7ZDe1DqFeAY0a57TjaBiCWUIL9mleVrcjDTagW2xGKiMz1p_UzfVEAS6-m18XOcXEw0qbbOi4I0E_tun3VU-LX_km2ShIYkaQtDS2UlqCbccOH3nsRnJjuE7vHvU4RjdelOocSO0FAU7YuYYxgGIg4KDKowm4jqYOsaBzHnGA..%26ch%3DAQEAEAABABQGttuDY6tAKMVH71lZIlQAOFs-PxAIuLc.%26v%3D3%26pg%3DK67ZQ3GFUBAVDLE6UYOI4QU5MQ

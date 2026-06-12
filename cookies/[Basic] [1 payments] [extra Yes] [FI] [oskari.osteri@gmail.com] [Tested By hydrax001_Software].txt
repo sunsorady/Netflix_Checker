@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pyllykarva kirppu
+– Email: oskari.osteri@gmail.com
+– Country: FI
+– Plan: Basic
+– Member Since: elokuu 2023
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 9674
+– Phone: +358400896899
+– Quality: HD720p
+– Streams: 1
+– Price: 9,49 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oskari
+– User GUID: LUULZT426BDHDKTUFWICKV775E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801836002	nfvdid	BQFmAAEBEIzkl-OhwYsWmQ5_5QaDXr9g3vZLcyvEh90dUEK50rYxCF0jkKq-fiH4l_ychdxUQSGj-0TWkOcgLaNQLt1HIfj6WnBl7Artn1lZQ0MZ0Mqr4SoSZ13w39NW1__rx2-ae5xIgzaD73YFSv_gIp6rW1Bt
+.netflix.com	TRUE	/	TRUE	1810219908	NetflixId	ct%3DBgjHlOvcAxKLBH1yacC13nDsq-KpoMKiRN0vxqOy6Zb0PXgbWC01kPB9GsTTLj_bpJB8RAJjXzMCuK3GnJ_LjnOWXEnPEAZFgCZjhrqtz2bP4-86KQVTB2QH33mmIPEtx1NCV8YODwHwdexE0i5qrAo16paiAghXKWrrpi8gKBe-EdM6WiggncvBZtDYndwycsEBpZ6q7QOAjmlkUvB-_Cz7PqqzK9vwt7FfO9H5COC-8_4fl-jk21-05ZpuCPCAqArzYQU46aU1OsGpnPrPz7h1dh_elCLU1oFbC5Gol8ryiLhOVRrr8gPDem2hyZ5-Zj3yzt2wB2hPB6IisoIzPkSm-qc8FOUEtzju47Y2rGfJm1HVXgTFjRaIiEjAqt4NODGOFDPZHgcSRGeqH5z-T5VQViStvkSZvgNA0rPXkUFFUEaL7hy1tZtlR5IhtQbUBYaNv8_2GAPqz7XnLUiQVZI5A62UrJwzXnaRQLF9AbpUm_1lamOJMCCRxt8QyyQ9zPv404zGhqUidNm0SEgzVzxuwhYGy6grXeIsb67HlSJSXnz5SwANDOSAqyc6sGETFIbg2_T2ZDjr-5M8omI5nElOK10uT8hvcMTNdeIbsNsmrZyL6DHSMhVlt5iYr8pWI1rGDZhSQeAFPbAExpkmVGQ076sluNCxmvgsJZ_bb2q-se4_Zl_MKrUOP-2RJL0qSZ0ZXwsYBiIOCgwHwjUbKyPQ2e8cYxU.%26ch%3DAQEAEAABABTQTJg7nYFAvdou8RF1noZFJUuAapUZrVc.%26v%3D3%26pg%3DLUULZT426BDHDKTUFWICKV775E
+.netflix.com	TRUE	/	TRUE	1810219908	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGxFbmAbxuD2EVeFenNqJxYSD44BtWBos.%26dt%3D1778683910124
+.netflix.com	TRUE	/	FALSE	1810220667	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+18%3A04%3A27+GMT%2B0300+(It%C3%A4-Euroopan+kes%C3%A4aika)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb8802fc-0dc1-4872-8519-00986de59952&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1770299960085&geolocation=FI%3B14&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gaalav
+– Email: 06rama10@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: September 2025
+– Next Billing: 2026-06-18
+– Payment: UPI
+– Card: N/A
+– Phone: +918769728696
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rammohan
+– User GUID: RNVNGWK7PBECXODXZM43WMENTA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791198161	nfvdid	BQFmAAEBEEXShilN57Exazl060d1RU1gLNtT_HghdI-hm1HkF64CKG7gcIHrddpQumr4W3MYzq-dplguH-zuQEYERhGa4vzJmbyVeVqjmivvNktPG3Ss7WxHHS7ULOWw6iyBRnicsnaSSwuExprMPFnYzd3YALsv
+.netflix.com	TRUE	/	FALSE	1791198522	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+05+2025+04%3A08%3A42+GMT-0700+(Pacific+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6fa0e3dd-893e-4e0c-af2f-14c18a6aa6c8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794327227	NetflixId	ct%3DBgjHlOvcAxKtA7_KuCnxzje7rPp9-SjX1qc9IEkU1tb9rZiEq10-aailmmTJsSP8QaP2uepsPUg-yIZa4gb12p6RJQILfSbC2QsuEH7cVKFKO_CZbCTUtygJlRPx98rjsqqwKNafUN_kaQgYwvjsJ24zLttfpTdK2xJbZmZPT75mEzyIPpDHXe6qPCghbZEscckMVckWwtRZ1RPhC-ngqsQyiIN4eX2bgfxsCWkKIuXNeY-M5MrQPpEcSiR_nlu1Br-klTvqGCJFidyjUgYolzEpzWug4_aITtmqWyhsd4BA-SgGSqtEk2e2gHs9dF_z-1Tf-06QPSuXgopp2y79QbGT8xiOI04y5KaOujUgwXCga-6QrTXZOe9H73V0jTlFPHS9M1U0xSaxlYY0DHKB-Dt_7lmf32nvx2wzDWvGAH-2nlqxq3Fo2xue80IpjM94KSqhNaT9x3puNr9NIKuGqcaCwmqsH6VxFZAkprXHCd-cdwxhWCw_zwid2zTWAGGBI8zUD34KC_sgd8v4AcmCPGfiS1iogHJibNV8cU5f16uI5_rikXXqR0PwqhntQOu1evC2SCTUcBgGIg4KDGyPf6r7jHhgKRp-Xw..%26ch%3DAQEAEAABABTCMNS6TaC0941kEG-iqzHAbre5CklC8Ow.%26v%3D3%26pg%3DRNVNGWK7PBECXODXZM43WMENTA
+.netflix.com	TRUE	/	TRUE	1794327227	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSw3gi_o4TYLhbJVsWh8hizBcUcUUJBvxc.%26dt%3D1762791227593

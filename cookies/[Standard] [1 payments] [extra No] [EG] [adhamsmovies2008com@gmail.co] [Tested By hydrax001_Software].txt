@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adham
+– Email: adhamsmovies2008com@gmail.co
+– Country: EG
+– Plan: Standard
+– Member Since: November 2024
+– Next Billing: 2026-07-06
+– Payment: N/A
+– Card: N/A
+– Phone: +201005021397
+– Quality: HD
+– Streams: 2
+– Price: EGP 170
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adham
+– User GUID: PTOBSJN4LFHO3JARHSUJQUHAXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808216206	nfvdid	BQFmAAEBED0TbATwtL7aCnUuAr1Jbpdg_L-2ztZalIUWW40JwscWYtY4vADZVt25HP3NU_1SLAZNBWwcqglp45nzfPJils_M9qlXcqB2qNuQOb9nVvq7-TjebVONfjfL15Vo7EHxp9azfuXtIdeN1m5vafsLl9Za
+.netflix.com	TRUE	/	TRUE	1808481674	NetflixId	ct%3DBgjHlOvcAxLyA2-XWPkCO7Ad8MLs2C4rsfJEOvzMfPbVUQjxAwhcV0hlY93FpYndj7pn-JHKLlH9naV_imII8qA4MWoWV-EWkARJyHKhqLnk5tIG7jjWBMgtnaq4-aEa6fNPIWRaTwPDOS-2Ujg3iDS2tSRjtUvEApCrRw-DKSxWMhSWTq2rAxzfdhMNIQCA9o87HQF_gBHDXoKHytz_Tti9mPHVwzxrq9fIMiAo7EqAfhcU6wbircQE6jf9GvcG-ym62mi5ouguvEnMSQtFmLnDE1iVp8HQkv3ZIlLaz9ghyo_sbYvGeCbG1yFYoYLvoJOPaSOmSkTTCClzPxizXcqfhYb1ANlNuaaVbYIlCAJ0XN0szjBGSYKZ1eIZtTyDLGxleLvsVl8JExUuOx_HOefu37sjW96FnD44sh7VyLa7Ba1C93173EYhCXCe5js3I0Sx1L5UtYuKk4Muilr_HUNvA2GOe_3D03q9ousT2xHPnNbf1oR4BkzdzzwUk9BfORG65toz8OMJA7bPSLJjEsoI1vEDl-XqUaTrt9zmsY1RvDbEMiVesjEgvKnXlYtv7PKWJY4sKB3jZRbhZcto-IcJCmug_aGYyoLpjeQb3G9J12yaP8uEFWxjItFOsI5xT3JXyiPiWRShzg8A-C9S4t5zFD-T9rn7NpJq4hgGIg4KDLKpln9sl-YgpQCQCQ..%26ch%3DAQEAEAABABRTzKlEwlWTYnNWKA6BKoyqZvDuHpbyzJQ.%26v%3D3%26pg%3DPTOBSJN4LFHO3JARHSUJQUHAXE
+.netflix.com	TRUE	/	TRUE	1808481674	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTtvw90Ih4m-wcjFTC8QHGZIzZ3DYP6XY.%26dt%3D1776945668939
+.netflix.com	TRUE	/	FALSE	1808505194	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+20%3A33%3A14+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9dfe6992-5ede-4e77-bef1-f5965ccf35f1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776847314752&geolocation=US%3BVA

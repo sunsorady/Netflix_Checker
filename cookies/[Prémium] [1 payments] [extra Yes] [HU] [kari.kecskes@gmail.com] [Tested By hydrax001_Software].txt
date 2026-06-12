@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bernadett
+– Email: kari.kecskes@gmail.com
+– Country: HU
+– Plan: Prémium
+– Member Since: 2020. január
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 7431
+– Phone: +36302276045
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bernadett
+– User GUID: Q54X2SW6UJFC3HDML3RO7AJUPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEBJkgbwzoqjCcpV41hXgRxNgscxDSu5JgNLbarfBroD-3_tp-ocv1-QGvVzRvWttwYr96YNANz9qnV8JRAE2T3zb6ORZM94S3ZQ_AQ0tN51zFtB1VGOLz6h4ET49s3e1TsqbJjskGvZ7r2mdwyhRe14W
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBQAOAAEBEJKoOxPwweu3myuP6IPfr4aCYGkNpXw3UrwOs-ei1_KX0PN7hd5DgiMwPwujMnMFrgLtzOB90BZujp0RGWIlfdSqN_jOTQ0W1f1ZZR5c-1mPQ8DpgFcI9SqW9bDBheROSOFEoDWgqa7l4D1_UgZSP0ghXaoUakttIJhszWXEb1NYmrmLzd6w4awhSJq-xqh7cwZo4S4qlUCZPnNQX3IMwWJ792J5FJiDjXG38sOS0Cs_1gbQPNUZb8GCSeHM7DbQi5kqnVqJRNw3B3-LIucvzf_oE7mQJWIwpZXwkgXGamKw4q_WJJGJPFSd_78QM5v2mJR9avjHQXR6e0SKJg_Y79NGb2eGhTeQ0iB53B6yBfEoEmI7HQZ7e7fUuqy8dZkibJ2UiIqDttkA8JQ3wDnzVRNuauFyviudhejV0aTisCoeG5F0r24unoAzeHMS_G7-1qrRKbYulNpZPqz1LFRHkmQQI2UGuJLI5qe_st-CiVQuumMQ5kD6SLL8lp2NUrKn5QEJKRJbl4-iwgk64tzsCxy21-ELa8LbbRZCZV9ivkTeMUcfHe4JrNE0PPeN9W6EkUqNbIydlaO0-ZXRW_8_pU1p2fYjv3BVxFh_t846Gm7MRKjYW-wol9xW-rioV2VgRF3rQCqh6aIdP1lK0RW9df5tTMzgxd8BNuRRpU2cxtZ1n5da0uNYYJE9C33HfiFVDn13uUjCOXVGr5d_ULFC_Nqj-03DHrfMLb32Jzjv56UVeaDP98zK-fnixw7BDsluGwKDaP883YWluqAgwvakTrKFt9zqferQKXAJWjvIbWmuFkETkbP54Aggqj5Gj-oD327a%26bt%3Ddbl%26ch%3DAQEAEAABABQRBA0py44lFzoAUTv3p5lBI43_hPW1EMo.%26v%3D2%26mac%3DAQEAEAABABRfQ_WFFe_wcMZxi1fvgo1vzKN3GrNeMiU.
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTJptnwAOOJHt7_BABkRkCVCd9HZIm2pKg.%26dt%3D1716970417766
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isIABGlobal=false&datestamp=Wed+May+29+2024+17%3A08%3A54+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202402.1.0&consentId=42909c01-375d-468d-8662-0f104c124846&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=HU%3BBA&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1

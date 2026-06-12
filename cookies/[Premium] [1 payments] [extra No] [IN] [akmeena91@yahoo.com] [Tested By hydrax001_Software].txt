@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jay
+– Email: akmeena91@yahoo.com
+– Country: IN
+– Plan: Premium
+– Member Since: October 2023
+– Next Billing: 2026-06-14
+– Payment: UPI
+– Card: N/A
+– Phone: +919408403460
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: akmeena91
+– User GUID: ZPTSDFRIQFANPONUKLO74B7XCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781604684	nfvdid	BQFmAAEBEGu-y6igOfQCohmO8Y2YiDFg3pCQIRsvVvR4MajQhuNGsuxhRvNMRfq2sBVny8PUqG5K4UVp2yp2xRjWs2p__XqQ8FE6adam5TY6p9oPl8tIuCdhJtT7OA1BH78nDeNUUIRwOqLIl8TmouRIVVkwsmb_
+.netflix.com	TRUE	/	TRUE	1807886388	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA_4QDkMBQhyrPkLtzYAgYZwU0sMW3C1R6D1vxBX6JC-ZrONe_cQhS9I_youj8zpJqN-_j171jp5bM_Jwg80u3d1cCf36rhPx3YEvldIPKBr0Bm27rCAYpoQPaEP0qIKe-VBxvUIFwlejhK0obAl9tzDGBI5TphC7lLeuCVGCc8zN2YNOhYGiUliRX_nXgkvJGGm5Uml02_z4xI_xFJwTu3iTCI81kj3ZFiaMbDH-dKtHQsi-VTGFu7yfkncHIs4Boygu0of_5_QZlc1IVsXOLbc1y5NXdVMdiO5gr7dIsSy2jLdXzcKNTtJ8zvk8a-32BmPImZ9BuCC4eiRFDujr3Twy1XPtoGmGFime0Q2J7TNNnvF6voLbFodGZiOUbClCzb6AhnU_UuQdRHhjRZV62_CD_OcDa8nKSVWY7bJXGiQ9fyGdBJWCJYJqUjf6_V5xzFUM83kwTu80d5uA0h3JKGX_EIwqJj0Ofg3cSjBsALyzmzUABuwIgm4XU-WkKlB1HyYdMmnKCRKWlsf8Mdkw5c7NxJwSOKdXGAYiDgoMz8k21oDaZ5-xI04G%26pg%3DZPTSDFRIQFANPONUKLO74B7XCA%26ch%3DAQEAEAABABSAAYJcJMHFKIGDGrNht6qs6K-bXCjMYjw.
+.netflix.com	TRUE	/	FALSE	1807886409	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+20%3A10%3A09+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff8c1cd1-bd41-4a92-97b5-06403ca6382f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807886388	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR03bFwh_j1SXEyHZsbokMNEoMFL25UIJU.%26dt%3D1776350388867

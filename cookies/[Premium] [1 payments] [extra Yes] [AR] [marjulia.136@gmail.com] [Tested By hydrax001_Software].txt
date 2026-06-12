@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: GONZALO hijo
+– Email: marjulia.136@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: mayo de 2018
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5669
+– Phone: +543888569265
+– Quality: UHD
+– Streams: 4
+– Price: $ 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MAMA
+– User GUID: Y5GK5JIOBBFCHAIO52V7ELOFYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804385243	nfvdid	BQFmAAEBELP48LlVEMLAheeGmXo0pSZgtS5fHgImjVWx5p6H8O-TgvJ0vA305MzYt1YcSCvV2jCldtCE3OE_ZXxCOG-Te0njHbS7untIybtkw4p57oeK37BX1VB9eOlZEpW1_ZNyjP0nzlxSFy05ttFnyPVboOiq
+.netflix.com	TRUE	/	TRUE	1808440579	NetflixId	ct%3DBgjHlOvcAxLUA_qOD2pgkscdZFXfaZRaLBMkCCXqML3GAbWmtXp9uRN6GiRNRm8tb_bMB6n7A5gR7IUW7qmXFUweFhKUHSoVn5SxO_kPEdhKLsz5RpbTJPIUrOQntg_56j7Sb7hsTh-hKccJSjyvzwXPlujP2b29fRKs6br9TtPlq6Xqo2Z6KLSLJtY3pOX3k0Fwavz7g2dhvPjiFr49ghUHZywh1t8UxWgPbpzIewpy--7ZA2dw7yK2POy6HLejn1nG1mgjfDLkCGY5P9bJ1iS7FrUePLBlZ5VzyUuk-r0Epa7J0jSaU2DJOoNYMx_-FboY3hxepkz99R_zTl6Qj7VzqvtbVdxSgIU5yT0-frYWlZlE0SPTY26bkMhhkP6MaqjJ4Pv8Be3NQTvsmB_Ia-sK8wnncr7PJYJr2FFGcnY4hDhvwic2dH-js50K-2TB5_XPt4yG-zBnRIvpOVOq8aN5laTezVqZ8Q5jwEwf6Q9u-LQWPjY9pDIRKRtLBDPAq5RvJKKJBrLiWh1GDvd4Y4-1W5ADzNlum7malvmNMGz5pzuRp4vMa_CNjroC6Ak0IicsTzdAppEA1Bv8YFwCnevs2JWe23tgq22SdzZpPwuwCveXBopay59ggUXmHRgGIg4KDH7tN6WA-dQdnaQxzw..%26ch%3DAQEAEAABABRqH6hL_WFtkfhJhSPt9IAXX0Xq08kyIi0.%26v%3D3%26pg%3DY5GK5JIOBBFCHAIO52V7ELOFYA
+.netflix.com	TRUE	/	TRUE	1808440579	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-27IkhC1gjbhWtGFLIip-QxilI2jyzQA.%26dt%3D1776904580130
+.netflix.com	TRUE	/	FALSE	1808443887	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+22%3A31%3A27+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5e4a8622-bc27-4644-9e44-da37521b892d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772849086075&AwaitingReconsent=false&prevHadToken=0

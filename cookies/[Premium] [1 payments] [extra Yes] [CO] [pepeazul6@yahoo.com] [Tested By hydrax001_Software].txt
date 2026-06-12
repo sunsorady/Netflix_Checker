@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Isapisa
+– Email: pepeazul6@yahoo.com
+– Country: CO
+– Plan: Premium
+– Member Since: April 2016
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 9240
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: COP 44,900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jose
+– User GUID: YDNABFACJREBFGWEGDNP67UZEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801251461	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+20%3A37%3A41+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bdcd7e62-325b-49bf-956b-ba8122e39d56&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BPDL
+.netflix.com	TRUE	/	TRUE	1801308872	NetflixId	ct%3DBgjHlOvcAxLjAz_ej1KNorV81v3vkAryII1i64Lf4LADP7ZUPipEjLUaENEkscFq79hKDjrptsfLZAnQkbNA6i4SiLNXhPFkNDGFagDswtkK5wMkiXrmWNHqcIOTkOX3ZoJ29qOG1tpvHJjJQReIWcSO7OvZ2GM8p1e1lJj-0bmaSwka-lUXPH8Bmvz8R27Xq7uVgOJiDOWExlM38ZOZNiuLBe1gKW8ERcTMyl7mohakgwCR-A-FqIhoVrDlIaQgaWY6lIvAVNLigjdfbnY4NQ4hq99KDUVBka9ehRlJyNpA5Rl-ifu7iLoBmc1uqoYaUa-BatUine-jkp0Ofn_bU5FLbjPkYoLjdnGF0y3zQePLys6i54gtUrpEbVx9hEZwmqmmFkaYXivRZLlAr55CwzahENHQFA1nLBurycw-QVRIt8NMhSbSumqW4jPpDIOREaqe2I2J2owUnPEycrshymCV_yv9kzUxXQT5gVwJiVxBL_ZSDGgwZnzZgZDx3A1qh39TX8EmyIjytXd_nIJkpX2lsbLWOjFxJe0aB5uzXl4k47vrj5TdO6p4MDoWa1miDNbgHG8uN5oLFe_-Gnr8xZ39bCPOGkxxbh4bYQjlOFEzpBWaZL2WX-cS47ooNHQRs0VZ_SLLLgS7MruE6hgGIg4KDNbAOWy2udQLW05Vvg..%26ch%3DAQEAEAABABTWBuE2SvoONGFsieyYza-iNWIXWDZIkzM.%26v%3D3%26pg%3DYDNABFACJREBFGWEGDNP67UZEI
+.netflix.com	TRUE	/	TRUE	1801308872	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT2VMg55nJhKHfAS5dnskS_qXHikKZWWFk.%26dt%3D1769772859300

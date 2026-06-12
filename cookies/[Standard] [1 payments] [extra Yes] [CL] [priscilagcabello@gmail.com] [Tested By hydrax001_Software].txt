@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hans
+– Email: priscilagcabello@gmail.com
+– Country: CL
+– Plan: Standard
+– Member Since: July 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 3467
+– Phone: +56999484926
+– Quality: HD
+– Streams: 2
+– Price: CLP 9,990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Priscila
+– User GUID: 7J7ZBGI6IRG7ZF5ZGTMQ5U2QQQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806891130	nfvdid	BQFmAAEBEFnBQtWyaImNjjVyZEu8F9dgYWuOkKp9nD3EMau-1-ha8INqiBc-PlixfWaRXRo7FEXZ0LIhCTPReImRBP8iFIuu6Av7f7YEp15hHLospC0gT4S5lDGsSCSwazbDvw_rxjmzMVslv1V3sj4X9WPektc_
+.netflix.com	TRUE	/	TRUE	1807675049	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA30N9BD4QumclmXoxClaQX9vgpKhHV45fQNBQyFLggjK8X4LD4JDrnNh1Rxzap8WAEaDjrfGTdKSNgjhAweLrGr3aJObtliKQckHs9Z3gMgpzhISPCTBu8FGDVQvyEKy3BLmddIBFPYm_rD5Ikf0w_kkMGLURFVDf75ni73D3uC_8OHD_01CKfGMZYGqUDUc1bMBtH1xwwa7DGRxRBAjRdBbr3ng_M6NpDq7P9oFhiX1taK8dq3kC5Y57sZCBF8hXWUTjakusF4-hKc2Xxru_smWOn2yqn55Xwi61JrOHAyCkQoSi-aCOj7mafqgdDAZ80ne5ZvvG1sAZvDqfVpGkupel_OHrexv3ax5cfMM_KdmvE4pxaNYNR81CRFk8xkku5Nalfzgst4YuvkmLTttpPydPB72-mOjsdrENj8e3sindC7ez-8P2xUeb9aWVx-w13YMdzQuEYHqM7rCcD00dkIgWulr94K1Ig4m02AzRxIBYAA2x_WF4pXnji9Ty9Z06lfV9EgdVTCRsAAau44X1L9ve9oYBiIOCgwi5avMiWFY_lO8pD0.%26pg%3D7J7ZBGI6IRG7ZF5ZGTMQ5U2QQQ%26ch%3DAQEAEAABABTfRPWond9_DxW7Z938nlY9rfjplarxZYQ.
+.netflix.com	TRUE	/	TRUE	1807675049	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3LfndQEDNFo0GwkUivGdqLd6nzM-BuEg.%26dt%3D1776139049893
+.netflix.com	TRUE	/	FALSE	1807675050	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+23%3A57%3A30+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee7c14e0-7545-4a5d-80d0-cc3c7b63b2e4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775355129588&AwaitingReconsent=false

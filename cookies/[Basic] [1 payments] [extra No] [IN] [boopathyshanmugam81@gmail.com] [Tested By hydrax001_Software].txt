@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abhishek
+– Email: boopathyshanmugam81@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +918939707600
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BNSD FAMILY
+– User GUID: LFULLOGT4RDT3HSXCUISFDZLWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803267056	nfvdid	BQFmAAEBEJzvJsMLefu1i4lKQn9Y8-FgC-F424G37gkNhQBYRObGsYKjAC7QSzKdoxLXSNW6opS_V_4jga6_lIDbNKPGjvb-gD2AXC6mpPWfcllJvjrfSSIxpq95Hsorp19Z0pHiEhMOVvODvCIdhztV86pUlrRx
+.netflix.com	TRUE	/	TRUE	1811208322	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA9PBa4VJN9R3m856ZjhZLSLwiSMboSBRAsTQ917x7ocr7SM1WWqpS2y3gNOfEWpsZkenX3DsAZZfkk8ZF14frHiRmu76Wwiakev10XA9J6PCjxUt4x6-xBk4mc6LYt7rZqlLL6SqRhII_KCsFlIPXdlQm2a9TeM_Uizhf-fR_Bki9C5sRw--zDgDgw1iu1dtXY6Fa8wYBDglEehJY9k72i9c1_8Etptq81A9K7Mz9T5RKg5fvII3XbNLf6TPdpAQbkKkCIrd6xblFuYQdm-XXi_R0SiiJRWB0nRP8-L8_PoyGo7VH9OtRNJAKPqG0XInTJ82RWp5ozcV2EIQNYuu12sQR8rx_hVzOe074quwpNGZhB3FrRBZfXlDO1J__hoAD0F5UQZjGA527NAjsvrOwxgosX_SyPFoASDXR0s6bSWmuggZraqkbjraYoVgvEADwskIg6kS_C1nisPRZob9qavNOTIfdqv8R2ukygdIY010aumuWetsvOBqlt3pTSEHr-gwigIAK9dvXQZ7D2U5L-hAE5z0wbI-SeqhBnUYBiIOCgy7XV10wbtudovde0E.%26pg%3DLFULLOGT4RDT3HSXCUISFDZLWQ%26ch%3DAQEAEAABABQB4zHRG-GANDJ-5xN2J95bODauMKFaDA0.
+.netflix.com	TRUE	/	TRUE	1811208322	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQzj2dnwMrkLcfpzzRnSA7eZvAT0oorLS8.%26dt%3D1779672329189
+.netflix.com	TRUE	/	FALSE	1811211816	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+07%3A53%3A36+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c954a85e-3003-4a78-8591-af63972ee3cb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0&prevHadToken=0

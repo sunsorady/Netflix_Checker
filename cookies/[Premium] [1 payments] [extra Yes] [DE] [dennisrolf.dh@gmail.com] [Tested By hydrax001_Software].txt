@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dennis
+– Email: dennisrolf.dh@gmail.com
+– Country: DE
+– Plan: Premium
+– Member Since: Agustus 2020
+– Next Billing: 2026-06-25
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4915908405256
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dennis
+– User GUID: GYZBHRV4JVHQLDWTIJSTEIKIEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794939869	nfvdid	BQFmAAEBELyQ_6Ib6pyqCJUacYEASS9gm3Q63j-FLd2YFvXwIlV1x7y35-o3hkruFIOxYsLH0BcCkQjtuLuAFYU81sYQ03tzW85OSf47vkL9wfrLEQyJNRUt-AElyRuZ9KNnRztc1IFQehHhRPIINjcEtuziRzo4
+.netflix.com	TRUE	/	TRUE	1806955879	NetflixId	ct%3DBgjHlOvcAxK2AwyuTo9rgawnvgUpK-s0SSexPl68tubJBZlzRLHUxRZiKa-FsowLpUSMF8yraVBZ9FTnvXMXDMqmvUEnti7dCOEQYDhNFKsk1sZCN6B8yK8m9v-n7zW8MhPsCd0GeEPjnvv9cOW9WkAgBQP5SY9DwZHTixa6Q-CehedWnX0s2erBR9ur9GKVhYkswnDYZIJAkBZ3KcHUXKM5ESTecAz8t32r9GhbtcyAf5hFjDXAo4QjoNIU5sEHC3jo-7A6knD0g0PX_XD43bRZdc6TPLlu2aqX0Wn-8PvjdNLNtivz9CpXI1tP4wGDyOdzpphnDsbu1q4kwEM3B5R4J4OkyFp5Ou9YDZDnIPqBLZczovbB4XlJKQUFneoDODNza8KBECL-cN2g-M1ggrE7rtu-N1SZ0OiyH9tPhjkzfC8i7KqS2qOs7ZNK9izckPb7HdX0J6v4qn6CpCmsqupsip8JaOZW3xFi3cW1To3MLbxtgJckaT_TTcOvsmRjKf7dWyGq3_rkOad1MURgA9J9jHt3VbaVHZm2coyw0DVEJVYXl541ASDbk_cvpJdan_rvT-6S77fvSrCd9LndaBgGIg4KDNNkl24wWNZILuko1g..%26ch%3DAQEAEAABABT07IAXG6RMXaePS4_7iDU5IaBCcvy1ytQ.%26v%3D3%26pg%3DGYZBHRV4JVHQLDWTIJSTEIKIEI
+.netflix.com	TRUE	/	FALSE	1806955881	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+22%3A11%3A21+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b7ae8401-6a87-4fa1-964d-2e3417484068&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BNI&AwaitingReconsent=false&prevHadToken=0

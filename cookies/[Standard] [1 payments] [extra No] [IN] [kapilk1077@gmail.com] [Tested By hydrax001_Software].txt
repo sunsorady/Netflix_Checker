@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rishabh
+– Email: kapilk1077@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: +919811400934
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kapilk1077
+– User GUID: UQ33V5P3KBCQNEHXU32HM5M6RM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783551685	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0Aj2HfEiZOldkQ8jI4Oo-CFbrsj8Ce_bj4zsy4_w9ELDNF3S0xldwyKn7tXIxftdsWdEJwX3JdoTCEN9tdel_PZnWwd-0QFj9jORTlUEMZ6EJmmIEGFKfi8Uwla3RQi_AQKmp1Og-yf4FTLaKIkFNPSVryHLWNDOiEmBxiQLye2UNIrg5wsODe1mo4ZzIR0d36eSsE9bEkBzUm3mXKmrbnDmQklojhu9dS4xSrY4JDB27YzFicc9EqJHUs5IDvZgDOJfzmoHbhvsFsI458yOVCDWM926K7XdR2BCCmW7vEEgXWuOcvzbp78yd4HPRBVuw0YVtJ6Yi3q0vk3N-CzUmmZMPFECrTl3AsP0nJXnU0c5I4TY8m89WagRkX7DzwqTm8XUAf6kVeJVdt5KLNbL2gQqJDhU1pRWs0YswvYh2sWn9pP2zyT2nevRb2Tf28J8-CikPk20wzJF0-amcleQUeggTztQ0Ff2dWv0Oa7kfkNtIB_e9TBgGIg4KDCT8jOOmeA3lRNnKuQ..%26ch%3DAQEAEAABABRiPeaKxmPLmOGZKh4IO_S1HJhJEXlSmSg.
+.netflix.com	TRUE	/	TRUE	1783551685	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSmuYHR79beaTOWhqTxgzuEk7bID5GomI.%26dt%3D1736157833242
+.netflix.com	TRUE	/	FALSE	1783551685	nfvdid	BQFmAAEBEBHj6NHB3FLOZvkXSl0o6e5gBbtoUG0-A7RdcTWUEeFhhj9ibVLMlAuffe_tOFmrY3H3HWpyu8S5Vw94CABisaYQLQG4LuV2FO8ophV37PLZCgCkwwSFfVViNBb3EvZWd2uOIfym7A7ZdOpZXUF31Q4l
+.netflix.com	TRUE	/	FALSE	1783551685	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+06+2025+15%3A35%3A05+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7847ac18-4f39-4f36-ace5-adc3ecfdefdc&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

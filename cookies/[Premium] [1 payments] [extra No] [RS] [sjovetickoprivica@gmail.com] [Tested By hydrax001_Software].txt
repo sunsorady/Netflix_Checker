@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Branko
+– Email: sjovetickoprivica@gmail.com
+– Country: RS
+– Plan: Premium
+– Member Since: listopad 2022.
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2841
+– Phone: +38269391855
+– Quality: UHD
+– Streams: 4
+– Price: 10,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Svetlan
+– User GUID: W3L573HFFNHMFNW76X5JKSYYXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEG58_ESgHMS0-Kvp1_kQw4dgloctOr2rOZfiZ0PLp5ucypyg473U2RKv51aNsgkLcA1P_Cttyp53Whv_9-NxmiJo_wcjCArJrogwFCXerwWS5SncuuTiuJXNv7NAPiLVlCodQo1rTwjSWk62QZFR5OY2
+.netflix.com	TRUE	/	FALSE	1783792316	OptanonConsent	isIABGlobal=false&datestamp=Mon+Aug+19+2024+20%3A44%3A56+GMT%2B0200+(%D0%A1%D1%80%D0%B5%D0%B4%D1%9A%D0%B5%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D1%81%D0%BA%D0%BE+%D0%BB%D0%B5%D1%82%D1%9A%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D0%B5)&version=202406.1.0&consentId=8af603d6-2857-4bcf-8868-7f1ebf921530&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1783792316	NetflixId	ct%3DBgjHlOvcAxLeA1zhgC4fFiPintgOtqwAzNZC_xxPKcRmP8DktzsOYF5L6fJ6AmESFozXYaV1TzUTL2P1g_6dhyuyRxT4N362M58gf2Iqe5w6Hy3F6uwzIGqo_UD-izvS8oZUuimJUAgRoXLzYhMRIQHFyWHg6XuBnRz3HF6GTiEGSYyD43u0T8xTHDVeDPoDmYYImC8ZsKKEWYjyGYZQaDiAkF--eWHCWGQYvj7jlK6MLjhmKz4vOINyHmGpmTj2HlNwn2c2WWDin0G2lOsWKgOclP0d0jAGZq9M_iq9d83X1mrOalMXj0aVtm4bxBIch76HtUHz-tPWYZEQD5puCo40DTrUTdELLQ6smX9qLWiC1EnEe84JR3JwW19Xn2pyfNOfhdTeSG_B5gSneAklCMr3y_Q7X3-GuI6JXMJ69g1JtyQC8AH9KmzXx_W-ID73GYY2XwPTyEd1ABjlnLHgW3FEwx0zbPwk5K6pq0GWx6N6d1ptQ2XoyEJPbUgtlzIrFFa8XYBV7_kO0aDFww_Z7I3RpxeDY2lvYU8GbajDqmJrqhAkBsaw52xvF_T9a_o8v9ui3xwQI-Ig9DEJ85Sx_ZY2tWavZBqtn0xp6ytp0_UdQ1es9AqvLafbco6tmQsF_d3E-xYSnQMYBiIOCgxMFrWiX4IoZGURGDM.%26ch%3DAQEAEAABABRxYt-wiOcBnFa75VYUdfHeEKnkdEvqYyo.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783792316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT95BVBU_nv80_3LoY6ZfveMZZclZ9KPUY.%26dt%3D1724578969768

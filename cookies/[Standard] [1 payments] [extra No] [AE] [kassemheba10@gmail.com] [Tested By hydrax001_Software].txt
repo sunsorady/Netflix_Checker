@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jana
+– Email: kassemheba10@gmail.com
+– Country: AE
+– Plan: Standard
+– Member Since: May 2022
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9045
+– Phone: +971501946976
+– Quality: HD
+– Streams: 2
+– Price: AED 49
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Heba
+– User GUID: 5NM3NBZZTBERNEF3GXT2LRMROM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796045440	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4Au0WFC5QzS9PJ9O8HzcehPXY7a9CRLOO8jpsY-kHycRw1iJ-LfA5hFmmQpMa3-IdQch27E3ArdnHza6_BNug1tNO6ba5PAN6jAhJeiOLeBMxPfCbrg4u6LiL-uLPpA2cfLVaV2xhQMwA7A8D8XWZGgYVy6TI-y7lgTwK_b2f7_a3i2km0bSSeGhCqhw3pJtPhxSjStsEE91JuN2hNWJ8eM-PMPdqkMAsARwu4F-g19x8wSPEEP_FaJUzeS3ylEoplaY82v0G1rtChxDSBbDvrj3LH7kV7PyIzI5FkEb_lgdKKFpvkd61f15h5bIoBYVd7gQjZiC7w56s_twPr8I9iZt4qCjn-K468FVmhrrH3bYJAoE0aJVIgmOScLuHzOzuPvwqlqE1gTmjxR-gtgPWdS-7VOOy2nDEBYMXhdG7tAcDhDfjCnH9pzxxNqs5DOsQ4UgBF4pWgW_p7JA92Imju-k4_v4Et-YWIyR_f9KLnmBlAl_LO4B3mBgYBiIOCgxqfpc4Q7hTB1dpq70.%26pg%3D5NM3NBZZTBERNEF3GXT2LRMROM%26ch%3DAQEAEAABABSHzlTGP0u5YtimQvwYCUOGmzg1jw7s6Qc.
+.netflix.com	TRUE	/	FALSE	1796045445	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+30+2025+17%3A30%3A45+GMT%2B0400+(Gulf+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e434d181-1b85-44a3-93eb-81d87d5550f6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796045440	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStJe_0r2C_-0HFKRMwdEzgw9H3wj7nI_E.%26dt%3D1764509440345
+.netflix.com	TRUE	/	FALSE	1796045436	nfvdid	BQFmAAEBEJrGJHw_FHhzpQbootUjHMJg529bgxqyFjvDEg_ee-Yoy4owK6tUosBJhpl6VjI5X4_QVJ5X5HLFeFBYtK3uDtiWFAcm7ovLdYndOohd-4zHqqaOtDNBZ1WFS1Ib7XGoIQn2xqdRpOyJqxHdkykE3MbJ

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anurag Dahiya
+– Email: paragdahiya123@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2023
+– Next Billing: 2026-06-14
+– Payment: UPI
+– Card: N/A
+– Phone: +919992329202
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dr. Parag Dahiya
+– User GUID: MOE6T4FEMNFWDFPYE55HAGHX6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1778430891	nfvdid	BQFmAAEBEHp6u1nSgblTyhlXDWkrjV9gpc-pdU_YH2OfMIhTRhGToScBlOxjA4RIhVrhYkT3rwk4HgsrApN__JGO48If3l_wvGaWFi3Sy7lfRHbGhRpujcSJ1PgXYhdplpqCDeUU4BuX0mHwvHJedqWsr6Xc-3zu
+.netflix.com	TRUE	/	TRUE	1808571137	NetflixId	ct%3DBgjHlOvcAxKLBGsJPNfB1_0Xb3TLKCgfqau7Ll0Or7XSfzLBS9ga2dvmQeVIPgFKNNp4jmzmh6Dqe3TiYM1KKphv9al8RqlcQCamANdHDTD1DrtHWF_2yTS4quvW9-3KtLEpuo83IyPxbwVi9m-JwBzcFSc8nHOwnNQGzVB_7vKUzNUaNyEhbcZHT9twno91AYmpzQyjL1cU1PWHzzD_S6ZNTu-lQbc3N89TRJj_wzKc0pptJLRZ4-AplAhDXE1_vmc--CIWQeI2G5DAIZXsKLTgOADq2MonA5cjJvkkekZWWR2j9H5IVMILZVsvNkHIGwi3hnrplUrBsfUR_wyzsyM21dBRxM3MnVn28Jp43cII6TU8GY3cCb7M6MzU-UDRTkkckXhQcg_6YXsD4FQdg8_bA_C5k6e3b7P6Erb3R4-L9AQA9FKnOsWSCR0imlo07MBHiMYYl0-aSYtos1UhuZXBK5XOiu5xoCWJHPl100ehkmor8jf6JzuBn8JKD7qvL3mszLS4cdqbMYPQgfe5VPs4H4bgW4r5VjwrxZ3c7bJN3xDbxOjqCEcQZSiw-IlAW1TffRtANSnGU_IUF7NncRKSmKjmIA1O8vM5M9q2S--60nAydwXoe8f6Atia6TqVs4LZdgv5bt6IT0fZxRINpqj-SMIBRKkQbsM5naOrtUApObNU-xK7RyM6uNZ6zKGaUuWAGgoYBiIOCgw4s4BQGp1xOAseNHc.%26ch%3DAQEAEAABABSdSVQvFGh7OP7yVmAsPaz5etjSfuXyMyc.%26v%3D3%26pg%3DMOE6T4FEMNFWDFPYE55HAGHX6A
+.netflix.com	TRUE	/	TRUE	1808571137	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDsk1QLnjpbXiADvWYgB0qHoVSMccEdOo.%26dt%3D1777035137578
+.netflix.com	TRUE	/	FALSE	1808597521	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+01%3A42%3A01+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8292d0c-7040-4fe3-a052-8350bd43bf90&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

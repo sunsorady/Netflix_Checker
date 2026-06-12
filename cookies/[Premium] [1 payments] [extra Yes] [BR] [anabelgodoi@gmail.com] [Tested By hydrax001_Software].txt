@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pedro$:)
+– Email: anabelgodoi@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: junho de 2015
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 4842
+– Phone: +5548991257157
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pedro$:), Abusheikha
+– User GUID: GJOQPNDW5FEKXCPRSYL3PS35HU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799174679	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA0kuSCw9TdBMkav3t0d_6WFBIXDDHWzCKNLeexbBGQFmqCO0OUKaXmur0rZp0YyLiUFdalZIKlfHvD6HYskNdsBnm9BtkXhnmHcHoPR16BhPq7R0hy4deMCJ2azSdP0eAajNAiFmz430C_p4Ek8jcyaFRKmL5YfB0opsahIBqlO8oPo4tgoV47edrEsLHQSqtiKioRmdopZY3YKLZ7pxKoOQCV1LdRtkuk0VKdKfg5DZHwrO_4ui2-CvZ62vOOCTabMwKewV0LT07vS2-SKg9g29yTLqJ29plPBso8BCDoHrUIS6lVUuQegyWTpOE-PIFewBDicIXcW3w0PLcnnTyM0AEXATgumgPH7ec9XKT-JxSiRHlWKGIvCErNTSeU_oOZaRkS2krgl7nqsvrzyudRcagRd7wjICbfNW9yAIgv1qG58fX8Fbg2U5kZoWSxIXSufV0SOwv3gHNewBzK73tTLzYsA5_y7zjgkZHOlSuoFESrN0QlCpI_gFzGDj_0Sk3L5oTUJjAmXHE2kcv_TGPQMcqVmjGAYiDgoM1L3Mm-zcKWG1ocRn%26pg%3DGJOQPNDW5FEKXCPRSYL3PS35HU%26ch%3DAQEAEAABABTG61cRpZFN_rtDVZu6NLpDBOzbT5m9StY.
+.netflix.com	TRUE	/	TRUE	1799174679	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0O2yC12xuMBPfRrCEF_qdReb5wxZiRWs.%26dt%3D1767638677998
+.netflix.com	TRUE	/	FALSE	1799174679	nfvdid	BQFmAAEBEBNdWbmvec1bYVZ4d-W5v0ZgGmn9E1lmPH8QFisqcDIXgzDm9NcYmN6sa0ZUEtXrSIgnEZOydHSFT8XEGBKuQWhin5rcy6_V0JJyVSHI54UYf5rLNsQ9F_ld8QUH51A23RfwFJUWoUxRcUbGfzmxUjuB
+.netflix.com	TRUE	/	FALSE	1799174680	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+05+2026+15%3A44%3A40+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c33bcf4f-ae43-41f1-88a6-42cc4b312094&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC

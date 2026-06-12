@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gemeinsam
+– Email: heikeickstadt@web.de
+– Country: DE
+– Plan: Standard
+– Member Since: Januar 2017
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +491709962249
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: heike
+– User GUID: 3FVYTBYZZVHFFBMGHMB6EZ5EHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794594996	nfvdid	BQFmAAEBEFAqpUsOH35WEnFYyP6SR41gPbVrUYHxtzNne3iVHmFF1EcTu7GWlst4SE_Qj7yFxemb4ozscgXbZ_pV18q0Q3-ek5oGqg4nJwGtZPkwnqwLBBgJADWRCHEAI2zEZkxH1x9KMFjU73TCNJuygALzoXqI
+.netflix.com	TRUE	/	TRUE	1801768795	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAywzgt2RAeHEAeOvV8KHx2geNKAQEj0HS4AVwe-XjaUFJiireInUjVAJbAIaYbHl-xagK19j9XBMjVgKAaLQ0TuNL3wE3Zj1GgGUHcJTjXhYvb0E9ua_1opRWVI6qpA8m37XPHHPQvv5HwjhnKv4RydV2aQWBSxPxpEtjvbc4E-jn2nUNOt15GUZ2FQCPGrk-JFiPAglLQoJpxwCqXTYFWsb0UNvXOL0kNDFIsevtAsQq88BP5MBnRBK9i_hcg_e58p6nggYe0uOxl0m284EnCiQdXmppogRb8ZR3hG9EhNkXHdOwds5xa7b2j58OK1et849AZBr9wNwyRxzPRAv2p45tUA287iUfoyOMvNRiqAW1AzsFKVLSk3aTNC0RVK2_FmG-QnIa5qIsPqY1y5v1b206wDEJC-O7rx1Di9k_eDuptZ5CcuDottASt1iuUHlNrIrTJLp6_hYGQFlPbY2KsTtwgjgFpLYzdiGdXpSf4qn-cGH7Dj-G5LjHpyIRpjlwxgGIg4KDKHrpn4kxn97VSSpyA..%26pg%3D3FVYTBYZZVHFFBMGHMB6EZ5EHQ%26ch%3DAQEAEAABABQomytq49kAxsNFNu0eL32suJZdDQ6R0mE.
+.netflix.com	TRUE	/	FALSE	1801768796	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+04+2026+20%3A19%3A56+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa450176-bea8-4ed4-8428-8fd29e8de45f&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=DE%3BBE
+.netflix.com	TRUE	/	TRUE	1801768795	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTI7u5rnqsnwzqsd9Zb5B0lF9-1D2YA6ms.%26dt%3D1770232797092

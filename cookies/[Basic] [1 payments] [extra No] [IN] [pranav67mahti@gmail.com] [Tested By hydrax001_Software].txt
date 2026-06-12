@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pranav
+– Email: pranav67mahti@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: July 2024
+– Next Billing: 2026-06-20
+– Payment: UPI
+– Card: N/A
+– Phone: +919607346966
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pranav67mahti
+– User GUID: SAQMVM75BRH3NMUFIHLSRY3NO4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785430580	nfvdid	BQFmAAEBEE3q8wGMqTZyvQ5T5ePjLeBgeoXwBTtfQus9vjTB_gdq4uKFR6FwVIq1WKt1IMtLcMe7iIP8YY5gdzV5Do_ZjuxKByvJFZUcrwWy13O9ivVny-8SUsx9ZEuipWK7lZnPpEg0NUBwlab3DoYHGrVmbE-4
+.netflix.com	TRUE	/	TRUE	1793468227	NetflixId	ct%3DBgjHlOvcAxLlA4Lx6l2mDFLeDCUZUz26fakEGFUhXSh8ICBXic13RpvleIUX_jK3p62z4Jroo4jCuM1ckHSJSgtsW9avwlxVUiEasKDkP6NKBBZuS4H26zrxX8eNnLszzUsGr3mVSonurT-zyQDxRoYrPOmHM6HJh5CPVYZktMJDYIN8wHAgAGAko5wKor9AFVdEEus4a2HDS8BOsn9orStYAbV75kYWZzNcvUk2tGMNiGvLLAMufojZdoz2yfBAiinfTXDiN92FjGbTqZJnSMvj594jFCAHmzB18R_PG-7lwMpmVGILuIaidbySJFc614D01C3Q3_7W_yYXGz3nZlsG3ikfiaonciJl-xamx0BUxitJusYoWdMhFKQ-1F2FzcIg5Nv-6ZkRrjfBoCzJ8y-6iG0F3gJXm9kspZRA1412A7ANWEZPRMT-m7dD9qa_FdPgq8h4oXEukCW2TxWkIgMXYDIeSpy_0BGPTvfdygWZUTSba5ZMb1qnC1rsGw4nSLF-vyE8AgiqT6I_1X5deFXVC0l3qvxi5UFTtgC0Y1H24i_mHtKHKpedskSwgQNhWQsmW7skqPQT_J4DE_PZOxp1HcfaHTMW1XSXftilj0SnffujjucjLpCotd2CcktHL2zSBqzFrMYTDxpBAGlIGAYiDgoMrC_4GOjE6CRzDAv3%26ch%3DAQEAEAABABTXRNy8W7CqPCAKK4s-tQowFCxZnM29Bko.%26v%3D3%26pg%3DSAQMVM75BRH3NMUFIHLSRY3NO4
+.netflix.com	TRUE	/	TRUE	1793468227	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrA9FpG7BaaOhgI9TiC_PSUsUX4C_2t-Q.%26dt%3D1761932218204
+.netflix.com	TRUE	/	FALSE	1793470054	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+31+2025+23%3A37%3A34+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3cb32ea1-cda9-4925-a640-9a5478a144d0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

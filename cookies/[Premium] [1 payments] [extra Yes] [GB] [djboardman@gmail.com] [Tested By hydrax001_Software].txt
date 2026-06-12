@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: WillLikesHotPot
+– Email: djboardman@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: June 2014
+– Next Billing: 2026-06-15
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +447738092510
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: David
+– User GUID: YUF4G3MF2JBS7LQU2GB3P6V6GM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+05+2025+20%3A08%3A17+GMT%2B0000+(Greenwich+Mean+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bcbdcc1f-7991-4843-b253-ca392f5fdf4f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBECWsKnQKUxWSF9wrO8nc8Ahgqy8egYm109ydvOig3DLtAKUXyrn83wYth__xIXcQIJIdBveS9nf6Az5y5ssSJDggHC8zRG2XcGsIxuijHPmKRtWemeHcJ1DcdtegApmANGZ0esdRiab-srfUcGsqzBhG
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxKKA8XeoyuyLpNf6nxq5h8Ubfh5IriZ3QlZYXCwrc0uFjrbQksrRNGYQVKbUNwiI2orWE9NWEuuYT8O4y7k4-P4b8xcfYFFPX5NiTNBVLfxKx9KY5GmW0NTM5R6mypmTWHtHPjLuJt4dXALzOPmhFN-jKZKboYtmSC1E0dNP8JmUVj7dZP8J-aKUKS2a-Uu-uHiA3O70606ToABlqZBKu--GPkdElsU1g0IjQrosyrcZP-omkC-207fPXO6h74dncfObbZIAYi9j7I6eeEAkbu1GKpTyn_9MFdnwVODFK3kFDMfIVD_gHmcCGQfmVByRb5GBsSAl7Jys4SFEIlCx92YZIey8gTOUGkRVzuei2g0f4mTnSRvn1kIZ96zWWlVyCLJD_qywBaPal3AVJHZSu40mFN5i8xjt3aspXuV9QsUtneAX0Bdrnm_Xj9InU1sQ89Zzrp9kHBR3kumcIwIC8kwLQT91iJMOELi-08kSEoPDRZsLLqb_6ijtWTdAXIAGtCYhV1CXJRASG4d0kkYBiIOCgzpZX6FXuHRoJQkfNs.%26ch%3DAQEAEAABABSYv6vDwI1_TYKE_AwHb-O-fkxpx0ovbCA.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQh3wcyA-wzYXZk0R1bz2G0QHem9RyOpmI.%26dt%3D1736618144220

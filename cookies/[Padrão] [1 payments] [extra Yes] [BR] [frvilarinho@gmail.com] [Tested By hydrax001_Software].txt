@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Flavia
+– Email: frvilarinho@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: julho de 2016
+– Next Billing: 2026-07-03
+– Payment: DIRECT_DEBIT
+– Card: N/A
+– Phone: +5521987578162
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Flavia
+– User GUID: H3ERW3CDKRCCFIBLUEM6NLFTWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEPf3xV5uE-u_hZDS5LKxylFgP_-AP-kPo-5EemaQxKseh35hV1ICklTWRJbijNrlyV3SdjB2RsfCvE50Wb0G_opH52F0-eDWTVLPhILvSX9UNd8aT0a4OV396EL1gbnPQV0juJRA0OEiQqLgti96tlpR
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSfJJMdWW2hy2OP1kBjfOwwV3JVij0b4uk.%26dt%3D1696365815355
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	v%3D2%26ct%3DBQAOAAEBELCgqueu3VyygKO0qNOA6WCB4I_cwV6feLyLECbAEwBIc824dWTjpD9Wtw5oK85SMSWm7NZ1dr-D-lqAGPX3wRKT1SCVt3Xo3XzwZcN8tP-U_HuE169AKv_DFqnVY8Dyuu1KiGK1-BUwn0d-JZr94JKcM-LVstQgokjj91P7lGxnbe1HAHWanPBLpHYuv5uZXN-sWCQW97cVQO-g8Hfii5H3YNZZZqEwFX3L87k6GTk9y1MeQgEFmRuIZOGyz5ynMTlc9W31b1wS1DU51xgiym2ZHLXL5qX-aKp_4GAHyYcFU5_2nc7wBhNc7tqDl2F9i55D3i9swkNuaqsQkwIXP2DG6J-3Eqh7CHBA5gmxrdYgz9XuvlSidTTrLKbrQMKGOs-LKpUWaKYX2kFoxVOkJdxGPewgq7yxrc1_OkXMAjc3b2Q06H1rNCX9FD8jPs-6MTReAOJ-kzXIWDAr4nsWHLGRuE-tPENthvZx5a8ibmomk7fqIL8bIrV3DFfAryg1GMGL4ZNnqA8gnre4f0QugVY0K9mQKGqcY4t9fuh5Un_5peUaW4NYi1J2WoCZ6VBYsbqOD--iD-Jp7sHcAVyxMc90VymvFPjMZAzQSm4V3z2y_pAAN83N7Tob_IPDGkAwgzeMzfEFWBtGz8vKA5xwq62uEQ..%26bt%3Ddbl%26ch%3DAQEAEAABABRxsKT52AdQ6dQViyG7n-YR8_TEGxdiRAY.%26mac%3DAQEAEAABABQ5NDPdRd9a5cD3uEFSgU2aX-B2mXxbJq8.
+.netflix.com	TRUE	/	FALSE	1783551684	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+03+2023+18%3A01%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=c4655320-cf50-44b1-8848-c10498cead9a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fefe
+– Email: mariaemiliana780@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2025
+– Next Billing: N/A
+– Payment: TIM_PI_BILLED
+– Card: N/A
+– Phone: +5511977371712
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fefe
+– User GUID: 6A2IODMMKNFTNIAEFVDMUGSCXU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794047470	nfvdid	BQFmAAEBEDV0WhyN5uR8tlNG9akTh-hg-7dprtQufRjthN8yvUXXbWgHBHOFe5h5-SYPz8xB23BoUu0HmA1_HzXaCiR0URaCqlIcmxEmmd1FEGikl1myLKFx2b2_zp_MWFO0hklNm1juzHoY6Nm8vNBslqkG7kxv
+.netflix.com	TRUE	/	FALSE	1809877807	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+12%3A50%3A07+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8276ad0a-8c3c-402e-b5b9-5d9de55eca9b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809991094	NetflixId	ct%3DBgjHlOvcAxL-A_igSy0XmY1f_izINvVF8BXHb9k6-cLUviqgAqYeETrkh8-Rwfs7v0qSiJrv9qi_yWRoRM3lj8V7lOgdiYig8njtfwUvYDi3y_OmIDavARatbL9DbDZevM7xx3G7exBOC_Gqu4DLfzrmYu726kitCy11N2ZV2k2UbUno1bolmOv5wRTcAieb-nCg57LS33n62Bn41mdD7sYLSU4ZVGqcHA0uVC_8-nMWbuDUFPRMZTNwVR79J0S8sH5NDC1b6zuzgR6biZ3k_EJSIBvsbEoZiRwOe01FH5bdmnZUcGuw41fPXobUnDxRFZbWDWX9nEpNfq0qBE88XTQ5rIQ9NIFz_uzJUn9zZlQ8by0MckCX-HAvKCuuGW9bvyOeaQ87qAOUElDhUcRZXwSmA2vviPpJZaIH9pXSdsF33jYAG4sKfK8xYzqQRHWTAjT4owI2ujlWrQmYJGSAxOfKaPhc5Q9WruT0UdaySIUfu63UOu1lXslawQEoFvQbzEWTx1QuEDMYeGh8lm2lpqaJJvIyTYd-an7C5wBnpefqM9lmjLdR3fA0FwjNYdo37egNr8gcHS09PCESP0A-FfxbvrIsf2BuMDUO88H9eVJ5EOxK2_zhhskRjp0hl8DGD_bdfnrARhajZoPki5sIvBCZ3goFbXlItCsPSkGe9SK1o3x7PrKb6RgGIg4KDJxbWIBkeqQLU2TnaQ..%26ch%3DAQEAEAABABQa8074Kb1Z9Rjnm_7Ql1qEW_lqtVOCFnc.%26v%3D3%26pg%3D6A2IODMMKNFTNIAEFVDMUGSCXU
+.netflix.com	TRUE	/	TRUE	1809991094	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLMBAN319lvoSrurE50A-9g8kwRi-eGnI.%26dt%3D1778455096050

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Valentin
+– Email: murgano17@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2021
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 2930
+– Phone: +33682159763
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Manon
+– User GUID: M34F3UV6ZRCZBPSU4D73VOIZNU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800092499	nfvdid	BQFmAAEBEFdUi4JbaAqOW7oCFb937stgjN8HXQTGaal5TDFwCTsaK7ZZoRAN88yC0OqZcsYXA1Xdk5Xlk7HyyiBfQv2URr9dW51-PiGtzUPm3FMVXf_--7dvs7y3TrqOH6BNuPVkeCI6m6fsv188EjoYibezWUP-
+.netflix.com	TRUE	/	FALSE	1810108669	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+09%3A57%3A49+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6b8138b-693b-4851-8818-e380c3de5d07&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768556497887&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810240490	NetflixId	ct%3DBgjHlOvcAxKDBO3YXgw9ene98d7FLIsAGvLlnqXKOnDrws2Ia1t8t3ZPTA1m_vmvUHY5ffISCG3_Za7Eq88y1wYy9uedlCuWDM78yttiGbQMzk6WbXLF0rCkTtmRbt32m_1dzczUot4JDng5dbGwc6QMtnXcSKFh-jsCX0rJ_dXDws5MmrOt3zJJ0i0gZkr4CXD3btZ-oV5c9kUjZVv5aUnsg_8gR_YkDTctC3KDXH-y_wCSWfJZXJ8SGnuH_1t7Hlsa8ExxTS1en-NWaqN1Nvw0ZDOWOnaeNsHnJJjmR8gzQXiEjr9VoqT9YPQcxyXV2diYQO-4XN_aBFt1Ssv0eqJxPjjJl4y1wtIgqkztCocFAcH36dNiV6yQ34DJINqldA9vmKRA9QgsJCUyZfLzpb_1oqcgbNZTK7jt1K6P809ZxWXnsTz6f7Cv1oB9GOm-La5FzfgCXQkcR-UuBev8tsMChElqK6lvrRWes13e7eC2oZbbCL8YmORVpG_ovvm1UPd8EgmtETN6UXpykGtVwh2a88R7yZEr38lIFmm6BUnz2VGZLXF4QkMfx3IfHFsVoY_26BwSr3_R2OQBbEs4UH8_cI9rqnjJFmVOKx5UJRQmdgy9yhkBoNH886ppVPUS4X5WrkqlUrHT5Fi-GXd5cMgGK5j-sJ_UfgVMalGDduIRMn8qfUWzlkVAZC54GAYiDgoMkpRAlG_P9AqBujv8%26ch%3DAQEAEAABABRzP5_HAgRx8SRnnc1guanDLnKx5epYgVs.%26v%3D3%26pg%3DM34F3UV6ZRCZBPSU4D73VOIZNU
+.netflix.com	TRUE	/	TRUE	1810240490	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9fRS8k_dvUk7rIwr4UG-li8D2VQf3D-g.%26dt%3D1778704485342

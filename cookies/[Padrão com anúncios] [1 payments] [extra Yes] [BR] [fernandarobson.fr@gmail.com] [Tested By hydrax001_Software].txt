@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LQ
+– Email: fernandarobson.fr@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: julho de 2017
+– Next Billing: 2026-07-04
+– Payment: DC
+– Card: 9036
+– Phone: +5598984886964
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nanda
+– User GUID: JDGXFEEGBZAUJIBC3YRYPQXUVI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEJgq8M9Uj5qQf471AEilJGlgfLaclNgKtxLsbPMIopp1uOWG_gilM3MhmXP-0ft8H1o9W5FDE9X2uZaHlyzEB8zmB-1ACpD_AvwVPw4R4iZcb9uAzi17R39CtIIi_fVTJROHEpHvtDOmm7NwUcXjr_cF
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	ct%3DBgjHlOvcAxLoA-1CZQjraEND94TX-EyTLB95w6wx3NyhYvhwpGuVFb3ta48TS99L_Theb7fevJ5OeCk9TcCVaqiVlNjOuIstoNW4JCK26jEJGJDr6uwdmUAszK9E9utSE9AYvmKCBj8-nqee6SqAplJvdXEkkD3uEHG_AcTmvFplWNVcKm-kSiuSPSGkW-pt9-L4XIEPpiBIrij64cXjIhPeCykrSkIZdp3G9-b-Mm7zwd235Stfx837uJU8mstXk09YUhLDMaGKE-z2kGsBC9svaRtuWksgzsOZHcjrLlVeFc_TVor2eAXR9AWvaydVcxCsfLpAW5PfzyVulef8Aa6kXUBxgIbhFQPl5H78MIT92xceWbFZWBSUM0rnVEdsAuYnFtWl6n8ld21BGpDylg2UjXQ12VHI2H9ryDR_zwDcTDLjpsdqcYWKunAG4s2Grxr3fSs4wOwOVdYomkcET7GICkADAj5iLVrw72kJzCeUK8pycY_t-kbdXp3LbNvL3upDeUuzTZ2WOcWCjhMt4t2MK6M1kIvnMqxyyR3Ao3B8fRXq1fTjQ3RFkuwSUS8Ja3L2S3a3hT94o7Yshu-A3Hl17pCOqZtg30mw_zw8iCvRGUiARx3nIYIAYMxUo_zpYL4OGcEDtlpnisSHYX4iiA4eGAYiDgoMslGW_Vy_yskss3e5%26ch%3DAQEAEAABABSNAUYxe_ixrykInyeU4lR-21Uu0yvom7o.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783551684	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+05+2025+18%3A41%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e853b880-f4ed-4564-aa60-99d07b238477&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMA
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRvhe4p1BuHXCSpsceJWPgF76rD6yqEU5Q.%26dt%3D1746481316654

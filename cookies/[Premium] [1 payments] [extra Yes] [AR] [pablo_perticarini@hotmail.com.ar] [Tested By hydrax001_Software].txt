@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan Cruz
+– Email: pablo_perticarini@hotmail.com.ar
+– Country: AR
+– Plan: Premium
+– Member Since: marzo de 2014
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7670
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $ 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pablo
+– User GUID: O5GNN5VSOVHNXFWBW3S6MKA4FQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551685	nfvdid	BQFmAAEBEH5Ay3pc5HX5OZk5LdEfADVgPKrPH5uw0t07aMLfIHcDQSBg_7lTz-YN1rx1XXqjSDdIDqhrfC3SwEDSM_-BDykqauZwTcQnYgWadzfpVhoEWPT4CU0MejGMKqTmsAw9WL4jpRVNtH-OgcmImrsCBGve
+.netflix.com	TRUE	/	FALSE	1783551685	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+04+2024+22%3A35%3A55+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b452415a-283e-495f-bfb9-7d98614e5a52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783551685	NetflixId	ct%3DBgjHlOvcAxLeAxH8QDGtGKWJkYoS9AFufkxPDfQZUMz1rHlI3thgFsoZj1oX7O2TCPFdifWDKs_ewJ4yydjuw_0sxcBfcsxwf7Z7kIxRZ2KziwRr59PCI2VQz7ftEOjvFzrcUc2nmTAuHhRVb0AZtu_d_yqGBNgxiKiKQXjmvG0kHGcJBDYH-u3xcpOkmvlLT3Wha8tlcYCxa2Utts_k_rmtsVLJbEs9nWbcsOL5dcRE9AUHpPe2tDcsixTcApiufzExWRh_HxsI_zYkQXzogr66DAC237t_G_FZKtnLyhFWwPXLoTCh-BNZr8JRX72ywHXZxJMC5nR9nDaMA7Oy50O9oTm27skz32-ui5eDczrXatRXgiFSIXtG0XD0mrMYZHbeHgZ76m5pHNAVvvIs34CqO0tNv0HGx3zq1-h9Tjh7979-2xaNoATdznv1AwJtaUy5nTStx88-p2dFX1wfWgTY6k0f-QfU0Y6mOcLTghDmEcE4qVCKGxffs2zAVp_21XCmVfyAcSYz2wDHuc7PHsL3DSAnn9BqLb9TAbsPcIP1mMNJY70EQkjjIMNFUk9iIogoXMilcK6GKGG_9Z5Sj0LPqvVXDxRj6740EZQIaBhYFxHFTsqJEDoq9gScoG0--OpFQqzApYoYBiIOCgzbgAbldlB8z3VmpLw.%26ch%3DAQEAEAABABTighYt4s_r7ywLWc0ZGa7l2TW01yaYeA8.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783551685	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTlyg7GKic989AsXrwlKJDFl_H4sF1yDMs.%26dt%3D1730417325820

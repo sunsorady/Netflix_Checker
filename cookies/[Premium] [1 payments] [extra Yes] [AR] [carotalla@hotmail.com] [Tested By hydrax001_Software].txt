@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lauti
+– Email: carotalla@hotmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: Desember 2014
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 9835
+– Phone: +541162567344
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lauti
+– User GUID: NN75QSJUGJAAJBDQU4BTE2DQXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551687	nfvdid	BQFmAAEBEOKDK4kGODNnCzmCdpixrQpgI68E_rKmNaU7mf6ZsTFIE32Hv03Lz4KiDN0VRvK_33w7lERmgkxcejbN5-aH8h0ZUYaoawhMctqtHciuf1hF2U-C3ZCfQ7Y-fEgyXddCddzrbPIKkgBeNtEApfEcUBe4
+.netflix.com	TRUE	/	FALSE	1783551687	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+15+2025+14%3A47%3A01+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fbd215f3-2226-4b28-8dab-0eae9550b6f8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783551687	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLvAi_baFapooIFxg6e3CjSrhPeYgfTuto4cU5SjuwpGFiMN5gUf8A4jHGIXSW9q5TKaTbprqsjydK2fJhnNApq4S3ZQERfBgm7XFZq3sq9ZTiQ5tcshELPGAg21-l26LRF9O9MX1_r85sj3rg2eMdGS8JManriYkvRTAL8uUWga5PHyo10D62C2TRDo74M9t0dOV7hVqcgQcduj7P5TigivYrT3bo1GFPcyzk1_qb7hRAQYOQyIBcbojljxLMHtKGPJqfFkv4eNoQMBBw6nyWxum3L03TsI06eBDHAbbDMCoj4B9UPaEDXy7I0SMa8VAJLlmO0_5ary7msVtb79-LeGi90MargHPR56Jw3NCBJm86MzgLuHsm8ulG324o5_--O2IybMATFpX4pe7Bemr0NrUPKBJBxEJCAA30N4fXqGJSnnusRI0MZE3AmgVKm4jRUzBbrsECW6OrwyvTNEWssaoEpfJzI7iJznKg_BdEr_fgYBiIOCgzU14HwFL1wVgbahTs.%26ch%3DAQEAEAABABSiOG2Ky2bIdZzV3thovglD7HzvXgO3mQs.
+.netflix.com	TRUE	/	TRUE	1783551687	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgMvj1POg5Z9O1j8NfN3uu2FQ6J_xaAvQ.%26dt%3D1746453518334

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tilio
+– Email: cindy2291@hotmail.fr
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7575
+– Phone: +33658538594
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tilio
+– User GUID: DI3KSU5CNZD35PLPZGZDAC6G3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802982762	nfvdid	BQFmAAEBEKZWYyFEd23gQLcJn6rflOxgHimi77sr3azKFW4BaGJWTxK6TXSQf56H4i2Yp7BhMcK-WQDbgNCwb5_lp5quwtiGZW_I6xloEi1qobcGTvPFKR0xM52Ulw3CDAbTFuH8EfSdpDVe0cKaicgLabxLDJ6M
+.netflix.com	TRUE	/	TRUE	1808383211	NetflixId	ct%3DBgjHlOvcAxKDBJzAdMmKDAecvCQRWpUCXZUvFUqvSSvw_RtJxpll_7FxgijIJhD3ZkqgvXbq-0lAISRBrAekAzVkRE5prmNlz4uRixAcPtw0Dy4VjQhiNMwGL4KLL2DRL6MAZK9ONl5UjRhB4-IoOS9fxdjK5kNUkaNLd2gsJrRMXHeZOg1wAZQmJdu6rwIelB85V67AhbrpyaomANzT3ngRDPBdUGoRHg5CKh8fb-ek5aTh3meWRJ1ja0jSVRgBKsO94eAwLFUXyybqVD_tMPhAwPuqwvxu3zyNUzAURA7xcfWp1w1kyuvN_PIrknV3mHTCxFI3KJlqy-BBxye5tAcAa-Xf063A7ywKJM7wQAxIlcmfjzs9dexv7HPpWXuoKMULKShB7dOLglScUSbk4V7yVK9dOjDAuytVafgpMtRF4PGUmupQHRyuKkASkheU3oN6ifPvYTTVQ0pVCbu1jdKMss40dLWXl6gw92BIS889SclMIFD4rNUD-AOFK5I2h8oWy4rLASPeUxjjFkLDpQ0uuyuTG70hGRfdU3IQbgN735m2UJfdSFANx7KHDmYWCDU60Jtyjn2JzRYcpsKAvuTnlogMlHnvVm8LlO2N_9XD84xM6lcPzWhN4PR2NCXCjGNEmh1ymkIzWSkMSapuoiMBOTW7rBFJV6flDt9KsWsoJP1mrtJuWTq6zlwFGAYiDgoMdnCbjRVVIxEzGoMI%26ch%3DAQEAEAABABRFjJ2rPDTXrgZcTFQwIMzFZf6aN5XHzc4.%26v%3D3%26pg%3DDI3KSU5CNZD35PLPZGZDAC6G3A
+.netflix.com	TRUE	/	FALSE	1808383216	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+10%3A40%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a375d73a-90e7-481b-8ff8-7cac9e7c267a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771446642995&geolocation=FR%3BNAQ&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808383211	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSL708Tx6GaIozxfojmDlxFET3kjd1nNJY.%26dt%3D1776847210804

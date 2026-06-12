@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Andrea e Giacomo
+– Email: emiliano.biondo@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: novembre 2015
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: +393346219905
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nico e Tommaso
+– User GUID: ENJWHN7MBFBJVOUVO72Y77MFPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEP16AzfUkq-qeMdO-A2Uvv1ggHXVfcwHUCyB2sOXNit0Io5pHWZRTL6e5DIuvPT7kP33NOTiK_6-u5A8UZTc6cvOEPTQ8wpNcFCXaGPE5pohNbrjldLEObrt3faFK17Pemi7tvoGbVSmJl_uN3Gax8Yd
+.netflix.com	TRUE	/	TRUE	1783551686	NetflixId	ct%3DBgjHlOvcAxKQBFvv20ao-3qjIMVvW48BHtlao-nK_mvQAHBDzq9Hje2QGpjpV24T6QHbT2rbKHCGncE2UZgrUIsYDt7F7rSDeqEm13GLMssDllttKGV2efRK_5SwW8Pt3L7HFQoYfBQ-TpLiRpj5-z2bS7kkuHLMNOTEkwXepnQtJqmB2r_us5yNsAmsHiIOzzAwP01xHS9NYoPr3cEbV8i4czr-CzO-FA-UoMRchevMyd_ZTFl9KlEnio3KpVfULl0okeadhGmHvPs0ZrsoIVBW-oKkmA2_YObvvl8_oQai9xPz80o3EV2EWi7Mzclu8_X6TjkSX_UVXzBKuar_elDZc8EYNk7opoDhYbkx1tXG0hwqhB-Gl4_qtutH_MQPEaUWIk7KNaETIAKeyNj8bYrk9X8nwRAtl1nETEsSQIqxTUImcLOWfc-2GytYWHLcR2co04Yhn1qyU6aTsMD5guVY8bSCY5ComBC5X7tcQS4Mc-kq5RvTg2WPzGeS5J7MGxsJr6Wx-PWqf8iox3KRUtsSl-DoGuJU8PLfXIIXTTlbv5BdMI4AhMZ0pZNdKHp8P7XDNNcRSePk5atr-V7ExJMltnERwgNA4EvjMqPK6pyiMwtNhZ9psABorwCzcmUZHY32KxkPQMEjOgtU9aC3QggWIqBHRSX2ZjixhJc0uPrIoF6ComcrTp86fuMZeA0gfti31bQBbKsmaRgGIg4KDGb4YYJacYOL7lAwug..%26ch%3DAQEAEAABABQy5bGYl-lOcurdzi_tdG5z3NL9830i3Dg.%26v%3D3%26pg%3DENJWHN7MBFBJVOUVO72Y77MFPQ
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+20%3A53%3A30+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=053d93ff-e3a1-438d-a740-9512eeb2c4b8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783551686	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROcbaG0GHhMYlgAN0ae-gpE1KYJvD__-8.%26dt%3D1779908006305

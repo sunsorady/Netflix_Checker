@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fat
+– Email: markita857@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: June 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 3338
+– Phone: +13142652164
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tiffani
+– User GUID: 6YXY7TZSRVFU3LSIXUFRBGTRPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803638164	nfvdid	BQFmAAEBELJWZQm0svDlqdWSlGnrMoRgITtNu7Tc5At0fhuOi_Nrgaty2y-MgSr5vKPxE6Jmkgrrc6D7os2bwYNR_Ie2rl62mzTdOvykNIqWXacapb9F4fkkrkAqeRlDjJUE7RuWCWAAgkxdTJtFIl_fO-2fjrR7
+.netflix.com	TRUE	/	FALSE	1807631594	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+10%3A53%3A14+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e6ca187-c7c4-47dc-80b6-2808cebe4e07&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772102161862&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808515507	NetflixId	ct%3DBgjHlOvcAxL_Awk2RQRUCOiSuih63mzWmVIeryPQmOK6GiCwwHrKkjUqQ4fxkdlj5YZFMDnIls-7B2HFtMEdy-CTZf195au24w2Y_XXNOtS0P_YANTtguwRV-1yEDC07qhLhHM-lAJQi8JGGCEzAR8GszujAUjs4gH-q7lZuxQI0HNqI8_IijMJx9LU5XRBTqUVKEgSQTcL2TdbXC8mGE7QCpMfoQB-3HJ04cs93oIvvKOiRlosdRsL4iC2amd0cxyBseiAzUeu-HmIVcn4UuLRh4iJnIpuxCjCRbHo_c3LkNBIWxFHEskqeVH0cQ8g0EOy6w1FHV3XnCSJ4XTcI2rRmM-KHOmJFwCIqD7O0oi2p86LlQyoqeKzwN8y2WlmjWYOWjaoMMQLrvnk2oU2F_aoVKnK4F2te33og5W8p8oBaP0pK2hjDraoq_-ljEpIGh7JcsASTtbH-k86dZP35myKBxffCdvmQ7e2EKADU3SuJhH542Sm_oV5gPMHiHlScl311KmsDSdKM7J9JPb0UT5f_SMTrREE3L5Ma_por5BcR-S-QYw45AdV0kEhWx0zkn0pBugT40VFEkQV15edzmij6ZeyUJQ1Og-3F-zS1qXt6Cr6M9G8DcPACAwoFZCBuWl7CgUFFLE4AlTjGu8cm7g2BJTOaM_xHD9j61ernOcgqaDkebO20pYwYBiIOCgzyvLNjfXTAIMDls_U.%26ch%3DAQEAEAABABS6ghX7I_MRjskh26iz5bAD-coIMMANtnU.%26v%3D3%26pg%3D6YXY7TZSRVFU3LSIXUFRBGTRPU

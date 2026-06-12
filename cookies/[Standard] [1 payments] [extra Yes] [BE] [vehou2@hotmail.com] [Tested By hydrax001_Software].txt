@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juju
+– Email: vehou2@hotmail.com
+– Country: BE
+– Plan: Standard
+– Member Since: August 2019
+– Next Billing: 2026-06-27
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +32496296043
+– Quality: HD
+– Streams: 2
+– Price: €16.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vehou2
+– User GUID: 4GXYXFI4MRCZTCFGBWH33IU4BA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785193300	nfvdid	BQFmAAEBEOYj2uK5jSyyNGG2SsMNOuxgVrQLdIYPFOtD229IK31Gf79mKacySVTwypLVD13YA5QbcsL0ZrW5HGwOR7iYQzFD9_Bc6InSLejM9vk0PE-w0ByOXDtb_8b9domuNXv-16dE8ztuKAQrx0xHxzlpeMAr
+.netflix.com	TRUE	/	FALSE	1801947191	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+21%3A53%3A11+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=540bf71c-7ead-4bc8-b162-6eee57e99d46&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&browserGpcFlag=0&geolocation=BE%3BWAL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803806873	NetflixId	ct%3DBgjHlOvcAxLnA5cBgAudmoMphEpxBhg64ofHdk4BTCBuTAaHR_OlCJjXbgLRYskP4xdc7DctHKZ8VWp62VL5m09T_K9jP79FVPjknUALho-wI7e5Q3D-k5wZ2cPGhPklwQqHFSdV15mVv8pkEUrbQdztiryB7_4yBGcsjrvLY6_Fqpb_x1ipA3Ogidn2YTxhwj6FHipy-8C8KYYyHhY5sOkeDpAId2FwJ6mvdlwObNmN7CmUrpA9v1Xc49l0cld51M5610e2gmpArP5ashaux9lCFQo-EBAEp9V9D8QGLd30sFrnFbmNGObdGJkhpjvCCYX5IE0yvhgZoqUYahOVQvB2G_v3NycwdsLdtY5J45oH-7-NKY8hwi1FR0EgaGy21WY40M0fKrW-eb7246J3NeNAKJ7E4eQz4qSHaPmBrrqLguGNtuGJHJlBVd5Fiqf8WgZ1MjM1b2dwzDh4GXhf1XmF4ABdidSjRqBmdcpSfCVZ3E5jVN6tLau9k7Rftsk8GVsZCQXJm8S4h4DAB_47lqxRHDzC7A_yiTxJwQ80sWIjViWBNIWV4eSukaFOkm5R9VkWCBMRLmlZv2gmW2Pb_4qYOWbyICkdy8vn-b9qibtiudodSwlFBNl4wdeuuQoPMIR5cbj-KlVsYZqNIRk4cEcYBiIOCgxdVHk2NK3BNhYqkKI.%26ch%3DAQEAEAABABTCAD-Jn9ZTXgX87rWxauGv9OnGjobHsF4.%26v%3D3%26pg%3D4GXYXFI4MRCZTCFGBWH33IU4BA
+.netflix.com	TRUE	/	TRUE	1803806873	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRO0qEbsyNf_NvG9dnRSW3dMT9pXsRmgeU.%26dt%3D1772270871032

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jean-Samuel
+– Email: js717@live.ca
+– Country: CA
+– Plan: Standar
+– Member Since: September 2013
+– Next Billing: 2026-07-08
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +14502040090
+– Quality: HD
+– Streams: 2
+– Price: CAD 18,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jean-Samuel
+– User GUID: SWVT2QTB45GCPPF5TTDMSVHM2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797996245	NetflixId	ct%3DBgjHlOvcAxLuA2jYZjx4NSKl3VDXyj4Oth3e7HgMucEDobma_eeNTfVfM_bz8EZiHhttuSVaD99m1Vak5t3kvSIcAseDbw_CTAHLOeHC8MhQmbfeIPnJWrEwIavdps8Gs4NzsoVPaPJmFaNbcmihhfdr5LFH_QD_aoEKrhqp6EtqjjtmqM63VTBo87FmxxI6iKFVrqLhwxPq9Cr0BbNB-lxr7B6lrYCp8hOgFKV7YJNNHv291JBzx58w9NRrKUgKhcBp5_1RPqvKwtvlMwdy35gz-vJvCaG5-obVt9Ot43vRUhxEvwci2CITkljgdT01VGzKbFeEm4dg_rIL_Vt12l1_d1iJfg1-mIxqP6BInhhRPBJ0JEh-8mAWD6ooiLRDy8w9v6wHMhNK8w0EJjAyIrdckFO6n8rGheRdna06saWnCf16nR8fAoBE-G0h2vuvHPLxQknLzWWPy-2SCxzr1JNClw7_NhslDWJQ6jKq2Nqq0_p-Gi1sD7JwgakhCMHi8SGxqVEBKMH_jNADyWPDgoWH51Gyi7UidFvB7VNBgPDEV3e19-Om-3XsfsHDIAvJBP5zQbp_RszazxmLx_h7PbHlaKVG1SibDL_zw5OU0-JvGuVIYNuvB8cD_prFW5pIUoqe4zF-ccLhft-H4yXa-0IAi53cOlXZGAYiDgoMkc8eNJhGbqPjOiRn%26ch%3DAQEAEAABABTRcgCHyZaYukI4cPeR0e2VDtzrLSrZ138.%26v%3D3%26pg%3DSWVT2QTB45GCPPF5TTDMSVHM2E
+.netflix.com	TRUE	/	FALSE	1797996245	OptanonConsent	isIABGlobal=false&datestamp=Mon+Dec+22+2025+22%3A24%3A05+GMT-0500+(heure+normale+de+l%E2%80%99Est+nord-am%C3%A9ricain)&version=202510.2.0&consentId=6e70d34e-6460-4fcb-961a-0dbef8957234&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=CA%3BQC&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1797996245	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYpNuNU2lPlQr8g1oCnzBMC0ZvbuyR7uU.%26dt%3D1766460245508
+.netflix.com	TRUE	/	FALSE	1797996245	nfvdid	BQFmAAEBECGFCEWRajcFFdG4Kz3lhuVgdAlf1pKmB2-2cVvPouvDyWNJ4dNzPE1HLAsMpOOsAqi4jazPSVvC4bMvotPuxha25FBImTvTsYZy1tpf6FM8nuCld6wU66m-7qHaYPY5XAsqjHjVsWZmrbxY0NEXLnN9

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Janusz
+– Email: januszek.kowalski@op.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: wrzesień 2025
+– Next Billing: N/A
+– Payment: VECTRA_BILLED
+– Card: N/A
+– Phone: +48783041493
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Janusz
+– User GUID: RABUHSHIYJAI3G3O54NXGRUI6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789738951	nfvdid	BQFmAAEBEKnUZJ2eoE9jd0FXi1soP8Rg32iqVRVKrJVD-owrd66X1qrmXMeWOCSWACTyEkVrsehuTnRydRided3tdU6O7e8Vw4wPVwEJch1TmHnC8TSK-Ze0ZIAQ060nq-ZsyfmM8qHykuk7H7h140FjxDiZxqS6
+.netflix.com	TRUE	/	TRUE	1800286925	NetflixId	ct%3DBgjHlOvcAxLdA5dgCVtL8BVU5fZ2btSPU8Usm7yIfFwHUkx2hwm13gORV8Es0-vINxpKwLynNaaR7IbOs5Q453WvT8qf_wJTVXFDstiCQohirefTgkO4RScfzEPe1UfHxFBnOLu4NJwC5WdG6bUQdtIbDa4rEnebHn4FF45MKhWvBFXcZ7me1So43dn2YPO7auScb9il6bng1q6W3j1g8omp0PQKof9idE-qAKcjVm12Jl4uJIfk08JFSDoLI7wB8JtKby45-sQDw0hswehTI_poYb4KS-p8Hk6z73gabkHs71vlZU-JACDM0gYroEXLD8G76QhsD0Y4UTUhVLiZJ1to72ho0vpmktZviQEGQrYWgfJFWLHll4UOvLhpAqCkNuwcu39oDcp_YqQ7oFCIVooK6hu_IhuPf6oWjwJW6y3sW6sVCgdA-bRInbWdu4fyYw0TAMRXKHZPlYTPKFJiWjDnMLJtD6_XgmioLiGkW2qmz9cJnOYZ64xTdBdgW-txipD7kspjDTJkqDCtrBKY5gf59Qffq8PTvljerHIAsN6qDA3SSogvhXLGZ9ZW8_T6Vh1HzCumLuurASoFyCfaoRXetRHOrw3ZNxaZKarYovIP_H9v9tIy5UFL3dTWWPQU1_vb0Bt6hBgGIg4KDGkB9Wnqolm63MypZQ..%26ch%3DAQEAEAABABT41ZOFqzPnV-JQSP16q5QTGK-bRrByw08.%26v%3D3%26pg%3DRABUHSHIYJAI3G3O54NXGRUI6A
+.netflix.com	TRUE	/	FALSE	1800286933	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+18+2026+16%3A42%3A13+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c5dc1894-9a7e-4724-b3a2-841571a94fcc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B10&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800286925	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQoPwZ1ol1TBRCgg7EiLo1hwvZB-fvUj4c.%26dt%3D1768750925105

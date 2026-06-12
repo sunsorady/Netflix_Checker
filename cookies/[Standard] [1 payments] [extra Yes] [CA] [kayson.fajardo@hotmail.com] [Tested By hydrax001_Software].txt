@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kayson
+– Email: kayson.fajardo@hotmail.com
+– Country: CA
+– Plan: Standard
+– Member Since: July 2023
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6163
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kayson
+– User GUID: 667XQTO225C6PA2XGE6TPPMPEE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785899369	nfvdid	BQFmAAEBEJEb_FX2ALzOxpDBT3N9HQxgYZqNIqXhY59qs_U2DYxklMPI0tdhJTbwbp1nnP61j_dC4UXkQPUH9EXnA2uKOSTuZgGo0VIaZQyQyKwFPm0GxoiV8YXuS47tpXeB6J-9Its-BH8Pu66YxRyU6_bpsvfI
+.netflix.com	TRUE	/	FALSE	1786395760	OptanonConsent	isIABGlobal=false&datestamp=Sun+Aug+10+2025+17%3A02%3A40+GMT-0400+(Eastern+Daylight+Time)&version=202506.1.0&consentId=a1f630ee-9836-46fc-8302-78467f4398de&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=CA%3BON&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1806706745	NetflixId	ct%3DBgjHlOvcAxL5A4d9uEmIJuUdGdULBw4Qj-1EiTGagtVjKpgnt3b6SaZI-B1Sx1CndQd3927E4KU7-uTJiqU9w_sBq_clT63mg4RN_cHQimN_lNW3A74Krcn3CNOIVCmWdxp3mG87PyQiZkJECgGMo9KP1EmzLhYxlxhRPVzN96ikKfYbUl2iLGInbcY0lDJA3P78H5czlqP6g0fE_XwTFROuPiHYvDjaqAs-xpjl9ezGG_sgKoZt5rZ-ydmcZKaOd1qPkcVzqv2KoObrCwg31cgYimxboJ73Zvln5rI0ueYKsyUJP1SZpc0rnGa8B6oF6e_cpgrwoJuSLFAZKBSYF_Ho90ameAcVyBR77KLkIjm3gTlKk53YZMhgFmpktEyLAbeuWufKXKgFlcK9Qt1yNUtKm7HZI3_D_2t3FvCaliYGPTahD9Q1g1a8VDE7YZcfE-g6gywa8Of5DK0BzHLvihehJ1B0d7J3bsGqcUmKcJTc-UrHKu9i4ztLq6qIZ4dg_9ggJnJmdncMLxQC_jSKuoCYpqR1EhnEUUjvZ5XoyNk5LGGZGpO2Xe_Mt9l9K4CuEYiQwE1Bw3BYJ31MxaoNeImSBNf0MOfVSjUd3IPCzcXYNxCj-3eK0Vqyjl-p3xQwfw9squMw9zOyKmV4r5BGOUQ18GK4JGKMk8GLRz520pWIoQ8YBiIOCgwdBmCmr9GC3etFLek.%26ch%3DAQEAEAABABSaJ3idOg-rWLNP2cc20-eUFXgAn2BMXw0.%26v%3D3%26pg%3D667XQTO225C6PA2XGE6TPPMPEE

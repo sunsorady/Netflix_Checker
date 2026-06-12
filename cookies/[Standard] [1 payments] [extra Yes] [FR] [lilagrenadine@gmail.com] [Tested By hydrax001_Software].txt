@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maella
+– Email: lilagrenadine@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: février 2024
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 8054
+– Phone: +33607848314
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Emilie
+– User GUID: 7ALWJN5CRRDJBPMBRJSWGKHD5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1791970864	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AoU7cnFZy2MdMXvOH6kKF5d8ce3ad5qomN3hJoDtSodIBYOXwDXEGBhSc4G-VihvtnV9R671xQW6-Of1D9vnguP719pq1xqeIWwL8QAsj-0_AhsSErRrSD3nqzF7EoPKOC2M5N2aUz0KWuWSjXmMO7K-yxMBYHc7qv2DCWBGSevnejKuPtl0JX296ybigXMvzz4OHb-Dv7ffz3C-65KKdx_oxr99A7o1L-POO3OwmiBmko4k6IdNbfMvsqHYLznTodXaopybhmhdwkJO635F7vDaRLCenM3iS5b5Mp4D9WQcdTdh0gDJvpAfeo7xpNf27rJB8iGBKqh8kuQNvI8OGTowPRLHVzYjHM7piKNObLY0Ayjlx1Pva0ZFtTjhSIYnWN2w4WJsLRxOGTqAWdlVQc4nKYKqbNzvYCK6tVniaYrCjlKKJ3EzrVamjqgwi9FP9EW2wN7NPGGVDACrEiwKkzCT-zfh_xRiaJwxHL_VozJQZVR0ARkWxo4YBiIOCgw4dqYEb53kJ5dmGSA.%26pg%3D7ALWJN5CRRDJBPMBRJSWGKHD5A%26ch%3DAQEAEAABABSl3pUSbGAAT4lYlu1ctT6dbS_7b0QJyT4.
+.netflix.com	TRUE	/	TRUE	1791970864	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3C4olZ-Sh1WDeKpu5kBLxstdzAWcAEeM.%26dt%3D1760434848001
+.netflix.com	TRUE	/	FALSE	1791970858	nfvdid	BQFmAAEBEM3oQGEvGwyZju0Jcahh-yhgB2vMhqeFwv2SOAfa9SRjCwBXxgq25IAE8XVT1jb3QQwqbdDitBIo24xHmQHohnIG1pv4RrbN8oNB0Ms0FJSVLkVPrDdYN25iTydfx3LLQrr0I5_4wr1Ba2Wp6qqqP42E
+.netflix.com	TRUE	/	FALSE	1791971372	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+14+2025+11%3A49%3A32+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f857ca6-62f4-4366-bc9d-2b5d52509798&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false

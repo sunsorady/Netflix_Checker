@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ILAY
+– Email: reuven_oz@sii.org.il
+– Country: IL
+– Plan: Premium
+– Member Since: February 2018
+– Next Billing: N/A
+– Payment: PARTNER_COMMS_BILLED
+– Card: N/A
+– Phone: +972524704202
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: reuven_oz
+– User GUID: SQWVEP5C6FATBAYNOOYXPIHRQ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792305126	nfvdid	BQFmAAEBEFQF2ZeGBWdq5ortUj-U6Zpg15h7dj_Z_cbR9eWHTH4LdwmqBdSubX_l_bQDJ4H9ZgB5zktRI6QrwHcYQu7MWpugyufqoddbl7O_dhl2uajRCrvrYRZiYVzIeEved36bz0bWFv-56SMrzFlWZfMq4A83
+.netflix.com	TRUE	/	TRUE	1797658033	NetflixId	ct%3DBgjHlOvcAxLjAyA509Hz3m-wcabnVIe4VG0rxUJXByzea5eDrJqlp9IStrt_mMGF1dzaIKWx1yQHpfBPSdhS2-IWn5HUXvWHPIc1n91KQA1rrl6CJaOFWn7qve5k8KfIRrolpR3NQ6YgBI7Ka5MMe_qY8CRu37Ucjh_gZ_M1xS_QRfmbl76Sx1qcuoZPPtU-I2bAmf8nCCiuEzq2ilVYQ9PJXXClU4JvL9tq_YaMLLQmvrIGDsSnXMm_RhgbB4aPaE_CY8dFprgItmM7gmKfehQfmaA0hHm7MuVjj1qURONhKUr3cfwYctXT193GMoSvE2ETZmCRC8onOABc2nQEoTDqlPjJKT5BxPpxgV_pxTsp2eu5f3F6dc4IrEirwgFCyC7x1LcWR7hfdqOyh51w0trvXgpdLeR-VqZwUXj1JvDohj14ZiJcb9pVdXCsGJCEidt4X8XGqWrRDnqBlJM5PmUh2V9WACKqfI_S4xnSIpgEG5axliSmlCzzbFy7MrKT1bsfd9nBgtIZqWQmgBuVxoVY4n5N54LFZYUjXyM5yKHK4opZp2Pd5128Mye2VH80TNTwi3zfChV7FgMAort8xlN4lTRpaeI3CCpR3uUXus9rvztisc8zp-c-uIg_JXvU6xCR19QvtVqLjxTCxxgGIg4KDPqg6NMH4k8RDM26Nw..%26ch%3DAQEAEAABABQv4rTXdJ3as7LA7cKcDFuk1nLo2C8odMs.%26v%3D3%26pg%3DSQWVEP5C6FATBAYNOOYXPIHRQ4
+.netflix.com	TRUE	/	FALSE	1797658034	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+07%3A27%3A14+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c41fbec-d6d0-4254-9e4a-19b092bde5eb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

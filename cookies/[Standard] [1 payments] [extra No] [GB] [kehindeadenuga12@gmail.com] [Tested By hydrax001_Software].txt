@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kehindeadenuga12
+– Email: kehindeadenuga12@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: N/A
+– Payment: ITUNES
+– Card: N/A
+– Phone: +447454895342
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kehindeadenuga12
+– User GUID: 5IFUJ3P22BHEFO7YKRLBL53GJQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810691293	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpA83pIFaJLTpke3SSi6RjImbZpBrIqM8tVDZbXDlSWdNK71Pru33_lYVHglLpikhKEDiNJ79mMZ5wDIDOMEutMgBU5IjFs1ejmqIhocfUu-e6j4xdLNAsJdUfEyNtQTT-XADEabtLKy_iv6sm-7PcG2c7Bv-4kw6YVHRs7NyAGhSyoAGmAiyGx4MshcMq9O-ZnkkrBjqgdJ5ANe4zpG6qdntIGwGqn2alxhOSa8fUWC2HjuY83UyHXC-hZIk59wNG_fBuguoCnPsB0Hc6sSloIG2zCJiBMSOFEqCSepRJJ1Krpm0Db5v3PxcgBbYjZW7Lp3aSMVfjRe_68M5kc8oOGQ7AzMFKDOEE1_41S8-G1bhgfBKNCkmcWs_gqns3GIpN3yN5FcYmZgst_OyMPKnG-vlvFmXFxAm0kS7xjuiul-9QlwuvHC2Oa7UKApGL6quQA_oPdAFRjmOIWFBtMnnOKg7FakTh6LRquksXFbv9lvoRjYRM6vyE25NOczHTDNflcImSOaBeott3Bi6prxXLVeIi2mhW9PSaRCKY1v0XAqRVgKCR6tCuHtQCGAYiDgoMVuqFR03gjIVYI1oT%26pg%3D5IFUJ3P22BHEFO7YKRLBL53GJQ%26ch%3DAQEAEAABABQ0AjZsmj-xtvItJ1IqLhipwQjPyQCKz-E.
+.netflix.com	TRUE	/	FALSE	1810691294	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+02%3A48%3A14+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6991a8b6-d272-4fe7-bdbb-6bbf9aed2a1a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779155269274&AwaitingReconsent=false&fclco=&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1810691293	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_cfurhfw8jRGQTGWG8Ku1h38WJJzHEFo.%26dt%3D1779155293013
+.netflix.com	TRUE	/	FALSE	1810691293	nfvdid	BQFmAAEBEBWvSkvdNOG4rtGEBYe8NKNgNUVQ_X5vNEywnpqsHGVBGai1umwvE50s3ZanpAleP1HhvfkQcNIVqQf1xkymV3D75gbXPXDQ0pGCqIIHv8PutcwGYQJ5YyRzmD1tOjQafeXsKOfkEt28xflnpQcLwZg-

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dini.jacob76
+– Email: dini.jacob76@gmail.com
+– Country: ID
+– Plan: Standard
+– Member Since: July 2024
+– Next Billing: 2026-07-05
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6285234588887
+– Quality: HD
+– Streams: 2
+– Price: IDR 120,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dini.jacob76
+– User GUID: 2EZU57R3YRDNVN6DUXA4ZDOCN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807501807	nfvdid	BQFmAAEBENC2taA9cUrH-PZC9a-b3SRgw45flq89CQyDjtn3recHE_fHA5KLB2yjMiEFWgZjdVMqQX2biJnJW_oexLQua3gfT0UX_9uF8q7xasb_rOlaaOXwSxwq4sRwTtkpWdH2wu9njOLYKdWo3e1SP0pc3XVx
+.netflix.com	TRUE	/	TRUE	1808650346	NetflixId	ct%3DBgjHlOvcAxLQA1dH5-3piGdJYs2hQEj_K7lbWqbYCyphfE6tLhrhGAxUu2x3-1HOi6skJeij1HjbGlA74zID2cxlamH9bJPqhFpXz4BtrNSty-rj5CXK7qMcJAVqdDbYH9Ug8rA4mb5-_-HMaZKvt_9Yi5wYI22_S7NwNYFP3aG8eRk4xu-tVIa3dcE7ekIdAcK4a_YTSqjYbwyf8SLRkLAt-dG9nQZruAsQfqyDKsMu69FbpBnUV3XC0I_QuJgUXl4ilOdcMOlPnEL0Eoy6LjDp20c0K4ZJo1jJN5WED8FWCGZTso1Z7sgj8osX1IIwhNepYi9ky5IM_q8W0rx6Z1NpPj1yrp8lGqOqVbvLgYng30xim_-cGrN0CJLg7nuYcTNPaDWc_-5Qc6USzrJotKKCXCetclYvIg37tMQDmV2aP9nlk96auJiCzhWxiVI5cYsx7MxDCH-jiAcDNeMfqwN7ygMD-ya0aGQUow-xGCc22PhUPnouZ5yMJsAy8m9CeQsRIpamosfmbK1SySTKv-f4RIdD_jkqkIqCovABI9yYpcOElkUQlCluOkchhZedSPBerz4xRuZxWlpgwiuhkrlVIVQAvzIVv2VLdzPBxd3IPPd-N04_BQ21GAYiDgoMvYUu6VMAuQhMgVDC%26ch%3DAQEAEAABABQ4Mbtl4P_Jo35QR43RUr1y52eKcCuTqY8.%26v%3D3%26pg%3D2EZU57R3YRDNVN6DUXA4ZDOCN4
+.netflix.com	TRUE	/	FALSE	1808650348	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+17%3A52%3A28+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd5c45d0-073a-4e41-b537-905de19d1f0b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808650346	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRk5J7ggvHRWOjWa9-kkx2L025A1Xp_tK0.%26dt%3D1777114345712

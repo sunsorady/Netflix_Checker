@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gerald
+– Email: ason_tan2@yahoo.com
+– Country: ID
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-30
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6281260002289
+– Quality: HD720p
+– Streams: 1
+– Price: IDR 65,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ason
+– User GUID: MB5SP7QEFJDM7F52E4DJAEJERQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791112466	nfvdid	BQFmAAEBEPE4AC1zngQOgHWwOEj8I2RgAPtxlrJsDvGwBsW0kEiMvpHQvyvwLGCyJcKLNzMwwI8vEmWorTvm9Lyekd61qaTQa4E_042J5F3GP5N4kHrjgLrb75Kk65nF3CtJfru6muSOIulJ5Jx4nK0okxrusiI6
+.netflix.com	TRUE	/	TRUE	1794117964	NetflixId	ct%3DBgjHlOvcAxLjA4CZBZslJkiR4KXf-o6WNk7rqG5qpb1vi_naeFbpfsuypr3JZiRz1yv_ZTx19LF8045NGMITkXmRP_q7RfyeDCPMHOb02WggkEJRt-Yn_S70squONCeaNcY7rmtrd4LvRWJQmPQ5E3MZt3TIIg_BdbgzqS5H0ZUoBA4eoSD6-zKaWWe9WFv3Hzgv4uOG5OC-ZqhyR7SP0ge5zJdA4aZ_JbYkBgynydKVG4ju9Y_3Q0U2LkYuHYvRCcrjc2hum_BrDIFRBsgL2E4pEduBA6xxnhep34q-1KoktiUu0PSoft4HIoEpriU_CKbZhOAPWpokgu_B004YT5NW6ejmlhkn-xXzo6fiXon8_mdkdfJmQOurKc3NdVYnJEsd3KgUJ2B8TMlmQAt-fpjdQDJF9I1ZHPiDhZmK6hGs1UaZTRKfVivY6A-TiFVV5qOt29GorRyoHUzPKKZlwToSeswAzbzIXZT0wb6uC3VvrAsuzB3aXtbqIvpwOKPV6sLpsX_2x6i-L8FyxUuso-jXJs31u_m4a8q-SwROSi-h6o1Wt5sMU5Bd13T96FkzBkNBGmsVTo1pgxFT5kyS__p0IQdGMPaqqli-u6tYkV9tHsBTvNWnZDrpqnxZFI0O3wRCuIRH-v-MSMuYoxgGIg4KDIxAnGLXUclSdjw4sQ..%26ch%3DAQEAEAABABS-ET9mR5AtbRyiKKbDDAYIHdOnhE_xywc.%26v%3D3%26pg%3DMB5SP7QEFJDM7F52E4DJAEJERQ
+.netflix.com	TRUE	/	TRUE	1794117964	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFNsjjNad6YO9UNR9XJh6GjZxMymycxz4.%26dt%3D1762581961249
+.netflix.com	TRUE	/	FALSE	1794120481	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+08+2025+13%3A48%3A01+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4ed39fb-9b32-462e-8465-e7090f428385&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gerard
+– Email: olga-bb@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2020
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 1800
+– Phone: +34608921859
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: olgabb
+– User GUID: SJ7AJDMMKVHEBLLL53XRYC3YPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811101718	nfvdid	BQFmAAEBEPKZXLl1xVbOxz1JzL3nPWNgZAMreco614IntszC8jHz02cW3FuzVdLrlPmVqdCuc2TCJmQq1kh29bF1MiaFLts-MK52GOWhFm5ZY6fQ5Qwj717dRDBaVQJCln9SE2yP88-0Ik4PtWD3HFvXIIcnMoFP
+.netflix.com	TRUE	/	TRUE	1811854555	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABReN6U2u61lNQlIC_cQLZkwRlzZpzW_2pE.%26dt%3D1780318557171
+.netflix.com	TRUE	/	TRUE	1811854555	NetflixId	ct%3DBgjHlOvcAxK0A34aF-0jm9b7rJHCZ4O8C94a75NCnPirPDeSrG2W9WMENL9AkNI6mpfsM_107hLKVncuerlcanLLwwsm2DmNIhDb1rryr39bYGIyi7UgDFqUM0qsECeAsGRBXgXHzxjCqkBW8qiF92Ua7uDFBggasSEmzbskzZH-SjVhQXRpr8YwocjQkwJtrbLhU6K-hzZN33Nmd_BSrh7j4WnVDNPBeKtbbRfREm32GQWCflKxHq6Kk06Xxqv8O5YAxbPdTxy8hQpC1byI68b1oofd4F63885bB5PfxAfkLYcDjmdqqg0FHfFZwccnKPCRKk2F3oJz8lISqUpdFokkeear0vDBVuAYFJSJPXGo1k56LLTpCGaytpIYXNzit0AljtH3CbYdPT6_mLCq51_OPeUZl9ly0fBY48qVXi2TlxjJzXxkxUQsoWB67nBL_mOGpnvyARu9BoCfQwvNVNe0ZqeVwLMAzAjuwTVbBPAHkkAyzb3MnyV2A0ay8ZyzFFWh0SdtUtvGeeD24tJixB-gDsioZgGR_3t542naYEnUAW6IvC92n95g7c1816YxfQrEKIY4dw7uqWdRYyIYBiIOCgyuMH2_M7RZs1DIQts.%26ch%3DAQEAEAABABQTsJmSUlROP4nIGY2QMWGKj_-tqrXQR5U.%26v%3D3%26pg%3DSJ7AJDMMKVHEBLLL53XRYC3YPQ
+.netflix.com	TRUE	/	FALSE	1783792316	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+14%3A57%3A06+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&hosts=&isIABGlobal=false&consentId=3fcd19e6-5f10-4952-84fc-12845d41ee6d&interactionCount=1&isAnonUser=1&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&landingPath=NotLandingPage&fclco=&crTime=1780318626106

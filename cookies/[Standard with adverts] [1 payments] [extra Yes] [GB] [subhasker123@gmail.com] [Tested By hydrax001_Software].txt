@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Subhasker
+– Email: subhasker123@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: February 2020
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 1837
+– Phone: +447796407705
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Subhasker
+– User GUID: DW5A4AYDTVAITIZNWA635WXYNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787776558	nfvdid	BQFmAAEBECyfaYROQ72qaTEhmoQV1cBgJ7QkB2_6G_tZXVgljahCqj2LnFV2XpVSKCbzWf7RP-AnIdUJyoKwH43Ap-O_csmqruCeRWcDBVTle3BTyeqw8B_Pu6P3KKz75F0cxnnuwEs_Px2pqhCUKy90ZPi_1Oug
+.netflix.com	TRUE	/	TRUE	1791985606	NetflixId	ct%3DBgjHlOvcAxKWA66Pu0aC53hZB7GexY-ECdWMcF75HSOg-_vB3jehaXvKfVXi8-Sa3ULLG9iq7514R2CRoZwj1hfD3JQfNiL561T_Mft_EBoILkGmd-pVehod4Jl4dxB5eqVOv93fiNepLU5WLZqNHAIgfXgj3Ge_f-5mpeb6KtjpSk-f5MA0NQRmjmiFcR7g5tvjs5ZlVRijjGBGbyuDP0B-b5NTrghblldeV6MfeXucN6n6qNP0_TcK7MAr-nDKBgIn8PrSnwukZLLa05F3c37i-Yy6Wmkt1X4xBV3Xf8sYprHCDHaeC6Qr5Be_lLEAhMYEDGevY2axmMsLg9U5zT1-47azmq98b81fxNtHyTibmfyCpvhj3GIFF49lwfFJhrDtR_7BD9zO4Kc6hWaUx9TUc3jIQs9qP8rGpo5LQzQ9MkQ7MrXo3zxSGWQV8nTF-AXpN9mJAOjHWfMfjc8OLgchNIhUvRXHB9-LPK3oJrrsLcBNCEHEECOTIBaaRN4B1rSEymezJNUAHwfqMeyrg4N40Jl7mjvoKR8uqH0aNzYYBiIOCgwyIWSj6U398mo-6uc.%26ch%3DAQEAEAABABQMzkg1P2TdqtauVhTufCNhBR2SFZ3HV7g.%26v%3D3%26pg%3DDW5A4AYDTVAITIZNWA635WXYNQ
+.netflix.com	TRUE	/	TRUE	1791985606	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4yOv_btXjSQT1V2TJeKQfNJSpezq4ukM.%26dt%3D1760449606461
+.netflix.com	TRUE	/	FALSE	1791986019	OptanonConsent	isIABGlobal=false&datestamp=Tue+Oct+14+2025+14%3A53%3A39+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&consentId=4236b9d9-6e6f-4f2a-8bee-1910c3bcb9aa&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=GB%3BENG&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1

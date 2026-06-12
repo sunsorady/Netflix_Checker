@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Moi
+– Email: seilleryk@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mars 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5335
+– Phone: +33677648223
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Moi
+– User GUID: 233RQAZXTJANHGBHJJNPZXRFWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784504087	NetflixId	ct%3DBgjHlOvcAxL0A9iKh-vRkqj3RrStub1Eg8FUIq15ewxUVa3JBzPGZGf3vdDnhqXI-L0puFXCHtu4QZBPllNpT6-Sp-PasRcikZgqqvD5o0_HNhQxFX_L3JqB0TpOfm1Kxdy3hFaOMr9JbtA6eS9tGLIq4v-TG7cq0PbsPpC5IrBmvLXmDf9aizSTPveVBHeHYZpcHopIqE4AXmSLiNFEEjUqlJhNIyvUNkGjh20aDzsH2TB-5BIproJRfXLIfn2c2ApHp7Yb1M5Wa6ueHyq0BYEUWpACJWOPnb71o4anK5ssKLNJAvOApsPHKsJWanS_O-Bb1xkUdZOzqdCJSWhBFnBOcGupKyrO7J1F81AYkXtmJLpIGL3hJBETCuPfsgyFIhSB79d_zFCCU2itlc8ZJTt1NwKaenJlZj4lsBc6n0FP7rkMRHr2RrxVawMEgqm-uZvqL0WJjxo_TMT8oVpaE9nrdmAT0kkG2Jbf1wxVI5EC3EVFKWeoJIYiwk_DgfZdpESFNYVYtjLEkfiFUxnNiQnabzuo57y4f858JZKZQBUezPFvDy6HmiTNcyt-03VAypt8aHXp54YCqP2G_ZjCpqAu660kPM7Z4bop4vhplMi2Kffb6v7pgq92rLvFCPd8RX6EB996kKHEToOPgUAGYHeuBxVnhN36edHz-KamGAYiDgoMW05wgjfObfbJZyCn%26ch%3DAQEAEAABABRm5MXhxZlRry4wburs3Ode7waWZcruRFY.%26v%3D3%26pg%3D233RQAZXTJANHGBHJJNPZXRFWY
+.netflix.com	TRUE	/	FALSE	1784504092	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+20+2025+01%3A34%3A52+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de6f0f27-28d8-482a-86bd-ee709f3b6b51&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=FR%3B&AwaitingReconsent=false&intType=2
+.netflix.com	TRUE	/	TRUE	1784504087	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDcU0y3eiR3diDq5jlmryuULdyR9tT6a4.%26dt%3D1752968150812

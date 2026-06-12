@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: beau
+– Email: meggerzfdw@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: July 2025
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +61490780449
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: beau
+– User GUID: 3INZHRLZ35E5VP2UTVLDI3XTBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809296873	nfvdid	BQFmAAEBEHENkMQePWiBHr_Vb_SBsdlgIOb_4vIGZRr9P0BWPVPdyjhJ4TJg7TxesjsUO0W6xLZzMJNMVImdx1CXLmDC79VOL9M-r4_17RLXHbTR_nQn6850J42T_bOxmAirxmVnaNY6_URfcAgKaqFbZTi7oXde
+.netflix.com	TRUE	/	TRUE	1809296876	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWAw84DDdFKfKewCqfnvmDBhn_snn-bmVUcip4nLjb5wq6LpNsgv2MxX1T1s2irhFGTnPkCnptG_g-dGc1JrCrIMrm9lixSeHIebfCdy2r87bGuIv7wXLhHDpWegHE2NDDBtKG303QxYhz5tY3ooaIN23J1jC-FyMLUpAoLoTyZgqfRDrN3PRYY0vdqHdnej5L7HfI_N3qzFhdeFRD2dOwD9xJLHNptButrpv0DMHZp1bf-iru71pUyNsrTjmL64lAxps3t9WOiq3092yBRmySdSUtKflrAnzRDKk8jDPfJQ7iAB7LtcyFFlDceCzPgLntjdLYABVYyxqI-HTJrpA26GqiAA1uAUS7a9FwRzECFmV7N3ty95TQEFC1rYhD4SbflVelo85Wa-Dt9_brzRki45Dziq--_11y6kb77m5_IOOP88tVuR9UGukKCexHq2x4dRBbk3kkFwFdG-dah3fumqdJPMisRDvkghcbCus_86SrAfoleli63kI6TLdqQETxxtimO14byGWrb7KYiWGJ_F1VfJNSHx0YBiIOCgyr-i--ECUsucOv1Ng.%26pg%3D3INZHRLZ35E5VP2UTVLDI3XTBI%26ch%3DAQEAEAABABTrZls33iw60I_e0RmXL6l6du37vboW3bw.
+.netflix.com	TRUE	/	TRUE	1809296876	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfaRtlv0RYVvEl1pAh87bBJfd5vZPsGso.%26dt%3D1777760875173
+.netflix.com	TRUE	/	FALSE	1809327666	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+01%3A01%3A06+GMT-0600+(Central+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bb120cb4-05c2-4f76-8f9a-09dbe8550f46&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777760872617&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: iara
+– Email: sm-suarez@hotmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 9350
+– Phone: +541132775668
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roberto Fabián
+– User GUID: NO6WFOHLN5DWRMPFYG6IT5T3MI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1782774237	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0Ahmg0-PY8OdfQyNmOY9Ams-OeCHQgQ5mnIsdX2HsKRZdY5jtvcSRK9xwVD2GfEbh1yixRFg5hR8hX1cz3OoFAnZP09AWpjvduMAzqQfM53dTU200iDNF4DmWsrGhMgw9epvmB7EQJYWFAHJQ6AJ7JW4GOsbqKp3rbQUHhLtASCd8nhNJxJSq-klDLrV-xNcaFyYHFY_EejQLQ4RDL3hc39ouWvOIdbbeen8JcD9NG1WJq7ijs4WNh4gHmcQttcNveFZV87TTvINFXhrs4ct79eOtTCh9RLxbHRO2Ia6eIIv_QaQ8J9ajFV-XlvsFFpzj5BGBveFNF7jL45B0W7LA116KcYt-gQA5mfkdgYQArQMbzFpsIlhnFjPO8lY66o8f7wzReNe2I8tg0g4_cUpNjzsJdpn170GgSz8MZ-gHG9IpUl6_sl-lnxtp1GeNdgFW71lwXEBU-Bz5B5Ym03kXxIQKdNU5T78oXYhWeFKVM071k6AkMBgGIg4KDJu5U_hK42tmW8KyYg..%26pg%3DNO6WFOHLN5DWRMPFYG6IT5T3MI%26ch%3DAQEAEAABABRqL54Okz5n9ZrPyKp3WBVsmzmLFC1lHeQ.
+.netflix.com	TRUE	/	FALSE	1782774219	nfvdid	BQFmAAEBEJkvSJlVrFWUQf1OX8vqYNdgruuO6YShv1viPGwgmwj10VMksGO6NhfFTlobZ44mO_gOtp1jT823mi8xq2cSc_Uw8SPSJuNs-MELL_eWl3bOmDkZjHWdCbO87jibeUMu4MAMb2hcGNVN4Ww6pH36l9ru
+.netflix.com	TRUE	/	FALSE	1782774883	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+29+2025+20%3A14%3A43+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07513bf5-654f-4331-a462-80d3b0581114&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hilpod24
+– Email: hilpod24@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: February 2022
+– Next Billing: 2026-06-21
+– Payment: UPI
+– Card: N/A
+– Phone: +919611826399
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: hilpod24
+– User GUID: U4L7UV7QSNHVREWHXIT34ABETU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798517818	nfvdid	BQFmAAEBEDrUAqdl-WuxBH1j7p42q-1gIlARFaZSlmrzx1MEV0U-o9lr4dJlVvUYfKqgm91ISBy5SAYsGtk_ikB7caGkfKVj_TRQiRcmjvOQUIc0mrBZ6XThNYndqlr6ZB-mj8g0ETLICgU_xTJWGPhwrSXAuYz5
+.netflix.com	TRUE	/	TRUE	1808396092	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA4f6Jvqy1KcdJjgIM-JQ-r5umLEEtvowpNZBcUCfcbBWbdWtLgdVoYV3VxsxnJ_1gxc29NRb7HEfWBCi6lWOV15miz7Yq-ttZHKyybOHdtZO-_hN2HDq8zHIjv278_bPflqSWg9l2cT81Qv_LuLIaO3RSNPS-WJzIG8o_Gr8W2IKDU0zpIgPv_x6mUa7Bdm_bFhZhpVI3NKiS0n2KMoTslqHilFxu2vyG2rhpivh7VhAFD6ZcUi55KC8oDxQ1zsdeScniTCNi4iWNWqH3k3mlenp-ZExFWhZ4BAHsqiGO910Yo-cc8IrnqMsHnsyUwhq3mv5Xq--EjL8LyPz0V7yRUWFGMPuNmJO5bbXUuwisBJYCxgxL73FNWW6xJRs5bymM7DKnzob-7-CaNmvDC2pxC95HQ1bLGIW3__ak1Dr_7IWRDySIsLrd1TP0Lhtyq5lr1ZGrOiLFHJns3Dc2SLealHbEKmLqAhD3RC2aj_xB-jPHwMDT9oEYXhor2bskT0EFOmZ5bHvDZ-EHLy17J3hMwzkB91WVxgGIg4KDPawJkiBc7OtzNdz4g..%26pg%3DU4L7UV7QSNHVREWHXIT34ABETU%26ch%3DAQEAEAABABSqdBV5_uGjlCOtAxFZxxpKY_13mSObsrw.
+.netflix.com	TRUE	/	FALSE	1808396095	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+17%3A44%3A55+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f49788ba-2dce-4010-b5e6-c1aaccdc7d7b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808396092	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTq-rwaNPR0R00Fps5luo9m40v9YdDkpFA.%26dt%3D1776860090587

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jack
+– Email: valeriavecchiato@hotmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: giugno 2025
+– Next Billing: 2026-06-30
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393487329325
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: valeriavecchiato
+– User GUID: H3E6REJLFNH6VFA7HPJ7LPMFDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785269026	nfvdid	BQFmAAEBEL-I8R5dc5kFf3n87vevbi5gzLnMOtUdgnk7iyKU_zpxTFfSIa9srZEs_l0mqxC-v7g3Zy5vbUSI5ocSj1b-4I5Aq1Gw5Qk_t_wpMG6XYyPFBq8IKKf9AP_e58IONTl7F99q1le5X_ComqHtAkAE_T4z
+.netflix.com	TRUE	/	TRUE	1804972619	NetflixId	ct%3DBgjHlOvcAxKCBN-b7FhK4Fo3x-qNNox0z1f29vyVHQfC9F3t8fD5jrsQQLuB85w_wIiAKEmY5Z56sOzSsNcPK34n_i4lQQ-P0augZ1XQCFkshHE5mLUrkpg7Rmod4N2vuR8mqqsWShR1JRerqo_nAgbWZOGOEjwk0nEBFN5FTzqyYN81XqPKbJb-KOVNhVixFKe5wHpTSFFVe6oygy230wNrbNf9Zfp5i8yksNaVW9OX8UjkO_y6zXrZhcrE6waqyYrHHRUjExYEzQRdl0R0D5LalEV57a5ih1pr4qYGpHo1gZLgnQGnF81GY-ycSj5HpAijBJxamaExhHpuOFjSIRPR_KhBVhuhPv9FRjHKnu7XU-0Aq3XgJayczmnYjQR_4qFk5-SHegIgh0J5WWPw334QCjZEozCtlTr9_wJpgqXg0UzPJnFNvGQgHfX34FLVsw0BhiDd65NkcoXxtJz8JMNEUUoFKMgStpyUtx7pFkhGK63dqps8rwA3k35zAgM7Bqf_CFKa-cRPKsIwQnqoOiTiPcAFpK79VheJZeYrxXy3Of-IFkMFjeFotmahlNEty0albC64HmgQIf4m0PCVdeBmREmSFeieZJButUzc0uFkIoYdRuFcwITr5VOnptUUhAzPeBRfinxBZuU5qlgctReJzUN4YJT_HIpvvd8s4G_j-QrybXeiBTXfz2wYBiIOCgx5tnoESrslwpi2kKM.%26ch%3DAQEAEAABABS2qnwgkq67e7njrr-Zs5rWsRF-197kGbM.%26v%3D3%26pg%3DH3E6REJLFNH6VFA7HPJ7LPMFDU
+.netflix.com	TRUE	/	TRUE	1804972619	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTuryDLnKZA6fS30SQ_BgyXX_Wl2wpflKw.%26dt%3D1773436618355
+.netflix.com	TRUE	/	FALSE	1804972621	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+22%3A17%3A01+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2dc82b6c-0291-45bd-ada6-e44ec3f43b32&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B34

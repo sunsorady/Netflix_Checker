@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: USA ESTA
+– Email: gieszert@gmail.com
+– Country: HU
+– Plan: Premium
+– Member Since: febrero de 2022
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 1383
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gieszer
+– User GUID: 2NYJK2S5CVC6PNW2AHV72FAYVI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787460822	nfvdid	BQFmAAEBEK3uLHROvM4iEMkQncVlJZdgUEzqUqWO5-1MUgeu53c5oillrrCcHIuYcTrbyRJl___1BBUWohuw_g7Hn-IteqHAm8ryaCggPpGVBTsThCKldZuuzVccXZbsjKF79lhw5us8GWiKHej4WWjuFTaTsUIX
+.netflix.com	TRUE	/	TRUE	1795779457	NetflixId	ct%3DBgjHlOvcAxKWA2O0DZ4UHYUjOYjFcJ-UcS6j5QZPo4YLTlYEpGoRiWbteBAYA4wYmHOhmDgHlLRdt_uHQD2JLpHoKCQGl6QBhOJ__d2fZzQLmkrpVkCsf3IHhk7SHzuEokW_Y5olD4B8Sw-3Onja1jJoV9ZUpitM5HLUIaPyBMqypKz-Le507nWBBDuRlnajBmL_-whmI-GQP3qLB0gRoCsi2Jb-zwz7R9rGKT9yDPAu3h9jD1I1h20oeeh3J5ry62EZJjwkVYbv7_FFMlxW5n9TG2CJ0XowQo9tyoK3oAonz499XLLbqTNU4EDKl_HC0I06DvWhGa2S9UsAV4RIJbiknQK5OxY4eqxIb6qbj2pP-aDnpThENml52SFJkTDNnxFGu89PCUQo7_Zv1w0kOPAruOd2a5Vu4anwZzf5DYFd8S6y7eUrbZa5rLHOkjlul-pzKSTLPVIicd_fJ2TrKmPeeGJ7r2x7o04WX9kXlWaaUMU2NAowmm_ZqoMvao66efZLLeEvlw42VFNDnnVWhUSFXhv10YeazkJiNfGlowEYBiIOCgwWjnEBcCNFC4YTPwY.%26ch%3DAQEAEAABABQLuCyGz-JX087qTKwYerABTKJTX72CH4U.%26v%3D3%26pg%3D2NYJK2S5CVC6PNW2AHV72FAYVI
+.netflix.com	TRUE	/	FALSE	1795781044	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+20%3A04%3A04+GMT%2B0800+(Taipei+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=588814aa-d44f-4346-8efa-0667d946d8f3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

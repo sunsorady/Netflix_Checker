@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oluka
+– Email: tyrone@peiris.com
+– Country: GB
+– Plan: Standard
+– Member Since: March 2019
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 4241
+– Phone: +447917041198
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tyrone
+– User GUID: FX4ZMXT7OVCGZOK3LTFUML6QFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797627682	nfvdid	BQFmAAEBEGE_72Si0cn-eEeivYwGTPVg4EW6iFyLSLmMPbWXr5cEx15-Zt4FluwlQY72tp-yMYm3Xh5hSJtHhXaddO4l1D7L5u_26UQQkXG0c5Bd9xtHhwLMRMzRFBEB3TUzZb6I_trY1IkRr3I0XaWnA6J6ZRkc
+.netflix.com	TRUE	/	TRUE	1809149529	NetflixId	ct%3DBgjHlOvcAxKDBK5PKMyEtmYqrqFl5V31HKKPxz7iLmYMGmLs_iJOoGcJVZvnWi-TI5HvErvEFoZqG709FC8EIkt9i372ImGCnyCPkicFzbE6h8GZalVOPgtKZ9e1Ap6UQERn7ULWnB4k38YQ1RRokPdjQYT83eN7n5wEF3rlqAOtU_rT-gw_u_J4LZpMtel7RM8E9EFHFC1-3bUVBtl04Uyam1Y_2UlWLDrz5NLJyhMnmxUJTm4NNBlHkFscQSs1LvZQvdj8YzSwgIfNOzqxnBl_L5d-Y05MQFHrSAAQoxWa4leTQzwpj9Bzt6e2EcK0ARwLGiAC8Et1nrlFAFQBk9MEh6T_e5DUoIYr-Cc7mihXDFqPlVm1cW-PW7CElFsa8TwKzz3CDxJW7A4lgC3r2M4w3JmTDVmmRJSGi-FmOXKacqPrvtWp0j2sHfUfXSq5oGDUH9Vlw4ZdgLnwsZAs9yAytCu7Yj-8ZG5hb91DfrOfU9aSPSVc8wrcuWqLEbEGJJpLqdET9892oHMRtQLGtAXdBhusyAm7lG_ojO8L0gMIRuzXKt31e8026IXdbTnicg6psgUL1GGsamf2HdF3uqjzTtg8Zxpw_V0r43L2MYweLwCWkAEAOjd0ESGghQyd_WY6eFDqT8YyUR4MXhz6uXm1O1VEt7DgbYna6-vJmJNwkXB3DJm-hNmumo3AGAYiDgoModowwJCGhMF4jxfv%26ch%3DAQEAEAABABSb2xsDs3WsHCCVsQ5UIvNSlCh_UX23CG8.%26v%3D3%26pg%3DFX4ZMXT7OVCGZOK3LTFUML6QFI
+.netflix.com	TRUE	/	FALSE	1809149530	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+06%3A32%3A10+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88e451c8-5497-4a8a-9034-cc7b557e2130&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809149529	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSd-BTCRl41POderXTV-C2g5JD4fNlM9dE.%26dt%3D1777613529506

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Catarina P
+– Email: cprogs@gmail.com
+– Country: PT
+– Plan: Base
+– Member Since: janeiro de 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 9102
+– Phone: +351938453439
+– Quality: HD720p
+– Streams: 1
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Catarina P
+– User GUID: Q7PUDNT6ENGMRKBU3CF6GDESWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803916808	nfvdid	BQFmAAEBELLLGgZdeZP466AaARkKi01gyr6PP4mYnoosdsujLkaWVBLzk--eJDCbtPA8yECy-PSXj2GI7slhR22Y_N1wZz5_apWpKDoIYV21m5VhixWzcDfJdlHe8ybCiF_PD9Repdf4U5TNRyRGkR5cVUMrRpit
+.netflix.com	TRUE	/	FALSE	1804087607	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+15%3A26%3A47+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e74a8203-0096-4943-8857-ec5d7f0415ee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772380800416&geolocation=PT%3B13&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804254654	NetflixId	ct%3DBgjHlOvcAxLwA-gdfx9ujUFEOaMV9fwapu436TZVd7UGjnVrQzJd6AlZzBru_XAWC663GvUmo-DBEqyB3dFJSgxOdYOFoMlxQ0rkzX4h6z9ODGn21JpAvIjRnje1XR5Q1PQ8Mp7VHEYwewx2WK3tG1sD35dYu4_kZSoTlAY2CSoc-ia7LyGeARmUPZDpT7vpQdxK7I-3JQ8IJHm8NX-JoLbUPoJ7e38bev8fe-YtrbbwPtqigtEfTgZx2hQ1vgJBuwHfO-z1BfwEdC5oYSbSbRi7YcXpC9JoLMjcYu2t33sD4NZZ-kYEZxmNOJ5eq-XhK9ttxm0HMRzysvHbGeeRWntv2LHQbV-fDsgh-rVL08SmqpBZWIrmQ9zf1yuxjbblFZi7uBRGhI46a_Qgz6TTMjWwdysCxLMsY_2ivlrm96ssvwmvX62cY0KFBCo9RTjexyBuVcVpffII_oYO9SgkJxr5OjSkv1OTG4mYhwOJOsSScPfAUz1evKtS8eq31aYkmfLCk1Lt1Atg_y2ApYBtfITH5NGeWPo6Z1_IV8nePffqq2RkdAW3EWYC0GTfxK7XX97ohbnEp7jC0KeEAx5XI_ANPHunUZd7hJ3EaEyDpeKp4UHqBmd0c59QdnNLvH8H0lU_QcMPzYAdZbbXgGMNMETFh0upZn-nuWIYBiIOCgyyMa2-YclKaJLmG_g.%26ch%3DAQEAEAABABQPYta2UyUCGVA6gwEdFmPfoI6BsB7yGB0.%26v%3D3%26pg%3DQ7PUDNT6ENGMRKBU3CF6GDESWY
+.netflix.com	TRUE	/	TRUE	1804254654	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTqVxEKupOEOGbPKqW0gOUcYFh16qHq35M.%26dt%3D1772718655068

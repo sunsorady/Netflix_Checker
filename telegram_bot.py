@@ -2,6 +2,7 @@ import copy
 import json
 import logging
 import os
+import random
 import threading
 from datetime import datetime, timezone, timedelta
 
@@ -22,6 +23,10 @@ from main import (
     build_nftoken_links,
     has_usable_nftoken,
     decode_netflix_value,
+    move_cookie_with_reason,
+    cookies_folder,
+    failed_folder,
+    broken_folder,
 )
 
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
@@ -46,12 +51,16 @@ user_lang = {}
 LANG = {
     "en": {
         "menu": "\U0001f3e0 Menu",
+        "get_netflix_btn": "\U0001f3ac Get a Netflix",
         "help_btn": "\u2753 Help",
         "about_btn": "\u2139\ufe0f About",
         "format_btn": "\U0001f4cb Format",
         "guide_btn": "\U0001f4f1 Guide",
         "lang_btn": "\U0001f1f7\U0001f1f1 KH",
         "checking": "\u23f3 Checking cookie... Please wait.",
+        "get_netflix_checking": "\U0001f3b2 Picking a random cookie and checking...",
+        "no_cookies_left": "\U0001f4ad No cookies left in the pool.",
+        "cookie_removed": "\U0001f5d1\ufe0f Dead cookie removed from pool.",
         "alive": "\u2705 Cookie is LIVE!",
         "dead": "\u274c Cookie is dead, try another.",
         "plan": "\U0001f4e6 Plan",
@@ -69,12 +78,16 @@ LANG = {
     },
     "kh": {
         "menu": "\U0001f3e0 ម៉ឺនុយ",
+        "get_netflix_btn": "\U0001f3ac យក Netflix",
         "help_btn": "\u2753 ជំនួយ",
         "about_btn": "\u2139\ufe0f អំពី",
         "format_btn": "\U0001f4cb ទម្រង់",
         "guide_btn": "\U0001f4f1 ការណែនាំ",
         "lang_btn": "\U0001f1fa\U0001f1f8 EN",
         "checking": "\u23f3 កំពុងពិនិត្យ Cookie... សូមរង់ចាំ។",
+        "get_netflix_checking": "\U0001f3b2 កំពុងជ្រើសរើស cookie ចៃដន្យ និងពិនិត្យ...",
+        "no_cookies_left": "\U0001f4ad គ្មាន cookie នៅសល់ក្នុងបញ្ជីទេ។",
+        "cookie_removed": "\U0001f5d1\ufe0f Cookie ស្លាប់ត្រូវបានដកចេញពីបញ្ជី។",
         "alive": "\u2705 Cookie នៅរស់!",
         "dead": "\u274c Cookie ស្លាប់ហើយ សូមសាកល្បងមួយផ្សេងទៀត។",
         "plan": "\U0001f4e6 គម្រោង",
@@ -190,6 +203,37 @@ def check_single_cookie(cookie_text):
     }
 
 
+def get_random_cookie_and_check():
+    cookie_dir = cookies_folder
+    if not os.path.exists(cookie_dir):
+        return {"ok": False, "error": "No cookies folder found."}
+
+    files = [f for f in os.listdir(cookie_dir) if f.lower().endswith(".txt")]
+    if not files:
+        return {"ok": False, "error": "No cookies available in the pool."}
+
+    random_file = random.choice(files)
+    file_path = os.path.join(cookie_dir, random_file)
+
+    try:
+        with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
+    except Exception as e:
+        return {"ok": False, "error": f"Failed to read cookie file: {e}", "file": random_file}
+
+    result = check_single_cookie(content)
+    result["file"] = random_file
+
+    if not result["ok"]:
+        error_reason = result.get("error", "dead")
+        if any(t in error_reason.lower() for t in ("timeout", "network", "error", "equest")):
+            move_cookie_with_reason(file_path, broken_folder, random_file, error_reason)
+        else:
+            move_cookie_with_reason(file_path, failed_folder, random_file, error_reason)
+
+    return result
+
+
 @app.route("/", methods=["GET"])
 def index():
     return "Dan Sun - Netflix Cookie Checker Bot is running."
@@ -211,12 +255,15 @@ def process_cookie_async(chat_id, text, user):
     country = result_data.get("country", "??")
     mobile_link = result_data.get("mobile_link")
 
+    logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
+
     if mobile_link:
         msg_text = (
             f"{t(chat_id, 'alive')}\n"
             f"{t(chat_id, 'plan')}: {plan}\n"
             f"{t(chat_id, 'country')}: {country}\n\n"
             f"{t(chat_id, 'mobile_login')}:\n{mobile_link}"
+            f"{logout_warning}"
         )
         if result_data.get("expires"):
             msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
@@ -227,6 +274,49 @@ def process_cookie_async(chat_id, text, user):
             f"{t(chat_id, 'alive')} ({plan} | {country})\n"
             f"{t(chat_id, 'no_link', err=nftoken_err)}\n\n"
             f"{t(chat_id, 'cookie_text')}\n<code>{escaped}</code>"
+        )
+
+    send_message(chat_id, msg_text, parse_mode="HTML")
+
+
+def process_get_netflix_async(chat_id):
+    try:
+        result_data = get_random_cookie_and_check()
+    except Exception as e:
+        logger.exception("Error in Get a Netflix")
+        send_message(chat_id, f"\u274c Error: {e}")
+        return
+
+    if not result_data["ok"]:
+        error_msg = result_data.get("error", "Unknown error")
+        removed = ""
+        if result_data.get("file"):
+            removed = f"\n\n{t(chat_id, 'cookie_removed')}"
+        send_message(chat_id, f"{t(chat_id, 'dead')}\n\n{error_msg}{removed}")
+        return
+
+    plan = result_data.get("plan", "Unknown")
+    country = result_data.get("country", "??")
+    mobile_link = result_data.get("mobile_link")
+    cookie_file = result_data.get("file", "")
+
+    logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
+
+    if mobile_link:
+        msg_text = (
+            f"{t(chat_id, 'alive')}\n"
+            f"{t(chat_id, 'plan')}: {plan}\n"
+            f"{t(chat_id, 'country')}: {country}\n\n"
+            f"{t(chat_id, 'mobile_login')}:\n{mobile_link}"
+            f"{logout_warning}"
+        )
+        if result_data.get("expires"):
+            msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
+    else:
+        nftoken_err = result_data.get("nftoken_error", "Unknown error")
+        msg_text = (
+            f"{t(chat_id, 'alive')} ({plan} | {country})\n"
+            f"{t(chat_id, 'no_link', err=nftoken_err)}"
         )
 
     send_message(chat_id, msg_text, parse_mode="HTML")
@@ -251,6 +341,7 @@ def webhook():
         new_lang = "kh" if current == "en" else "en"
         user_lang[chat_id] = new_lang
         send_message(chat_id, t(chat_id, "language_set"), keyboard=[
+            [t(chat_id, "get_netflix_btn")],
             [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
             [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
             [t(chat_id, "lang_btn")],
@@ -266,11 +357,21 @@ def webhook():
         send_message(
             chat_id, t(chat_id, "start_msg"), parse_mode="HTML",
             keyboard=[
+                [t(chat_id, "get_netflix_btn")],
                 [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
                 [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
                 [t(chat_id, "lang_btn")],
             ],
         )
+        return "ok", 200
+
+    if text == t(chat_id, "get_netflix_btn"):
+        send_message(chat_id, t(chat_id, "get_netflix_checking"))
+        threading.Thread(
+            target=process_get_netflix_async,
+            args=(chat_id,),
+            daemon=True,
+        ).start()
         return "ok", 200
 
     if text == "/help" or text == t(chat_id, "help_btn"):

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DApogi
+– Email: dacorsin9219@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: April 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0442
+– Phone: +63967049410
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DApogi
+– User GUID: 2FJIMLWPFBHYZBVEJ4R4FZAGXM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790914364	nfvdid	BQFmAAEBEBQYEDhU31aePU6St8C_O75gU3U1nRUou8m61_lYdnh5MYAP_KQoFzOjoliMsbWw_Sm5ycnbYjntCm6cpRoLmxV70vcAvZgby1gnhd3eHvoW8oyua_zCSZXnDjBsOLtItfQ8TdZ28meIIKbWagG23hav
+.netflix.com	TRUE	/	FALSE	1805898968	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+22%3A36%3A08+GMT%2B0800+(Philippine+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d127762d-8bfc-47d8-8f73-58b48b4cd0a9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806155670	NetflixId	ct%3DBgjHlOvcAxKLBGTu_SbUfNysb5G6TCyOPkLor9Pj9VAttxRvSl1rQvLa2_lD8s6zuxKtZ1eT_Sfz6d_9zymJGTXYbTGNn0rehxjevFyJRAkO1XIv476aBobUEXeGsQEuJkzu3o942qnhtmS12ohsUMxrtRoOr6iN5ESPVhOw2HlIipqfYb01m6qCA4E6XIFX8LaaurCCLTJuzxpc5kVN6Hw_hGivIMrtghwNOiZPE5Bl_CRPstYTIPYuirncCnajt9ekYB-v69CDUlcjg3TDinYvAABUR9rFViaPdjeY_mP-9Idk69EmpX3heRm0Lj4EQBsaAQwQ5R0f5ckKGPXe3JUv5fImKJ-ic5sbfPZAU4Nlw20Cf7Zf0avZibVZBwy9MfSadU9GYqdlx-Qz1Jpy4hYZUGknru3O91hspIr0e8DGXTh590l-qS7CT_-XhbiadhLF3TqYL2pg3KAqFBdE10WBrQehM8IH-3ccyGgX1ou6NhM71ZX8Rj_IFc1mGDEKuSAYofRVDOOYWoko8_3KztCnKWdHxd2zbAsv6hPY0Niqy_IY9UIEnUY3GnIcwqGQWML_yanGb_Rsz75jAFPtnXFbuu1QpSwypl9AJgrsfGOJnswL63XlVhMliR55x5cHmVDXhVqXHTBHQtVyycDcHONjfQd6wPnIh1dzMfbrUg3nqt0pB6lpEhOuzWRcTg51GMi6298YBiIOCgzdHfizEeB_xz5i8fc.%26ch%3DAQEAEAABABRzgchfTKWneggpuZflSkHjJhSZn6xUoUM.%26v%3D3%26pg%3D2FJIMLWPFBHYZBVEJ4R4FZAGXM
+.netflix.com	TRUE	/	TRUE	1806155670	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTaVZhtxhbwqHIchYgGIzgAj3tBi6Z3bDM.%26dt%3D1774619668762

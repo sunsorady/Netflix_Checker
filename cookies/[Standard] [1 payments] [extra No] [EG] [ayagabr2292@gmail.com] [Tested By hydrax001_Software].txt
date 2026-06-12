@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dido
+– Email: ayagabr2292@gmail.com
+– Country: EG
+– Plan: Standard
+– Member Since: January 2023
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 8018
+– Phone: +201066749629
+– Quality: HD
+– Streams: 2
+– Price: EGP 170
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: yoyo
+– User GUID: M776CQRQPBCNLCLEWMJETQXW7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1775936361000	nfvdid	BQFmAAEBEBVSUgAefbtBA3EPPmnLMA5gkwDZhzOowubtEp55FHs7wfVraz8k4rooeicj1Jf5A4Khj3iTDqNTqybWivPW-swEIVTDnmum2T_BqV4XpZvH6jvoMXY9aVV8z2-NKbQdTbDw_0wmng2eGfP_RdmE55SZ
+.netflix.com	TRUE	/	TRUE	1803750830789	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTYNi-9l1U7FdITj7E3uX9k3Yn83ieC2IA.%26dt%3D1772214822645
+.netflix.com	TRUE	/	TRUE	1803750830789	NetflixId	ct%3DBgjHlOvcAxLvAzirs8t_MbPp0AxMLX-zGBVCRUgyIMKQrASE3VLWxJWtJ4vxI2InLXqw0dP49Uab5qvagyyM-_YYvzur5WiSF8ezY7rymb4RDwh1UjGFiQs2Kzq9-pjTTmWsgNTaZGOQElyKHcdP1MqbaT9fXxwdNKhIZg-DVqsDHK1aNz5-9YRG6fi-k112erDobpr_2bzpgIoFPuoUCl5gfX6e8l4supqy77pWNYHG5Xqtvd1Tn3msr0_QxmFdSFFpBhmCpySeRaPH0SJrQKSyIycHK-gLw34deRG_R7CJlsChf_AR9M4bAWl1d_zL5Ta2z2pkepC80DqMA0AlAuQLs2ZmywXRJvTWQic4oljhpi9HhtUazZjSnRfmCcLYR-WvnBs2IxsnqI4DZ9riFhsnUsqumIzkmUJCVDc81XkY35YMGBcBcYCYXwIMWs0Bckhx-Z4Fp9jC8_IvMnaDJjFs0bDHAcn9d5nf9dvBS4lMdliTJJuYVQQUT0PrSnQBBlaxbf3CETrgpVbUUkdNv17uvS2W-K0WzcSuEnrlbh-pvNXjcmNM1FFX_2GOFg_GxPVAVC4Oh5C1bEsi9xxWg674UBoJcj_0qdFc80Lwrkj1E4HBjUuUrxJ0sDZk4FtfmR9XYnFUGvlAKALwVHjAVVgW4vhgOLoppRgGIg4KDCzrJfx-GPz7kXS0vA..%26ch%3DAQEAEAABABTrEQ5GjIsUjiFxCe661BRBbeUDZ_bdjGg.%26v%3D3%26pg%3DM776CQRQPBCNLCLEWMJETQXW7U
+.netflix.com	TRUE	/	FALSE	1803750834000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+19%3A53%3A54+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=d932fdb8-bdef-46e3-a16c-b6a2a16482dd&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1

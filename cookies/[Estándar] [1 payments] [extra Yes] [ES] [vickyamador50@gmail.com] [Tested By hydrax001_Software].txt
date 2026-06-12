@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SOUUUL
+– Email: vickyamador50@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: diciembre de 2023
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 3117
+– Phone: +34626871790
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vicky
+– User GUID: IDXD4YZ5ABHZVHYUH5FTNOJ66M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783623096	NetflixId	v%3D2%26ct%3DBQAOAAEBECaOr2MeC36H7AHc0N-0iSiBwJ3DKBIKFNLuWQ7CqweexjtK0c5nTnxYLXgcpxz1JLL8vGqshvke7WS0GafxAYAHcb5K88OElWOqRXzID-kDQZHf1Bt7n-vpUciFWN8mYyTyz9vIxee269o6nRHp2wJYK0G0Aw976cFxcA2BuMsJgIzOaxirnW_Cl7wB3KFKTpiMfIkIOOyRmIN4i7Fja2VhtqxuTFgKQef5CsxGc_iOe5FXsbdgxesSQvlu8yQFTNeZrE8AUPYkiDzdPpuRPHAHXXPhrFghhMagE83q8JIK8lRuyvxWXGtGSl8h5z4x4JzS8MPh2Y5wYAMvycSkLSXGAU8C6n8krZ5eZBdxlBXRkpBOCJHKAkiYApJbhVvo0plTcWHl4peWyVeceXGxeRT8PVCp18I3uFvoCiGbVFnr4xPwj4J-sTi-8AMM_Axg_HOdJpDmfnAF4eZl8DFx90SSPni9wvNgmAGYlQMw_psN0SpWiP3N-V14LMp83wsKdotkYtHanCfDtWbMlthyyQ7eLgbKgJ4hsF8CzCTih-2xjjV7D1X3vGH1U0WNfLwxtFPBUbTvnrTQ30BetHiPkg0_t5c3XlEU-YiwYlbxMdowzJY.%26bt%3Ddbl%26ch%3DAQEAEAABABQLTNxMFdSUq-flgF2xjezL66jQyE50lWk.%26mac%3DAQEAEAABABTzQjn-qbRgI4a719nXqHvuuuYEPhjrVr0.
+.netflix.com	TRUE	/	FALSE	1783623096	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+10+2024+11%3A42%3A11+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b138677f-2d77-4288-8b60-7637b7d66d31&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783623096	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABT04ue6ubCqRx2zjwu83dfnJt-T8myIAi8.%26dt%3D1707561728807
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEHw4IumUPY6ows3uukjSJI1grscfVuwUGlgP6Ar1YGt7ldj6XRBeByB-uqrtup4YeWMsO9zTOoju5vKJQmZZEb5Lzpnm4-FjR4QWZFsefsehjHE7OlWOl21y4ndmNHllUp_n4ArY76q_5A5GqWRGDWWd

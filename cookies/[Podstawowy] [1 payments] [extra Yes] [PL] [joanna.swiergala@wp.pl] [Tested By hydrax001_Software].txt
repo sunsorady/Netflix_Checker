@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Radek
+– Email: joanna.swiergala@wp.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: lipiec 2021
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 6403
+– Phone: +48721561161
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joanna
+– User GUID: 3EM4KEQWQND45J55TG4PY5ZKBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798741725	nfvdid	BQFmAAEBEDxfBySsVa5WMo3Ia7CIRulgHxBqp9CPnp5-afrnSj16jcI-510nE1rjQygQS9jADCennA6_QiM8Z8eqlx32KWHudE8hsKoUOJ66GP7Cbq0YrlwaUYL8JEfmQ9hD270RlkysT_ni4HyaCvThwvZxZ-wk
+.netflix.com	TRUE	/	FALSE	1798741733	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+19%3A28%3A53+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ba91411-0c1e-4bb4-953b-b0a453326063&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B32
+.netflix.com	TRUE	/	TRUE	1799047262	NetflixId	ct%3DBgjHlOvcAxLoA0luD3JInBe_ic_vtI5uFHRulAhi0oti2LOcGi_QoPXCZHwJS5cSCTSPuBrzcdpL_o11LeRMw1lxXvS-4mJgXl2ImHOnvM1ZjzGVptGISjOVn6EkdO9y0MqDB1WW8NKLs8O4aHoYYnHKtZ9v1nB2CT3ezGvdMP78EMLbXg02hkBtX4lNHVfcvOeuZklb_NilB_ysMEcxjsNt8n2laUEpoPjPALxIMV9D7at3PpH5Cb4Y93-Ebcu1qD2oJNJpUczNmrTePaFxBOPwgSRCP5AgHmVs_Lctuwu8_Vqf7TMlm5D8YHQRRxMJ3aAB-dYtS4JoiGwfY5EYz6EqUJxIsT6vhS-PZ1-yBm07XZjl58BTw13oZJJf15_B5RP33RlYY2Uid1K-m12UJG33TjBIj48sGKVCB7CS70JuSntAaKUXMsPIbHFFpqa1JswVGdVligR3KpWrKNzteO2w5s61GHTQNpulUQrHvm18iTXhQWDNB7NZsChRrKM7WUuD9s6babrAcIwfj3V0rB0yUtqLbH7n6yBn35gYf_OOb2Lpx1tuj5zIVyBWGXXgcjT-t-5ceWtosIzOnXzSbSmZ17XYuKlY7Uq8mvzGntzeUDPKQ8xMTQ1iQuDIogrKfM1BZ3M72luxzVubJ4nsZaIZGAYiDgoMaVbR5GJKymSftPNs%26ch%3DAQEAEAABABToAfAdSETsTk2dQi-kZA4yIHhGvog_zRk.%26v%3D3%26pg%3D3EM4KEQWQND45J55TG4PY5ZKBA
+.netflix.com	TRUE	/	TRUE	1799047262	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAhk4IBZN86fQogYnasZz1A2xUXdtzt4E.%26dt%3D1767511261492

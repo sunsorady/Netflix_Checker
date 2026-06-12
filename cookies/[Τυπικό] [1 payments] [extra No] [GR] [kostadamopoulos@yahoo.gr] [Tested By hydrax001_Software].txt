@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: KONSTANTINOS
+– Email: kostadamopoulos@yahoo.gr
+– Country: GR
+– Plan: Τυπικό
+– Member Since: Αύγουστος 2023
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 8313
+– Phone: +306944578359
+– Quality: HD
+– Streams: 2
+– Price: 12,49 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: KONSTANTINOS
+– User GUID: HLXICTXLBVDDFDNUQYQMTY6XZI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797276164	nfvdid	BQFmAAEBEJqX4oWLxJp3zdp9KyN77rZg6LtLCMLwa8EgJldCeZ49b8QW37axvR1A0Onyqu3_XO_aVw_SPT6yKs2mPdL_2RFmiU34hwVA9IOXDsN_jykScS87GIfyDzAifJtZcNT7hpp7UGpA-mzN31vEd20MIlUP
+.netflix.com	TRUE	/	FALSE	1800698997	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+12%3A09%3A57+GMT%2B0200+(%CE%A7%CE%B5%CE%B9%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88a0809d-1ba5-4abe-9c0a-82e211f75999&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GR%3BI&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801935550	NetflixId	ct%3DBgjHlOvcAxLmAx6YdQ-1YZNgQ61cCEXFV_IN8faiDLbiT8Er5KiSmlVhT0H7r73ld6Y1FXxqvQW-2N4FKyqCp9RCvEaWmdVMuRDYSC3HgkgHOjShgIgwV5m9MWE1WYab7PxxpRkEx7CiQJ85EOSYJAG21mL7HlgJCP8S2BC8hLdUPHgWaRFVSVx2fRo9hE22rGDsn2UIT2byvCVLh4ggldEsdECZ70-nbCufE7YR0aVxF8BU7OibzEg_x_v5qnbVIKlyN3CT4TzU6bRd4eGLtxZ02ALmhMJRL0LbuRRAiBV9_UG6S8E23KMSb492ZEi0KM9B6b63QMmjJS1viE3a97rL4lch4Wu31U3FnarZkXJbJlqkbfMaCSsgVa9K_QasGRBemjM-A82GwCYyTIwXvliS_Xrlza4P5kKTtvv2p_vKU7Mjrl7jOZe44Bm-FI28hlYIzRFCCMDEOxbVmXBGrJtYWTlIa_RQKD9ILA5axqVzw34bfHTUulK3VTNkEn5FTwOauVK7rYFNFL7lninimYIo_kYaEjyYx_2oyK1rDJurtX1ucAwdEbuoULU2HQL26jDfSojZP8hpeGCH4Q7G4EJqp32WT-UfeerAPFfgyBtFM7DD0hCDdyBC2BDRBQpsEaUzZ7yyHU2AeEPKlUDOvhgGIg4KDHiTSKe7IFc192oNaw..%26ch%3DAQEAEAABABSq5kT1yMd1tO8hZCJBdEj02Rc-bXyXBFw.%26v%3D3%26pg%3DHLXICTXLBVDDFDNUQYQMTY6XZI
+.netflix.com	TRUE	/	TRUE	1801935550	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJnhMrFga0DEKpNx5TiMktAK9CgtZw61o.%26dt%3D1770399551132

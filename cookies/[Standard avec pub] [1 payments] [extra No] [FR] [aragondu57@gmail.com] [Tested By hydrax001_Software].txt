@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Michel
+– Email: aragondu57@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: mars 2025
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33644198828
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: aragondu57
+– User GUID: S363SGETGFFJ5DBWFYPOEBQGHU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801080492	nfvdid	BQFmAAEBEMN4yMI9b0kDstkBDg6eEglgQiL9zirzkZC7NiBRdt0q-ETSlrnb6lktIlb0PoxXKH_pjOOWOqgs5WjvSPcuVbS7cs6biSb2Djt7N9DydaMklRwgwHO46keQog_LNCtDjntYbtp89Zpav_4Hd60KsDOm
+.netflix.com	TRUE	/	TRUE	1801573142	NetflixId	ct%3DBgjHlOvcAxLlA71TO-Nl1J0CSMGBgfSSU3ka3_TioMXOyWw_LXgNCn38t7_KPJgbPzoxIjKgjwK3tpRGyqLO1tjoOK3PYhMSDi7KpYMlTKq_RG5xrl9L-uUATWoJt3RX2OmvucGjKjXY2zkLl39V8lW-VqoSSw1lm7ievDqqs7pun_e0pawxMccq6AP9ElAp549-OIbiKelDlTbgRIyjqAXDCsIRpEu5O4-my4zDzkOsoo5l85M3_IODy6m2__Xv5c4hFWyC6NNgLnu9q9YSZsGxQV7Poem6u8Gm69OWxePLBvtECTn0_BrGVFIhXKP-OxfS-oJxJOPIZGOqltqc6kWYy3Ax6Do-Etw0A3VZEEd3l-3Fpbfn0o8SVm7fpFnUxBwmHNS0I1FkCKdTAp0cN3sU6BqMKhzrnUK2sbRfWyLOxOujL9hZ4dU_Te6XrbgDJ0OIyFP0olwqYQEgjIBub9nXuQuxxov80NInSF63HbEydfkEdo2ejyApY5UaRQeqwTQN-vaf8tdRPhQTApszuSKGLng0UMySsAfgIVVuB8o213L-67zKmxlfVqgZfp5LWyXOzbcZTtD_T8ZVW_RU7VQaxNs-5oJdP3wCwTbGj7emwx8m5KTnAqtHIpDnM_iGYIp5Vckb_FKXb5N4vtCMGAYiDgoMmffoaWF0qCTACTsS%26ch%3DAQEAEAABABSb_0xfIvPlyoDjpAWJxYQre-tkCy1F1Kg.%26v%3D3%26pg%3DS363SGETGFFJ5DBWFYPOEBQGHU
+.netflix.com	TRUE	/	TRUE	1801573142	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRyLJKGQRzWHxZL1PiCGpDiPmz4NZ-LhDk.%26dt%3D1770037141221
+.netflix.com	TRUE	/	FALSE	1801585271	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+17%3A21%3A11+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be06e3b8-a820-436c-92bf-605d8737ca1b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1769544358295&geolocation=FR%3BGES&AwaitingReconsent=false

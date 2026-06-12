@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Iker
+– Email: ikercanalesmoreno3@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: agosto de 2022
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 3011
+– Phone: +34654310545
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: edinson
+– User GUID: Z757KHXGVJBZNAOK66FCZFVX5U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806450410	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAy-kzTfFYrtY-PcJjqwfQ4NQFi84E3vuH4zLEvY9URCTO4-wdGhypBZQQgLBJL4kbHzwNnyWESyYzwamJsvUGD7gNEaEnEQjM5yL8bMvjTh_VWvhgTqUL8H-yKVZKBp-0qp0RirhGXrilA0hoT97XhSJHNdVkxhWOI86hHSEx0dbNbmMMxB4BZRVhDV82lCSf8QhRI0YSMG0EZaZ2S93xHM43mNMIgRyJpnxwh02CglOIP-E2G-qgG6JY2U3HUaYPoyEqpAILlvXZZ6OoXN4Ko0ysMxIhI6J51yBbb5izoG-9cHqXAoeNR02QBwCiGNKBR-eJ22p0ieo2FHhS8Bf-GzedXP_lyJrTEAsLqZN240XQC2PkQYNphhXbbr8QVYVlsJifAPiukNsnYVJWNluwNVFWuRnwpJC9qvOm_O2AN4WqeH9yKYtpV3beg7PHBWW6Mz4rbTh1WxdaqTNb0gnOQfhGU_SvAp8M8Tz7DT3AV-86o3WjjV-osebHmtgcxkWSJuHdWQUPICa0qGVFBus4f9cEhe9cPgLXmh9GAYiDgoMRZ67adeXxx3XEGQU%26pg%3DZ757KHXGVJBZNAOK66FCZFVX5U%26ch%3DAQEAEAABABQI4RL7IOtPaXqI0LH3z3Fq01GBQFJn1aU.
+.netflix.com	TRUE	/	TRUE	1806450410	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABROydR0I57OrOjpWzmUz6UlKRNO6haV8F4.%26dt%3D1774914409691
+.netflix.com	TRUE	/	FALSE	1806450407	nfvdid	BQFmAAEBEBGnxvFrc-rsnexGgwdFgjJgum4Knvce999w9QHDsIzLsImwsLb9sBpZqgStIVs_K6-m7GP5gusEXT8YVk36ADR3bH8dSi-mgLDrt2sfjxgXemrOfjzQFbqa87JXpm4j5KE8hVHvB0e7QVFCw9pU66VB
+.netflix.com	TRUE	/	FALSE	1806450580	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+01%3A49%3A40+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4cbfe46c-8a68-42b8-9649-8bf5b181300f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774914351221&geolocation=ES%3BMD&AwaitingReconsent=false

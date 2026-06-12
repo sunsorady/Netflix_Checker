@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alco
+– Email: eugenycorrea12@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: agosto de 2014
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 9027
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papai Lindão
+– User GUID: J2R7BWW6B5EUXABSMXBLNGXBYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782566510	nfvdid	BQFmAAEBECsSmh0lIORo5mT9VoWBlXlgsJiSURwjwnCgJ3gjgrUj_2JbmSn3rypj--h3IaBXH4GZnTQiNJdASiy9w36Z4EMQ6_1Lq8M44WsYtBG3FZSPXdpWtmvPJBn-DfE-NdJrMl-5lfcE8VskWG15QmOn-Yfs
+.netflix.com	TRUE	/	TRUE	1808574462	NetflixId	ct%3DBgjHlOvcAxKABAbwUuvE_-RvRYcUTXfLmY7ZdMTeCkH6Cp32KdtvgbmiwkCiYzo3knGJOBuSv30nRmH7T_Lq-kPsAFTcvn8wfSUAusNjeZAtkLJHvQADD4otILe1Ee5Ojjy2jKmf6JI5JTBrb3xx-_iuikoOOsqiyr0WpLTX5pHSPl3KqMLkDxmh821cL3bEq0CplaogHk-RmAGPP-fflYAEpqXJe_GOAjzjtzSjSy-YFz-TWCkL8kDDWdXQL6U36XwqeN-Ir3X5tX-_xhkzIBF7QfBwFinaQ7ty_C6TgBuM2utQkqiaBHsW-JhD35buLgrETy2mYcp-4wVqUVqZ14IIkedE2VJiGdCDbGfsuxvSFIJIrjpY8gvlpJ5aZCjtHU0NJmsHMKizVvCob9K8pC26zU6rOUKJQfl5IzRNjxcnctQfJK62yLXKZqozA3UOk4biWdbh2AcknCxgoRPUJwVx9G1j3hJqsJGfCmVYkG6l20TJwzBCzg7B1HtBsavzrk6aOg00KqXBiSMp-d-aQt9ekTe8zqxmvUIdDBQzy1XVmrJDRrA3YyV_MoEHn2qHxjZ1mSh0doank6TBe0phzozOei3M1C04HRbsLcMHU9gatmq09f---dp4ZZuHttSi7DjwYtabSYI_GrBGBpXD7ONP2R7r13GdV2730IUvkj3O510l5hQA0csfGAYiDgoMTGjYLKk4IDSCNtfj%26ch%3DAQEAEAABABTRO_GBpLMykOHvh9YngP9q7gqXM3EWOt8.%26v%3D3%26pg%3DJ2R7BWW6B5EUXABSMXBLNGXBYA
+.netflix.com	TRUE	/	TRUE	1808574462	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0tuKXsbC82bli_-GM8veIm42JA4NscoU.%26dt%3D1777038460769
+.netflix.com	TRUE	/	FALSE	1808587848	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+14%3A30%3A48+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4cccc32f-9e2d-4d2f-a7e0-2b14df7b45ff&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&prevHadToken=0

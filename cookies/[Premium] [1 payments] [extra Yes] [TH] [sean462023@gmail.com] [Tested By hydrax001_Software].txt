@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Poipoi Jellyfish
+– Email: sean462023@gmail.com
+– Country: TH
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 0525
+– Phone: +66922722276
+– Quality: UHD
+– Streams: 4
+– Price: THB 419
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Poipoi Jellyfish
+– User GUID: BG5KUFEP2VEKTMNCPVBFHXD7MY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794937149	NetflixId	ct%3DBgjHlOvcAxLpA8-u-g7hkwTfzNeL10xHlwQZsVuTtXYRwIRrAiEd20UOeC4hRDQshvpwEdZLKMpP9LSkx0KS5bFqWa3Z4zHH4gIkUg2TJVCha9gr9XF-u0gCCnG43eCs3M0_VwaB5HeMMxy7tGCzMaJ4fI5gRscVHj5lOQN8h2f8-16_x2duffbtDZLxsCiTA5EQqmiGewxoZDR_xVbEZ7SPWoxdF-wxRnD6LYbQ6Q8ylG861vTSW40SmkwQv-Udt-2IL0TltneEauO8yTGTtWsOvsNI7q88D-oMGzOQgChSN4KeU4eTxmXAXw6ptCFIPtwIzqAzWXgFJ-o76RvbhoHhm-ss4p-qpbDndVey1wddC2TLy8yc_7oFQ4I8CFMpA4ZiX4ddgSEk7Q2quGOJQuIFbKDMxi1BVP6nvdHsruAhFDC8mLguyFt2j3dAUZZE4nUd_Uq93DSpq2kxblsqPZFq42QMGWogg6hDXEwUBdOomwAA-FnjRR_SKrxbL2WZ75xZKh8rWJxyKjrxCXJAwsYEjlezcmGqCK0OxzouytZol__Gmi7OsKmBdi2p6vQ2DW-4lNWyJCskV1sHY1hsgtrsDcRwvG5m2GHSqsZ6wz-Eag04pCRj5IV9YrBfspjj_z7pvyMxgKdR20skD3IW3eZ6ARgGIg4KDOWk9GfQgpX4b8dVSw..%26ch%3DAQEAEAABABTXiiUQrTKprJjA6n8Et4iUjX-kUZxSbjI.%26v%3D3%26pg%3DBG5KUFEP2VEKTMNCPVBFHXD7MY
+.netflix.com	TRUE	/	TRUE	1794937149	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTf52FNLJh4bbpmFq_JD5EyOfBS6bpOwsw.%26dt%3D1763401156148
+.netflix.com	TRUE	/	FALSE	1794937154	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+18+2025+00%3A39%3A14+GMT%2B0700+(Indochina+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ac8b83a-465d-471f-83ab-b2fe72784e9b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

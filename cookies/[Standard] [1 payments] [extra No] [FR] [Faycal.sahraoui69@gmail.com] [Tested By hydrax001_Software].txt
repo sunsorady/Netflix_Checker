@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fafa
+– Email: Faycal.sahraoui69@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2025
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fafa
+– User GUID: AIXVMLBNBREONHVVLUQJ67F2BY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793834102	nfvdid	BQFmAAEBEDUobb3gNak02JYiU5NGBTVgk98CJAaPytCm7W4KLTORW2IpKzl64Z_lSMPCZA6sY-YEB8B3dzNVGwpA3rN3KKfuFLc8DC58hQA0UaCTq7bDGbfC08ZEJ5CgWEDF4Ay1aJ-RHEzYAJwheSlLFXVUeatl
+.netflix.com	TRUE	/	TRUE	1803949705	NetflixId	ct%3DBgjHlOvcAxLXA0Hjy0HMZeP98kTh6OQq875_D553K8HK-2JVzLXRomq5l9EkQ0scX6UnwDSeGjbjkmIQfT-L3dK3zCzgTANcineVPTLhVSxdRENMLmV5Qobwj8ZANU6ZqzgN_5WszeuwbNRywFoL5DvTRMMLcE5Xku3MjLsPbLoksFziJd0FzfqZmSTt88r1Dxv8jtHzMcNYWTrpiu9PkpZIZy6eP5cAxdn6uel4Neq_IBtIf0IKz5FsEOZ9mxfLD6aZLrU8QC34oSZx5YFiV2AyhciIzF8sT2VT99UOL_oArsOAC8MBtu5deEpoZlKGn1InU_VDAVISWOABU0_2fH7jXqTUynfqtSAndYgjOgOHO11yA62nA0dPPvaaPLHd3jH-vNj9u3WSw3s1yMVTpPxh0sEEpL9oww7TwHzUGixGjWowEhSEjT2KiXFYkWSQ9HwnXtR4vgNAUD3tmth2Zh98TzKr5qobkGqE0SDknWMPj6Y-Z4OI9eOz8tvc67jE7a0_NG226Uv1Oo85RnIW8BG_blT_6A0MJkl8lVgG_E5pbQiQ0pyfO6RXHccXNvqnpuWeuDmWH85OPVbtsM3iAjTSrNlHwMmd97DxunwPJsobnXrg2WOUjx5Gw853fGhFUhgGIg4KDBdkHplRUmlNFbdaoA..%26ch%3DAQEAEAABABRufy2pfadQOmoDX0suU_iVA2nBRq59uuM.%26v%3D3%26pg%3DAIXVMLBNBREONHVVLUQJ67F2BY
+.netflix.com	TRUE	/	FALSE	1803949706	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+02%3A08%3A26+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89c8cd71-1f18-4327-952c-d6cde503edb7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BARA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803949705	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdDS9RoyA8qBY9GDIP9UeVSxTXNlwQBGs.%26dt%3D1772413717078

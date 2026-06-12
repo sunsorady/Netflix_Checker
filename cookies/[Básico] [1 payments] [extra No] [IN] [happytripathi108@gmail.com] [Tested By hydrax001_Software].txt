@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: happytripathi108
+– Email: happytripathi108@gmail.com
+– Country: IN
+– Plan: Básico
+– Member Since: abril de 2026
+– Next Billing: 2026-06-25
+– Payment: UPI
+– Card: N/A
+– Phone: +916386024392
+– Quality: HD720p
+– Streams: 1
+– Price: 199 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: happytripathi108
+– User GUID: J6SQCPZX75FDDFI5N4UVLFS3WQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808654072	nfvdid	BQFmAAEBEOBGTCWVZwkuDf9hzshbCdNgid0cySMoNd4pxOyznkr7Yuh2lTskFxEeXPpiBFgOBO1JvQq5ia3tO0LZ4j-XE95MVpjE8vHqAQ5GqffXmFZls02ycI6Io7-0ybAMAuIFlXETw3cNHor0JEiljUAgGGWI
+.netflix.com	TRUE	/	TRUE	1809236109	NetflixId	ct%3DBgjHlOvcAxK6A6usQoB6IFhDz2HEZcaqlwxUv1qvxRLuNg_HP2MHoIiDmkZqmWYvLH5JV9Ax9M8rLZTUenrhuh5y-LZkSt_VYz7Ihe_LBiFmkR7YXD_I9de0lwwdJ7HLlxKa3H5Gqp4E2lDw_UHpVyzUkXPSTM0CdOQcQW6TCmeFtwKni2IUOLMWuvgy79nv4pnJPKHFFs5u9exp5TqVSUS3-MDEPfBQnts0rSXTkDqLjrrt-_otqEHiy_Wd_HaL5Su0dNqat38gzs0Isn-OeaLHwBZRfFwJMUgxnNxBlRs72fzM9dw-VueyDVtKG6WI_gfKv-tgN6kRfy65dAzrmjU_EiVmomXQo0ol8X8kygbNmEm9EcOqhbE2pQ7Hu4hf7Avmb0tMATl69EqTxvtcGa6oVI_sewwVEYYdCiFwPrJysPur827JgNcBtCjMYskO4WkdHcJ5Ca146b3PYap3yUlLXKvD-PTMF280K8alN3IsowvWlZtsUJAHheI77v03abCJ8EjnSYWiW46GLIeZ0_lumlMwj2LyRugrT1l0Q2hLpGU3mpXgQEOYWH_GxJtfdjNlozAAl0ZpHGAfv4yOtTbjISkYBiIOCgw18pobOIywCynX2ag.%26ch%3DAQEAEAABABRgekE5iccuVAQluue04VTs_QHkOfgGV8E.%26v%3D3%26pg%3DJ6SQCPZX75FDDFI5N4UVLFS3WQ
+.netflix.com	TRUE	/	FALSE	1809236111	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+11%3A05%3A11+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a9f56dfe-a2bc-45d0-a4de-25c796b21a76&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777118036388&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809236109	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUkqs8ffZwYG_yS1NOpjCDh3L8xHJlJvk.%26dt%3D1777700108529

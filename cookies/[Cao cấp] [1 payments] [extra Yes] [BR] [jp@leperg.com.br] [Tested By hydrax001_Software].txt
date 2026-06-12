@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Augusto
+– Email: jp@leperg.com.br
+– Country: BR
+– Plan: Cao cấp
+– Member Since: tháng 4 năm 2023
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 9938
+– Phone: +5551993193307
+– Quality: UHD
+– Streams: 4
+– Price: 59,90 BRL
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: João Pedro
+– User GUID: 6YN5IOMBKFBNHESJ6TV4SUQ464
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792315	nfvdid	BQFmAAEBEOGe1dQJAi0N_TRWwNMaKuBg4s12ul7XOwN4yz6ALhf9qw9065NgvdcBhUz2C3a4cn2vQ84bHzIjvbDY8vUP0cDloW6KYs4UaS6hTYgGL2MXNdFOd3NcAHt84S9z9AATzzienKWZOBKVtYIYo3F_PXeo
+.netflix.com	TRUE	/	FALSE	1783792315	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+19+2024+00%3A44%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=99b9df43-62ff-419e-8b27-d368b5e05d30&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS
+.netflix.com	TRUE	/	TRUE	1783792315	NetflixId	ct%3DBQAOAAEBEONwRD-DcuESBQI0wP4J-FKB8NmKUbADr53gxwcVVmt9DDBosS8uBroVlIjkWqd1WPe_pgFXl68SWGxytN7LaxxA0dS43mmc8Eeaq6im2hbSErbzPdeKMVAqXKQ3iNR6YWjZ5pExPd3P5ZCnuSG7YRl4e7534Mq8zTl220tkY-Ol6rNEs_y7sGn2aghCXhWQR6nBL3MhwOMwO498-EGj4bZnO16Dr-HnqskbRkqH-wyzXX931UbrBs0IMWV76im78zWi3wBt20MAOznTzlVghAYeQpjFuTJ7UrDlb9mznYyueZ3bIMKc90GcMYKl_3GpuoHS9nM7UaQpO8-eYO2lh5Pdx4OMLQYI9KjMJnFNMLa12Na4TzkK-vrG9fyBVQifw8TrlIeyjVuR1oqLe6wFdfRqULyTD3dd-w3FV5MSdlRARGmPzOJUaYrbwfG3_Izs-H_EwiSRq8wzWZqxLtXcAQiU-WK2EERaMN47FSVZh38e9ADELsDNoyj-29SviwkxZS-A55adqem6CHLdziKVRGBz77-K8qdo-QpuQWfVp0f5auzn5wdr-gguQXfbWJq0kbBGTp1HOn23_ei_oyALTCpqtUMI10adX59fm9r8dVCvjyYWQzWGfrwzPKfvCl-ZDU-C8Qsh4MygKWyBRdLNb9O8IS0jAhGm6nSeDpFWOe8t7gw.%26bt%3Ddbl%26ch%3DAQEAEAABABThuHjTeB2e5NQS-ztk3a7i4vmuxgiywZI.%26v%3D2%26mac%3DAQEAEAABABRNR5u9pPhP4gLG2dY58YzY_q9NZ0JlPnc.
+.netflix.com	TRUE	/	TRUE	1783792315	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRg3fwMyw0pJiM2Iik7g19cO0Ep776Xiwk.%26dt%3D1718821376278

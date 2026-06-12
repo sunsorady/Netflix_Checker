@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Familia
+– Email: Jackson.grupocata5@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: October 2019
+– Next Billing: 2026-07-11
+– Payment: DC
+– Card: 5053
+– Phone: +5571981501621
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Familia
+– User GUID: H7R4NNPNKZGCNMSEHS3YQVZPMM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809642706	nfvdid	BQFmAAEBEGJMn671j23hYiFAJlF98ENg86vhMey0i4YAW4WG7_TEswZu-bdqkvO3olw5x3BpxqNoEHUxe23FBMux5fVu2jus_OiG1fu03hG2LTnjs4rXsr3ghcKuI9ndMooo4Vm0ie8zkOBJbD4NA81hetwIahIZ
+.netflix.com	TRUE	/	TRUE	1809714288	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQR9HIXbUOoJLgJgr3SV-B-8QKZjOixuTk.%26dt%3D1778178289544
+.netflix.com	TRUE	/	FALSE	1809738049	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+22%3A00%3A49+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b38f1f3a-7d3c-4b98-af51-118f10493233&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778106711687&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1809714288	NetflixId	ct%3DBgjHlOvcAxK-A0rlj14vc0--EaTdRx8lPDtFRopTiYYPpaRk41FiGfIaE4bpRBSdwwJqtSz9mGNUCHk9s-slbFsgfL1IESGv1BAcuk6kRoQcHRvY3SwEtGur8IdCDchNHixXNeicoopJqzxQAQwvBcbwcBVB8XZT5pgTwiwNSNUQa0rwknxfGh9LtRi7DNVyXWORsdoNSv8l5RwL7zdphf0mYt7qiIIkRou0Rb_PKyENNz_mTdPIlgt9EePTg5u0QdfBAV8T_CRPJrby4ycUgLDg0RNnMdwm_4PFMH3SrOMreM8KzKoDC8n_VFcr9DKrOmOozVhWplJV7RIQuZ6NFycXGzpFLQqyGG90TQrBj0al-Le6q3dUbE-rJIlQxFFwIMupevZGXhU-9tYggY4FzL8thgT5tVT5WPT2BG3IzWcw6soShpmLwWVKcRKeSyBxFfHA5SZSRxhRbd_yrGmIpZbr1rzRrAJnem4U1bRMnSK3YKABTUMxFoYO5A7_rweVm6Riiq0OjexwjqBnWw0xa_k7hSjRm0y7_hROAFXuucgrm6SwXbh9vNNCwU0gGtEKLhcV243-j5OT0jbysdZpSpE6lE6LgbHmGAYiDgoMx4ZvDmlOI8USgxEs%26ch%3DAQEAEAABABTNfkU4clCFuNYgqIf6Bl01lB7vdpRFpd8.%26v%3D3%26pg%3DH7R4NNPNKZGCNMSEHS3YQVZPMM

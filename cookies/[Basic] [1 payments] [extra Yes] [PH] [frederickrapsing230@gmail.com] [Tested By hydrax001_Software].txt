@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Noy
+– Email: frederickrapsing230@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: April 2026
+– Next Billing: 2026-06-29
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639265736038
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: frederickrapsing230
+– User GUID: IAD7SM4DRBADPAKZ4S7ECHVRKU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807464557	nfvdid	BQFmAAEBEN312e08wqS8Dc26hjcJA05gHV1l9yVOLsmngaOFV7xThHZL3iR78Z7R1U_rYVHyaauwfwSIpbdcH8ba4odq0ULp_bI9tRw91KtpK1t4LSC1Z3Oj93BM1nxz8DBExztmFtkA6mGHJALGmni9jTTM0hM8
+.netflix.com	TRUE	/	TRUE	1810057631	NetflixId	ct%3DBgjHlOvcAxLhA014tOYzzy5aYW8p5vnwt4cl8zIj4q6R97mEAcXxrastDnuKHa2b8_87lgWnxA2VXdmVh0pBnwmdGT1zLHOr5q3rIfi1tBlcuvPz91YbSgP5ZQLy1INPBCpGPpiTWNXM_-M9Qq6P_-TOIqghly8aEjo5arRwf0HAUNMT4qdAnlZXoOupHUcFpE8HoppLXHGqQfIoo1YYBoGOckDtnWeZi-i54lv0u-NVo0-X7vdu4-_DegdCk2KXHo5krM8Pxq-6KpEvz-9sFHClKG-e_7wAm735oA3P-GRYpARXu_sBLH8CS1rSija1scy-swnKg9uYvaoQoEqFyCulNcsBGCH9AUpqR7dZpy8RKspcN13AoPhtR8kt7fTo0HBm8QfYGUCskqJXPlss-21zs3FUl7ZXH9gWyCx2tPE9TqDgnHM0iiP0lZnvHM4KgBSAvlbl2tGlb61enuLVW2Vg7M3sUeJ9kaajUrnI5F4s2vTIMMZlGQRUSpq25OK4N0yGa3VbiFvTk-7h3cfNLWLvjMdtMi3jW-SzUK9waeF86IpXR5B2NQ1-YOrbKo2AYlhYnps4C0xT69UWFhDm2BoeSEnrz2PTcsEdmo4u4fpmvcgEBNQIBEI6uTjWVnP0VIKAHe8xZH_hjpEYBiIOCgz7dy6wj5PT_PYp1Ig.%26ch%3DAQEAEAABABQzU4V9TJsuORHCcMfo9AR2pha0fzbQHsE.%26v%3D3%26pg%3DIAD7SM4DRBADPAKZ4S7ECHVRKU
+.netflix.com	TRUE	/	FALSE	1810057635	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+10%3A47%3A15+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5aa0ba19-1f6a-41a7-9acd-2aab2001ee2e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769528148832&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810057631	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRuuamui4c6CjKuryvZgQk2WPb4j4vlauw.%26dt%3D1778521633762

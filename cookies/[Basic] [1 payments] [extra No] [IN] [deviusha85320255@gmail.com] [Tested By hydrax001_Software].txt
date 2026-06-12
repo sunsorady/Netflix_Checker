@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: deviusha85320255
+– Email: deviusha85320255@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-07-05
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: deviusha85320255
+– User GUID: WD2ENU3HMRDY3KAMBLXYD6QTAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802167317	nfvdid	BQFmAAEBEBzwqoHWY8lOc3aXC-wOqhBg1QWsUsXYZ2Sk9PQY6bZWpgYS4sw_EuWySxHfq4Oci96wryQDTDLly5YI9pb2QqYXBqoLJJjyafynCvOKu3lDv0D3kOxbcd0wdJen2cKIXTipeYq6hesdXytG9iSLQsHv
+.netflix.com	TRUE	/	TRUE	1807885910	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA3kiTjIyOnuFDlxo-JKlHl0dahpeEhcEBCE_5e7w07eXzutc5frfeJcQjTKyyI6XTYANLRN6JHbUw0JcEzj9GV2OSteHAMqT5S2G8eRMfPZe1rCmh8-L6Cze_8_k7Cb1498prBcvB-lAcoxvTgp2gzQSXX-z3JtC72Ov0QKi7QzBDBO1s2QACTycWLuXyHWD39gYHJsBuZQQ1sm7EF7VjbFAx9_uOJpkhgYnNWqCpcEcv6mA2rMC31yhxiQ8snhsH3u4-QWBZbAIRUYkLqh14A2yPLfQUivOXc0HjLojAwQfWe1JxJD48iY4Ultx52QGe0brsbhODl6UA2DK-dk1dtw1kI90B320LzQ7j_nfo2hNLixBK8Q5ewK4-5CKbdZxTn-w_8eTbG0qPipPNqVZTBx7GS6fXFQZZmmb6_Pzl5-tS-UKj_3gOORjV4GnYqTXOqzZB2ig6YbDHxX8oAGCPHTzy853lEktHqLzyLmx56wUnWWDiLPHLasBq6zjBIcRQGUsSGE_namlm6fEnduDQTTFcfL9yXeE-MgHEoyOQ9o1iVkZkhgGIg4KDDotC-29Owe5r-xXgw..%26pg%3DWD2ENU3HMRDY3KAMBLXYD6QTAI%26ch%3DAQEAEAABABRvqm99AhuQZ6InmsB9nysC8EalG5lezXg.
+.netflix.com	TRUE	/	FALSE	1807885913	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+20%3A01%3A53+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44593fee-a566-44b8-88a0-c7911d5e8043&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770631341408&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807885910	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTeb_Tvas6ZJHT65IlqKqijTZhBChJmBVY.%26dt%3D1776349902681

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SHUBHAM
+– Email: shubhamkumar22016@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-21
+– Payment: UPI
+– Card: N/A
+– Phone: +447553209924
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SHUBHAM
+– User GUID: ZGYCUI2R35BSTMS4JIZNHFTUKU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800478970	nfvdid	BQFmAAEBEG9DR-I6ZOrlPMoTDNajzxNgOE66eKnq-iEhcyx4xRmzYPPOR_Y8g0AsmezGSCArfcCUYX9UeGTLsvLyu52GLcHlMwOrreqPhnVxE5l7ccTU6HcHUGS_xAPeQCc47j4WIMn4DRPwoyqHmSAnL1kpdeSr
+.netflix.com	TRUE	/	TRUE	1810028296	NetflixId	ct%3DBgjHlOvcAxKFBHEVilD5VDRqxeuC8oYoV4XYM9ZdQihB6ZWIsQGq3KxAOyBnOkuaKguU0KE6gmPZnjZBOkQlP3665orUXLtAgRsYqs8EabVBL1yCNxZitspG01eKK-TAvtVCNRDqYS6apJaCsyL2sDY7dI39kwxcEFEmIrxeR8ED16_Ms1cg9GdXXR3py0sRNtTuEMY40YlwOUJnmNJTDNOBYj8zR_fP5G5J5WVY_hzWH14uoBpwcyusq-21ahomlskb5c3p7YCRa2krxhZcCe8-pd-HGNPQOb-jfsESoDIBRaUZgpbFE8APamCKwgkVLq9kN4gceRoOp-bFLg1wTNdb_xEAknz9tT6oPbLh-61X-im9DfhslEgMAKBsPWAUAbVCK6adpit5ba0e-fbE_zux1EBs9kx0pagnnWqH3TaIbdNs3FZUzfl2ZDbPW8A7XhqQrBMqM5a7NPT9js_J4uKm_UPWSvZC11dZr3Dc5N_pody-fxWipJDxYDg1zPQG2CielJP_yWploOrwUaXARq0mYeII59_HqXiiWCxkDRBxEIJLJF14jlqbKTCQkO71bmaptiE_ZNmWfEbq5W7RE5B_tmSEt4pi23H63b_jA0MOFNLjw_zouOhByfZRqH1r7APaDv-VH-oZYXsuaamsBNhJ5SpIxMHRS1ZZwhi_SYmC3mETrP-zBym7ly_U_KQYBiIOCgzNFSbv7IKCYutmsUg.%26ch%3DAQEAEAABABSpH67R9ED913y6tSOLiSzFOYwIVD-XeIg.%26v%3D3%26pg%3DZGYCUI2R35BSTMS4JIZNHFTUKU
+.netflix.com	TRUE	/	TRUE	1810028296	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7HASTRLhppimKfEv-9SoQfiiOdlLrYsQ.%26dt%3D1778492295112
+.netflix.com	TRUE	/	FALSE	1810028357	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+10%3A39%3A17+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e49c9d33-f2a0-401b-9344-af484eb71592&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1768942677307&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

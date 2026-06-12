@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vivapil
+– Email: angelovangelista2005@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: agosto 2023
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 5944
+– Phone: +393516447902
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vivapil
+– User GUID: NKVABA4425D7XP6XYKCLE3NPYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801066771	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA1-pkU3MuXXeN0n0iZeJGX8jr0SalDzJiaiagGwCZpjfMidkMs9SDDo7CRI9CNa8bWWWSBE_d99Aeq-aSogpxj01U6_Ixbg7kElClull70S3vXZ3f1H4nBjkzFjVb23oycKVsnNCdcxdXkBFlLR5DWtTYF_lpL-qVNkHuFUgyFOismc19USaUvYvgY3PDhe0fEPwFwwN9lLIc7113UfU7iQFJzmdJmTVZiLqVCxhsEFCDb-Bp7X6iSH3j6RjZMFDKqXx0h3Cn7XiwMNP9BxlMPvBgnK6RTb21DMO4bdZFsh3Dz7uMOaSV05Qc1n-8qWBqhATt_N49tIAsu_Q4ERtEU_wLlv58T7M1uXB0PO0RxLZ-GTKkR34GSTBCw3-IEhOgI5DgOTK2bTkxeIq9AtOU2oqdw_VD2sVhufPTGnau-AkO_f4zk8jUIgvnY5h4RlBvhX9OnZG5QMZ7sIRvLiebg0yr6SBGSreDy5OYgVisW2ESmt0P-AKBot4QNNaEUrB_1HGJB28SMAHhRgGIg4KDIRGYOTCE14z_p-t3Q..%26pg%3DNKVABA4425D7XP6XYKCLE3NPYU%26ch%3DAQEAEAABABStleobDVIa9566pXj6UPau2wJZo_7hoO8.
+.netflix.com	TRUE	/	FALSE	1801066777	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+17%3A19%3A37+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d05d727-865f-415a-bd20-bf46bb96d4e9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1769530740991&geolocation=IT%3B82&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801066771	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4RFPrw4VYqAeynWd0tDyQAJombv28naY.%26dt%3D1769530771137
+.netflix.com	TRUE	/	FALSE	1801066771	nfvdid	BQFmAAEBEAHgKRP4bb6bP3Q76T__caVgZ2IYg3u_noEKH7UHL9utuo2EMejneupP3mKu6OoqGKJerev6IAsh-dJooIdNQHIIYF8v9LgacgPH7O0n46Pn9Dzl2eXtO753ATFiyaFNQHj7xgerNtj2Mh9_GUkR1DFH

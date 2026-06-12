@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giusy
+– Email: alecav73@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: giugno 2023
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 3913
+– Phone: +393467078935
+– Quality: HD
+– Streams: 2
+– Price: 6,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Giusy
+– User GUID: HTLHXKR5KBEFLIKW255RPZJC4M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805363824	nfvdid	BQFmAAEBEKPLwPtWxD1IIHzccaPRxlNguZtgxwSrzWv6HRADk6D99vYCs7wK9JRrm-6rOOrG1CgI3uP-3FQhO3ggITVLmgXvrhB68EaVXtQ8c0Vxvui6pvUEDu23Eey4nuE7H10FCStmpkk1vywJ9S-u0oTfYM6q
+.netflix.com	TRUE	/	TRUE	1805364002	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA2LS7_1u0Qn6hyPJ-qck6skjuRHg2RCJnohuHKXPlX7rxk1MZ81MRP3M4O3SCPIM7sZgX5TUfidE27wm55-VipZCco-zDbUfCd0AEUdBMa8EfExluGzPT-fEiN-eQDC9vlyP7rnwU0hHXNuUNrU_zMq5foMGniUVWgojDI4I6PCznlwOcgLODKtOHjdsFZONev5lUEpihkEXASagCu320kJ3HFgtyayd0fh6s6bBubWwU8qf6_ZqV2A5Zg0BRWKOVBpVmsgTho0DpeJNo7oUsYX6Vr-ucPJC5aEX7vLJsWWklCbfAcbz0NAYo-Pm2LV4GP_YRH8soo38VwOX2JEF9WslGYVsiAqAVmkdZbz5ckSPjGwFec23couo30qnWVfLh--FbuY0YWBeh-VIfEcMF4bS0ms0NGyvbr-20iLvmGdXwTCN4Io5VHTp_IACvX5mdk5c5HCSAp-KYhBFxBpSehnEkYG7VmaiV66Q3u_-JMcsiSr95ylEs-u8ECodx39jp-OsjAGDnK4aQkmf5_zkpMsQnBgGIg4KDE3kiJTuSQtXJFpiWw..%26pg%3DHTLHXKR5KBEFLIKW255RPZJC4M%26ch%3DAQEAEAABABQPQPLV2sV0BKQ_9Iju92YdGHrtHjtTsYI.
+.netflix.com	TRUE	/	TRUE	1805364002	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREpO8LBoHsIeQ3JeBMP4zoguWyBjXSQTM.%26dt%3D1773828002709
+.netflix.com	TRUE	/	FALSE	1805364003	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+11%3A00%3A03+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=31eb3957-55ed-407a-a8f3-1a6b27d2e4e2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1773827815662&geolocation=IT%3B45&AwaitingReconsent=false

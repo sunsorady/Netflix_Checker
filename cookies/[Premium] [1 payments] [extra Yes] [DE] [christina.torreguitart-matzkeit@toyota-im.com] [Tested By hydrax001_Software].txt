@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: emi
+– Email: christina.torreguitart-matzkeit@toyota-im.com
+– Country: DE
+– Plan: Premium
+– Member Since: November 2017
+– Next Billing: 2026-07-02
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491728607808
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: christina.torreguitart-matzkeit, 2224
+– User GUID: Q4SIJMN2CZBMDIAT7PAE5JT56A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791148516	nfvdid	BQFmAAEBECvSkrXyalyJAoG9nQ_1nVJg36k5expYKN7JXerLvZp_lGPEAxen8orLsQQJkN1rH7NWUHoNs1TztcVQosZUUd_KSBWC5n388fBZreCYClX1dONkWI947qaAbFbtEyIrryMS63Tx6zgR6KaI40FdvEhL
+.netflix.com	TRUE	/	TRUE	1791148524	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8ArfiJzTrfBh1RhMsww30wpUS_xAiFdO-vgcVtQSuDqKFeDotZEgSF6Ay373GKt2YRsCIIph4TXunqw6HOJzRhXlHZRZb5fzxY3T6AvsXcdJrzNF_691tEZe3qTOnJosvNDM-46anDOaY8gKRCmAadBf7ARMOFCq3jb5vihjZPJvNNfGjR68EqRyKCoVwpM-Ntd-7mMHFVcUWKwwqiCzm0LVns4UaHIKs5g5IdVw64TORp87DyhTGiTB0Zn2qalqmht5lgzVdBx5ehz3A8nHGn8yn2Pgb4CHUYlD47HUQkuarOlWJjAjVMBrysKQT7X7G662NHV0rrZxP6nYCHzopocnhvoTl-aQ4z9ln1cfiNbEO8wInOTfbJO41XJNHmG4A9aTPSQuduD_zrJY0q8xdAsWf4sL8lk82TGXztUj42Ymnf-K_xVhSiqppIHIaitfGTDqQbUUU_B8YTF_UUrq9h-4l89VvdPT06CxuIHx0BvC835sjvgSG1xUsMA7SGAYiDgoMq3OqLtP2-pRFum2l%26pg%3DQ4SIJMN2CZBMDIAT7PAE5JT56A%26ch%3DAQEAEAABABQVXBqEUDJLCswI_h4jmhDvdxiq_7W3JsU.
+.netflix.com	TRUE	/	FALSE	1791148526	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+04+2025+23%3A15%3A26+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=634bce6d-444f-46ed-82ac-64b87fc9e2c8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BBY
+.netflix.com	TRUE	/	TRUE	1791148524	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSfwXSQr5ztbax_EBMW4_hyWHMbo6wHAT4.%26dt%3D1759612526993

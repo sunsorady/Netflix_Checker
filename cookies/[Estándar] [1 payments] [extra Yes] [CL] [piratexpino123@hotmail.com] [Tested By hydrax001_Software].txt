@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: fer
+– Email: piratexpino123@hotmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: noviembre de 2017
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 1407
+– Phone: +56966166702
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nicolas
+– User GUID: RBUOJ2OBVBHD5PXFZYZFB3XDCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787965931	nfvdid	BQFmAAEBEGZiQiY5xhEU8GNNJAK_U6RgnCJ7CUf1qAVfgcg4Cbzwql25i0Dzg-9ZbZmr-wvB2Dkhu2Id44NvlcBAThyAQkOePOvoJQNyDbkRmkEOEF7CEiuOjhO1OIk0IQXsfJxlNpgDJnx9vspYglr67Rjy-1Dp
+.netflix.com	TRUE	/	TRUE	1809370565	NetflixId	ct%3DBgjHlOvcAxKBBGxybjd6xznH7qf7N0C_cB_-_ccu52y6yEvAHnCAuWGiFPnXSKZyrK_3rXMsQWmuFpxew3LqSYIbr61jmfBQ_gLGiT1xUvE_x-KnhO7EiVaGJBLqteKh3dkt5gcaDcVGs-RwR-NzHFd4zHTgSKgyI_I9lh-w_DTDp_Vuej-g_c4K4LWQgEhRPTTqNiSuPdRtE5donj784x83Q-0Dd7aIdVV94ltg2w0xATX25qavfhSWF7JtuRFw216DpUAiTPFKjR-578pu2tCw1FV33UGW0CJP81CsteEBnx3v30_feMhR_yb-LWQ18xiEh-eyEf5qJ0vzY6jpvpbHpE6yIbk7ZR7soVC2nzNOk6pwqW2z28aqMV1KpMFmKpJsPYZtX5LN1iltZc2S4OOTrTxEnZWgN-bqF5acZY2oweFES8otEU5zoki5ObynLcDWolWzaGocWk_SVDsMYJ8sCprSGCNzV_ksZhVQcHk7Rwxua1Kkke3BBlMvavjMmnC_ZX76SHneS7ZuKa-ySHWZIea19xWyc7QssmVEmgdtjRbHjJhEkQCQ_qM_DBRvWrh-fX2qqpEoDlOHF5ItrkaIlU483gx5c3Ij3vktbmexqQ4KWQ7Nkcnau7ISYK5GBlTJclHLdklW9hvpe9VC3puML5EHTjyVeswPZhSmkkJ1hpQODyCFXdNh3hgGIg4KDIrKFYl3eNsYTxOpIA..%26ch%3DAQEAEAABABSGsXSHbXJcQLOY06cLUEq0k3OZtDWYvHI.%26v%3D3%26pg%3DRBUOJ2OBVBHD5PXFZYZFB3XDCE
+.netflix.com	TRUE	/	FALSE	1809370579	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+14%3A56%3A19+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=962aa2fb-8441-43f9-b5a3-8d9a72f0e0f7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809370565	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1CyXPfXf_wQ3q68cws4rM00SP1Jl9JBQ.%26dt%3D1777834557705

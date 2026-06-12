@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melissa
+– Email: melissalindemann14@gmail.com
+– Country: DE
+– Plan: Standard
+– Member Since: August 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 0994
+– Phone: +4915128391747
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Melissa
+– User GUID: ISI7B2ATHRGVTFJBNM6K4SXYKU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811280533	nfvdid	BQFmAAEBEDYRsbbK3wnlBJbjoEDtlVpgsBr5B2aZrrNKd4w26LIN3vf_PNqnRTrsXT0nnMfzu13sF87ANT1ZllNTyH98dEiEHrsYA4-iFNkhjWGY2acui87anStcGZRuS4DO-e2DOFakYPDxyDbieYO93GU1fVkS
+.netflix.com	TRUE	/	TRUE	1811333287	NetflixId	ct%3DBgjHlOvcAxKzA-dmL9CmNEdoVDdyOLGIPgOIJ-G8q_g_wXm8VSgb8aBg1UnGwJN3zFrt_MbZQiYHRQFZPyYIwD5g5szJLFMDmxwjmxArG25SMBPojZq6Zchr3B7g_fLjQg83YPod17QxsPbM9grFmhaKSM2icNvMLGtVbjm6m2Sr-KNC5Ic0M514uYwfXNcagdF-r0uz4M0QGqsYvVScQk6furxYNNcG250qQo_sdnLBZaDruaL2wG9X3Nsu3Yklw505eQGKo8dVa9kxAkQMNXWvwa16iyJ6BY0zN3DOVnVMP5dRChp9Zn2LA0Uc3rjMlkviFmmhSgOaMOTTkXhLIyUBmsba-eAbGcw6HnhLNztlQ2AtYP_r5uwBOF7oWU7YI0zlpB-CqpMQQBvc15PmC-QBYZeoSe-iebIgwEB86BMibO7xC7FYHRBzSv4CF7p0YYXmUcVvGe1jsqv7bGnIU4-J0TtskjS6JKFoxoGa1PjHfgcgRRcesIOHq-0zVva2LEMAd0BS2aJJKKvuKJPwzaPq11l8WGw2EdsjhE8Wu-9BRQx6zlctXcj0SE7UT3kZR2DEVtxVzXN14U8gEBgGIg4KDNp6v0IlivnQ9tKW_w..%26ch%3DAQEAEAABABTOpE6OrRTUSdZlTHFQgmlmmmTFZxvuv48.%26v%3D3%26pg%3DISI7B2ATHRGVTFJBNM6K4SXYKU
+.netflix.com	TRUE	/	TRUE	1811333287	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDAqEO-jXlOHD9HGxHSdFPubYrab8zssk.%26dt%3D1779797288150
+.netflix.com	TRUE	/	FALSE	1811358439	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+21%3A07%3A19+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4860a397-b24f-461f-8037-30a0cd496cb4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1779744484310&geolocation=DE%3BNW&AwaitingReconsent=false

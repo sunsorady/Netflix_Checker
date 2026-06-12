@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ecem
+– Email: ecembirer463@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Aralık 2020
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1799
+– Phone: +905331438344
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ecem
+– User GUID: OVIDB4ZSKJDOVOVTMVUSHJDBKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796754773	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLzAoSxtEtjQRcHuVXyfzBf6qNHMS-copiHc1h5fnW0QYIUJ2J7Ol9rNhVsu8ogm62KZ7DcgD8bDBAVa8q9ULpy_4vDQZ0a0jVnoKegsMqStHLa3krH4_fwVam38HLK_GB_XGjTFX_YHiAeltHBPs_cPFtfZyBXDExaKJGh0z-ezjtEj3MjosVU7v3jpACH0JNgIIIxXeOXa2Eh9vi5bk1ByuNFkkcO2u4Zxet-o4gDfB3WHgJ7quLVLzDkZRTvXFWzkfLMqSZlcP5JpSnuuliEd-xmYAsnmvutiTOQ7Xk9ivd4FTZ7LlEOk2nHNjwX4S0HnkAW3VCzek2wm9uwWpnPwuyehW0Sov-Pmr786wn4B3yjzD5g_p-qYlzE_eO6DN6q86sVv4-oRmi6LkU5J3IUR8H4brTIPRFhraeW5oBIr0ZR9zqrnkWczkBWBNXjtCBJQkcUtw9uRhP3rGSkJkRMBTReDd6eEp4tDpHYzN7XE8iajOsOGAYiDgoM1Ixz_2ignVZn5Gq9%26pg%3DOVIDB4ZSKJDOVOVTMVUSHJDBKQ%26ch%3DAQEAEAABABT4u5upVSgblW1JvSr9Rscjwts3I5CW8bI.
+.netflix.com	TRUE	/	FALSE	1796754770	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+08+2025+21%3A32%3A50+GMT%2B0300+(GMT%2B03%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee6a9818-03ba-484d-a7a6-7b5f939d795d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796754773	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS48N1ZKtECmhteNSEBB5y1b7Bf1BU4YYo.%26dt%3D1765218774136
+.netflix.com	TRUE	/	FALSE	1796754770	nfvdid	BQFmAAEBEPe2mf4XU2nK1o9kQbj20JlgQ-fVbW91I6FBtPCS5V2KiTN5ujweDuQWXm-6p_lfOQSQJlb93INOou5Eqh1u0nP3eUVhCrapx1JZ7Nxq8C5DS_d1yu-IkQwHXqLdiuOgdy6lyvUA7Kx-hMHiw0BR7MDu

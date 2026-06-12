@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maria Luiza
+– Email: marcelogomesdeoliveira908@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2021
+– Next Billing: N/A
+– Payment: TIM_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marcelo
+– User GUID: F4J5UECOHZCKJEZNKCOC54IDN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804717498	nfvdid	BQFmAAEBEDWB56VZ1jHMDkJ7_8jVQZVg_k6_Gym7Cf_jYsmNDz3hkYEEP-ai6mKzA0s_JggJYLGm5v3EGJJef_UKLNDhcv2WmRzl6z5NTt3Oa52Uc870YBEjzvXgdM9UxW6-PXTaoIjw8fB3EHMkIhQjIGCFt_d9
+.netflix.com	TRUE	/	TRUE	1808155584	NetflixId	ct%3DBgjHlOvcAxKHBNkUpKza2z8Pb3KMdI8_yJ9Bxw2oLYTrGmMwJYpPv31SWK7TBGBpKsKedapgmZsN4qKDtWcUB8A_n08ZbMRs1XXLgtahAALOIH8RK2_agT-GGf5QXFBZOO1kpRHL74wN2bmrySaCkl08_fpKrmdismSf9yXRYBi7GkOOzugZThlmzcKpqwTxJbCHuZlGa0pUbf68mpm4nIMhUX2w8wu8xmgWA2P3YCBPm5elSi8khs5sSDp1wWaIZkngcSaNVHuWBsilLt-de8iGs7N00RusEgVlfYKkfGjeunte0HawpYw3Nk2lPe9z7VeuBZxLIoxBAaHYkEB_wEui0yJF83pEekie2--38CXNU_phvGNUZZOwnWAWMUk0Z444f41cyrG_axUjAdUU2J2DY_1aOcOjat-h4Nqd7MT3MlG1KKQsJ_VsyqhAWpNCmQrHRzr18hVd3GzrXRd7f2yx27bERwy12JFLAX1JJL_SR-1F__HH4Uv_2CaIdfhE0ztPjn1GEKAjhIBGthif54b9_skZrZzvRagYTO8jEJv5jnDIcVbO_INFYWd43zqgi8zM45McA2CPuA-uhc5gUvnLBPNlIhpnkz-d_tgwjqNAiKq4OCe7HioxHIsS0yCwJm0jUyPN42FRJkufUy4uhYWlyBQeSlVKqU_NwRW7eKWzAU_Oq7ETtpnSaYr88uypJhgGIg4KDLou5QP_hzUmqDuJtg..%26ch%3DAQEAEAABABSXpLdwkkWy_OqXNNWXZuMcQTZvHd0J1I8.%26v%3D3%26pg%3DF4J5UECOHZCKJEZNKCOC54IDN4
+.netflix.com	TRUE	/	TRUE	1808155584	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTyX3renKCBdN8TMwNeCv7WChENiE12H8U.%26dt%3D1776619584940
+.netflix.com	TRUE	/	FALSE	1808181516	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+21%3A38%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd55948f-4b09-44db-a570-f0255fbb57e7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&crTime=1773181506537&prevHadToken=0

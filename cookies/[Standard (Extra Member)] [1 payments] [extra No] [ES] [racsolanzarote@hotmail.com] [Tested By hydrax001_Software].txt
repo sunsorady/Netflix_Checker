@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: RACSO
+– Email: racsolanzarote@hotmail.com
+– Country: ES
+– Plan: Standard (Extra Member)
+– Member Since: May 2023
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: RACSO
+– User GUID: ZIOLATHDQBBWZLP3QSTI5HZX3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784916319	nfvdid	BQFmAAEBEM--MdnBf6TCtptvwd9zx01gBs6BiY6eyHbUqfOIGTA6DwkOAoPBNA4fKkltjITbKCy-sJri54yXBHGuJfWRUauqHLax_ZYR217XPwaICraP3O53NjyNigu3d3RJJy6YVz11tbdjosRnuBguS1qUH3rz
+.netflix.com	TRUE	/	TRUE	1795960140	NetflixId	ct%3DBgjHlOvcAxLrA2n8qR_NE9MqYm1BC5dR9Ag3SD_jPuhzNOgPskRo2xVZGH_-o8E3E00mYe6eZtn22iyCpEP_v-eVd_NtnX4eyyEWIoGN-Gni5WF0z2pmowMXq7hI02Uu5F6Ekicc50sXemCdkGs1jJJAFdKY3OcQ4u0Xm6dRCNpF9c6QaBzT7bbyzxlvNdRzhEDUON8IDKH0DLowMyT8VYtJARIza63FQQAKlSA0yfaoLtwfrA1Qpukf91XlIr7JbTdzYFmadR9ocgjT1qneATTlRJIH4kNLq4SV_SbHLVRprkZJA7rh61nRAWi_pcXBKd-eQz9aUjICFWrLsm5yvXn2wSySwn8lioS4424zSfwUgLTkvRTS2Jcb2PZSmNKOSUQjaxTfuEJVo-FzSZdd1SG1BBHbSR4twwIHx_hwDSxtmxhoyZQjjphPKFgcsYtWoEngxU8EniRRngH9iv1Vcm74PAjTd8CJ5XFYc-AUPnE0TqG5IJNhhPNPVz2IgzYVihcu1zXxTgFynxKf987MKv8ilQoO3Vy1_9n3S5r5-QNeCjIAAdYibgBf3pPKD061kD982cu2uOFr110fApzgXTg_Xa6qs6ieKz3aWxQg7NRepGXaxDAYOkzq5VhpQk3DHBOJC1he88xnK56eeXM30uRK5zYeGAYiDgoM04ebYpANxpMgZhxa%26ch%3DAQEAEAABABSxjG9zvIn24H83SjYalWNBUBDpRJRLsRc.%26v%3D3%26pg%3DZIOLATHDQBBWZLP3QSTI5HZX3I
+.netflix.com	TRUE	/	TRUE	1795960140	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTN9Kq_TT2ae5vdlxGaLffmTD94aD9jY68.%26dt%3D1764424138741
+.netflix.com	TRUE	/	FALSE	1796001084	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+30+2025+01%3A11%3A24+GMT%2B0000+(tiempo+universal+coordinado)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=483330a3-0b5a-4570-83ed-65666231e167&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1

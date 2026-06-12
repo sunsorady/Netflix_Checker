@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Grégorie
+– Email: slomaaan@gmail.com
+– Country: FR
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 8225
+– Phone: +33762923781
+– Quality: HD
+– Streams: 2
+– Price: 7,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: slomaaan
+– User GUID: 6WD54FWX7ZAHLDSPQDOIE4KBDM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801517874	nfvdid	BQFmAAEBEIK43PL-lF0jddiwjRtWfZFgVnxGVtscnHwMTUOstYzQOlzxAy9Yt_xyH8c_89jCpNDe12XEnqMNAKoGY7QELa37blJMx-uY3jBiuyrgISRwPUm2AZ-lZQvehIptCk0BkOy7u_Ja0JRyYHse15CXJuXa
+.netflix.com	TRUE	/	TRUE	1807618084	NetflixId	ct%3DBgjHlOvcAxKJBNVu9ZE8xuB9l8YKPtu2rio3Irwn_n4ui9A6dfecD9tv-2e_S_MM7LocQ2Nx0un5pGAQKBq4Ls4KR3tvkz8JT1fxMZ63Pjp9anivIzvLoTMlT4oC-DSiMFT54lIjOOXsBECc_juWxRqrgDVZVjpHln2ZaoYXPlq1TZZ_Q7ZauiE8OZyM59forie3eO29cSTQU7VFkRD0DOQ50n55GSx65CbkGxQj36k_jXLc90C_hm9QTynv--vvqGy9pY_46MWpqk0o_Q2LA9oT2DHaobDm-f-05BlME-GxQcjnxP6i424BzgWtNaWVE2jmT7i1Imy-IhUFtujl866Re5wuPduR-6hNlskpP5J1CPBEQPcVD4Bh4dtoB_g6xAFL1hdrp9E42P8TJDYYSpLYMCgetuCvT1fJNwql3V2HNpZTV5DUEqBRroYFVBH8E_9TxaQo526Pbp_Qq0-BLAtqu6LmXNbZ4AhEi_v57lFPUX_J-6m6KgMwB5-FX7uEPOAE9tv-EHuuE_HOK6-9lcJtVcGH6cn9QW6HXDJfTy-nHhGADtSn98tH2B64s-4B-7SBRn9zuoMltYdWA1f594CZQyBcywWHoS4hLBgbu9gUrRQ0Hy55DJhulr2lsAYIyrrhEmr2FfFx3erkkam_0NX4uoq00_-J7sg7Fa8ISXdyvdV33wBjeTHpq9B-3GsUntSNGAYiDgoM4HtN1XBdUJXo-yGK%26ch%3DAQEAEAABABTPNuiV5C5pblQXoQVWAwG-4_mBBIaEnR8.%26v%3D3%26pg%3D6WD54FWX7ZAHLDSPQDOIE4KBDM
+.netflix.com	TRUE	/	FALSE	1807618091	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+14%3A08%3A11+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dac4a130-9f02-473d-8411-e7e3b6276c59&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1769981816667&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0

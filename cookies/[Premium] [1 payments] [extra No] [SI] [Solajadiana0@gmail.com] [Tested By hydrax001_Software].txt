@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tjaša
+– Email: Solajadiana0@gmail.com
+– Country: SI
+– Plan: Premium
+– Member Since: November 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 9743
+– Phone: +38670786682
+– Quality: UHD
+– Streams: 4
+– Price: €10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aleksandra
+– User GUID: GCADLFJFZZDZNMALMABYCBZ4KM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793041243	nfvdid	BQFmAAEBECzfuycPX_sJ7sxd3-xeqJFgTmmdYrKygn3FtiD3_1rKZ6Gfpc_mAIrRgn15EMNpmtODYQ-_gMQrkx4J7bx7iymZ0ss8Yl2R9plvEgLIdfClw8FRAgBw3Ml1C2aE_DUYWTIlZwRWWkBZ9Npz9GXhbYLR
+.netflix.com	TRUE	/	FALSE	1793403246	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+31+2025+00%3A34%3A06+GMT%2B0100+(Srednjeevropski+standardni+%C4%8Das)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6a1b2cd1-0e06-4449-a292-8d140260925c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=SI%3B061&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793563233	NetflixId	ct%3DBgjHlOvcAxKzA0_3XXayg6L70ogXQMGUDNwFKsTic6F4jZwz6D0kqKET99_uWXakmHNIOZHhLVLq6n6cX7JAyrPZ3fdxbE6gfwFuZPOAOrUuEgIMq-U4YDu9Qpmt_xWSoC1vs2Pfpecv2WUcM9EHmNp_b-W1sBGxVUs1wO0vE-KhVUjGVuGOfoqlDwS0Y1ZzvPqu4RWnHINQ2fYjjx3H0bhMovlXKkYSpVqqiQmRk5Z_udv26oAw7EuX6mGzD-zzaNouMWLvARoDT5mtQIlkxfYhh1wp1eqpdEViNZ3I1K8hzvRihnJYlngZtoiF1i0qDBllNsjhXCEMfZWKl_Bz5p-vV6YTXiQBcBZcZQwCXtE0Lwe2VHPj7ChPfZUZufhJKMVLsJkaf00AcvI-t2WX7i3vuZtCATOeuIrR7xHIj3Shi6oYjtHTjZMhnEGI2Cac5WJtOFK67RHkHfFEptH4pKq06Me8AiTmCbyEUiwPhK4sKtlaP__P3ga-bFUxqb2b5jzZyMdp5ZOYUirykM6tFDjokX-WtyhhNUTB4ceOSxHRmBBmPNaPbHvTnosCy3xomNo83xn2bouxTRDqyhgGIg4KDE6Gef3xEgATSJQY0w..%26ch%3DAQEAEAABABSWe-Dux7FX_Tjtvv0Ls9VjzRaBUJtM3eY.%26v%3D3%26pg%3DGCADLFJFZZDZNMALMABYCBZ4KM
+.netflix.com	TRUE	/	TRUE	1793563233	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5ZMPS6J1EVpLVF2Hu8kMPQZXnQvs5PY4.%26dt%3D1762027231247

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: wiktor
+– Email: niebianskipogrzeb@gmail.com
+– Country: PL
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 9704
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: wiktor
+– User GUID: KMVRTTRKW5DO5IN6ZLPZSVSGAQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793544399	nfvdid	BQFmAAEBEEGdgxwlq0U9N2_EcLxHWlFgpfHn70yfCe0ZZj2ibTQ4W2ZD3Qhkqm0eZicp4UIq-7I3ZZK9IRlVsNOWE1CWqGHB9rBkSvbEgPDkak_neYwbLb5O70VpuqBtUw0pLbk_qHGF6cKXguPFIL7gIe0uQ830
+.netflix.com	TRUE	/	TRUE	1800440633	NetflixId	ct%3DBgjHlOvcAxLqA425iiftzx60WSVIgKGSjHOu6-5Mddk3gP48QdzGT_bxEkunAG0bTXylUKhY3mRzLR1o2b5j980LPFHF8fMxMH3uijDOQUjzGb3SdyGyOwL-hKq-H4SD4q6TV18Ty1EsWoswZwhsnO6IPxGjlTCGIcjJ_jZowIy6hmGxNWYQ4sfXgmjI6pzXsZ0PutdXLf4vuIqWC6sdvZGZLLVkl-Isu2PDZ2UK0KRy_EN2zKYI2lQTt5BICAm1KAlI97qL91PrFxrQchcRS44Om9JHNUD4rFzsm4KiBpy73k46RSAyuyzEamRC2mn3Mo5lpOBUcCGeLUfaRg189vUX3r89CCEkInWFWZR1NUmzRu1zY0yDWXHh9nW7NSB05bVStt0p_ewvewsIK9tpIsc1hWvlstVzxEH8LVKE_wV3H_DkU9TRGCWqpFqzmYauyEi_ya9e8RFYLdHQ3HSDwTetjeoluYXz1ecloYQa8My9rLJfks055DdCppwrqI7YG3UuDdnz36b4jDFzeZw5D-SSCZIgvLYB1WYi4npL-7zk6vaHZLk3Bhjhev3jYZ4BQ6XjUel2HpdocLrzJhsd19T9fRxRGaEb60wXU-mEszn_a226EQH0Jlc1RKFMYvIK9uqhoE-LD4wj3w1VvuETtmqdQAsYBiIOCgyTl13utvy3pWoxJ6E.%26ch%3DAQEAEAABABTXUU42YL0twq2Adw_rEm8DnSYx7F3baEE.%26v%3D3%26pg%3DKMVRTTRKW5DO5IN6ZLPZSVSGAQ
+.netflix.com	TRUE	/	TRUE	1800440633	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTgA_HbxLvlK4kabpDRGyPyLWLDnXHkm1A.%26dt%3D1768904635800
+.netflix.com	TRUE	/	FALSE	1800441312	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+20+2026+11%3A35%3A12+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=20d29eb3-55a9-4aff-84aa-5424ab1eb21c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14

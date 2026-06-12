@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: moncini
+– Email: matildeporciani@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: maggio 2021
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: moncini
+– User GUID: DJTVLEEJNFADPO3SNDLSI6WIO4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785659656	nfvdid	BQFmAAEBEHrhwfE0b0Y6CkczvG0C-qFgUF0V6T1nj_f4BmTnlqVu2kUJ7yLs_tMZ-sp4_M-nPykxjMZKqoQnx3hRmTK05QchLGVRZxLVG6leEDVzmMCZyzuyzgrxS88_uoh1gBxvbGOlLJUamnt9JB99zRVR4e83
+.netflix.com	TRUE	/	TRUE	1799074268	NetflixId	ct%3DBgjHlOvcAxLnA5t4GnBxWIShLuc8zLCizxOecuytLdb_n0Xc4QnfsBE7JisgOnsVRe8EybM6oLjpjXFbbzFhOfYe_OWJYjGzTePPlZ637DwXdxINyLh9kS3MCJ5ZgT8LVl6cnXJ8FkRwvmFeCLmFHwOUD96-plGUZsc3-nmM32l98FNF8RbBO23U3d63a6D9GxyxOL33UBfgtSgcwRg_ZXGUBV5sbSCVQw8zXWsCpmnNC64xpGHeMqFdzdEudxmDYBmQbJytqsLxwFHyk0G4IfIazE-_c8m0pzqrfrlquM2VReZs4iYBJt9tpTnYA0VlmtUrhhRbW8B5CiHluL-t7652HHT0Vpk4X2wTmTma4iwIZ9NuEZhR3nv8cMYy5N1GhQJ6uojRAEelWerPT6yCDtmgkINKXz52Vq1UpcbupYhAB5rz55GbcsJDFfoWXWJhWB_zR8MqZOGgCngkV5-so6Ny23-ur9WVprp9-YTRq15EI7bWq3HYxbiu1VPvRRgLBdWBbKo3X2h8j6jxWh45wkQjAoliqKiBb8Tpgk5-Ik-r-boZp17EyELyXD_bW1heJovAPuvV-M60pq-o_GJWuGuNIa8kITrzyvm8CgYLOqABFGjNfzn4cxO_2veJHSVH1ijPhdoYt9ncCahBIdcbuhUYBiIOCgylvXjhnHSJnw_KcHE.%26ch%3DAQEAEAABABQGN9MRJ_1Fc5UC9Zxv-T-Sj2NHZ0Q8B7o.%26v%3D3%26pg%3DDJTVLEEJNFADPO3SNDLSI6WIO4
+.netflix.com	TRUE	/	TRUE	1799074268	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJxmtqCxZq8N1HyvxCuPqD1J3QXJdGlOc.%26dt%3D1767538294992
+.netflix.com	TRUE	/	FALSE	1799074325	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+15%3A52%3A05+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bea317b6-a911-40c9-804f-1a0e63fd10be&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B52

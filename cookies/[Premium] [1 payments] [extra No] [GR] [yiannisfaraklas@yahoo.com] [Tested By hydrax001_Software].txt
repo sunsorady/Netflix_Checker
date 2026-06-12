@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zorz✨
+– Email: yiannisfaraklas@yahoo.com
+– Country: GR
+– Plan: Premium
+– Member Since: December 2019
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 0984
+– Phone: +306974373819
+– Quality: UHD
+– Streams: 4
+– Price: EUR 15.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ioannis C
+– User GUID: 3YHNIAMKUNGCTMCTIMV6OVGW4Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806684930	nfvdid	BQFmAAEBEM6xMtUP-gYEdX78bCN84WNgCTYBA2qD-0s3wB91dYLfw7SsJeIEgNv5Lj2w33XQSemyX-I7li8MdOpeS6RKdpAoPQF0UiGf1GT9dF0aJQFjqn1DZ0Bte_BsLcFC0pyPucMQRmffNuRAMz6FS3Wn_d12
+.netflix.com	TRUE	/	TRUE	1807115886	NetflixId	ct%3DBgjHlOvcAxLqAyLFtXnzIp9Q4uAW6zW2RhwY4_I2rpxoK34ctWH8DCgGyf5Fp4kN6cDuoSqVWkT-rgB1qdcqDqsacPf6leetBLPwN7PxUyLX_BLe-kAwlZi7M3I5IU_A3t9McEYkA3IZYvpaoMmc9ideOk5N5UQyErcYv3bshZai1LEvrYh5D3ICC5-pchCvIp87bux6w8QTdBk-_esldBQ9oKq92daDmFV6Voi9aLHb8J78pAT3MSKioHuMEQqcSD380aJTQsT9yHdTxXjHzbPrVQqnru9os-ah3yx8LeblrTAcoMAb_ia67UYgJqYWKlZgVEqx8bpBQaC4SmROV0EBMS4cS6KC1Ilp6luwx3cmKrcw_ZJdK-TpednLw8yg4tk7ESmP5zQH2NzjxbFdfuHk7AuUmSVWUG9lx4O_bEad1Mz7jPSMDn0Xn_SxBGbYP06W8jGhuR_E4u90ESaYHmnVEXE71tkd2z3C1oO6TOqs_FKGcYGh9a4OcfwmGhkw_TwxhB4K5lyO81HadM5k5UbnOMERZxtldzaZCt3fuIT7t3oWmAGRRKBnLurqflVXTaFdIrQSyIQn614xxqY6Z9zqiaWhOaGXWgGd6-_6m1ZxhV-wz0-aU_02GJw0D2eJcWBS6xtnELb29hYcAh85BlXHtloYBiIOCgwu7wptLx72P4KFToQ.%26ch%3DAQEAEAABABQDWfLjtIskiQT0jH8Jav-2frxZyPYxWAo.%26v%3D3%26pg%3D3YHNIAMKUNGCTMCTIMV6OVGW4Y
+.netflix.com	TRUE	/	FALSE	1807115894	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+19%3A38%3A14+GMT%2B0300+(%CE%98%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=974f0c5b-b8ff-42f4-af97-31e32d2b7805&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GR%3BI&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807115886	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHIngRQnuAY8O4K7qWCp5agKa-xHsnWd8.%26dt%3D1775579885616

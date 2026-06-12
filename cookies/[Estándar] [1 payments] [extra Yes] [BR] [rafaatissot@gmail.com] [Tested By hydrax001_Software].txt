@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pinguina
+– Email: rafaatissot@gmail.com
+– Country: BR
+– Plan: Estándar
+– Member Since: noviembre de 2025
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 4821
+– Phone: +5541992854004
+– Quality: HD
+– Streams: 2
+– Price: R$44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rafinha
+– User GUID: QGAR4LBDLNFUNHOTOO6CUTKLSQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801605125	nfvdid	BQFmAAEBECQo1isdF_Ni8h2W5zL1wDJgwFfd5AoPZIV10QzvYEvweXg48gO8IAukuCe6Z2p3PexNEwS_YHLmL220ty35bdyUE8zKdyGt-4Cqk7t2sc5VOtJMyPNO_kZODjZnDLnTCgq0pWYFKKgjgdhnzo1CCJDL
+.netflix.com	TRUE	/	TRUE	1802990413	NetflixId	ct%3DBgjHlOvcAxKvA-cOc0eAiPg9GB0ACrszz_oQxPv_AQwIwZyU7HurnxItBqkB7ME-RfnTpI7m-JgnJqp0uoMvoTnjZlGHUeBGkgY_ItDF27JXza51-pihMRmMcnDFPkpFFmK4qOwiXHNYUJqrGAlJ43luTeIHg9IjBA1uqnPYOltXEJ7qtof-gKSntLhHGGQzFtvwyGEtkLbbCEI4kNuSoUu4DeBOIvXG2ZbArns6iuUgk-2KviuVj8sliSKZKvyxMu7zxqANtOq3r6k6vDFkBLz28qTD7xAwr7EoWWDDODGVb5YP64WOZpMTh6Y9tcv1xuQ7DtLofPkeQf-wyRGY-yqay6KSAqHy-0hxiCkVr_porss3rMnNdwdRk7JUV4sB-oo99Gv11__2VMBPefuQADt2v-qqjTclqz6DwFMyvrz5ItW2bsh8adb0EanzGtBZbae-UNr5lLEAW64qM0lKei69UJeXAAuQcGMHzOJFsuiHHcdCLbJZVNtLt8_mqOaZCMIelXLEWP05trvVv1PaLGDXd3-Qi0dvBa4_SpnShZ_G1ktnNajlpKD0SI3-cneQyTBCih0CWnXKGAYiDgoMza8lqnpYmNTVyPHg%26ch%3DAQEAEAABABRi4hd-ZpUlEsMIUDbucOB7c95QSi3_ivY.%26v%3D3%26pg%3DQGAR4LBDLNFUNHOTOO6CUTKLSQ
+.netflix.com	TRUE	/	FALSE	1802990413	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+18+2026+19%3A40%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c77d1b5-c4f9-4566-ae5a-7026a76ccb58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770068868642&geolocation=BR%3BBA
+.netflix.com	TRUE	/	TRUE	1802990413	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1Fc5h9sivqqhpMI4I8Bg-V75nqjUMP-M.%26dt%3D1771454414824

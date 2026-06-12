@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raccoon
+– Email: Samuelsvaral223@gmail.com
+– Country: SK
+– Plan: Standard
+– Member Since: September 2024
+– Next Billing: N/A
+– Payment: O2_SLOVAKIA_BILLED
+– Card: N/A
+– Phone: +421905476094
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Raccoon
+– User GUID: WA26KCAWTZGJBEY3BY3T2O44PI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790450193	nfvdid	BQFmAAEBEILH8dlUm2DBSkoh_UvGkxpgtbS4xpWnr7NRVl8oRYgNFyQneRGjGByuSPJk5YKAFMgn_vH9aZ1AZKGauNPJxbyL3-dgih9VoJ0PN5OF3kBNuYx6njEPLtLvpzt7gk4CngPCc0sAuyW0seU27KUOrQN0
+.netflix.com	TRUE	/	TRUE	1799759063	NetflixId	ct%3DBgjHlOvcAxLrA8gt_WKOG1SoEx9I-w_-C55qqwmH0RMRnKkb75eWtclAGohuHcpdvR6KTwUQXs-tx5B6TIivXX_X5nC63mDSBsbR8We8USXXmwLcyhLwt0xhEAlT5cRFxisI788fHkouxyXJVsVMD7I5i6ApoLpY85qqkESMmZg0O2KyS-ZjzH7z4otr7gdmv_3Di_crxqC0GgBjsLbQ9FihAmLC9-KHyPz6VMEkyTqEs_2RkOEHPrKP7jhoV3ds06i-IchcQpKOM9h04dzYygevrKSkfCpRGyDwCOHVbjTVN3BX2gT4EaHMfBH-I9vL2blSCzIK008JBwg0NLEQrmS-_xfr4Ca3lAsdx1c9Be7kf_5s3EjIl6cxPS6gI0zx32ddGz1o0yuziZLVAknjCHFVomo7ch-BlUZkvjlVk2fgB150I4rs78-UTxXFz-ntA3JBfze2dYJxfX8CxM4PUDiVbPCs1evzdq66DJcAkQc0x8ta_KiaIc1P0RlpY39qMSRWQdAciul57oE96PS9oHUSZsBKL-OHQaLIUDn-0ntFJJ9Uke0aQVBM9eK8LaI62-lCXquqfSUNjLHEkPPKitOHnk6krWsdI38MzQ7xiqdYIgEq0Ecet4-O1KA45PjfS-ACsV3toYkgfS8ENq3PcUiAKjAeGAYiDgoMA9pCcB6xVOX5ci3M%26ch%3DAQEAEAABABS71Sy04O1kl2a15xtMiThmW3FnJQYPCDA.%26v%3D3%26pg%3DWA26KCAWTZGJBEY3BY3T2O44PI
+.netflix.com	TRUE	/	FALSE	1799759068	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+14%3A04%3A28+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=be40e121-8754-45ad-877f-ada721728b64&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SK%3BTA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799759063	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8ZB1ir6B8DE8VL_5tW190jm5Fb-VSc7E.%26dt%3D1768223060432

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: :3
+– Email: georgian.bloj@yahoo.com
+– Country: RO
+– Plan: Premium
+– Member Since: October 2020
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 5979
+– Phone: +40755283413
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: second acc
+– User GUID: RFALLN4LMZHC3IGFTVZRFKEXSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799873139	nfvdid	BQFmAAEBEKM08C81DvPD7VBc8U0SjWRg3FdMBhG5U2oc7h1kvlL3P3yPCiu4C4oky6alk4QVTrEOJeTziO8tvvfpu1fe-JmatO2LErEwUs3RW3L45kmyznbZuEkyHO2-A0xNHI-nz7l8FYpepXefZpcMzhAqeKUU
+.netflix.com	TRUE	/	FALSE	1802632013	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+21%3A06%3A53+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b5b549ff-efc8-455f-99b3-b5ce8b97e654&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BSB&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809191406	NetflixId	ct%3DBgjHlOvcAxKABJGxxsUjU6pTw6M9RbpsQEFDZIdl1gI00N66DrFTWACddT1r2BhZRcfXSI34khrMlqJAL5ZsrgwNtAfCe0AqkIckp9oMBMt5VOKBFbTxbn12m1Qo1wgTYaRos7jlft43HN4q0tuzN_hCVsDNE2BqvHwJ-1VnSaELg22Z8sZdeN5OsdOxc-O5EuSMpRkJ8LPFUAqFd6VUSP5jJN2s75WZY3cMB5wW4frh_6JIUTduvdRezzJx-Vl3TQnj17oBeUnSqcQu-iGu9w5t5SBvrswtTvdI_jg8fauM1LULxs4TDuBGX4iRGRGPWn8tTqldnOjfB6fS0uWEeBwpFSwX7Y5TTX4ylhMr1LW_62A3HRqqZtXu_Pf7uvIJUXeq-2ShsbtQSiTE_7qs97We4dDbCV7NxUFyAMBH7jJuLzz4gVRfdizijB0C0bh7_qseA8duNmo-OUa63iLdK8qDbE9Yps9amcb_73JIuIRvYwSg4y8whgGb-9_PLHyHJRJGhcA3TWdnK5peELWIEZMm7UaT1EPOEEXqfGALiDEnp8ZAd1ZDttsp5Ob3ODfUAoqWIcIwQZ1xmOmRnBWiAjjFOmhsZDgGwUiE9DBrYXN-4LdM7Wc6V7e4Nv-UH7Km6ODr5JjhG3W0WjdN-6qJ3Fi0B697PQpUDNN7Ff1d0n2U-ERkFPpdgBi9GAYiDgoMzRmKOPPYAJo8JBdn%26ch%3DAQEAEAABABT4gMR4dZevKnG0uU4s6ri7BRnhH_kV724.%26v%3D3%26pg%3DRFALLN4LMZHC3IGFTVZRFKEXSU
+.netflix.com	TRUE	/	TRUE	1809191406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJe5tgmZm33Jl9G-Fp7MKPtCkZZdq4X8w.%26dt%3D1777655403820

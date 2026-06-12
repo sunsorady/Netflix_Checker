@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Javier
+– Email: alejandronieda@yahoo.com
+– Country: CL
+– Plan: Estándar
+– Member Since: agosto de 2025
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 5628
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fonchi
+– User GUID: XTVCPRMTVVDSFLDWFSVMCS57IU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEKrGLBr3KfysXl5AWzpIVeVgJ89D4IN7SFI-M-2CqPn32HXJyVLZZlWYzx1l8OP7tuYQB_HstxPe19Y_3VOT1s9CjcrMH4tIE4zgmMH6YGUcB6xyQQ46wPYdzGUp06-UX97Pdqf3SeB5AwaZfQAVqYDn
+.netflix.com	TRUE	/	TRUE	1807304915	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA1U36jkwXu0Jat2YXW7vzH9DaWHIuWfBOkuRbXpTryYr76MdR9qA_iu7sJQ-FL25cXeJYPHD3mf9Jy9h2vv9wn4gYQVs_TexFYA-Vq2KVOuOwIuQnxILyoqz77LIYvg-Y-mTSum_fj6WBVkbvTgO4FytoJwjBRZiFlzvpwCIpgrtwUhgDLsnUgKaX-FOd6uSl9ktV5qby82kpdto3q-71JLinK7I6ZlLZuII0goQoHZDm6A9WYi2FC2fmZIm3szPWysXNRmH87FNc0xJB784yZBG49mGRCxIxfAuFhpP750ROhCS5kYbtsCAWVhEbtuyKLCGHjZOv4IHQVwjZ5glWsDCr3DqJNvVgibv_oubyflK6o459y9omsk8WxpvcBKzeShKLKfZsQmKH0G4Cr4OqXNlJ3AyIl9i_KkeB2VwDVfVqPDycWmpO5ZFS3-k-yTX86N-APyTBNJ8lSy3NUH4LL9uzWMiHkbTi-fzHzM-iYEMK_cE1hONLhaaEi87H6GpX7SewO7ig-2-LGUKsvg8N82ltvay8v6TcPQdGAYiDgoMMAuuG8emrGjyc5UV%26pg%3DXTVCPRMTVVDSFLDWFSVMCS57IU%26ch%3DAQEAEAABABTFEIDdDIBldrPDAPemobrwUFicU8D0l7A.
+.netflix.com	TRUE	/	FALSE	1807304919	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+17%3A08%3A39+GMT-0400+(hora+est%C3%A1ndar+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=20ae5d6b-1e08-4ea5-bda2-b1d0b8e8001d&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807304915	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuE6MyutHuMIKU-KUVv3YZkV8RZGRwd04.%26dt%3D1775768914506

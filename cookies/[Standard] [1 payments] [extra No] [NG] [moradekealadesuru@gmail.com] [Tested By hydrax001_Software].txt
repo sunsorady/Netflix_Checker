@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Olatomide Olatile
+– Email: moradekealadesuru@gmail.com
+– Country: NG
+– Plan: Standard
+– Member Since: March 2025
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 9505
+– Phone: +2348133300161
+– Quality: HD
+– Streams: 2
+– Price: ₦6,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Moradeke Olatile
+– User GUID: 5RTHORTXTFHWZLGNDYYKD2V454
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792267260	nfvdid	BQFmAAEBEOOK2MEOdby2mqCVL7iA8PFgsw0mixQ7eoaFPMew4QMUWKUW6Jd0tzHH_xRPknSb-1IIsPXlecYAC2_uV4JV7SpkhZPRrFNRQtpK8WIoiGTzySDgmJpdSEXZtVduxXRmh70XT-ZpCTeWNpoTu1IUntnW
+.netflix.com	TRUE	/	TRUE	1810232050	NetflixId	ct%3DBgjHlOvcAxKPBC83RJmHzNSlKvqC3zfrAyE_QxxbQTQ5Kcmq682Kzu7vZluHIYKQqpXvTpx0Ei3b1dSIxApnX3c_alwmPOqxlYw3b6W7L_FwF8SwKpOi67OXVmmW7QVKJg5SQrZ7zlWjvQnbkrrku7kt2wTiK6atioZy0OBYg-PmoPUqAZQSi289TCihcnyukT7piy7YGLVQwB7vqRHCiawpvE_Vopm0Wdz6djwPOGv5W1pXIblxuN6gp9AXFW9481qZEOkp1l_t1te6HUOJm8wv2VfS3Cno8AQG22IH8ZRx2mcqTkjWhXENSGlvbmWTy6GXOxQwU39Jgz9KWBAZ6n4hnhUbsGjCF3P1AmjGf_JtA5-fdybXUG17KfEbZWIqW296bT6PtlatFkFYlsOCl1sCfWvCxmQRhLs8ygwER29oM4BMmLW_aGyOGDM-T2XqP1oEu91Sgbwz-r4ZsOWpE1n0HJo8SvhludxwVvLklKv4aGxCHycTuDTsZTXQcxEujrmuU_fYAJrwdBvLnsosF1SBpG2r9VJ-TxhVthkpzRFujuTS78u0es1ZvczB4e1ANYGpJUo9OhU-v5CtPYOyoTddozRjcphMCh4LXdt30CKjZDHMfOOg-iwtjFpxZcX8andBz2Qo5QonRk__EAoFTNIQfKy7QfIXiB4Xa73g3G7gJngm3DhG6-1zxudxMY66IexSAfkR-NskGAYiDgoMtSHvaunGspKhUy3X%26ch%3DAQEAEAABABTqOTvkV3JvvBhD7h7VwczkkKRDs-1tB3k.%26v%3D3%26pg%3D5RTHORTXTFHWZLGNDYYKD2V454
+.netflix.com	TRUE	/	FALSE	1810232057	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+19%3A14%3A17+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ac215f63-ef7c-464c-92da-01d4b071aab1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810232050	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6cV4TFD8QO0UZpaqUToIeLmSiSN206dI.%26dt%3D1778696050751

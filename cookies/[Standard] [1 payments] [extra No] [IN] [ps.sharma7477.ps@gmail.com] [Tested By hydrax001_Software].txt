@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: priyesh
+– Email: ps.sharma7477.ps@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: December 2021
+– Next Billing: 2026-06-27
+– Payment: UPI
+– Card: N/A
+– Phone: +917477892233
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: priyesh
+– User GUID: WXVBTTMYO5FODNSDN6XTI36HOY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782201594	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jul+02+2022+18%3A38%3A35+GMT%2B0530+(India+Standard+Time)&version=6.6.0&consentId=6936330a-bf4f-430d-b655-f6e035dd9c16&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH52%3A1%2CH48%3A1%2CH49%3A1&AwaitingReconsent=false&geolocation=IN%3BWB
+.netflix.com	TRUE	/	FALSE	1782201594	nfvdid	BQFmAAEBEFdM4oidXjlFhTQD3ALz0qxg7KXEqC6NziUJLQji-MDDluzXlYsmuQy8y81VmKmY0yyExEOBB82qM8eprebbtBhaSJ2H8sqEv4nlHhG9sOap5udYGKg4rUDGAbHbESM2beVa9BhXAQ07420GapOh_563
+.netflix.com	TRUE	/	TRUE	1782201594	NetflixId	ct%3DBQAOAAEBEDmS7_e9o24UgORgKVKj1pCCcHWwmv0nLKm8Xw_DYnjtk8iaef7gX3OQVqZU2YE-ejSMZ6CaDlno0TOUkfsuKrG4N3ZwQeOBEyiPjNGmjPS-c3c9QcR7TYAThvJRZGzKqOQ3sAyi2fSLC7NaAkrm9z0JlL6v43R2N3CB2Z0JK0Iy0t22Z2WWLfzGMr9FtTvhNsXV4p_2RmZaHZ4HxUkGZyweGXq4IVsl0PAooh7BEMPZyQA1SSmO3bMPSgfy6iDOssyw28NKWalY8NSQgJU0-3DtD8EN3gNqWJrE6tBGoOIXoNUaNiesq4sdh0RStcxrDYw2TAGAJrjr9OA0nnpv8Et4YdxhqN4Oz87lYwVKFOi2XbThhLKwrmyDJH2j87Co8UCpNi7ibMiyqEhaGwVM2_mGhRl9HSzXnX7dpeXpY8tABdxhKdRLabrVoHyEfJkUjCuuSfcSVVH1MxRl9apTG3RB61MOUe10PnZuK5R7HK36Tt_xrf3NxlpcWpwQ4WomMisW5Vd1QjtWMEQIKqekIjRe5-IxQAvCxLvErBLbVnz8WiH57uXjj-TTJh2eEAFwnvciUOSMdYcU6ytgDRRX6nN8KuxThdR_HY5HDOwft2ohLfBJeZk1iela0oTuzHEvR7csdGiEcHBsi8Chph9FftijKLleMJ_bQnzdNtJAf-HNT86WfkIPKWrBphWnRVFM8W17VNvDG822x2iRr8iye6_ZOFv1bWQvPzmOR3Z8BsW8SMZvJue-9Z2Uo6VHFHfiJrrR7dV5w1D-rQ9edfKNb3zDzQLfJk78zTju8V5p7WC5JsRBoNUbU3v02b5SaoHMdzR4cjG97QWSSX6MbQSzdSDx3g..%26bt%3Ddbl%26ch%3DAQEAEAABABQihB4QbRk2tE__yGVseKbhIXEzoF3hx4Y.%26v%3D2%26mac%3DAQEAEAABABTw6Sy0NqK5eBYMIbixP08W-mukfRacRuw.

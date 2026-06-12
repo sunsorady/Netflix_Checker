@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Soheng
+– Email: soheng.p@hotmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mai 2025
+– Next Billing: 2026-06-16
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33651409777
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Soheng
+– User GUID: RPNNPVYTJFDODKZLIJFR6Z7KZI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793229725	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AlJazxWowSrnkUium92dG86QBzp2mJvPzKIhG9nchdmP4qwXA98RJHtmOgYjIc0veTD_T3MmlP_7emWG2zDFo2dTjYFeGmLKyuzRhtlltvnOm6tMmXIqi_viKPRYYtqJYGTkpX1lzfmmlEaVy_E8oGrr7SrbK2VLUl06Z3bGGTOoPZuD0OtfGX1VAdsparpmGoZuNGBnchlruSDf9RzRrcWnrv-evRFAl-oPg1gM5iZ3HWeG8q3H2EJ5b7o9hPuW07wcKbWAR9b7Kciu9aOOyGjQ0mfO6RAdYXjKaSg5W9wPGaWjWbwWO7yYtPsyMS9FwpiI5bPs1BKQ3oOrPEi3YKAHlpFfXpAUtXWZo_5RXUjWp6QGgl1OcbDYjW8ZqKhArpeVWU-I3C_ydW1_3VVzZjND3P_-llwZsFsG2cyxTtaM-UTMYybUb1zwd-Mx-LtZ-dkrZlRjRjqhKGsvjZ0RbXxA1claTWfj_PC0x1odTSBKCI7F9NY8IwDCGAYiDgoMpd2zYbJYVoolrCVG%26pg%3DRPNNPVYTJFDODKZLIJFR6Z7KZI%26ch%3DAQEAEAABABTEiulk0Sd7jndFtqGelpczyLtWMaAINfc.
+.netflix.com	TRUE	/	FALSE	1793229722	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+29+2025+00%3A22%3A02+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe8f045c-55a7-4015-8cd9-cabc8624a490&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	FALSE	1793229725	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPMJWaflxFDJjoTJK9N0WvhQcdWqLbEQM.%26dt%3D1761693699629
+.netflix.com	TRUE	/	FALSE	1793229721	nfvdid	BQFmAAEBEA7FXKjedNKjkqKnVi9hs39gW7endR2ADp-SSzARqXDthT7Hi6VwwQEPyUXPTxse7Zpjz64HMZppNqm_3tTJFeLKgtsGt8QZYVEbSzr4k6Hhvfd_aylf74QSsFaZI1pB63gtmo-ixdQn6gHyx5dJ061S

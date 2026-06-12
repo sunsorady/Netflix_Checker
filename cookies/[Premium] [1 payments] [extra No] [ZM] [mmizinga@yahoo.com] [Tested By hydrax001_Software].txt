@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Extra profile for the family
+– Email: mmizinga@yahoo.com
+– Country: ZM
+– Plan: Premium
+– Member Since: November 2019
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 7491
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Movies
+– User GUID: WMAH4IUUQBF3RMWTF2Z3UB62IA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811279785	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKwA72yVEHJERlVCGZwqAPQCwCAfZfXhlXKHvjrdKaDCmvPSX7sNRJtsOoX0MpcjNdJ-jt7idIAWCs-jkUah6_qGmhkPQR-Gg4RiDP6r9iE_lRVSiXR9HBLWi94rkU63NlnZHLXUhRg-KpYl_3SlzmkvjmkZe5vvqmbXPvkuL5nLp2Ba4xBzCihSJyw326v-usJlHBXDu6CclUMam0OnLUtDi0r0X8vHd6Q0b6hYf-PjDh4AjzGju9b8TCKYJ16WNlyQW1_1VvhoVHWDY4utyciJYGDQ_Q3ATeo4f_yZLrXbX7cOuLdpWlFktG-_nY82LGoPX0sKkpdDAbS1_4G2qbzdvuo0v5TWodGw1oBidjBbUDD2Bd5fMoMhGiUtmOJBLxQnu9C02l3yfW7rIY3uc7Hy-nrd9T8HeZ1YSoWybyY9XHNvGm8jT9hTrZPL_zN0bSoW67lJvPI9_-V-b3qUQUxXoL7DcjzR6YM5fJMhxSONO4Qx6c26i0qMbRaYc6I3dLbeV9JqRk3gsdcnIRQB8WocUuC6rX-u5a8dbhHBXeSl2JndJ0ciS6VaLy7OWRLo2TVlBgGIg4KDJOZBulNEsZOUc2jFA..%26pg%3DWMAH4IUUQBF3RMWTF2Z3UB62IA%26ch%3DAQEAEAABABQ9Un-lHX_aktjlghtSVNiT3UguF-zwJQ8.
+.netflix.com	TRUE	/	FALSE	1811279789	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+23%3A16%3A29+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bbd408b0-6caa-4da2-b809-0cbc05ebd6d4&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779743789454&fclco=&intType=1
+.netflix.com	TRUE	/	TRUE	1811279785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABReKveKrnItYjvddvPzhffTf11e5zzchhQ.%26dt%3D1779743784620
+.netflix.com	TRUE	/	FALSE	1811279780	nfvdid	BQFmAAEBEAA73dffVUOlf_w3idWFYOxgSJb3XdwtdK06Fa1clluMuHnImuQFEG85M7C2VI05iICtk53sPhqfcxajlk3TX6UFUF2yC-qxBlIY70mUKvzmlBlgS4XRC53cFxiZ83O64SwEJWNF5Ljyi3l8Tuv-XcFY

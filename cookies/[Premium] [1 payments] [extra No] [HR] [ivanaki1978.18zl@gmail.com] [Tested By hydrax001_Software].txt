@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ivana
+– Email: ivanaki1978.18zl@gmail.com
+– Country: HR
+– Plan: Premium
+– Member Since: rujan 2025.
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 2925
+– Phone: +385953726494
+– Quality: UHD
+– Streams: 4
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ivana
+– User GUID: XXN3CWXXJJDSPNLBS77AMNU5WE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790367484	nfvdid	BQFmAAEBEF2mdB6xNKHNMjp3vU94OWVgZAJCAsNU0UUE3rYHi_ImRYzVTSvuB3pGWeTsPqi_9mio18FM8fsozMCBKWqITJNdlU7Fz5-CzgRCnapqWQTZYbXPgyz5p-ABU_FXUAkWYsbZ9yqxY4NWqADoLkewP5Vp
+.netflix.com	TRUE	/	TRUE	1796383959	NetflixId	ct%3DBgjHlOvcAxLrAxCQ4so4qH2cCaXPJaoJMotmMieZiFjEWbHdEKWmOnyDhyjUNYL4kcY62KomaqETZGGqBWfeXqWgDUkEuptfqcJRbiz_jhMGapy3fKgDGPeb45G4xcuWNcCC1pJEOoWip2CUWa630bJjMnQ1ieApm461oEB28MrBfbDED6-a8SLiACQ6SvOrTzvZkZyOLMEdimINB268gsBf_26KRJpUVKKzSYqne7Avde1I6tnozUbECp-MWblyMBoe07SMIxsZFGdtAvroyxBBj_kURupyJpwNTPA-6igMx8G0af9vdTJ2nGH6WzQgZ2KLjjryhowUSmYum89DFLFX6k2h45xSSTdTfcVeXdq8pHvjeTe06ImT8mxlVpQqvbCY7Y1hkD1evIFvgo60IQ2eAn9cJ3IX1v_vlkIHFOjO_OEb5N36tb3bL5J3xB2ACKeWzW1wBdgBZKIXAXuRnCJXZ6npiCNRNZ5b6FsMFk7FjI4LJ6FY9zUFZU77-1PgW9OPONvfATSOy7MhW-6ctawX4l7TA6lSn_h23OUb9sPMYqybTKYxsl0nwyGct-ojABZLe9lYF_N-qM48beaCUKPMvQVZgDWOc1IiJT5U2NoynD_5hX8VCv9XDdwf09eQnyT6wUBkojE6JZBJ1VPRkVaV2QNrGAYiDgoMZHtF4kWfh2jf4YF6%26ch%3DAQEAEAABABSC_85UOaR7svhFZWUSQGzpQrfPG8WU5ag.%26v%3D3%26pg%3DXXN3CWXXJJDSPNLBS77AMNU5WE
+.netflix.com	TRUE	/	TRUE	1796383959	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTp6Uw_8AshepofXu1DORws33_IbySRBlw.%26dt%3D1764847976497
+.netflix.com	TRUE	/	FALSE	1796383993	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+12%3A33%3A13+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73b925e1-51a7-4723-a4a0-7b410cdb8bbe&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=HR%3B08

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alparslan
+– Email: emir964@hotmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Kasım 2023
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 0182
+– Phone: +905520239861
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Emir
+– User GUID: ASORSYKZHVA6BJNW4EAONZ6JLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795461787	nfvdid	BQFmAAEBENHIVn796IKcX0N3mSBgnTVg9Afzf-ox1-FzD3H7i-A0VzTQpcl5M3B42MXjIkJtHNCu1V2M0Bersc38y2i_yX7MVVGvLf_g5QHWLajwpBrAXSTOV4iuJ8IgmSVR7blE2MEUXt7V-3QoR3Y21AARXNE8
+.netflix.com	TRUE	/	TRUE	1808151188	NetflixId	ct%3DBgjHlOvcAxLRA44qywUHcp8NbPqaB04ejBDx0VNMapSIbun-Q6FjcKZ4I3IbgC8276ca207sWMwMLp6I0wuoygFvuydqA_qsJYe-b-taNeHhW4cG3RD0h8lwUp9zgr7sHT6ObGx-zC181RHk7xFHWu59ig2bnjcN3zTUiYWjwUQaoI_MSDaT4dABnwbVRkXV_oV6W0kcWfvwuLHJbqJ0LBH52kd0jAsEf767lWO4izZtd2QZzJClE5cu_t5UUsiBuNqUxlgjA-dS1xvH-Qb0Vknauyx2rpAhvYLdjlGE9XoL05gKaD16p3JCgYq3oV8Ey7Vz4bvQurpc9aVKuqVZUan_XQIR_CHWT_2Q7Q1AHYz-Pojiu8miNEMEtNQBQovAgGnsj57D4rWoK_sGiSscGWUXtjb6xbMACu9vqSM7xiQ4xIQn34UdfATZYbzRLCrW3AWriPeA7IafEEbxH8in-Rq1Mf_GnmxX12wQpmziY3IAQ9TRSNPT9AzwbDUijwuicqf-RZd5DvYnob__cmgUP0sEO3dwY6rvFMiOkyG76G_TG3qYegI8NFb0Wg35lOMbOXzkY7ZDP9VCoa9GuNW-yvde8SdROhFZdjMRUQ9N2UDL5f_6JVEIktHrahgGIg4KDInhFMUfqWXKcPFw4A..%26ch%3DAQEAEAABABR0p0R0DTFKvNzE3GtcLWCPv7eGCxjpLdQ.%26v%3D3%26pg%3DASORSYKZHVA6BJNW4EAONZ6JLY
+.netflix.com	TRUE	/	TRUE	1808151188	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxSKXdXu16FSPiTXmSQ0rkjClbjSVDqGY.%26dt%3D1776615187631
+.netflix.com	TRUE	/	FALSE	1808151201	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+19%3A13%3A21+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=45d33e27-6230-4170-a3a5-878c00647afc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B34&prevHadToken=0

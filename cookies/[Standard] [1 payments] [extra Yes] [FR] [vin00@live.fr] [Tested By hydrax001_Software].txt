@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vincent
+– Email: vin00@live.fr
+– Country: FR
+– Plan: Standard
+– Member Since: mai 2018
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 5390
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vincent
+– User GUID: MGU6ND7JORD7JLVWBBX34WNNWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786640536	nfvdid	BQFmAAEBEG1mAIJ--7GRmQ0reWyx_h1gXPnIadRWCKx3EMihS-5eMK26-c3KxnJqa8VUJYND89yrxeHl3GkJkg1HkkoiW8pVGeANSB0IdqYbNsjsQ17mruNHGTCgFjJF31KlNddmvQ9S__ngaMyHhTtIug7CuoGG
+.netflix.com	TRUE	/	TRUE	1797450484	NetflixId	ct%3DBgjHlOvcAxKtA2d2B7cGntm2DNvo_74zMfgzFU_ZBa5_BOez57Ek_cVqhrDq47QoeCuOEuXVXUaS3rVxnq2tPlhO3z6R0NrM4wmX5REUVHqUVaoSBPTD8aErR2ZM4Muffj0NXODT-lJiyrGyva3y4TT85jn6gKra1IJJhkjB4KPTv1z8oeyubdm-Gdi2O5llWKPg61Ffk5Q7U5CRc0zZyzkq3n35HU6aYcPE2-UYefrg-nY0o-Tbz-9YuMDKGuF3h3NYZphZm2AgNJV9GmY1rsPbNqU0vlVbqb9Uh1e6MZUnKJb5oV-4-hypdTKJnJRGcgmN2flXmwT5d4IekKEkug9s7mENfrwbomRruil_FSucOGYf_WQB7zssQzLHaLudUBhQ5h9zyDZcd3e5s4aVCrELOyryLE0mywhvCqkYnWCeVsbOOE2PmDQVnP3s_0ic5VoNPyUOYcl3ec0mtHCNBnroy8B6ai-PfAjxUQ2HPFPerpgxrsn4kGOnIV1eN0AA-9kYF6xnnrjLYeBUOf5mV9why10mJdjfGPTKf_dj2hiK-Z3ftW9ux2eqh21i1iSX7z-M_diHVBgGIg4KDGj4o05ADMtPOxbQ9g..%26ch%3DAQEAEAABABTmtC7Q0aCidjajFOXv5vOUWrQLcM60VMM.%26v%3D3%26pg%3DMGU6ND7JORD7JLVWBBX34WNNWI
+.netflix.com	TRUE	/	FALSE	1797450484	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+16+2025+20%3A48%3A04+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea5a77cf-e7e7-426b-91dc-f29d9ebd93f4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BPDL
+.netflix.com	TRUE	/	TRUE	1797450484	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZ-6aLc80iiuktVRoMdecyXEezMaMJ3Bo.%26dt%3D1765914483037

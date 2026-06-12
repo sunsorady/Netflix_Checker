@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Princesse Disney
+– Email: oceane.martinel@orange.fr
+– Country: FR
+– Plan: Premium
+– Member Since: juin 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 9226
+– Phone: +33681949604
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Princesse Disney
+– User GUID: KH4XFDH3VFHTJAISGFHIJUY7WM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795249388	nfvdid	BQFmAAEBEKGSOym1bHjIIG1gmJNUHZZgzoRjJPZ4riagPzJF2Zd2kcOIbrGyZnl8ZYfqWzGvJPJSRf9CuMdlqF7cL4ilaUZl2SOv_amxtBPg4lryFJ4GcuUeEkk7l294vhLFdnbqzCmsVoWKSdkW8g5wTP3eSkqA
+.netflix.com	TRUE	/	TRUE	1798393029	NetflixId	ct%3DBgjHlOvcAxLoA6c2ECeoUsbJo_DF8GBuWJxJyo7WwyKLqNAY9EBfOCJUvFvUaHC-JCtcIcMYySyOjkLSrado0D79s9HxyGtvBGcpALt_-izVgKoaDLusBXks5tMuOGCfoGbyXj5fncyrkw63sTvgJNMCjuTyQGbcoNzrqrfRqDXuyVgBuPAl7-2qkpE9MoaPjdWomNPjP0Q_Z65d84VfybchHwklPT0c0FcYAjzO8TmdDcP8NQcAcaECiFqZUuddevUoQkPBxQJoqXOd2eqyJqeVJYDb_kJkDiuD759zQRhHcqPwMf8q4eKeGKXYNG58LHng_ZRnB1aQ7mziJni_PXxzVphxO-0ogXNXLpzN7HOjaOR8D9ygkprT-pTUWJjNGPcpHsiLlesJXkRhwf83qJjKandG2HLu-hGuqAWW9jGLeOnoymeD408gDEYOhOzwJ4lJt_GeJIijeQVS69NoSHZq7JVwRZCMoPQ9H7u-Q9DmtLR-ctD3uS9b1zPs2iF-ISjLhfXoIiaJZ3duLi3-642yJ3G-MM5TI2Q5nJRqdkxs1d_0wddfgwW48uIt0p-i8tsueJdQf1pwrevkq20tZe9hsqCI7OYDdhBnq_JxsHXt6LC7mW2qGXwCnrQd7iMbjKDn6UORZrTV19O5hGob7HLtGAYiDgoMSZaAkNRe8lxoQMku%26ch%3DAQEAEAABABSS1ZLwVCTjHmo5t2nLLSndVs9PJX75RBo.%26v%3D3%26pg%3DKH4XFDH3VFHTJAISGFHIJUY7WM
+.netflix.com	TRUE	/	FALSE	1798393030	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+18%3A37%3A10+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3968e9b-dc2b-47dd-9734-4fe80a7bceaa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BOCC
+.netflix.com	TRUE	/	TRUE	1798393029	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9qbDj4uIKnnvVFXAOgGIFSznHAFtoCKA.%26dt%3D1766857029572

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lilo
+– Email: pribeiron@hotmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: fevereiro de 2025
+– Next Billing: N/A
+– Payment: NET_BILLED
+– Card: 5518
+– Phone: +5511980804406
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pribeiron
+– User GUID: QEDDBPYZSRFG7B6KJOUYJGIGWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805325084	nfvdid	BQFmAAEBEJjwdKcUfHh1n3LpkNl2RRhghizh10KOFKvdzYhncodiI7HcmU9Rdf4culjSZmovs6zheIMLfF0tfY4g6jQ1ZJnFpTeUhChOBf_HjuMZv6wWEAjiPqjtTZ_m1z4xfPRmFEMF9NrfAgU2-G4jZYcMEqn7
+.netflix.com	TRUE	/	TRUE	1809114342	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAzsIv6U5pl4cd_igfBlDAiis12GIfhEluZV5Xwxnfx5nEaunZ0eouj3JD3e8WRhfdCGfkH6MZbawiVsUTyirUPIOOJTmbWpPOwV6_yuhpr-w4J4Isv6GF-Vj8mT8U4zZadD2wODykY7Nieq8cPpKLsLjc4vwzLB3OEagsY-7OEM1NpGfyuHhiQt2kFXBi332fg_Yl-nkhU0CaER3bNTOSGeTI_v-0nRAOhp5U9qAT9i848j_yFRHcaYwEMp8Je8EEM_-mfQWB0bRo39LCfrRiy_C78LdMz6zPIc78cdHLRCw76ihuqFLpkN8hTvdtGZtxRVj87ei_6JGQqpwYLdZzQ1hsuz3gTcXf9zVLmYE1eU4LYKDqCMc96ukESauJlXGQOWE_46F5ssn3orHX3vnTH2mTFWLQBhbADF9LQsIAwSbGKem_zvuCJm-JeyODs4Q93KGjSpwjsYit6SK30hgZnaKC-BlqFicu4UBqcRE0JDmjX4uU9DguXgpnqphGlhQ4Y0xcbZhPIBPvJVDRFAcLritCwOJZsU_OBgGIg4KDMLOpmk2noyGh2_Y5w..%26pg%3DQEDDBPYZSRFG7B6KJOUYJGIGWE%26ch%3DAQEAEAABABQoc9LOTH8smNwxReEXDV744AGuaI-wHc4.
+.netflix.com	TRUE	/	FALSE	1809114347	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+16%3A45%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aaaea267-9479-49d3-9958-a8f5f1302428&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&crTime=1774087779084&prevHadToken=0&isDntEnabled=0

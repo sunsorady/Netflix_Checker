@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maman
+– Email: murciaamira59@gmail.com
+– Country: FR
+– Plan: Estándar
+– Member Since: junio de 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 2198
+– Phone: +33766693666
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Esma
+– User GUID: VZGXX6RLV5AVLO6UAKI7Z6IS2Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806218364	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA4PaVKf6kNGojSHQCiAay0lYsDqykbK6pGgxYGQJi5MBy9eY8H59IvJeqt8pc32kiiaVO6b_ljBHuffPd0THZiz3tWYGnFP7HTdULZs5jYtk3-nfPDTKLqsEtYgGFkLoQhT6KdBp8D_QPNVKA0EQVWNrQ1Rnc3EECSynapg1LzeW_Q14VSQTfGbA4r4h5WombcBh-GJnrxljCsmpmhthorbV8hZFwI6TISAsu3sXcLjMoNwjm6VfCLIBP-NQgIiIjg_0UvqRSMsv-NNPa25WLqci-hyQmL6F1KFfp5cVfKA59yhaRqag4KGsqXO-gMvnh_QovuVh8dAzt_YP-q4XOagwr44GSQ_mDGtfmUKOt1-Wxf7w10y8105Of4ivY-ZoptcYJmyfcRlD93qpKH5oXqodgxc_U8DFIeI0mEVb36zJGvYPfzlhjSc8XqdiTfkt7YQKAdRwTLDPvayBks8HdP2LtEs-5KeVTq1-Qn3f1GxsyI0hfsTsYJ4OQpReD90XH9W6l6Umd2pLJnpAwHUtmhlhmw_NAG1_02ylWBgGIg4KDPeVb9iq-S8-haZxiA..%26pg%3DVZGXX6RLV5AVLO6UAKI7Z6IS2Q%26ch%3DAQEAEAABABRKNNw948TKqs4b--VFLWmyAsHNCfOLR6E.
+.netflix.com	TRUE	/	FALSE	1806218439	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+08%3A20%3A39+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=15fdf0b1-a36b-4757-96a3-de04b6ab2e95&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BHDF&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1800123370	nfvdid	BQFmAAEBEArs_dN_Kl6HNBHYMqOZI8hgphyAmoTAP1chey8NnAHZqSZALCnOb7gxVIo_K3jdcssTQT5Mi3CfqozSK8XibNwviXPj4h-pzdPbwuR6xjUZFtQUi3AlWcXmI0GbAS009ioVwmqLJQKqSOgvHGkGh8De

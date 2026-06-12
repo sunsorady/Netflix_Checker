@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CARLSON TOSAM KUMAH
+– Email: labellechristal55@gmail.com
+– Country: CY
+– Plan: Premium
+– Member Since: junio de 2024
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8164
+– Phone: +35794067171
+– Quality: UHD
+– Streams: 4
+– Price: 15,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CARLSON TOSAM KUMAH
+– User GUID: 25NNVYLFLJF7LPMWGLCOUS5FTE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807781906	nfvdid	BQFmAAEBEPucjUnYcyfBXzf0r7olnDBgFnyMnuV9jRtOu-fXkb748ruoIPkBAL6aGC288cgJ8B8CGQNg2i9nVCG65ekX-D8Qa9wzqUcySwXPxgj5UfDxZdD46pNcU0j_KYke15ORwqyeRx3jB2MPwy9DrInGg3HG
+.netflix.com	TRUE	/	TRUE	1808762305	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKpAwEXkhSI4BDZi0UFT6Jeef01cLnk8m6Ow5hYuPBkRD7rz8nRrFeVr-xmMQDJEgzTVC2Xq6u0rgfz2ReWVHxIGdzl7u4GfDynNDkwOtBEE1Z2gMj19Arx1pRTxBh1qUzfUID0-Zm02syi-f08BKdBydS1gjJTyVayfrD_4fLCP3LFckt4k0G8D4eOSUgZl5hHnEGPH6K7n9M9Opx9Mphl8zSOoe4YyBufm50u46X_PCeeQe5goVg0hvyuph1MreImHqhVpR8gdyKKl7VizCZnhKZ6ng4DPvcTez1V6PlEpThvV1Emyqe8X47XUh4RjciLFHcdclxgxJY0-UfRM7lkxrT8qUgTJOFC5fVMI1fMyoUd_xEiwsI9rse-Q78eZ-4UrpbRtmm4mD95IYTjgXvq0tgVRZ4TjhV7Ep26DTG4HhLg0SigtRu3kY8wfEHIWvT7HEPsF7gK7uElP4Pr4X85Tk4ow19k3dYUxCfa3CuGzcjiHTw3sP4TlfSrPLwFGqtbGzbfW9mkei8UIMVXW66sKbsABVkQYGwGQi0tdWd576koDVUNKVCqyrVrGAYiDgoMjeM43fC6RiwCvG6g%26pg%3D25NNVYLFLJF7LPMWGLCOUS5FTE%26ch%3DAQEAEAABABQjuGSNMv2ibHrR0wME61kljMiNJC7KdsY.
+.netflix.com	TRUE	/	FALSE	1808762315	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+10%3A58%3A35+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f9c26c5-1e99-413c-a98d-c0b75dca4ddf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808762305	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSfoBRo6kbmDujvmevEdoF6_sr8wJjHjs.%26dt%3D1777226303485

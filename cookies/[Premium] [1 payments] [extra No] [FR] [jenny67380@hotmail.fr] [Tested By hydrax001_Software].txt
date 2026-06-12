@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hanini jy
+– Email: jenny67380@hotmail.fr
+– Country: FR
+– Plan: Premium
+– Member Since: Februari 2026
+– Next Billing: 2026-06-14
+– Payment: BYTEL_TV
+– Card: N/A
+– Phone: +33610092075
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hanini jy
+– User GUID: 6LZUHITF7ZDQRMXOWL4JW5MVBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787268385	nfvdid	BQFmAAEBEI-2tY_UI5uQYb5kpIIjSSZg22JHxEyBTRzXoVhaLLhNsZaqD374yUkYgVWMw60UE0AFd9fb5XhDKAwOONaG6OADbQu6nkJ6d692GtyfUWsTusc0poWp9eT4Hv1lvB4BPHWVc2C5TRG8K16bEvKWGuZO
+.netflix.com	TRUE	/	FALSE	1798927019	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+22%3A56%3A59+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86a7d027-4a36-4b4b-958c-f11cbae0643c&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BGES
+.netflix.com	TRUE	/	TRUE	1799103585	NetflixId	ct%3DBgjHlOvcAxLoA3hz_4qgwx41jiInhI3pG8LA-Y6WaFYKTGianhjWFn7z81DknqXAVwncqKIndDn7jrKBaeASAkYyCH78kUvrIAGObN9vQNYmbBMzlLK70MvUXgREd2x-5QB2uyVY7VocB3mdbn-ABRwU9_zIpHJsi5Snkzp_53Bcj7mEfhnpuzXq_0M1NKyLWX_9rrzDtdBL8HLi8a9SuibMpBv9ib3GUT1jeErXRUJGLXo-0sKYugMWIYj2eeqyh54wBnn0cB4J4xpYc5Ysd-Aigd1WM6PQ2A3W8iTNNSJVFIT8cw509mtoyxk1Bz9zQOJqR0fTYZTmhual9uk0WATFkdYL_ssh9BC01FOQIoQPpyqXhSBWM0gOOpY3js2Ee1mwfVTuiX0D8MAYGtmeX6F7S0FiAra637iNznUappun6hwmXapW3-cGFFMQXIBVJdu4vjaSb_M8eDuv7HF6fRl2-TgZcUUk-d1JPfxoa4Vet0rtSRVijlewkTr9G3humsVE6dmOdt082fhdxiL4Ogj9LUu-2WUgLUsExAjnnv72IwgfBr6TDZdrjb9uLljxUOd4hZrRm9m2ySIvrGGgvFiwU_I10tvKn2mViyLI2DiGdc95igkLUUXrKGxBrzMwWy0dDM2tjA8y1KoXHOQA_OWwGAYiDgoMI8Uz9QiqLGSedaTG%26ch%3DAQEAEAABABShIpI6Q2ZLTVBU1f-3G2Ywwug6pDbS8nI.%26v%3D3%26pg%3D6LZUHITF7ZDQRMXOWL4JW5MVBA
+.netflix.com	TRUE	/	TRUE	1799103585	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRj9qNgEINReoySNxF-Jt6yc4gZ0cnb660.%26dt%3D1767567585918

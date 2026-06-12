@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Skp99500
+– Email: Skp99500@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-16
+– Payment: UPI
+– Card: N/A
+– Phone: +918302500905
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Skp99500
+– User GUID: 5XFC54Z25ZG7HPWDAWONFD23TE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811589181	nfvdid	BQFmAAEBELOm8V-gIZ3IINs3DqcvOEtg6NZ2SPGy-bTTrQGZGSu-_iXi0sFqWApFLq_8or7uu5NFTbs3KAgV-9uBPBWauwDUmfxYY8D6V_YU2HrgQ0iOURvfDOv9Z3ecA1dE5djBn5gF_fVgDuhsiuGkrjvSBMcX
+.netflix.com	TRUE	/	TRUE	1811862745	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOnlovmuy6JVsPOoHN9I55sczqsOWrddU.%26dt%3D1780326744114
+.netflix.com	TRUE	/	TRUE	1811862745	NetflixId	ct%3DBgjHlOvcAxLqA5_AUzzceaJC6qzQZsJJ_58DqcN1EyhwCG479T1q6sc1Pph-3Mghhy59uSb0ECoO-ZrFahI6RSfgQSSAZeMld8kuc9W6hjCTG0bE3HcF2080L-w_mOBwpvMpd5eB_kBHgANwDz1nskXYEOZZ0H2E0y20n7Wbis54LKjsu7Z6glZcNley-hO4tasqnWZXAiRtxGQyve5k4lHfx5lplXutcoBtFdzHfRcpRPMcZ3YfrBRWagtkFrmmo-Yr6-rgQZ-UipYRxRGbrnNHwqWHEf91wu0r0z6j4-I8TNR2cHk7AdioLZD-bE1zOWFjmy5cPs1HoISIppYgsj6_cguzjaNP8C6iaiXELeXNH3R4Gr_vOKX54xUS_L2nDcrU7AtFS2Z5R6c25e0XuIVOH9QeCT1_bWxM8r5kqAlytHVlDVa_NMD2w0FhJ0SnEYmtfHN6nAPfwp7_JYP08jkFTuPLX9GKE9o_Vf6LMKaE0zvF6lw0C7zIucnN0sL6zTyUBg4wIiyf2aGuOHMtf7nUmcmePjAFtSQwIL2nvfXnoNpnSOfWq6xLg3Z0hkmjWA7zj75QLYejNnCK87dR3wiUtczTJuPgSh49FfoadFsTx0Ah8O-LkL0KJmpAPHSZjj1HbveRV3MKKJl5gahSBtQQoDwYBiIOCgzZRG5xEq6f8Q-MEcw.%26ch%3DAQEAEAABABQqUlIudz07nZNfprwdac3S2AJdw6yfYvc.%26v%3D3%26pg%3D5XFC54Z25ZG7HPWDAWONFD23TE
+.netflix.com	TRUE	/	FALSE	1811862922	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+20%3A45%3A22+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=89bedcc8-8cf9-4f36-8eea-73ce362162da&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780053181832&AwaitingReconsent=false

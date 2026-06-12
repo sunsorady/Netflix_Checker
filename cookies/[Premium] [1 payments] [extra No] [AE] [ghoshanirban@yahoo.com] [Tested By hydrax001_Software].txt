@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yemydrugdilla
+– Email: ghoshanirban@yahoo.com
+– Country: AE
+– Plan: Premium
+– Member Since: July 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0293
+– Phone: +971504378040
+– Quality: UHD
+– Streams: 4
+– Price: AED 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yemydrugdilla
+– User GUID: LAI5EU7LIREXNF3674EYVRVXME
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783623096	NetflixId	ct%3DBgjHlOvcAxKiA1LSaWzsa0c-2h0q_qSuxolJJkN1dP980GNwKByvFsxIubs56LMuRvlMjBvwXr6S4DFc945pfg1BZ6rZnjKzeLI2b0gLh6uZyQzqCv_2v9lId3qZZl2pDpLsYAv2JeXTSBNmxPRYxM3b-11cS0Y-mnwnhJh2BwWnqdIyWh-2YUjBj6ukArXL2vN46ktusf7Vx03n79zqO7cjtGw2dJWdvXoKWW0H8XoRtlAylqAQ3Uqb-RN0vyVYi3RdcQIIjkhNtiSLKDGbWyQqfBpuicsQgJWltxi9D0ZFqxNJGwb2nqG3JbYipB2-AalZM6S1iUv_2Ok1pMsfgoszZRfFZvV4XLTu1ZxQktqnSMkVOI9w8_ezWfvBzyz4YRc-E2Que8IXe5D2PbeuV89KPiqqzYGVZtyTGEb_Rl4DCgBCIpgyspTJLIz93-eKD3XMovgnVMPf-tc1_6GyonocYiGFus0_8zDm0LbpHZ3NSeL03nwGDVdYEsY0Ti4cxF-c8NHv4696a9nsBPN9Pa1KykfAHy3dtREja9bTuGEKWJVhSDMxhlCuU4QYBiIOCgxRGXYHM6GwlO_rOjM.%26ch%3DAQEAEAABABQqk_8G7rtPOhaoO4beKOsjv7dy0_3Ezm0.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783623096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLDZZ-xScsnUQx2E5eMCXz2lVIHi8x-Dw.%26dt%3D1744363205669
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEH9UkhdhBB5f6stBJj1J6Jxg7ct67ipR_RMlk2oPlYezNHptYPXim-4s2qhW0OJheE42f-SiUH0JpZfIuU045zz3eBZ3NlAG-kV75wFdxZdZIu6Eoj1EvhfQsajSzZ7toFOujQjbef0cVEQrqXwT-K0Q
+.netflix.com	TRUE	/	FALSE	1783623096	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+11+2025+13%3A20%3A09+GMT%2B0400+(Gulf+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d10dcd8-f7eb-4957-984b-f76e18c568e7&interactionCount=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isAnonUser=1

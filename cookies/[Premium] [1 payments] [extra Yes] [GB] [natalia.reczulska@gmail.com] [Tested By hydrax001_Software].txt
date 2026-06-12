@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dumb Dumb
+– Email: natalia.reczulska@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: noviembre de 2017
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 1549
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 18,99 GBP
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jazmín
+– User GUID: M3K6ZN5D5RHGPLZJKQ4S24QU74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783056508	NetflixId	ct%3DBgjHlOvcAxLjA3zFWwfrmazNnngtdhxVAp2HGSQix8VZGDtm3XodPRghGoayndf_gYCIb1q5HsHZkFjE_D1xkcO3Bx4kxzfXahedIrrAuW4LMxkysqwzEiJXw9SgeKy8okzNO0hnfqSdTj3RqWmffq6ddCanyaZ3T7GXH3621xr-cxi_mHmPHNSxSbT70au1ZJRE3SBuNjq2_xkD6xBV6iIgdPy3YPkDirB1j4h0ipflGyULpZKyji9UMVTQ7mW8OWYJzEoZBtiV8xzbri2zwaucdB_l0xQGbP_ejgGBQWrCaI2UOcDoRcUZBHjhdRCHG2yTyEFDP9Tm1UOTVBdPWxqsJyDktXSG9NeRSm17wqaJBAKGv4lQBOsASxaal4GS1E5KWaiXUtkxhgqiu9MNaHixam1TqF7VMnMmtpUonlgWIzHZmknlfH8O-3rheUcxiy5OiKuNGqws7Qo_COTffBgne7W3hRYSZpRp2iZM0QX0Ejc8VYzmggwCfXfDdlJEREdhRwMbLudsElxXsQu53TN5H86HVjU-HcgHcI_rPCxeZ5tawzLD8YoshGdg0G0VwFJ3PBT3PrSl923i3dTAt9yPZC0UUpcuX2mt5SSnlTIPsh97pfZryiwBF2gGidzDYJ7FY6rwRKB4guJPFRgGIg4KDJxhc4jnkg6dVOolzA..%26ch%3DAQEAEAABABRInvxfCp_zhTPMiMC1zzJ-KyKBZoSHtRM.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783056508	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+05+2024+18%3A32%3A13+GMT%2B0100+(British+Summer+Time)&version=202407.2.0&isIABGlobal=false&hosts=&consentId=c66ad485-8905-422e-b88a-3e130747f33d&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=3&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1783056508	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSu_8qJ7VupvGPZZHOof8pSqLiVkq55a7g.%26dt%3D1725557534095

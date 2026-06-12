@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dallas
+– Email: kellordallas214@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: July 2025
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 8319
+– Phone: +12243212699
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dallas
+– User GUID: P25BWAQN7JCM3CMUOHYNQZ3TEA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802189684	nfvdid	BQFmAAEBEGFGppkRFyIY9rqyuku3Zmtg6RhPb32NlHwXI7yksvZgTn4kJ9t73m0n3xR4WPAFC1DsimFh1jr4vpPpVxWTCsLEwaKQPS7zqb44mtwfeG6_hYW_QM66EwkOZUqETO8pbhmL6N4hkX3dGbSVCTqjw6xx
+.netflix.com	TRUE	/	TRUE	1806591251	NetflixId	ct%3DBgjHlOvcAxKNBJl_gOrmFwjVDd66nJex9yTPgh1jS4t6vKYUoWRnsCBR_AP-Oknh3GV3z0nikDmDV67zS27La-cWhHhbdob2vag1Zh6k7A-ZeH66JmTyOINNVoE4fEPP1PDVJGp8eZozqfHVhMIO1WBEiY9mefkfWskAJ4EQs8hl5ADAJ2UbBCBvzx1_mW-774UCwEMf6lh99uT6p4NU6DSvvwQteKKuIIwS8wDFJ1JYCIktPUPaylR2ZmxJeOnRizejm7ssQE3x5kVch9NjzHFsS2EgSJ10yBrkuds3tzGbHpg0n_sTYy6E9CTQl2pqEzKUSR5_1aTYntpt144kZ5zhwwBfrbT6fRPXtMLBFhya0SbWpnH_HT4bxKZhTSk68NawU6s2kAauvtDMwU5jJ-P4egleuadm7EP6XbG8DmGAM1Cws9PlU2bcS26uSkEEbipkiycUFkfVcuPC91kvlFVPoM-xrR1u0pUT94CHoTJDXrmPgggHQ9-rLhpeWYd15IkmBhvRQUEp-NPXnqJ9QrsIOJPYPyj9rcp1FKXtDAQCSy2bMgvUloj0duVvOj_0A8KtJxOa5iz29Ao9SP5Yg6533CIeEhgSJBmG9kgt6GaBqYrSNv7rW624v5h25eT30ntnh8VZJfvUHhJjv9O5em7FYNGQTD34Ygj9CFYthEmzZ8RQ1ufPKdnt8IWsU4Y2f8REvgZAPxgGIg4KDBs1hlXXFF5Ymcj6qg..%26ch%3DAQEAEAABABRfQUZ5dNDF5UwMIoSBSvv0BxhjrHCnBLg.%26v%3D3%26pg%3DP25BWAQN7JCM3CMUOHYNQZ3TEA
+.netflix.com	TRUE	/	FALSE	1806591255	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+09%3A54%3A15+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae056f5c-da6a-4ef1-9e5f-136852cfeb37&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770653637932&AwaitingReconsent=false&prevHadToken=0

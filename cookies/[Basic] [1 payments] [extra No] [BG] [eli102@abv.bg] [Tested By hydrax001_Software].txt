@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: eli
+– Email: eli102@abv.bg
+– Country: BG
+– Plan: Basic
+– Member Since: December 2021
+– Next Billing: N/A
+– Payment: A1_BULGARIA_BILLED
+– Card: 6692
+– Phone: +359879424304
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: eli
+– User GUID: 3ORL2MDUUNGIPCCMGBCMJ552AU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEJwj6gLQKiP-OWodXUn4EP1gdOS6pPCK9S2qe94XMtNpR7P5oqOcJ1TySxGjwWvy2HXSK0z89t0Vhi19083I2z1Kjw33XOWCvgmuEgZWZSCXO8qvQCybMqKdLv7yzeszy5RBwDSJyPVSYeBY-LUr4LiA
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxKaA1K6C6gvx6qptcXK-9JMNLQR-bSFakM8yFTalyWD45PClxxFMFRgt6vfaICv7sVyVtLmROaSYszHkaR-_Wz9tR5cdWHuhD4XAA8N8PzIMGZmJ9xX-XByx9EPiZp4zh_EQHWW6QQivL8e9VezHlaWZ3yWpk8PxbbufnPgLIErdPOklRdz7kL2BzGNTARE9jA0t5gUPRfi8v2dlTYbhdbvqJjUMo9uv6y6OQbgepNXrO_r2KuwWZwHmkr0ewhqXRPxM_JK4AUniYOm_6FJhiax8J1WbyY4JVwIHOdpgKCmeO2XvW9mv9mrfLldKYK8QV5vWg6ZhppO6zCuObEDQVznNDnx_fwTx5dY9ayQ7hmw9qPV3_gOrAKv680YGGQvHMpbCyAALxXxrkNiMxFtAzsq4bp3Gf4QGslQ1v9osFDKi_VTXbEwLbyNU4AIC_tql5It3Bg88zshbWmAgcOOnl5z8cQ1Fi93B9SCM8V2sCdp3sLH7Vsyqt6r8HkJ4CoWm4yGQuFRT8gvhpYDzntl9Mz-I1xQY9sucPWmxRaHGAYiDgoMtYLoT9Fy8sq4i_1p%26ch%3DAQEAEAABABR_82QVbkxH6K2o3ZU9t4gYaFTUeoUZNDc.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+12+2025+09%3A01%3A37+GMT%2B0200+(Eastern+European+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=785a36db-9f7b-4ac4-bbf1-678ac2a290a4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=BG%3B16
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyVjhpo7hpOEpTQGKvCVBbOUW5l6bBuFg.%26dt%3D1741762897047

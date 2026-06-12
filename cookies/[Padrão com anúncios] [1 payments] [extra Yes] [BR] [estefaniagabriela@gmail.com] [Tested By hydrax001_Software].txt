@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cauã
+– Email: estefaniagabriela@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: outubro de 2024
+– Next Billing: 2026-07-02
+– Payment: DC
+– Card: 4494
+– Phone: +5581983650854
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Estefânia
+– User GUID: XDNHMJETRFHA3OXCFEQZ6YCZYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809924876	nfvdid	BQFmAAEBEIAvvX0zkAhByidckdwvkipg_0hgsMuunQEzOaXSeVqeMJ21Qf_WhYqOu7VoPOd1I08EmwpbSf4nu0-IHHCeb4JKzaXsfOjVMTrP144PZxuqkkp7Xp2W76fjIfUliujjzc4ZOl52CCYD3ZOVA8yqUUUl
+.netflix.com	TRUE	/	TRUE	1810443745	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA5-m7gSNmXiwSgGPf-IHGZhHCwpLmQpHvsWES_VTbOLituX5x7E43m7DpX4k_irAKfH9f95eJ7_IOBiT3ztL6PyHcnXZ3LrZC9_3HFqkQqvmPV1nschV_WJqSnhUB6g8O3tiRn3yXWElec0XrDER8VygEQ2DAK0NKF24dNCjmZwdQiKpDytCDgSn-8IKd4cHBOrhcBg7zUD-97bkHDL-q4y7rAPn-nEX72glCGzVQdLhcvB99V2IQSXm37AQ_Ix2Uy5TMyIj6sRq54HkBdgE_oYzSbLeHN1keS4wfQzRFz2sIu6dxDzHe-0IzZJnfcLp8qwHHmohC8xI_IPGYx8qUef9WgORtlxP7HhNdHVST-tCQHJULP--o10NQ9E-cQn0XuXiNEy-CURqRoVJ02hgoyrA9HMkNphnEj1cDO_mub0sl1SDLt3eTGwxt_7l2XXTbWrol5r95ZQjDrS2yFYDZ3bi52LqBjybvrzpIYrw96KOT7yjmTdXtrJ0dInlGe7EI-ckFX8MAdo9rEqVFlpE_qK_HH-SQNjWlGAYBiIOCgyC1RSy0dJW6XMSH7A.%26pg%3DXDNHMJETRFHA3OXCFEQZ6YCZYU%26ch%3DAQEAEAABABSPGOAuERc_C1grJHR2J5341k5QRPkki5g.
+.netflix.com	TRUE	/	FALSE	1810443746	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+02%3A02%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d997555c-1da9-41d7-ae41-c201d50dcdaa&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778388813375&geolocation=BR%3BCE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810443745	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjJVbrPfZR1fJVcODi2RJ1pyBCMnkOXLA.%26dt%3D1778907746729

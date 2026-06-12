@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raïssa
+– Email: raissasoumahoro03@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: janvier 2023
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 7160
+– Phone: +33621710589
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Raïssa
+– User GUID: ZKPQ26AR3JAPDISH3OAU3J4S24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792882310	nfvdid	BQFmAAEBENIldPH31I6v0zeMzmzdiV1gJKOZ4WOtUvBAhjCKIuaiOATPX-Lb-K9-ZcY5FFGRcR1XKsLKnx-tsI5Ht5LnihmnuA8Ocvs7b3afW-FBIABPNwgkEPNQ1uz5DnjPgShGzU131IFIEnb4VcpVt7qhtMOD
+.netflix.com	TRUE	/	TRUE	1793020795	NetflixId	ct%3DBgjHlOvcAxK9A6-S6UFeYB3cYVvf5s9IqNskd7gAT4uEpMJNSbI6dVw1Y55tu3DR6OvSQvh3pJUjDRVyPAcTC8NRqo1zZbrR5v1BbjE0HmRB_G-gPvdn5gubFkiVzUO_iIxiVl_tCca9M1naW7immWapYJescgRq0r_Z7_f6TUbKedaxdwGhqJ3Y6B_FZhoEu78X_Ak4LpdOJSv3D71rH6SISAXGk2SqEfgzEUp6zjiXMCf0yacMdI9VD43I5PowEWYl7DpBJeN8dLEmAzF3lzOd4KOpObe3buyscWK7oNg2WkTqXIQ2Wu49ekhZ-ze107Vud9tWyTICi5ZCGhi7igXyvsNPcbGZivfFv3dFVKJ5ZlL46k1LZYG0Wm_PLc8zVoEFS2RJWbGlxZ2daYPhIAFDXtGjbopsc3ePeQGlgluM_tFHI2ZHM3qaYns48xfNK3YgeeESa4VxiD0VSlBKpEJ4oEK4O635nTdcPrdO4ianycvTXJIFMUEjk7p_TKuv-6l9N_fYG8jrereovq95Lqf7uthSUjmi9U5i2ptoqmPYHlZUxdqX-lDrcz-vrsauM3I_LC6aHnmmyE2PXEdVP_s-S10A9NUYBiIOCgyxXtP-iiZWaQlh9No.%26ch%3DAQEAEAABABSlEFTf79m6Mo-18kE2H_a42kOY-g83PW4.%26v%3D3%26pg%3DZKPQ26AR3JAPDISH3OAU3J4S24
+.netflix.com	TRUE	/	FALSE	1793020800	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+26+2025+14%3A20%3A00+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aafa2c09-a525-41eb-8596-5b8fcdcf7b3e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1793020795	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSauL49xNq3rVbAAtnammmcrCabYOFzAao.%26dt%3D1761484795858

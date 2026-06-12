@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 23
+– Email: mfarrel2303@gmail.com
+– Country: ID
+– Plan: Basic
+– Member Since: September 2024
+– Next Billing: 2026-07-07
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +62895330007236
+– Quality: HD720p
+– Streams: 1
+– Price: IDR 65,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 23
+– User GUID: DIWCFVAUCBBIHGZJEUJA3VJW3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780974645	nfvdid	BQFmAAEBEOLmRN_lWSV4M6J0wh6DutNgvEGJI5lrUu7iduWWEUGOH105dL-TZwQ0fYIY19-ynJE3U-B3XendnaghkIZQVYaF_Iv7OG8VXPCcmhBak6URD0-IL3--Oabg6PWfgVX9tXvbu7prIjU-60_fxtt-GaUv
+.netflix.com	TRUE	/	TRUE	1810034184	NetflixId	ct%3DBgjHlOvcAxL3A_M_UO4S6OM6xutwIjWWxkO8ypVdftUfVMnuaun4f4w5qxW-tZEi6R79mapcotOnBDNw42ZPYsxDRVebN-O4Ru2ArLpfPjXiIvuV1ZM1zMZCx0b9w22xNieB9Yq3rrf6UxQ-ymirc0HQCnnX5-QASkKD4PhAnWvAJ6nXjJ7BKArofbHpkigmZTSh2wl09SgejUkzTg8ShvEIPyQh6PhqM_wPaxzxetHDRFclsRBkY0QmrCDJw-LWLqEGDm1ZEGjxBSbp0I1WiJOgwz1JwAEXE6C_Dwva2VUlQ243NlTI2Z5JJqp6JbkrmWtf7Aunwc5LQQZ4Qr4gE1lqWM9OwzSJEl2fyulxBTNoYzofsONXIkY6VPgilBmJFK3rv79Q2_T8oqHWfNInQbyoZYd6ZUIpYC5iYt6Qwdx409IFmZ8qmW7kXRdLD3x0N0i7PuByVO-ftJ2RuCxB_IJ0k5EcW2fQj5Xn7_00d1To7L3zigu9FGJPT7KCCSK3F9PFg1OmhjV0xncROxcqmXGewvk2M_HlyXocgvTwIm4nHMD2Fe8s7eBheLrxEQzbtVF3n_OshtENbTkW46v5HMtlh5aRuLl1i6OpeVKpVFzX9S28QqHAzU0nTCiouqaMUEXmjyOAzGSYnuSA5qpyfSM66FNTHhT3IPE4y5_OmalMGAYiDgoMeV-5LW4Z8gHSbwlO%26ch%3DAQEAEAABABSZL-Bqd_sMx5znjc90o8B3mptcXxnm7Do.%26v%3D3%26pg%3DDIWCFVAUCBBIHGZJEUJA3VJW3I
+.netflix.com	TRUE	/	TRUE	1810034184	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSwdYkoLLxFDoUi_xNFKEeKiwEmmxnUi9g.%26dt%3D1778498184343
+.netflix.com	TRUE	/	FALSE	1810034186	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+18%3A16%3A26+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2ff048a2-8a42-4b5d-ace4-df9ba007f3f1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

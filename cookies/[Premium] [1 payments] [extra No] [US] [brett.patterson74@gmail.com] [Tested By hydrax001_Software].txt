@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Isabella
+– Email: brett.patterson74@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: December 2017
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 2707
+– Phone: +13044826210
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ewok
+– User GUID: IBH25ZTU4JGNNLQ7DN6NZ7O24M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805744932	nfvdid	BQFmAAEBEBxvckbiwEQtotAJUuZL2sZgmr7zk8bUgL2pejoqap6MzxqHVY-Zoxp-BonApv6kfetF-63oQGw-RDtL_5ejWQM8wKuFv2JLVSDkRBOt9mqfu_lvlXvbEuO8t26nx9VHm3dkUb0CFF1X2_PAT8HnifMv
+.netflix.com	TRUE	/	TRUE	1808333407	NetflixId	ct%3DBgjHlOvcAxKEBJIh59RA_HuqhCiUiC68rVRo6MjNy5tvrK-MuPZjP9C7pmqq_Q_A_C_4imT2BuyFDHC8Z5PGfVa9BnllDFUwRk8AW1mqb98jSlt8mVxFJ8-zLGFO6wFBtzHQP3nNdpT0ZAhgTdAgmViMTruXPO1DgPxMhSvdqXXNeOfq7X0DweqjrKNnV5FoQUhJh1IGqdOkkTT2zU4Sys5b0lkDiEhPHCLnm1frk7ue5off1uhlCToV5KCV91nsI6T6BgSbVwxQ_XBIq3RQdArLcslTvgh_F36FuW4lgIc04rlcMEJfiO0xWzQJw7fl2tuqW4QpNtBHX78ZiaKnq9bs4xoHcZB7ySNcuP1loqrqQjw3GYGHaMThOJWquRyEaZjkBc8V4jHiTr7UXqL-hxcws8QNEwp3YleNM1bdCx7X3pVJhwZJUEoAZSpXPERDQ_kwF8QS9qzitXMphYvNIvccv1o8vMzlRqiEkyrwxIQo27iDX1kFID22knHoiFlOeKaRxRyFciGNit59U4WH2a156Uf8WBCZ9a5swqWnzAL8ql9-ErlWkaDQn-vayuGaERVjMrJXFH_hCHQDOegndZzrw_OFqXQiBgCXMOF1KNbAJslwZxP61txiTLbgoUL9M0r2kDchV5q3YZuB_IK3RXSp6Ac4uK1zdTHhRUG0O7sABzVu-awN1Qn1GhaCABgGIg4KDB21gmTbWtwfNfdZ_A..%26ch%3DAQEAEAABABSKcCbAxWk3yE0kYyuq_FGMaJPDKU_J9C4.%26v%3D3%26pg%3DIBH25ZTU4JGNNLQ7DN6NZ7O24M
+.netflix.com	TRUE	/	FALSE	1808333409	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+14%3A50%3A09+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=acfefbbe-a069-4d03-a8b0-b795217ed6f1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774197258010&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808333407	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSuDscG1JpfMRFnsP4DtwhosiCtLD93J5M.%26dt%3D1776797407816

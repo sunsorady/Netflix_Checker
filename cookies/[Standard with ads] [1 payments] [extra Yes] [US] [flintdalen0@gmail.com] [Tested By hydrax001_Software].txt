@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dalen
+– Email: flintdalen0@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: January 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 3603
+– Phone: +18542821843
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dalen
+– User GUID: TNCA4G7HRZE6XM3JQRYLDJDLJM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783357153	nfvdid	BQFmAAEBELF99JkgYuOz3JTq29EHSOBgKcuGhJ3w1tgtLh_utkZ3RTkgIH4TlnpNW2AxEr_LMtGt4jL1sZylRxt1coVkTAtouJdOET0w-E8_NGoc9kx3HKUX1ikahoxBcgcRadSPh2XP3vlgf1CpXC6zRBhaj0Gz
+.netflix.com	TRUE	/	FALSE	1783357153	NetflixId	ct%3DBgjHlOvcAxLvA6-7vJX0MrqIUNUBfrx-Y4_Y68chbo-OIfpJeDAlpIPMXar3gQjhzdnDBJC7eq5JBxV7KF2Nh0spuP9KzkbKw4VeP6tksaxdBmIzNQyCePjNLSHwl5xUaA7UltYJ6hx3MXbm5fWl82PwmH58qdS2gc8Gj7srK2jID-xsLWNkZlnW3RJSlIM-cT_8TBB_WOz0GHzChC08m77BsfMSxT9-B844JatZ589oh5N6i3dZSD37SWKnN605cZwE7_J9bLfwpM9WKxKkw5PTFcx6gS4pkbhKHzwHLxNx99H-P62Oizac2jlLInr-4nqPGwT14eWUPL4hDhn3PpOqHi4ObKQ7CnT4CIypEczeyqXau0w1-043cryiLsGJqS7-4NNPqwwt-9beZUB2B2Z9yMaFaz-5Fu5g97FTm2sGrd_hFPc3sSQZG2AN5_Rb2PmeSajlAwEsMV890ORhWU-u6m2PGs3FPzSSjbAc6xfq6my7GVe2YGqHAM4aA4wK5XTS4tdk6G4rVx4SctDoRHg3RinmioE4VQdw9iobMM40EEQxKkZpIipisKHEU4LE40v_BDe4EexT1ohkzvuNWxgOkB1RcIgElobPnMRygurIT8_6wflHwUOrAgHwb3BfH1yqwjTO96qZisr2EKd_dCC_5BNwHFhiDxgGIg4KDNocqGlRHBaSVexyeg..%26ch%3DAQEAEAABABS_eys9fyruSInVx3fYpOFJ_UGAkdMAAR8.%26v%3D3%26pg%3DTNCA4G7HRZE6XM3JQRYLDJDLJM
+.netflix.com	TRUE	/	FALSE	1783357153	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+22%3A25%3A30+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2089ee38-f339-455f-bdf5-9882b923f681&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

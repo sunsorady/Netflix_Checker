@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alessandro
+– Email: marghe.f.scuola@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: gennaio 2018
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 6673
+– Phone: +393498599380
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: alba
+– User GUID: WP7UH22GWFAGJCXBXUUDPFABRA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEON7IcI_wYoDK9wbSonLMO9gOqRv5y7xTcMF_7HpEa5Hld67KPybhKvLLVKn8HdPjh4FO1KdPniNOSbpHoUEh99-V0InEEndUqt26mS1yZylIfJFe-WdBTwhYszudIfNEFj7Og4kB4NdbM3UF94YiL7e
+.netflix.com	TRUE	/	TRUE	1801239141	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA_TDF9JQWD4hOo9vSPcJaCXwv-YMM4PgTzKsBbGnSHsl1srGEo8i4FcjmiMiL1IjaWkbXEuqCu_OJ6mnDanzVMsM_Zck3pY4_QJR9EcVVdiyDmOM-jaZGhCTs4b-Z5hHgTk0Iw-WJRkZ-l5RKNuIyHNeLpAqqgCxpx0kUrX_wGH6td2OHmovEpL9wFfTim1zkKkjinhLMsY77Nz1XrBBIuTI4l-LoZf4eFjffqrrOK1qfHNVz_QBiXjnozPoJRWxVtYwJK2Ckxxq4-7WwmDLGw_mLg8_yIzCavYC8pKtc99G7SjDRuzrsFcM4NkxxgKD1ALjoZFV9eIiNxEoO-wZvpXslObukQzpvqkFYIpn9FGoj71AqNKgxRPMk2oqJYVG5D5k7jgU6y33rF9nRxs_2DdxE7ZUMP50HTWiXHU1PeTCPcUPP2Wo92xFT9ByaAiAF3HB33sd18I28D3a_jEZUbq-5CM39rbllDNRgXyM7ds6C4wdwy5GktfKxibwiJrvE4qEXxgGIg4KDJWhRad2W1P9lS0w5g..%26pg%3DWP7UH22GWFAGJCXBXUUDPFABRA%26ch%3DAQEAEAABABQZd19xyBy5YvrahAyQ_ilTGvrJgvMYXH4.
+.netflix.com	TRUE	/	FALSE	1801239144	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+17%3A12%3A24+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bed9dfea-3007-46ec-abd6-31103f612b20&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B62
+.netflix.com	TRUE	/	TRUE	1801239141	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThRoo0gMNn5yLHwTMg_eFqH-evRKcmqh0.%26dt%3D1769703141838

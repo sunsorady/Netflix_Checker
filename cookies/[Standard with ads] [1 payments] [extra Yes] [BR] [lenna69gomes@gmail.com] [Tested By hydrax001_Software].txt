@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lena
+– Email: lenna69gomes@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: July 2025
+– Next Billing: 2026-07-01
+– Payment: DC
+– Card: 8033
+– Phone: +5551991796585
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lena
+– User GUID: BU2QTPLDSFG6TMJ4OBOUVAN4OA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810092729	nfvdid	BQFmAAEBEHSBPN8lX-eSt3PoP7jVI19gmikIKV7CqZ5wypxuPIp7uU8lpFOrAoFQZ4axS5y3abriEbPc1S30lhNNIlq5DHsak4GLmjolGOYA2vzAw81KHHhBr5iYK5kCB1kL9A74shW7oPp0GnJR-Ew0FGVBRVnI
+.netflix.com	TRUE	/	FALSE	1810860119	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+21%3A41%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=90ab8549-71c8-4b4b-8beb-f5aa6aebd6e8&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778556658265&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810904028	NetflixId	ct%3DBgjHlOvcAxKpA3z4LZmoC6Y5rBg9fqo1ibwRSFTi1jgVyvLuKGWHthgwBMknqVSlUh4q43XFojc6_xYvrhDaRprGOXnMxbmJTwgnAhxB1b1sDD1MrPaNY6NP4K5AiLh8l-Lal_VEWmdjVYfQ-1fD6mpdg1yYaLKeJaXRh12cHWkSrHtAtCL6Wod6XCssJJnw1_iuFThHlXTQ8B_JDSqp_1OtvELkyiWzDCc2dr2MxlF_J642cXaSpEoqXS9Fw1kfAfVeNdDGUgH_YzXkO9KJNhgabLu-tBFH5DN0TtVmlJFA84bD4-SYHs8HU0poNABSGfFRYguL-FtlDeDDm6Prsyx9OzQcrFP7hfGpkqDI2IQxOa2eToQGDvXPg-W_jxjdnleX9pAxDFY7ftQr4fjpBw5qvcWT2c_oUwNfCj1OfHtmdiEq5vgaTQELg_lFQ0TeUZljbtbZqPZcG2jupelscyJKh9ujRZI5RN975XbZxnmqtOyt4v-eeJVAAcd_KiEm-dplrdwbxeJHxuZoVLjPYOv7xrgIGX_VRa4VV30xhvaGaDqMNXS9RfshK_xkraSyosdCGAYiDgoMSMwDDTmrOF5fr3o9%26ch%3DAQEAEAABABR9ou181NUSRC7vnUE3Lv-Lu9OvhnGyzDg.%26v%3D3%26pg%3DBU2QTPLDSFG6TMJ4OBOUVAN4OA

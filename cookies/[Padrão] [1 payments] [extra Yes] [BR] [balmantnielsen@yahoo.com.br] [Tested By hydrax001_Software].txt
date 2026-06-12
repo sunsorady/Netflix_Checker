@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bolsonaro
+– Email: balmantnielsen@yahoo.com.br
+– Country: BR
+– Plan: Padrão
+– Member Since: abril de 2024
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 5214
+– Phone: +5527999321174
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bolsonaro
+– User GUID: 2HX3JZ5U7JHU3EWGEGJH27RVG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEM05gyjxsMoCcQ7nMUmUi39gAJ2QJG8S-3EyfVI_8R1PvA8HN29dKac7cVrlF00uc6BbDHZ4VpRjV0FWgRjzRDGa2XvjmY56CI1GUkmRmMcul2BbTB1B3NGh8o6z1fmTl_2JyzcgY1kAkdxUvKbg3q7l
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	ct%3DBgjHlOvcAxLuAz_gKftkesdYETw4UxoMVX-Xj11Yge-gkY4NW-dxjNZVKsgtAvn6ofadfENopaypPYYpnIIO2KbdHtQQDXp5uHPZoHSpM4oj_HHCxhqPYY0J7Cu2PSEktyaN5PgUdabZ3LgveuWEVD1mj3Yzcoq6PjqxMPxyC4Fg03Rec1jrm_En8ZJJwm-X6kVOFp-Czm0li26km_aNoATD6EU82VfTBuESspFJIcn8qCDlg-irpbR08Qo3u8rDezhdtPCiaQRUJuHzuGZikBSG8sg8SVLcPEcgg82Z8bg66zcEgOZ4roQgC6efLtMggNPyoIuNypde3XcIyVuwQ66gRBbHfGAQlQjCqs_fKhXU_pPmBkiWTjsKbUYhu-wVTl_Qs92sKesB5dnCLlcasGuahAjjvQNAlidkm78GNV3O1Id5Jb3TfdDowWejvP_MUpKGhelBbjDHPpy3oMiESzRBH7VX8LWVBw1FV6hgvaD6VojdtvxwIy_q8Fb0K_IgxmzJgY1SzMWUUqW35BQtyhVJS-X0VrsLamGJVICFvEZDzAdtSVf0Lcnb57SR8i3ucd5S5E3rAIf4m2jjOuFOlDw-1mXUpT3_d30z-u7JHqfuJCZCCFMM_bBRhcJ2HdU3kF1z2G_SKLKfvvL4LEacIHRAdNtmsTaiGAYiDgoMcTj06E5rGPtmzJgv%26ch%3DAQEAEAABABTSZ8xPSilgoxTxXG48IIzz6Q56wAQd3X8.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTlH16NwjueGF-jjcb9rrR80QZtI0Su5fE.%26dt%3D1745699546411

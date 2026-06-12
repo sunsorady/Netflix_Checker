@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Monke
+– Email: oferlove@gmail.com
+– Country: IL
+– Plan: Premium
+– Member Since: October 2020
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 0699
+– Phone: +972547780703
+– Quality: UHD
+– Streams: 4
+– Price: ₪69.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: עופר
+– User GUID: 3EOJFIN3KNEYVMBE4YSUXIEPXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788677225	nfvdid	BQFmAAEBEDjfigmpoxGBWHmGBo_OvNxg8WpdnJGzIeIEtAmIgm6tKBJbNeCY1BIqHCzY9n3o58dBiuCp-uAyZ1Z17LQuzRjoyvIwzKo_xsisiNbQkjlJxvybDsXq1A4NC_6Mdhh71e4Rk54KtzePB1Z7Vd-xvGD9
+.netflix.com	TRUE	/	FALSE	1802816602	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+17+2026+00%3A23%3A22+GMT%2B0200+(Israel+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44b61cf4-a9f6-4a5d-b884-3efa9a5afba6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803163428	NetflixId	ct%3DBgjHlOvcAxLmA1Uh4jvifIq7XTCKb7ohgBFUduvKYny-ogLTStX2wc41KI5ZQGZ2PWjd0xZYiIvrxQ5eD0ya59vMEYgftrVC6307Eg9sNCogdVQL7BScy7yVqrWp9RHUw5iO_ZHKUHOi6fjpIII5igOcOcVlEHAR2yNy9j1IwMfFDXB7L0EC51mpsm9lvseuesuGS6yT03pcAp6zZxmzSBvM0SP0UiffoHr4Pve7_DHYS2OUIP1anzU1Oa3CVKImPG7td8EqyqoLkA7h1Q1bYFCG-VXR7VfHAFKm1xxSDX9YUCwkA-hUfLoTy1TINhoecjwJpq9Pj4lBqVzcp4s0GJ5DBkL89wSpjPEDO6uHiFEeXMne5zrPzMNV3prhfQpyYInrcltwbP8krJYzkrGG1_q689mzerFoPyoFcThqIWT-JIxgQ0fFzG8QqdGQH2a9F9MkHlNdN7rgqhMZO9rLZNyZzahQxCCg3Eso2NhCEiHfnr6iJIka6vd9p3EBLHvj6HWDMkWNV1XcoW4nbmPfQSWjylbNvW5UeoMdGIQQn19c7eX3utaOdCfT1-CpKdOKuGgJSAUeu0wztMYWWZc43I80mHdXU2-Q1QUDyDFUK9EAVa_QKPvXHDFOvd-tOA7yJb2da0Lkzfa45kL80TfPPBgGIg4KDMIc3XZWEMRx6UXkNQ..%26ch%3DAQEAEAABABT6L5FNDiaJBpgHaF4OLahyzbSGonQUidM.%26v%3D3%26pg%3D3EOJFIN3KNEYVMBE4YSUXIEPXE
+.netflix.com	TRUE	/	TRUE	1803163428	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRc407AntSsq_TBhUmcFZ7Oon_sxTkAzUo.%26dt%3D1771627421531

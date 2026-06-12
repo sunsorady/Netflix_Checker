@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Atlas
+– Email: lcice3@gmail.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: junio de 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 8476
+– Phone: +19104672525
+– Quality: HD
+– Streams: 2
+– Price: USD 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leo
+– User GUID: MUVFLPM6MZCBZGT7BIBPMEHYMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791405023	nfvdid	BQFmAAEBEO1zdf1_iWc4k-yq3vZmOsBgJop6KOkMpinRC_hlZ5MD_CsO9jtNKoC7cQISzX2ezwZBst4wGJGMf7tAgK0i7sKESKh4Gwd6g_RZXs_ByAplkP_TvKw1cKcZsC3-TUzSA0eshLHAwyzYCT7UxjIKByGq
+.netflix.com	TRUE	/	TRUE	1798243975	NetflixId	ct%3DBgjHlOvcAxLiA_-7nvSzC_tl8v_aBtZ8vwJELb8--_qV86zBKvu9e4MSK94JHaNCt86cay9xDsIL_VsX3L_lL20fl6zQtIl0DvIgQtUBp76iMeqsOETNGJEc5QJITcKTLMygl0TDdjOHI5Mn3uHvVpY2pFJ098FHEs3Mt2_AV_GhcIr4qkeRDU_3I8aH78ioircmJzjFs_yqmKqgO2NQEkpXRyliYuCci0ySw6tScil8-3XFZSJ3pojVd7u3iUPPIFFFTT2bjdMbl63iGmKoUZrzwpd4gxN6T_AufoTUneZw2uchvsuWkyoEM7pS4tebBQ8cMEdrZJoaskiF3XuIaU05bix7ZAU5d7JSwA0P0fB72Ku6XAAeo3WtI43qGB_c5wQxevK2pHODpDuB3qERce4GG3fNFB1tr2_nO1JnRUDI9wkEl0Cxkv80-Kz7IEmtZ4JFoJBuDwm-TOzd_RWQ4vI64tyoUeXGxyf9_61kKxefclR2PnB7D88mmzUWwL9gQMC9KLQi88NwoDckFZyERGZETJ8L4ew1B3Lz5DxdLqiODKms-B9wMdyKaZP1uCxQh6mBp7514CuuTitS2VA7JoLgirung9-tAGzS-_MmpUj2PSOoXT-pWyQmgIyvSLeh62UiXSQ535sS9v_iGAYiDgoMb-CG8Llv5wV8kjHx%26ch%3DAQEAEAABABTTQ2IHsz72wNrPkjb7yu-wQASWsGW2VaQ.%26v%3D3%26pg%3DMUVFLPM6MZCBZGT7BIBPMEHYMI
+.netflix.com	TRUE	/	TRUE	1798243975	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQA6OK9KdRvturnXKRo8ac7u0S073FZJTE.%26dt%3D1766707974226
+.netflix.com	TRUE	/	FALSE	1798244542	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+19%3A22%3A22+GMT-0500+(Eastern+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2fdd9d0d-5b4e-4150-a8a0-55ea552b32f1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

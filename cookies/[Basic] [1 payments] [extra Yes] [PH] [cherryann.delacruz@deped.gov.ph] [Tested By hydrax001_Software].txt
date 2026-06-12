@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: cherryann.delacruz
+– Email: cherryann.delacruz@deped.gov.ph
+– Country: PH
+– Plan: Basic
+– Member Since: February 2025
+– Next Billing: 2026-06-23
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639489175547
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cherryann.delacruz
+– User GUID: ADWOOBQPIBES5COGIHUIWY6QKU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806826903	nfvdid	BQFmAAEBEOpCdWg2t1pli-TACiJrhTFgjNnUvarjeU6hvu9pCHLBW0sMPCagjt94dzmKrQEhc9PtJ7PPfUhc2_oWh2xsFJMK3WWPNxXMmP8XF-qIz7YONbVgVGGvvDqu9DWH2i5AYYsIeZE_nZJiTiGyMuv3bqi0
+.netflix.com	TRUE	/	TRUE	1811323177	NetflixId	ct%3DBgjHlOvcAxLaA1fl4zxfV3FLyQmuFBxm3uxTB80mWkZiR20DddImZzQe-W9HUR8yXL3WTUVsbuk3HABJVq5vgA1pLjiRr9_74eO-Yj6H3obpIOxEaa9KGntiJKgKnE3Xge4WeedHuwXy87UE7-z39CT7KgT7RKFpPHHVqMa0kCDcANATYTMhMksX18t39_ANtWf0PE90Ln1CZVDJNd7LBWQFzD6ntHOspixAnfcOIgr5-Aiz0pqKoTjOBDlZu5r1b2iLMYGpvFsp0gWtNbN53M2Whu1auKuPm0tCliGByzQWXZnd8gBH7QPKN-ybP3dBFq_28bQ_3TdJ9WwpsIzOdOJUmBSGKBXz2b_0OqX3T6ueXWLYxolSEPagm00FFz-4_JoQ-WM1mHfncSJHCkVcNeJ2fK3ko_6nE4grINsn6Hpel6XwAxgkKXjvrM61d2aZoM6xOgIou0jgj2ONwwdwndeSEPWdTQkT0a0Uo5Z32dXTm8088MQQj9Rj09Bxoc42cB9oEk_eq0HYZKE2gMuqek8g8Ax5CoCDVOotc8rdItY1ovvZMKi9GC8J5FQa3g4OvgNZnw-pvU-CPH4KAqQRGSXyg5A79NNwMoVDkDXusSNkPHtEJ4RwCJxQsY4x8-2l7WWafRgGIg4KDIvIDKx-S5MNeG8U1w..%26ch%3DAQEAEAABABTFfeKt4q6PWA4i6DbIcOiJc5Ss2axKYdU.%26v%3D3%26pg%3DADWOOBQPIBES5COGIHUIWY6QKU
+.netflix.com	TRUE	/	TRUE	1811323177	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3gU83BTs5JaaPQATaorYiPgOed9K9KXc.%26dt%3D1779787177887
+.netflix.com	TRUE	/	FALSE	1811330302	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+19%3A18%3A22+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb8eadf0-51d7-467b-bce6-746f10897c33&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775290373086&AwaitingReconsent=false&isDntEnabled=0

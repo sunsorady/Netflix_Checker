@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JODO
+– Email: muhammadmadni9@gmail.com
+– Country: PK
+– Plan: Cao cấp
+– Member Since: tháng 10 năm 2025
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 8080
+– Phone: +923007815503
+– Quality: UHD
+– Streams: 4
+– Price: 1.100 PKR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mydear1
+– User GUID: ZZDWHDE7FVGVLBOVKPA73Z7G7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792077283	nfvdid	BQFmAAEBELgDbRkKO49UY0AHRwoDr5tgR2-zc2RlblhEOCkoI-9j6HJnwpcYFyVambs0P-YCAlALttprOkZ8cSHqmf3PYsDHsya0eWlQ4w1IevQP0czN67H-HwUN-OirFMxpPmjAA6Wb4MzqOiiI2XBAdqQyq6BM
+.netflix.com	TRUE	/	TRUE	1797969202	NetflixId	ct%3DBgjHlOvcAxLnA1INi53_63w2cLVNsAUNGw51CXkyLbOG94PUmE5xm7Y2BGFJqNb3nXH2xpRYlWPlketBjY4RhvB2K2rGjrwe1o3Tmx1j3lehxMvGyPHC2k5ZcpLzW2f8HwTwo3Y3S6CU8AREReJU7JOQ2jGv3wsm9vVDiBq35Lpj7c7qkshFmpEBfUZd-M0R7L6bw0_RneHwmDXhEceujumXOA4h4dIORVRhhwtsBce0vwAuxL_6dRUQI7qp2a87csYvbG_Sg6WfFWMJhEQZsAAwgO7qQ4GQLqRqG7IMzOGAn7rLE5HbmrOHR6Ou9mf8x50t_zwfuZV4cKfl4224RTsJUdBkvsZyJtGix_PfZf6xt2nhBz-owE2rmbUj6GZdQOtySEiI7GLRZJfyNhBkKGGhhz4bgW6grZV1voAFHwM3XqiwT084pDXaimjnI2NosahX1VZzSN15rieWcSEjunzhhSbCpC27bvg5qEzulP0nRRFfAY5FAuCVYvM9o9aieVUxYxdeUrtWULuZKE0A-xilre91zAaY-MVZsQcG71JoZXODEY2QhB0tPIg8WEc1-mT12ZKwH8zED5_ndLoZa2PUuIMd20CLQvqZWBAJX-tz9t7VkPXtPIV1CRurgE1psXkRB3sEAHlhw5TmyqL9OxkYBiIOCgwN8xLTqRCTXPBc7s4.%26ch%3DAQEAEAABABQ5HqP0o8UYsUwUJtaqfxFzVcJL7RGMHkY.%26v%3D3%26pg%3DZZDWHDE7FVGVLBOVKPA73Z7G7E
+.netflix.com	TRUE	/	FALSE	1797969208	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+23+2025+00%3A53%3A28+GMT%2B0500+(Pakistan+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72bd27ad-e6f7-44f6-a551-c43435cf430e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797969202	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhTxwMAl3cLdh7KMLrrBwr69xv53Brv1o.%26dt%3D1766433202813

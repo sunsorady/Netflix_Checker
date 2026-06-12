@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vasishta
+– Email: mohanplantsgallery@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2025
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: +919014408675
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mohanplantsgallery
+– User GUID: CNXULF7NGFAKZCKPAKZXKP6XOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797408418	nfvdid	BQFmAAEBEPG6LUP9HLfO5ijmy56xLahglJEJaQkUizXtalHK9oXtRZ958oQftj3EpXJsyd63oNu6r5X6GdYppbSohjnfJL7DED1QjmAUUophZNlLpC3bxJW8dV6xN2oRMC-IxYyDVJXG5Tn7XHnDnHgl9pOAbx2L
+.netflix.com	TRUE	/	TRUE	1811306135	NetflixId	ct%3DBgjHlOvcAxKCBDhnFY-keu6n6HyhKopqJn6Do2bUlRC20EtUBTlnk4f7izlNES48Z4wu64LY_Q3XSEf_Hce9ManY-yQnWNOYuU7mAmLvvVpCKEKGcAGk72PNsE8rsS0OAZPMN2YX6UHNkjSZF502E5tF6eUa4doVP1gBlINGcltVb9OrhprzMhP2Y4jSNFTgMZg1mfm6njeiEZOdi2mlJx2RBCb0T1vh_Q0zpV3vSoOm8O_7QlRsMEHmvtBWvOhZUCnCuo-sIYue4lS34ivJIfIlZg6New-GqA4J9Dw7BI06RRufU3djsigrAiHpB4ZVji68YqHqTf9OUqlBEpKIyNbvxCxcAwFag_h6lx340AktsMlGGDvUMpXOWSOtNf_h6tiM03wRJ7RGCRTgV_w4tIa8JXe9UfEDBEHtxJd0-OOzNRC5XCDcjcGC5AipMwH91XWC8zy4-wrh7zOXPCDG2VCbSidbf51Us4e7wAMqyF982Ddg-CmTF4MkUvVGyPW3QTWfTH4_sxGMJGOPPLq6X9ri83GVPPyHDLQSqATJEkpqOfIv63XF8tz1aOIIq7Wd1fWAOX8jgdhsSFW4TJmVlU8MICBwdnd4D0vBQxkQ0yFVRvKATJldckDUGGdIxE844MAjdsvkoLAAlrdVUo6JD-EwneBQxYACMNZDeShSH2I5-clFSkEcTgnc5KQYBiIOCgxR53OuQPzPuqqxchg.%26ch%3DAQEAEAABABTkZVEAE72XIxwFe2BegI56YSv8yNRwijA.%26v%3D3%26pg%3DCNXULF7NGFAKZCKPAKZXKP6XOI
+.netflix.com	TRUE	/	TRUE	1811306135	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLPm-M-3HJDZNZO_ukITA7GjPGxA5EIv8.%26dt%3D1779770139172
+.netflix.com	TRUE	/	FALSE	1811335955	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+18%3A22%3A35+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf0c696a-9902-4931-adb5-d17effa7280e&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

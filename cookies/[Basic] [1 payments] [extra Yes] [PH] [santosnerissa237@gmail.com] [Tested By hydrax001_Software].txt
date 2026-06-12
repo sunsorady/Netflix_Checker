@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PAMMELA
+– Email: santosnerissa237@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: N/A
+– Payment: CONVERGE_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: santosnerissa237
+– User GUID: ZF4KSWNLFJAFFFPTHDGE2F5DSQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800888020	nfvdid	BQFmAAEBEAzhPQzF8yTFVzZqDdhFbhZgztv8KRv4202pxakwCB_0m4ggI935Q2xVeE1DkfnhGa_2aUjtsxse--bOG1Ivl0MX7ltv_Hv8snSdp9fyK--8sILzikaZD0MDxL253l88aasfOSnYCIFErTbR16XrPuLI
+.netflix.com	TRUE	/	TRUE	1806065740	NetflixId	ct%3DBgjHlOvcAxKBBAoiuXIj4lvp2usqD-a4Ra8I9v9i2kUzB614LHqEj57va-ak5-7CTkClB3dCLpAd1avabbSNjKFtrRg5ifIrorOZ9LEhJX_cDyOMMA-jFwcu4bav_KnXICdxYmdVCc48npb6vFpF1x1EoVWtWVmFToEwhtyY4E5eGH25INmVGF1zmZPwxqmkGj2dTcb7XoWw_6CubFlUphFEHUvAjyeGkiVWZUIRK0ifMnYLQ4WuKE2B6AOOxs76zA45eKvyy7BDABfe9whMpHhFeqCES7Yu91H9aMFWpxYvfiQ1hQnvSfewH9UiZusFg9Ni_DFelt6fYoA4lvymAF3srBf90BpFYxFwYQ-NxVC-hZLI3M8IXpS0P9NhCsxuSM-x2Ag4lg0mMnkCe8I06TbLR72cGYfZ2BwkEAenFELhPZLcY0Pnb7lAji13-wYOoS9LRfONZYEtT2e9CHNjeSeCJor3P9t9XbAIqEisWyHmjxpVi5PVHwA7X1HEyUWJbUToA9carX61gJ0W7QHW3FdzTtl7TpKB2RfR6Qu4J0xcweCwpqH3AlyOo7DvX9KWs3wS97vI4EB4RbUMLAqQpbUliBMSM_RY0OdyIctRSMEaqEuh-YztCBGo7nX3K0wbmGwrEaG4op17Ik5ld95eDsscLxc_5--EBaikyQTSh8gOEoJsZcjqfDJefhgGIg4KDHDxGTmr_XGqz2M2sQ..%26ch%3DAQEAEAABABR0mnleHtC0Rao3HU4cBAcdLtCyazTaM-Q.%26v%3D3%26pg%3DZF4KSWNLFJAFFFPTHDGE2F5DSQ
+.netflix.com	TRUE	/	FALSE	1806065742	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+20%3A55%3A42+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68c2b9d4-30c3-4336-92ff-8868df0d00b2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769270104381&AwaitingReconsent=false&prevHadToken=0

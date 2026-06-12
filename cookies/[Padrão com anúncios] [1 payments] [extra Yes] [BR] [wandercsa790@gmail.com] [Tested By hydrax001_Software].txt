@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: wander
+– Email: wandercsa790@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2024
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 5005
+– Phone: +5582988871109
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sandra
+– User GUID: NVS3AQVO7FBGTNIGHEXUWWPUX4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809927012	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAxk-gwxMK73x4XRCbZu1X961oxPMonikdN3J7F_RHFcYXQvFHhSUNootIhmlX5I3K_nY7T-2OUm4xM7sEKz4h_V3IIQ9Vy7VlhtoAXqsYrIxlx1LSifDQzZ272s_CcYcZqAst4j0J1p9Vvlg9UXLVfcpV2BfKeYfo8BfUWWbDNviGwcm3P2vOxEoiglnr-_3AcE24cSoMGpT8y0Nqy-LfxsE-RjdzkWLelBGi2pgmR00p7wUpKHKt38dC8U8eA8_KSkMt1qK3U-fIlr8sF93U1d7SvwhGYDSQ_vqHdwntzLi2osKM_2NvK0ko4CRN2NBx1guIxALFhzlbjE_15AKjTyT5wk7Q3wlbjp6kvhZ2Q4PAqdKQ7ayyWkn1E--pxDD-V9L3PJGGy5Cye9Dtl5fF3rqDcq7sJsUPMGT5Qq5yKuYa17UD4Wg7qZBOEXHTMzxzIt10hC3BmieyPPTheYlGIqUJlE2HzhExgCsYiwmRRAZMRDwAArcBic6sAkTzXr3nN0LqdPnC2uiptq8Rd7RkiGOREgr7HUGVhgGIg4KDPPVm-92M79WEchRBQ..%26pg%3DNVS3AQVO7FBGTNIGHEXUWWPUX4%26ch%3DAQEAEAABABQHiUY6-OMkmu3_JrAjbvye_3nzedhgSqY.
+.netflix.com	TRUE	/	FALSE	1809927013	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+02%3A30%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=51c6ba0b-5589-4d00-97a9-31205d40203e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1778388187047&geolocation=BR%3BAL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809927012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTABM9f8KgVGd0Pw9q80uVGESWxFpN1Aso.%26dt%3D1778391012337
+.netflix.com	TRUE	/	FALSE	1809927007	nfvdid	BQFmAAEBEL4y3DPM53vaQt1xmFntVwlgQHg5nxyiz5Ved_Sycd_cP0b0WbCWBPN4R7FDaWKaLAcakIo7GHpvFOkyJXxQABDWsD4806o4RDrC3dyWmBDEacRh6Dil6qsRqreRSEtd3SlavnKckD74mHYsOcGxkqYh

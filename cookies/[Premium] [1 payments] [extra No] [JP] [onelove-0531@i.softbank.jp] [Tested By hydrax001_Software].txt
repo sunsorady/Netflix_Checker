@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: I'm soo rude
+– Email: onelove-0531@i.softbank.jp
+– Country: JP
+– Plan: Premium
+– Member Since: May 2019
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 0834
+– Phone: +819024889894
+– Quality: UHD
+– Streams: 4
+– Price: JPY 2,290
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: I'm soo rude
+– User GUID: LNAIYSHPTFES5DTAQ6IEOT4QEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793719981	nfvdid	BQFmAAEBEBly3jdKyPhRa4jqkUvunitg4NyY_uSTK9mKiQosyx5FCtsgB7A5_lf5a9mg6YQq_OUlFzRBvyUpYbyJrrz61eTW1z_lisVMGUJFykvxJxn8cYerjgj5bBQbquGN9bEwy9bqbA9ESv7Is7P_n4LROJmw
+.netflix.com	TRUE	/	TRUE	1809800013	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA3V1ONmuO9PWMIVJ-IlYAlMNZ_By3L707TLq_zPK0foLEHmMshtaGqaF7H1DvkYy9xOdbXM75E7XRnpvOpjavzcCGG4unHP-g3wsCaKYQf76pEvNoq_f8IlLTOAOBhVmWVLhNIg7Bz9WDPUtW1k2fttmGHe1gGopzx4PPlDEJUqN2gPPVCkLIyPefWatYgXVb_WfGYpkQ_ENJFpatLkQ-7ojqskZGoX-tYQvGTLKPQNCj_6eaO2mf8N5Y896BY2sMlDuj8xiSr8fT4a-KRW-OpyP56rxIhHyjfmvJXPEYt2q19ifUHCUCfPO0UzKOvNuhPross1aBJC6PMa72wkgwEBGVjKqGnjg8fMLgpDE3usa4VNNge4rOpdw2etiI5p5y5OeGAsPho7LyEZVKkilk1rXE3jlv8vJ1RVnjsZTh9Bbtcnj06RFD9V5GSFvuvHmimkNqY5oLv-Hd-mHPtNWI9dsC6x0v3HXUGadlc-rDhJJU70IgfRLyFkJuaRUIqjMqksMm-O6q9L8omJCdbTLoCO3jX5_VswXshgGIg4KDACLbpeEzsPFmgDViw..%26pg%3DLNAIYSHPTFES5DTAQ6IEOT4QEM%26ch%3DAQEAEAABABR4hi1DCB1aea-oAhS8OFEfa8ryLU6N_Xo.
+.netflix.com	TRUE	/	FALSE	1809800015	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+19%3A13%3A35+GMT%2B0100+(heure+normale+d%E2%80%99Afrique+de+l%E2%80%99Ouest)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e5dedae-5ce3-4cac-82ed-5942a7c1e843&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809800013	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhJ4MArM0p_zOzGcXoKg3hvgNvR-I8TWI.%26dt%3D1778264013517

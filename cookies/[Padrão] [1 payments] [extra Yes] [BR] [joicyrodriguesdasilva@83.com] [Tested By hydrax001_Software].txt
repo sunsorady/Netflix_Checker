@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Igorslv
+– Email: joicyrodriguesdasilva@83.com
+– Country: BR
+– Plan: Padrão
+– Member Since: novembro de 2020
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 4187
+– Phone: +5569992028881
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joicy Cleia
+– User GUID: 7ZHAXPNAEFA2HMGQG5U3NC4VWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802976063	nfvdid	BQFmAAEBEOJ983X2hSZgq2NwCabUfqdgOW9QnrTH-Rl4YV3Q3YQiEAfUu2hXSLuQfjZPUp6eFo1SJ6l14uIseTFbVEqZA1h5pkqWp0lABxjNzszKFqBTAsjeIO4MyWmPh_CJ5GO-vgD6F5ie94kTTR85zwUxziQN
+.netflix.com	TRUE	/	TRUE	1810942784	NetflixId	ct%3DBgjHlOvcAxKFBNt8usLN4ODtzeJvHN-QlFcMyDShk3Oh01qVeD6j3HciOAeJfb60yuhvWLBhBKevm7Eky2y9CP811dHiG4Fl8zXZRUMi_D93QcaJ7vAlzc1uB0mEvx6I0X-bSaX4TAUQeDYQOEh6DYE05YTlNVuwwFe8nSuNAdfuPG1fAmjTBYrJ4ZlHoRvpmtyLGaVz0Idi_Jxvfn6fGSPf22XHS1COc2luVooB8ks8nFREa7QTk5Bl8WQsBQC979lcCN2jBWpxfoOm2XOC7z1napiDuyyU5o9Oqr4wCMhBQzTW6Ok2AGx410cQq0jntinGewk-mw0g-jIu-KhCNDOmjkzlevwLsnCn2dmTtyits5c8gvryMVFbqBAwiUo-G3iZ81glBti5I6iWt_rf8XLM7yp8h27pIWpgycJx_6A5m6WThkCRQGgmjQfn-yuYbhDyOueecUAn8Ej17IUpNz70WoNUn-KdttM5j2I98dlK_cTqt6AkxSOhgtnXIONgv9QdVQ3bdLoIAgjZ0ZqfmVtrnJAgFPaDeTBcwBTm35Eju6Cwl_t0DnRWhl_OEXwIq8u5njllaBHOaBnctCnqTlK07Ri_V98U7hqHLTnRQeA9-9qy1J1KLFv_gq3nsSnNTLPwJfTC-FGoo3YsY92Ti0_c5lbHNT2q6NBCFMyG6lOtRyllQareyiteTxrPVrcYBiIOCgwDE2rzOKrCgcYz1W0.%26ch%3DAQEAEAABABQnQY2WO7fn-QTl2ki1KbCQjXp556Jn0PE.%26v%3D3%26pg%3D7ZHAXPNAEFA2HMGQG5U3NC4VWI
+.netflix.com	TRUE	/	FALSE	1810942787	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+20%3A39%3A47+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b85afbf5-cfac-4f28-b81f-88038faabc20&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771440015975&geolocation=BR%3BRO&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810942784	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR2IUvPTAJJu7EPV5tU3TysE79-DpvrkdQ.%26dt%3D1779406784386

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bambie
+– Email: marafp@ymail.com
+– Country: PH
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 3005
+– Phone: +639359122037
+– Quality: UHD
+– Streams: 4
+– Price: PHP 619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mara
+– User GUID: 7WVFM6QO2VAALHIBOR65ZF3WWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797003915	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Au8HYK3ZGnQsLk7BjolqMsRiOxuKUtBELV9mW500op3mBFWWj5wWPZniCl7m9YkJ06ev0VDaFOyLhmvyhc1sQYcGSkb78Wy5wyJlzxf-MtpMUmA9PHSqS-xMXFsiKJ6Z77xrdkxIT-RVr7dBf3zwLySh8SJ5TBUB3KzwqncuWLVHUSPTSJnhC4HRIeNTpCidwbhfS7qe0NV_vtI7PQ5CXCTKCmcW5Kzvqn-xataBnRKlaG5GtFk95OLmMKJo31a9TicRgZR2BW6T9OtbGf9wh2gdBCHtKtLMRAJw4it3ovmVkJQ6BUWMXgHy5CsOMzw3nlPI2LPkLfyTSp46l9i7FPaMuGNPsq7P-gxM52HIdb3Bzdub5LKDCL-VXVFHlZsw2j9nQbaVTlXedRHk60-ehNVRaQ1Ny6HwYKFVVF-WES2XZhhHnutdHv4k9YKEsX7WKNP8uwBfnH__geX3JQJCRE4X_G2xc8Wl_8F32AAwvurwqNFRlK8b_XYJP1WsfxgGIg4KDF1dercfM5x5FdE3pw..%26pg%3D7WVFM6QO2VAALHIBOR65ZF3WWY%26ch%3DAQEAEAABABTWBYbquOXriu7Wh8F8UzCoG6JaDWcopo4.
+.netflix.com	TRUE	/	FALSE	1797003917	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+23%3A45%3A17+GMT%2B0800+(Philippine+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2543655-3e3e-4a32-9483-7488cc081b91&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797003915	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLtcTIZSByDX-J5TZUtJXdfHPFAOsM9nY.%26dt%3D1765467915820
+.netflix.com	TRUE	/	FALSE	1797003907	nfvdid	BQFmAAEBEF4Qf7_QzPCzUyE26r-CX3lgVzK83r1QLz4hyl-VBBv308JU9b4yC-m4AjT_5uK3Mu6V8gWD4WRbZ_xRRa5zEsAIs0Q9kWSleprH84YtE2kQcApAG2wY0gAZya5eRaqKGjK8e5jwDQ5MZjtT3rJX_mj5

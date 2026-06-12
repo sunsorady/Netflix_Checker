@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Azfarboybabamama
+– Email: bambinoobella@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2020
+– Next Billing: N/A
+– Payment: TELKOMSEL_IN_PI_BILLED
+– Card: 4798
+– Phone: +628116301127
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Azfarboybabamama
+– User GUID: MXRURS64BZCTFMZOE4XPEIPB2I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1793794404	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0AhxWiJsxNeufKbsk9tWZbl-_LJnpIE6LwwOwl0VD4I8DW9G4E1xX3MDivYvlUUoDtvyOnGOZLWIdHa_xr30ecd4aTTLLAt0TkJbIg5jaMU4wJNbKrr2jVorZlXqxT8pvYs3JhQl7q-l_rg96DmhJkm2zJ21AVHfwI4Ea5qnrje6d16JGDxN8cwxPLEiN5XwgrDeEX3wydv0eHtvjdHV55KB5HApHRd_Lqw0HrC86lR7gI2QC2Dyrx0zMao_RCL742D0N6lya_s7zOv9aGgjZ9w-JINJPA0Vw5DHc7i7lPTtLZ6Zrmmwmc0OKmEXmVWa6su38p0fPuvL15qdicu1edfsR4KfhUUO3-YZPs13zVDNWmdn8N19TPcajn_jpRuwpf_GjPkQKjLIzrJ6LOIB2Zb4QQAZ63eR3NhOTT6uCWPd53zeUK1o3qN_xgB5BzSTR7gRSGE3c6g_CQ8pJqFrfDKI0dUbeYX_ioa_f0pOfkIPU44dTYhgGIg4KDPrM0041Aw-2KG9OhQ..%26pg%3DMXRURS64BZCTFMZOE4XPEIPB2I%26ch%3DAQEAEAABABSGeHxjB8mVkxJYyGgONSzxZIOiU_HRqMI.
+.netflix.com	TRUE	/	FALSE	1793794405	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+04+2025+19%3A13%3A25+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&isIABGlobal=false&hosts=&consentId=ac3ec754-78f4-4162-90e8-cca3b7bbcfed&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1793794404	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxj6YU6aj491fQ38JTVqjiKxltBDeKj9k.%26dt%3D1762258404677
+.netflix.com	TRUE	/	FALSE	1793794404	nfvdid	BQFmAAEBEMrO7LwVDfQjMI7nt-8u3stgPgBKHyOyUaqE0fKAn8934YOHIQx4OguDPgRa3zE0vTxAfVLaETh1bbBF72HT5rBroqOzRTedJmFkjpnM09UMTX66aBjmFDXlZk0PUdHNkg_Jp4dUjRXpwj931iMkAZvD

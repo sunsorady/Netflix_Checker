@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oliwier
+– Email: adam.grabianowski@gmail.com
+– Country: PL
+– Plan: Podstawowy
+– Member Since: luty 2021
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 3672
+– Phone: +48503115130
+– Quality: HD720p
+– Streams: 1
+– Price: 37 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kamila
+– User GUID: EKREF7GVIVCJJEL6JNNBL32PHE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784058561	nfvdid	BQFmAAEBEIPvJxZ3x6Ai7-iXYamCxgFgYBI12THUzD3iIMOgjDEX0l7bauLfUqDytughFDMpt5PmKVMqr8hyMAo6yGmsxDNeNKxgKhFJZgxgwvzfWvPPE1mvwVtPGg7sXXGwzAwsyujBHy7d2-KmKgvRbuLiY-_t
+.netflix.com	TRUE	/	TRUE	1790021873	NetflixId	ct%3DBgjHlOvcAxKFBG5qnH05hCjRRdZhywqbCAzY5KreuDGimMtwW3rccSYvfwWRMYO9WXD_4kDL8BnvMPrR22jpyQAwLGLD19Lo1NXz5n40h1QIU8Oiss_tq9rRPS0g0stPvEb0clpHvr3CeA9e50GSMYUYBNb7YZ_oWXeWKEpV5COPs_kpndsduQMe1A-wvDa1wCEhYjG-f02jz9vrUE5ZlyytttTTt5PuX57Vz42h0X-SS8h1h-Eg85ZgJnSw6Zu7LmJPSfao-8e7nYu9j6O24EXj-CGUvhmzONYKyeS6elKzdJooVMjGr6nUHUwbydnlrCYrG853WFZeR7N3GtB95ypBbOaiK3hihbWSQLuA_K6unr_QJgZoqTN2oQx29rsm3K-c3yA_QusAIVfI-GVLELgIg_Sxu0XxeMDYdNgdovnhvCQNaLfarCNzC12bn1iwj7zdxT2PaEezS_4q7sIW5UtdoyCmQkiflJJP3SbYfdr1alAdTPo4hLfAzDciaoTe1oXWhdHoAwcgmkTKAGzZtAuKeHQJ4v8hnrVocMqc-eEy_I_8VORAbLzgRvNtt3_0_RJ5E2joOZ0o8OUXS3g1PfuAdFw2uPHPnQFDDqmTt2St-ybWel4NRFMBVpWOCtCblQ8X0aTyPzRZEyy9xm45zHrqRmL4P0P9PVu5i_MeNrPxrpkwKynRFLHsQnCSRU0YBiIOCgzNgUNjUboY7VJAcug.%26ch%3DAQEAEAABABTmaIECrB72e3t9wbmVp2tcPaTYyhlWbec.%26v%3D3%26pg%3DEKREF7GVIVCJJEL6JNNBL32PHE

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rithvik
+– Email: sribalajitravels1984@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2025
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: +918722414302
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sri balaji tours and
+– User GUID: 55NIXDTRR5CAFOGMFDNOLUCY3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796626150	nfvdid	BQFmAAEBENZWnalP7nTUJ1jR2z6ybodg8MzpKowRACmbfiWyEmYCVcrKdOCA8I584xcaUbydiZe0hiM3lGwr1OXLpFo2-fkxu-yv1uBkcGRfaD4monUN7ij_jQUuLv01JpTrstpDlvRClBX1BsDu9VzUKG7E2kEf
+.netflix.com	TRUE	/	TRUE	1808196970	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAwmtsLIk-6ofHLOnthl9Ky5lH4B7jvMTlvnApwJfaiFZZIJhzl19blKT0i-l-GuyCZZts7HAfpvqUhbKIcOPVXVCmLMi8GR-BbtWD5tLVNftHee99nQVg3AaunKdEDmhesAGuju_gOZpeYOCliMMsRhQO4aod8OjWpAss5hemU-SQjJS46jQT2X1bxR8WH9AxtgJJTmQTMXtvAjrItFn80F8GDPHao1jCkdHJ35E2HAY_ezJofXpxzDy0mRwWySaDO5uPF0s_EgabFnbMXXnJHKOpu-vdAO2dhNym6uBNDL2-_1DJHWVWwRqL4kHuhJYrVA3JbKaeMViUF-aAGRcv_LCuM7_NgDC9DWypi7rmP-y8pWULNqnuf5V83-p5j20dAOknslyf8xGA1BJS8CINzrB2ZTAz19Cj7UKncesJeP5H07bA69Nm10DCUf7d5hEDbR_XtsuA1wsl6kk8OCvc-80nZQAlKnUXbaImlhzCETFeWk0KCcb0KKj5TZF8SbURqp1tXMxO-P-VOBwLPt6x3Jyk8rJoF0DIBJ9qhgGIg4KDAJmB3CcxJJ8OS-RFg..%26pg%3D55NIXDTRR5CAFOGMFDNOLUCY3I%26ch%3DAQEAEAABABTGY0xhAdqk6jxUET9d8WG2Bsy58C-wn5c.
+.netflix.com	TRUE	/	TRUE	1808196970	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJqsmZv5c9M24aDoXQn1wDOrSR6htc9kM.%26dt%3D1776660970500
+.netflix.com	TRUE	/	FALSE	1808197137	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+10%3A28%3A57+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7cdd010-d25e-4c44-8195-5527cae02223&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

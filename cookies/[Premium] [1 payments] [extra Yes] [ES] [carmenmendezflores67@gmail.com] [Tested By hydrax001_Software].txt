@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Guille
+– Email: carmenmendezflores67@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: octubre de 2021
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 1205
+– Phone: +34670064273
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Budita
+– User GUID: NNOU6IYCZRDGFIIZFRPESG73NM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEFT3bBdw8cX_8v1QVTqoSwpgSvXvcHkwh2WhVl_j0A90UgOPU7GSyKRC0e_WTKQzYvkl8B6h2PzNrKPpl2fdaScZATr57sgUYYsbZdT8aUS2p6i9lAYSglyPQ-QhV7YWQbqf2fNbpcUsf1ws65t2kZmD
+.netflix.com	TRUE	/	TRUE	1799537648	NetflixId	ct%3DBgjHlOvcAxLnA415s2jGkzHFHtKxVo61aEq3K_n8fiYNFlKJPV4XTFO7z_TuwAmCgUFExkOJ1KC9CSzSRRIrzM4HWjhFlmBwXv8Aa6u74TKqeW_D7EeJbbLvGeRYugSutk-BiAapkh3U127uGLwNsWDiICU2H2HLK-M7E5IQs7mZBLaW9c-AuHiegOXbiKnkXRIRngvpdo9A1LmGEOZQ9mtJky7-CXZ0yZFpPXdRcDhnFPAK1lAp0v5N-OlG0kFg-BimpsWBIyHwqUvQmO0N6JJYRinefMik0AR7OjBPdRjTOGL-fS9q9bxPkFvk5LdelBlMlv4cf7dmTKB92yN-PRKy1fWVk2-4lPB1zzWivhup69RQ5pykHkcobZbiQku4pplYFDnqCasH9z6m6RXtSF1G3RAFBcESAOFk-XrQP0P1-0DNz85p0MuuZ7zkC0PPhhWq3ESfHinTJlMECqHPUX2iCa7mQSqKIz3Lnpycr0bUC5rlL1nglU1IXPWB61OcrBzKvD6X97R2yKfYFC5FkQVsHKVOk0cqvbiykoqWBQMUhXYaPtJ-GNcFtLV-07LEoy6OI-b2y0hODhcx6p89W29Gs9i8kPDirmn3S5_c7H4VuTRj0IkaKZVBKbLZkCbDdAwWu5HUFU-V8lixDbWAL24YBiIOCgxsOy3l32WwSnAZuKI.%26ch%3DAQEAEAABABRmCtNGkbTApOBQdeXp8jhY0S2VmFL59LQ.%26v%3D3%26pg%3DNNOU6IYCZRDGFIIZFRPESG73NM
+.netflix.com	TRUE	/	FALSE	1799537649	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+00%3A34%3A09+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=511b9a8d-b126-415a-90c9-3c41e3bc9903&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3BMD&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1799537648	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRNki08JU7wB_SH4zrDRFBTfIG8BqqZgfc.%26dt%3D1768001648818

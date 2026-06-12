@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joemil & Paula
+– Email: delarajoemil@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: January 2022
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 1673
+– Phone: +393899205685
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Joemil & Paula
+– User GUID: G4MQEPRJLVHWNFVJVA5CJYA3FA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795868774	nfvdid	BQFmAAEBELY3A5TPqudWNZ8Oy6PbBfZglwHqMNcEwCslSkv8iqFeX_NfKBQFf19Re0QS6FlxB9rMRPiQRHanG2tlXmgCGdwBcCuWwpYpBhdqs-SBRrJeyh1kRZFtGNC3VU-vI3ILeLndqshrsyGgSKYYEcv2bRWM
+.netflix.com	TRUE	/	TRUE	1809689237	NetflixId	ct%3DBgjHlOvcAxKTBFrMu_xq3oetm4fFyv4PZjYY0UW-BfOK_U58MAAZgSAFqxupQlSqyC-FoOM8B-_R48suWGudFCOEcpECFwgD5ARFpV6qSZMkP0TtFm9WqAZ_HoXZ41GGe162J8IjMJ70IcmcGBgEyx_EIyd4tv_NK3tScNDR7nh7ra1QHwF1bVHUxciBdeqK4YRqfFvWaIPw52EvHjCP_U-ikl__FOuRLGZrlpQZklU6d9mEGmUv6yBRa66EpcHIckhOm0hNt4VaoSXRQ5xr2X1A45KdXKk5J6_F_74p6JoBV6nBz7k09VMoYvF4SLkGFYjXf6aYyRQpLoMB0qQKOaxqeCKTw5iCZLMVpgSlFLDReMMVZE3bcq7Fra34i7uZRWJK4YGF43HNq2anumFhKtc4kdmj0qfMQfzt1D4_RVDt37PhGTWLIBfZTBB0rJMe0OowRSC4M7pE70xeKxRnxJQuSkCeoufduQ0KCeXmbCV8ZTT-01lRY-FZHEX-mccb56xouRDrKw16_ymA7SqD30uoq1z-Jp0VnhuhALposCavivdcoZKKRhHHyVzTVmbVnnLgBw7xjo-5RUlfLkdq3VatiNh9qBovD8U5RUQxyw9my0ptZOH6FZL3ebeJACrB5u_q363tEQ4JFr-G9sH2YCg1r_MK7pdn-SvdyFBs6TWt-8VKmFTH14t_wn4f9alAlS2fsDvwek8ShAAXNxgGIg4KDN8bNpyiIn6eM2M9CQ..%26ch%3DAQEAEAABABSxnkNKFPF97BfgFfSnN6neqU0hergNKVE.%26v%3D3%26pg%3DG4MQEPRJLVHWNFVJVA5CJYA3FA
+.netflix.com	TRUE	/	FALSE	1809689240	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+13%3A27%3A20+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2fdad749-2293-4b59-9d13-36b2fd17c12d&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=IT%3B25&AwaitingReconsent=false&intType=3&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Benson
+– Email: benson_029@yahoo.com
+– Country: PH
+– Plan: Standard
+– Member Since: June 2023
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 6739
+– Phone: +639367851289
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Benson
+– User GUID: XT4YS5IHRVHMRB7G634B5GYPTM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805609279	nfvdid	BQFmAAEBEK40CYanlhCyH2tuZBcIDRdg0dMMi8aoWzRH3gR4n55AjaYqFOyBdW2xa3YX4ro9trmvrKJRLyOszmPvahuNgfBBzqj0Zh1SslngdgULdms0F08juIzQ_EIT98uw7vMJZO6IiQBN8MIx5lK6QeTy7AOe
+.netflix.com	TRUE	/	TRUE	1810457882	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTFIuO2oC6UGtJs1GzwFVQGMP-9_8N94I.%26dt%3D1778921884261
+.netflix.com	TRUE	/	TRUE	1810457882	NetflixId	ct%3DBgjHlOvcAxK0A1hubOHo0iG7B1U-nO0QRsb94KbKMPJaV1pyOkqP5fG8TWmxuxWPOts5I4EZhpWgRwqAruQt5FiSrGj2aSDItD7D-TDyiFdTzNQyVmgv5T_p8Yso3IoN_piysuOkmQn6IpxTklhs1Do1oS43X-S4_HE1DD_qVSX3DF_VPqJi2qAu1l_ZKCmOc7Nrc1bPab8TthDKeHYtwi4knQ29l_ctTTlutuYdVA0SBqqN3RBkc-286Aq22_qdl8Y8c6gJB-3ji6K3SGkdLpWgf6FGBj223s9BiJ_YIqnVr1C2RqHZk-mWJm7f5t-s6P-dudPxtk3zA4TxHKzpoq4VMKT7cVByLO7FNj071ydheDv8HLhyxpzRWS56w8Rp6r0iBKr6nVMvfb9fzXMQ732nKtHjogNMBJNs0kjPh0bseBAqsmDBCE_Vq8EhL7nJyCxOKe6lLof09ViL1bWBxe3xe1ojmbHg7onLNfjmug7J8LD6BKlk02SaGTJ_9ahEULQ8OksR5M__XKlr9KyfZu087XfOM_9onLyfUBEyuvQZP6GysRgiVXc8ai-7WnE_1VUMrIr_Fnce4xVKo7cYBiIOCgyZjCXzmDqxpaVBvgI.%26ch%3DAQEAEAABABQebYUl1BoXSYDE17eZO5xi67cuodcTJ0c.%26v%3D3%26pg%3DXT4YS5IHRVHMRB7G634B5GYPTM
+.netflix.com	TRUE	/	FALSE	1810457884	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+16%3A58%3A04+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c386a35-8080-41a9-9deb-c303b0c40d98&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774073245568&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melvil
+– Email: pasqualiniguillaume@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: mai 2018
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 6808
+– Phone: +33640119611
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Guillaume
+– User GUID: TG2VIIRZFFB37OX6JHU7X37IDI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794778178	nfvdid	BQFmAAEBENrMnpTum9qO0U-OCYdLI2BgKrs1CehMcQ4ja694dSEezlGwszK4YdhY3LPtnVBJJcUN7Y3eKGEJyAm6r8nIoLwHjkRR5TP6hbl9taWN3aOSUn4IoN0NzeWT4EETrrTWtW4UsEF0564LMn4PQxtNWv1a
+.netflix.com	TRUE	/	FALSE	1794778263	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+22%3A31%3A03+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fbc3802c-90b4-4c8f-9fd3-16195de4b0d7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BOCC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795288284	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbmnQ03yggAQ16nM1YiUEEkoaw88rbjF0.%26dt%3D1763752284883
+.netflix.com	TRUE	/	TRUE	1795288284	NetflixId	ct%3DBgjHlOvcAxKxAxpWY5h4i2LmVixlGioh5UJ_hDTiG38NWXSGUqhlPh90Ku8LZE26ub-T_phqlFKLVpxW0VA5Lk775giwv6jAty-2GRoA_r76AT0Tb4GlVXS---IO5_s8u8dTPzmLyJ_zC297qBOmVbDBun6PpKzfD6QXbjGI4atDf2VLCLIkxab7jIhokf_wZw1R6C3_h1qsgQ0mUC1HzNZ7URtcDcvbDWQu64PQULQ4sSRJnBfwkpKLBK4I6rA5VqaZ4wZTSzE9iZCnVd8v8kJ7VDsnBrmPObx3fU6dxE0oKCptTBOWORFThekO_8tosrGcCts4d2EZzvh5zskQNKCUM_adLha1FtkgGqk9eXAJPdg6YyfQjdzHvurNDs4ztKa1QE--Q45KkgMQxaNgN-H081gixy0P0iA3b61812LomEZvgU4yhcppt5hmCu41B7E2gDnuzqV2bL9CVFA7gse1dA3HnC0O0j87uLPaQGT6vg_qzrVZX0a0GtKqYmVqp4qzLal2zYBQAL4Y9yYUurLQrk9Cya2DHwFIh4jUTRqj_4EwR5RBLmLYsyel7qS4ajFoP1bEKfF_37gYBiIOCgw8pFShj-9G-TnCXMo.%26ch%3DAQEAEAABABR4C29qz3uvQFPl2pIOegyEoCovOeOnkJk.%26v%3D3%26pg%3DTG2VIIRZFFB37OX6JHU7X37IDI

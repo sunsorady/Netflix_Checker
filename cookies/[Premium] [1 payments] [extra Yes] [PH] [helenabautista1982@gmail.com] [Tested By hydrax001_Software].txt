@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vnn
+– Email: helenabautista1982@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-07-05
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639291922609
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vnn
+– User GUID: F7N4MATGQRG5VOJQ2ONRQIQCPA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808375032	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+14%3A23%3A52+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70ffae4d-5c5c-421d-be8a-02541848ab42&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1776838986146
+.netflix.com	TRUE	/	FALSE	1808375031	nfvdid	BQFmAAEBEENMUQClFRGUqCBp8JHfR9xgbmi-5fFtcUE0-8UVfIpY75mkIbKnc86bNJ3FzCMbqoJYhgbMlid2JTae0rcH74TPjjkEBI2Cz3IkEuKUux8IRQmQufgIMmTzV3ZSuHoTpolONEal8mzGU7mzabhXzsm-
+.netflix.com	TRUE	/	TRUE	1808524897	NetflixId	ct%3DBgjHlOvcAxLFA0dZ-FRZ8HMZY2o1Bhf8LqTiJE-LYAWCOFBVuNmoxU7IuCpsK-csfnJVspmmhlyJI0vRqQPMB_cK7upZbc8o97te680drxHhu_0hIMpo1C7l-fubRDRDfMvB42zdAXVgaeLbKy6Vz3RyHmBbKLiNVEMdLveQC6jzKHFvjFvAKAHXi9d3VjnavGQLMxz55QSMvw9sumKItnPd_z_eheenx3P-DCoHqe1VC-SJuxBrgLowA7Boi3jdsWJM_Qgtbcb20u_J_EjYmQrWq-DgZwzYRytTcmRd5n97BhcoSDeJHXN3P92Wv-uzf7a8tIBnsTa9DruD-93u79KLQNVcGb7ak8ZxMHfk7hA604FWMgv8MyVqplQx6XhR6vgRedBqNyxdKSpCa1AvnxMIBbAmywjfAQaENg5_3WSuN7vc0yf0EgSHZqenE7ZS34T3hccwM18nyv0GUrFfakdPGwX7TK4qREYto-JpRtfGdqyI3BOp2bUk_RxW7WXQ6KPyIJR4pvioI-20XTYcv4TzVSd1mMwi-a1rcZN32LiiI2eE3l9yXxWT7DpptWEqBjEtkZTMVXd2OZ73imDoawFEMY9v8VzYANEwRbiTUhgGIg4KDJZy7qyl4M4-m5-S2A..%26ch%3DAQEAEAABABTqRoyZhGjOpzO29a_AgRnT9_Pe-S9hW1A.%26v%3D3%26pg%3DF7N4MATGQRG5VOJQ2ONRQIQCPA
+.netflix.com	TRUE	/	TRUE	1808524897	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTuVTry3SE-KF62-IWr9NvgLQRrygAhRDg.%26dt%3D1776988897467

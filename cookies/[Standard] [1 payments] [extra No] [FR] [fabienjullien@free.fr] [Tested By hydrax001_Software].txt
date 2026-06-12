@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fabien
+– Email: fabienjullien@free.fr
+– Country: FR
+– Plan: Standard
+– Member Since: juin 2023
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: +33695752338
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fabien
+– User GUID: FZRWKLMYXZCU3DLFTKIX5UNS4M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1793990410	NetflixId	ct%3DBgjHlOvcAxLlA31TbqBPW1wzgdcJZwvolJINxe5y0XLJy84Dn0ECVp961a2aXOkTEy_9S-1jlX9iPJV7b4jGapplLoydriTo9Nvui35ttJO7bmtogNm4PhLb2sHwEtWU4MTIIWOSpxm8sQMcMSgqOqYPA4P-R47ubEjFkOSJUPzCB-NQyUtWjsmUD9mULPL1KYGBRnYjuxxY3dUHygPMGlkm47UwWdFtUxdj5KsP8szKo1BM_JLoWlN2kRs3SW9CY18oDLJYpE42VGOY6t-Z-ktEHssSYTNUzSsjS_mDRzOncJJp5dUgU-i4GmG7smo0kt2E6oGP1K1EvCUzny02_U8bzteASXuYqFEDtZuucfwywDdh9XaWL1Xbfgl4vEDkXTyRq2yYqrjhynKkZYXTjCwRy4Ju4emhr92tehjWSHTRjW53r2mhwImTvpRaSMpu2nkwNJ6jIvW0clXGCxrG_ND8eUTIu3ZkexctQgfVNwt7l8AlZy3BdMLyTWQgWV8B6lJq_m1v6V12yjfz-GJPiIlGIlr2wrxNmk6oj-vizE0nXuOYF4tMBdgHz4UXOewMvgEkav4VvKxM8ZO4zjwV9ow2FLTIIaeXE6wO95dZfYBi5TRpHLc8whzJ1qO56V4jY4gbuN2_t9TcMWx_2zrtGAYiDgoM-EwEbiP7Ee-oQYeM%26ch%3DAQEAEAABABQTI_k8onQDgF_VD_bbkRBp2EyQjZy4QDg.%26v%3D3%26pg%3DFZRWKLMYXZCU3DLFTKIX5UNS4M
+.netflix.com	TRUE	/	TRUE	1793990410	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT01SI0IJfC_Uv43-oBCAux946ADSXDnFs.%26dt%3D1762454410599
+.netflix.com	TRUE	/	FALSE	1793990410	nfvdid	BQFmAAEBEBGNWtxhWWvNruQViWN7Zxlgz1rXr5eLivRTMpMy2_CENnWaVw1vrZmpRb4upt2N4lZ_SKSK99uyS1ubdR63_YC8aGgdh_VBnPB0TbtUneTXhWK8xiDSaJtXVxKKlqGPAff3Io6mvOFqSdNF6agWaK5v
+.netflix.com	TRUE	/	FALSE	1793990717	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+06+2025+19%3A45%3A17+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=22059365-f377-46c4-93ae-89d493f2d164&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF

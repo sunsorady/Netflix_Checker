@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pulkit
+– Email: sidsb0001@gmail.com
+– Country: IN
+– Plan: Básico
+– Member Since: febrero de 2022
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: +916376935568
+– Quality: HD720p
+– Streams: 1
+– Price: 199 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: siddhaay
+– User GUID: EEPQXIBRMZHLFCQQMJXRNKGVTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790101893	nfvdid	BQFmAAEBEEdqNB2qPlGC2bLJADl6I4RgXmitgpgwCwY237LGbu1160X_m4h9pgh2DFRmqT3IUKxulXCmCBNvuE5bqwi5r5NsfD31nSHVwt3D1H_P3AmNEw4psKTXSGPEPBn8SbqjW7O0HSBPTfhzXXlLdo6pFX8W
+.netflix.com	TRUE	/	TRUE	1790275218	NetflixId	ct%3DBgjHlOvcAxKSA-r6QIn0SEIlWJVmD3aNQ9b8txD6tnnE4WA98dqqfsoGL1GiFV9j7w4A0hOj4GrapqVCB42SsW3_arCFYTfSRCZGSpsJ0swkeHnEgNv0JCsnVm2TWWqE54ntUNd6_cHqb7fAix5-8mNJbav1vC9uohIxmzkuliNdrswRBliGz7r-y_cvwms1q-Kgn6_5xf8FaX-i3hZqJFSQLWsiOBS0MOoR3GTWivgmF1r7FB61PxpXlm4fidBghGNN6mNChjvvPejhgA9DLmaVZR9s2CNgb70KkmjhkyDQNom-qok_W9Nv3MyRn9oapR1vpdeNThW5E6-LQC7k_PSnmrbUIpZafWVAZlSEz3yGT4h4awW-f3-9t96N--VvbrzUI7gw5ewJpOf_VKplpnYZzieykZGDU9VYAhTXZuPo9zN95qAsxnLBRpirw-lfjrtPCk6sdiCKm5zr2pfilg81gXHUsGrR3wf169l9fR1kVU29cY5ruImEg89cATwvXaIKq3nF-8rxroiqLlPEyNenaP6VCT31MsJZ6xgGIg4KDAK9x2QimiiHBkdzjw..%26ch%3DAQEAEAABABSZJiHA_fdDiMZ5qYbCzkQCBkGkDIS3vrU.%26v%3D3%26pg%3DEEPQXIBRMZHLFCQQMJXRNKGVTQ
+.netflix.com	TRUE	/	FALSE	1790275213	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+25+2025+00%3A10%3A13+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0cadd5c9-c552-42b1-b99a-321da38ed5bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1790275218	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6y0401g5bsVGXaiNDs2ia3uerhacnybA.%26dt%3D1758739215361

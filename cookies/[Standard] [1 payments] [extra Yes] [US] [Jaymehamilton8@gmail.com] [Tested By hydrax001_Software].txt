@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lyndon
+– Email: Jaymehamilton8@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2025
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 5966
+– Phone: +12052760485
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jayme
+– User GUID: 4ZSIQCNZUNFX3G6VH37KXB6PC4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790195919	nfvdid	BQFmAAEBEEf9te_0yK5FhTaNPENFzNhgfCHcFDsIwBLHsM0-TBAdyjmNTQme6t3c_7j9Ceqx0yVmQ4RZK4JDZozZNQheedHHH2Txkn2i6t9vl7pe1Amfha2D-vk71VDaIIhrEqhSkvDkM0YyePShQf7XcKxts6WA
+.netflix.com	TRUE	/	FALSE	1811703162	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+13%3A52%3A42+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f942df4-ccb3-44d6-b97c-39a16303a295&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&intType=1&crTime=1775429998436&geolocation=NL%3BNH&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811783659	NetflixId	ct%3DBgjHlOvcAxKEBArHnTT5-XvH6bH0QCYJw6pzdxSvGecJd1g7ZPQWdfMmjO5fithNT1Q5Tzg-D7DNnp_n3pwEaWVA9TlHonMF1j2EIsjpPRjAT3m5_kvQiau4yDuI6fuzKhLcdCNSVvPTZp63wtjkzYxXcwWwm3YKlMxXtiXTgJkY6lDBiBy5bLVHgE0PfS8_dEU3p8acNkHZXR4M6hKIRp1ZuVQ_lbP4ow6GZUZ6BH61gQWLuhHA-Spvz9gAkYAGTsiJRrevGOfD_D9KMnyO_OvCYZLtl16OHG3B_1FfvZhLfYQwjBmhh-FdwffwKAbTk7vKXaokAb1TV0VKtJtTgYzgU1IoUrtrjrv1XsDsylsjX5NIDNoOFai6RlZO5M4OIz-2KRlYVGGmytg3ayMkeM2dB6CD8AiJZQy2IJq9k2mPi_RBlxS0BZQSL22YIOWPW8tkhPKtYsvx4WEaFdcN1xYnvXaVe6rj8x45DkKrvlRXkZPlQs_YMy2guQRV3rWAKj8g2NGE1bV9OrGVdFQL2rktDH5g9m4MGm59K6RIkWwFEhIYO0jd3Q9oQRSVWvH-TT8J8RtGAIaQOhufPY66OFS3TI_4-buMpIOI6Bnkdya5nM46BFr53J3hB2nFUViB71598hhKXsV3yZfcXiV2v2zXCeBqUkgHIM7KTjhMUbwptYfu_P5cUBIK2i3-URgGIg4KDGC8aqZRGMnry0cJsQ..%26ch%3DAQEAEAABABQ4FbZZmWxeTx8HsRxFxJgDC623dO1P3tc.%26v%3D3%26pg%3D4ZSIQCNZUNFX3G6VH37KXB6PC4
+.netflix.com	TRUE	/	TRUE	1811783659	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_DwwStM2GAMEiLQvN0yY49XI9YCNqi90.%26dt%3D1780247662884

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JULYANNA
+– Email: julyannacruz.90@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: junho de 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 1065
+– Phone: +5579999334099
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: JULYANNA
+– User GUID: NGUNOOE4DRHJNFZ4W6QWRDWD7M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808262403	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA-Nuv02gvmpOHMe1IVBCezIJ8_sA52L7iAizUCqYYyDk8lIKEucXJQUK4dAmFL5Qyv_UBC1rQRAMJ7Iw4BBJ6HKuBnoX_imPT69k6Qu6S9Gmk5O7g6K_IZyfTl30OiXFDbUApX4Lo0ol2kVO7IVs1cPYlSiEWlN5ImpMKsoxrCF7EEnGrZ2uTrXfo4xQbd4ayX5G-_zbzKWOFOJCS-t3LA0KrPiCQH46TivPxWqam1TZ0bt0h1RVFA08mzGhlyh7TDQOPPFFDslBFwtsCAfJFhNDzqaOeQZUZ4DKMqgBmkA1EHbWraMjzd3yjUZ-VxL6xLm2ADZzWoz-zR72HAxdlzuMr1phINo9PquCe49XoJKq-5Kmy2NCoEl5CozvtGz7Hv94ttIVy9iCMzKY_e4WR2PilbWBaRW-Md-uudLCULbenfps-TZ_Zg_bX2IHZnKml4Zme6wTv9vliDUO_5TvXvDsjuhMdDAPEucVxKQasZOwm_VoBTOBnVm4tFgfJQbwMDVncZfaR2ty788NVzqJaDJ-LwfkdpiNd37KrN0ofqAwsWOYP6gYBiIOCgzzVyB93Ga9m_ZJ6Jc.%26pg%3DNGUNOOE4DRHJNFZ4W6QWRDWD7M%26ch%3DAQEAEAABABSklUWDfQrz8v5t-owU4nxBxRoCx2IsPk4.
+.netflix.com	TRUE	/	FALSE	1808262404	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+20%3A06%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a8111623-2dd8-48cc-a2d3-6b09d2381b50&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776726378796&AwaitingReconsent=false&intType=3&geolocation=BR%3BCE
+.netflix.com	TRUE	/	TRUE	1808262403	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNcCSOUncyywq3jr13bq-MkNqW9tLHyWw.%26dt%3D1776726404221
+.netflix.com	TRUE	/	FALSE	1808262403	nfvdid	BQFmAAEBEIDIZXDEBlM0mkcrcpQL5YRg3ydctOfUKm1Zye1D-HgwvykAaUQoKOC5F-YmadHYL5JGNmGyOXbw42_cy2W_h85_2ZCE7wZzlAkhSrVvm2dtjHX_6Y7T8Ga3VGVhHseehzeFbm-jYerPyMpUlTMEFbJv

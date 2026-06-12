@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Liz
+– Email: couvreurmickael@live.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: décembre 2024
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33629529496
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mika
+– User GUID: KIYLAZX7NFHFLCZQDZUPJECU4U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789750338	nfvdid	BQFmAAEBEDcNY-bsxXSNcoL2Ey7X8NlgbHIbPPeQ3zqxvpZ5mtFjWJ3PCypq-1v3zPflOWi05NJrkc0UCtAzu0qmOHClggPdS1O_x6xUkUT-u3AaoY_TdTWACgtM2gpsBg5cEsa-0m0c0Bzo6Y-IRDYJFjmAxP-q
+.netflix.com	TRUE	/	TRUE	1802626610	NetflixId	ct%3DBgjHlOvcAxLgA0icN4cj35X82x7BDPDPogkf8YQ5265fwQp_96zQdXDUmE7cs__p22kLhwjwxXITpvmyaCYFwP9mKZNnybGdbKAzMu-Y7vG05U75Z2-rsuxErABeEn3XRr9lIKKp20HcpeHrzpioOSpG4I6ghpz66E3yLNDfCmHGVpiHbqJARUlTrqdoffz4WYOsCZDsB-fMOmYVcp8pwgvzDkC5tGkIIcW5sH2cYoK8DUGHn5_8AD8dNAhl1X6LJTs_i7LYEBLWHkfTYt8vDk5e3CAr3lIHjIWQIodozg05zj5mtfG9th6rHBFpSIfFEQVXAj5sO0hCMtd0jA05F3biu9B35GKdC7fV3QSjdeM_f20DKWCbPvUyqzfCbYGrlMleXFkg4mLX-qdoDPD_KENFvcNrFkrwZBakqwmyKdaWARvVUwjel3XfxnlnhvYjts2g5ddMT8XNemB017oAF3-Q36vfnhLVZTU85h8zil_LEBJLGL-nsFUowFn1SSYmCR8M-Ec1wniDY9uL542Z9EgDC_ZmrFyu63ZP3s6cUJma41kWyGfKSlGldKKp_5gtQFb-MqxAtsf6nqO3YqJT2MC8Y8mD5yNL6a8UF7M39LC0HYbNZPxQtOb8S3zhS8-Ia7HadY2ZNMQ8MBgGIg4KDD1R2staTFWkjPz74A..%26ch%3DAQEAEAABABTuBMJZLiXao1HC6CzknSY6I0HKR01SSIo.%26v%3D3%26pg%3DKIYLAZX7NFHFLCZQDZUPJECU4U
+.netflix.com	TRUE	/	TRUE	1802626610	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdTFwtnUk_bsO-CVOhZ3br_gaz1zSj68g.%26dt%3D1771090611868
+.netflix.com	TRUE	/	FALSE	1802636016	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+21%3A13%3A36+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4bddd84b-496c-4382-94a2-3614994dfc69&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ

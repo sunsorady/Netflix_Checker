@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Loris
+– Email: balistrerimari@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: gennaio 2026
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: +393923658620
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: balistrerimari
+– User GUID: 743APSRNUJEN3KJPQFDZ2TCFVE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800540198	nfvdid	BQFmAAEBELY7HaRRRYQyjQXkgqvk3vpgbKJM3hrhK2aBuFwzH4RSs0dmUj7Cq9C5FH5c2-VkMSvV0GOWy7oOG7uzSt5CAMyk8A5Ep3bh7GgwB0_KcwUMoz7FmxmsyfuR1_wOUsclPc3Q120-jc9SeJ2eq6ObGtpE
+.netflix.com	TRUE	/	FALSE	1801604754	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+22%3A45%3A54+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=932592ac-0d81-4849-b940-90aaaf7d1799&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1769004082182&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802787164	NetflixId	ct%3DBgjHlOvcAxLmA_nRMwhx5rgH_zgy9l9ZXXvskNQDQRWbeBB-KS8B31Om5StQn7rUkgadbD-DTYuu8mZOnJEox2u_QusXZnfW89LIhdvmzY2BYRTiXkZDb8CHZY8nUId6LvvaO8k2E5_OKX6s6dkhNDRwBnRT_j18kxkjvN9cR2zLXpNkPK-RgDH2SZAMRkZLRPJuGHlUAQN4o6A7YrIYgejXf9rLyk0DmmOPB9hK7Z-4QeqqMfVaGpJ7taEIwyjTbJ4Jmo_QFHaJXatH8i2-NfEpR7vxx1bPxHPIcmIYw92dQ-YzOg7wKgsI37jvZ68fNOQnQxyEdhIJ2sP4U2PBq5rb4KVXgTclcMTxxXNZ8gGkvPDtIYE5zUbf_nZI3Hf478V2t33G6sGDydYz44DUOZ0LcA5ApCCRHoOZ_g0zBe8odrsvzkOIZQd3j2hTSbIi-4Ltt6fFcJVP9GdminRMbc1SsLwlIqw8NOeqw_9OPCg7LaPyK8JxzVhfcQq5R1Gh6NYLm1NpcE6TIgrVc0jxynKWLhcvdRLoGadk-Uzv5SxwkEgr5iCUESwywDjIIvhh_oKaMB_oeNVtVG_RRo7CPO6dd-fRvclURkKyHrKc87pcnDAM_bcOmaeKmbqfujeFXG6KzECSDYUvrZYGXLOkJBgGIg4KDA95oCfrV0hhwam7hg..%26ch%3DAQEAEAABABQ6AhsLPVzz86M3C0erTeoYq4yuU9f9KNs.%26v%3D3%26pg%3D743APSRNUJEN3KJPQFDZ2TCFVE
+.netflix.com	TRUE	/	TRUE	1802787164	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQaP1gbvUC79_bXpFYlmGfGqgJi6bLoy3k.%26dt%3D1771251161128

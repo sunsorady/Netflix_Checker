@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: marek a terka
+– Email: marekhc@email.cz
+– Country: CZ
+– Plan: Standardní
+– Member Since: leden 2020
+– Next Billing: 2026-06-22
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +420773504754
+– Quality: HD
+– Streams: 2
+– Price: 339 Kč
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: marek a terka
+– User GUID: G2SRRFO7ANDMHCVJ2LPWDMGCCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBEJSu5gxFCPx4eu32ARN1Fgtg9mASkoOONuRHWQI7hfAcYN9b6FZcLbkARobC6JVFOdEAPNW7eJ_9tE-oIZU3obM1R6o0bsFH2FeDOek9Paj7jQwwot-Im0ZvrYQvIFabOMjnTMz4zHatzoM01yx_rOSN
+.netflix.com	TRUE	/	TRUE	1783623096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTx7P89QvdJagWV395atA-rzUs7fJcQYk.%26dt%3D1768589304263
+.netflix.com	TRUE	/	TRUE	1783623096	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AnqO7XTI2q5Zmj99F608-lf2r3uRsgb0IBNQzgHfzY2bko5L4lNraxPKYslb3uDBqRD8E-TfAwlBZsD5By82c-NBa7H8qi6II4Cu7iAQ4Iu4JDzc6zkjnwblCVEsjDDMy41uhHOFgeDv7H9-dM0onInBhtlvWlEEkly5jnUt_j6s9BpV2QOLduepeMVkTlbCOkjZY3LFMrNF9eLgu9W2vQ_imlRAHMdivgb87E4kdHK9Bdi1JW8gAYc57lqnSsgrSzzmTWe_DA27F6-p0AKPNR634jW9idAcgEWQunsfSukomk1qrmDgx296lOynuA2bLZlo5zxpjsXc-JzJuj4gjXAwkXLg9GECzYQoTu3cp_sxE_PBWuIHy72CI5LhVTl1jNi_3seZ0ZmgedgkZDLAn6nHDesGqRFrS9BNJdiPMnNhLyEGJXSUAKYnQqrgO58eBHngv2NXbPu4Xr_CIbkdNwOpwVQoq19KOTOOqJ6O2vZksXBLvBCcmunQh6WLGRgGIg4KDGBU1c2Y-zevQlqI8g..%26pg%3DG2SRRFO7ANDMHCVJ2LPWDMGCCY%26ch%3DAQEAEAABABT0oKWr7ymwrPHrQInNi1Sn-jEs9uQmSr4.
+.netflix.com	TRUE	/	FALSE	1783623096	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+16+2026+19%3A48%3A25+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=97bc71b4-1a13-4184-9154-4567b2655bad&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=CZ%3B72&AwaitingReconsent=false

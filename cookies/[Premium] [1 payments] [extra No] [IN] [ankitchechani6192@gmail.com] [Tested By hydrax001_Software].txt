@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ashish
+– Email: ankitchechani6192@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: August 2024
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: +971526851517
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ankit
+– User GUID: NYTJXLIX2RHINOYMA6257EBBNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1841716176	NetflixId	ct%3DBgjHlOvcAxKwA_FeUPXW1rlmAv7KyOd7Ax800Sl3vbWhElz8wT4hJwyPNu0S6JH-hY6PKEncDMfX3wZHTIxGXcCfrH5sZvrh8mG9J5rtusFDjhg5uNcQWQPX12-GstaG-vYSgw8tj-HJwEvOROAamYmtNozPe1VhriMCXw4Xjznpc_dr6UVIpSGYaVqH3eizIUhZkOFbmnhbeFS9VPbrCDiV0U1w52as1rkLmBzTa9pyUde0_KfsSsOMfQXusybJxXJHrdSG-GJT7clEMXOUotxxieKx-vwPHzlVK3i6H8KFNpXzdgIXDL5L99UWegWuVjUpRpr7BRj8EQ8dq6iZtAWrCejU54DsglWrVvZm17Sgxd68BME4__P1WRc-ea6hVGgsg9g7C2c_KmpqLwgNpuqfsOvZ9Aoww9QgBhgSAFAG8WJxshGuA5zUekFOrIP3MmNEBhHb5sv4F2oU9luarPuy7WIDQ05S61mQpBVWP-xJMaZanKv-ErSIJqRVE6w7rf_S1RH1woodl-m9OfzQFaQhwS5L6w048AYDvt-OVC-OKQvtn1VVJooTtbb93471i_2gSzpDcaa2ThgGIg4KDPgfQmC56CKO4Eeb9w..%26ch%3DAQEAEAABABR5Dl_7sSIJH4FTfjgLUUJ4gh7ZOmcO5uw.%26v%3D3%26pg%3DNYTJXLIX2RHINOYMA6257EBBNI
+.netflix.com	TRUE	/	TRUE	1841716176	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScZcNNbetUP8J219_xxKEtOhFrOh9ucpM.%26dt%3D1778557778567
+.netflix.com	TRUE	/	FALSE	1841473063	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+13%3A47%3A43+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b2678e4-4db9-4bb2-84b1-8290466b151e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1821628878	nfvdid	BQFmAAEBEAmnhi6ALSWLdbdAF96dUcBgdJSBHNL1-5sMVPCgwjVbosfQSksHmyDea3s7-fetpXj5ftBeGbXXgvf1w-AWw9lm-JuDZch6sib106WkxUtWCYVs1LA78vStFtrEXfZY4qlXlyplsFrmRObsqa1u8vgR

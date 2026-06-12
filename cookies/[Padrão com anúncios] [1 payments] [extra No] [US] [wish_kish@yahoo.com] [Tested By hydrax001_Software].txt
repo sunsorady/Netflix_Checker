@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jeffey Epstein 67
+– Email: wish_kish@yahoo.com
+– Country: US
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2024
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: +15176728124
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: wish_kish
+– User GUID: T6DUXQNNZ5DVHL3HQ5EVAQF7GM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788565146	nfvdid	BQFmAAEBEKX_VRNz5qpn3K-YzLG1lhxg1Fm-Icxm74yIzPURtChaImqc05lfKlB_lO71k3QDwWk1qHk7zm-xSs4GzebNIuEyfNtRFQW1ecL8p3zTeiWCp6QTBl3LHwwT3WkxK-rLyiRDSo8yN_cWvu5mROMH3kE6
+.netflix.com	TRUE	/	TRUE	1809227297	NetflixId	ct%3DBgjHlOvcAxKPBJD8BMli6fU8fKGWD3hE8tcbUN_bQwtakuwDWk4D6KYG3E5LRl_xkMMLix-O7RuNcwmws9mueSxIQRz6zUYIScna2aCr_UOTGy7ybbTlvLsn7OK1_Q_w75fKBHHLwsLYurIKEHMVbZwhEXQ3Alpiiv2O4DATA330NeHllCHhByNdFh3mydYZvrI1HKLTmxw4mj0jR9fTATd93l1G3n6c6e7jzQALmFRPwzuQPdIL0Srue2_BBJgU1L3tLGMh83qPxy0_npbZhW9EwedWnUcrCpCOsipRIVvVRnpqJWg0rBwQjPtorLsd7aXOHwsqel1tfrxrySeXy51VPompiVX3Z1JCB0pl_yPmLRdLBT3MJyoZXcszySCnpBxvo4OhUaKVS85ln-Lftamr72Ba6Tfv2Kdf0FmHWi7jGIOhXbyGwu8ovFPq4aJiOvklxln8q7FWB3txCVUwwyNg-yZ7i1Nnr2I1ek5oHMKkqnao44JhCHcgCav_Lvr7-ibD_WPOt9hPealaSFdx9xRVxnJQPyQi5C3X5RRT00VqxsfnqR65Iy1d2Jd5kk5czR2m66DgtYKQNpzhLyjf6wgS-2zuNsQGKRSo8fQKjuJCpsvDZYgKm7Mw5CnKVNbqK8AEp7wUwWYXePROeJmjWkZU8FUWATGSFhoBTVjHmWzof7ALXe5DzFZYtcAI5jn1XBv_IG3ms8WvGAYiDgoMuLVLkj8WB0ZxHqo2%26ch%3DAQEAEAABABTfdvY91v-o0tjbNHeFloh9EV0y7XIrQig.%26v%3D3%26pg%3DT6DUXQNNZ5DVHL3HQ5EVAQF7GM
+.netflix.com	TRUE	/	TRUE	1809227297	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1-owN7CJVm-rwjJSLQGsRCo3viB_8oUM.%26dt%3D1777691297433
+.netflix.com	TRUE	/	FALSE	1809229278	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+23%3A41%3A18+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3dfd064-a1d3-4cb5-8ddf-35958b4d4829&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

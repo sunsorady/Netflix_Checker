@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kabir
+– Email: kaushik@outlook.be
+– Country: BE
+– Plan: Basic
+– Member Since: September 2014
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 8729
+– Phone: +32475495555
+– Quality: HD720p
+– Streams: 1
+– Price: €10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: papy . m
+– User GUID: RBSSDW72NFFETDCPJ3OOT7FYWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1783792315	nfvdid	BQFmAAEBEL_2pM8rswR53r7rqcLzoztgow16JAvWD_wnikhAafezWy13TSPr7Gnev3w0ipEHT0TKSnRpF976mwnUav3HZKArwAnN9qGN5j4KNYaxJOHgMOwQJMcH4DHpzM9kr9clQ4FZ_GFqh2a1AHaZoGtT0wJY
+.netflix.com	FALSE	/	FALSE	1783792315	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+13%3A25%3A00+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3dabf4d-379b-4135-b804-e0b4214bf823&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1768580606930&geolocation=BE%3BVLG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783792315	NetflixId	ct%3DBgjHlOvcAxKoA0EtFP3SbLAMBHsZmoXkTJYqeboJIltozu9S498abJq4dILM9a1xxQ51PgDa-6rIORadbr6cWein1WLOQlA5ZQmHrnVf0veFcKqvJGqBbVh8eKMV34HeEOQvwPdulCBTlg_LbL2_SieXvu8qONnwHfq2WbBMdSHLraj9gj5DCkZgHENOsGDztQAGxO93sfpTlbjEkpJUtP7IgTjry0qFtEu3Kt8ddW3EyfU3oYl95Nj0tYYO2IvGgJJQCLZTqFpJnm2EAlTTLa6SLW6VN6jqKRYgUS7MaQEtx38z1c3eLbZebg4V1zULkl2jlq7hYqzXDwWROHj7NGwMEb4RRUi26-93bLBvTJQ8jm2BFoZ9baph20Yl6Sauk3lmyeMMxpG0a4_XijyRPyGkXRupv2Q7fWhx_AtpTCInOxd4-ULythL1imqqOhgtQdpUqQJmWfSBSk6Qf7qwyYa3nFZ4P4_tmQE8Ntq5RcoKe07c5fo0cmeFWZzqndyTe3Mlce3_a735qUgYtRLfrRFPWi4RG9Tb_yFKL0rRUNlpkuRxSzdbr_Mb-KUMxgWV-XgYBiIOCgwCdgxd7p2IkQoilxI.%26ch%3DAQEAEAABABRLIgOsXAX-evL2--qJ_mNVNfmfAZSFF1o.%26v%3D3%26pg%3DRBSSDW72NFFETDCPJ3OOT7FYWI
+.netflix.com	TRUE	/	TRUE	1783792315	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5s7NBRrOKiuJx14_vYbQFNBPk2CDZm9k.%26dt%3D1772409527438

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dzieci
+– Email: natalia.socha5@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: wrzesień 2017
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 9899
+– Phone: +48728847734
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Natalia
+– User GUID: 2XFKOPEQDNE25N6BYRYXTA4PPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEB4fc2bsqACqftYo_0xDMidgFJRdeZR9GSj47xBL0IPUOUzwv__kvp_j7FVtSB4zajCB_5Eu2N2OeuyZkxI0uLG5dFO_ipu23rPRJRjG0Naug11ywhFZ0m-Jj0CpJPGtgL_uUXVzmJVkj29WAEwZpAnC
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7L-nYlUQxASRw_Sp1F1Yk-7dfVaMl-xA.%26dt%3D1751987413225
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Ao61BHKU2iE77LHTtawsKzLknIbjf9sOzxBtpbn_XMpvwpv12nANNQLsdTAOehrVr4-Ub6uAVf4fl-vswO3RA9aRjm3K4jGRlgEFg-zJS8GZA0prtnSb8t52TR7CBXbFloMY7H-HptHMiv7V7Z1cxQ5qBKhHcwddrSgFf-Nz4qec0IIzA4cUCziml5qncyqqU9jksET3bGkUdc5vTA69bMSEj5awBqxuv8GUx0gwRIJQWs72C9uCUtQB3-xmjm042o3awQJzraHyTGAc3Y6_rLmeL9wR9Vz9_bCjDeiL-o5Vnt34YU_NnDhvQnSbC1Xu38Ld18J0RKkBwngyw-onoxR2hRYfsgMCpz0a4uIflJr8S90cN2dOXKsCt19j9v_tdZDsEZSOpnkeyqlNf8bEGz4pqomKjYnJkNbIpXoGpdsQxP_5r-NYt0U0K5xRPpxgwfnXGl_SBS2TNTj5PbL9Syqb4F_qPgtqARRgmIl5zC6xL-q7HNbsXF6V6hgGIg4KDJVgiMPp3YHTDziLyA..%26pg%3D2XFKOPEQDNE25N6BYRYXTA4PPQ%26ch%3DAQEAEAABABRZUxEQ_o3xEkJvPHg_heS3wsx4tYB5_4s.
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+08+2025+17%3A10%3A11+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f7a5336-eeda-4361-a041-a248d38b85cb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B30

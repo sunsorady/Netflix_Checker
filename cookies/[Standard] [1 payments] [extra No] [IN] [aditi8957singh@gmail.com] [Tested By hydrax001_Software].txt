@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aditi
+– Email: aditi8957singh@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: October 2022
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8636
+– Phone: +919967766806
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sneha
+– User GUID: QANNYNWLSRENFNSYTVR5FSC5HI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1783056509	nfvdid	BQFmAAEBENRYM9RYzSL07bW2GbbXXPBg7F4FbMwo07K-b6YE5l50Y-cvNoA0GD8aUSDFH9P3rmjHoorup9se1T9-iYqKctoxEv5SgML6AWg1J-gPw-ktHdaUV1ffJYsuVZKS9L2QFO5yrwj8Fl3_YSjcIpam28F0
+.netflix.com	TRUE	/	TRUE	1787924377	NetflixId	ct%3DBgjHlOvcAxLhA-yPWWLMB4V18g7Jv_BnEYsoklD4Dkuv86BKiWaXDi3BKgHJhx5FzvJI7x_aAs-2CGNv1DKtSsLSX6nTQ6meotrTD-_iqn0L3nRukeqWumUlyKF073PeiFAMOPik3nBnGGXqYXZIsSKB3WBW7A6axQM_n0q6xQvjbAl1XnivF6Oc1IhbWHx4lW_atNqkOmZhGpy1P9QYqmL0F6Dpiu1E_4zTLY6jW3wsgm2Rnra8PjJ0laAeqO0FcFapSxR0roWsZV9KzI27KOsaWEQgF5hVpB9MVrSWXVqFF_OWExZSKI0xtMPhc2y_yiKUzhrFA-XUJPWqrSJmodr-__bxY72DAtOGzyG1rIlqzqUYkzzE-rELjrJYlCRBlmZ45z-EL5TrFrM4aTfoxOu5OEQX5sV9EjRJskVz3KsqhQc-G_uR22JK2hbjevGJeybgoIN0zD0h5BG6QEES1GsBJ6yRcFaprpIi7RMNWmQ7Z8RoNi40ve3AsI4RSb_x-AxNOg_unVY4JeOi7YVARlFy93DB07X0s_f5j2L5Z69f3RbkNqH551dk9VJq6fJ2zQ9xL-V3Ua3QPH9zu8tW-RcqMQfuSOm9_j3UwIFyerk1g86rR62qvMjK2GBe8_iFhh48R5GRzxSuUeQYBiIOCgxdeQ4wAQ-iZQHGQjM.%26ch%3DAQEAEAABABTO_WB2T9pAs2jM9ovRe6Pz0QHWAqQkkcI.%26v%3D3%26pg%3DQANNYNWLSRENFNSYTVR5FSC5HI
+.netflix.com	FALSE	/	FALSE	1787924378	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+28+2025+19%3A09%3A38+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d541e0b-2b13-4fc8-93da-99e262e9c9a7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1787924377	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRuE3JY-neu7KR2Jay2OTIkaXGEUK2VkSg.%26dt%3D1756388386205

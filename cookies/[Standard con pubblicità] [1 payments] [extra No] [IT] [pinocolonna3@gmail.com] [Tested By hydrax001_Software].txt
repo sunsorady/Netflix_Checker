@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pia
+– Email: pinocolonna3@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: gennaio 2024
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pinocolonna3
+– User GUID: VZBVNBGSRJCFJIW2KTPTJCTKNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790017366	nfvdid	BQFmAAEBEFbpKbaJgM9V-VmKhvL5-5lgiImFCmaOUr_YoAsRCH9sWVu8xyAiRNAwmEvfpgMU0rPz-PlHTeQ-aCdBcCtDAvHXt0vg8OQcVwnN_nQzSsRO31tp0H-gv3Fdh3-HRDHNgyikBuMMD2P57xE1vNTKiR84
+.netflix.com	TRUE	/	TRUE	1800519946	NetflixId	ct%3DBgjHlOvcAxLiA_cQjYIfHrQ890EcUCK20JsNFzSBpIafvc1Vy4DcqAqFemvkkprmAMPD2LLf7wsRo6szG2CKMW07qnAld8u6il1ZqjMTUsnkhuaXaw2plMWcePL2Tbd_6eg9GM0hO-ns2ycV8FpBMybGwgLlk0fPdyQEQyabYWyDVZyOzxllxPp9oi3rLCuGM0kiEnEZPmJvCgjT1Wh4-f7-UxshFfDzACqP2kGvfV3OZZBgaA8V8JexGOaEnCEYgiCXNYRVJMQL9Vj3Prpp4_WU3OM7lMYVUWJK0Sw26ZmUQtXTcv86nn4az-W_GC7h1ATx3wvCdlws5hmnPsUHJ8-fIYHWj9_NeqzxKOr7f8Ct3zITGuj3XZoKL9OmfTaZsTuYv0QPB5SQxA4P0d7tJwbaBilRTtp7APRfKlyiQZEI8RpHNboYr6Q2_qiTA-ACmN77Y9VprVUDZIe779v0UJtFiGpdNsJBMhgBrHXY1HOI_X1kpsP8mMTHStqxWg9MLBtRWwMiVOF1NEtg90W4ruqubVYTcaDmIO3Q14jffFGi5fwAjc5pJCfy_-ONxqBTpwRh9ybOMkaUWBT70_cuVzLyGS6ruqP0BcBkqDMzBMkB6mKmVpfmaJuvrfNQ4Wf_OVrZtG-VGV0ADypqGAYiDgoMRfR-O0EjW96_Yl3U%26ch%3DAQEAEAABABQdS5LY7O2EdbnvABut0QA7wgajENQmlUI.%26v%3D3%26pg%3DVZBVNBGSRJCFJIW2KTPTJCTKNA
+.netflix.com	TRUE	/	FALSE	1800519945	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+09%3A25%3A45+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16d34288-5156-48f8-86a1-09663f97c8cb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=PL%3B14&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800519946	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHLhFvbA0BZUeem4k8Pno87M7e39fNCjw.%26dt%3D1768983946256

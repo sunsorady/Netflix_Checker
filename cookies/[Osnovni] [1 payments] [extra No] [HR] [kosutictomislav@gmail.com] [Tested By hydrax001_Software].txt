@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kosutictomislav
+– Email: kosutictomislav@gmail.com
+– Country: HR
+– Plan: Osnovni
+– Member Since: srpanj 2024.
+– Next Billing: N/A
+– Payment: HRVATSKI_TELEKOM_BILLED
+– Card: N/A
+– Phone: +385989109145
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kosutictomislav
+– User GUID: KIFXVJOXNVBM5HVKG64IYZOEIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790665758	nfvdid	BQFmAAEBEAlGwuWSXm_5fZYBi2QcSAlggCGTreFyxsIXwQglfsfDOYurN5u6_hz4uf7pYO2i5lgaWwKMyowfBMN8OkbPYkuWNJID8QOAN0e0oc0hq6ELdoOBEG_AK7taACdAgttYPfTH2jxsQSxWgMGUE8RitCmg
+.netflix.com	TRUE	/	FALSE	1797885065	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+21%3A31%3A05+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a89a50d2-8f2d-4330-894c-7d718a112974&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HR%3B21&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799768392	NetflixId	ct%3DBgjHlOvcAxL5Az0fex5v5olgsk-26KQy8VrvVBn3012F43HG599ATBLopvZmjyCNykv59HyTF0H2ReHv6jSRStJXDmU7-e_h-eI9SuGcOn9TVYQmc5WF1pLj_GB91Iw1aOBgu3mkrbTEe1emz6eTYA_oRH8KyMg5HlgsND9cIuMpH-SRk9m7Qp32r45dSIPPMqNjCkTqtkJLgn_PtFGpaz8KkjxpwbsAu7Uw24Xtdb0VMezrPrDA3d1hzJWFjiomdoi3cXc5Hq8rKpCnbPF7_xT6j9BJMDmyGRJOC3rbz07P5yEq3U1GtbssZYfw94QT2OsO6Xzk7xPqczDXCl7r97PwrOnVtTDhnN9_A83NkZ9uOfFK5i9VECDEcXVVyPynL57xPOugsIkeUW4EnoWUkCt0IHQX95I1vQH5lQfNlFGkDIpQvJY2AmImFBLCxcMyl9oLS5RNwf2KxLUEx1BNBmrtCCzdzZflGX5cjiQHDt1QPs4hWrXtnsarQUoy-kWOy6nVG45kwhPYKlFBDDE7RbY5K2VcfSeKUace5LlzKhXJNDtz6ZnOe_anDHmu5InyU_RpEWwf7m4Y0qwTfNn4xUcEn2z7Wu3XYqMZ9H28zsWxFh0Kjw6Cen2hgB6aDopTTRRD0aMQ25l4-yVwEzL1xVojSot1a_i1ApZ83BvT-79XHZUYBiIOCgyxqbThZIIb3uXaKdQ.%26ch%3DAQEAEAABABSi0wotb3b4-AZfd1S3rv2fh482xjRgfx4.%26v%3D3%26pg%3DKIFXVJOXNVBM5HVKG64IYZOEIM
+.netflix.com	TRUE	/	TRUE	1799768392	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHWp5YKb-a1yebdByWS_WlkSpG0b-Edq0.%26dt%3D1768232392573

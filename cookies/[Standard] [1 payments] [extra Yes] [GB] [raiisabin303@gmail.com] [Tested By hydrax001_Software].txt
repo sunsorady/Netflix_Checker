@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: raiisabin303
+– Email: raiisabin303@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: February 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 0724
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: raiisabin303
+– User GUID: HK35N44QTBGORKCTVL4PXOWNQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802979084	nfvdid	BQFmAAEBECRzuXN8x8jeDoJ6FpDD6ktgHnhwwESvhSLdatW1osNP4jxEfY6LLGwZzaMN42MRrKhFNGGqwq5d6iGvdZqks2e-d5yqxs80bXIlRQykXGwhysHGgb9b7aMNr0HG3c8dEFR4mMj7KPhh4QnXD8i_ONDW
+.netflix.com	TRUE	/	TRUE	1810290221	NetflixId	ct%3DBgjHlOvcAxKGBIbNKkJcyTO1G1IiGeS04qXKAWlLswzRxuZbULEFpeGBgwDbzJRZZNgDlHkV0blS_S8_kOsWyTJLVltS1EgkAzyGsZap1qnigWuWTo2jluj8M5bSiKRWho-dpBsU61m5_7mnqqDv2UlWx5GxfVqgOK_ZPEGxRlhGKo-HLBgW0fUvuf6UoV5PdI_3BBo9C7G8OlZvZFlvbYfirXqmQoa4IBTSdc9YMZ-pILKXdzUwVnXrDZ2dESbLO6TJcPlc-Le39t0RZt6tI1IAg-O85BAUzOYZFfDfhbs8AW2HogMeyUzZ02o7_oJ8BDoOzFZtgmJ_1rHfYKutmkB7m4fQD38qsZKGAC9L-GHkVJjbrpK0GdpEN8YTZG0DnhgQ3brNilMGkM271Cr3vC00ZZJAY-pp72wGVIzPfY7NdY0MLs_V0378YL4NwGxr_gNTjiPGrkwtq9h0UnQ2ekh3jmvZpBou9i0X3KFOreWaf58aeuNeYSpnvkfc9NhNPwiuCSDmEGP4h52D_wVkinQ0WvHChcu-vNuLx8m2dLafR-STDW2hv-2o92T5_OOEVaNLTKZCfd40JHtYUG7mGTj9tmbWq0VDgxtubGX0MvE2lkcXuX6DMJD-wdYK3jPMZzXgEQifMV7q4CD9kmfxOIJ9CmfInLbDtN1q3V80qulMEjDUjaMNBxOwef0iJmuvGAYiDgoMNsZSCFZS6265FNJK%26ch%3DAQEAEAABABQwlesbFYwU2bQMBBQ-CWu8dLzyV3Hoffw.%26v%3D3%26pg%3DHK35N44QTBGORKCTVL4PXOWNQE
+.netflix.com	TRUE	/	TRUE	1810290221	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTHh5jQbFpTlE-Sfleu7xYTSgyR-PLsxhM.%26dt%3D1778754221458
+.netflix.com	TRUE	/	FALSE	1810315515	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+18%3A25%3A15+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=019f7cf5-2207-48c3-9055-af321af42662&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771442007610&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

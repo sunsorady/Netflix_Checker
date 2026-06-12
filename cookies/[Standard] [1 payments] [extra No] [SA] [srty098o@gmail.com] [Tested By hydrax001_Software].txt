@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: RAED
+– Email: srty098o@gmail.com
+– Country: SA
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 1099
+– Phone: +966551814956
+– Quality: HD
+– Streams: 2
+– Price: SAR 49
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: RAED
+– User GUID: FSMRHRFQYFGE7DMS5DT7QJXNFE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807443864	nfvdid	BQFmAAEBEJPNnj5PSw8a83v988WhMeFgwCj_8H5XuS2X6vVV6BzJF6q1vIcbMIQVt0Ax2w0IuRTNBkM19lUw-n4jqzaSPmDHyOLymYIfiIj1vZXRAq4bSTauVL8YijPKIV7vbkoIimP0v88tOsI1Qi9T9DwBR-q_
+.netflix.com	TRUE	/	TRUE	1808477680	NetflixId	ct%3DBgjHlOvcAxLpA06YayefcKllD3MObuQj3xU24v8nZ1LISusfOa4NxwBTB8i6rCRnPWXAhw06vaiC0xwwVycglhBW-zTfmbZDEb5x0RszzprdlMMnuoqNeByWEIRDlsSz3OLWOOq6bDpG9rLn7Mr9ofmsoDbv9drSOnxefuNP--q00PYAEUeqLqaZ50iMOAZ1949BgkUcmAX8oLNfPiDePtIgfAEDHwaIRBRavj9pw1UP7dDEWvhKOYYRKPA3MRMYHMO6w4Of2PcD_20WFscf9j5hY6fI8Om4XEQluztOtI8ci7tYflbfdgtfTZvgMrkeopB2KN3huUkZvBpazMw5AR13ScJ7e8zK-seMGPYiOGmyCvUl_85f8WE0q27K7JnnBEz005x9Y1qfxvitHf3nL4GM3Cj5V_brjLKNedNht0Lf8t5z0c0zgghnoipKOOBsbub6sfpjCHDaHHU2auy4NDiYW2ak92_uKRMf_KsVwiI1r0j3g8mTpwzmsOUZqCE0W6_30VooXiO-roB-_0dWILkcyFlevTsNnRqzlxID0IUWtawMnLIyqxT8T0poP6ApiRQ1HPIBKS70ZVYNu7oN2nSyJ7KNJRbTsxw6X6HClLQMKktOcLl14pzauYNcl1N9fsmfij0XXz34mHZLYoovLI2y7hgGIg4KDCJynVOZy2vI-28n3A..%26ch%3DAQEAEAABABSlnsZJ9G-95UhiVk3Gvjoxbm6K6mSk0Ac.%26v%3D3%26pg%3DFSMRHRFQYFGE7DMS5DT7QJXNFE
+.netflix.com	TRUE	/	FALSE	1808477682	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+13%3A54%3A42+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c5caec88-e3f4-4ec4-9a49-afb8d0788d38&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808477680	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRCetSVMXLEyEtsnO5hBHSuQpUpbfkpoY.%26dt%3D1776941681284

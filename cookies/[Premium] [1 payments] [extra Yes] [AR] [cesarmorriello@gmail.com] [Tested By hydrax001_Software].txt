@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Franco
+– Email: cesarmorriello@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: noviembre de 2015
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 1162
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $ 19.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leticia
+– User GUID: SOWDM2HE6FAAHORJ3WFUD2D2K4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551683	nfvdid	BQFmAAEBENfsoo0fTVhnuRoPa285qnNg6X0KnALkCu8nuOezr61lpgvI1JQN9Vo-K4TPpt8sqlnQmYpEssYoJ8X0ldrccmqmfCmoCeKfQWwm5Ds1tkhhZZl1P7lBZ5LCavt__qfx3hPWi1C0CHlrAR6iXU2ZbCSV
+.netflix.com	TRUE	/	TRUE	1805338589	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0An3GWqTsPPBxt3mPQfBjPrjk-bYt9iZNfH9wJIUnx_Ultwur7j--vZpoJPRS3uGSIfin1ZSGGSC_v6lMfJnGKj3Xhl_3Ksm7zwU9DPq3OK3TLaMetG1t0JRk0OaU38bsOOZ24nBkZUSMCyVHfhCMBddgltuygBfwgYyCn6MOZy2Bo4P3R1zjmVmXhFD3H9Jq5QSU5gyYSarB7f8S5Ma1YhxtAgEVNIRzAof31L0VedWt0fJDVLJgN0Ao6wpZiu6t23TINFpda54OdBzAWD89bd5FOSE5zpp-Oh3AHXpaqIOj02fENsGr76o_wvHDb9Buvt8ueYSgqYQAC3oeNyfGl8uynAwcLKrUy-4wTM94DW8zr81Kug27t_CDsmimF4rJS9jqAfLjlG9RUP285EQSlewrtV9vkpKXO47TdPqRH7hfxz4BquNUfcj9WaVlh2Fu3Fgr5_kEtQmLHAT6-prMPv3kvXZg0k4eXY3MLkPh7cU-sawhvhgGIg4KDB4sgjT2pcpKbb0vhg..%26pg%3DSOWDM2HE6FAAHORJ3WFUD2D2K4%26ch%3DAQEAEAABABQE-7lhqeGwQ01BLw4RMVOtZKnliC0Ra0U.
+.netflix.com	TRUE	/	FALSE	1805338590	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+23%3A56%3A30+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=068de4a6-d4d4-4adc-b077-619a7b999a14&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805338589	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR7nJm9PDyrnEaiE7Xzjo4Y810FMEL9efo.%26dt%3D1773802589809

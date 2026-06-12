@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raúl
+– Email: mamaraul@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: marzo de 2021
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34636360399
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: .
+– User GUID: N6YBEFAIAFAJDGTRU5HIGC6PJE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798592313	nfvdid	BQFmAAEBEPSDzctXQq5gnYzqdOrNhkNgaL4_KQobCtJP94PI-xgv-xR8uPCROAbKNTd-pyOW9qFQBYkZ4ln2XEfuGMquYBvNA2uB3cN10_5qfKpO3qL9H14X19v8Igcu7SKzrQQmRnF0BjbNV0lCirjtk-Bceod1
+.netflix.com	TRUE	/	TRUE	1800200413	NetflixId	ct%3DBgjHlOvcAxLmA8x_lgk2jLtzV0GBbFAyK67TCyRqeciPe8HRFOHq8Skc88gDyh8umYxvI0AG-qXH7D_i-ok8U0ZGFEtYinxd7zjpZhaoVjzEk9kX1D27_romA0HjsVpFy4wVkEHJ3HAFff46qFePae_4J0HUHJpZURDGKUrWFHni1wB97UvIASDGAY2u3J9Ws3l77ilFF9cay5WbjnMtMH25IUtLV6SclRQ3CaFxn_6NzZQLognZkqgbIovN4wmiNiEIT9xLIuNYhQ9eQyVogQrHmBDGkwr7ZMlrlptEDaO0RKfzAyxyY3fdBRrZtAFAXEC35KBU3jeCVpbJjWqZwRcv6D91MuT4B2aAgOTHZmQxp_h5iDPsNMteo9PW_bZXti_S9elTxLewNVEdGcSv_63i1F5-8xnmreB-ntB-lZEWyr_KCPFpXhgEE1KTDiOwhPTqmvj2oBgUJc57gQajhCg0Jo58raTV2txYlM5fpA-6qLRj2dSyYH7q4xJPh-dTefQAtdUw3K2guR6LglLJQYwAnNxNBsl4c1--sENTbqENo1iBbF9KMzUdmfncWCqsZKxW-3NEIXYrvgNezo4VCT1NLwpC0GgbU_kf2_JDCuouMSO2IIjRYs5eWdZOGnYU689VSinieRM4FZLeOffskRgGIg4KDNURx-n6lI-YimUVZA..%26ch%3DAQEAEAABABRLs9JcAwQOrI4FVxLGx4Fu0QgF-4qHG3A.%26v%3D3%26pg%3DN6YBEFAIAFAJDGTRU5HIGC6PJE
+.netflix.com	TRUE	/	FALSE	1800200415	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+16%3A40%3A15+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2ad1de5-ffce-47be-afbe-1b2f8869aec3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1800200413	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQAhG_jWDI8z-W2G95uLgfLRwqxC-GOcXk.%26dt%3D1768664412959

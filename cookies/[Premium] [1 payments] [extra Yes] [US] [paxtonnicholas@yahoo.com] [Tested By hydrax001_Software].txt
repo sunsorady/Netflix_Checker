@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan Ramón
+– Email: paxtonnicholas@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: Januari 2024
+– Next Billing: 2026-06-29
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: USD 26,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan Ramón
+– User GUID: MZF3UWFKMRBEXMM7TYO4AFYAP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792315	nfvdid	BQFmAAEBELGuavVa0MGPsl_GFho3eIZg8YElmiT19kpshlb8emuoX23ZASNK6NAPj5tZmls1IYsoWx2ednYIeLE-lebdG2X2fcpxMQd1-AJK6tufTVs5nVax5H79AIlvfRgD2ivxyLU1A2aOrF9gMmKMUcyskF1h
+.netflix.com	TRUE	/	FALSE	1783792315	OptanonConsent	consentId=057846cb-f222-456f-b1a1-2bd4225a1ed2&datestamp=Sat+Apr+11+2026+22%3A06%3A09+GMT%2B0800+(Central+Indonesia+Time)&version=202602.1.0&interactionCount=1&isAnonUser=1&prevHadToken=0&crTime=1775910150748&isGpcEnabled=0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783792315	NetflixId	ct%3DBgjHlOvcAxLLA6Pu0PKLll33YeO9BKvgaDBV-tvZVOvGVtljrsDBfpnrLK5dD0TJPgSoJ430qDH2dKxCp9Czb3agfJHzTBXhoafNNbfnl5smfQC60MkKgHrsofsO_6hEhpQEJfPDfnlntMs7HJmGXLSijl8KOuWIM5jZx7ZWisrjyCOY8Ocz5GljbLzkgYkV1IcNhCMYteNb_K4UkH1azA_qKFfdNut5ZgqBKYnIwiJtk6nkM4Qx4QXutgfnYqOHDUTBLnw2bmkLXitiF-acnLJ5dGDa_u3aiY2B3UX2cpg4HatE0pDIzyIYJ4V9IqHYyqzaf3iwDB1iwa7-E6XLubi_Nyrju9YcwvJVurTuGlzZHM2MidAiU9rnC_h1-VU6z4ZeuiSRo9RpowoKIWZfI8lLXpbpNzWHRNWSFHX24HNp1PLRD0QXm48Zo9eKfgeVEv_tEi39HjVsCHPyVOod4R3WnffjRj7nG6FjrTorh1iQ5PcP6sfGfRD41irz8mypYY-tJJRiih2HHiWeljz4d75x6xPvGq09u2onbfroVk3TAvWI4E5Q8MmbCugBk2SxVEQ-QOHh5xZyt3ipUa6Z15Lndm8dLioTXAT-SArVlN8nGo9l5hgGIg4KDHV3zsqiAJmxEQobdw..%26ch%3DAQEAEAABABSrgqxGDixMmXAeNCdlq_djUjAoBbFw-zM.%26v%3D3%26pg%3DMZF3UWFKMRBEXMM7TYO4AFYAP4
+.netflix.com	TRUE	/	FALSE	1783792315	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRlS6ngs3iRSXHmXWK5CDjNs0qcW5Hixlo.%26dt%3D1776446707783

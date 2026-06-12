@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shrinkhalchatterjee247
+– Email: shrinkhalchatterjee247@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: 2026-06-28
+– Payment: UPI
+– Card: N/A
+– Phone: +918851490701
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shrinkhalchatterjee247
+– User GUID: MGAN4C6GRNAJXO7SATRB4LY3MA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801101803	nfvdid	BQFmAAEBECP468iS9oUqC9fjjDFbG71gPbzxx0rdl_1EFSbgQDBNVw5-JtwFyM44h-4H3pLTJSOwhdaKfRRxBKFQabxDUMtlc9VonBBAPyPf7bfOyL1mXyN5ZZQzF9GKBu2Vq-CT0g30ujMGqg2S_Kd7H0M18q6S
+.netflix.com	TRUE	/	TRUE	1807287512	NetflixId	ct%3DBgjHlOvcAxKiBOLPRHvp8D-MZk7WIFqPNFjqFINP2Mo9Ok6PKYWYx80lXiZzCvcrZIdtUXxZKKCLzM-jrrNaMyHH7t8s1oSjko1XWuo_O5TErEmHhWNHd05JtTobb3MWleGXZ3AdusoTswjTqYKypJAoa9ERwG3RXewaWepHCZu_Etq5JmIcW9-k29N9gjSiwScrdutdfMd7Kcj0UI3-EV_MNpwArVJYchtOveqJmL8fkc0t3UhJDa3TDCSaxHXwgUU9N4Gbnb_0kgRF5X-KlLt0y4XS59FAEwqs4fMyX1seMqH8GaMEZ4pM8Cs0olLbmCE0yz_Uaf7iMeedP0DDueiqa7BEW1gUX6UcvDdcYdav0uBquAT2tGxNY_Ekz9uTG6dBNUxNqFaNa7WLxSu-NuHu37QH7gBi-dMOfd-AYh6727Jyk9RsB_aEcUIYnQeMoY0_o0aaLBf0q8PvYD23Q6ZdE-fOtpvd6euSTN48cfjk2qTCFa3itzhInB2I0ITAue1Vs6wd-fCAd9Fc7QbS8b7TDgvLAs0xNEL7k0MRCfxcR0ZTKXX6Es8-vCNKkt8zLReORgHDmpMHQCR8AgoNPxaYXEWbV027IqZLOwalhEtsbcNwvjc9tXgOCJVv8oQ4bjq8N5n1FYidSV0RCFgGGb4vCngk9Ej3_Qh6spCxxQT_2iuAymD0tQgWKHZ1d0c70lykD6P3xBVtpzGW-yOm9aFnFNE_OyDACG9eIxgGIg4KDIy4Dii-LrXEryTyoQ..%26ch%3DAQEAEAABABQCDAXtB0rDQXoTlvIXBZ6jsB11bvOaUgA.%26v%3D3%26pg%3DMGAN4C6GRNAJXO7SATRB4LY3MA
+.netflix.com	TRUE	/	FALSE	1807287511	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+21%3A48%3A31+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f6ccea7-2d40-4d0a-b78b-cf173e91860c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1769566290248&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807287512	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_7vei_Kq3QwrjfQ2byQqOxrTJkTxFOTw.%26dt%3D1775751526443

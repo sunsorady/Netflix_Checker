@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: luciof
+– Email: luciofusaglia@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: luglio 2025
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393495590533
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: luciof
+– User GUID: QISQ7AKR45CHTO76PPUK62H3GE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805318207	nfvdid	BQFmAAEBEEyEf0bnTTz45WEHQGJwbedg4yITGFzzVH8b5XMCZZJkv_krUJ95uUX7nJ2Wlv5e6wchQv09ywLg1i7g2xeb_BanrYQ6N4GWSH1GS37ZikmcaQBvkUgIhnmCIrottQNqUDqOKvr6RfM_9dMXG-MbXFDf
+.netflix.com	TRUE	/	TRUE	1808600230	NetflixId	ct%3DBgjHlOvcAxKABBUlP8JAanH_HCxJ7_seHSHkVeRepT2DpgFJzV1SZBX8-L2aHbAPWIPRnEk6DZ8uHUWSXvmO85Rqr81ezWOSV7up7yJouJeotcM2DP3g4-D2bTS_EapT5pi5v-8pMR-nzNI6YOe2wJL82SMGHCBvHheue01RcNoA8rfzDz5lh3-mUu_NcdCB3cy72zDeyX2Q8aNXp04QujfewRq-QNtYcDQkEpi46aKDugruaJGlsLhp3OH7mmk2c3UkNQv2-W5BMuQMwtRLARkFADmz4-Rv9bb_hdpllHBXdnBb8Fe_92SBlGeuHyiGAqT_XaMRnhp3YCRmJVozz8OC1q_ktHRlaBMJhSOV4Hx8R8jWdO50KzO2jY5i8EMsSZrXyQADxqIMib10M4vj9KJcCZoqyNWYuEOgMeOYyxr5FUVbS127p5a7Jh-RYhaOGJSnXDfRQdm-N4kmFAWqUBi8I_wU698qhwvj0EoTJoQgsRuYa2W4_kIdJ0CU2Y8G3pk_wlYK0dVTOcboSNo4n057hHh5mGgxI4xcXZx6JEKI8DxKUtTrfA3uWiGBLqe89Pz22PxGsaKPl5nYwulbM0jiC5w5_0Hkgj37TjXNcsoflS_p2g-zTBnZxyrCPoxQ14PuItkjpW1PaDQBdUJsy1ISZHIdKq31fnIDF2qMjUxCSSEUU17svnMTGAYiDgoMPLSE0WYduqD-FsVl%26ch%3DAQEAEAABABSsP43pQYLUHnuM8mKNIXmFgu98ZuyITgw.%26v%3D3%26pg%3DQISQ7AKR45CHTO76PPUK62H3GE
+.netflix.com	TRUE	/	FALSE	1808600232	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+22%3A57%3A12+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3908714-e0d5-4582-8bf7-69293f30c39a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773782211502&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808600230	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRLHC6tNKlQMCsjWZ3S9ZBIm5ztYN6Izc.%26dt%3D1777064230742

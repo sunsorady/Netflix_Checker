@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: EG
+– Email: nickiegray@hotmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: January 2020
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1078
+– Phone: +447766461145
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nicola
+– User GUID: M5RHYQNKTVG63F2AQ5Z667AO7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797892631	nfvdid	BQFmAAEBEC5Kq2AD0sLBEXoE-1d7_iNgMbIcYrS11VpxRu_jbiXn5c9NQqNZU7PAyCgkCIEfM7ML0BpZBYiblPCt21JQIzvMfb14cMpo-i1CngyU0tyi42dtVGyXKHvhU1pkmDD_U_Ch66BeqgWPDhkywUSRMetu
+.netflix.com	TRUE	/	TRUE	1801859367	NetflixId	ct%3DBgjHlOvcAxKOAxXaq59kO5Xp8chEwIIQFSUOh4Q0qkeazHTlqormG1roLn1Nip_05aOX57Ya9xoMcp_KlXroU9rrShWuwnazKLlIE5ElyeQKYaZ59LtHp46UlYTxX5d80dZJnsj9hgzfn-uHo0WR3NzDTRHblkEIzNRLTihxipkM-xG2c_wM3cTKed8d1PauURmNfCMeTXspJ_ALnue3IxKQDBm7Tn94c7MUgaCxi7Zhbw6mc0xB7XqmGoC2NVBANbQZZFWAQuKCTsqz6iqd2G0rHFLPV77CKj9ab-9di-JJIDqEGypOpth1Ikk4Bwu5q9zj13DEzT7dlSjKINnhC54AII8vAT0MrZF8EjnocZg-QWMtbuXbRh2CPHgidRSRet0RHf051Jz5zxQzzTlUdclrR1ejJQMjh4oANj0bRvSgviSQIe4kGORR1l-jUBnx8yprS9MOUS5iekd-Qy5R1SAWJAZXfyJm1h3cPd7bYgkb1iTi0bLbizW72BivGxo6_EsrLxxMmvQH5_sC0MgBfrYqfUWukevmGAYiDgoMMUUgMMekaXB8tgXG%26ch%3DAQEAEAABABR4RZSBcbDMK7GuUZhNh9COxRVTAc0wVVk.%26v%3D3%26pg%3DM5RHYQNKTVG63F2AQ5Z667AO7U
+.netflix.com	TRUE	/	TRUE	1801859367	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRA9nJVVuqwXZAz2xi6juRuezr3U2o_DgQ.%26dt%3D1770323367148
+.netflix.com	TRUE	/	FALSE	1801859377	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+05+2026+20%3A29%3A37+GMT%2B0000+(Greenwich+Mean+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5000d36d-b0a1-40b9-acf0-b6ab013c7149&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG

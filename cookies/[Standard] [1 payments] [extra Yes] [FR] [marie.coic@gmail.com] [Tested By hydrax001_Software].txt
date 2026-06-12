@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Baptiste
+– Email: marie.coic@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: février 2026
+– Next Billing: 2026-06-13
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33661780925
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marie, coic
+– User GUID: QPGJCYS4TRF7FFBSQ4YKK3SZMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794596775	nfvdid	BQFmAAEBEBEncXyBv1W0CfJIqSoCdrNgvqNcT7A6URYsLbiPz1JspIelXHLVaPleuRRqUe-KDoI4AWlX-6YqUy8iS-ypuaPKARx6uCJql06b_hntO8Ne8ikOb_prO6L1o3MlzGn0OoYUHkIHPqqbnJq5I6kDGxKa
+.netflix.com	TRUE	/	TRUE	1804488091	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhtwPHi9_xoy8U5iRQNW3z36SfoNvnyY8.%26dt%3D1772952091167
+.netflix.com	TRUE	/	TRUE	1804488091	NetflixId	ct%3DBgjHlOvcAxK2A5b6ZPok_059Ff7XH4LNBpsDcKcBdkSElDFiZrsmDUM0GWZq7DAtMCWEe9kahahOHicVRiAwRQAhCRQS4gnZQd-6CqxdW9JOUp2d3RfrnK3QcpAiQ_04Ng3bxr6KXqysb8-LF5DOrgVqV0f5VSXxytzsKS4xs_EdGOj0RvIuqkhPUwm0NsKk-RyRIrlO0UgMirTVHeSLSSzhvn0cfkXJnm9wOiDDTJhIQxFdRLt9WsBFsO8FaFFPzlS-ZCTW2zyytPAXMQYdd8EUTrI7L_GdcmC-hKor8IZPBm47XS5WwkRCMKK5SLhjjnSX0mPwqiuZIuTPuQ30oLU7R1n2ZrwPxiod679gL5ht-CvUnkqf2Et-vcz3e7lmtHeAjCBky0dgHXl-wsiqBwBTL2en88ObyH-SFDCVOsyrLK18OWjpr3t4uxZNb3hAavhgPS9psE8REjckVj4eBImnNO5Oe-Rke_xeeN_MQgGa6QzO2G3Lw7U0cBPf2xDsjUlqc8bBxc2c_rbIVEtV06NcltBliZ6f47aWiGCLHXKQuoMzyp-K8IcoFlZ73YUR53KVUf3GzVwb2sEJz25oHBgGIg4KDHiFmiXqXq9YlfHPcA..%26ch%3DAQEAEAABABTaXgTqHQ0YeiW5PzDPecKSEzVWioocOoQ.%26v%3D3%26pg%3DQPGJCYS4TRF7FFBSQ4YKK3SZMU
+.netflix.com	TRUE	/	FALSE	1804502953	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+11%3A49%3A13+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=385abeac-e215-4692-8f6a-68d098fb81d0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BIDF&AwaitingReconsent=false

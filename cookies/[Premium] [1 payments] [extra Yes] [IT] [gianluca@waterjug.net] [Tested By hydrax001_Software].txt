@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emma
+– Email: gianluca@waterjug.net
+– Country: IT
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 1027
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ?????
+– User GUID: 4M3UIJRBWBBD5N7MTEVH43GXCM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809279818	nfvdid	BQFmAAEBEDfCRZc64bCmveBnQSJHfYNgcS7R31mrhA3ZPTtPQpD32lt5-UDMKRik8czDMasTwcaQgzklxUQHUUOnUS--uimcniZRO7pFjbNIUJB66csX_otq95JgkO5ymzylJYojIhwjiNf7QvRbP-YEMgI-U5Bp
+.netflix.com	TRUE	/	TRUE	1810238023	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA-GWzWEDUAYYY0DPSYFoDoF41EKZUHI89jKIy_8gecqvBaFXT6u6lYcIbcSU7Tf-ENbRLphmLjrA7hNekCF3qhFojnZru45x6WhJ1Au_jICLZlwTNGs55fuuVqKlB5eEE0UM6RJ-OXGPNTL_Fb3mHOONpUO72rX4G3vnjGipve-GBuUkMMc2heNl9iPlDJiyS1HQ-vs68nlvNVhQdhNszvr2rr4Q5R4sLUzB0h0n06hogHdEHdjE9olcVqapBtyRXBvbY_qDXOQcC77LJATIgCLhJyDwsoCq2mq3u_95HlEV-M5g89J2yKnddQyfmpJEhI3Ya5uCLv3pv3jKmB0dSrNJTqmznNoAc4EJEWwQfLE6m-N3kYy_bS2o7RtHckldT_zh08o_iL6qPc1I3L7iNP82ISuHZmx4GSQCawgi627FgalzcEwI6VJzbawKx498vfmSErWL3ELPQUh7coVguEoRuAfNJeITRX0fEc8_Rh2WFHCzjWQ37LOssdVU_wKrT88dwwdpCdtEXBdYENKbdwyvg0EQoxgGIg4KDCBeBTx5VqsVbl5gmg..%26pg%3D4M3UIJRBWBBD5N7MTEVH43GXCM%26ch%3DAQEAEAABABQhqTKFw18b5iibDktV_DKaO6JUI-g_Ae4.
+.netflix.com	TRUE	/	TRUE	1810238023	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQrv9aY44p_U3ZcH7HK9bFBJmS89WGOLgY.%26dt%3D1778702022612
+.netflix.com	TRUE	/	FALSE	1810242361	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+23%3A06%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6da22175-55a2-4cb6-b6bc-e7b1a37611c3&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1777743800763&geolocation=IT%3B25&AwaitingReconsent=false

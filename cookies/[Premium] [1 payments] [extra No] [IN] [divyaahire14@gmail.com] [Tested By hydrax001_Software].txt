@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dhiraj
+– Email: divyaahire14@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: July 2019
+– Next Billing: 2026-06-30
+– Payment: UPI
+– Card: N/A
+– Phone: +918007498943
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Divya
+– User GUID: WQSMTQQ5V5D6DF3NVLYHK7X5K4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805187691	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+14%3A31%3A31+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b30c9254-0f51-45a2-8feb-e5d612cc2105&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773651487932&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805187689	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Ao3bEKdLVXZbg4VItAzRPo_B7NacAim3dxKE67mMZWUBjn255sYZVQvFsVygZSNNUWKJX_i2grRIWkFYoAQrIcfhSL7XfGjQoHyQAvJoI2PXytthzBNXZld-x4eK9YcGKLEnkz8BNaUYq0UAMiOq2rEZOnWSQahzDm5tpbOR7awbJKEHHVFqo4hB1FCMK3SmAuXggRBTUNKMZhbIO8m9D8ZvNHZ41sWLyFcS61pXFO9pG_MMDsoOPM5AzcegQQAm-gGtQNU8dbkEDVqO4rKa4FrKOwP4v1faqzfByd7dm0qqNjbyqdhxJb0Cgn6ewYgO-d9CoikEnSzZGumfwlQPRUXc2loFSDBPF7CrK8iZX_25MCD3ZTDgt047qpQ4jGNEGxTIQGlr1z6JAcFv6TIFtEnFRP6lddGn_OAk7f3UCA4biPVlMy3XTsSfYvY5bSvKYqnYigIo1Qc9u7iKQf0YLjvO_GSRweDVRaJaP827bZxIHTCT4aBcw-4yI5KFqxgGIg4KDJsxvtcoVA4dw_R0Qw..%26pg%3DWQSMTQQ5V5D6DF3NVLYHK7X5K4%26ch%3DAQEAEAABABRCf2F2zMGc6PLVKir1_MBsbdM2acfUnow.
+.netflix.com	TRUE	/	TRUE	1805187689	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLCwsEcAs1S2813D1gsXC8Eg9H_Wq6XP4.%26dt%3D1773651693531
+.netflix.com	TRUE	/	FALSE	1805187677	nfvdid	BQFmAAEBED8fnBJdnnBkLUNNy5DCAHtgJRSfPA2-9bq4i6X3QDp2IMVciSxdQ4FRlrrpEj5ofypkCJ9T3cn56mY8IvG30mNo0SW78n63CVl513r-rlAvKg-DsAg4R2-LwPRPL-Z6cNcE2stKm1cH_Qamg8WvmvUk

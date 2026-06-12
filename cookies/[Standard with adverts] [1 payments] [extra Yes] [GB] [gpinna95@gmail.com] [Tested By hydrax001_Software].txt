@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gpinna95
+– Email: gpinna95@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: April 2024
+– Next Billing: 2026-06-25
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gpinna95
+– User GUID: YGKJCVIH2JCUXFVPVZEPWYFA7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793458027	nfvdid	BQFmAAEBEJql-ANPazO706YCp8hkL0NgeOyhmmwVwL6T2-dtU4jOinS7KW6Bt_uJC3gLifvBtXaJRvS-KrZdUW7dPG8SglgKARgljahyOAjJRYDdwqlnsTdKVuEDAtgks7VNSDiXAgQq4PnEp9G7BzMXC5hFl987
+.netflix.com	TRUE	/	TRUE	1799013436	NetflixId	ct%3DBgjHlOvcAxLgAyAcD6r-mMCfIgjvpT_z_m1e17gKWYJya7icG0aVUcioHzLyjrATtOG_9Ng3wv5-y5EsrgG65AGyuj21JR1Bb6tz-ZhAr6nKlX4fe5_cOgClFSja0NiP1Srs1tazEaVApvxKgNaSZXhqCi4FiGomZMfsd0jB5KEgIucvJ7QX3ZVO_7yTRDljUD6W6JCMmwL6R8BVVCZJyA5flxMJIoB6nWkY-gR8sydrEI7uAtQ500cdgVtECCgbuS3gUyUAYcmy2xZNMy8ee5I3fw9riRuZlkaGnDSzGOBbQmON8IHySKsXKq5HzCV25O0k2zpQCBcAuyUgA_T2NCJEGpWQKKXJlGQsYtbqi76X2DN4djHdSCuwah6T3HGnnbm4RQVVFevhC-CBxOz83t-8SdMINgbP6k8-MpY5toFGDhC-ljOhfdZAqE6jTEZINV_53vv9CF5FuiXQHx9B0sdh8HjVTHQlCchyAb3i89WDCRar5pUFkH-l8Mzl4GnV0aOXKSTp-R_5yeJVT4JjNwGoGqgSeQ4Og3wGOUg5E6T1R98Pb0VTUIX1tDuS7Nf37mnZotOvd2ASsL9cECq9q0SHegMyBvWGSeKYbA4e8fhUnp9FY8k678Zopw18ymqV7RwVJK-7nGExTxgGIg4KDMLRC5DZOKpq7ytY5A..%26ch%3DAQEAEAABABRyaEWWMZqN_DenhOi93UjvHu4Xj-aboBs.%26v%3D3%26pg%3DYGKJCVIH2JCUXFVPVZEPWYFA7E
+.netflix.com	TRUE	/	TRUE	1799013436	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBHJDw9HH1sgsMonREV9G0BlRiYe_NUDo.%26dt%3D1767477437289
+.netflix.com	TRUE	/	FALSE	1799019120	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+23%3A32%3A00+GMT%2B0000+(Ora+del+meridiano+di+Greenwich)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=5831e9b2-0ca7-429c-8353-503261224c56&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&geolocation=GB%3BENG&isAnonUser=1&intType=3

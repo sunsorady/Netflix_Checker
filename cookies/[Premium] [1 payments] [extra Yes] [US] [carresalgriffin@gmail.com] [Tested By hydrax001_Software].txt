@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Doris
+– Email: carresalgriffin@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2018
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5798
+– Phone: +14706035522
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carresal
+– User GUID: DV3QW7BBJNGXFPC75XJXWP3Z7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806534640	nfvdid	BQFmAAEBEBN_DDI4YrwL48M71n9k7Xdgr3BStcheoPXPrKxkGhdpJN85VY3mzf8nl3nm2wydU1HG3v3iVOl0nci-qg6DgeeT5rfcXU6LxtxDX1qA5ZB3trkwDxFmU7PL89AHgdhrguaJStgqolr0MkGjGfdVQQkA
+.netflix.com	TRUE	/	FALSE	1808427229	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+16%3A53%3A49+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3299d25-7ae6-4f39-99f0-ffd6e409343b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774998643034&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808600028	NetflixId	ct%3DBgjHlOvcAxKDBEHK8XA-RESXyVWm1VvQJ7p2PEq2EKsL3J-mqjkCMvaPmdAmBFH-bpT4U42YIYj_pbT7QU4uqYwcIhBDKQ_JfpchhaIS_yIXRqheAqW5j7tEIOfM6jzKtkqwmGuEDesxUt49qmLxGVMYWyzv0AdbeE9fq8LcfIabPXmx355Kx_MQLBf1KRNUv7vxnejbxzIgW2SFsVmZmOp2V71EcRujJMEX-ww_RmnFcC8MKioCw4dQr6SHFnJXk5J1K3oYH8rhXl3sVje6PgYwO62sX7Gs3LvmKUQeLv30sD4ZMTqPaSnPShiEYLu2PkOn-BS8G-QlCD8plFhY0rsdPr9FYr7vglu8Pp_GOvzZSz6P5zMy0kI8HcYvmKcKVLv0jnuOAyZAZ8dAR6MfnWCH8nZVmMdlfNovxfV2DRRp3Y_VxdDW5aqk3v_ZGtL0PiAoPgAIYnWqqEWGZwombcrhxV2Ub1PyRd8wgj0mNUMwSB0q0XazyY0UtLrXDkTb5TjEQhy_iRSnAifdzHVvXgWOO3bT4JVhWFpoB7tY3OcAVJG5HGp0NoNuxUbrLnjO9r8OrDYhjgCqj1MX_VeXkwX7vbZaKKeik3EhfnuEqflSkspnSIRGG1HaiKNTN9rOc3uFr2vB1l_n7O2jb2I3hmA88HosX6rZRSHQH1UJPr45vt9A9-nJLeFchTLGGAYiDgoM8rojJ6_F3Mac8ZRR%26ch%3DAQEAEAABABRw_urtepDXcrw4FUvJAvwFQ8ksaGhBaD4.%26v%3D3%26pg%3DDV3QW7BBJNGXFPC75XJXWP3Z7Q

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yoann
+– Email: anniepartin1@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2023
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 2052
+– Phone: +33785549373
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yoann
+– User GUID: X3LHVIDSXZEM5MO6A4IZGCOYU4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1781254786	NetflixId	ct%3DBgjHlOvcAxLYA11blCtbwCRfq6na6-8KOMpv2OXDXvPoya5Jvimv-bR_YW0ugSKjrTsYlTRj1lb31gYzYNqyQF2LGSycyFJTRbU0p77L95xv8kZIXnqv7-y9KHvNLxSazGX3yerCa_kqITcxBnY7lhPo4YhRkfFyVu2-oxIRoLsJNI8sTsNY5Te449wmlIZFrdOHPqzzf0KAkBP9D4x0vYOkTQAEnMXgv7y6blDzApffgNSazkvW68x4KagT7T24ZQfjRuLkJrBAjce2_xfMjDvH7f7y0QCvnsKzhCNdZsIKdPLI4VhnrAeJa2xhpnrmIVGDlKMGVlvSWeqjYgGtS5PaT5G3gmexI57-8XJSW3sRz96wI9iux0p9fKI2PBf7ezo--CDRx-KyCKGU1fqpoS6yseZnz9Kmv7_uVj8izkhQ63jZiBF6LZviHZp6qtcCyY3ZlS-7b_l_C2Mn2V7Ed6HVLor6_7fpaBMa8HFhJ1FPzKcTxajzO9mBzUiSkLCGtDTznqUBJ2tPwMpwkPoFJLUkWR1DdTgZII4qX5S5DVyWPzIOjJliv-7refJ2DKpTbaUXPVZS_yhQKvB6obtntJl5RKwg7SOEANEqFX_Qi4fW-ToF--6hHUS4KvU8LAu92u8YBiIOCgwkmE0IBXb1ro_apJU.%26ch%3DAQEAEAABABSNGtRJ1dBaEBasGLsCKYrJwGYBtyKttbE.%26v%3D3%26pg%3DX3LHVIDSXZEM5MO6A4IZGCOYU4
+.netflix.com	TRUE	/	TRUE	1781254786	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSkJ6W2sfgXMvt6-vKcsKNmOmcdS6rlEEc.%26dt%3D1749718786094
+.netflix.com	TRUE	/	FALSE	1781261062	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+12+2025+12%3A44%3A22+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=46f84b7e-c33c-4f86-85c7-aca8d7dd16c8&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&geolocation=FR%3B&intType=2

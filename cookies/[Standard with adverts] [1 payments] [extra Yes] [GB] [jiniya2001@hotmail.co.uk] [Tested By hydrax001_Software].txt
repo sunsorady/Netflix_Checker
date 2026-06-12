@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yusuf
+– Email: jiniya2001@hotmail.co.uk
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: January 2024
+– Next Billing: N/A
+– Payment: BT_INTPAY_EE_BILLED
+– Card: N/A
+– Phone: +447944497949
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jiniya
+– User GUID: BBSSUR5MCBBKHFFML77VGIGJBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805328887	nfvdid	BQFmAAEBEHWWus7qF_iRfY8e0rzLk4NgGLqRTlC04o0p_sIzsLd0QYftFkwdVT4RYVsEpWDVKk4itRH9Izm2O6t8bSP-GEgQhSo4-U21_YhMwwLVZX_u8Kr7Po8lf5_dwDEotUli93Jf_FFFkzyJff2rbSKQs6fn
+.netflix.com	TRUE	/	TRUE	1807308586	NetflixId	ct%3DBgjHlOvcAxLlA3Xg5Nycc1qx4Pq3guKmWRVuVhXxbcKGLqsS1hF1pLEzcPOeckP6y_ym5TJEWi--A54HWqisUMhKGvVUe2-RbQIdLnb1DN0xlAEXSKCh2a3QqwpRnxe3SoT7MHN-EpfZc7yy29-4AvX8bwrELT0TWd0-u3ZjAZiIlaNWezf3w89PWagBu4MO_C8pG7_v5WV4s-c1kMTJ3GKpP_7S2guQIJnlmqtC5PSXvxmcz2Eimf3HejhR65KEP29OkYei1KLmyIZA7NxQdAERLTxuwFdvt3z2bPYAO8asU3icK7iYvQpaZ6Oz6Q6_pTR5PdlY8k2Aec0egLJ0o75BRLfbsmly6rbfyNf7GRpW-Nj9HU2Z1dO0iCwcG-OXuDiuDoHdWYY03b0uKZehnpWYsxCvsKO-g63Ww9p74gojeKOQqOm5L4WdlFOPDXd_Wvo0Lvn11w2ElmymuJ21AgPEGCvoZk57g8BRZMFMEUcjSZL0lIhw12yoHOW8g0FPkaBlKjegkmdZheAKn0JQ9TP-sJuDo6HJCRmCorpvSp2kz8jX5oTRg0ZP-5L5UOcCrzGS1zwRVsJpaxYMLhPKh1kX79r77ppKaFcNThGhpMXIrWeZ3Zlua47wgyfst0ZIKylZQFOT3b0W2eAWeHyZGAYiDgoMwG1nQKq_zo287jzL%26ch%3DAQEAEAABABQ24E1KFvRAQskoB1FDd172mzYrdAA2e7M.%26v%3D3%26pg%3DBBSSUR5MCBBKHFFML77VGIGJBY
+.netflix.com	TRUE	/	FALSE	1807308586	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+23%3A09%3A46+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a7c0eb9-35b8-4782-bece-011bb0f7bee3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807308586	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTp4cqtsX8Sm8IHTJBlKqD5oHBv-vqdZE.%26dt%3D1775772587422

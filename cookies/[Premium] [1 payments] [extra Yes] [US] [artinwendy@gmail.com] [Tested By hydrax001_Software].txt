@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kofi_ifoK
+– Email: artinwendy@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2019
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 7377
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maximus
+– User GUID: M4BBCNUS5FD23P5Y7RNPQQNHME
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785401766	nfvdid	BQFmAAEBEENVc6rr6Bski_qbokSlXpFgcbJZzjHnTOlVAR8cA3wFK53_xh4BpdbRQb04WyjyS4ipdtSp_mUxosQoEzn-9EETWNFU8LFWZ82ctsz1ZtlF000XUPgRnBHpPjpsq5fkFTkdUoykGCOvP2TTNcajK5xi
+.netflix.com	TRUE	/	TRUE	1809865757	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAyWYNnYJmDxcEuwVUXnUOMKg_-yTHQfw3gLMppI95_lW4BzSD1bb_aBKiquDnK3sJc6jnQEA5kESt0ANln_EHIuaSaKME8-_arvuzkIYgZzMWW5xV8ktVhyamEYWHklABbsRGz9GXA35f7331tk8nnBSx-bknACpS0gX-Ho7xzEhMObC1MA9bYjoNIG_7xmix2kUWdSiSkDpE-qVQwXwuCd1xLCPz2den5OfM7-c4pqEdk8GoHErrLkSDqzuU3Tfb-W81evHJIgYp59VsnQod1HZBHVv-NR0kErka-TFcXDZssG7-5-LXtPFQMWPLg1t4golYoGemhBn0nP9yFA8oczBZ9uJS5fVL8fpQ09fCqnDt08nVBJx-7R6sjbqe9tDTGexIxC3njbaSMimdvla885bHatot4Za-EcjiXIP6Fscyj34YX0o7TdpKHyelPrFEpck4ljpFFjCoCyFrzsTSmg3stBIYLFzx0YDjowOIl2qCg6dRbcCwf9GorTAYdSRPd24-pgpSxxig1_1ISb6Sb6B2wmVAug1M4G6KiigGAYiDgoMP3wsNwH84oYykunR%26pg%3DM4BBCNUS5FD23P5Y7RNPQQNHME%26ch%3DAQEAEAABABT6JDRUzuY9QD0G6F5D-SzXBhHmhLtucac.
+.netflix.com	TRUE	/	TRUE	1809865757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS2hJwOZc7ic7B4rI0NK7aRU1mbe1R29m0.%26dt%3D1778329756551
+.netflix.com	TRUE	/	FALSE	1809893806	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+20%3A16%3A46+GMT%2B0000+(Greenwich+Mean+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4e41901-4509-48a4-aa55-00e28f846665&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

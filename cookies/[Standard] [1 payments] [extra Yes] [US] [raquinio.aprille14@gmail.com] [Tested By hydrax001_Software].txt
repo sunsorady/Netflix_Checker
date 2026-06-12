@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aprille
+– Email: raquinio.aprille14@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: June 2022
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 4887
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aprille
+– User GUID: Q52TTBFLUVF7LAJPN37R4K4JGU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791644279	nfvdid	BQFmAAEBEDzfivi-vJBd_YfXN5NUFvNgp0iQ0iykW_TFDz1K-2Q6bWY4S32gR-tCrLW3z_2X7SJmTY4_3IZ-ueJOitbR6MNTHEWaOqYK2lEZzvSn4Qv1fgX5xVecn0AnpQsXXA38tA9W7BlB5B0-7eAvQx6VvxJf
+.netflix.com	TRUE	/	TRUE	1806290725	NetflixId	ct%3DBgjHlOvcAxKKBEoVbwGN8i21CyZX4XGp4doWYHswzFNjyp_r6aRNNV6qOZXYW1BnTy0-7-mKmIDlH2hAc20c3qzU6x1VI7IYYmiVZU9bWQ8_ru30KAjf4vTkbIMCzbKsoMCVAvH_itqY-NKo61BLDVWqnKpC6Ir1Q0sHPpmsAGzNuJpnPBJRIPlL6Mgl3pl6T5-b3ASI7vDRL6vwfJVidrDfmRBGk8xKqLkZg6x5pYvyoJWl0-cirTXB83ffbY_KL4pyTaEjUi2NizYn6osPLkQsmxn05w2--OcczchXOn--G0E0cPV9KVdx6MJ7OAmf1BJtxf2QvsJYHJlM1TH-9dc7vkfwcHPs3bTRCdamm8TTQ6rmgJA9UIB6UVZDk-ms-fIIBSOR86Bzcn5Q88atDqI3qngtiZ_jl__F2G38k0_K7g5AClu0H1BIneNY23Kp0DVBwSLsRjImmzZ0enP_Tv3S34YXSAO3qUKRxfP_oZH_cvdSUl_HG2jGe-LSljUdQffk1IKKO-_gKHcG68EyZQQfp8SulTYBq1UPGoWakjFaXqM8foZ852Tu6yhr0d5Ly755PAur74s8LqxvJ5cgXpYe5-DD8mEJwUfykV2eEK_Bp0hYhRbD_2eZw6wgeu8rfYdOpnDs6brrygf4CpaTKxA4103fTf585lZmhJam1QiqNQzmN-zw1DnHmgnTbA1rJk0nPxgGIg4KDF390HaCTaLprTOAmQ..%26ch%3DAQEAEAABABQPgNMaxSoWyABU4PNec0diKaoI4Sd6Zto.%26v%3D3%26pg%3DQ52TTBFLUVF7LAJPN37R4K4JGU
+.netflix.com	TRUE	/	TRUE	1806290725	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8bcvVfpdLbqh19hkZpV4pANHwhZYMRMI.%26dt%3D1774754724326
+.netflix.com	TRUE	/	FALSE	1806330426	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+22%3A27%3A06+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=340a7108-3f9e-493a-bcd4-38882bff1e17&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

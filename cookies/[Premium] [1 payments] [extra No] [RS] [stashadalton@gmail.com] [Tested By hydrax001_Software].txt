@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Stasha
+– Email: stashadalton@gmail.com
+– Country: RS
+– Plan: Premium
+– Member Since: April 2023
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 0324
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: €10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stasha
+– User GUID: J6AHH7JJ4NDVFEY7YIUWSBGZWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783441458	nfvdid	BQFmAAEBEDL_yIVviaBLU8343Wcx9wRgDKzFuUMlAwH6SlnOh1rBEdR9S1J3rflOPgOdjpJHZQrBtyFTv6e4LQktLg4yGnS8-0UhSRbAMlPuG-GmqQJwBNtRhtsQ04YqkTBjh4YBYQgghmLK8sfLctV8ugKw37zD
+.netflix.com	TRUE	/	TRUE	1783441458	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABROp3Ha8d-bKn5wEDFJ8cALXaT30IBqqks.%26dt%3D1712608955557
+.netflix.com	TRUE	/	TRUE	1783441458	NetflixId	ct%3DBQAOAAEBELnEgaY_JYw0pUXKxuvfQLOCAAgXFsYGfy2Fg-p6n7HbFvfm2KQLZq7CqquqTQwnM1FvM1P79-Io0yWTsYmN3cY7Tdtwd5aCgNS22BPRBZGHjPqaclXf43rGpMiMRGDA9Pgqaej_lExVyQB9BBXHR3wwDxd9FBlaQbokgxYUWRZ2RnbRhT7tNesZ0WneGtn89aVSfyoqDJ6Xp0UANi7oyDtCppOvrQDLVhqaz8vbvFrjBmtLt15KzKRkluxT8B5bQqQFbDA6BUDlwqkl72k5SSa851p29nmWI592mx6xtAt2USKR3ttxaKitF0dsD_IVZyvD7WyvqNmcfWBM3CN1DB5auiy8P9YJw7H55pKQXYszZxjnILq1CzIT2_0Ykfym2PHU6ls9pNmFLsp_qZDwLKPcOlBAupplEFo-7lEEmzqllvJ2RlY1-xHeAxeX-2wNXKN_d1NA8NcC5u-UxddFAT9cErkKVD4kelhZJ-jMnRODjnCvP4q4gMgQrnilALhkZIjKR7hzHw8cYO90qQGmY0mehyxz9TlRS9xI7gmgZbpnwbLxCc19mBu8iNi_7wfCaXHcE8sjCJrGtcRXRdyr1RTCJUJujt_ApNUp9o9xtvukDJhdsBSRFNh4kwu0MKb1WgCpr6i3QQaeMTZV-1rZ9wnfCs-Luo_QgSjgcE0ZUoZlY4imd3lnpaTxl8CnvSw58QER%26bt%3Ddbl%26ch%3DAQEAEAABABSPpjD_ze4wtjhUPsZFBtknzTracZk_uLg.%26v%3D2%26mac%3DAQEAEAABABQmsrU8RolkjqiBBAfgFB_iA-LXN6GqrU4.
+.netflix.com	TRUE	/	FALSE	1783441458	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+08+2024+22%3A42%3A38+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&isIABGlobal=false&hosts=&consentId=37715992-83cf-4292-ac1a-667330ee13d4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1

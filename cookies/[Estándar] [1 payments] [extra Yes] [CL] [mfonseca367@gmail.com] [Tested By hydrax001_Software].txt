@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vik
+– Email: mfonseca367@gmail.com
+– Country: CL
+– Plan: Estándar
+– Member Since: diciembre de 2022
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 6462
+– Phone: +56981828044
+– Quality: HD
+– Streams: 2
+– Price: $9.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marcos
+– User GUID: 5BPRMA622BF3PGCU2VUQMZRFQY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805586618	nfvdid	BQFmAAEBENr1ksMcxwSFgmFbuZqDC7JgaVUubiu_099vQyJW4SLBKLGV3pweb6cjgER-UYqNYTdMZKD1U9FqlkY1QOPMDxoWq8Xz1AxsbPLSmo2wv8ALP6X6kRdXqNucy3svqrkoxEof7gM-WgJM7w3_GhokVEtb
+.netflix.com	TRUE	/	TRUE	1808173448	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPAxKo6R_3czO_XFdbq4hWN4OdqVVEEfKVJ2iKtEJVDUejcGztqXYbs6zsgxZAF9TXtjs19zMoWFNL8yQLd4EJynBZxPatZlSOoqkyuYirvuagwI5AP-2A0ad71Do7jnRRxwmlUl7nYL564gsS9WHU4-KEqqshSJzNtAN2lPgDAk3zZLoNAwS8ZQ7wUaqagqWmY3ERoSXDhf-Gmhu60Y0pwPM0ufbwd9RNfp9AeeuBsnLkZ-9Ab85nZiCZxT5dYRW4Z3zrJ3_MXCk1_QhsmaWCzN85fbjVAYwAweK1gVVbzwaAhD7ZlGxO3gbVtOByLJlXSf14fdrhi8hCeHz-qI8Bvv3vytk3pR0e8AJ-f8s0PCK5DukC-suxD_XUiNE9th4M8LUxzj4u8a6kmR1kK8D4Bouhzc67Jl56hYmuRNFiTYaRA1MY1Lylj-MFqkkwlEUEO97_Ke9dJR6ArQbSwI2ye8VBbVXVjMEbE79kVLA29UUY-kwFauMU2_u40TIAexjgVPG88-nmgfo4QLo-ftdguhgGIg4KDHzk0O9VYtbogALVyg..%26pg%3D5BPRMA622BF3PGCU2VUQMZRFQY%26ch%3DAQEAEAABABTuMc0w79eSAL_Qn5q2bEwnwpdURqF4zWk.
+.netflix.com	TRUE	/	TRUE	1808173448	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBZRrngfthoM6QsQ4cYQo03MEtOgIFJWU.%26dt%3D1776637419910
+.netflix.com	TRUE	/	FALSE	1808181940	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+20%3A45%3A40+GMT-0400+(GMT-04%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09c5b646-a3f6-498e-b264-c114bcbf3600&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772947138429&AwaitingReconsent=false&prevHadToken=0

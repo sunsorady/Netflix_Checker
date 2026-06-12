@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Invitado
+– Email: francisco.paradarodriguez@gmail.com
+– Country: SV
+– Plan: Estándar
+– Member Since: noviembre de 2025
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 5193
+– Phone: +50377424722
+– Quality: HD
+– Streams: 2
+– Price: $9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Francisco Omar
+– User GUID: WILTPEPDDBFWFOPO7PY5PKQ4QI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796701434	nfvdid	BQFmAAEBEAni6SSrUY3UCJUftu3XeRxgq7KzfYDf10tsGDYFvKykVThp9d4lvRBRM4XkqHdIzon2Kzi54URxc8qcdahednSbLukgdgQqgtoKzZrsfsbHk9iufD-qy5jyi0clQW-qRozn9r7jmUk85KPI6F51Kunl
+.netflix.com	TRUE	/	TRUE	1803594195	NetflixId	ct%3DBgjHlOvcAxLpA4mZ28RuH4c1rm0wTtGgdl184_4xacp1OuklryvygPtJRfYiZsSp1KYX1C8eaCgv7Ep_AR7MyinklMUkSpD_qAV9HXclqrv1N1IxHrC9PtUI8EaBncLfFmB4mtttagV0BEPHvJhiucSJAy-bd3LFkWLEAvpU7xX7lK2akp4ey71ZO7rb64Iv07K_g-YzkNL6grFT0dk-ugnzSyvxyoMF6U7lQYN-AMrKA8UQLSgkR_ZGg6Ka1va5Bz8rH1AdAlV-lOt9hyi7GfRmzNsYjCE5FhJeWuZbUDgAoDWzRY3sUtf5Fv24yBaChsRQOKboe1T2SUVxj975QReHNj3-LN7Mz8Mj5xAsPfL3PTwFbkXmpZhU-NgqFMX2Kz81JmsvewToX1yKIVgQvhitjWMqTiRdhD_s6zpUODGLcUhJKKopdrsoG3und1NvW2k2Mg9raG-IN1yfW_r-WRzd27ODIrvVzKjFsozXIcyJLVdV5Woou7fD7uHvYRbAS-I3KECoiCeI7ovI4PQtREYPHHExcLnmZ2GVWGvbap6mPVsOYAc5Qpw2jYYZavt6YbJSduRkuO8HcWWg__4VZsFcuhvNn3n7iPw5w6v6gt66fQ1VR4euf67m98QsuaaX3I38ZnpdDTSk_2eB4rLCxQxAfxgGIg4KDHma7WKrd2rSghQxtQ..%26ch%3DAQEAEAABABTzOylFKyStOR2YBZA_wjLD90VZroSoJuo.%26v%3D3%26pg%3DWILTPEPDDBFWFOPO7PY5PKQ4QI
+.netflix.com	TRUE	/	TRUE	1803594195	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQI7faJNryprn888FJ7B6EDASzg-a6fdRc.%26dt%3D1772058195839
+.netflix.com	TRUE	/	FALSE	1803594197	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+25+2026+16%3A23%3A17+GMT-0600+(Central+Standard+Time)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=d9b9909e-0e88-4416-ad6a-61b291087712&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1

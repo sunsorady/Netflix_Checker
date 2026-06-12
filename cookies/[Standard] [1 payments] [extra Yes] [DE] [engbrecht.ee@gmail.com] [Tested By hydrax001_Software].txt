@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nico
+– Email: engbrecht.ee@gmail.com
+– Country: DE
+– Plan: Standard
+– Member Since: Oktober 2017
+– Next Billing: 2026-07-02
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ENGLISH
+– User GUID: TNPWMFIPGZDNJDHRFPLZUKXJGQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799691131	nfvdid	BQFmAAEBEHrBXll5remkS5FKr8nbJrhgsb7XpyCZhMl9IcFd2L6KfgQD3PnOevBn7M61vCu3-b0ScEoLu9BBV-B6hH_tGw6UvwZimQ7-JhyibHvWwigNVfLyVjlOAjCOkQTQJNM4vkSfJa7wAZgxtf7PfaaEQpVZ
+.netflix.com	TRUE	/	TRUE	1800214433	NetflixId	ct%3DBgjHlOvcAxKsA3RC7xx_mVZSB2m-cLFhZuFv33_m6G6q-EhfRw-ZQ34_42QWJ99gQRVatQk5YubuSAqkQi-BD2BMQhXItuEb4pRuIlmJxfdLtYuEJTVZ_OvlwficjXvHxp9aIsCqD3JEW5ezb6rF70mmCjScqt84w3Kw8mT_vy5L5wQ-zABEAQZitaX9ycPFdxO07yT-iWEIkUZVkKdKVUOLF0WS17u050NT2OixLK-wxPyv24YoSoIPrD-N1GHIDv7n_ItQPTUtstGjdhdFdS9r9zlSaRU3cCfUNwPFL89sFWJKaApaklLfoiTnOfLmf57xAMc51wfPlfrla63S0QhsjP_lZ_oroinB6s-T1eMwpAR19Yetcuf6mLVQSEJuo8gydt4HK9qVWWhuJRVxuj3I7FwswopMkUaTzjqKTlwfxWZ8nPCONOZOxWj87X5A_-9AbZB1Q32XPHsMbeALmLLm0bIZ66JSbLNQUCyATQc9EjVIiNzG8KxD6tzZZzqRq3h5ILY9JLPE7dm-ANKWvQ-9UPnQ6P3RTlo63B_r-t_jsLnbhSUiTmfBvyYcO5IaWq_BHaOwGAYiDgoMDhpQfm4RK4vFcASm%26ch%3DAQEAEAABABSbiUiFgFyAjMDfGd9mU7qht_awQeoyhvs.%26v%3D3%26pg%3DTNPWMFIPGZDNJDHRFPLZUKXJGQ
+.netflix.com	TRUE	/	FALSE	1800214434	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+20%3A33%3A54+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=325b2c30-93fb-4a85-a5a0-9c67b90cb57b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1768155025192&geolocation=DE%3BNW
+.netflix.com	TRUE	/	TRUE	1800214433	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKICaPCZCIzTudKFFPb115qqC68HaPFXA.%26dt%3D1768678432638

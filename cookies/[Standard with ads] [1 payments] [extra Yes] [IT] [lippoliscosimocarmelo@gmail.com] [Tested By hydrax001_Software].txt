@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cosimo Carmelo
+– Email: lippoliscosimocarmelo@gmail.com
+– Country: IT
+– Plan: Standard with ads
+– Member Since: March 2026
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393382730752
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cosimo Carmelo
+– User GUID: B5KKAYTB7ND6NPVJKDDOHQYS2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804348485	nfvdid	BQFmAAEBEAq7brPijcG3qCLdjlvCcKZgbYGYoYpPE0hvQLClxJMhNrNIPOEvVNwZIpAm8ItDNpnxVUG_MpQQgdDPiujp_Mes6-XaNtHwG-1qZl5gW-qoLAdoVybO98d5oSeT_21diZEzD2Jkxum98_etmEmiSdih
+.netflix.com	TRUE	/	TRUE	1804348485	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBA-q4ZUn7nDWa98qXDHKyBi-j7mPLTmYCKjIdpGZTsFVzTy2k-p-CyUGEv8y9byvjfSLi5Eg3qFgyg1N1PJ_Jc_kzmjM4hcxfPpzGqqN0LgBQsTQEaiq0gpwa5MQU7_k6AOrcnIhgn0S1HXdjb7lXNeB72DzKIEJo0cBDfFyAuSNwdOLvvJp9R6Z2AwqHRu7b3S094yHeGidI6wmfSTIM5RNKkB1jRP8pP0vyVyeDWOdyQovVmwPPdCjasSltFL041Xg6eCxEbcL0PVj3rLD2CZMNR3LM15zHm5HubFIlQw3MtLK8-UmVJLsjYYDNg6JMlyo8TKaYodKVbw0TWvCGeLNU8TUTJ08nE4fTEXbOmpi32OxO4KGHSwWOtN1FrxGE42OeiWXz1rCJX4VOCRDe1GkScB1E1Mcn7zXaJVCGzSZ7-ogFEM0OvCcL7wUInliQlzLKpU9YhSnb9CY0Q3a-qy0pBB0kYbtDH_nRkJ0yzn5ZltkW--pKjIClHtVa4OlTjecYBiIOCgzRFSym7zkPAhwWc3s.%26pg%3DB5KKAYTB7ND6NPVJKDDOHQYS2E%26ch%3DAQEAEAABABQuOaXNSN7oy6Hz8YksQP-JO1nbewn_5x0.
+.netflix.com	TRUE	/	FALSE	1804348545	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+16%3A55%3A45+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92125fc3-29a2-4154-b266-1e44bf20a918&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772812439238&geolocation=IT%3B75&AwaitingReconsent=false

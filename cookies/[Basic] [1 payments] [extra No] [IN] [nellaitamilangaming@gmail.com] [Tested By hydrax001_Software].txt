@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ashwin
+– Email: nellaitamilangaming@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: April 2025
+– Next Billing: 2026-07-11
+– Payment: UPI
+– Card: N/A
+– Phone: +919342451062
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: raja
+– User GUID: U77QJVRLL5CSDNY2I4AKNBIJ7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790276563	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AgD2-pGgjHwnYSXjIoPCstUuTxtujQz2hAGf3_i8anFLCdg_tihivt7bI198nIQ_gue9oTs__uDVyL-Ttu0msWxyzjwO8CmtJtlEYxdw4bvkVs5efzs_LYtyLutrxL3SgpiBEWutGgBtWW-yM6wNogniurg_d-v3ci2YSQ_dWOPPCZTNKmyQjlOMhYAU73wsv_YkaRJ5aNOi7pJloYEXJhlpAHH_gN_q0l4fLSzD0w6wX1bj_oedBNc16GYHREgLUFuAbHf6WzeV-LZM0jnf03QiTeH-ESVSd6nrP6cEgmeLzkQA-hpAWk04aVDIEG77_pjBk4Tgvv5pTVVvA4Q4reHehCEeDDAuTI9G9-P9qY3WOW2sE_mjbmAWPTvXD9tVQ7FJ2l0dsBYL62q3rI99Ayx_R23njkhdIIYRrUGfe4epxYHf54F5GRXRAdnFbRSJYojSHBgd6e5IlQW9dO1R_cDvzQgDPYIJPLbAfGOn6v40BkEMxwrNZLgYBiIOCgwlOJFB-FT8pQpK1x8.%26pg%3DU77QJVRLL5CSDNY2I4AKNBIJ7I%26ch%3DAQEAEAABABRuI7KYe3fuj1QuwBtKwXBSgp4MqyDTpjw.
+.netflix.com	TRUE	/	FALSE	1790276564	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+25+2025+00%3A32%3A44+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c60fdca-782d-428a-b6ec-abbdffaad83d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1790276563	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmWNmw0_xDUTWeOiMi_n1F53lQahyy2CY.%26dt%3D1758740563528
+.netflix.com	TRUE	/	FALSE	1790276560	nfvdid	BQFmAAEBEOx_86ULWyLwu4g2OMZz339gzXlwH3Yly3r03tYgL8hK_gCkebTxGFicXzsWUsB_JsmJfD5W3yISUANoG5dSh6O3Bkn5aikcOm4D820XsmP7tT7VKezijgS6aiiOP4d7p3OJQ093vZcCIqcPyPdPZBC0

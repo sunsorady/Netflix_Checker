@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ankitha sukumar
+– Email: akshita.kumar333@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: January 2022
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 8973
+– Phone: +918790631588
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mom And Dad❤️
+– User GUID: 6S4EXS5AEJAEFDYZLIWC7BRL6E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799433221	nfvdid	BQFmAAEBEJgoUoZSR4OxE1RuWIsSwC5gnbzBxo2LPFvXLtYGHCrFORJ9nV2VCvyA9qA118JMpHEJ4dq5fe-c6DZfmrkr71ovxIoGr1V5lw-jWtsR6GGrlKw80MD_aPv6KysMzjD9al0fqmzoeQcA2c60bYPc1Yl4
+.netflix.com	TRUE	/	FALSE	1799433898	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+00%3A14%3A58+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab6ace18-8523-433d-98d8-d8340bafdb55&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801062591	NetflixId	ct%3DBgjHlOvcAxK6A1BS0-TrlqGvfkEs6tW63sW1L4KzAVASB2oKf4qUKYAogwrz1jucJ9zu9ahfs_YiXXAb8Og3rBAokDr-AfLyFk7TAYTW73C491ej7qXw7MUK5Ih8yAqVGQiu8IW50hFsVNrB-kAFsq8MQvK03zBDyy2hz1cmo0GPT2V8oZTm5iP-mGO3T8pEaVqPWhJ599eXXN8hdWeHTaL8FnOZIM9oNIEyjTroLyODrWWuDgYc1cwwwk9vk-I6B-knVcNe_lPTOH8ajnA4aNpbZYnvvP_DPL7KycJjIt07HUp8GI9UFeWFiC91-aQBNuH_eE8fFbhtFNVF8c68lEe71pVz38YKN5ns-528D0ADqMkBSv9hRn84_AoBH7nekJn1OieusAWLQ5dQbUGTGVATzw292K-UlDQGSubP0hnAAbWEKPOKm3QjKMMDGd6C2ToRDYPsWYKKWxdchRX7eDoEXglfrDQ1GC2PPcwMKz4R9WXQManMFXX0Xe9Zxy8Bm4obMc_yyouJPhh9YaEtjOe2zfS7ortK5gpb1u4MthIfnfNRjrLlbqJQ9GgmoRvTsaymHIbg8t2M5v1sEVVy0C1xyVgYBiIOCgw9dESdd8BKA4X7gwE.%26ch%3DAQEAEAABABQq8Km-Q_Wz5PA209gxsQ0iFAZtIGdk0F0.%26v%3D3%26pg%3D6S4EXS5AEJAEFDYZLIWC7BRL6E
+.netflix.com	TRUE	/	TRUE	1801062591	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvRuD-oYLcycIklhbdR1Btb5IQTniRIDU.%26dt%3D1769526578343

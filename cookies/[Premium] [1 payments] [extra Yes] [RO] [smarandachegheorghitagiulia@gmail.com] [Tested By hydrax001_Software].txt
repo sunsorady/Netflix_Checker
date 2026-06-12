@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maria
+– Email: smarandachegheorghitagiulia@gmail.com
+– Country: RO
+– Plan: Premium
+– Member Since: februarie 2023
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 6681
+– Phone: +40764135994
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gheorghita
+– User GUID: 2BYEYZT23JB5ROOBJGADEKUX5U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEB7sHSJaY3ZrQ06PVkgsenRgd3KoLXZBIqcEz7yBOVfWxbw1LIcCnH8oJQEQ2lpffUiiMm0ZW6EPducyZtqjuXeiQCe_Rj29KR9t6JZ0c8UIERhqpEnTeA4oc9AAjapgMBkOZirZxLo_BKO1bQtcj-8M
+.netflix.com	TRUE	/	TRUE	1783623127	NetflixId	ct%3DBgjHlOvcAxLHAxeLt055KFDyIE3WOdJ9O7kG0K8H0Yj35KJqhQC8zorRVgQUW9OSQJ-gMdsPjGgaivlUP5N5-VpZ73yI9ZDTg8EI0YGR45AY--IZOeFCdQ80mpuMjtjyIOoVmF5ZomF2SB8EMZNBbSDi7iD2P8h5HbXn6ZixH9LQ-R0_GFbKDs6QKi-P5l5DxswcoBD9ghHfjrr4_X005tnb7KTXISfQx9H5BRRhKS32eyr-wNrVC_jnkhAqTsuqcZtQ0o46n88nBB-p_QGgHlkOTNLOUfzULeECrgT6tM70ZbWcB4SuUKRXMFkZPXKPTwUkNH04-Kfjh-wY-azDjYvEtZkqf3bmev7V3vW4l4qWn5SfkP8_vbwPmxmfP7WVlaGFTG6zYBRA2oPmJsisDuOU4MR63Tv_KUBf-swsuk6FwzFjWXDHVmob0VxfYU5TnsbL-aHhXuJbupLOu8oJ9LCr5_w88XZgZ0_mh1uhpSKSy0vyubCCJu9wl82wfBNuiuFh6WwiO58HOIJT0LDIw2TTW9m76pLcIIrZsvuhbigxMk0ehVbZibIq1skWzTUI-yfWWgRpc9ug47px8h6Vt0rAgwAMSbnAchBbYBVkHVgLGAYiDgoMFoaZqwvNpJvUrajK%26ch%3DAQEAEAABABREZCHLEzn1h0DhRsPGwaWVMZrOgtD1jSg.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783623127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTV8yLEstk3oa-SqHdpBqLCHcpIK0HNLfk.%26dt%3D1745785475377
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+28+2025+00%3A47%3A08+GMT%2B0300+(Eastern+European+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af1f1f01-5008-4477-acac-f98c71699378&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BDJ&AwaitingReconsent=false

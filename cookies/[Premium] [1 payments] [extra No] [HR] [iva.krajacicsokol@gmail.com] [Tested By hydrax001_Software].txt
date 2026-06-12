@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Iva
+– Email: iva.krajacicsokol@gmail.com
+– Country: HR
+– Plan: Premium
+– Member Since: ožujak 2021.
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 4472
+– Phone: +385915283825
+– Quality: UHD
+– Streams: 4
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Iva
+– User GUID: 56OXSAD2LRA7THW7Y3XPPVDWOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786290189	nfvdid	BQFmAAEBEOVZoN4UYZLpkSIVU4kETixg0LMG0kCQgTQeFYELb-MzIqtBMMYTrXmXqcYnWH099eGYuYW0O5X2fwOiVrF9hpU4VecMoAdumy2UMTT7oxB56tTlGRuJ1AMO85kNLAQCqw2cAiBUQsBEEX4c0LNVHN_a
+.netflix.com	TRUE	/	FALSE	1791661643	OptanonConsent	isIABGlobal=false&datestamp=Fri+Oct+10+2025+21%3A47%3A23+GMT%2B0200+(srednjoeuropsko+ljetno+vrijeme)&version=202508.1.0&consentId=1b4c4596-6fa7-4ce3-960c-a273674e2989&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=2&geolocation=HR%3B21
+.netflix.com	TRUE	/	TRUE	1808687531	NetflixId	ct%3DBgjHlOvcAxL_Aw-gFsthULcgKPhQ_ALnlIs91so5WiJ2c2c_fy1b8GjWeuwk4oGTjmA97VzWFu7q_PuAuvWcD5_m_vfdqSCXm0NLGzQRZZ9tzM6Gr04iXqiAbRAOumkLd1QIk-G79L4GCKH0pbz3M4cE5oy6lTUAungg0M4SL_rSKLHJn3rKb-iuRvhdcdNEG0RUfweuOZKmp9I0pJji7L3IVWT0zpWwmrY_2KpW5Gxz9T2YTdqz7e7mCTxxEi3cTKW9XoZDCYNER7NOXbFLoM03wpEQB0x3uEiCp-UEeJ3Ya7mfqgJpfJNpF_Sv-1qHm0PPp_uIohP-tqvbmlFR8V3MNd98RPahGT2YLzEGk78vibLHeT2hMg0a_2GqGCu93P_LsXF6T2dfZjh1K8_Tt7mKSmZjOkZJ-Nz686mN1u54tdYT27_1tMZo-KGXnEVj2AN0HaBJVkV0SccTZmBo2WSamFfzgty12po5wY4-g6ribRxBfzmG_rj8MQAP_uBCE-f_kJOWkU-OLAiaBeNN8IcsBwGPGpjdwkWfB6efa74OJHcpSWEfXyjlC7WEVEw4Nc7Le_ZsFRLolhoP9oQXG39pcOUZ7ZOWFkZRK72uiRdCWyBZHCvDtbsj_IgwZqGDfPXqPhFsma6mYvbLLkcwCKwW6B43gv-3W8UCnPYY5zmiMNQ_2PWLgbcYBiIOCgxl2dTP59kFRtcmnGY.%26ch%3DAQEAEAABABSbzL7klmIDIcax68bHNuggeyOx8kyC7t8.%26v%3D3%26pg%3D56OXSAD2LRA7THW7Y3XPPVDWOQ
+.netflix.com	TRUE	/	TRUE	1808687531	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRQUjceKEd85H0TGaWmQc8XFNM_8JIuo0.%26dt%3D1777151532970

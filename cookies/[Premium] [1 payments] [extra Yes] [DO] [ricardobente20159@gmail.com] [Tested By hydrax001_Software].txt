@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Riki
+– Email: ricardobente20159@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: diciembre de 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7492
+– Phone: +18297689162
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alan
+– User GUID: JGDEOZWR45GAJK6ZEMV3S4NRQM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797824587	nfvdid	BQFmAAEBEP8dIoa3FaNj3ydC8-iu2cFguq8pklxQzVn6X_eYBA7wlHWObRMoP9UJ6RPWDaarPUSesI7KTSlRHJZVzSBRyX_43dlwd84tJBmPLflqnVlomaF58q6EX6Jr7Ue92AkRxplI91mBafBh1LcbVEhKU-oE
+.netflix.com	TRUE	/	TRUE	1809467799	NetflixId	ct%3DBgjHlOvcAxKEBBCRIhrvBxTM_cba9M8sj3CJeBJyjHU-9OqM2yodmNKkWqbNDVovijxlNUyurksmnZ04RioUHhQZ2FwUTXmWQpV4IFhwz0ZTBB0VwoqkIGrvhldQNu1sp3SN9UpDoJBgEAvKMlxn3ijMdPWSsNVkCxgoW4m54eIcD157J3_X6APY8lsDgn76v04Sg5vfZF8ukofLLu1DeLL5qE6bpQLYezzVYXbKnjU_84HZkR70HtSUZRkl-Hl46AeX0diXbtwYwJL1qTtYLvUgGVu4U6zgP8ZaRxIqoDsrOQlLiBC2l8UtTYzYHfo01ftyWvRpNeLq2L9-x-08opveG3IDll9eOr2hjz9HveHO65jfDLhFadZOZOg2RtpenoDbO1WA8sq9qwnCtS_HdpB--T3wnsBCot8vGnbAwqOvvMq1S0eRwiBuGy4MOd28if3ry1Ud7HgxAQGQt_QXpawiWGz1u_e65QtbB57MiBiPgYBPcrrHn4ZPXYoCOy6wT_G-2Yv5U85MIwp1SsASs9xQ8keAE4DTSM-M6ejRkaz6PYb8ijuPlaoOUZ5DA4S5bcIZuzK2DIwvpkxJMv_X8bswNYx3RCdNW7Ibpn8YXyrEuc2LUbvaGeeAH_n3C_o7E70OjTKuPa5m57XbyArEV8ViyX_TlYRMy-CjJaNF7Y4GQ37OG-k5jrmkEIR75xgGIg4KDGpNDnPwbozzyVoXsg..%26ch%3DAQEAEAABABRsg21p3JOGQbfrBVTS6OQJ2baV2YCx1kw.%26v%3D3%26pg%3DJGDEOZWR45GAJK6ZEMV3S4NRQM
+.netflix.com	TRUE	/	TRUE	1809467799	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFxghO6OPwcBQAMmS3hW9Pel4_2LicVSs.%26dt%3D1777931801837
+.netflix.com	TRUE	/	FALSE	1809468535	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+18%3A08%3A55+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=af16c7f4-6aa8-46b9-b2fd-6ffee4cfdc4e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

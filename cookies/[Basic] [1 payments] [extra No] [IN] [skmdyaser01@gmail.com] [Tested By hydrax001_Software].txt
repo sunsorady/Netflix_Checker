@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yaser
+– Email: skmdyaser01@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: July 2025
+– Next Billing: 2026-07-12
+– Payment: UPI
+– Card: N/A
+– Phone: +918777285839
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yaser
+– User GUID: KPNWO36JIBAYBHWNY2GQEX4R7M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788384544	nfvdid	BQFmAAEBEG9qmsUgOPLUXn8gesjLWGZg0m3dJkyvwGnZI9NAaTjYNJpyUbm2wYTWU8aMFEHI95T0xVNClIXGcB3MDwNBswbq_YhjJTWLAO27Ee6p_FYnypq7fkq4EnHlKZd-DPmf9kLp9lCqE8Cx0zxMZ70zNFQ4
+.netflix.com	TRUE	/	TRUE	1808942883	NetflixId	ct%3DBgjHlOvcAxKDBCgGPFbMium6lvZ4X7Psqb3S1e7jWSfyd41LoKe7DR_GrHmt8-5Te1a8nUCD5Not-Y_uVCRzR4sRoICLdc7trCBHv2KN6pZSNEyjtiPKt-FNTqyq4bQReU_od4C-krbxx-2EYcY8hyDESsXHBt_QWo_BDMob0Finge-khkV0SNWx0za-tLyN8Jg-dv6neu8wZgRC84M0d-LHdIkMXQ2uSwfQbuUnadE2u8VPB91bfEv2dVhO6FgU3eXtYhgFGhkMhU-Cc31Lp6ixCfPQ6LOWyQnZ0Y_R-P9HyJ3KNGqdwM1kMhQM6GQX7ZsBjM4j6eZDhLcj3k7whbtCR5NjRYCfBgcNpOUmPmW-AubAugOZVZVH_rN6RxaGCPvnbzikJplF87YT1WRFqmfGpeWWjPGziCQEXSXBN_oeVaSfxwR22nF9OvUl3j3_SAl95Sn7LR5jEDX164zXG-30WfPwdnE0E96pyu4mbrC1YeexZNxEh6URz8Shn7ldOM9Mt71ahfx_E2j8FosZ-5p77f8eZM2XgVDr4CM2tJCCAYIzGO47BpE7oYOKPmjrhp5xGVj9oTsSqYulq_o4YNEATzwRI7bV3Mtg6l2Rd51TpJv6aCLJ1YvQQO6D3g8IZQ_hTHeAA6LMo2fxQaZ06XwMIHnL5k3V2xRBxLDVLHFH6NlZUsMKgz3OTorzGAYiDgoMqLWfCIpkhy9qKNhp%26ch%3DAQEAEAABABQyryQ20pY4usK-I0lpgB_PMh7b8UQeag0.%26v%3D3%26pg%3DKPNWO36JIBAYBHWNY2GQEX4R7M
+.netflix.com	TRUE	/	TRUE	1808942883	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQa6ta2uGYbRgh3oqe69JHQxXDMzeMiQK8.%26dt%3D1777406884275
+.netflix.com	TRUE	/	FALSE	1808948740	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+03%3A15%3A40+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb841bf0-9ff3-4f9b-8e88-18c519343d91&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

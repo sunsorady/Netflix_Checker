@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maminka
+– Email: lenkahradilova195@seznam.cz
+– Country: CZ
+– Plan: Premium
+– Member Since: říjen 2024
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 7758
+– Phone: +420737349838
+– Quality: UHD
+– Streams: 4
+– Price: 419 Kč
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lenka
+– User GUID: NEFJVD7CWBCC5B7LFPVSPDD2PM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3096496213	nfvdid	BQFmAAEBEPwOIbA-Q_CyEy6uV9RJo9lgSxn4K5nFLnjRLcDT73jUyFY5NXFqxQkBpdOTHX4IlnTGYyooG5_t6Ki9OMQIdw5kjFdYFBgPwt-6xhklKbBVCWDUCEvmfaX2JRLY6Qkpjw207-MVSNssccMMqYf6sR2g
+.netflix.com	TRUE	/	TRUE	1783623127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdO5krstKPSIsvHFK3l1zLwTYVLFM3rGw.%26dt%3D1768318733083
+.netflix.com	TRUE	/	TRUE	1783623127	NetflixId	ct%3DBgjHlOvcAxKWA2w2XVTUH1WZcDqnd8Hj8JOSs2NCC6A-emifC1KnsYZFw91jCU8gXt9QODATPn4i9S0_fIvyn6-bc4t2yWcTQ_JzCVRNTIh7MffgPxnC4DLRpBY0HvTTKgb0HI0xx7wn-ghMSDpM1-AOtr_Rk3dlwgQWHtQ5f_-rSI3UYLJaTWA8_OR5z7UR_KFedDCJJoPiga7DjycHjNacOzbfdflkmu4xmi8p-XGwMJ0DsJVNsbuViSOlrLdEB1nSmWNHKeR6XuqILXTdqaCPNF6Kv4Zr-hQDY24qCigui03WJXM7I2KywGaqjiS3PXwEYdzsdD-MTe2wrq2Vpt_-nn7SDBicYjlvIkzeA443A-Rd-DGIZFxvn91ldg-rMmLMgI_vFNEV4LBOo_l0tTI7RIjqmIsygMM0qODYjbKwG8Ep13J9zcs-3pCtKxrto5NKRAUE-T0UZENQgGNnGtXyVl0J77pw5ll3WZC-lRJcvOByCAFK-jeyu_Ei0S0xTY9IgLTa_4r6UVA3SjHyaZzL8zb8fc-7Bt2MzMvZIfYYBiIOCgzb9pdPtSEgfkbwKPY.%26ch%3DAQEAEAABABSz5eLrN7Ul26xR0Fb_f-DOtEDwVCdXmWY.%26v%3D3%26pg%3DNEFJVD7CWBCC5B7LFPVSPDD2PM
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+16%3A39%3A25+GMT%2B0100+(st%C5%99edoevropsk%C3%BD+standardn%C3%AD+%C4%8Das)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4499fd01-b676-4b78-8454-c288564ff4d0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=CZ%3B10&AwaitingReconsent=false

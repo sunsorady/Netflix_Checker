@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: M
+– Email: alfan.deem@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 4748
+– Phone: +923481395228
+– Quality: UHD
+– Streams: 4
+– Price: PKR 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: M
+– User GUID: H7XBF6NQJVE2ROBNXTVG3ANS4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801043312	nfvdid	BQFmAAEBELvpNAPyhz4OHCKQOWlZcj1g6Ar0KdnIwkgLmB47Sl1YkbRPf-FdV-Hu_qn60_h0mbC8G_bG4ge0bFP9ps7SUlrOgEazevbPMSVKhudn2zj-OLajHR0qZVuuOdfmH8cyMVq9UZtcBnZOtt-DDMdX6GI9
+.netflix.com	TRUE	/	TRUE	1801150466	NetflixId	ct%3DBgjHlOvcAxKiA_LM0LkPiQjaHo80_XGLHdMVnktO_J6sbmzSDb89vR0voBG6ghHpid2n2VRX37escQbuI322nFLp7TkhCcTfBjQYnwinrzzOMHgA6-peuGr1j8tc--bH3KkCQsQSCmFyMGjfIrHC3t-gapVoNn15O5fDc32WNDLkKEzK-3ULkKKh0O8CGqSNre1nhhoRXn6eEx3Z0zA9uXJtq2McOZFwZ1ypQW5V6rjoYvivfyzPO3c9SQSg92GGVYJY2tm70GICKFGUXD4c53ZEOwkuC1Rg0NbYvXqj3dBRVvk3Ks_whFKMbOavGhRf967ikiVbFaCxjby7_W9YDhSIjNUDBzmctmQqcVH-cNSrz5LfFsCfQX9_lEzIA8xcE78Id5xObF6IrqKYPgvA-33RGHjND5AslVr2PpQOPDAukf4_iyU7pUpHSIqcdXS27BWu7w-zyec_g6L6tQ5st29DFnH1XYNJCMWF5XVYYCgShXLb6wdPmShtj8mT-XpyPPws5Nqz9zzqzY4ddbA1eiQ68Ghd3WX7mL6KbnLA49o-ezfCnNJKECQY6HIYBiIOCgyuIpbD1H8QCztLvSE.%26ch%3DAQEAEAABABSfIIIjNMDKKbmSipGxZ0-XcK3UgwSxtL8.%26v%3D3%26pg%3DH7XBF6NQJVE2ROBNXTVG3ANS4A
+.netflix.com	TRUE	/	TRUE	1801150466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTn52KHxoUe8WMdz8JYg9wGxHmtIm3bqVo.%26dt%3D1769614465588
+.netflix.com	TRUE	/	FALSE	1801150494	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+28+2026+20%3A34%3A54+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b72faffc-866c-48a2-bec0-da6083fbd930&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769507231718

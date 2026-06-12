@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eryk
+– Email: joannakozub85@gmail.com
+– Country: PL
+– Plan: Standardowy
+– Member Since: maj 2023
+– Next Billing: N/A
+– Payment: VECTRA_MULTIMEDIA_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: joannakozub85
+– User GUID: ZEXVCKO5ZVAD7MYY3U6S2T4WCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785272991	nfvdid	BQFmAAEBEGu8Y3jKndHBh4wh8bNzsDNgRsrL8rcOuppHnw2KCx6dTkTTdaer028AWHQi2U_0yihnVeLngBpsDpIQb3kQAU0Q73E2Sf4BZtNoDt8ZHXoQW5R-86bzw8S45KpVXUVwDW0ecxh5ZfCPuVnV5pOmlLTY
+.netflix.com	TRUE	/	TRUE	1810460101	NetflixId	ct%3DBgjHlOvcAxL-A_Nx4b8AUE_kXmChUZIZEGckJ5Y02p0ZmNYD8qXFIO4O_XkseovxjLo3S1oiid6uEAfB8OpY_dfjhd06A4mykjg55BlOuEPuDVXLldpnwVuGLck91TAQp6yc6xsnZglhQMuYGB9NMrvL7lWkm9q7hg6ATburWXSPiuW8c5YwFjoFrJCcQFjcMZcEhaBgU_lWC_RpYXmG1ltLfSqbPk7ey4nFwyn8edQ3QxEklpBZuoxKN7HQgbbi_nLczg4rhHh2pQeSy_SHPqGukmyg-pZaOqbag_uNW0dqzSR8iVKe9EB31OnwXQ26NEPdX8MBUSj_rW92tOg6HtQ6iTGeq8y7b0_rCvW4sl4RAsYqS7t_ERrBDzUwwfQJr6jOyTbkT6c7BSrPtmtvhR1IO3zHRyEYaAgugQzS9BiItFKqTCiyj369007mXdF2X-2o2fvopW11ueC-wtYurzKvRYxAt5j_mxdYuQMbxN4sGP3QRXvN2MMr7NhpWCFxgz0J7Aldcqc2xsmCaXKMoFo8hX9LfjMQLUeZShCli_phx9Y8AjzucYosTkpJL0S7CNbwzn6aBNhHiFDYDKeNFSfr8d9BefkH3ap5b6FGuYO0d4gX5XRFdBfnlVcR4KztDoeO-CQDq5zKU2EwQeoM1cG37ARDI9JaWhBL-mh6fqdTRQfQ7baUJxgGIg4KDP2b-fbljHA9WzDZ2A..%26ch%3DAQEAEAABABR1ziIrW4HHuCtph03vFkmD2Vl9RTYLQfo.%26v%3D3%26pg%3DZEXVCKO5ZVAD7MYY3U6S2T4WCA
+.netflix.com	TRUE	/	TRUE	1810460101	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVU1tVKbcODVrpYuz8KtkECaZO6dYRrsg.%26dt%3D1778924100018
+.netflix.com	TRUE	/	FALSE	1810479345	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+16%3A55%3A45+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=501ed882-1ead-43a1-b3ae-9b610f9004c1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=PL%3B14&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ricardo
+– Email: aboiteurtes@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: junio de 2023
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 8077
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ricardo
+– User GUID: O3TNKFALQVER3B7G6OCLJGJKWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798246969	nfvdid	BQFmAAEBEBmDubxM1jN2PSiQ4QGq-9hgbld821hTJc1NcnllLtx3v-sZIt9RdHpMQjAAz906SG3XKmLPZKpHfIBJg7tfDwhAkls8yidB8WClZC--OnzElJOMSkIUqnn6l9MgLBaR_OBkoY6CY7QcEimyAOB3yjX1
+.netflix.com	TRUE	/	TRUE	1804831939	NetflixId	ct%3DBgjHlOvcAxKKBKtGBbJSKnvCNhOqyWMH_9d_jr0hOFFefCSuL6yaviZSCNqDa2myjp2JaEgn7GNrfvJE_Vtr59cqQmyyOvtfBqghlH0UCO1gvMle_vOTbVnB1gagcHNkRAD1y_GjDy02gPuH2VWjxHh79Z2O-U1sm0GhMcKzum2OkIiQ7GvSZLeO5X1ci0hRwOEl2EkZqCUipLWGwk_g6jPic21iuJZ-1s-NX795KCDwC2rEhzmrYqT4J6BhnOA8TLhOihbkR_DS9UkKUP66wNM9KLWgVei2IEOAkL9dFH319xUuYL4Jk1e1uw4Zb5UHp1d0wgnx34gXQM1XxgyTDzTWz5zWQ9A00x5yi22B9fFL3nrr4Ey123-tvUadZ2WW7hNijJlEdCORLeqCwpIUDRLzX0nwoThCMgaJUNHjG-l9cAu6VmqI4nq_yWN8hCC156GYDPn0fDOhexW4b8q0s1Z7GA_Xnj7F4i35qKW9F_xq2miiF0K9HVdB7ls7mejgCDQQWL3kRrndzfrILwcT0oTmawAF1UVGP8LLuwKmofVM1Zq1DeRWLe1S9ZKqfnlLRreTJZPEpiIkRKxhp2PzAu36ATZvZsAeS42acfYS6P82zF17IkN4gj4QeTdH2D0Ik_MyioNrFvcrD4daG6dKvV8yLnMiMKagaTLSsJAbvmPeX3G5aievUxzVPkLcR6UkURX7URgGIg4KDGj-bakiZkdsJv5FVQ..%26ch%3DAQEAEAABABQCn8LC5Rf6xmzBZUh4w0PyaqwerRqHmKM.%26v%3D3%26pg%3DO3TNKFALQVER3B7G6OCLJGJKWI
+.netflix.com	TRUE	/	TRUE	1804831939	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaJb9fNbgWeNShmNXSqct0z0J7Y2MqXZ8.%26dt%3D1773295937866
+.netflix.com	TRUE	/	FALSE	1804855831	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+12+2026+06%3A50%3A31+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b3eef20d-3e81-4aa3-9d90-6c121349df52&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCMX

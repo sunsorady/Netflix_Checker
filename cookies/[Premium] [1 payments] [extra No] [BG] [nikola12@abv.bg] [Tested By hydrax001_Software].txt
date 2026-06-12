@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nikola
+– Email: nikola12@abv.bg
+– Country: BG
+– Plan: Premium
+– Member Since: July 2025
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 2837
+– Phone: +359878144777
+– Quality: UHD
+– Streams: 4
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nikola
+– User GUID: NFIO2BEY25D6FOBAXG2ZFX6C2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056509	nfvdid	BQFmAAEBEFaYVOJhJ6IKUYLnh_NtkABgfvvw-vjTC4H7NaRuRhq-eybfkQBSbmSD6yBh2O96hqYwNIDjSz_rfvFnMiaKWFaUxVtc3FRtjZ7oZJJJWUH-jRHayF2-SdMmME5yspQZVgRgCM3bZEG9_aEoK_xugq4R
+.netflix.com	TRUE	/	TRUE	1788436758	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZi_6I-r8fYji_C5eewFScULHVkKrdiME.%26dt%3D1756900759385
+.netflix.com	TRUE	/	TRUE	1788436758	NetflixId	ct%3DBgjHlOvcAxLuA4TsatJKh8dSDinNId9RSP5mt78IvaRk6Y2c65rk9XFIHhcpGjiyScEC8I7qjE3SZaVjI-Ur_dsh0AF9WJERt6ucEpBXsv6NQEoSuoZ051i3qSdgGjYLqlIXjvS2xlw_yGP-sFCdV1KTQa5-hT7ZGEXvQg0PnaA_3WNWTATtcRGazhwznK7q9vtuVE9TlHPUG7z6NDM9xqIgYZZXBBlU_5Ox52IuMGc7eis9GyD9UsMZ7bwdU_miHS8I8ILhH4R7DtxMnHk5fPwYM-4DOD3vC9NxBGi2fIeAClAfoPACUz1cGHc9P5WhCgVY_k7OQKWEVPULrf4dExpStukw4pgouKKs94VbyVZM8r2ee6BsbdHwgs7rfBZXgoNcjarzHx_kuk5N9ggi5fd43nuVSEM7VAxT9lzEjhwhOYEtlceIsWNMomEd7X6OjmoT4xGO4PDKIgDXWqMiuZI56hoJlKjxBFX7-n3M9wZFPRBzMrjCgdfw3NIK4xxyowyXISwA40v6rThl3PIaW0hNBfcOvmMsc1i7o3SgnWHnByd5D2j4gJsh1F_YiGV0yy-kOTu4siA2821UWyM-Sxw1O5jbZ0A-h7y_X_wpnPbMDR5JaRIjgmT-SGyURC7T9rPiKWb5WndbONEBm44BInrxi_1C5JBfGAYiDgoMLH9puwSHSpMvNI_6%26ch%3DAQEAEAABABTvjTfZrypl4fRe4Xs1iqtb52TmwR1g8Ak.%26v%3D3%26pg%3DNFIO2BEY25D6FOBAXG2ZFX6C2E
+.netflix.com	TRUE	/	FALSE	1783056509	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+03+2025+20%3A39%3A04+GMT%2B0300+(Eastern+European+Summer+Time)&version=202508.1.0&hosts=&consentId=6883cecf-6672-4904-8aaf-0289e0f1140c&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&landingPath=NotLandingPage&interactionCount=3&browserGpcFlag=1&geolocation=BG%3B01&isIABGlobal=false&isAnonUser=1&AwaitingReconsent=false&intType=1

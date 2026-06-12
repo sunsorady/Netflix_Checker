@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sakii
+– Email: sakshigholap99459@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-07-12
+– Payment: UPI
+– Card: N/A
+– Phone: +917972266278
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sakii
+– User GUID: DJX4CRY7SFBBHPSYMCKQ63LJVQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801419957	NetflixId	ct%3DBgjHlOvcAxKUA4oMayfksX2KkmvDDsxCSJutB0CpNffd7Ak8ERnG03x5v0__aN8tpqZoSllliiKW1oU3uGeP9f1YhthXF_IPByIj9zpXdkP0XUfcVu1nXCaC-dX0C_wi1s6xu83ou89DeObvjQmO4n8itZGr_Ot5JHP44c9jgwT0JJ4hMvsyeXywaG7YRLX2zSNrXoUCEyrRBSZbvurn5LDucDtsMHefJWuDJSUtflhElkT0N7cupuy7dgLCquvWen0NXgKrF3WIOTGxV2In7wgK0n7UHhVeSRw4qndHPtZt1S5hVxwV7m7_ptsvgo5GS_A4QVk2Usoq_tbwYWNWfEkMfJN_ADInzWaBTPFJM146Pfifk6zFZwOwF-svXnaIKp4-skzc9r3BmShwmYRt856PmfE4n7xATRbwDc9birU4crLoUVgSZo3oOnkBOyU8IGU-6x4WH9Q04dgrE_y70HOs-L8SWQkJxlSMEIz1VauNA6UdTUR7hfnGszrj0ljL6_fSBfBxIy8yNNG76Wa5iOm_WfI5nkMY1fxxyNUrGAYiDgoM6gLJ9KD9IcNvArhR%26ch%3DAQEAEAABABTc-ge6E-NkcVajzHGo34UgGFpOxUaq7dY.%26v%3D3%26pg%3DDJX4CRY7SFBBHPSYMCKQ63LJVQ
+.netflix.com	TRUE	/	FALSE	1801419959	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+23%3A55%3A59+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7df0d782-8c5a-49ff-9d12-e7a3473295d0&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801419957	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREzKnaD3A12oPgGSvG_TXNi2VV0UXKMNA.%26dt%3D1769883956603

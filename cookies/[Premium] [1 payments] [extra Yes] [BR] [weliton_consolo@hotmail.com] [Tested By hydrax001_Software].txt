@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Profile 2
+– Email: weliton_consolo@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: décembre 2025
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 0531
+– Phone: +5514997639275
+– Quality: UHD
+– Streams: 4
+– Price: 59,90 BRL
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Profile 3
+– User GUID: UECW6AEVTBCSVC5AD5LRM7M6RI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1780792160	nfvdid	BQFmAAEBEKzwG4fRIXAWAm6jQaoe9r1g3CDuVt4dFTyanY10s8Ac-zTNGWcg5dkWX0EtgM1-NF9ahwyn9UfOfGYPYERNyJsVax1oGnMpanCRUBeQ6nx_2RUm4LCOrZufFfUPeBGfba2pS2DujBoK1ZFm-Qt01aGz
+.netflix.com	TRUE	/	TRUE	1801446045	NetflixId	ct%3DBgjHlOvcAxLoA1RfxEEGHGGHfrpLg2MUDzBgWYcTDKvJO3CpzQdpWcZfoHhcbcLjI1GsToc2JZY1t9CxMoEBemhxSBoE3LwK5YQI86OcpnwSTZsgTTQa8GXe3w3i2yx6tCxyb4SM9WSjEz7SUPeShWmorVHCJTwW7Gna4NF5GI4lc3mpZH9tyTe5ZRR88u_V184plsoRmA2xueISfJUfha31mQH42JszDT_LrAhbWMIcunIeTQh-TF3YVlTNeL-Xwf8gCjpg_5_HmlXuPmkzugqDN5EyDOJbfZERcScKyzoOdgysvPBHZYh5zcZgmdwsffjfA3xPgVuAzIv4lxd3VEc85wKbX73diTVzx4vXkX1o47wo_j0MEdIw1uqBd0gX-GRklH8R2jxPUxwj_sVxS5dAxsFw7-qSxYhHJ0I_esqmVlkiXCab8aM3R3ZsB88D3EjFK3rPGWR8kc_FDjlSF7Uc49j16FOtcmSm4djS1cpaH91yXG3BHj4U3o8fRFjtB5K91OAwhaMzkfrfgy1mFREuYMObtJIAFL3OeTpFWLGQJFTnHY3Cb9QWp-4faAKYQxDwId-XPUw9c5vZkkZTinKMVY2K8Lo6lkO7_9fn8M2fojgHXhCOLOkew1dJEGYrEvdwA6eBEPpc4xWSmAU-9a6EGAYiDgoManMMprnK-WV_i5nx%26ch%3DAQEAEAABABShG4bnyughD9zHupJDWnxXFesG-dwmTkI.%26v%3D3%26pg%3DUECW6AEVTBCSVC5AD5LRM7M6RI
+.netflix.com	TRUE	/	FALSE	1801446045	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+22%3A40%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42b38324-2088-4ad9-8e74-ab592614bb0c&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=BR%3BSP&intType=3
+.netflix.com	TRUE	/	TRUE	1801446045	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQf99115n8YOCIyK2ya2lpfHmZH0EqHQrk.%26dt%3D1769910045454

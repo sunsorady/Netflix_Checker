@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sxbas
+– Email: juanillicachi@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: agosto de 2021
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 4746
+– Phone: +18457291474
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juan
+– User GUID: 26B5RP6EQBBPTNIH2LTDBYH7D4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBECQQtMN92dd-aKu0xmUTdRVg0J8G77iMTjWQ4YU89cGay3bvPPqe67ihZ2v1qLyix0ISWP-D2U3T10qFDLUns8Qr-PwtB_Y83N1urS8f4xkyJRBPDhz1KprIn4dIDZ7ERjJhKMaCzRfRu8n0bFJTexjr
+.netflix.com	TRUE	/	TRUE	1783792316	NetflixId	ct%3DBgjHlOvcAxLhA_a1hPZNrCNBxKjd7ihZwgobkOokaBjskk1i5XiZAPDzxHA6RHYsDA4uV9lL0rfpYHCMxXojkp-xIWPqnCLZLl8Adbxy-lFtqHAn2nvPhZqy4Cf51pscUcqGejv4Oeh2AOiqPCPDNgB3TkJHxMTeRKdFE8mp1cTK3aNTUw82FUfoJFFg9YecP9ftCKndB279dTT8_gbiiAO4zWMh7TESDwsem6js1Ou6ThpxIbtjLNSfKtr2LjASzNVCkhkr5KueR3BujX68zHMW3Yk4s9OoU349HZLFIu_1jLBDxcK1ZOtHUucJtcx1vYOulzH0XBncGE69jDvnpFBWEEtrqQ_2upfLURJcuf_IdXnwcTrPGrR4YXPXP-a42D1j8ClCzSte8IAxj0S4ZDJdJ7PIdUm_Nof_z4FfQyXJwklZDIxYW4ubHQSDAcUGksJijd48541FkNZWW5stl-876i76yj5txTI5uthAcElm_qcncj6gSJ7n1zJJjZR_3n1CMw1jqy1kIHnrIdRCZeut8eCNsLSuKe-KwlwCM9cuxOKUvSvzDExmItinje0yTj5J65VfEvI-nbLeRFhBm81LcCjQ6nP4EL4cuN57wpe2bCJlBk6uJgvn5UHHRWSD7VZrK-gPJPWSx6cYBiIOCgwhCXtRIx8kvEHqmPY.%26ch%3DAQEAEAABABRhtl7EA-j566wzpinjKMGkSe_9zyPsNHM.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783792316	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR7ikPnKNngazq15EGmpEkkPubJrKo2F-8.%26dt%3D1735911762601
+.netflix.com	TRUE	/	FALSE	1783792316	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+03+2025+10%3A02%3A36+GMT-0500+(hora+de+Ecuador)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f44b0bad-3fd8-4cbf-825f-ee771f71ca29&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

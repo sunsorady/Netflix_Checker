@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ~ Parasite 1 ; Kimberly
+– Email: tiffanydejager@hotmail.com
+– Country: NL
+– Plan: Premium
+– Member Since: décembre 2023
+– Next Billing: 2026-07-07
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31643574756
+– Quality: UHD
+– Streams: 4
+– Price: 20,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ~ The Baddest Queen‘T
+– User GUID: FEOD6E4JBNFKZP67HSQ4ACXDGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEMPE_QIlACgKZ5mfs98aH0FgujzWnSlXgSHQdl4aYrnIPdaokxhIn7wI9fVMBm9cIxkf3QiEDqboo6VVBX9qc92luAj1kTqcXaRdDSAiL9XuqRLlqGQk-E357jgdF6X11ME-9Y-jm1fiOfcDV3LwrCAT
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR02jZVCaBAPy1vWB2FQAYx0zzmIzS6_aU.%26dt%3D1713463697751
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	v%3D2%26ct%3DBQAOAAEBEB2iOYTA8gHtbWLc85tQmQ6B0PSbT09gmOWxoZbhu6BV_ez7igYqnZaQr9NKd71VdNoyaxqDW1LJRONTuNq0v56IGZ5j9j0_pMt-Y2kiBOLoNduAXqoGjls_fH7NR-JqfCGoJaiIbS9rXgylx_g9U1wdcgw5N3fK86KAvuYqN9dxDOIlfLF-hLaVOZ7tnNwiiwbkIemhwz-hUzqMNJm8iA9IBX5DmC9RMPZCG-E0uADwT2Wn2T4oE0DvEIrywG3bPetRjx4_vhvs4CKPPzzeKjXSP6Ks1zNO6naDN0pOvIvVjq8f3GSjO44bUbm0fOq-wCaOLJJ3nkpsEdrLnFPNqHQxJEa9eBSWZV8IZjkd3Ht49TLS6aRsd0bk605cNYO4ACM0WBVrEXc3BXvJLVeKCKTCVBJXnKNqazgEm_dyOaO8VuwpmdZstJvJ5BTxqZHvoMLnhe_gbOE3UmuBP2XR1IdmWIahxhNnJ7u45HFm2Ox887X994vXW07-avpT07u9UYwfCBEV3-F_G2PQJB64EAg1oIMaTjJG1GLIRXN4dsWcAdo2coGZsM1AHZ0TOWT2X6_FjtPrYNLSQOyq14RjzqsNaRyz4qrDzR8fAnuasYkVXKZ5_Rwet8X86cSwME_rbaXw%26bt%3Ddbl%26ch%3DAQEAEAABABR8X3YpMX29h7sRerwueOyDpFaLUaFR_QU.%26mac%3DAQEAEAABABSi02qg0q8Jae1xraoZY8gm74Trik0OpFA.
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+18+2024+20%3A08%3A22+GMT%2B0200+(Midden-Europese+zomertijd)&version=202402.1.0&isIABGlobal=false&hosts=&consentId=b5a274da-88cb-42f5-bc01-558642158a5f&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&isAnonUser=1&AwaitingReconsent=false&geolocation=NL%3BZH

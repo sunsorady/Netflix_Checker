@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: The goat
+– Email: mvumikazind@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: December 2022
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 3497
+– Phone: +27727427514
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mvumikazi Ndwandwe
+– User GUID: NXT23PSLABERLEX3TF65ZZEV34
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790095673	nfvdid	BQFmAAEBEP7MqBZDxOq_mcNKB4gYHdFgq6ZUZIbO6iEB_7jx0V2Jxe0LmBbaMHAfry4CgHknzcxN7xxVTD7MJ7a8SUs01tyMHUm6PQPfJSVzB7hk-Cbt2h-h_rLQlimxKdliSUzuIlTO6YuE2aucuqDS37OeXhyq
+.netflix.com	TRUE	/	FALSE	1810062251	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+21%3A04%3A11+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f5d049c4-66c2-4493-b7cf-953614b4f475&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810132804	NetflixId	ct%3DBgjHlOvcAxKGBC4jL0A-LlogbQcO83L_sZSMPJtRc1XK8-lu4e_wekMEbQpZuCtFVyQbfkb5ke_Q43O3y7M4hghgHNWrEVf_o0Cu3h782XW5Njabk6lyrluHfyjho_1qwvRGLU0zMpIbYj4fzgdW0tn2WziHlmbmfN_Hb4yOhVdC5BdKDncNy4LAFxG1nLHtH3ro8g1MtjQls6wFxBo9b4CUFiAQYTzZkJ8rXzt63fhLOEzqnlExq6rhrGUJnHEz2YfytGUMET2anOTyzDXhP_jmpFdfCE0rkOlfEi4BnVWmnywJQ8G1_s4myPcjJjQUNiltnDYha_M_0ESdlVWPW5p8dbd14IneLHYUa2AmMcCmdLBTIUVmZyfHbHbxwqHXtKNYvWaPHDzViD5luA1DpFL8pTye2nmOrsQPPuYm1_inM8RDuCF_1XrUshmroOw20XEazGVoFa-YTopSsNtJMG-ju58BMDyIwGNIoNbh59daMYNZb8oazGbmc5Ci9jy-JSwHlwtFvo7hjYVT_PStqhTno69NRlSoYdniObMnnEBq5wP2hnvsZd9_vpNup12i_upRE2VCWImwqoHp-mysuOmK-cc5O4moEtu7tD2u4rbcApDbkQnLAII0bXFEJl6vUXDXQtzjsYAIgFr7qvCixkPCOmVV0JUnknEFAt477y8FqWFUtRL5KWvb7hqpKU8QGAYiDgoMvRyEYYPw71msLMtv%26ch%3DAQEAEAABABQ3KY-MHFIbh8yvl6GK3Pg95Ts2ej46sys.%26v%3D3%26pg%3DNXT23PSLABERLEX3TF65ZZEV34
+.netflix.com	TRUE	/	TRUE	1810132804	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTi-6MVqp85_viWwsrUG9TJ2fYrgq5DrFM.%26dt%3D1778596804883

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ema
+– Email: elisabettaperciballi@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: dicembre 2019
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 5639
+– Phone: +393394621774
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elisabetta
+– User GUID: OISNX4BYORAS3GQPEFP5N7VYQI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800035074	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+18%3A44%3A34+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=97b3313c-f80f-4625-9680-d1658da4ae6f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768499063148&geolocation=IT%3B62&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1800035068	nfvdid	BQFmAAEBEOADTHm5PRiKXHbLCe3i6URgjO7R8sJX4QSd01n3AaffhYG2VgElB2uw_YF6f0ZeZeei-jAI4EFDzoS-4RgNg1-fK1tqXkfPcpmquo3PLHePAvsJUh8cv7uXOpN9GzQNpBwB91wjN_of3sBv9qvLsVVz
+.netflix.com	TRUE	/	TRUE	1800035080	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AvAFLrb67v64pJxVJiPPPsXKP86CkOACvlkuWPwYew075nTKxmHOW7BrUENbJy8ptdkTKJpSF2FUcctAkOaHENusSaJ4Hc8JXBwXqPrKB48bED8sBJXeK9LKKh9TEGIPLMVl9YFk5YWoFiZK4-fPuLhZE0KnM6nc0k3yhumDJ5_3VMu-bxYytuTU4hhiyd6CQe3dV2ZwzS_1URqWrX5NRYBtjG4hDn_gNQIJ04dCrDVdbEvxZFM5T2e1wX0zKxZTlucCLHcm4LeFVzN0AA1mleaAXkhjQEICDlQqZeotJhdPz3v0E--XU9uiQNouacCSh7xxwnQiN1ZqCo1nGwsVyrRNbgGTfrWIC5lIBmzXhyXZER481VifD9umBMXfhiLTGegRHx6Ma-CbdI6YTikugi9b9VsbNDPr9nrYzlhUzPTl1LwTCQzAjjynOfOYwAH8nP74VQ6gX4o8jpel5pkKdBNQELizTSpjbXg5F7557gxfRzvGrZIGGAYiDgoM7O9ieijiXffVn7da%26pg%3DOISNX4BYORAS3GQPEFP5N7VYQI%26ch%3DAQEAEAABABTLL65zb-0L3GTJTEq4_PC4VdNDOZWt8Oc.

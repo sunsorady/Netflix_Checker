@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: A terem buraja
+– Email: hegeati13@gmail.com
+– Country: HU
+– Plan: Prémium
+– Member Since: 2021. szeptember
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 7480
+– Phone: +36202874277
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Attila
+– User GUID: ONFX6LCWUFHHJMO56WJUKVCGMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEEv3aORyAg4pDmhYdiiMQvRg0RMfagTmSpbepbzxz4GEWU_KkLFsivtQcd20J2VPlwcTcOI3iGcLBPG1fBwkqbpAD09GFoj7oVqj9y06D0pO4VYrGMbUA2SQKd9OlP6L_FDMpoKhbbFIlVNn68NMLBcM
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxLiA0LUSLLrOeguSU3nkQCDZ_1PfROtjS0kvo87nxhs9hfYmIvgYw19dPCoXF73qRTQbNof9nKuLvFruTON4Lrhc3wBQwGWFjt82qlA7t6zVQaFvXc4-13gEmqK_n7i234y7RYrIj_UPjKvtLmfcDGi33aFj2wwmI-JoKva9-cZ7sVEh_g0mwvMY1zqpbg8NOU2iYXG5RD49jnsG9sclNT7nLIlPrG_lx2lZFs5SufNUlZu66qRBs5ewOZV-a4fhna2XJ33voWZ7GeGDVLl4KqDLar_iGmsjOUgMZa48ZYGMfR_22DV6ZYrq9zYb-vsms0-vhNtRvBoZjnjWhUCCLhB1YnfkWUBatDplZBpAayQ-vKhF237BSQ643GQQKDwGxnn9z-e06Hbfi7_BdLuaweNF92oxCys2-bQ2gs1oonXV-UqSGE6i8xcB4dD-VUoGUHcYmxSOfKCchPCzYU_K7KjflG2f8YSwOgdTfJDJNsPrvtHKK1y8FBo-27Ry-Oc6Y6LYFPjWcsmq33Yvv-WajGr2My5LKu0hY2qqAVt0na_9rdVoS6X0HHTqN3l7AciVx4zgOFcXqFNudY5sjCsIWmJHZsN5qVTG_rOZE7N7axqZGihOSHPVAL4yG8-yX8e3462di7hGAYiDgoM4LUmmJkSCLgPEHL5%26ch%3DAQEAEAABABRI4SqLNpdel0cogvlDVadLfPElI9p3MrI.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNiEaelbvuFq23TptBRFoCsEboDgxxo5o.%26dt%3D1726216055490
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+13+2024+10%3A27%3A49+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff6f3d6a-f6b0-4a84-b160-41a6c87e6e19&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=HU%3BBU&AwaitingReconsent=false

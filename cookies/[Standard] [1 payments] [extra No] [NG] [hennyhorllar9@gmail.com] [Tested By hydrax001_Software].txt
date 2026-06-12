@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mayowa
+– Email: hennyhorllar9@gmail.com
+– Country: NG
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 9813
+– Phone: +2349161248164
+– Quality: HD
+– Streams: 2
+– Price: ₦6,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mayowa
+– User GUID: 2SETSNS3BJGU7EECPWJ75W2YRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1809006227	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA2VopeZo-oL2MQQWgMYOoUCfAfhqQI8PnEeRJN-LaPW1KwI6InDoRgH3l2gNQbOJHBICAzR7WiunCI3mF5_u8a78qqEGdzpLBjBbif6ZQYDO7POzbRb0aLQjoMiW3L0ukYjF5rCZ5SIX0hAVgRSW1ZXMNATGtrx_rDPXJzT7-Bprdz_oM0MXgX0l6Un4nfkaupGV41HwBqCJGIhHAa_in8GHTm61QojF8JqoPPCjx6c7FtfqvdO8Je0J1gEfynQkBDo-SqECQpvc_LlPc5AuhE-vDr6mT12pbBd4sbrujsqP3VX2jYAocKU1TdL0Zs4pY8XVmOCfBVO62pknZhgnMQBPwKmv9zYCeFG707iMzAJ5YICoTDXM1fn59Kz4mOwPEyTCewzd7_0XKRvT2FAd_4AzWHDdb2SrxrLR7dNYy72XcZ8x0rANwuf8Me8SR-Cr2GjW8Dq-YZi5AfzpjEtL5-3dcgKOTPVySB3yOts_ROZGYgeuM1C-8Iusqb22_FREJa8nWiEbPduK5ERbX9kL2Pi-M4ik8aOSjnBl3_2lvNXXbhgGIg4KDAecWtI-UXr3-D0GJQ..%26pg%3D2SETSNS3BJGU7EECPWJ75W2YRU%26ch%3DAQEAEAABABR2vVB7adqOvwhKX_0xjo51XS_65ZDRpNg.
+.netflix.com	TRUE	/	FALSE	1809006228	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+14%3A43%3A48+GMT%2B0100+(West+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6bdfb190-c792-47e5-b437-cf2026c941fe&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777470227408
+.netflix.com	TRUE	/	TRUE	1809006227	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXlTUUrae3G5uyK4h0F48hfVZNqFUfhSA.%26dt%3D1777470227238
+.netflix.com	TRUE	/	FALSE	1809006227	nfvdid	BQFmAAEBEHpu3AYHQQZ5SZ-DwhahRAlg83wnhpYsgJKiSLdBvWDDI4H9El_zZIFLb2KbD8ohtZvHBku0Oacx-oFk8_xKJ6-N0jLvwwAwQ412XhxM6XxVn36de2GBdTrAln3CzwfyO4B_iNDApWem4EfQN_2goNLz

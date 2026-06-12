@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gliwice
+– Email: ARTURB1982@WP.PL
+– Country: PL
+– Plan: Standardowy
+– Member Since: wrzesień 2024
+– Next Billing: N/A
+– Payment: PLAY_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Żory
+– User GUID: ALRNP4H3I5CDFOPKRMRUSORMZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	4222861375	nfvdid	BQFmAAEBEOtDmzU6dxrxuEJUsidhqCVg2PhDrNtEj5KpkNKVR4_ilPvjs1pjQb3a-TsRX4bw-o7OzmcrUB6Szh0F6otU2M4LEsRxc-qvdRrX0E9mULGx7Q62Gdc_9v0zK3piQsxEXo3xIGefJxVs0Akf3Yd1pSz0
+.netflix.com	TRUE	/	TRUE	4222861375	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQzXU_c0Pxzreig2XBeJrWhw7Mx1AxpQ7s.%26dt%3D1767983191071
+.netflix.com	TRUE	/	TRUE	4222861375	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA6rs6g3qbJZa8Kbl_Mdo_vFnEFqXrLlyQRAtqQbqLnJWVCM5ihxopvz4kLbbCat23xsdf4yUlN-GLu-rXXISXRnWkpcboLrde4dOw1asluM8KhgZMHsL1rOV3jigMR-nLfv0gqdd033FcjXzwqPNv4MqvcbLBmq0sJcPVM8QDWBeD6ofB1CBlFITda-uHRKF_L5CPvEehDSudGJOl4T8ny6I9jk76KRR5UZJDXvezOG7-AswCYL94xCTrj34vTMHEdNXsf7MSqNLAHcbPmjn1t6Jk-RtE4BQAwGZZXHzSfMIa_UX9FCp95xymsrfDT1hlWo5exJF6BRjgZPmWlQi0Pe7dvUkPBEwTTOT5w2EkoMrjPFTtO-0c0dHIBCWc91UDLHARbngHw9zy10bDyzKArqju-sFbw2ZH0eBMuotp9p_Uq9p4RiEDza4Oeq0kdUT8wHYMzynGZ0bZ8Nlyq3wCf_J3LxtTwXPo8gdLwzZTIdmVo5yQaJBmRYLYtIb7LVLGXZppvefWUab_xwcAX8zws6PBbBAoJrWGAYiDgoMuPuonBARDZX7K0SY%26pg%3DALRNP4H3I5CDFOPKRMRUSORMZY%26ch%3DAQEAEAABABQdEfetV_44zYiKOFk6HEXux3W3pX6_soo.
+.netflix.com	TRUE	/	FALSE	4222866272	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+19%3A26%3A36+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bcfc630f-6c32-4049-8088-3373c7c9d305&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1

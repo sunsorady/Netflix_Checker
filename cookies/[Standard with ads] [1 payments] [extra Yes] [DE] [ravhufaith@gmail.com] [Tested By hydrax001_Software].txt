@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tapiwa
+– Email: ravhufaith@gmail.com
+– Country: DE
+– Plan: Standard with ads
+– Member Since: August 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 9247
+– Phone: +4917621863052
+– Quality: HD
+– Streams: 2
+– Price: €4.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Faith R
+– User GUID: 3TSNRILOJFDN3AWAC7LKPK7T6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1778871185	NetflixId	ct%3DBgjHlOvcAxLiA7AxQn_haFqWImkI-Hp7rmCp5Kkpx0LIJwbG63YH7EKwlc8sQCJ6VUWK6JBjpd3AmaFqwvwhldleddBg6t3NG975rqOJhDl3VcthvMoWY24GY3fX4udDMGVB9UVYGKEaqvkH_YK9S7izzmiOQpw8d5VS3-wiCy3Xgo20DqAXlnLNzMBP-ZY7Q2uVZUqe4oe_ehpHBPrZFV2niuR4AZatABu75uDSlrLSpHDqLnHU1DEpeOB5JMT6OTB22Xx2BfKX7dBVtAwXqtJMAnHEsTz5xXtV4eCarKgf48V-M387PKE8sMzYQWvQT8Hkje93qs_uDAzCo2Koage5DKWD0WCxNt2ulqfrGxP9l3rCAhiDQ3L78RAvvf5q9cJpZb-Nf90DmKepdu22dE90Ny7OtUJq3gVrb3kVJkT6QpaTEB6oRNq6LNXomYIHwV77I2ozrVfnu_u10QE6FpmZK-QXQ_blesuJ4Fu9yXo5fwg8_EdNBzxGFJJMihnhFGJ2uafvGlHoEibDgSZ9Nsu_60nv11TUgIYbORhKcoRaHXxPbaEOJVX3g1ibqLK7pjJAcDUYJtxuMgK9e9J0g7eTg-waC7eH-S3bBzXmhpq0-ZJpX-0hDOKoc8OwzEHFoP4YHNrAj35c6ccmGAYiDgoMGqCeQw3RXLfCRrhj%26ch%3DAQEAEAABABTPckYX4gwtKPXLM7O7OPOhQoZFWgmpnpA.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1778871188	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+15+2025+20%3A53%3A08+GMT%2B0200+(Central+European+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=10738c9d-82e9-45c7-9980-81d1a693cb30&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BNW&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1778871185	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDs8vA9Jdh6sPUE0OwHQZjZ7GZJjTzSJ8.%26dt%3D1747335189568

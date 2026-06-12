@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Boss
+– Email: soso80000z@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: May 2024
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: 6516
+– Phone: +33662323629
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Boss
+– User GUID: 3VEK2U4LA5GYLPFOW7NBCUJYOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809627599	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA4CBMtn3Ee1iI-gAz3JJdpSek9P7hIG0QPRfldw1sZMdxeL6Rsq5V0nvtNNALRvwQfxbnR-YbZMnXfi7lIplgDyBwWIyCsR16Hnqh01DGrx0XhP7i12VUJb74j_LBJ7zh4qJSIxqFLC_qZxu2sF2ILdAmS6cKHohiec70eAEbmFXNfOklDobAcz0n1nZKcfwlsEcSauQJnc2ACDbRwvuTwyFWLGniANKguywMH0HV5H100nmlUI3G45WsP6c8epi4qRWF6qjOom3lwQX0XPOXi633yzWpFWf2WDYnf36ucdyWLFTgjl7-Kgo1kuNZ0gaafa7E3aeaj8TxNnPdgcLfDF5CB6Co-fjv4IWcV0EUESbt2tAjZFDiFyyOW-ArL3GBAMuyZ0cT2acR6j1VCGPMP41cVKfeOEKJjYh3pZ5l8cBdhTbL3Y1hPcFk2RtiX1KvnzC0Jl7s9OQe1knThnZinIWcqyX9HBDrQbSuYajoQ5xcTM0pzWad3y3VcOPxNcG83ggcaBIkRpQharDqM1XerPWHZS_I8q71cMwL1zYGAYiDgoM4nqs1zcjlIDmvxjM%26pg%3D3VEK2U4LA5GYLPFOW7NBCUJYOQ%26ch%3DAQEAEAABABQuN9avPqitWUTnh0JNN4K7toHePF-mPks.
+.netflix.com	TRUE	/	FALSE	1809627600	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+20%3A20%3A00+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=65eb9460-fd22-4a1f-a546-592719e1c404&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1778091562865&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	FALSE	1809627599	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwrkf7xz_KWTrfKx7BnF6RJoA05py0UPQ.%26dt%3D1778091597320
+.netflix.com	TRUE	/	FALSE	1809627599	nfvdid	BQFmAAEBELlf-buQPjUWFhsxzMtaDtBg7EEScxKzaHmL9LXkugPfJSNCB4uyuojnhUlZWf5twmJYMI0aEC9BHpxj7PIzTmUb6ZO5VRBImjetvyTaFH0RCcJKhGZhEVtNkcbrSL4kCN7EX5CizCxDcSPMUzSnyKTW

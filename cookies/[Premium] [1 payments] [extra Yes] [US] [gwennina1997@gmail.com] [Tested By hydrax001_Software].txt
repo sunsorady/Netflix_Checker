@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: D&T
+– Email: gwennina1997@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2022
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 1385
+– Phone: +15702956295
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: QUEEN
+– User GUID: 23373VWWOZGVHMYZT32Z3RXA6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810498912	nfvdid	BQFmAAEBEHHhbgepaGpVVqURH_NvYOVgk5dmNGqKDmbEtcC9VXUgRM01y9Jr6eqWSLcXOk2oCb6Vb2Vhkp4NIpca8m6mJ6b5udQORfUvZaVwpkEHBxJL9bzceGF3uDBNiYneCcij3tlqk2p8wjN2VVcgkk9MY8n-
+.netflix.com	TRUE	/	FALSE	1811705344	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+15%3A29%3A04+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4cc1a9b2-083b-4229-8989-4e5c201f8725&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778962771437&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811705344	NetflixId	ct%3DBgjHlOvcAxKBBB5V5KVssQvLyZ2CprxU-HtlgBcjZdmiQ2_Aq9g5w9bSnwj9pLKwwSZb4pzsmumrKs4p6qFhrsjfmC6fzJgF7_NpFXVoQHdZaMgHWqAfA7bvqgz_-j3wJQ460NxHOkD0oTG5BoKaZ7xROz2kFPpcwvLk2vrJxnBi10T3JT5O3l2fwDldtHjZvY5oJZt2O-ry9SbaW4fnEMGHQN1KmldJbLAnEsWO2LA7cOBaANdjNN1ldpl1Lb480IgPxM2oQf_s3w0FaIWL9AZveWIwJ0NQgJjONSsp-siqcMgQEPN1XbF3YG-PaZKpA9B8PttPvpL-jJx6YVfrbxjQeK5qDTBl3FeSDqCScGaDMgjSk-yiQKqrGkTauOMC5phA9kgaeG_irwwU26i0F7JZrlQ4Gb9qJ5tdktQcJu0YGUWJ5c7bDfLDLujFpIneGI4HCW1Zxbqqn1BUsZ2Id6ThcGlJ_cxU-cIR-PNTML6zfxUCeEoVMDvAjfXGFqZ8GblH5hZn2UR03c1COUx24pLchWXW8GIIyooOQ3guuXhuDxQ9SdTvb3GnOP0r_2hQmYoBygZD9A-PrlsN_yQ4tGlOaARCpv9BQPrWy8Uz-e1VUKKyMuZqddAR4Mtx_pI_MrIektdQt39GE3aZ_bIWbxfYj4IWCOM7z0H9i8S1jJ5rCH7v7zTzXp9F6BgGIg4KDI_vPWkP3jbC2fjK9w..%26ch%3DAQEAEAABABSTQA-Db_hYYfBQZG7uEeu0kvNFtYnkl78.%26v%3D3%26pg%3D23373VWWOZGVHMYZT32Z3RXA6Y
+.netflix.com	TRUE	/	TRUE	1811705344	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZ2ZwqK-bB4C7rP2P8OdDaINHs4Om_l3g.%26dt%3D1780169344888

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rey Polanco
+– Email: reinaindo@hotmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: enero de 2026
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 3024
+– Phone: +18094771916
+– Quality: UHD
+– Streams: 4
+– Price: $13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Reynaldo
+– User GUID: G4UIUWZQJ5BIJHQY75OPWSTOGE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808069336	nfvdid	BQFmAAEBEFl8JMiBhnur4i4yj_KbcZNgviqtuERyfmfVnvOMmZz9SAE0qgs6F-x4490VYcyofSTP63JqHMFFsi0D19hOqfoedd_4dERPuJVhGLnKWYdhI5q4zcHxm7vo5sHg_JhS5kdApHoGE3vneEpqLA2D_jcw
+.netflix.com	TRUE	/	TRUE	1810344476	NetflixId	ct%3DBgjHlOvcAxK5Axh0asSklAxNpseCEJWHpmYDuXILR5LnO2t6c-MZRw2xfnlNZvouS88CF54lk1_JnlyGDNjfxv9JoFKBf1NQTWkYGuqGuyHCrkp5fn1I9qWVLBvEOuePhyEJhVlpyLJElEg19X11iEr0JxTdHm_6Pgf0oSEPEF3_Fy80EBlKYrSNULrxF047e1j4ntlr9ZsLXQMao5fcGzibnSNMDVP9kvgSWvHc9MwkvhPPOMs70qeKlziPCQejVsOek1EUgKktqeK6POitBgrSbU19ST5-D-wPuTcXeG9KZj3dbu27ZK6E617oBH492_wOawnNT1tPqq6-Uz_JwxKul7VoeHLOheNVvtP0nMK_yENjIZCPi0bKqi1vBee4OAx1WNsBF0J6UKetZTO_igLmJXwwH5B0q7-S1_xpLOJhbkFd3DWJTW0jBHhvi0UfQdqv9_yxaIA8J4TQFMkQmCL3Nlr-bEIupwtb_Vr_hUBjzsifNkTBhYa6xf2dymZnqm4ZUBFdjdlr69W3yy8ed-Z1oL0S1iKySIjUd3UDN_lC_tyVJ7qeGyNSk5wiHmq-a6Wa_rSeOyF5CT_wjvZwdpbGsRgGIg4KDJzhRJzKO5X65Gfh4w..%26ch%3DAQEAEAABABQsaA_PcACrN-5bPT0_xCrYhFVppSGrIr0.%26v%3D3%26pg%3DG4UIUWZQJ5BIJHQY75OPWSTOGE
+.netflix.com	TRUE	/	FALSE	1810344477	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+19%3A27%3A57+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=03a37af5-34a9-49fa-b488-f2e7c64cb026&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776533336175&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810344476	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSzUOO4lp2bDNZBey2pOmzDf8TTMcfnY6A.%26dt%3D1778808476708

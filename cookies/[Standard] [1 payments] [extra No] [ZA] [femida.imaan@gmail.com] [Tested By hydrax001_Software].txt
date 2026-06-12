@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Zi4
+– Email: femida.imaan@gmail.com
+– Country: ZA
+– Plan: Standard
+– Member Since: September 2021
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 1599
+– Phone: +27781087087
+– Quality: HD
+– Streams: 2
+– Price: R 179
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hey Femz!
+– User GUID: 3NYP5KYKHZDYRM6PUC6APJWAYQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810397691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQR8St-Ky3tX2McvKxJ5wNEu8SdT_Hipw.%26dt%3D1778861691633
+.netflix.com	TRUE	/	TRUE	1810397691	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAxY6GwP8fcySFQvyCYanjO4wk1PXjBj7D47Y_turkn2OPhsRboFydQNVdvK0udSIc7_HdzJjg7hTD_AaLDwfZ5LM7A6QXWHB8LXbrLMn5rVm5ttetF92xWEUW0s67e5fKpBTbnzhswVV-AepnE3jJogIAceVuret1XRuQtc2iy_qvRutEc6ACtmrWxeJcvQSL8HCk5BTp6Cx_sVd0iZDuBKBf7ZFZsB5PCEH7I2P-3SOVSoSHgigIvW_cSRh6HG0thAMjL-twnKcutyZ_nniU5V5I-uMUyurJB8gwjMQUVO562APiUZ5EVcFkLVyhWqiM5Ddhsd1S-6jkeoQtESpK7ZQQZuk9q9oT2N0BdIFiSFrww6wHjOs5hBCCl8RNvfi38RyQUY0Rxf9xSfqsfrQ1ViHFLMRWriV12f3EQiiJz27Bmc4m2nYI3PAoHGhJ-dgepmBPrVsrWlH7W1smU7oOoyu-s1R-ATJW6GAfSZPLT0uMMY-wjZcPYDW01W3Pgv9jVEXCdbCUeUksPrecW4bu9EiEV21osIu0RgGIg4KDFXy5RA7JZdUirv7Ww..%26pg%3D3NYP5KYKHZDYRM6PUC6APJWAYQ%26ch%3DAQEAEAABABQn_KZ1XPWPO3jGoDrUlOwDusqPynqREqQ.
+.netflix.com	TRUE	/	FALSE	1810397673	nfvdid	BQFmAAEBECRtcR7GoyuqwZ35FIvSQCVgj8NtkhU__igQPFdVeyrGBsYyrGOud1PPYOkasicCHE4-DBzSROWUfc3yYEGU3XQz80-X_Uyi6pD61pqMtLvWhIOJdAkgd4445bHl9pRNu7Spulo3YCwpuqgFYvDyJ466
+.netflix.com	TRUE	/	FALSE	1810398566	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+18%3A29%3A26+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ea91b1ed-61f1-4309-967f-cfc918e7e032&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778861450552&AwaitingReconsent=false

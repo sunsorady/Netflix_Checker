@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bébé d'amour
+– Email: matteo.acedo@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: septembre 2025
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 0828
+– Phone: +33651102314
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bébé d'amour
+– User GUID: XSIDKKH6H5DSTPD7SWFMWDA2PM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806094104	nfvdid	BQFmAAEBEDHzqzBPPyphtRtfSCkLpE5gmzrs9GxDt-kZTytYR4J_x9s5bIBUZgApkyoAq4lY97IucHAIcBkIjhpHc2PaTP5YbJC1Nll3B1wPTaYTZ1ftPLnSBmYkBgu_ZsjvZmfAkggdrLWC_VhQVryo4wqqawaN
+.netflix.com	TRUE	/	TRUE	1806779932	NetflixId	ct%3DBgjHlOvcAxKHBDN7_qzKTlWtgELAja-uKT70jLNZof8Xjpdq1IeKASZoKXs47woFpGgsMAnFaOAn80ZcvgmEuY1El57ny9gFoQcDp79RWSJSkp9Cv6brlDhhpyCC2Of1gBEL-FOnIAVBkJoFZjbPTRi0s04X1etHESSFekDskVwp-WqH06SKcF4rxWofa0n2ykqdLCKweDkWcyP4hILuJ9uzxFcHKsh3SmpB5Z_DkWxkxT0iPBrIeS3XUfmn09VboUIeWeDQDUn4Y_lROCwr3C1qdsuipjGsX9nscgYVreV_ys0YeukE8tfMt1VyIsGN4XxIPEhcj0kXl6152PkHj6y-k5nMj_bCduuqnjoJsC3PbZ4zjsgIV6LuIGfEiCWlt8BRTZWco0D57uUqDUFqBmIl3Jlr9W0buFmhSc_pjIRN-3PX2yQILJRLXKipH_cpBl2RaUFtDR2PJcKYQ0f_A9RoHdK4W1Q2gpcQi6anuPjYrzTXlYGZeJsF-bOjjxDeOROY6pdxDgL4nA3BpomLmrwmzsFiA9Its_p27pay4GoTF_qP0dWRxcnv7VZ42nTa589EKiuo3GCBMZCckfY4rf11VT6fK-Rko2EMT5WKD0YefIQsIX_4zkNKE76SiAn4bX6aDhi3dmVGpAAfdcewvcIqFmpaMjlB4Eig3LwSUuWC8Ztj3WDst4Vo62e_oCJOKhgGIg4KDJiZCnWlp6emt73mUg..%26ch%3DAQEAEAABABRARlavq_ymThjEV0t0Egx3znKqMKs-Cuk.%26v%3D3%26pg%3DXSIDKKH6H5DSTPD7SWFMWDA2PM
+.netflix.com	TRUE	/	TRUE	1806779932	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqpPOdb_Y09Vp0n02YOIA1VWPU2zZhHG4.%26dt%3D1775243931526
+.netflix.com	TRUE	/	FALSE	1806780156	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+21%3A22%3A36+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec804e28-e212-4f13-8331-357e4a86eca7&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1774558080082&geolocation=FR%3BARA

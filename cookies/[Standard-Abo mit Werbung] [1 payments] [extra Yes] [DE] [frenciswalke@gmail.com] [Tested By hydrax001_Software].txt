@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abo-Bezahler
+– Email: frenciswalke@gmail.com
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: September 2023
+– Next Billing: 2026-07-03
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abo-Bezahler
+– User GUID: QQXPE6RIJFDNRMTE4BBWY3MKEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810808161	nfvdid	BQFmAAEBEFgCnwd693T63ZXdVDWhqkRg84jxCxQC2fdEq6Aigg1qajMr36YMew4vLP1CxsoHjR_8cHenL-cTk65QHGLBcixN8wddfRSzwksV8F8iXn5otmLNSmj560sLfhAlcXvcEEnFc_7-9M7MFdSwoIr58i4N
+.netflix.com	TRUE	/	TRUE	1800886500	NetflixId	ct%3DBgjHlOvcAxKoA5unucS3bjZmLg7AFGf0PLcrKNyWvZ08jzLbydfhEh4vJRYxxnNHW2Yf8RpA2q9-mXitSNz4coHYQvogw7OQtf2JuvDTf7EiDzHFF9QKXQ3vlnPv2daOH-eh4u3Ut_cx0pKfP_RpZcWOn6ogEUTWfZDs6lZvR663OosVPFCwv_Gf8d4mIpiVnaqcrDkf29FiNo7AjW1wnXwK1bnPH1bAZrBaQdFRHZk6XfYKyZQVAie18GVJDkhpIJs9MAD64h-MlfSyOZ2nxTWwRTyDKab2yE6qwmkR8OoT7Fi7U_pUoyN8XNFNzqmOZJDVIomBIEaIvmYra8cTW8toP1wFtF-UnQ6dDtmlHH3IPuMvxeqIeD3lkM8KVH53kaxeLnSZUPXdQ7x1n1EMpD50zX0mbNq6Rxx_33HRM-uMDvdf9kkqW8CvluhZ0go2NTifIVSNdU1cOvr7sW6bubPjpkYgUsXF_Dg7wOpcktvVbVNbYkf2xhEc_lPH_vi7EHEcAypkm2yihYKq6gy0FAnP8iRFCiFU-vkdssmCDa0lGx9k0rbDCloUjmQgb4kwImUYBiIOCgy5-i4lX88LZyXV9Rw.%26ch%3DAQEAEAABABTXL4BeeEwvtG_6-9SVbwRmR8VmhsEQT2w.%26v%3D3%26pg%3DQQXPE6RIJFDNRMTE4BBWY3MKEM
+.netflix.com	TRUE	/	TRUE	1800886500	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNBKvxerIMtGik4AQNXBAH-8aq2SrHlsk.%26dt%3D1769350500019
+.netflix.com	TRUE	/	FALSE	1800893161	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+17%3A06%3A01+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&hosts=&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&browserGpcFlag=0&isIABGlobal=false&consentId=8721336e-6a38-44d5-b59c-1a40ee7b5e43&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fhelp.netflix.com%2Fde%2Fnode%2F12977

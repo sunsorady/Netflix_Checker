@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Douglas
+– Email: douglasgalindo36@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: dezembro de 2025
+– Next Billing: 2026-07-04
+– Payment: DC
+– Card: 1638
+– Phone: +5567999830725
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Douglas
+– User GUID: TWFVQFZQLJBRTLI74ZNAD6LNAY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796427668	nfvdid	BQFmAAEBEHk5D26gHvqroSJoARS-bHtgRIr2hcdUUHqCfwLYx6I893uCtXg7huYtMA3jK-aqLDxsnVnBCK3ylhB8wkWAn1KmNRICUB_C9r4tP9j4chsLwHOKlW5P9qxBbEThEXc6AnIlmy_AG6OD-qZsR4q10jcX
+.netflix.com	TRUE	/	TRUE	1797554358	NetflixId	ct%3DBgjHlOvcAxKlA_lrT6X2mkL4IOb5kY3bflIfDLi_aT5Zcc5_lJijnfqSZLxYxTS21W1gEcmd6rRndEaTKNF43Wqv4oZSohwSqQ_GtCIyq1p1UOLz4Mtob-FJZ18pCB5lkZCNb5XfyaNPMDq9vO36zdGDA1sO2PC6ePyG8-EIV6BGiXDu3zIuf-PBdMkwyS5G7pLPu5eBHpou98CAHG0zC4pnyXRc3iKTAzqFRPjuHUJfUkyZ722uLPXEcvVaQXxEQhErsHKsbQ-rvmpeK-w8WHd_kjPGyep_J4TzIvUuFarx7PpvEKaoE-0jwK8FGkGjNgv_xKlzn20c7lb5pHgawrvO8uuapRAAYvjA53jTgx-DWLDp6IYCrcIQ-o0dmhGY_EL41IIDXCgU7XyXrJugbSb5E9MvVUitpgKcVa3SWr7rSINGXefmKQrB5mdQ-kwvSSNVYEZkmnggi2fH7b2f2tMFOVvOt4MVsKYrRxNIKj3VHDOwmqXbBWj1T3wM-w3T8NIBEOr3eHOB_kc-gCWID_NzVUCi9ub4TnVmooRR_cJj9sRaHdCGL9VF9htY45gYBiIOCgwSMj2WZAQHqBXX54Q.%26ch%3DAQEAEAABABSX9lSR-i_JUr64gGjNEQ8XqBfR_Ok775g.%26v%3D3%26pg%3DTWFVQFZQLJBRTLI74ZNAD6LNAY
+.netflix.com	TRUE	/	FALSE	1797554359	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+17+2025+20%3A39%3A19+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0ce80807-8e67-4e21-b519-5e3f54efa058&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMS
+.netflix.com	TRUE	/	TRUE	1797554358	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6MuaatN-LX5v2ffydlTofKenqLrPBWHE.%26dt%3D1766018356778

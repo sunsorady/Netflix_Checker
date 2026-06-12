@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oliver
+– Email: ollie11.03.04jones@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: September 2023
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0182
+– Phone: +447510263130
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oliver
+– User GUID: AQ36W4GUQNHHBACGLNZCQBBBRU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800657503	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA9Qhe18TwycmuSwGHsNfq6VSG8ZaONkigQl9Ux0SC6NXr9GvQn40XR_yvydY4J8GX4ODP6P4pH7jlKzI8_qbgqZ2uxlWVzKjTkhyDcwBCZk2WjVqcUITWkWICxNhOuPpu4vdxDam7XO5VqDbv-o6DXsYTmePNub0r0-s1qMtmf0bcO28_pMvgnhB4XXoS0Bw1IbXTggv-XPRuygRiLNZ8fTy_I0PnXUUmR8GQ2erOUlfKFAzv8eK49AElO9TsMwG-MDJ6hLPvxddJFJXBi5ByGNy_wB63BBOhG0RRz7gIKoykSXQZCesPjbWxR95H3rp6y3H4p_MSfocxM6sEz-Il7XbT6b-oXsxCkdmYF2o30Z-CY_nHFcizNqAlHZMZ5VQ1oGNyJiG-f9G2Ugv_4ZC4XAVdIEDNltKVZ3e7VwSx1JWPnueNva58E7WgnID_pM4igDOtEkgws_-TFaiKyU5nNR6vIy6ozke5ho2FCvugBBpxeDSwI0T4u7XNHeaXhInJ-55MwaeaBgGIg4KDC0LYIfpM8J1HHjQHQ..%26pg%3DAQ36W4GUQNHHBACGLNZCQBBBRU%26ch%3DAQEAEAABABSuPFot1UgrT8qIfIxCI4cNiLmJNf8t_WU.
+.netflix.com	TRUE	/	TRUE	1800657503	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4QcyEx4TL4Qz7qVdWv8N-iOYKieUHAY0.%26dt%3D1769092702905
+.netflix.com	TRUE	/	FALSE	1800657503	nfvdid	BQFmAAEBEJu3J4cv4xURMquI51YnH3Rg7R0jJj07ksCtGAJU2r65MiWBsRAU8b5PIyzGbJ1qWMsXJp9-hKkHYHIiEdCqRmiugKmoIMDaF0azfhKd8rHmLGIPEQgeeIvGFEp7wzIkEufkoZihBM8Kl2wWVyAfPi7_
+.netflix.com	TRUE	/	FALSE	1800657585	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+22+2026+14%3A39%3A45+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25222c48-bf0a-4071-9f04-584f932758fe&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1769121461255&geolocation=GB%3BSCT

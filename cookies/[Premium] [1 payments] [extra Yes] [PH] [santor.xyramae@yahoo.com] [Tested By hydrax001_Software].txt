@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rafa
+– Email: santor.xyramae@yahoo.com
+– Country: PH
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-30
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639152188516
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rafa
+– User GUID: PRPPQ6C2QJBQFDUMDA7W7AYNCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810973010	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSL4d1zPLNfYLGk5hvffYYjznf2hr09aqg.%26dt%3D1779437010833
+.netflix.com	TRUE	/	TRUE	1810973010	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKoA-EVG5f-KKp-VVr9mtMkgYbPh5FfwrlWK1KNtIzQf0bO4bP36UWobTwUnKG6vN-VHwX6LOAG_fZTbjc5xzamypjSHad9bAA00-UZZXj-2cPox2k48P7t31CRW5Y0V2qpcDwHNmqGPkBxrkbbmzZMdQFO8Ux9FuePl4nnywB38ExjStKpZehOgTAyi4bFpu28-o-5ifpEl-luM0W_yPZQ4CMt_pNRf0Rfq10KMpgPwI0VybFCWhHWWFK__0vxJxeEeF-vQeRpf1erwj1Hw9tj7jPwbX_-rXESQP3HZIuR2wbCWI_lT0Zw2Z1PhCMcwSn0n74SFtmoR9w-oe5PZhC7Ck7Jlw4BmNGCSg2dISftybFphX5gtQRDA0u2gwQD2P3kwZWZdm69FCu2_wi7Yl-fB9GCFLsjLATZ6SrGs2iqqkzP7_Bv8jBgXxjtvmLabAjoVfpcnAAo7_qPmdGwkocKVe5NykjkVIKfT7_reLicgG0ZDKIvzWugqI-y-GCA3-MtFhfy3o6qqbvzNzSTAD4SivonPcRkxu2UgB3jnS5jOXvpvOoU9bzKpyAYBiIOCgy79gBNYJhCMQCObMU.%26pg%3DPRPPQ6C2QJBQFDUMDA7W7AYNCQ%26ch%3DAQEAEAABABRgrzAwFHG7iEswRfFbcJirJd8DGXbyATM.
+.netflix.com	TRUE	/	FALSE	1810973012	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+16%3A03%3A32+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=442e0100-5d76-4b4d-b477-f7f329abff49&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779437010245&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1810973010	nfvdid	BQFmAAEBEP1oKPu1eG3xRHUKvWBArftg6MCpgaiK_SHZOdkJ8Zxi5ELKkyVfGGMGjfDrN8SSSUr4dRY1jRpLD0M2uiTPyJtzwbj2vhpNYMiFRgkAlyaeg2GfTKd1ewD9uVEEm9v-cDcLWltJ74l4BCTwCLURQwyH

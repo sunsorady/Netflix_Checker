@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Celia
+– Email: thewartek14@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 8025
+– Phone: +33616180478
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carine
+– User GUID: W4PT43WPLFFQTLKP3S3FT66UO4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798980150	NetflixId	ct%3DBgjHlOvcAxLoAwBXa7-UOM4N7aQg2X1nhrQ2mKd2_VeX_A-PMx9ck-gB5CspEHsL_U2hS2M4SfT0dPZgF6E_BhFIopWyraIpsX7u3z8xMYh3hD_jIHb_i8oz0R60kq7mRGa1G9jvkLtdG8hzAHNHCtJOIDKtz7FBJcQ10rC19oDylIq7enDJ0q-ufBQ5W9YUn0Emn6A7koDiPuchKjNeOWfrMlhEX8ogwSDgbSq-hIimuzkA1Y0KyqOW7nbywUhgN21zmQvZEbBPxprMcpkqqWa94Qtv-F3ly6GmfLIXWwl6t8rw_6SX7PryryhZZZysKc9CllNbjXFofU-BIIStHE-oZ-xK8U2CGs2zoIoEY27WFSuXcAD7pZ0SFoN1M4TX6tAd4IvNIgkA_Rdj3TfbPeGqXVuvLF_8Z_rAFwQao4vpsZjiC1-KtTw2Evu4bdc1mI-7KUEDrqHyjXdKdcZbBC45DqoKWp-1S02hoqwc5CaFtZX-7XkPyYpETMN-fE8GseQDezqHSuRaqucCKfQjqcWEyPbXJuuT42E3yORmU9mO-Ek5CAR31OAZMmO5K54YMNzjltrILR5OC7Rc4sMf4_lPAckgLhnFeJCakY-vK4p91Cp9sbVfyNvkm9WmrGAIwxzPV2kd9TzeX21_y58cm2-NGAYiDgoMKWIB8Kj-QXgxIOQN%26ch%3DAQEAEAABABRgugJ2x4yMnaEInjA04TkVjppaunTrhLQ.%26v%3D3%26pg%3DW4PT43WPLFFQTLKP3S3FT66UO4
+.netflix.com	TRUE	/	FALSE	1798980151	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+13%3A42%3A31+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f8c63cd-340a-456f-9442-a236bf3a9aa4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BNOR&AwaitingReconsent=false

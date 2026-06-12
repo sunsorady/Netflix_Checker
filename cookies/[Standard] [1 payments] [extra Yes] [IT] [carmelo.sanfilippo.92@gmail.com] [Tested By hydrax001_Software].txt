@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giuseppe Sanfilippo
+– Email: carmelo.sanfilippo.92@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: febbraio 2022
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393757138265
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carmelo Sanfilippo
+– User GUID: OZM3EMFMQZHSBI66GJ7FQDD67E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056510	nfvdid	BQFmAAEBELvQOUJcS_MpuJ8Z_U4as5NgTnuUKkWg5UeSjNPsAs7AkwCZKgNRmxpMlmrdWVTWjYZVmmgbFSOuyLDfeuFz7TilU6xzDev57vzCbZB0X91TWzc6IlmapJUnia7ZmWkZq_nDR7sY94Mj6kJg7fV8ncz4
+.netflix.com	TRUE	/	FALSE	1803478689	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+24+2026+15%3A18%3A09+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12c4fd35-987b-40b7-9d6d-05d492c2bf5e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B82&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803569385	NetflixId	ct%3DBgjHlOvcAxL0A7-uY7RM9PwyiyWJeAm0mg7k2M1V7vgRvQpoEm9f3-VUDA5QzW_y6dqeC8HtNV477J8lO8RgZxgIPGb8RoMDSrcjBBxAeYLOhynPgopieXWJPg0UuNKw741qkjsEZyHywGh8iMFcFN8ykPfEPdf3RYkPfR7KmSQcaHQ9TZ0AyqPmI0tw1a03Y7k8HbzNR1s0SlzeJsfaz0vaD4w0-gmfqL25Z4IkSjGJ-nRtamacEguax5JIQr5jxbm0d4JNA2th8PCN67qh2zJtSb3Q5AjXBwAUGeKrNxxfQfgs20m5KDy6s1h7CH0HkgfDwhs5xD8OqcaUveAJBnLLjIUJeUWI503Z20zQqYdWM0NVJjIs6P6iDq4OjUmiOxg3EZAn91G2p2HE5I-AYSbpZXr1AkEcpZ1sdO4vB2m3SShKzrG4awf6oekAWeZ0SZiIjor8BEzanJLk-_vlMKg7MCczgqnw8OxtwE4svrzpYzxI5K1LLONMvwViVPEkmnzuBTtmRmCR6IVT9eCqKrWqNsMo3OAt_V7N80jinOy8NIlcf3jCValIYPejLUHUDOKQ9wmNhF3vW9s_F_Z4KHtvA5L7JyqGqm5j1mu3O6u4-r0l6VXxR92evEKb96UTNiGLfJsmpNth7NcnWebVQdRpmgy5j196mTmVCvAIGAYiDgoMX_NSPE-7GnG2dRlt%26ch%3DAQEAEAABABSI8YGgMNGAV09TMGdHm809AuhYwGQwqCI.%26v%3D3%26pg%3DOZM3EMFMQZHSBI66GJ7FQDD67E

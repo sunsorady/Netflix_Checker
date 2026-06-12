@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: adotoli71
+– Email: Adotoli71@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 0270
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: adotoli71
+– User GUID: 5YSLB3AD4FAFBJKKIX6MUE7IJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799958722	nfvdid	BQFmAAEBEGb-U1y3H67qciRiAMh6Fe5gk3kw1IUhxPEaX3RJQVLALTDdNT4FAklv5rqk7T1uuyWnXadWQ5NQqJtytWkudfGqxTnDtrjzgKIpeY59O9UCIJi20sotq97pRt7_cDU0u9nX3PR5wF3sLOJ7N5mk_GTq
+.netflix.com	TRUE	/	TRUE	1806765975	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAxdl1nuwIQ1Ct_3v6A9f9IYhYhmpBOaIBEazh9hO91OK6acKECweHExde8bYgxE1PoDrCOCNyQg7Q0G0RtgkKDxZ9IbnJFxWqhZ7XnqNTuss8YquOG-ZNaKPcdbX9CIEJV77Yu8o2rO8AJ-kN_rDJU1ycb0CyXbK5NJgcrf22qDxtwninQmcD4cDG6vTby1Gj3mbV7oMJlzdGOZXRMMCCILRSnDpFIJd9-sRSWbcG0q3Q3aYiadh1E_FW4A9kc5I7uEiKzyJNB2mc2NiQvKajxShbWuH8CHWDLuMC7s_kE6Wg2aWx0KfBq9U1KKBsi6sDcvicKZFoQGu53ToL88uRHDiEiG2fL-LQ_JeI0HcdSwXPEMegpSI4rV5M5cJp0Ewfg7x0jju16dCwm2Wo9EA1sgIbrg2oN8q_oijGvnFsA43ekNq26tLyjvbsBaIn3j7ozBYRBbncf2YQ4L4vl3vzu-lgu7mht5rLmPw24OweX1-NJkSGpEN6r0t-ZAbqxnq4YA_xAerw2dTWkUytaueN2AxMqjnHp2ek5Ts4bYsGAYiDgoMuif241kcmdRuSi-s%26pg%3D5YSLB3AD4FAFBJKKIX6MUE7IJ4%26ch%3DAQEAEAABABStoiI_CKWEpeYG8_petivvkek0m5Z_XPo.
+.netflix.com	TRUE	/	TRUE	1806765975	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrMmB1eb03VHFVSlO8K6lDtE5WY1ME6GU.%26dt%3D1775226382411
+.netflix.com	TRUE	/	FALSE	1806766000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+16%3A26%3A40+GMT%2B0100+(GMT%2B01%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5602a188-6f56-4e8c-a032-82c57dab281b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=6&crTime=1769861971640&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0

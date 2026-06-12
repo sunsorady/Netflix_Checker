@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriele
+– Email: marcozarbo12@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: febbraio 2021
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 1405
+– Phone: +393208748479
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marco
+– User GUID: T3JAVAAXM5BF5I2T3KWR345I6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEAZmaZnVrsYIkycVrvFQEP1gTMY9v3_Ua5_m-aIZ7eDe6HezrDR01YzwYTPpSmCavAdwcvDS2QyjJf86IzvbEwONX6jkHNClYDamSne8e3Lwa5C0xZrwysEzBA414yBHLAyVb1TBi2o5f_hyfvmvBiKd
+.netflix.com	TRUE	/	TRUE	1783551686	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR6ZO2rBmFTn8jVuY4ZJX_8dJImaXBG5wM.%26dt%3D1698775727238
+.netflix.com	TRUE	/	TRUE	1783551686	NetflixId	v%3D2%26ct%3DBQAOAAEBEG1Isw6uwDTLXcIl-ASnt0KB0JtKQm6-tm7D8lIAXa3hd9v9rR9Ck8dVUtbO4k6XKoty3QKwoaIfNALuk6a7Y8ZOV-dqkw2mGY68r0oPH93EfWRtN5sUeftU6WjkXSjW79kZZa-veFGemhJEDnjN508x_8vmM4WWcV2Yh5eMCsf7oreqeJ0ffcbuk9pUZBlFiLlzHEnOMcMehSthudja1cgnhboE3P6RZcqp5aaOnlTfdD2rybtJxFVF6JDccj_5A1NKmBEpzZwtfLWKnlcL-0ltHVWA-gDN3MHWm7AwP7DMANCmg4Z50p0i47Shgr0bkWOuFJLHutgdI7wNhrMgr3FLh-uIjxEB9a1pxDmv97HBiaB_h1a_ssN_jo0AIkR1TQtubmwkyaGkCm1gVRKhc19KfBACCgNrjHZRjKWdUyvJYUW9EiZ-T05m7G29UwsDzfQNtLrYUShiNTlyUU7OnbM3pzUn9zIwhPB14aT939fee4G4vYFWXBZxD7k_P1VsNu7IdEs1K9I1SKP4K1cGZdKfa1LwhHWQq4C8ifd0HN8c-z_wPYuRps6k6zbXEUVShBABan69-DHjQWrcxna28nuwFQejVX0G4xaYNDdfQJbWm1Ui0CQTNjolWKTAvkJFGkTr%26bt%3Ddbl%26ch%3DAQEAEAABABTqKJ9jorv5vMsQtiXfJC6gcsfiul_A2WE.%26mac%3DAQEAEAABABQIszi0pyPzgtMltAxQmdGHXC5pAn7JDX8.
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isIABGlobal=false&datestamp=Tue+Oct+31+2023+22%3A26%3A23+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202301.1.0&consentId=67dadf00-8baa-4ce9-9c01-f92c6d7da83c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0

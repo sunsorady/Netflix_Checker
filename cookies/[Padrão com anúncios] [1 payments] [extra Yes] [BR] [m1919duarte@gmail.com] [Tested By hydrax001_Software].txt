@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marcos Eduardo
+– Email: m1919duarte@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2026
+– Next Billing: 2026-07-05
+– Payment: DC
+– Card: 4363
+– Phone: +5531996897904
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marcos
+– User GUID: EDOAAYIFBNFPRLKQ6WPIQV3LYQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805322416	nfvdid	BQFmAAEBECGXpXIHfu7_qpeGAJllcV5gnvulXXDt5S-6ImotJHPINOeAPHy7KlgQ1JwMSE8_pe75ME6cc9GTD1dPV7vnXvgEy4hGGpJHnJdwSatSV-02kSB3WksyW5QR76jN4Qn9pHkhLNRBKlF2iY4sjBRhVxIq
+.netflix.com	TRUE	/	TRUE	1806883657	NetflixId	ct%3DBgjHlOvcAxKNBF0_JJ7lbBYSbDJHc7L8XEKcBsNzHP5mrA71m8YRCSFWbLc6UA6e2n_TqZsgE0OeT1wna4SzBqAMudaQpe0H4jvsjnH4qzGsqqJUmZiZx9cf4kxywiy-i5VKl75eEY8c4VmFXjxzFSMwenGz7bJdPASPioGr4SPeA2Q28Jm0mI49o1xAlAeq7JbajxXlDB_KGV872_lidsiLH7lfqMOJCtL6acfWeDgHyH4l47txRujGxBCKDx_eQKeUI9gT8mi35oJbNnmyCn--g6PXA_tBCUn6v6DL5iekdyUrya_jTpNfAihI9NYTdkIiEU4CipEBqsIKEcbCN8EdcLVc0LmUjsPIsV7oM30i4W6IFq9lEnRCRtI6XBNlyiIOb7IeDucBa0CcNwomEZZjvprmflolEVQPdqauZgzG_tSpRtCpzO-1aP0Mu38_4XWBzHOFiOW0kEtbXdWmV9IJuhSsy54jqHgVxxh7jCiuAiCnqX-x_DDR0W7giqR4o0waDoIpkxI7J9QBK-Rl3cWtFkTWzncpCk9a4Jh0PYDjiSnJBHwEfVxQNUb4a9yApQ_5QKILCGXMCiL3WY4Jw2Lpzw6LZJdSAEUAISt2qVuTloWNdbPBnxrz9pYEwRUgmYrEiynXwUGyFS-20_GuoFvAjOyWNpLaXbJCnnxOsE9XGwcx8jaj0zxuVwkFbXVhk_pOMLpbrBgGIg4KDAarOch8WNPAd5VUNA..%26ch%3DAQEAEAABABQ8QnygkdT-H9vJHMPNt1_7yqFlncS9Hrk.%26v%3D3%26pg%3DEDOAAYIFBNFPRLKQ6WPIQV3LYQ
+.netflix.com	TRUE	/	TRUE	1806883657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSCXzjOfVbjj_A5sxzLuUv2cVAD1qJKoNY.%26dt%3D1775347656038
+.netflix.com	TRUE	/	FALSE	1806886359	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+21%3A52%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a773a2c7-a529-4538-94b1-9222f8cea601&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773785933320&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&prevHadToken=0

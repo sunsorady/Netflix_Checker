@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jairo
+– Email: Jose.aquino7605@gmail.com
+– Country: MX
+– Plan: Paket Standar dengan iklan
+– Member Since: Maret 2025
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 1216
+– Phone: +523223201467
+– Quality: HD
+– Streams: 2
+– Price: MXN 139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: antonio
+– User GUID: 34NI3YUURFEEZBY6OB6PBPBS7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805688873	nfvdid	BQFmAAEBEJUUSQPiRwWUWtvduFgYD4JgE2QS86-TESSG6cEA9qHBMRFcSYDqk9wF9RvJjybkNyHwyE-ICl_VEms7N0hr4Mzhv_iPCsDWgGpQJv13myDkggkDGOdvZi3xDxJ_jRgsum_bP7IIfu8mbN-I-jYsH93Q
+.netflix.com	TRUE	/	TRUE	1809197581	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA8o2f3l-fm46QTVulPymiuZ_57WTJzFL-R1dDYqPc54wies9t82n6kbcnFhjMAF1BmbU4o4X0VTcRrc9BNjAiIrXkqmNcu_d5jCLhwr87oR7IXNawAkumySyAa88reYgNZCDQ-lbaIs3mzK7Mhig9b8I9DCBGWr3EzuXLSerDYKci7JV3n857xWXPX3GOYaqLoHVODkjxGuKi3lTSD7d7zGvbYUhgMH0WtClV85GwVfn4jgmUxKvmqn2gPLjWgumBfvMs-JLNPrZCFqXFrVylD2G5gCG4APSaEnL7thWf2P_5_9h1vF-4jbpKN3ITCFrhDVZAmnk40l1TW8Bw07ZCJ14Bn5JVcLV5mW8vnwI5j12i1xgNqXcMZ0aLBrN63bfsXFin7M0zdBa6h3-XHi-9FMrPRdlKvtcs65wdZVGSluXm3DBARHspoUEsi_AmEGiClb9p8dxSKjcA8Qedug_qegWVZIqXj_ZdgCT7zG34lEn_erzNowuPi0yaUc-423cDBiT-RcNMgxBvFsWL2gKKkw66HF7F4VuGAYiDgoMtujxwJwT_jKBqZW8%26pg%3D34NI3YUURFEEZBY6OB6PBPBS7I%26ch%3DAQEAEAABABT5wDS-7VJZXSIzB94ZzWDxoE3eGRrdct8.
+.netflix.com	TRUE	/	FALSE	1809210830	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+16%3A33%3A50+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f11aaf6-9df6-47de-8f3f-4024cb93b1ea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774152864708&geolocation=MX%3BJAL&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lee Art
+– Email: leeartmariano19@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: July 2025
+– Next Billing: 2026-06-26
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639360536980
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: leeartmariano
+– User GUID: DPKDZHKMOBD2ZECGJUMFDVH3EI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784286400	nfvdid	BQFmAAEBEBAR8F0_PZWeImFJy_6FdnZgZjbdw8h2mY5cEBTkVxy-6G_jdOs3ur3NAaEGdnRI0nGieosEsIvKeeDW1GiWHT636Ycu_Oqv4V3_9y9p-dyjPHrXWXnQ6furs-QYF8bWuLP2U0FKJBNWgDhkdP9MxGtJ
+.netflix.com	TRUE	/	TRUE	1806583991	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA1W9_KYRS2TPr_Nfhz1PB1FkRcnATFWA6oDw5J6BOvKR41tDTzrddVsiShjZLV2XkhyBTPItyZMYW3W-JQovZYrGSTQJc2AKU2y6tdGUHyct2Rf910e5cDvQ9CoMqCDorT_gfluEMFdERRoFviEfgg_69y-UBhpUaemzDUNwwqHWf1Z-BtuZCzGTYOppuH64Qth2U8e5bEMYIHw3LZ7UYrzj6Yaph_nhDb3BHJ7nZixx7CN0ghiGGS-sH1qkSZdRM4aYqF8xFQ2MQwueHOyXH8XdrRyMJioEBZghEE3yfUeOBn3p9PyEFj1oWQNYzIdgqgeXzozKmpLP3eDv7rhheebRJ26_Pg6TgAQ34q2zEq3v9cQ7Zb4sPTbIb21tIa6T6bMIjAMX24TMPHEdMf-B7NrNQyOe59uoNkCwWm7s0ic6Is9vCJv9r9AReMlENWVKJGTvH0O1yHYvZRlEdB-YDsqd8HiU0AYAD7jtIa5ECayxUTu4AxQp_f3-4WFpv6Q4vPQstoeq7HFtjIdQYhR7TLbs_TvxihnD5EwVsxgGIg4KDC_kjE08TD7ywJ58xw..%26pg%3DDPKDZHKMOBD2ZECGJUMFDVH3EI%26ch%3DAQEAEAABABR_cDPUo2DoFeWS15KCzHEmR_EdBwtInZ4.
+.netflix.com	TRUE	/	FALSE	1806583993	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+20%3A53%3A13+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=511c6d98-d684-4e31-b22f-0f920ae99697&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806583991	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiEqT1vvt2Xg05W0FUaf9h9h_ACLAmQS8.%26dt%3D1775047991032

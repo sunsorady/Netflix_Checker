@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: David
+– Email: grpntf002@gmail.com
+– Country: BJ
+– Plan: Premium
+– Member Since: September 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 7892
+– Phone: +2290197885070
+– Quality: UHD
+– Streams: 4
+– Price: USD 9,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ludmilla1
+– User GUID: PQCCIFU7BJCXBEMVWY3ERCT7CI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790881797	nfvdid	BQFmAAEBENn5Wwtcfcwl0CEok243gnlgjdJcHsrmTN6dqa6Ov0Elb-V84lXrxayYD-O70QzyEcB65esIVmFD7hUeARGC9BN-GXFCSgExp0LKbxRpExCz9siF2u9DG9j3oDwf70DBue9xOJ3EyPq5YT9850eGC7EX
+.netflix.com	TRUE	/	TRUE	1808592069	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAzJgtvRicrXxxWIui_fCisLQn8-4zBu-mXrIb_BP-XlHB6xY0awysbSy4sDmrzDf6BWIP1tTWCeBpErMlPk9hnoOsf3xK42rICtMITWyBV7MRmGaANNZM13KnxMoXx4xFcYL2vJ3YT-zQywRJxXi6_IeLlWp_oQw_Izm-ISvShTco1QhnPR_nFPcVeQlBqoTy6ZPCxkemdn2EwL_Y3kSB2Kmvs7q3AMTErXSKIKFNR9t8CyeAVJWfhryZiNSE0jtm6L5-1OYnf-uhqUxWpAJHu6fIv5LUCIvlo3rKM_VJ5Lu2ymVrme61Crx-p-aXm2QXPMtpVSv3GQz-kWtkWWC4emoQCahV6HKH121nDWM7O_8IfoyMLTqfZ1gttt7nIjM2Pts8aSU4C2zbx2YKIuCBhZYUI7gjqWzwwNX-96vIhwWYn6zGKFEllkvoDi8gPPSUaehdSFjjAopuUJdVRfy9n_3kz5O-RdCYHFmkCRQfPWXJV3vZdcMHqX2R8d2kyT0S8-jG7Y_fDVcUfGXwFpWLmZC0QwHGAYiDgoMcK8SvSL7KjWH0T-R%26pg%3DPQCCIFU7BJCXBEMVWY3ERCT7CI%26ch%3DAQEAEAABABTBuhfI51D_zVI7SovarrPQv1UUx1NvTsM.
+.netflix.com	TRUE	/	TRUE	1808592069	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGpknGtYqTDProyEmVxKRr7BhmMQ4O8wI.%26dt%3D1777056067929
+.netflix.com	TRUE	/	FALSE	1808595891	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+20%3A44%3A51+GMT%2B0100+(heure+normale+d%E2%80%99Afrique+de+l%E2%80%99Ouest)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=02a264e8-93a7-4ce1-b350-d32c0eea3200&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

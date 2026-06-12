@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan
+– Email: cuentassebastianvalencia@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: enero de 2018
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7195
+– Phone: +573163185832
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sebastian
+– User GUID: D5N2PAUUWNEDHBDEJPMOOGOWSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799881448	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+18%3A04%3A08+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa37efb2-b529-4e60-bfc6-7a6a449eaa3e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1810955990	nfvdid	BQFmAAEBEO1qnENKTdL-3z4SW4fXkrJg6Sqolzp3sCmjnLzLPnRgmaY4W22Q5ZA9A9DOR2wSSj_Nm7RzRLOynkIW6_nNxC8YX0PBlnRCjRzICc5GPuBgtXW4Y-NXqHD5_2g6Sk8C9sQNO-dYePT7If1F153UPfZ8
+.netflix.com	TRUE	/	TRUE	1811267987	NetflixId	ct%3DBgjHlOvcAxKCBGyYD6BDqqTTsJWanArUnit4TsuxvkHwO0N2BYnILdjIk0YIF6VXeAOAFW95V2lpQ_mnV5D8H1KlH4UvZxc9WDQlk3UBSiaH1yOXhjdmSgfWIfq4UQ3hktLr32B1y3tM9WkFZKVWtEVEuCDTtMjhLBM337bWBwBpC6JSXBrHK36xNvA_HZ-98-fZGyHlNIB7szen9LA-8z1ldQ3U1MrDepOm2UWDXdSSwBhi9pPS_gx152fkdGb1qqGJx7o5AkiYn3hEf1He2gSSLej3LqfXWwzBuTa7tMEZHEE69iuRL_qCyhIBuJwt3UKnTH-Z_tcrsS0A8UlOV94UGXCLKW7KJjNeqTBXmv5jLDj6qPZC_IjKf3Izxi6gUno-8Ukl1NE6kyG8vpDrG_KfZ5rdCdt6pMroZtS5SOiCUyNTY6sIgYgOiD77YuM1vrhEvUaVZEpmq_wYJn1IzzTnGtNaRch1_9bGhR4zR4v3hz81fFGIriDVDp3_piGAWVVzL40h-qAcNYct0ok87HyY5Pj_ZR9FHETKvrGxDnJzhsiIUZDkETCr_RcwSrhE2pHtW858UWwuILWEIxBYTXzkVXVG0rPVt458zXyS9FXBANJf0qlS-RbHkGquA3ZhtfNeGakHUAWt1nQtBEnt-aFtJdnofCAYbbW85ftBr-HtTdHcYeScERbR1jwYBiIOCgyB4GnmSWAzXZrBFhU.%26ch%3DAQEAEAABABRPDKnlXvqy3JwxQmply2RXkzkpI3xxmoU.%26v%3D3%26pg%3DD5N2PAUUWNEDHBDEJPMOOGOWSU
+.netflix.com	TRUE	/	TRUE	1811267987	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQVtlJUFrUpkI76b_f3v6qAfm5WLI741mc.%26dt%3D1779731988156

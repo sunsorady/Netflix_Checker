@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anny
+– Email: christinkraus@hotmail.de
+– Country: DE
+– Plan: Premium
+– Member Since: Dezember 2018
+– Next Billing: N/A
+– Payment: SKY_GERMANY_BILLED
+– Card: N/A
+– Phone: +491729891984
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tini
+– User GUID: 5NCNBOFUQFFFVGRYJGXIGW43KM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796057688	nfvdid	BQFmAAEBEO6jye1170s7eeZev4765GVg4LDav8-XnC2xq7hWEYdWz7pB8WdVhVXqvA_G_u-OU_SLd6nJpmwH5BDiLKDbnrKax0vC1q_MqvB4Oez9V8DhIyShbnacFY51xlEk09DVC5OkCSk3ITn0Wx5x6Wi6OK65
+.netflix.com	TRUE	/	TRUE	1811589079	NetflixId	ct%3DBgjHlOvcAxL9A_Mfe_eAJ23mC0uI4wrRksp-ioYFkvUjm-oFMpYn6xJ4I38dWh7sHx76AeMvDzC-66UHaVYfh7G6o-9D78f1af0OhaurW7p6_ATDx6_RC3WlnZTfOotrFJeXcC5izTOjAczipS5fQaqzxI_kBvrHv-0Wq5sUhpKtcxDNI6fQZe1pg6vyHOzuCmeSyCdvjgFUX-W_BF0bwBAUVuTxRHTGwloKgnLJ7hir9LaaSZtH5wiLst9k37qmMm0hRAKS-EQxH9zawpwdfC8nrIssVPtOIBU0firjlZFhStqMjVJJE0GtMohlJADN7DNW6L--O--Ab0X8NPlTIL3kSmTKyLyHRPZiIxO-Lg8vDVe0WPuwmJw49cV0rDM16b9KSOUqt9eybbhorsYGL0sqBCjX4OGW9XBl7_9kWIDCHLbB52-FXaY2XEQiPbIrbznSXXkRVlJg7zy8bFJIAlMYHxdmkkZRN65dz_t075prkBKlALXusvHtMekbRfRI87C5wNfnU7cV4W6teo3LBnfNAbZSl1gXiaLTb7AoeFj0MgG1L22_VCkGUMDPAr5PslagJsDcm6WLZGTpIpVomKfHYoZBqRcI4tDt1QpuPr1auMqbVA-CsHkxh2cV0I3AO6haKTcpqjuyP4RF-fmpDtYsymCUl1ADMUr2fZl0b06CiLSSxWHZGAYiDgoM-r0WcDr-Nz6sJ9GQ%26ch%3DAQEAEAABABTzpH-IZIJ_C0yL4s8dm2o9TqjCaJR3CnQ.%26v%3D3%26pg%3D5NCNBOFUQFFFVGRYJGXIGW43KM
+.netflix.com	TRUE	/	TRUE	1811589079	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStcPbwdAdK7PU26uEMIUgiGxNogUdJ3a8.%26dt%3D1780049482667
+.netflix.com	TRUE	/	FALSE	1811608367	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+17%3A32%3A47+GMT%2B0100+(GMT%2B01%3A00)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f9bc363-ec13-4283-9aa4-532575a9e0d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BTH&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Quentin
+– Email: bfls.alex@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mars 2020
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 8009
+– Phone: +33658820030
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alex
+– User GUID: AQMTVI5F7NGG3DC4XUPXOLXGHA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800300116	nfvdid	BQFmAAEBEIKJ6a8qkNOj5a5Sp0946GNg0bu1rbYl281c-zCjJR2Q9YPseSycgX-V9KP91rqFZ7e0tEPWzCvT8b7t3TSvbz-Snl4oO1iBg2BtS9yc5AZMkbw3bA96wD1UW9riCmFYc5hKw-UHoCDVQ7kbJ2oeN2Z1
+.netflix.com	TRUE	/	TRUE	1801693917	NetflixId	ct%3DBgjHlOvcAxLoAwGvIcOtaRyreqCT-75gqr2spf4eoJ6Tnasiq34BCdbvLJDQo8KOrwCApUxkf_8pvqoX0SWPbktDi2MaTsVYSkEYcHPI4exczafLbjYN1dluUQPffDAdLalychxJn_njQ7LC6B4gVi1YV-6HPVOb5_ppEjYrCWa74SV2aUejDxrjy0ydUplhzdO-J1yfQjr_SxAl2pSYl9w9d1P0FoAHBealQ2ZEkQHh6nKAZWVctu4eYCQckS9p3muDtxC7BgjsSjuiTwoLsz0XPsKS9mJtfPzV6S8gixcreonKP0UnnhpscXShY09sGlfj4BS_CRp6rGE3kxXKWcpDag79epNOSQQSLK0xtCuvwh7z6rIFVSoOU3w6od-Z2dedy8MYhYkmhL-UisYbyXbltQP4MkB0E3q1K5W_COIxAvulLI1ijhZu2PQbqZRziqGm6THWXRDjulTIcwh0etxvfTUjmqX39JARlso9119CM_nQnmt_UwVnXgQF6c-8yLsaKbM6CKwDrv9Rw4v1u7pG_T3ty5La_wiHvGSGWDASBXEi46VcFhB-KGj1_0bvVYmiDWvajHbnZZp0UwmHnKG3ahgIlqonwWF3mjf0nxfBPW9wn06o_HvZ2yi7AaYcW7RWDD_cdSMQZsa6-o3xorFLGAYiDgoMcWW55HEe3b6Ia4Y4%26ch%3DAQEAEAABABSciIxSBUTMBHdo9nK-dvw5Ti40mVVkdWM.%26v%3D3%26pg%3DAQMTVI5F7NGG3DC4XUPXOLXGHA
+.netflix.com	TRUE	/	TRUE	1801693917	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBg-NAFl351Pal2sC8iHgLrRtCscrRNPY.%26dt%3D1770157917617
+.netflix.com	TRUE	/	FALSE	1801693938	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+23%3A32%3A18+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3ece47b-6c45-4ab0-bc93-10c9f2b9ad1f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768764077229&AwaitingReconsent=false&intType=1&geolocation=FR%3BARA

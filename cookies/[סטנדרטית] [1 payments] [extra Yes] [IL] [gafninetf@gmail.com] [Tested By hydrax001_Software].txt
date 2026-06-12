@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: יאיר
+– Email: gafninetf@gmail.com
+– Country: IL
+– Plan: סטנדרטית
+– Member Since: ינואר 2026
+– Next Billing: N/A
+– Payment: PARTNER_COMMS_BILLED
+– Card: N/A
+– Phone: +972506924101
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: לימור
+– User GUID: BMSSGU76RBFJ5GQ4IAYXDNTV7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800380983	nfvdid	BQFmAAEBECO70SIKIar1RUI6GYYM0EtgMf_TqfqooH6f6x_eOFCAjPL5diqVUznIvQ4AJR57R_sCgoKGCMsH1dgKQl_4l84e4EzbsLcr-gp--CnvfODLoMCrPD4naeCYYibrkBHuIa6GvA2gi04iu83uQsy9O8qB
+.netflix.com	TRUE	/	FALSE	1803664483	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+19%3A54%3A43+GMT%2B0200+(Israel+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab7bafc4-1ea8-46ad-ad51-2349dc0e7dc5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768558331528&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803794521	NetflixId	ct%3DBgjHlOvcAxLlA7sweGioasknbr1ZTr3PPP-_4fJMJV5tQTOedE7XK6u1LrqirtPce_HXRiugHzusuyq_4uYCe7KyZhKKknZCONg_77sGqZFjW0ilWO1TXsojpbVkSciIW-KBq-0CTVlB6T60ObHWaWoJjbtbYQahb1eoqzxaxE5KiaR8ZLtWJYzh149mwFX3aDJrtwyNGwRuLH_H3C3AhOKPelIpI9lZPuIe20C6qFLUoV-VObgMGSJbkvXFTkezNOueETdoGe9jg1eZ0sybziSXVADJWoe6gNhuA_AOR5GTZxYKZYlJf3qmm57VYbRVAWgfEpW77WrS8dUX6JhdcAeygpuDV4NykxQcs58SG2QlpWOQvhKP0oZaKUVxql-FCC0F16Clx_DZ_FRaGrpVikmSqrj0tUoHgJkJh6C9FqhwfXov5jpNgHbL453E0hR3ZaCMIx58LNtt8G-nqEcIfuIit15uJIDw5mJvhcfXTUdU9SblcPg2_CHYzSXIkzM9MMiXy_jZO86KJM_tUFRYHhNOHDIEWn-Vq-gTLWC8mXcrLirl1DJTL_CJmpVXwRhCW_sg6GgJotsIRjNG34yqM3hRU_itemiv-QWGlATFBw6staMPiYExyPIPUVqKzvE2CJrsOAWqt-aV1uBB5mDYGAYiDgoMpn2_rX0a6hKIDO4S%26ch%3DAQEAEAABABTq8vFocdjm1JSoP3SIMjNBnUHzujrpqP0.%26v%3D3%26pg%3DBMSSGU76RBFJ5GQ4IAYXDNTV7I
+.netflix.com	TRUE	/	TRUE	1803794521	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR27U5ypnYdc_tj1TkMfdNET1zpL3OdtZo.%26dt%3D1772258523927

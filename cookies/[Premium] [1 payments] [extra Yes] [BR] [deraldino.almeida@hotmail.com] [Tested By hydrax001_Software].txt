@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rute
+– Email: deraldino.almeida@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: junho de 2015
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 5989
+– Phone: +5511940184004
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DERALDINO
+– User GUID: NEWO7WUOAFFTTGLXLKF6YE47NQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792315	nfvdid	BQFmAAEBEImDHUym_PlsGODoMLbpoQtguMEVNE80CjXRXORXwz_hipRtEsdI3bp_d_3qCRkEEzBWKsPgiPdrY3g6IF1gaTXlg7kdGaUbIZ9HQlPKlzfXV3VLWTAULooPEEZvRCY-u518vPPhp0RROet7zDSXGke8
+.netflix.com	TRUE	/	TRUE	1783792315	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQXPWpy-CFMXTVIkK5Ou5-Xtz7jzaELrCU.%26dt%3D1715634369882
+.netflix.com	TRUE	/	TRUE	1783792315	NetflixId	v%3D2%26ct%3DBQAOAAEBEFzCXCl0htvy-m4xWkpRI1iBwHf7iA_sqmM4dyoxoAfgTFOSBh73BVKlDgPsQtNAm-BV5lDZ3sW1Gd1ZhDfOMVNKy5sJxJJRWE5Uh2A5f51NMwlpcwcw9WWdOqJe2iBvZW9R5zEk1hyS0mp85d3sgAkaCfM5uJtvpA9IigEiQcj8pXyIF1fQ3W5jkuB4K94B1dZ0SEkRARucBL1CS1yY9FXgrriGLndXK496NHbymACt0Z1FVJ_OJsD4DQlP1nu6YSV1p_JiJqX0avyP4-dDfWvQM7k7EEpaz3w4le-iVh6M0FK8HE_IIllfYK1fmANnNmgtqyotrnC4kwMh1YeeWEObve6Euc6eS8Bnz8ZVKjObcUccOEo4waiqSLiyNfuD6CQLF6FA6c9FBcnWXx8sVh7qMCL-PPuLCDwuVBBBvGr3fw83vXdid_sUawCmKsxQuMzcEVlSEC3LAJpMBQL3m__Up8GveO8PgQHuTC3IcDseh44L58u8WY3PemIdkfyHhEYtwJzj5oBd9f6OkrCtona2gQTEdg-GlUjkpT5NHID9-_2FZFyIsTMLtimPIWF8UW7zJ0XXij3-LACgJ4WFLsjf67bb86Fs8wYzGb_Mas2Ksog.%26bt%3Ddbl%26ch%3DAQEAEAABABSYVaOe4P-wU-mvIbHV5PWsBleR6M12ScU.%26mac%3DAQEAEAABABQA_W4uPt0ofCB9zmJ6EbF-6iaIDHoZnu4.
+.netflix.com	TRUE	/	FALSE	1783792315	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+13+2024+18%3A06%3A11+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8699d002-3586-41cd-b0bf-cd76c36e4de0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

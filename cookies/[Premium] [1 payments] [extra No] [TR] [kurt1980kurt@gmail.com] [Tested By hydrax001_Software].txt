@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Erenkurt
+– Email: kurt1980kurt@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Mart 2020
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 4386
+– Phone: +905348266731
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bülent
+– User GUID: XFPEKMJJRBEOPMBPHJZWDREGFQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789407209	nfvdid	BQFmAAEBEC6rX5t7TJ4lFrjasOlkGB1gVVuGo2itb3myHYeX29LZq-uDdqcCAoQZsuDO6FYf-Tfb88qlqyWpUE0XsQknep4JJUAWC3relB-eyUfxGIo8tlWranJDzdUUO0I30DIXjBKp6x4rhuky7kbDya0ISk04
+.netflix.com	TRUE	/	FALSE	1800996244	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+23%3A44%3A04+GMT%2B0300+(GMT%2B03%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8eca8bdd-08be-43e0-bf46-9b0b0536316a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=TR%3B61&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806997515	NetflixId	ct%3DBgjHlOvcAxKGBMkQ-xtoV-hh085gaG-pp6lCFx0nZ2q7STipbKUpggVm9uEW52pNkMpwG-5pqIy_ZgUncYT1P2Y0gtxMuy_wkcZ2t-u5wHmrRGhPMMnQ0PnR7BHMD7qeBb7B-QutwRuYcUk-8ECivVSrK8r-BLVfmPxYKxoUaI-h4h9wjS6TZqm7VF7ngueV7rV0H515xX3G3yUwIyZwjag-FndPnO5mcyJq4J5YJ1-UZziWGwgX_KCA6RAgUxP0i0Wc7xDuuGjk8W_wNtvnAUmMkfbyrVJ6tRSpBVcLI9BpRCgZVw9NUgKRK39skhysZbtcFmugmv4puymB3vb21vMsEZJSUvw6lwBqC1Cd9k-aFV52uRKsXz9XcKF3QHAUhOEYqRvItM-_BTd1DUa9YWTWYYD3hfRv3wUOD2e3sk5--F1209-c-Yr_jtV53XnFn1byFM7uwa18LQy_RDcrvLbUg3kEvizi4nGlwbwjYbSoTnGQvLsYb5O4-rHxDhqICWFTlgw7vVSTuyisKZwdd8oWpEftprvNwARXx2TXp22Iruk2369j_28BVsztUMsWPhLK9F56CAtxV92pM2dlrPXvy8pHP6w2vBEKz68uQ2YS5MgZCIMZgXyTwmrsIY7Q_PRrJBubRuVCzH7rct9SvhXt2SrJFK4WdXSySwX2XCDHsf0fH_fZ7owlUBP3-TW_GAYiDgoMQt2xzZorJQlS3cq1%26ch%3DAQEAEAABABQZNNa5v_reQSRaUajlFmlqH-5kQSEzSKo.%26v%3D3%26pg%3DXFPEKMJJRBEOPMBPHJZWDREGFQ
+.netflix.com	TRUE	/	TRUE	1806997515	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRojsVVUvwvvjpWMALmGltRrUUsnv2-xsw.%26dt%3D1775461321057

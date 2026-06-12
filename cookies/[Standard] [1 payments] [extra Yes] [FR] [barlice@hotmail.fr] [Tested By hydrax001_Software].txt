@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nami
+– Email: barlice@hotmail.fr
+– Country: FR
+– Plan: Standard
+– Member Since: janvier 2024
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 1526
+– Phone: +33628079036
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vivi
+– User GUID: BSIX76EQAFDKBEU3QQQVEZ5D7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790106619	nfvdid	BQFmAAEBEMlQB8rUwKOGwk6sdhTTMZdgIpt-jxmX--ggad3Rcl0wZ9H36ymc2qRv4keynKx7TfBMa0uyICgAmDD8At7f6O1mmSRfkF7AsLiOYsom2KPVbN2NiW3l9wxsE_nzV9TiNuzV9iwutZC1B63JfOuFw6Xi
+.netflix.com	TRUE	/	TRUE	1810296841	NetflixId	ct%3DBgjHlOvcAxKCBNXpxJL0yOMsBQK3s-pjAax-DMgly2g8TwkLlOp6MgvdF_Cd5jB-ekQafMN51fT96fyW5KBCJfmiGW1NGAHqo7PIRyrdB6jqSb2ilua89uMm3Ix-uR6sE4Sa3zc_mr9_cgqDkln-v34zJkHUWF8qlYJxWFYH8-FP-53H4lZpuoEaZ3UO5nZw9EkTxh2GVixM6FjPrJBvnJxN1ATjKzpEdIVBoVlAsrJJiP5moWZx9SKVRKgusrt4whYVytKHlw683VdcJne14NYJVPrLmJWdwo0crb1BJAb-zTRnJTjVKMkotBl4XAIIPdEkBlSqDRKUgqWhFEahn_xplIsWus82NOCb2kQUvqdcHqlTphvuy-Sgjc5MvVTxCiSaTh-hIHiNoho7upB3UD_nH99Ap6p_OskUYrtA0kDsRj1NmQw0Jw5sFEZ6ufkHlb4M446P0ALKmMiH6pLjtm1qd2w19lKT_T3Rv0F1obbum319zfgQGehPU_OAv288ubNaPT-W0Ne6H1Ai-WRrcsGqLNLcVUNRi6EYqkr4Yi_1cV-euOl0baXJLfcDgunEkpNKt72YNJMvxLgzQ-hKqlIfR5yK6siBNoHumERhrNwa_SagpfQ8k_lWC31Mgo3ZhGBFmy2TtH1Xxak-wslh-FrHPQfbQCXaDx4GW5_TuAX8UCq3uvr9KfzW0s8YBiIOCgynafCz3mxWdyF9K1c.%26ch%3DAQEAEAABABTOFmpdnvhZ1LrKtoeTOt6PyF13hXmY5is.%26v%3D3%26pg%3DBSIX76EQAFDKBEU3QQQVEZ5D7A
+.netflix.com	TRUE	/	FALSE	1810296844	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+14%3A14%3A04+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a278de2-3af7-4695-bb5b-b11ae8616099&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810296841	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFeSpurVwF0zlg2yTa8y6M6FZrAhqwNy8.%26dt%3D1778760840041

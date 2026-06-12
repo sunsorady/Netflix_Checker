@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LAURA
+– Email: martinhm007@hotmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: November 2015
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 6618
+– Phone: +543515081043
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LAURA
+– User GUID: 56C3AA7RDVCDRBZNTKPVXMDAC4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808617540	nfvdid	BQFmAAEBEK1MHagV4jkr_z3wIolHmkVgxyyp8rDiWPWZflY6GI1pjMXR4812-AopHsC764r6egSglpyckwGBmk_vrtXxnzX8OD6NqZSPgPuf0pw_CWrrTlUEASd5owsdyfTlURV90x2_d1dXgOFihTI7VH_LIt0m
+.netflix.com	TRUE	/	TRUE	1809138546	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAxAkMc_kY1ZvwtSsmV7W-SU8ZI49qkx2TJ3i7GFp8SYkGTDfP143IknTNeEyo-3jED0gR9a6DSjUvGq8o9rG7uVaF951G86ae4iWaFlfCFTWPcWmiRXnpjNVCMzf_jsV_dfZaox19ujPoQpJpPPXEER3xccsTrkcTnvZotmEo-Dt99I1CjJfRJs7u6i8FlfRGawYAEQoma0YERGPEOafGlsLRIfDBhALSxk0Ezspfu3tHWVygKxqB24uco6URID-K51OaluOHUwsm5c2pXH0gBx2m7PMX7RByTcDcvL1xMGYAcV-wSNZHhCZbMwvNF9NycdcrmbWdj8U_xBGz3imJmhJDl55dXz6p10WN8DwYc2C1JnB1-ik5gHcxJDYzJSivY3TLx4ysKdOHuPHtbku1Y5BZtspdzWV5txD1rNdQZOadDz86ioF9isiab40P0G4-69x1EW3vjCDSmyUxhY2L_g81QwNm2MNSYlk5oFa9s4GPhwT7NYXeyQz56rnL3r0rmf_azUO-C_PQc2t3r4uQDDLX9lNUcEHVFcYBiIOCgyj3CviolDyt-tjKHk.%26pg%3D56C3AA7RDVCDRBZNTKPVXMDAC4%26ch%3DAQEAEAABABS-58eVhld6nJGo9EQeAwjpoFQqIaFtkpg.
+.netflix.com	TRUE	/	FALSE	1809138549	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+23%3A29%3A09+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ab5a6721-4951-4893-a3ac-3a54f5912b86&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777081540019&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809138546	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9VcXgx1sFJSuH3UiwulRnLbhQsIq51sQ.%26dt%3D1777602546066

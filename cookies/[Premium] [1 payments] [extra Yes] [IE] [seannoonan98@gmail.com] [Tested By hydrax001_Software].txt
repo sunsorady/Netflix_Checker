@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: CONNOR
+– Email: seannoonan98@gmail.com
+– Country: IE
+– Plan: Premium
+– Member Since: November 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 1317
+– Phone: +353830200852
+– Quality: UHD
+– Streams: 4
+– Price: €23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anne
+– User GUID: 2SRFEKBXLRHPPBMZWV7ZUG7QFA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787516008	nfvdid	BQFmAAEBEOKE7Xn_x5Gp7YqcvENCGFdgZVh8l94QWsSzfuWWzsofqyVVe-DqT6OODIg6enggK0uygiQFuTT7jSVwn8E3DOHXjvAlNdf1KLtl8E8kN8cpq0FeugHM9q8l9wyPaTDaSav2DPOscRW8cDV0Jzz7NxVP
+.netflix.com	TRUE	/	FALSE	1810295059	NetflixId	ct%3DBgjHlOvcAxKGBCDkhnpHGssvJ7pfuGZLrA9IKvWddL06wcLA377Em8GIcmBg16KCnHLWygdDKEu0ANqU79SpDTc-MRDmidI9gfV3Xqg8IejD28SpOEmW9DCWRZNJReIBfz37ExNpjxZUYm2W8JlKkRyCOhzgTpWnpNyzuTkS6iY06MDMLsSB3qeLwkCcFwfGEItlHjCHCskzftSoW6d84rlhgBrkyHiNIRDrAaZLb4etdyj6HnaexayU16K5lz6SQ5Vw0168nLZsCsKZxCZJJICVyhyMfFSJcSyfa5isMSabMkWwRq-qsgYUwJwCDI96ddhuhPq2tEKtnFRjJ69eIPswF91IgS_kV_PaxHTUjRoZZxmb8zd_6JJ2l7YdQpgc9Xj0jLlGpZKj4T0Anicvd3LP9jIThuKbwaJYCUntcXCcfNiIOx1OKtqrmjFMv2YF6lDtVek6PHJnaelcle1pw2pTJ5G8d4gOEOOgpxzKJnPZJ5QQJSuItmaKBj_eKo0CW3PBRi6t68vhq--ZWHUStjGHvlQHfZn_wFyBQrJ24ppP5lU6u9F198fsWVv8aTAmUdj9wH3gciZQS48w5EBPlUakwixyOmB0RflKQdCQRKyIspzmZxFuFjBi7u92BAPRr3waMTrDrKMONHMGoZ0Yi0Ly8N6xvL7lByF1gSwWaLQqyQ5qDp9OQ4X40mcyo1P6GAYiDgoMhqVn6q-aKM5HfNMd%26ch%3DAQEAEAABABSlSFaQthV1u31ntVG4DHtPcAdtgT0BKXE.%26v%3D3%26pg%3D2SRFEKBXLRHPPBMZWV7ZUG7QFA
+.netflix.com	TRUE	/	FALSE	1810295060	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+12%3A44%3A20+GMT%2B0100+(Irish+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=acc85b85-9c4a-40eb-863a-920e03cfb261&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0

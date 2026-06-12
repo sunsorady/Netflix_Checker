@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Endryka
+– Email: savy.ylan@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2025
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: 5911
+– Phone: +33646703239
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ylan
+– User GUID: BPYD3ZBK4JH67FXQIN64U2LT7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796921618	nfvdid	BQFmAAEBEPwSmpNoU3e1FjjFENcXw7hgJoUA8lU_JrJSUJkSEkzouvlJj-i0hbl5uI1tWYMveQEWYfcMt17Cgz5jiy1Geg3eJXdvCyRfRlsOMXKoFeUSLcqFNbloZ1H-qmg221I8OaHIQ_2vAASqDrCKwtEeGTaQ
+.netflix.com	TRUE	/	TRUE	1811541076	NetflixId	ct%3DBgjHlOvcAxKDBDy1G20ZduzjmPv65S6dUKWF97fEcFIPSjpMyTe44vMx445S7PwJbNqdbu7gV6sY3Wn0XKNat8X4Ci2NVpVYe4bXzZ6zMBv6z1H6AotmOJRSVnnIgKzCl85M064k5QKR3noqe53-Ef63IOLHbKfFvlGVHvNl4I6_t7SQz5yvRKYjtxiNgfObEk4ivIpbUdx6xZR273BivzLaBRbWiGYFmmOxMeXTousjva7oI5pW2hGEz3b8GGJRjL8SXHB72V0RnzhBTscO_wjm2OtWbFJB41tgqR6wG4OPajWLVU9hM0K9W5JrfpbSReWFpl8UA4gC3bBObwTqBag0bHviHNsFYJpp4iGBwm8COGcxdeiq1o8AIpi2NNfhuVl5AEN9yuu-qYoci28MXr2hRa4mFGWkL1LtXbdP-ajdhWYHcQf8B2I_0tmD-AqvfmCJhOPu7vjbE9icaUEbHrMCtyUktY53de5-AE0R7O6ewLdBeQ6L9aTRsNgwRtC-ry_klaXRhXIozSl_-xIfDuMm1Gq1CjTf2Vsa_muuVFbLSdFt3DUV8c-B8eI1w1vN5aaJuscGBhBDefhF1bY5GI5t7a3OzMMkSFskFeO9VeBcSRg2WZxfngIKmHZBt9hQEsclzEKUUIvKwueACIznmieLuGhlEJi1FxxwuvWBGdYkFJTj8plvjQHzfsV2GAYiDgoM_BsTIaXXLN6NTrYs%26ch%3DAQEAEAABABTQVYF3aF0R50_MrSWab_K7s-NZbg9XsCw.%26v%3D3%26pg%3DBPYD3ZBK4JH67FXQIN64U2LT7I
+.netflix.com	TRUE	/	TRUE	1811541076	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR6-Q1LyF-AZLvh-h82jl1YzKwsObbmaRQ.%26dt%3D1780005075903
+.netflix.com	TRUE	/	FALSE	1811545028	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+00%3A57%3A08+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=831e9e05-aeb2-485c-a88c-2a29c6314b07&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BBRE&prevHadToken=0&isDntEnabled=0

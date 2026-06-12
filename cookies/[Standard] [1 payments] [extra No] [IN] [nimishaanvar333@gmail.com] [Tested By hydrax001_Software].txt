@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Esha
+– Email: nimishaanvar333@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: March 2024
+– Next Billing: 2026-07-07
+– Payment: UPI
+– Card: N/A
+– Phone: +918078111091
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nimishaanvar333
+– User GUID: 7UAMHLJAGFESPOUXV2XR5M4A54
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798536393	nfvdid	BQFmAAEBEHTiGWjP8k5tZ6cJZhk9TpZgLRjzNtI4i8gPZPeOeZuoF5cv6W2sn0UaGm8ddxvG98_DQt_48ph9O92wMvgcAgSY-OJMj9gsBWPgGGgdM-_RzCqC-gy2d9o7sniCrgH5y1RNZUaw6mCKPpd7tyFGUR4U
+.netflix.com	TRUE	/	TRUE	1798580754	NetflixId	ct%3DBgjHlOvcAxKRA9M7RyD-aDhEBrKVBRkH97why6cD1K5Jt5j_rsOjyzxXwTjOEeM-OyD3hu7WZc0PqMBkDxBIr9trkxN4hj3tfC4S94VEwfvpz_5oZ5cecUMuuKQ6XiM-zzrSyFij4hPJKOE_3BCLfAQlY2nI_gvCBFItCGScc2NZlPtSnRXkyrIHpZBzanAuJTS9MwyR7LBhuOFOMQ-S7woea5-OHhqJ3ym5e3snbWcDFc_hcwT5Q9LEenGGUJDLcopEA6LMZYaR9xZ_ChiDrbI4v0J94HDWYBCCOQwP5TrtbTbYfpao2ibvtTADmiLmvheKu1JXWDDcGKh2QYuwsmD34yeYqSDu9_d2jimxaO2nq2uzGIQwJi8EgWcAzEedgraaTKnqVhU0DYOn_jxMlR2bai5gloUN20ABksX-PkWUDWR3NqFAhre1Tgybt-Pj6CVzQVcOfDy1-hVo0axNzoQNBFfiaILKgWHUhBl-g-5BqCRyII_y41FfmGZ8W4dSuQV4NM-HTmmAtog0gg0K1PAqNLJE5YLLHoPFGAYiDgoMj75EhhLA37KAq-4N%26ch%3DAQEAEAABABRDCwBREXMUBy7qzR7CbV6lDz_nB_nRUd0.%26v%3D3%26pg%3D7UAMHLJAGFESPOUXV2XR5M4A54
+.netflix.com	TRUE	/	FALSE	1798580754	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+29+2025+13%3A45%3A54+GMT-0800+(Pacific+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=32fc7891-218a-406f-a2a0-49ecfefc0cb5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798580754	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRoHEFTJRJXHi2txThZDZR8kyGsLKFH7ug.%26dt%3D1767044756465

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: HIDAN
+– Email: hidanatam@gmail.com
+– Country: HR
+– Plan: Standard
+– Member Since: February 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 9983
+– Phone: +639164326456
+– Quality: HD
+– Streams: 2
+– Price: EUR 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HIDAN
+– User GUID: 6KWAFGSWHZD3ZNINEV5JGWJNS4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792693584	nfvdid	BQFmAAEBEDBypnq9ecJ5LcaVh6vDGRFgeIOBtvYLRNusSEEAk86obzs0hx3vAz6_wh82gSGZlScnnY3wbspvpqpm47gu5HUwMkax3YU8YCIhRO0mlT9XBSctEFKl7i4VX_DAkXUMFy64PH2j-EoBDowTcLdDmuZQ
+.netflix.com	TRUE	/	TRUE	1810223569	NetflixId	ct%3DBgjHlOvcAxKxAw7Y82GEH_3a6faO4FUeTQJPMFTdBMuiEE1MiM8DwKoOtstvi1oqs-lkNC0XJ7NSSC7qQ5qdvZrLsIX3qdwgOi4z5unr6qPLilL57PM0S5UboouqxuiGo92CKfBJLEy7ZYdlPF-S706uzwnD-6K2t2juJlDYqe_6BY8OHyEnrkl3Mfe51VgU3xI96w9yRzVb7IhBFXCMYTfToWEAECfiyh614gteOgAbApIgyQdnT03RlmlT2uyCDADsroKjI4WxsPk9uAix8rSLKnoHtOjVinzflYSR2xy9a6IAbt4o1kAQl6bSVResPS2Zv0NXLCA9kjQR-FE8VQQjFthYmqwNv8ahILUsCxPxybgIKGgdWA29LaWbPcOJBfOKh-aDVavH9fk2D3fsSIVUmbSSmeSH42LWToOmkigxTxoVKgvEdujH_5Uw_j6fejWo1c5w-DwYk9u8tHW4kvy5dQaMEAQfGMhcuALINaXs_q5CVaY9lfTWPy7DPx6dXHFoQVu042nYaPzDZdCDFllUtSvcV6FUE_VAXSWVYycnx6mlbGhBHajvIkaPLxadBYFdOJPrUdIYmW8YBiIOCgxtVJ3PDgjV1kHVbAg.%26ch%3DAQEAEAABABT169k1c0wWxxwnAKQoGFS_0tBab4RljtI.%26v%3D3%26pg%3D6KWAFGSWHZD3ZNINEV5JGWJNS4
+.netflix.com	TRUE	/	FALSE	1810223570	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+17%3A52%3A50+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3ae66ab-ca1e-4484-bfc8-4acd3acf84d4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=HR%3B21&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810223569	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZ3B7NVNknyhdmEODBx9i7mqqK5yY83BU.%26dt%3D1778687566189

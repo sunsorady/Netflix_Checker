@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lucascarias
+– Email: lucascarias@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2024
+– Next Billing: N/A
+– Payment: TIM_PI_BILLED
+– Card: 0609
+– Phone: +5521964663478
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: lucascarias
+– User GUID: ZIVAHZOOLZGKFAX3VDVBLGZ3UE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806771197	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKoA9llikX3GzSXExQhqbGfrtMiWwW3Yjj5WD_g3ZnzaOyvTzzWgCvURTQcEtF82PyHoy4ZOEF7pPxjSELnxPBN92dlj3Qb2nA3E5bjUmSSgM68HVYdshcVBBvSJ9oO7PVNA7lF199yUC4K-4DJ68Z4K9K-IwMycdsHUXEobYNY3fWdnJtlCI62QobgZeEOEMH9P7y_-x_Ii4dh-aqnJe-LiExhLW_fOGXz0H-FYTRmcsT0IYT3umRnc2NdhyIoefT1s_36z9Dx01E2esKnPWWGbR-xDlOU--Ol6MRkivTHrPAXJLHIwAe0JUhAJ7ni0CYKfMyunqNWuCRBi3nxCr_4klQpu9dp_Fd5JOX3MzpinwrEIXYV1dBmGD81SICBqsanBrIzcbq7jZ_ErTbirsf3EzLobPOhIyN1PwO8LPZ27lmBTcNsrQOsArAx7LxY3jV0wXXhOIozBhXDHhegyvvYyKtmPb55uc9arHUF5C7sCiIqtwISkzAa8Y1ZQSCn-gxlkXVM9utVHK4uevRYcKCLktk2nm0gNNGEmW-4bD80vCvaOIRgpWUkx9QYBiIOCgwZmu3zJfA07IwLDpQ.%26pg%3DZIVAHZOOLZGKFAX3VDVBLGZ3UE%26ch%3DAQEAEAABABTRT_dAGF3Dq2JNOYpDAA2ZJRTYwdPAMKQ.
+.netflix.com	TRUE	/	FALSE	1806771201	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+13%3A53%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4058a488-334c-434d-925d-af29393f03bd&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775084418824&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR
+.netflix.com	TRUE	/	TRUE	1806771197	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRj4wEMP1efm54_hllvAhd7KWU63vHXu58.%26dt%3D1775235194859
+.netflix.com	TRUE	/	FALSE	1806771197	nfvdid	BQFmAAEBEBJbbrhVdS5UtY9weRXGrhdgZu0rWCiCFCq0HxLAGELcH_m8fURaz_ZmAcZ0jm6rvYuCKcILf2oEY3KEc1dZ1xyfGCWjINa5dWQqDppblmryqScjciCu6hnuS3_9oPoYmsVY1zo4IR0sv7ZvtDCSo4sY

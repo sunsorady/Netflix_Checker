@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ferran
+– Email: gmrabelo@yahoo.es
+– Country: ES
+– Plan: Estándar
+– Member Since: septiembre de 2019
+– Next Billing: N/A
+– Payment: PEPE_PHONE_BILLED
+– Card: 1713
+– Phone: +34647186219
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: G
+– User GUID: FAGIU5GHL5ADHLKWR6SBU47ZXU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798921183	nfvdid	BQFmAAEBED2kAgS6rCv4hg_2a4UcagJgFeyTJGIsuRs4U8l2sN8-3CuMnLNWWfjJIbZgRyAh-bOsFpGb_B6jCZ28bp3v9XoMUv9LR7lFy2vExdByhRPGbwwVKTSQ7kJpuL678dqgp5QxA3QIhcikkdQXcrlELqcJ
+.netflix.com	TRUE	/	TRUE	1810135752	NetflixId	ct%3DBgjHlOvcAxKFBDVqfwZjYpGXo7P8UiIAdDHslOsACnUTnrRLP2ARcEdfbcGZ_LWWYvpmnLyDKmvOEil8vyCN6xAzZUxa7xZGbqA2XACKQnDGDNtORsO63FCHjxRgvJvh3dqDvV4ykkShT9fodEDfqOf8OwQxqJUoEl-YMWSRbje7FNGCNoW3cBzhy2n5BK3p_RjUJZj-VOb4fQf_qPGq3AO2bk3b7XBaGNXmLmOqxNtYNzP_Rpj9XtnpEymxHMR8PcTGdW_Ewahpsbjl_djdS8-eM_aLueTZTg5EbC7w6LLFny6n0pSGYiA2ks_bCbRU_vnQ906xk7dZVaFDNC5V7PbYCmTqyThNslqp_ClZgCIQYBho_SEDWT_oyg3cQgNh1SfKFLNm6DYDlLmRmtop-7sV6VcJNbcqrhWuyjYSHx0QdyVFoG5-yHpUEuszywyqpRDsOZCHkwvaMXC4yCAeNio4s-eJlqGyUZIlRGwUNTGZeQCS-t2pDqyXUbsWD2uETvbHNBMRtImlHvG7o5s_vrMYsLf_t1DXOiwJ2cGLkZdQofD8lH29do9f4dkgY8VU4qsG744AbMEvMz6QVHwflqwHelefxpSbAtGNhe4TDsL5yJRNkv8PPxuZFbl-Z-ot1PAAiA2gRbfSqE202rV5RWJE7e2DAUL-zaVgp4ba8n3zbUCYx6J-epDpNQFzo4AYBiIOCgyNqyKzc-rMCgoSQAg.%26ch%3DAQEAEAABABR_5JCAjQRnyRNjaEo-5ImjkPf05wwu8Ws.%26v%3D3%26pg%3DFAGIU5GHL5ADHLKWR6SBU47ZXU
+.netflix.com	TRUE	/	FALSE	1810135752	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+17%3A29%3A12+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=01c4730b-da12-4ec7-bd76-fd5c292dd219&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCT&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810135752	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-ylgYgw8kCOG_sD7KfzvjGyDeVH4wHH0.%26dt%3D1778599752258

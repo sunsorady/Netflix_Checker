@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yugu
+– Email: chauhanlaxman240@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-16
+– Payment: UPI
+– Card: N/A
+– Phone: +917239856042
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yugu
+– User GUID: Q6C2BLAVMNG4JK3JIXLR3C6YVE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810470062	nfvdid	BQFmAAEBEMVMnRkv5joPxBH__u5e45Zg7MVopQgF8_EWUkeForaMeM3zWtpIbNqQ00IudK4r4YVX9x91dkJUffvwprYlr7zMO2S7uEKFaBhx-Q3vyijcHPY8iKA9i5Tuy66xiY7TGIBfzgS5pQY84jhRPr9gkgzU
+.netflix.com	TRUE	/	TRUE	1810478673	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA41Bc6BJIE5NTXKktKGNFmR8UnLNtlAdUCDpWwP41iLCofvLskhFyde0UVSJu4KU68wx7RVWlg179z7FwLN-l3qRPoKONyMDozcibX9PcCd3jid3iLW5A952ak87Wup5yJr1VvKIu8BCxBd-BNOKRQX9MnKsHLHwni4ZcTtUhkd_ZVo3hkhYs7TxKfwHfPgxt0eD0pnh7ecJUTKidZ1HHFaAaL9fWuHYf3YCJkYOWyYLCjxaqBLTiPDP9ANZSblqZO4VPL6cemcWhlPJtI7ceQeKD7OHOt3HbSbKjRrapIznLcnxcPi6iG-Uqh9Yl7BhOD_DtrhYjIE_70rnGukmxeBx8ZsStkFoP5C9r9jNoeHkLyjFrX7VTlhD8h4kRe9mH8qRdIqf114ulRs6pnmY7_WhfObNyCd0z-Pf6nrz1ZD8HM6vKdhbmYbHhNIrs3Q-JnmDzKX98ZNiXqGTuYptvAOxgt1waTVBsCqVBH0XOijS0byTAHUApOBxy-ctaPAonDreoQMwymAyE5LWDzzSpIz7uJV8-KoSBs93GAYiDgoMV-ChpIa-4AfXCGoH%26pg%3DQ6C2BLAVMNG4JK3JIXLR3C6YVE%26ch%3DAQEAEAABABRMTCkTYivC5yMIkbVx9BdmHvLZtX5GGuA.
+.netflix.com	TRUE	/	FALSE	1810478674	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+20%3A14%3A34+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9a7e2da6-c9dc-48f4-97cf-bd85c7089577&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810478673	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTl7f-b-Ik4WzRJQvcEkgknNapB_uW4WZw.%26dt%3D1778942672407

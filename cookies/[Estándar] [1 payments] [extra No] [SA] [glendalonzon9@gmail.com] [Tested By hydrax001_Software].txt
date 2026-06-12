@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gelo
+– Email: glendalonzon9@gmail.com
+– Country: SA
+– Plan: Estándar
+– Member Since: mayo de 2025
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 0984
+– Phone: +966502783818
+– Quality: HD
+– Streams: 2
+– Price: 49 SAR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Glenda Lonzon
+– User GUID: TBROPISE4RFFZFBRFGDRWN7VCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810129589	nfvdid	BQFmAAEBEPxHT6qB9Kz6PdNK2l0mCQ1gf0cRkV9_2n4p2y3zJGqK2sxH5mvG769hZ7wmGJ6hQwWXGyy5i5JhP9Q-3JBjJMnvPhomjJ-CJNnbdPstjckYOXmuRwVjaXSAduAju6fb5MaRBoONz_9D12Ne5ixoPgd4
+.netflix.com	TRUE	/	TRUE	1811405020	NetflixId	ct%3DBgjHlOvcAxKyAyO6zTaLORfHC9WLsiWO9sgLM9IY3Qgj7q8g5P7rOvtdFpTlzWR_EjRXl8K8rwDUMOoFXU8w8I6tYHw02-tOQFUGxMV0_6xp_aJQWgTMC10ddYyiKNH-fDmCKbguyAZiQZNRCcHhr0Y148zoBM1fL-lUkJjf4jy2hox4ohK1afc5379Vh3_X_RQ5sV7KWsj_eD3-p4UdQOvPXrbGU4CM83gCRApNKYh9NTx8n5y6MJHfIHF5ohYEG031AyXlRTnNYC4NYt4vB-K2sCdxqqJJWgcjCN7HrBy5vwK-Z-C5y9-gSeZt2OZOTWN8N01LM-R_J_h-ksemM5QieO9KLfHCNkxp6IjYOUdBSTuzNlvvOh0MGFv0t3VhYL4ZQcmeiCJSTBQsKAGz5EA15gB5CInK8TqfHrqRKHeo4OXSY3D2_8T6OzMnlipOkhiEsDVwYvS2FBzYxPB23a_e5V2yKF37KzaiDhTZ5yotMWYf98Bm6i39VR4vVCBDSnrgByH5fmqDUTMBh9iNOq-95VIoqKlmgj7t2TLC6mSNV9FfncxvblszpseiU4ibFi6r8SiBFjJmo6GlGAYiDgoMxjY_rZH93G7y2riF%26ch%3DAQEAEAABABR0Mua7KWoUpGdvKRup1ji5f9IH9BAVI0Y.%26v%3D3%26pg%3DTBROPISE4RFFZFBRFGDRWN7VCA
+.netflix.com	TRUE	/	TRUE	1811405020	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDLP3asgzQFn2OKfT_MqBdB8byT5uqQFE.%26dt%3D1779869155355
+.netflix.com	TRUE	/	FALSE	1811426324	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+21%3A58%3A44+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c3ae2d7a-3b54-4494-a5cf-58e957e61676&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778530882849&AwaitingReconsent=false

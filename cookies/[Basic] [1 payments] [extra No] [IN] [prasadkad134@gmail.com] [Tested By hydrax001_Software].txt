@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Prasad
+– Email: prasadkad134@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 9012
+– Phone: +917758087099
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Prasad
+– User GUID: JJQFKBERJRGP7O3NGNHRU76SRY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787391089	nfvdid	BQFmAAEBEOAroC3acDCVZVBD7nLpgV5grHiNct37y_cGIeQrNsIpwI25HCioMfqO1f3i2Kn1kzM4b7QpuFzm67o9tyxW0QY7P_gJclzglHeE_Hdu-ORWtVycnuzQsMvDT5G2luOSOlIVWa_ZYaeU85uu0DC_iZIk
+.netflix.com	TRUE	/	TRUE	1798380030	NetflixId	ct%3DBgjHlOvcAxLqA2A-ZcZCw_pqVtsYIaflQru2RGu3HJ0cEG8GKtHa7_sLynR3taH1PQogu8IkGK4aTDFAekylGLNmhv96VJC71TuGlHU3wfMBv3ppMleA8CkdPGkLnPOtgErXBw7cB6TSdPl2P5jSqijUImyvEdXp0BYtNFcRoBDXhtW0eqhAyeuVQ92FGeq4OulGjOJcY713esgHBHeZMhbdFfFA0zdjxih_SlQudZz6QmfK9fSqJlpqTXieT0MB9_MrcudS03wk2a3ykONRWnnHOQ56-shjIl5CYnp9IXZwF4XGvuDergdzJmQ2B8HHIWJh5sKK_Z8KNROGN6Qwbzh7Cvaycy7dWUTHhenIx9cUAuilKXr2aPFv8aQHNFNf5OMINNuRK-i7DvijHKFAu31KrzuuJdjDGIMdhAou4euKg6-iod61ksOn4K7c_FvjMqQ6NmJDPlllGKm-XwbPloAh-VCMAmByD7Kei_Wxnlsi8_-pWeVixZzp9hGk7tO3qS1_-bLuW7aTgNYjauiesbbDqQDT71uF8-DOuyIqAS6uC8azmUAWU2SsmbGFi4YUBnE_kJZLqq8WtBMwLWdUIcJjLBB3AgfUeG2pKee5xt7N38T1GFCgiznJTdZDReCVyXruwSOSGzljZfj0nLn8gwpMyZAYBiIOCgzJfgsKMgJSzLreGzI.%26ch%3DAQEAEAABABQefbbrK_I_2D2xytghnBxGCf9eHAMbs1c.%26v%3D3%26pg%3DJJQFKBERJRGP7O3NGNHRU76SRY
+.netflix.com	TRUE	/	TRUE	1798380030	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRFZ-IwOm8in2XNCI8suJ1MmQFsMtaB-NQ.%26dt%3D1766844026197
+.netflix.com	TRUE	/	FALSE	1798386500	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+21%3A18%3A20+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f452714-7621-42d5-acc9-4981d4ed2731&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

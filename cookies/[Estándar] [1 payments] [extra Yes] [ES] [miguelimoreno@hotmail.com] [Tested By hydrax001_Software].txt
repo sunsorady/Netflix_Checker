@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francisco Javier
+– Email: miguelimoreno@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: marzo de 2024
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 8239
+– Phone: +34669382797
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Migueli
+– User GUID: TMPEI7XZDNFQRNDS6M6GF4ABGQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797700925	nfvdid	BQFmAAEBEAaDVRp3VMpVDqLL_1XjFqJgeKWrcjQIqC6OboCzSqpI5HKpq5bMp5HUIU4i5FoeZCbTb81ISiICbWv-NVJL5uV-n2giI8soovi2qYLPkU_aBQ8Rr4Y_XWI6T9P3u74rM1vkLCBz5uHDzPGLnO7lfmQ0
+.netflix.com	TRUE	/	TRUE	1810654893	NetflixId	ct%3DBgjHlOvcAxK6A1mU-aj2h2NPyMGnh_4KkLcY6iDpYdBuHiy8ZaJOVqS23yk6gCeZfSfq2bHLJc_ym0AYCH0u6ske9Ue_GdPJX0ZwQ7b8B8QoWLRum9Bpp-cAhRd-WI2-vOnD-M12YJ79WK665wijlGGIY6YGFNCMbPA1Tc1YIV29XGpfq5pJLS_t8oVR1OzD61e6TGM3f7Um4b6QffjHSO8EvinerrvF1JA4ZKbKXZMojT0AEOxkbjDomLyCq5v2GF1guizPZHJR2KyObELaz5lebJDSPVZc4vDpBGmicor94ibboKm5GXG0sBpjpkyE5RK6ssqz_CWiw3NhsFIMdhDUzyHQjDAAQXEPUsQ9xgzxkdgJYUi2v8AcDp1RXTVSVQ3vo87WMOeC9A1k8XYukXrUUGF39H8tOqSj-93pII0S3mah3zmNJfllKcusnQDu1qXrH-KbEaiF1D-hg7eZ_jOa59XxtX29Eh8eWdRF0X7M_MAxBXTcCVgtz2YH1NqCARj4tfYwD-VtmCacHykNTZV0CqbCSokU8QxNql6IkhjiP9H6NnlGILzJdEDPAikhO01AypkNCw6MD5ZA-hCn8eLKe0oYBiIOCgzJMpXW21YvLNiofbo.%26ch%3DAQEAEAABABQ4gZq2yO_NAR5v8Vsd33FKXNjp47jaH8s.%26v%3D3%26pg%3DTMPEI7XZDNFQRNDS6M6GF4ABGQ
+.netflix.com	TRUE	/	FALSE	1810654892	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+17%3A41%3A32+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1bc1083d-f32f-4b95-91a8-caac5a76f8fc&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1810654893	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXmJXTaF0lRTUJ2dp24JLBZR8wEyVRHp0.%26dt%3D1779118893233

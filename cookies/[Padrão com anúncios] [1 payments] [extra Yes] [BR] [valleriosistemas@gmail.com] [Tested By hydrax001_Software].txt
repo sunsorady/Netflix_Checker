@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PAULO SANDRO
+– Email: valleriosistemas@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: março de 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 5749
+– Phone: +5587981572540
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PAULO SANDRO
+– User GUID: CQV6Y2FJ7FB67HJKLSD5AK7C4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805548708	NetflixId	ct%3DBgjHlOvcAxKPBAFL0I316k341SKDkrz6kVcqLQwB7r3eusN5QRTV5MV63ckhnhwzZ6jLe527YYpKlefN8HVLRlenUojrTuczwxI0VW4KRm4avjfQd01MuV5CHaBfv2GngUocefXU0viv8mbROS90FUQNksxyuFsaDIjPAyUabGAqjBmy-lFg2RqAPMPeMEK7h65Tt9ZQS8Fk5BLwApn0c3EkGAmmXVSwgbY_ca_N5NJqSFnS00j0cSJpRn0nJuqLS0etpFxGqVhMeRhEw3rxHsvSR9N0SUV4yehDEC5z9wgtxe82ZJwVk54HYz-sdf7yQdUDjBRpnlvWvMgnDebq9xVtn1BOj7mdlknFNwxgFgNujYp4_gS6wThDtW4gBRdMdagMkKQoBaLMF-r5WSUK_uIP-VjGARf0zRP9IDU8HS8K_IT3x04Wst1F7386t6dNoUDZ7GS8Pkc8g6rLb0E1mLDblPWwDowr7vtf5G6snH7sfDIHi7BDU51qrDqs7HRFca5tdF-lWF7oGiYtCYuac3rY2qmjDF5FLd8YkpuvQU0NZ1M_W-oflfPWFB9XR95eC03mVaSdoNBAB1zUjXxRmEigqmwlbMfQkLQSweKj-mUU8fg0jLsA2zag_a5smVuyWJ_6Cmi4N4mL6Zc43MvICDKQ56zaiQVQEcaL5HxfM3SiORGsYXggUkYaQl8MhcZU2t5x_LY4TPCQGAYiDgoM2WFQ58aN0vT1X-bT%26ch%3DAQEAEAABABQJQHdFpfU1sqaSQSiNmghyrrnLgdH5FhA.%26v%3D3%26pg%3DCQV6Y2FJ7FB67HJKLSD5AK7C4E
+.netflix.com	TRUE	/	FALSE	1805548710	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+10%3A18%3A30+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5643fd0f-e6f8-49d5-b036-572db8711b9a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769987875580&AwaitingReconsent=false&intType=6&geolocation=BR%3BPE
+.netflix.com	TRUE	/	TRUE	1805548708	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQPGeP6Tz1-WJbvnQSh-rzf-APcGFzc0KM.%26dt%3D1774012708916
+.netflix.com	TRUE	/	FALSE	1801523924	nfvdid	BQFmAAEBEPB4iJcZ0vOnKp6I39RbiJRg7c95NAJnwd3nerjWmzsi8WtUm1QPCkGj3QSxGJZ_W4ilyGorxJfu-9C8A0QfrWWUZk-ilFYTop4E7ILYzM39fHrqYW39ygC8cWz4oWLqqmNEszoFfCEflK3PcO37Ti5I

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marian
+– Email: huzevkamajo@gmail.com
+– Country: SK
+– Plan: Premium
+– Member Since: May 2023
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 7368
+– Phone: +421903027944
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marian
+– User GUID: SW6B7FTUNFAPNAALVDFSGVV7DA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623096	nfvdid	BQFmAAEBELXI2OwTxzsgXRxGlYPaPSBgknV5tlcJSXmxsat772CEUH6i5j1Adc8Kqs-6sR4EeauQFxkrW7Zq4Skc6dWoV0EH1_xJnwr-zs6E2YR0SrNGG3p1dEsqb8tTNkzoVhFRmYJPfI3rbAbm4v_P_CiJpoI3
+.netflix.com	TRUE	/	TRUE	1798659156	NetflixId	ct%3DBgjHlOvcAxLlAyZe7Kq5aLiys2PnA4AGiD-oSWg46t8Hc4_2LJJDlMcJS51-APaLOiFR26h8Y0NQEvR_yRUQCiEax2-q8O-Y7KPWaKqeKs2IyGdpajgICRmz0ftnETYUE66ohnIC89nWRrcsja4J2onwgJBLF-rX-A2qcGDztVIvxdSGDR6gVx1OfIdKploS16VbWTX8R4mZHOwJYuH8E0NWO_2OYtCbKizj1PmOGqO4oqpqS-rRpPOAOzG9JZGNKzgL7KKTUpu9lWFrLhLkI9MoA2_3ke3Y2paia9bwd8v0crLI6oqGSip0R4WQbv4o2mxAxeqaYAVwJAZ3PpnyVVcoGrjJKFq83Zk2apv0HODn-fKTjguiXKhniTYhnonImV3R4A1vxi7HtM2XfuePJiKapYmjOx37EseZ2nqpEqRDdwaIn_O93GJoQNbWezFvAd7-37yPebk1RQRaKakz0necEmwk3JQIzWbNBzDbtBXNYu0MiyB6hgSzOpcXkrB2BoDUTetg3eRdz1J0454Itt73Fou6E9HLuuaNFk551YA8seNRX6g57hw4m6kGoY1NeqgZfjKtRWvkmYbZnl8GmMUwwB5Wga9n2ZqsxUJ5YPSrnQ79AWVXCWWjcgzAG64JGOUhl5xbgl1BA74rKIP8GAYiDgoM0Cf_z3FPRbkSOIgX%26ch%3DAQEAEAABABT2knYY1VsTxhCN_-Nttp2yPjmf_tTmIIQ.%26v%3D3%26pg%3DSW6B7FTUNFAPNAALVDFSGVV7DA
+.netflix.com	TRUE	/	FALSE	1798659168	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+20%3A32%3A48+GMT%2B0100+(stredoeur%C3%B3psky+%C5%A1tandardn%C3%BD+%C4%8Das)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=3c4191a2-0c15-4213-a8ff-f1bed6a4a1b3&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=SK%3BBL&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	TRUE	1798659156	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpMXo7jJ1WxZytezwAddFnD2HhIn6QgPQ.%26dt%3D1767122511737

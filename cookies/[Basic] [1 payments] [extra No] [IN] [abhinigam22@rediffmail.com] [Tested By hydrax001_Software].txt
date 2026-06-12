@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abhishek
+– Email: abhinigam22@rediffmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2023
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 7016
+– Phone: +918005445332
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abhishek
+– User GUID: RWVEO2NYMRDVHPW6XRJ7L7UOYU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790424822	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA4SdJYYxQHRnfD61D-l5o_8nhM675bfyRMTfAy2us1SmXeRWGmBGQliXd5p8mKTtSdiIDpe1rEq1YZbryVZx_Vu9j5-f5hWWewNXH8usZqrRRuNqB3RSfHWueDiuSSmbhGWOEA4nRuCh2g_L9RgFCfMAdKQ3ni8uyTaVdMjBavoZYKGTc2qN52Yi2BmWfWyjPwgzxGPZ-aotb03rfuGP2gMvUE072ahswAOWhMz50Y3PEQ1DtH4NtFEqT_Q5fpdwn9jTPV96LSBBCjRboyqrU4RAnDU0lNE4Q48wzLvoPZQhDNWgQEVACiJgecOSFui7J9hsD8-KHNGt4_cVWuyFBvWz0qpEeQnh5WkD9hHicyQfwSjgRED8nWoE5wQuEGaquAzhJITL5ZrCiwQ7Pee5hU2klmOgW5wXIbkEQIOM03rsxVUjd_6VmJ-7OXiT7K6VVZzPVaKARLPhMPyasdEYOrxDYV3CmqKhYblNdy7HJ2pjhchK8S62AHy76miVk0OLWssFOxgGIg4KDIXTMMD2ete5DSEQDQ..%26pg%3DRWVEO2NYMRDVHPW6XRJ7L7UOYU%26ch%3DAQEAEAABABQhQcNn2v971FvsDnyaIWiVZmhiu8k8w_0.
+.netflix.com	TRUE	/	FALSE	1790424822	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+26+2025+17%3A43%3A42+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0efd10cd-dc1e-4868-9645-97338841f337&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1790424822	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7-w8mLROwqSnmMHlt4-V0CnaplXqvCIU.%26dt%3D1758888821562
+.netflix.com	TRUE	/	FALSE	1790424822	nfvdid	BQFmAAEBEOEXBVlCMpJ1DAiOKUncUPZggW_XaFTaL7P7TdupZY58b1FUsgPlVLhKPlyGQhbou16bC9bnwN4l8hjCR7s5U78ghx-zzoIYDU_NhbbcewaMpOUeY50EaFgvpQLHevzNsFjtpswNQeRoaHb-vUarJYOK

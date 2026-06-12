@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jason
+– Email: zenilara@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: November 2014
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 5088
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: zenaida
+– User GUID: L2NM6WSXA5CZ5N2PQIIFWLY2BQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805513444	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAjRp0d8B1cmtQ7Xvfqi3RwbyZrAPYvKqctYRnz6EcyNntY79NRb-HYBL1BUWDxcz63E9oH_JklrISer5pZeKn_VFyM0bGKuMqzLE-1hymXFF2pwESNhW-fGOWzpJTSLpem4XnDX8bVXEpdSzvGA_Drf7JFBKBSfZ1L8REPhYtYupX7RoRBoUpakeNMIiYCOuIUqNX8roQnlBKth-BqApM8nvQWRNmNJpCr0fUq_MIvMNKPFmC-9wtHAIACYcew3y8jqBQRAdgJusl4LzO1mnbNBnpVe996upxA5Xpo50SD-wdTFE4x3MWAMbScywR02DEVAZS_Y3KXL0Ipaz1cN_4ujg6Capsj7fZw5Q2oPtwEkwrNMdWuLf7VIS3wwDJ0tdj-7OuzFu0mHzIYmTeyQdikPbJR3IfBYuXRlVpxQajl58KhJTtKO3TGcUfYN4CihlNQw9fHiu37AQsiQOEOkRxGyb-_hi9UaXxjOw_rV6IF61GAYiDgoMySO7QN2qlP6Ca3GY%26pg%3DL2NM6WSXA5CZ5N2PQIIFWLY2BQ%26ch%3DAQEAEAABABRJS7jgTXS4txjNUdR5THwSZ05xR0g-Eb0.
+.netflix.com	TRUE	/	TRUE	1805513444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSjvlaodkII-kgmsTgz94v_F9osnoqj0I0.%26dt%3D1773977444221
+.netflix.com	TRUE	/	FALSE	1805513440	nfvdid	BQFmAAEBEOYXxF6isYCroIJG-wFzv79gYtPhBGuqDLiANn7NzoKTWmUd4eqif03_WLuyBDfmhNLxvPxa1EchoNic35aGD144rVbYshkY-iG54ckD4e2h2SZpbAtCS3Wt5oluN9W0Tguzf-cZA45cOOf7R9sN9IuP
+.netflix.com	TRUE	/	FALSE	1805514224	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+23%3A43%3A44+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa530a9d-71c6-48c5-b8f4-59ac87ed9977&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773977432454&AwaitingReconsent=false

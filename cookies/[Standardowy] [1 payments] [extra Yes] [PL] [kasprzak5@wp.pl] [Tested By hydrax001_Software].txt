@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kuba shorsty
+– Email: kasprzak5@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: październik 2020
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 1250
+– Phone: +48696453011
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marek
+– User GUID: 4P4MZKVO5FBVZMTTWBX3BX4PCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1792174850	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA-S9IvtxiZQ3k56Zs0vdLac-kCTJ6-t4-TcWt2UqCIFcZtRRafviqzkTzy5UK0SnSZ-sttfRzLHxjuLWYEaO-iK5WNxAcn8ifSevhbzk39XM8cfC0k5OxbIjkV8vTvZ5M6wdR_JC5L478TXgH9BkbYmElWiuRPBrGDGI9EcdneUj_FEitq1PNPD9cJ73drrq_szj0zyIJRydT4tjYCQZNBWoos63M8c1hT36_7aIESo1cOuJvm0RnR96zr9d1Ro5ByGQl0JPwhxFuE218lM0WwmLqa5ah4MK3t6AjG2pYU4aiGALS5ZQWi2rzE5ftlWJ_9U5NnLzR2OCdDPJVc-Pjknsy7lNPp5Js4QC11iZulF9gywjQG65yGtbeLE4MMpvynY3v8oJpMQL1ZmW4h_UIsstvm4z7ARFmM5adiC0GR19oI6qnniTYi582oBUFaIiEnAB59Qww5DuuFkDoQz7dEQk_wK2K7yy4BSbGyONLBMaQMfESLtcmnkmzI7479_mWNaQLk2hGAYiDgoMF2cjyQjZEgMIgePU%26pg%3D4P4MZKVO5FBVZMTTWBX3BX4PCY%26ch%3DAQEAEAABABT0JBbSZUZQizZJHQ5yypP3Pa0WXMyQ_GQ.
+.netflix.com	TRUE	/	TRUE	1792174850	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBOMpq5f9kL0JF_JUt1f1782e4gLahSBg.%26dt%3D1760638849710

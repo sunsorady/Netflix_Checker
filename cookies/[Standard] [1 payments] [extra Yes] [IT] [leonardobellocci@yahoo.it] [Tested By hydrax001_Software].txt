@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arianna
+– Email: leonardobellocci@yahoo.it
+– Country: IT
+– Plan: Standard
+– Member Since: dicembre 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 4598
+– Phone: +393208863765
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leonardo
+– User GUID: FFLBOPHEEREZLK76JJGW4WW7T4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEGupubxfvkOZeWtAPup_AkpgJ31e6L5UVm3iIF0Sm2m4T_Xvo-FU-PMcStirBUzRi0GAJPKGL1M4oEXLph6YNjMziFNTkFnlUJcQDnLBql4ecd39BxMI3L8KSphVXpuat-Wl-aQq2yOdGlbOaf0t8oGg
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+10+2025+20%3A32%3A19+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfded04e-ac8c-40b2-b835-778770618c20&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B52&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795011921	NetflixId	ct%3DBgjHlOvcAxLqA1iyrweXcTs5p6xtr-LTcNv7rrAiKUgwoZziZB9_CAmUXg20iBhE58nElHAxqspmCSNONH5IejUOcJE_vhfJCoigLcYVbCCb2rXq7zOrWD0wcMbNcFRlEpWVRNF0_eoKQJDqykeUzxlfwC2jacPn26ketx1HWjOerCUY11XNDs6s_usvuAlcXB6fw0nSyHWbJz1c7VWlx5Iz8xniA_TwEE3SN74PnMC6P6FXbRV1sehkTu_V-pe87LxfLnqhPChfhaUlD4iUBp1zDmPUaU7263Y8nYxOwOkU9WJ_XaqDCO-0O3SIOCEvUTHMwTazMjX_m7ECIXph_p34wb1RmgFQ4SSMT9jvEUMVrSVOEbu72FtlQFxp0JbTS_MikxzQET9wG77v8jwKU20hU1Ipy47Me0VZxey3U9tLDDRDImt8aBxKg9Q_vuG8Dc8KGuzRZaiaXDlXKgT5cX4MQAe46270RPHRkxE6pEh0Gfb8JVp_qcUV40YW9kj7xhhtB5zoe-G-W7tW3PJ4sR0vKSNPXQv2PN7wb85S3cjMrvAEDYXZvh5d_2aZmWVc-h6pOdpQpxDzxAdMMjhyd7neQvBcuqt-OVSNq0VuuYXq2q-kDsGG33BOU7CxGRUKWTpxJRCLZC9N7iCavQxHxhod7YMYBiIOCgwshlZX1_t0j65EAb4.%26ch%3DAQEAEAABABSDSGmtMUMwXt3ZmydD1pO6FMSVocYyJbk.%26v%3D3%26pg%3DFFLBOPHEEREZLK76JJGW4WW7T4
+.netflix.com	TRUE	/	TRUE	1795011921	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqsl_Zx5dqnPU8w4Y9EpmfdPpiMjb_-5k.%26dt%3D1763475922184

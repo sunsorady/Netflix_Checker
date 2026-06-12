@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: papa
+– Email: estibalizlopez64@icloud.com
+– Country: FR
+– Plan: Standard
+– Member Since: juin 2024
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: +33673169659
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: esti
+– User GUID: SODCPMTNSBC4PP7XELJY3UPCKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811443844	nfvdid	BQFmAAEBELClbO68FMhx4b4paZLR5ZxgRGGQ5ksvym69zKCNdumke4tcHzLOM1vEAvJ-n3rzPYg0oGu3PFyFba-YIVkXWCKKmq-lkGvQticYATc9W6zth5TO4ljUCHnpIJtEKE7ue4FLx0e3merGYEUGqv2hB-aL
+.netflix.com	TRUE	/	TRUE	1811580718	NetflixId	ct%3DBgjHlOvcAxLMA-doYoU72fkWsmIgA0qlirNKpS5V__KeU7vTxJRJJtvqDTgWBX9OUQQ_rIqg0jhryer0iMPzgqOnkNHLR3AMzU3TLt96CGGLZB8HeqDxzqChs7QBIjZMOuC-8M5jOawk8JqLjc3NavNN7PqVvPF4XpLEj6MsI1sKmv1Aoo8Iekkofrm-J3jwhM5f6TGXxqVy7-DLjwZqOCjfajHWIxqZm1TEzLiVkt79MR-zMQrqq11t6w_Gr2MoKMAB8xarHsOio_AKyxcIF2yVmzH_fAfypGSCsJRiVlb1fANvI69CqFREzvyAfMeLHep491UMjeQYmcHLQQ_KAgruqsVk1eNFbtOijsFI-FzKBmZh2YDNwYSW_XAqOxJsBJf5d49WnL7t1AuwuqRplFo9ezy0Az_eEIoYeLvlLt6QQs1iR0JSbdfEnAGA6kwuJ6_5KMhDWdzqGKMSjuDnn5OpvQOACaJkcVa0Zx_An5QXcH5znigt2slIHuiIUGdKqt2lmepkmHXpFFQDpMvYGOneq07I16vVjW0Rg4df9ZL9kOomC6vfV0mQnD3TJslk7rmgwqf9twCQC3WqeSEourwnwoFFHT_et_quVIw2LaTSsEj7CxwYBiIOCgyKSizD2Ru8Oal5M3w.%26ch%3DAQEAEAABABQduE0rBb5MaqlFSFO9mq2QIVpLZnByDqQ.%26v%3D3%26pg%3DSODCPMTNSBC4PP7XELJY3UPCKQ
+.netflix.com	TRUE	/	FALSE	1811580710	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+10%3A51%3A50+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4175239d-00d9-48e6-8d71-aab4080f009f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1779907843088&geolocation=ES%3BMD&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811580718	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOKUH68QrY57AwXU3kf3NDum0OEeq6PYI.%26dt%3D1780044718832

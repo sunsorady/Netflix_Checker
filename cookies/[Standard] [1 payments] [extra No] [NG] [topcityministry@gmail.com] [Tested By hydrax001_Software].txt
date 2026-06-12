@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sunshine
+– Email: topcityministry@gmail.com
+– Country: NG
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 8981
+– Phone: +2348062170257
+– Quality: HD
+– Streams: 2
+– Price: NGN 6,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FADA AB
+– User GUID: GUQTRCVEUFB35BD4EP42PJNRBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782934427	nfvdid	BQFmAAEBEOnCT4U5GUW0C6vwlzIVTC9gWAJEcZEfDYxp6cbxO8CGFarbOHfBioAl-FfhBRZl9bGWXY4PMSvVlgTmadLu7KU1xNTMd5ynfoaH_vgDYHt11vXeBVhGlJ-0Yo8s0zEUHIuhUUBCIrCDdf1JHQDs2kOf
+.netflix.com	TRUE	/	TRUE	1809458113	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA0lht5rgraNTmF_S8dZueP8tYHzwTJyRFBv4cMhVt2CJ1qtKJ0ldmNVK0UUNywALsGKAPn1ORLaWLvX6g2mI4gxTWf7axCJhK5JL_G8j1gRi7Dzep_aUYCeJLk56ZymJiu1IduiOQFusyiNBxG9SAo9Hm1jV24bfzD4QDgjx71vqtc5_aPm_1omCHx3FfvhgmKdYC13J54Cou7P397yAp9fp7wlzNM7pIiJPiVC1c6MKeRHZTxXjgogTjsEWABIXz0-ksH3apjlrYnYB-mexG_qR1EUpewUDz24NM_uGKU8p5rN97ikWUqKdue_iJ9Cky5jZ1JqVS6yDOsHOcxr_cGGMlZDOaJ0s-2jpqTqQZICjQ00By7X_Amjy0rbT6malvrNy7gBq7etm4iEtwTVF8wU9vENezvsxPmpvzQSoaTOfbBfrBsnC5CvrY4_ZPu7PWF7STzkQSZq3j6zG3zVq9xKvAky-Z1XA4R7kKeys2-Tg0VO7Gd9g-3ZhYJWcwBOglRs1qnhZ2xZutjog_b8nKyDyRHYK-MtFGFL8JRAYBiIOCgxp2a5A011bFhYOd-Y.%26pg%3DGUQTRCVEUFB35BD4EP42PJNRBA%26ch%3DAQEAEAABABTIZe34sktzL3kpzJohJbGn_C2-uxAdn0M.
+.netflix.com	TRUE	/	FALSE	1809458114	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+21%3A15%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=188f2967-69d3-4562-a745-36640eab625d&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=HU%3BSZ&AwaitingReconsent=false&isAnonUser=1&intType=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809458113	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQX471iMyvrC4WVP7DRGALeR7LWepEEAOQ.%26dt%3D1777922300191

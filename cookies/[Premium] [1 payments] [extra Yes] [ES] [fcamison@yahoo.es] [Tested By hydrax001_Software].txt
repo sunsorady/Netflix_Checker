@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rey de los nepes
+– Email: fcamison@yahoo.es
+– Country: ES
+– Plan: Premium
+– Member Since: January 2019
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 5956
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Que carajos
+– User GUID: QF3MHYLD5NA7DFJ4M5IYBUKUJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEDm9YGGHcP9AwrGicJGiusJguH8rlwiXd0ZKSIeczljNHCuZ547AIOBT69tRScYASdfLnGJO5J1ruQf5SJiJWtJ9QAmOE4EIoNs2fsDGi7xoLMmKMmKw1twHlg4_TDRRYBNfd_CGmWxH16pFnhBqSPZu
+.netflix.com	TRUE	/	TRUE	1801065742	NetflixId	ct%3DBgjHlOvcAxLqA--gLw6N09L1eQOztIWJC8yg2gOrLpUqWfulHTjLE6_BLnPMqBSMMM-8ze3Q-Ue3T88xQNqpOXGUTsG6UyMxIHV3_zJo8ulME6oikfCsB3S_56UR2sCc6pMBW2aYllVQ6KcSSZjjxBFh51qAu0VZdkQ7WrtPcYLyDRTuuzfboNgWW0bFQ4s4O01H3DVbphsiQSlLIgb3X_t-e0c2U-kvXeUF5KhsaO7GJlMKExJOnnLG-xtezCH9e8ts9KPPqxeY4HFwQy4iz-fSyO8--RMfgd0R-iGpD_zKeqtqnv5jDB4WOzhCc018kYlQygm0oFZyKmxGf-p1F_jfcYFnW21Lk3Guuvqiz4NMED2IM60pLIEnWbxMITOczv9xe76K-6QAv-x8ZsxsACuclLlBJqCZMZtu6wXaen_qwK1JpdSKtrKzwzs_-unb_MxnnRNFOQXGElSntabNgVPEDWkXFVeAbcufCZDCYt3efdCdwkNEDzduVbu4pFuP1vCbmcRpK7rzTe8znAvana8794GeB7DbfOysoS392alZ4w821xLBfQOyoENO04Qa6zfiXcon7FPet740Ta3q20Zw9AOuEZoDw-7MV81u9Dk_eHusIEH17XFXgKSCoFG-vEmRoptN2RqcZe4NGlSioKycX7wYBiIOCgxBD70M5BlHfuUqbJ8.%26ch%3DAQEAEAABABTJxC3Qp_0fAlMJnnZ7s28Axc-TiKONsAo.%26v%3D3%26pg%3DQF3MHYLD5NA7DFJ4M5IYBUKUJ4
+.netflix.com	TRUE	/	FALSE	1801065749	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+17%3A02%3A29+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=3ad71fc0-3665-4d8e-a914-9ecc84affc25&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=ES%3B&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1801065742	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBj3BSuGIRMjOfxy9Q_e3lADiBvy42DwY.%26dt%3D1769529742763

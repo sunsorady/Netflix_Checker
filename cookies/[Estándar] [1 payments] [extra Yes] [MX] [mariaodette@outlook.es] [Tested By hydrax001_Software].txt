@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BETO
+– Email: mariaodette@outlook.es
+– Country: MX
+– Plan: Estándar
+– Member Since: diciembre de 2016
+– Next Billing: 2026-06-12
+– Payment: CC
+– Card: 5724
+– Phone: +524442135280
+– Quality: HD
+– Streams: 2
+– Price: $269
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SKY
+– User GUID: 5Q2KWQBKYRAWJKQJ44CEU3QNN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802206224	nfvdid	BQFmAAEBECcxDFtEISIiWzbHHkpG1dRgpbw_AyHLTNkn2DRZgq4MW6jE250mTlIfqe44vF-XLrNnktuBEr4vO0SPVYR9_VsYGeAq3Ue28wQuu3KVhOXkSD2iXHsTANPUU64sWTv-ndTygUFnxqPuyA7krZdWRXth
+.netflix.com	TRUE	/	TRUE	1805763715	NetflixId	ct%3DBgjHlOvcAxKwAyGZnZSACt0ZW7WHESzCY7wJ2MYgynx4i5kSRcSOZXcYFBajcXY7uVCVsaoeqt7VUqyA-CWI_HFYp8Ph5gIRNGKGCxfOva1KW1kCeKMNYf_V-X6Wc_Jad0yLVNLa_OG7krNkL7KrohO4pGIRKDSV4WsJii2TKZQNir-T24c7kQ2CYACBQoVNj70I-GJ1CC75LvfpsNNfWSpB8Q1m4PqMf_WsLokRFqFQ_0NNcybygd678R4lA2YfBo22oOZaHonnkCYaZ09Dzm1tsPSiUNl7RWUY8x3D3arjjhnO7lN_1blomUVbBf9z3UnHZrj1xA1ScFQwWTa45S0kljqb7HzdQTBmeYMyl5dkPCd1_Y-Uqig0H0GiR1GzduBbWvtwgZXOTqQS25kHXS1zZR-39Aqc4m8FXun3iEXGJQHykOvOcIJbZkJ-H6_qMxp1qYbIjcJjW5xAcLDIsyLAYPxJrxzFZTCAgWRRemEQcCD8y0hKp-6mrQtPrYgZpy2hjmDjxuJZNRZi1ORh1X_2eSFeTORsUcZHAwkd8HtOa-tsJYWBeovkoVpOEcGHw7v6XK4gMoxLwBgGIg4KDDlM-NVENzAQLtGDpQ..%26ch%3DAQEAEAABABR2o2v94I3kZHaME1xKYGr_KCdr6o22UTg.%26v%3D3%26pg%3D5Q2KWQBKYRAWJKQJ44CEU3QNN4
+.netflix.com	TRUE	/	FALSE	1805763718	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+19%3A01%3A58+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=64426c7b-e838-431c-8149-dff6f5d7e5d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770670193701&geolocation=MX%3BSLP
+.netflix.com	TRUE	/	TRUE	1805763715	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_YeIG3Dd-jVwvSSqw_RiCrXCv2_Fwusg.%26dt%3D1774227714722

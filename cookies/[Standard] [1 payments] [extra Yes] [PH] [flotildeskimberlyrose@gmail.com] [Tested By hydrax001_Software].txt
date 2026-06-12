@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kiervi
+– Email: flotildeskimberlyrose@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: July 2024
+– Next Billing: 2026-06-15
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639452535939
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kiervi
+– User GUID: 4SRF35HHXZDMFETIDVO5VDORH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1781490521	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBAw-BV9LK1m51Obrypg5jm8d_8-Ugl0G_a9odZXlCm_rQGNhfoh74iAF3Xb44Dy4h1u1ZNwdQLWmwa6ZTSljssqZ3N6L1C1PknTLJ4ggR6voNDdLVp27lWP0333IitvHhqtcohdbIxwKxS7V-M7AEe7AvP1CB07yqemv6293ntsb_dbZ9t4ednrwWsB1BjYTPT-ITSG05BfmydgYVnHStQe2aLk6jc4yg7q26iIL_8TztJuZhWPC71H9DbnzZgUoTf8DYBFEC_8Ui-FZlIvusj5iZJuUHGjnsvWLMl3fi-IJzOfmrf4IYup8PnR9ATjDUDcGVCTJoxuRaHvP7HZ9-98XcajkUKfk9S2w5fy364_lkJ88yRV5io6eLfEbd8yMUToO2bL-gJCFaAOGUBaG_TtBpdBAJFx-jBO6quedJx6Lkhn9BG1wMmuK_iP9q4FBemIaxRJsR3B_8DUZ-q3pGpQF-RrX6AHnjUFGhjf5wkkdeZVWw6_FDeWYe4caRIsl9PfAYBiIOCgyUYrqlKC0utPiw09A.%26pg%3D4SRF35HHXZDMFETIDVO5VDORH4%26ch%3DAQEAEAABABSFYPKBxEUyTntONWWb8y1cGM29Lq-nHtc.
+.netflix.com	TRUE	/	TRUE	1781490521	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyueEC-nn6rLHTl3c40rUnlsJSNJlSKWA.%26dt%3D1749954521534
+.netflix.com	TRUE	/	FALSE	1781490521	nfvdid	BQFmAAEBENimO6r3ZCBAG8Tc4mAuAbhgd-RJo_dhWkb8wbWvXNIFCRtXcAfweVl0Efr-yZtNifOzksqfb6eCaWmZiZr7PLDyvink9vVz0DGAEIarDZeMOEiDZB-e2ME29FuxSixPbjs8doMHLDHF9Guy5oVQG-yR
+.netflix.com	TRUE	/	FALSE	1781490547	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+15+2025+10%3A29%3A07+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d50ee40-230e-4247-91a9-439008d6a326&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

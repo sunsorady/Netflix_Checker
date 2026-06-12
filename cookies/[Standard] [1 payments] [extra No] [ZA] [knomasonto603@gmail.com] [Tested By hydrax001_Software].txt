@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: VUSI
+– Email: knomasonto603@gmail.com
+– Country: ZA
+– Plan: Standard
+– Member Since: August 2024
+– Next Billing: 2026-06-15
+– Payment: CC
+– Card: 3092
+– Phone: +27764559274
+– Quality: HD
+– Streams: 2
+– Price: R 179
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: NOMASONTO
+– User GUID: D3LGCILF6NC7XAOPMAHCQNF46U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809546567	nfvdid	BQFmAAEBEHwcZfyCFKSZqKvEKf9tZ75gyzXLHNlsAMvjDIwv34jTXJoUO3DFt5LXVwiwkRJ5lOB43hvRVaUuEEQxX0kfmg7Ico0TwE-rM4Wl7LhZlsHQ24osfd1qgnocIekoKRK1o4UIt5FUjwNp9mP-ddsCJdIS
+.netflix.com	TRUE	/	TRUE	1810301441	NetflixId	ct%3DBgjHlOvcAxKCBPiu9fTK4RQ3WzwzYpG6XloK9KzIdwU_9nAy02q8r-jpmdYWzsS-8BfSyS-ntBUkI81b3kU6SgVzWuE30mmM0ckucjtIwQ3wT02etJXIYCPnvNq6WcZ9jqKrFBCVEODirAtEqPeRP7YJ5HspVAX_m-AThfHS0bZlTpmuBZt03smLvBn2aE0Hujkyb6v6BT6VnLCZnyBSuVLF8AZOBzDdZPQl4KLhqgEAbVg5Mpd1Zq2hscjCHt8hp_ywHw_YpI1zuM6tuZ-_tCxcgzfNhluLGso5DRha6xigGfKoY7W7ayCTy7bsAiRkOClilb1BKbfVLchIpuz3a3hsRe4qrXPfXYFVaWZvzSCXndh_PlPeaxcDRifcurz67yBacxp3E3yK3UNPxOeu-mgrwMnSXI90xxCrDqMrJwfYs0oQ4sQzkqhfsSL_Wj268NUjBb4Dw9lbKjwTAKNWO1NHVUCzx44vGULa_AUox5nI3e_qsk9GTrejMMcyP5vQGU2p7F7OVCGHJCtH_wbM8n8pheeDkb8JHRcGu-hb_9MzEDGBOWLMqYoXP_mgtqyC3ZzNxHFus9qqmiynmqm7dr3SyHPjqOgRYrNhr3ysXOK74ReU998rw610N2lS_YQZFox1h-WlOBp0wN1wQVZdrI9U8jXkGzdXIwCWDLutElJC3Tin6zNNe810fioYBiIOCgy6oiQ-ixW5Zi8FUfQ.%26ch%3DAQEAEAABABTY_7gMOdjPp0WF-Vk5APlCVa4JGN-FTM0.%26v%3D3%26pg%3DD3LGCILF6NC7XAOPMAHCQNF46U
+.netflix.com	TRUE	/	FALSE	1810301441	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+15%3A30%3A41+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1818a504-aa25-42b8-bd6c-6d28c3039860&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810301441	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtWmCjKWk6MNU8oFLQo4EfsUaahDSxX78.%26dt%3D1778765440246

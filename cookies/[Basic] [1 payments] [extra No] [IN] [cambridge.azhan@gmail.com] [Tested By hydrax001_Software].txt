@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: cambridge.azhan
+– Email: cambridge.azhan@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: N/A
+– Payment: AIRTEL_BILLED
+– Card: N/A
+– Phone: +917000358427
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: cambridge.azhan
+– User GUID: LFNFJC24Y5H4THFEDPKH7DEI3U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806307539	nfvdid	BQFmAAEBEAoqpcuhZ77M_pcP8C0JlpRg3t1xPQQc71RbXfIvQAFOuBN8A1YSDJWs-yTUFU6N7wzeOPfRRW-Ak2ilCq43KHN_VjVmlAuJQkqyjYdO4vXajwLwJBkuIVRH4WNBRrGSKyFYQwkXCNVQoCSBb5scbPcC
+.netflix.com	TRUE	/	TRUE	1808922869	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeAwJiZE-1Jl8rHb6GUBwUcGLFBwMrP1RcQW8GKFh7gsTgahCzviHdNtiyZaCL2mCC01zFgovpMrpVh-agPHwXHZxrqvGkeyzwX2AgdpqwNDe5EPIEn5_boKY_bdN8u-M3POvvDKpv3wOKVLBlaCNrYq4DJVieMuOxmiMxR3LfTOAjsdPuUV5F2qCHAXmLPJWLcIv0WdPTGwu0q9IMdgiHR9gCkmzA2hhJGU9yx1gXqHu4HxdQf8MGe7d4inCz0nxTz52L9uM4yRscWOLHKmP62zbSVpyGg-8jmACTW0Ti4-zX_yOSD2TSfFviIrYvmPqWb7L0swI8URYm1eRSpP6iFbAUzA0KIWCgblm0zyOIDHZaf8jSdYu8wJ0s_WXJkT3Ke3r1OEd9RANAKEvrpgfAwtWN6qI4kblbVx3SbVH4bodZ1065-eZSTD_ZqaUvkKfDSIuA7_dyquV68IGm0NUuLI1kyPyL4-4nb3qKpmxbEAidkgeSETl6JgOQtFf7FBIx98YDwprsfzqYjBkFPcZQLjS8MhMcDKKEBs2mRSWwCRgGIg4KDMiTQ1s9e3vGC7ih9w..%26pg%3DLFNFJC24Y5H4THFEDPKH7DEI3U%26ch%3DAQEAEAABABTUY0vPs_N0jfsv7VHy2pwBJ2UtLlokn9c.
+.netflix.com	TRUE	/	TRUE	1808922869	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPIZMuz4HlTm3-EEAfV55OP4fb6qI_Hc8.%26dt%3D1777386869369
+.netflix.com	TRUE	/	FALSE	1808926770	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+21%3A09%3A30+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3ddeb80-75ee-47f9-8905-48034dc5d0af&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774771539165&AwaitingReconsent=false&isDntEnabled=0

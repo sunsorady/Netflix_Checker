@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pierre
+– Email: dseignot@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: janvier 2019
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 7375
+– Phone: +33678481915
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: daniele
+– User GUID: JWQK2ISX2FGDRDAQGZIYPB6KIY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791572055	nfvdid	BQFmAAEBENsfDT5QfG9d7YxFDzQfD85gPxr5AKRDqe3G7g9Ph1AKuuSRW0DrEkPpZzswFwHEBnKgNaknWkdE6wSw80bGXZmJX-baC8GomoyyD5i2I4eBqrsc_w0Z8xLhzmpHyvI_m27q96JKxcaGGvzF3WO1Ruq0
+.netflix.com	TRUE	/	FALSE	1801435476	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jan+31+2026+23%3A44%3A36+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&consentId=ccaa5a77-6d6d-4393-bec2-008747039e81&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=FR%3BIDF&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1808683839	NetflixId	ct%3DBgjHlOvcAxKEBISNPiczZ7baiJFHlO_d22DxLw6ZxeP9DeKh_mZD7fUlBX_fs8EHeWqMTsbyPjEsoqgqL-IVmuKOTJHEVBXq_8cl0zkzNIzUYL7taA3ZMSzEoMhkSwfkk7prDP-ZcAX5KqVqzJnELAA2izbgbuSAADjkvE1GJGB7-FPvSmHOw_YF4pWbIviAreMPqr8p5Qqv36lhnHhUV-GtOwQ26-pWl8JEwwdbCYZ8OoOotxsdcODNwhU1ON-bvuXmgZxu90uqTT8NDupF1EmGa9ak7P14Gv6R3ZHmiyLdHkCxqi1Ms0yDZPnRKG843WS5NNxl9uEh6tlXIDvD-2Wj4wFK3hNzlvgjZ-3a4yCqAqOHNVGQ2qemThN7g5u-F7WRbSyDpQnyUbUHVcxZsVoxucO0vA8Q-NYR65_p9gC42bRaDK7Ybro4-EY4RRC6gFYip08svdY7uFykOiDAWCiCjTr4125USG8hx9_vkh2SesrS7OsQhS4KHFKQW4PJ4dN7Sy_HduRjZB28cX3ot06YCqJ_LAeWkfw4QRXkTO-LO7rL5gxMk5j4CeTaDcR-4UaUgcRzQ2g6WVkwjWf7WxNW4qsR1nb81RWoJhSXAcN5UFYb4dBH5mLWeuWIGFbBNQoz1-gxZNwxzl0xiBxtUyptGG7abc6xwy0M_1GJQMGZlLu1fyaeja2r9N57sBgGIg4KDN-mlO5Vvt_1dUNO-A..%26ch%3DAQEAEAABABR5v-7GSK3n6QpAUvLSr_PxIFJLZp348nY.%26v%3D3%26pg%3DJWQK2ISX2FGDRDAQGZIYPB6KIY
+.netflix.com	TRUE	/	TRUE	1808683839	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQlFfYBBRuIfjawfhVs0p3vxN-05u8Rukc.%26dt%3D1777147839382

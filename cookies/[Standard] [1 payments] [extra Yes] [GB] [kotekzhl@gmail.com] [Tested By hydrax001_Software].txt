@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Husnain Raja
+– Email: kotekzhl@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: September 2022
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 6896
+– Phone: +48693719954
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Husnain Raja
+– User GUID: QWXHMIH7PFCHZBE76M4QN7NXLU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798177266	nfvdid	BQFmAAEBEO5IBvu53jxZmlpwBwNgbBBgqRruxN9EwLHmuZUSkhNybMTOp4p3oSNKJxCmXUR1k3rhM5xygWgCp9p2twRnC39sBf75MW5oJ6E8VIjIjg9Rj2QofPFLviEuFlMzYWHUyA0p4_nmr-WgoorV9CntflyA
+.netflix.com	TRUE	/	TRUE	1810411167	NetflixId	ct%3DBgjHlOvcAxKMBGzUFHFOnQhs8pc6gnoWmmFbDf_iy3V4bDMpzMTdwVpVgTRBTo-tPNgzQrH-mW16lZ5f3CZwpYJUhz1B_jtzqvAdjXcZHBiPL3uZ_wpUm6_GbHEQtcu-1cYq16fjOJdXSn_QR4y-7VeVVJHiWa-pSSzo4jKWfvEeyzo3iaxxDANGtrJkkGqMYR3cuRgQ1jcXdXqI2eEQgj_AnpmQJCokkP5R0cgzPegQi2cZsM0lH6P-623U7-3p8v20wgCG8Zu0ziE7hc_EkAMaDHGArmgZJLvtiNZeBRlemSbnISyXuZN919jAnv50adLcnnIqcreCGzeHt2O8cu_g9wOSKRL8RCuB9kgwkK6tVH0w_vUA-e9xU2IIvZDd1SylIlJ2kwt1WjbEQOpcF5xgOYpCLYHa1Qe017h-7PmlmHupS9kmD_VwE9ktCP2bqCfpCY-Sq-TFreNDr-2asl448tvr2deJ7Qykbi5mNliLPHdwDVmUNoT2ExQ8A8zhA4cR6xI71UXMvy4H0pwqbl5a40mLSx7yEoimwS1j5SFlf0Hza2V0FbmmfhGaniUHte5H9WAAdfvLxrn3CFOATlJeUFn0jNEVTTwJZLVMOM4wnoC-wR8bFKN11XAMKezBNVt3HrcB7YOXWFlMHdkUxA9pFnpjpDJwqgjZTxzjFxAlP9joxN3zcwoUHcdkjjSmr-YkMHMjGAYiDgoMdQAAluTfODKkK6Z_%26ch%3DAQEAEAABABQKjDfysq98T_ptrmtfu9ONVsXmvgVSIIw.%26v%3D3%26pg%3DQWXHMIH7PFCHZBE76M4QN7NXLU
+.netflix.com	TRUE	/	FALSE	1810411181	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+21%3A59%3A41+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5405de0e-9503-4415-9702-58e4129f77d8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B30&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810411167	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_ApH1ChQNYFFZSLxwt6QIEL7eSv8qWek.%26dt%3D1778875166584

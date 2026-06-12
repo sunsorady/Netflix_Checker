@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Necooo
+– Email: vida1989stojnickovacevic@gmail.com
+– Country: BA
+– Plan: Standard
+– Member Since: November 2023
+– Next Billing: 2026-06-14
+– Payment: CC
+– Card: 9505
+– Phone: +38765310470
+– Quality: HD
+– Streams: 2
+– Price: EUR 7.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vida
+– User GUID: FJEGHSNJIFGEPPMPXBH7OQAX4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798990148	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Avm-I-o03JDEsqcvQ5ULwdv2nR2olWIMQ4mZz3Lnfnu6OX4k51Hd1NJlRa7lUlmo_RA6jzITj48Mqti1otlniD2Rl9kkVia59w2XhzELWL8DHndEa4sR6A18QtvMdEavxwSRTOX4gE2_DQKIaTz5TGxIZ__eVlgjluieNRv-W_6NG6FuUH6DNiojBvylhPrr-wOXq7ehNU5jhlX94GbdB34RCRuz8FaA4bys2Lu5O54A8QCql94Q-8UYBCVguiikJr-3V_o37YdR2Ii_DflJRBFfjSHUgWWiwXEgl2LGKSbli0TGFtBsvrMQd4HnfIXn1XVMbWewMdzL-DtTBPky0OFRi-IUbv8n416lfwyHSNVlD7DVug8--d1tQ50pr06tPHZMnsHuZtK0ArmPQjtC_cCFaE0uIYEKlYoOi28rlJWu8SRMMZtljBfhu26OMb-kcdWoSkLnvw4j16KOiF8fi8Txx6SfmyS2dv1xuOY8dmHHA2Xj7VLx8tsG5MLBYRgGIg4KDD4T7hhh4cbQmYUgUg..%26pg%3DFJEGHSNJIFGEPPMPXBH7OQAX4E%26ch%3DAQEAEAABABS3Nz2ByTLFWfgqFiB6QGJshb3ZIAMNON4.
+.netflix.com	TRUE	/	FALSE	1798990150	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+16%3A29%3A10+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d4f648c3-cada-4bad-ab1d-631951f46160&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798990148	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6dTJZrtb5esgcnRbkRoucFmucK56Tinw.%26dt%3D1767454148350
+.netflix.com	TRUE	/	FALSE	1798990144	nfvdid	BQFmAAEBEPBxaDjdXgeSn4fiPN3-NfpgDruN4m9GZSU537my_7vQNWGzyNyXa_MOly5dEu4BcOiNkwH5GHfotLIeDAdt_dEjY9dUkugmQ_TDmqacP39sZ3uTn0XR_H1fgRMI0APnwYDPI90pUT1Q4BI9A7ykYMGJ

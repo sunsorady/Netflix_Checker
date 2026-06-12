@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Xav
+– Email: yusuff.senturkk1981@gmail.com
+– Country: TR
+– Plan: Standar
+– Member Since: Juli 2020
+– Next Billing: 2026-06-27
+– Payment: DCB
+– Card: N/A
+– Phone: +905510251933
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Reyhan
+– User GUID: EW2S5I6YE5HRRLBPDUAQJNPJEE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803594222	nfvdid	BQFmAAEBEGVC6ZWo-Qeo6V8Y-czk8KRgvIQoCRfLQIwEgjiCIjGTNKwSCS6mDW6GMXkH1wkVPB97nVDsqsQLbhMpTrBvYIRM6xwezWQhsmWcLh2yYhV7AzR79ygMII4NPNoLF1Xv493J54td164sAZZPW-KHZKU5
+.netflix.com	TRUE	/	TRUE	1808001047	NetflixId	ct%3DBgjHlOvcAxKIBHkH2YSUwKhoKW2rRTqZZ96yg7QS9ceFAfgj4zycrCWt196wx7btFR624Otew7kEDR4mnxdybm8NUpBVBJEUexGy63ccgxWc_K01g9bdyBI4_1KbRe_Q_gZR0ZMvak4Lau34Mu_2N_FuCblrFsfDAYWNvFT4Pqdv-oYQiwPgdMrBvR4-voq-z18fw7MiNH1gf6nnYYgqehZdBHKf9c9r2_BU10XBvVee3EEnkXuGS1PFHeRc5Up6Cadn0mKZHNHlLCrYP50PHUmWCrtCPz6j6NHRLNUozXSkJCojSfZE3k-NRmW0tWP0RuImqIPubvf26zEmTE4TjycDmf86nTpaS9RBqqLpj0hobu8Spo4QS7q63xouPv5orlaFRWgspyP1XLhQYQQ-JS_V7I5itHG2J96gmL0FxTa-o6Du5V822bKVKf760EGppsABabKCVbdlbLet8Y3l7QBWPpQqNpkmJvbEy8DCBw3JDome0nQ5dagQ1duuXFAnjUa41rvonvBqOSfB8tIXiM1jeOY2KSR1XFdCB1o6pinVFzdVxfTl7m3_SR-GaqRs51nuNh7OatodTauU-COq4EiQnMDnme_IiRU7ykAXKw7s0awge8j8I5w2hhlNk59IHdFldvxCm_tS-sUdkAM2eIuNsj4sFRNXUOssrM7QBSoGEYOx18mpyChgmI9h-KSRzgIYBiIOCgzGk5c-etPBMlX7hYI.%26ch%3DAQEAEAABABS0MdngwYxa8fBRQHjARv5OrOmC5TYzIGM.%26v%3D3%26pg%3DEW2S5I6YE5HRRLBPDUAQJNPJEE
+.netflix.com	TRUE	/	FALSE	1808001047	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+01%3A30%3A47+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d70584a-2054-448a-b9af-12173661ddd4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1772058204551&AwaitingReconsent=false&intType=3&geolocation=TR%3B34&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808001047	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScR4bz4cvUyEgY7nAHizeZJdrM-MXNEf4.%26dt%3D1776465047503

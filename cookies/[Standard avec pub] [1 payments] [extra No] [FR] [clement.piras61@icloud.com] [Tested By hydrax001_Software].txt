@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: clement.piras61
+– Email: clement.piras61@icloud.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: mai 2020
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: clement.piras61
+– User GUID: 75RBTSXOGBAEHGBJVGKJD5HVAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801089133	nfvdid	BQFmAAEBECq0yBcPBaufnudU65UBnulg68lN2Pq0AaUiiBII4j2jbxeB29dXXG9XHbBBR6_393Hr7c1ZK8mCCx5z_YYwFvwAHMOjF62geSzAZHj6y6_4QH_wiTij_pdSTpirW_wxZzaQ-iP_jGmpTwI9ILrHdD0v
+.netflix.com	TRUE	/	TRUE	1808339309	NetflixId	ct%3DBgjHlOvcAxK9A7BFGCmMd0TMuhp-fE7bT6_SR5riQ4DOkbG6FnsMNJa4xZ_0yE4XnRS-IS12Pm0ZCsOv7Pe3hVHiVZFHEuIO__DWUKTklhDg-pCW3uiYQ_4uZt1pZafpXyxF9KXmyziW7FVDSrE_YPv9SmofgC5OE0UczHQBJ-KvcMrfppp9XjuaoRXIqFEuNV_1risoPeqBMU9iUBOR5UG1g0urPzZ0ldJ1kq6jqDmjXJuDq1rE9U0nzHnNoaq5X20KYgz285dY93dkbDsoHo76CDe1fiu6_mXVxmtOUZ48uCQjLjqwuMNhvevPsoWYuRINpi8OZvLbe93XesNo4fBw638fqzvw5gtHqfir7pw2WNIL8Os_Rq5rzyteMkmUBfBGG3CxtYAku60S7nYnid-2W7SsbXx7Q3bjjNazKDhTEKnsZxDeWK9QxaF7yJPtiYser_sqwkW5xSEhNg0RIuBDSYhhfnEW69KWlfOdazod9rlPS_POlUtPsMyTCt5rDa2s4wSSF2Lkod88a1_PgSKKPJwK_8RwGxQTDNvwDhiBV43_esXU4x-lfBj42UiWhzMj0SMY3m2x7xWErqIG_6UqNGjeLhYYBiIOCgxxyWdXgpP1cjM5zaE.%26ch%3DAQEAEAABABTeHMdiIFxTNMwgQtS9zFBOb0_XDBQ_G7Y.%26v%3D3%26pg%3D75RBTSXOGBAEHGBJVGKJD5HVAI
+.netflix.com	TRUE	/	FALSE	1808339309	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+22%3A28%3A29+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=32e1d394-6f3d-48c0-a64e-5abb46aefa20&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769553064120&geolocation=FR%3BNOR&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808339309	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSiADv0oXGv-yX6VSInh4dtJH-8eCQNJV4.%26dt%3D1776803306782

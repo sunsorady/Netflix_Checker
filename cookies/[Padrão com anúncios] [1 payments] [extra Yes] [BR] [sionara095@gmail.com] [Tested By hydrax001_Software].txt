@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bigfoot
+– Email: sionara095@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2026
+– Next Billing: 2026-06-26
+– Payment: DC
+– Card: 7251
+– Phone: +5563981011914
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nara
+– User GUID: QQNRBCTV5RGHTAI25FQWUU3KLA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807544180	nfvdid	BQFmAAEBEJtBMN2FJda7Co31Z5e8wJ5g1sECyOUZjb74FjEE-g-QzvgFkoN8QLLqV3vTILwIB2Yd3XMBTSYJGs2DcZ98E6yD_DMX8mnxLghRjudKwhLN1LT7EwKseq4X7CllwqRXoNLXPvT4Cm0S9MSGbReECOp4
+.netflix.com	TRUE	/	TRUE	1809618415	NetflixId	ct%3DBgjHlOvcAxKFBLw2-b37gp_utyKYYYih60gHsIxNpto9ZuYOWvvI89Aq4KZzY1D7uAdMYCuelA9ti33O_aViuFlcUf01_Q3vwDvxL0o8Cxm1XFUdbPssh5B76_k5eQ16JsbY8tMaZrZ_MkJ25iHjIAM5GSlPnNn8sJ0ha7PY9-8rsBw1CQmiSsJ964EHfvMeRVn3RHT6V4OINEb09SF24qMXXWBvQTwKGV_KyZkymCD8VQU7LlbBflZfDRv2QFTGjeFkbvB-eG1yDowyWj7wKoJrPULVrTjCEycrVmBBEc4Y2m5dGZwARi4ijC0aU4O0xDZdBaSzSafsgWymeS7wvbzARAXM4Bm_jNyot2ncEDSnEyidLJoCFeqIZUrh5S1FFAVCg0NsnMzA7EyHIuFI3CUj3hd3oYLQeBKZo9tyK06rvNudp7Y5rvYQoaXJDzQ3Rq40U7yWwvcv9g_Sg6Qt-ZG6ZC7AAMv3IoEkKwVjfMaS_BuA7YIHn0_oYiFzJ0MwMWh381AoQasU9kwZI7KdugPDJMYlisswgw4INtGNq50IhNqFQK-I8pGonzAMoQasPtm1ZOgL4a12DGJFYsQHqbOeI6gB1ThMqTcnE5l_80_CaC5EIdgfaDGaJHjjlGrmtZUIZiLhQXLQiiNvv6hiZtqsrbsVQtfKM3WAM6lfhgm2YnBTi_wuu2UCGS3dYZMYBiIOCgw4ShBxRWi0M5fBPyA.%26ch%3DAQEAEAABABQ1ce6KM7xNCL-YArX-W3OelM1f9SX8lh4.%26v%3D3%26pg%3DQQNRBCTV5RGHTAI25FQWUU3KLA
+.netflix.com	TRUE	/	TRUE	1809618415	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWLrr92rQrvHxC-xxB9mVOVLYfFJQjt0I.%26dt%3D1778082419444
+.netflix.com	TRUE	/	FALSE	1809651253	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+21%3A54%3A13+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a3becb7-a3b0-46ac-a878-661b194dc0c4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776008112136&geolocation=BR%3BTO&AwaitingReconsent=false&isDntEnabled=0

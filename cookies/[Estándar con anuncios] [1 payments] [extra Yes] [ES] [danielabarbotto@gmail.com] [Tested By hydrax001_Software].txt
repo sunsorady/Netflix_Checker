@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: danielabarbotto
+– Email: danielabarbotto@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2024
+– Next Billing: N/A
+– Payment: MASMOVIL_BILLED
+– Card: N/A
+– Phone: +34685214301
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: danielabarbotto
+– User GUID: 757CZ5RM7VGWTLITH4464S2JZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1758137934	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+17+2024+21%3A38%3A54+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=78420a92-d9f5-46b1-9a6f-ef6b8b633668&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=ES%3BAN&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1758137934	nfvdid	BQFmAAEBEKKP89yHDpWf9ZzlhgazbhVgyCcuYQvvpS-ibLFnzWeUNvfxUu6DOXSPOiComfsqKXFROmb3yNGyRLZc5V8yfBGwfJAqvw_bkzcZB_D-AkZSPbap9dhF50FtmioYhuPwxLCxZVMN5f7oXEHU4J3Lr_A4
+.netflix.com	TRUE	/	TRUE	1758202793	NetflixId	ct%3DBgjHlOvcAxKgA6QNXZJHHbqeoCgwIRDtLbZRZUpruD4EiuAUDL5a8a8Lh97xn4D4n9f51waa-eOnwtV5dwVdoT6eq_3B9h434v9lwGG1ubNR_8R2On_5o6B-AhcVuLGrGSMeE7Uk5eKuSlGh6i6WRF8lBWMWrU1yZ77Zdwu8bH5PTPSqgwSfhrJ2nBLH3WGoAtH_hMnb_oQA-7AX1jUE_AqOsghSJT_JpPhGdzkI9y02a7HulSFaT03kXSWr5kPgIDxS3AboLC-Mozt9D4NIuBojyarSlM-O6B6PG-2XeiQB4Z50qzeAK9L23mEezU9F4TsUgpGC3Oy74SUVpNNvblaOHhMojUeksJVU__Zb0gc6l24ZYHt5t5CIAPTM0XWBIxjdbGI6CVsFRvqvdMwK3CIhmKjhhhf509dqOB5wfTlSzaSCvREmSimi3CinpSIt7ngTvwu-E849ckP25tetHBX4exezT5sakwUORDvu3pRarXqdKxwyVK6hgTbdrAm_IcJHqQQTigofVdE2MSaOQoieAd-9gyy_sE-rjVU4ciuwfGnYlk83M4ZHGAYiDgoMpkcXWIy-fwgHYutq%26ch%3DAQEAEAABABQgPNwQL2-_3JVn1amiNZSzGfY28AtSNCY.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1758202793	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPljWRL930RhEPf3MR4DykLrBbGnkWA6A.%26dt%3D1726666810106

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tinillo
+– Email: vbm53@hotmail.com
+– Country: ES
+– Plan: Standard
+– Member Since: July 2018
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 6565
+– Phone: +34691771697
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Xiomarita
+– User GUID: W3NN2LO5K5EOZLGFJNJPFK2MFQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBELqbSGXWQF6nncrHemIVBq5gJ-8tfJGm46s7rWY1IbXNlzk6gjWDee4uFTsDK66I8CeGCS19sHfW7eXC7bF3oyuUUO-MuWWt5H-Cd-eaLXNqLcchiayKSfC7brKJAV4mS9PgTO2rFsWVNaunYUk2gvcU
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRKmImrCm1S_2zFT3TJEIJUmCLJJTTIFXk.%26dt%3D1769541065194
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxK0AwkITvzSbe8KzUv6qsuil68wOmOsNYJeklJhmoGYcyf-Q4NU41gs96Vi4-X9E9R4gIXEA8QyBGqLMzNXj-eSIVo0RmfDr3Y-jkyToYgOwmBkAWR5Kly-pOOMOvGU1EAwLSanoHLd03_AksjaR7ahVemcT9EUsPdBRXC2yXnG_LiVBh2N8s3OvEQ8rohGNt2Oewz76xX5OohUDvC4bdQ1PGFPy2CQw3XuG5vufVhC_icjFrCCJ2a9g7Fqih4n_OHeMd_NCdBHv376l2NdHlSLEtiS88Emo8CPp1DsmvdB_QrTLzDzxXjXLkovb4EN28apLa0u2oPGZYNlH2jb9ptt2BaLWNGh8pRt2pwE-GSQI2mZWOTmXhsWfcRdvIwyFKi6zebGsvZBIGBfVDci3oEhjuh8C6Y74EuLJYj1eVs0eut32GITapns0WX6_xMIQ2-LE-2TUsqD7Zvyi_u0Z92Q6JJk_NC2uu9OOdLxdXgnDVV00bQkEGVIg6UMOnSQbAbacLf3xg8922cEOfiO1Ci_oaIqarc-RxAr6Ft3tqCbkJdshVTuv130GPfEbH7dxabh4jYWc98YBiIOCgx_scWW-peB01wpcHk.%26ch%3DAQEAEAABABQCwPHqmGAdshkaaMXcMn00xFiYoEeUxco.%26v%3D3%26pg%3DW3NN2LO5K5EOZLGFJNJPFK2MFQ
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+20%3A14%3A32+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=afde9472-e51c-46d1-80c6-498286c36e81&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1768685383325&AwaitingReconsent=false&intType=2&geolocation=ES%3BCM

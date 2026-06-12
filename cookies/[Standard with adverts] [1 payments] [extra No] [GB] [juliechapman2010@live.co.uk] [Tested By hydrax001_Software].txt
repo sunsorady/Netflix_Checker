@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Reece
+– Email: juliechapman2010@live.co.uk
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: November 2017
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: 5221
+– Phone: +447488358350
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: julie
+– User GUID: QNEP73ZZHVDMDHLPCHH4HFOUHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806089874	NetflixId	ct%3DBgjHlOvcAxKzA2w8_7hfczn7GVRMiU7Nz-iFm__aAOhuhyJmHlAmg_gqe1t6iY0_Omae2o7TdXlS5wUt2MCgjnBXPfZpMFG5r69TeTXjOGIgncZvDyR0uoYg9HE6Xwyq7qH47oMK4zTaeBe0zsrr-aIu3Q7_su90ay0FsWmZwZBwo8SvMSEB5wDKCVVhHY9YMhtc9So-lx6OOUbpaSnJEQsPoDFXmeSGOkUwz7HJooiXbSvmh6pR8MGKheT7aRQn5UjHGI4269IJnu31HljZ9LdC1IypLzImKUCNztzc7omrpWsU1-CnP35NLZcUKwac8pmu2BlB4KaHKh6CCYE0Fy0jXr2Jc_mLVG3QZ5z8kxIHDen-gpOa8_SsPbj_QrZsCKwIxMIdVKqSymxoFiqXUqrlwLq-KSW3mv1O04MK0yNg233nRyvrA6_OqLcffh7poxxpqa71s7FcRqYoxRsAD3GgibBOwvypSzPsD1YDoHb2sI4zyQNfCR9ycrqHfXG18prX88EiQlIxH048rq2Mv5vaMmK-_9RTa89SGS5vPZcmmTdZAvndYa50ptisrBjKIrinSwVpCpKn8RnWthgGIg4KDKNp1J5YdzNWvyZAaw..%26ch%3DAQEAEAABABRD_R5kxqPU4Wl6yaCtdz5Ldn0lrxzJ4Fo.%26v%3D3%26pg%3DQNEP73ZZHVDMDHLPCHH4HFOUHM
+.netflix.com	TRUE	/	TRUE	1806089874	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0jXODGjbT70mJRJ5oRdt82hPJEIHK_Qw.%26dt%3D1774553874212

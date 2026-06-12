@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Phantom
+– Email: xewinga@gmail.com
+– Country: MO
+– Plan: Standard
+– Member Since: October 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 8240
+– Phone: +85362830121
+– Quality: HD
+– Streams: 2
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Phantom
+– User GUID: OUD6TN3CEZASDNSUPJS7MKXR4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802103353	nfvdid	BQFmAAEBEIMgb78DYE2zIfrJWPqUZpBgnfmHqee1DwaFQUX5T8saWA8RU2kUYCRaACBhDkkbS_5em1yHMVu5hced1EOW2JdU5oGyM9-CaWRVH0cRBhE1U9nFyRJdt-tQVuqiZuFIr-Wu4hUeUexq-RwjOpLZ6w4S
+.netflix.com	TRUE	/	TRUE	1802268880	NetflixId	ct%3DBgjHlOvcAxKpA3NDb8GwzLgloGAJFUclY6UCplg-J9KvKTz3aclx_RUgRBNL8rT-9tiaF5FOTFFwuZIkFgmo5yuM3iyHvfIfYyezhSogdL7lmM9S608ytCnLcz56gfzODKlTMVLPqGTOI_cDoBtye0FCs3k2IFhWp04l_gsAjAPU9laq1u3wVrL_5cZZePaQbYb9T5r_D74DlKL9k0J-WYvz1VqP1JIAMF_jcTQ2gYRaIwGjiHyKKE68kqBGPRYdBjqHPUSOyUanqyOV8lQKYF-QPzc2cQXweT7sQHLP_J-HjI8XwLzW0BKkN9enXZtT2aIB4vSfSk8T43du9mz17q7RMSnex3kFtdIqVkIqwMZY0dg3DmFFiJw2ANl_rMlmyE-CzOIeqgrGCwsdmv8SW6GdOWTbJ7spVP7kprmp8HpI-Y8iO13-7XRnH7beBHjRV8WVxnKG_NwZe9Q6cfGulV8zG3TTCqlYbADOjms8pv87CkwR5sAz3fLFCVYFQHhkGTrovV3qCnQr9XCFLI4mBv0YjcsNnlaMcyw1YXwSzTEB9p1GPIs06umqs_tJw_wwStypGAYiDgoMPygq8ZKpbOh4AslI%26ch%3DAQEAEAABABQm3hHFw_uhc-qBHWIdu4avYXpLqQi9qPQ.%26v%3D3%26pg%3DOUD6TN3CEZASDNSUPJS7MKXR4E
+.netflix.com	TRUE	/	FALSE	1802268881	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+14%3A14%3A41+GMT%2B0000+(Western+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a573c89c-5b75-414c-ad0a-9d168feb04bd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770567349717&geolocation=PT%3B15&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802268880	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFzxc4CGrhYLZanhTgBKFh7mqVzXCGrQI.%26dt%3D1770732880084

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Merlin
+– Email: charliclem@yahoo.fr
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2017
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 9836
+– Phone: +33679630247
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Charlotte
+– User GUID: F7IEBGLCWRDK7P2XI7VNN57SVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790002241	nfvdid	BQFmAAEBEEatW3nVfVWwpFf-bpS_tBZgZXQQUvtOKPdOV6nMK0O_2QgeKp71FYsPgPiO9J-MgWCEF8NWdgWSFP-p7rsi-1n2ViLZxjQ9m1zRULXedUTtXTGoGedug52xSK-TJLMiEA55-kad3VSY1vVU4NowQgZt
+.netflix.com	TRUE	/	TRUE	1807956957	NetflixId	ct%3DBgjHlOvcAxK2AxpZTd2zRdcpGkqLiW2HyhUQN8hW4V5zd8Ei9Wj_EIi7yMVT03U7ySnW2wOqqtcZAZMXlr4gxM6uq3JsEOqMkGRGHXxjEocuZ3vV5cvo6q886SuEzlWDMV_OuMX4TEEowofcqk6eViqAkIBK4xieRmRr3QZRFtxzbt8vkW2YSgF_ynHl_QdH3tk89c1Kso2XvW_kMszUXNXNbpUandF368Xh01TgA0a6y2Ax5SSVTAOztoYS3z0iu3jVgUHi6wgtadH_9evU90s-AOob4KakBI5ps8vLK2jCZhRhbA1vZ_Tkga1Hp4lRmyWgAHWDI7mKTb8DdMV88M1mlYlQTi8ilM-BXgzTlOWN24Y0CUSz7aVl6MzFU-onHZA9fhBKcWwrQzz8TseI4V1vqINACXY4yc9Zs_z4U8d0KcTMjf39TPRgXA4Ddi60dxKzSsHI714ewNRdWj5tcSbIdAtr9Oj-lR5PyeqAAPsueBA8VEFeuU0TJ6jA3uoxcinut6LSAyAztXOjFzrSpJrvdc3bvV1TrrNFgLYXxgYf_-DvZemXHVO2K0hNZv9mAosiJRVphd3RmvkuaVK-ihgGIg4KDCOE9eUgP5n58rdZZQ..%26ch%3DAQEAEAABABQs5cETSq0G3i44mQ9OUHxbtj4mtGYkDyA.%26v%3D3%26pg%3DF7IEBGLCWRDK7P2XI7VNN57SVM
+.netflix.com	TRUE	/	FALSE	1807956959	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+12%3A15%3A59+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76002797-84ec-4a85-900c-a8befc07ffb8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BOCC&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807956957	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7cuhl3_XpmGesapxdeI9LgBhGMI-swN8.%26dt%3D1776420963849

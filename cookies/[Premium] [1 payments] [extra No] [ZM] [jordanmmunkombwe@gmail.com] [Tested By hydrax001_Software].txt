@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: NORRIS
+– Email: jordanmmunkombwe@gmail.com
+– Country: ZM
+– Plan: Premium
+– Member Since: July 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 7251
+– Phone: +260977417670
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Caleb
+– User GUID: Y5PYIX6SLJGFLCPGNSGVL36ZIY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808129336	nfvdid	BQFmAAEBEK_qyM6Dca4Nh3wbv-AcAeNgHLF7NkBv69BC1hCYrJmIWEbDT9HdujqP4-nE3PwQi-s3nTWQTN9oMLSmCjMPpitTntCN-_V-HRnGOUL-B4vU9J68fE63DjZbLCKOl16T8AR1i_M5mMenn10Iu3q0GIuU
+.netflix.com	TRUE	/	TRUE	1809949786	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAwlZxAIrCT8XZiSilXpGSxTrV_fqIpZ-xfZFSK9JMPcEyu60gwf1GTr68Z_o-gZmmG2boMnLoCe8iltUAaKGa3r-I8phPTYp0X7Tkpufekhx-9RrD8wQRh-H6t0-W8vT5x-r6t23rv8dl9CG2wbpN5vvlVmh4RlPK_tyGNVCMWYFgWWVgl-nPGQF0YWuAS1ag8eXZOCEfyELEpCwdyxUH-U0Nf7pn0EIJbei9nwNrpP2mxyV0h4y5LqCYmWuQIB_0s00GkNlCfYMwJqSmKpI1Hl53ymbRixxBnHlu5J4lhwR2Jr2CMLi5NjL5wOUPiTn1vKyLCOvzIZGBHDt9oW0zQyNHs7h1Ux-D_UW1cgSZcgUk3I0-0n7vTbN1dQ6Jdt5l_LsnMeW-O9ZjX4_YH4rc7G9Ih34YN5_oQQgalpurr2XKx3YUesOeLcwQ42da-wtHVWFQM0Igk2JnXqumVL9-0VaZvKKhAi3tcfqvmcC07n-E7b9AjPML_iNHIVDZWomvFnyKtcjRfnW6PV6s6B_YyEPXirFihhaPBgGIg4KDPmPhMULINrS73wPuA..%26pg%3DY5PYIX6SLJGFLCPGNSGVL36ZIY%26ch%3DAQEAEAABABT7vNCIaWblACqEMepy0xe7pp12nepaG2s.
+.netflix.com	TRUE	/	TRUE	1809949786	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSjNUZ9eJHyUO40luXw2-W6oSkrA8p3z0w.%26dt%3D1778413786135
+.netflix.com	TRUE	/	FALSE	1809949817	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+13%3A50%3A17+GMT%2B0200+(Central+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=820675a2-6946-4375-b054-bce979309d8a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776555093219&AwaitingReconsent=false&isDntEnabled=0

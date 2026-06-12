@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maniadevill
+– Email: hernandezbcj1980@gmail.com
+– Country: BR
+– Plan: Estándar
+– Member Since: diciembre de 2025
+– Next Billing: 2026-07-10
+– Payment: DC
+– Card: 5911
+– Phone: +5595991610655
+– Quality: HD
+– Streams: 2
+– Price: R$44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maniadevill
+– User GUID: LAS62IOTQJHZDLNUUBOFWUD5IM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808264254	nfvdid	BQFmAAEBENcZdykiXFl6q_KDEOsTntlgNdEcy-elHTyKBFjBdtoYO2vzdQ039LykDdU83GG0yccC35SX2vl1HJ76HC-4TxOnTfv0JTxtG8ht0G3OGQ3scpbWjwddyDnxjJthsVD4fE6J6Xt7VxJdAahNTWASL0Bj
+.netflix.com	TRUE	/	FALSE	1808264260	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7nxoN9eM8RxWB1D8yyuAP_uj1tncXvHw.%26dt%3D1776728260501
+.netflix.com	TRUE	/	FALSE	1808264260	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA7U3Dd_e-8ZL9U3YoQcFeNtUoTkDuWtaZFQB_VEOanRssrHIuPUZiit1-SiYKsKdepLx8ZZF64jUZdB4ud4cL2lJLSHe2snzr4Y5ANqJPlC1iUe7Hp9wC0cjI9o_7Ba-A4WGCJMr4prnxRv3XsXr5ozUPgW7pM-3IdlgMXJM_2hauRCSm12GVt1NEf1Nxu6mDWLYWE8itbrCpEuL9oPW5byGuLyp7_oWeK4g3Kfl8HmqLBAsExLUgKNLJ9BzueDzpedYH13Nq3svXwNpPpehd1dwyR-XKe6WVwslVlnH8njf0rdvz73R3Knsxxqf5cOXI1204WLhWLJvtkFqSLznSn2luAVgZukhM46nvFPo5kjAaCV0be1B8IJFGmk2771f7_2aooVTicKebFmPSfjKYqdJnelewm2BcbbR8TehlU4ywZy1XqMraRePxmWcjGMBsIvLe49J-qOLjwgcUp869q1tySC494qQeYusupYKYsc6QTXnRhEnslo_QdCP31GE_IspWGGAsSMhWQAo822cgkkX_MOIJMJAOcIwWDQeZQgYBiIOCgxTgU5sPwitWVQGO50.%26pg%3DLAS62IOTQJHZDLNUUBOFWUD5IM%26ch%3DAQEAEAABABQoe6hDdYusJc20JsWYzO88kOpOj49quGE.
+.netflix.com	TRUE	/	FALSE	1808264269	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+20%3A37%3A49+GMT-0300+(hora+est%C3%A1ndar+de+Brasilia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d78d872a-ddbd-44f3-989e-44b1ff327e5b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776728121918&geolocation=BR%3BSP&AwaitingReconsent=false

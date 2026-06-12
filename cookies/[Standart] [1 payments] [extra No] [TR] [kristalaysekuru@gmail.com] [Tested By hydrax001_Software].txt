@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gokalpkuruu
+– Email: kristalaysekuru@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Nisan 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 2472
+– Phone: +905442933549
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ayşe
+– User GUID: ZPKZBVHECBAZBOZGBG67WC76VA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797155699	nfvdid	BQFmAAEBEGfWOkfQ0X2FGvPsHM-uLB9g-7KdrEnnTgzpa0Wa3iZKzcE36COlk6utkBZa0shLDQlec3p-swUVyv1gZ6lAUOV_0u3JuQdp4lAIa01YfEQwXZB4X5hozg3UVhlgRypp6XrQRLtb_uNY5fUHKnQn9rEy
+.netflix.com	TRUE	/	TRUE	1807475391	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA6HXgRuvF0YY8eNLQOzFgm4YC_wH9VgCpQ0Hrn4vNvt7Y917RN2GCS70annxrhlKgYI73V78otSoRcnHYOctBsya0b9t6gESR6V7xvSD3gEYzBsprGZXBditmzv5iBLHw5Ha-6GI73inQeMEOxNjJMoY4jy8ysA9OuNkFfqMMRWRoJgaHzIATHhP2qIXY6tFecycBuN-F8Tli7MWhjDh0IjvnpZOhx1MKk8XWTaj7SkX3Lrcen7F5lyVyQIBNbV9qmWjuLQ0YiT69r4APcGs6IcYYo4eY3EcDhZ-S4eTxUbqAkKl_te3VYh0v6WBteQi7pTKPNtPl-mkHzjS8JGlcere2qm4MPwVjXiXScdnyiwAitfOCRuWBiG2N2nXnRuHWp0qYrwfkabFYu0BIZYJUvjex1wXjp12lxYST0lUxKcrKkWKpExCMPU6eDqseFpGKHvK85pHwqSohgDuMsVgCqR0-7-oAC5MnBA7tEbZZ1FQxEZ3f_B6Pj1RCMXvwKVo99hp_oQNo0DtdKZPcIQOs0cFYILh2548FRfVGAYiDgoMujOcI_qC-KdNWBcC%26pg%3DZPKZBVHECBAZBOZGBG67WC76VA%26ch%3DAQEAEAABABSuPni4xdHiWjyJM5BQ7zxIi817kxdIRns.
+.netflix.com	TRUE	/	TRUE	1807475391	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRX6fOVLd2OztKsykTCpX_dW0V_kNC-ngY.%26dt%3D1775939394226
+.netflix.com	TRUE	/	FALSE	1807477253	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+00%3A00%3A53+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d82938f-b404-48c9-8284-4826aa9aeb59&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=TR%3B07&AwaitingReconsent=false&prevHadToken=0

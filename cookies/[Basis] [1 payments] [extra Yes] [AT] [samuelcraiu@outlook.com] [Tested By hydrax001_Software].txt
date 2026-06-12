@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kino
+– Email: samuelcraiu@outlook.com
+– Country: AT
+– Plan: Basis
+– Member Since: Jänner 2023
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 5306
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: € 8,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kino
+– User GUID: 53CAJVXZLRGRXEXQG5LHQPNNYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791312914	nfvdid	BQFmAAEBEGHHHFW6RqeRicxRfTG39itggVJpUiKikTW43fU5ZN7ldz0WzRd5yKD1YeCPmTqdr6DrYTHD4f7C9QOru9_taYv361ZkoqxplseZmXX7Bmi8ZmFsjICv85MTKyU3cb0I4wsDOJ8ucX8YEasUiJjyUSQx
+.netflix.com	TRUE	/	TRUE	1808597682	NetflixId	ct%3DBgjHlOvcAxL5A3kJJf0AE8Q7C0Q8VJaCdz6gmcrtOmYhzXhAx0QQpTr6IgLqUHTOGUAjoljeBTagnkWgHUspoNhPhtGdVXpnuNTE7s_6ryAbGPowO9-noOHEtwWMrzu7RZP3POLGjVXhqPXhjwdtrFmDw8Qgi1gfoVK0T--Po3uH4EYZN3xYZQezuVYgSJ_l7vR0rGPr6NbGz5gy_KbunYXXYWPFFUzlIwfe8ZbHFOejUePiqVyrAIoRM40KECvvqafi9xmBjyJT22YQQbW2CncGoztXz_Xn97uZQWSQ-W5tkF_yQQLqrMFkfYTMo1pZnKy-sqKaHY9elPxCYP6IqobOWnpA3XdJv8m9fyoPp9uyjzeBiR5AJ96bgjYB_Vlh2otNm2gUvKdw4W0lkGk4g6zC0LPu4vIk-R6lSNOR8mODlE6P933aucLI9PcXLNvuokS4J4hbfbryQNbmpFJEXLe9lLIh94Adhhz0SglOgTbD7ylhqs_lSCG2gUeHzsqQSDET-Pa6pLE63Ic9-Ap2eTyj8lHVmu5EDl7aYMlqxqQpxweA2q3lMu4-fJ1la3nPn-pIx4iwCxeD63zmKSymx5Xwna5RgCX-IapCE1-DNvO-cebfivFULKHjSp5B5SsKvRE6FKXM-CBXYPNSrsSPKOmBURoYGKZiTPD8EzQsJ_yTqZQYBiIOCgwVFOO4EtJICGyceQg.%26ch%3DAQEAEAABABRiMYeJuDrhr2_zFqdoXHvTpDW5p1X9nOE.%26v%3D3%26pg%3D53CAJVXZLRGRXEXQG5LHQPNNYE
+.netflix.com	TRUE	/	FALSE	1808597684	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+22%3A14%3A44+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=980f3ac6-05cc-49ea-9d5e-ef2c8bb93ffd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=AT%3B9&AwaitingReconsent=false&prevHadToken=0

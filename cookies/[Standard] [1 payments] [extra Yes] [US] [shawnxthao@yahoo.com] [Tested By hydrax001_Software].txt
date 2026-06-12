@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mee Xiong
+– Email: shawnxthao@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: June 2026
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 5364
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mee Xiong
+– User GUID: EHCZACYCLBFITN766W6UOZW5WY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1791336522	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AsYlNBnwmd0xSXd2JJpztMSsWBnFr23LHNlBw4IyYsJHJbT22-ZIdaOcnwkntbs6jYCnDFlRLF4teZnNhj7jp6JTm2NGxV7e7HP03l3P0RjYM-2CQLRSGFvNR7Y5NSPwPi3O9MA6z3-xMDTlVqILOOr4dPV9rRVtO6fTxn0RA92SfWn0KDpXPkmWxbiissWIFrBUS767iu54wBurwfDTngV7rct9cw4ufOJin5_tHkhToLVeDiPn-829faV55EULt-DPtkqhmrSLh2iW8i4x1h33peVasLsODpRTl3NVK40KBi3nY0M0igxEEvocl9iugSGrE8MPJV4oFCvmP9krmh5uQALjeV0IItNzuhv9fBrsdTzKm2yjm8llaAeNV_8dtF8Llxv4GrxOX5cVWCmHJmcDlRGNBvUafwM7-Ji50A4m-5ifyE8DiXk_Nw3F-CT8NTDxMwj8zZPq6mKa50yN6aH_tBzZgO5Wap6h89wR4LDidE4IhlEYBiIOCgyQ09evQMScYzm_aqE.%26pg%3DEHCZACYCLBFITN766W6UOZW5WY%26ch%3DAQEAEAABABQWOptnGcC7PmBi7OmQ9FYma7iH0GLzSus.
+.netflix.com	TRUE	/	FALSE	1791336516	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+06+2025+21%3A28%3A36+GMT-0400+(Eastern+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73d26123-6fd0-45f8-9248-881fc53aa876&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1791336522	nfvdid	BQFmAAEBEB-fqaLs9fgkImuDb72vwN9gyMXU3vvTKsVAO86M-u6IcrrQqRTxOJ-8hl-XshUVhHdD3ke_iBqvdsLsP1aa5SaJ50N3UNn8Q1dg3zx-ti45keCvsvdoJiVQEt58gT4cfCxq1tlQaDnu6-PNKIVjjwjA

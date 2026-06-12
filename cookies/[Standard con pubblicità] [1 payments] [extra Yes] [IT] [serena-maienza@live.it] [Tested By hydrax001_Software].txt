@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ciccio
+– Email: serena-maienza@live.it
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: luglio 2024
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393409888885
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: delfino
+– User GUID: 667RPZJPPZBIPJM2XXH5C7GTXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798353719	nfvdid	BQFmAAEBEMYejbxkib3OY-Mff1k4Q71gn1Zl8KdhCinGHKZUdbnPFwXpHgF41f_Y6wx0XNSio-n_8TSSCPO6EnIRck9IGCWxI5i2pmlSt10c-qFsNuQ-7F1ecDwUpdJfUSmFgQEymMv1LnWvz2hHLtCzfGygmH3D
+.netflix.com	TRUE	/	TRUE	1809304634	NetflixId	ct%3DBgjHlOvcAxKwA5nOaIXSX7k_RmeGbfK4ZUOj-qweQyTcTjNFuRijOt358HfFqt2OCchnexVzNEaLy6neNXOBklERriY1Rw5sR4V-koYrD36vAg_IYNzLUT_TaEX2-5A0Quv3uD0wl9hVMKUop006EW-4IkGKeGiz6e90z3J8P23uYUa5Usi8pIFoJylxs0CZj8_CY7KHUjaYmHJaVg3ntDCoIHj3IZNaS1yK_5XHMARV7cMTJdIv67wje8oI60yBC43W8aCegLG7YL1hJCDQWVnZ36bEblpw0iIG9YY4PJm4znCO0VS1nBOayVu1Dz05ZcH5PGYK3ei3kIQ3FbuGrxufPZka438gyLqhVkR4h8gmX01Qn6LeLE9SYFwepzsaLZluXuXUexsMG4Gs9TMN6z_jFfCD33wJ4UkvHLvC_tTkPfLEiznpXA3ADUfhpc9BST_P2k_I-udexriRVqrpqSApwmziRtkH6_AEROaGjMxP4cmfVf4rSNh0qobNydvfghM3xKamKu0oeqYqJWt-QUD6SXvwO7kTxHwZsLLOoPQ0tjlTfbbDJh4PDVN4QbYmBrR2ZS792VzyIBgGIg4KDMShSU5yFjZIyk7r4A..%26ch%3DAQEAEAABABRdWfWaDqO7YwvpF-wrF8P3lYxAe_ZNV5E.%26v%3D3%26pg%3D667RPZJPPZBIPJM2XXH5C7GTXY
+.netflix.com	TRUE	/	FALSE	1809304635	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+02%3A37%3A15+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7303c269-a8fd-4a56-91e6-088e9ecb0eaa&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B82&prevHadToken=0&isDntEnabled=0

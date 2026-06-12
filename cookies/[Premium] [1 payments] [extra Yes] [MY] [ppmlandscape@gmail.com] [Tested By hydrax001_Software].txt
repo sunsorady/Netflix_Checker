@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emperor
+– Email: ppmlandscape@gmail.com
+– Country: MY
+– Plan: Premium
+– Member Since: August 2023
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 2339
+– Phone: +60184034057
+– Quality: UHD
+– Streams: 4
+– Price: RM 62.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PAMA
+– User GUID: PZ7EHNZPBJBYFJDOUAOH22QUCU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800084145	nfvdid	BQFmAAEBEIHaN4kYuAMNodBl7ZCZAN5gyoHY0Y_CX0zrw-Zvu83UdqHwRCX-VvGR-xchuzQ2eePYy_8ZMHUn-wENDEAm5BOmyDM-wFMKMtNtjikTHR2xTn0iJuurCv1yBl-mLzWyfwVEZYF53sFaslORQQQEkmHN
+.netflix.com	TRUE	/	TRUE	1806128946	NetflixId	ct%3DBgjHlOvcAxK1A-sHtSyA40vTh2QTTmLrzHNTgFBeRjKaEwl3JlgQ557_VU9N3VxkEZ-bqwt6RRukMPD9JNORdT31-1EvKTuuY7YWyeY6enJpsXF4yA0z6PoxtLofql8IeVZZZZLvSQA8KsD76xnKS3I92A9a-hNNsWPaJPcA_9foe_UNDARKFsFL34yagq47306CNYoSFavhlIhevsfJnpH0nSbhxzjcKb1mnkyAGSnjTl-5g8EfnkYb1GFtYzxMUlYt9ckXnHwZCJLbqYZH-CSKHC6khHwjI_03VwpF5AK1HRTLX-T09DUG7k6Fo7GB4VZmV39JIAaXPsUyp1mtmGNQ4Y5LU6P__bnngQASRYQCPNgGXP1_1YehKKmRO_zMOGRdeXr73o_BcQ9SMhKmArdwRlEWLFINe79QIhQ7jPu9rOk8TuY0bUHlfBXSAbasKoh9oirpblviAyMXm3D5r8c4-QYnGKOgjKgQN8Z8FvLilEEtlqk-xUcXIFDzeHZ7rxHJF8u1MmZ5DpfuGSa7xTDenE1fagCtrnsAUD1Z_5J5ewyCW5tVT72XLeTTYh4vODNzyLagu_VMmwu0OxA7GAYiDgoMWwEpGEPiYP4Dt0BY%26ch%3DAQEAEAABABRSPEEIDbMWluTsblTO4AtOvpLl3CGf_Nc.%26v%3D3%26pg%3DPZ7EHNZPBJBYFJDOUAOH22QUCU
+.netflix.com	TRUE	/	FALSE	1806128949	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+14%3A29%3A09+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ac48a10-b7ec-496d-9bcf-2a5adcda5422&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806128946	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSYU6bhdBXSCYDp6WU-XWleVp7uU_edZoQ.%26dt%3D1774592945651

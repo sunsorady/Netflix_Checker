@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ludylinda
+– Email: ludymilazuchetto@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: novembro de 2024
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 1871
+– Phone: +5551994866166
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Su linda
+– User GUID: XUY6TUDAOJH6NI3XCQSWEPD36U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1774232343000	nfvdid	BQFmAAEBEGYrdd6Z5MVi_bx11O3NJBlgk9CtAhEd-k2q8QsBnqiI0Lbg88nPq7ZQgr4ums4LJWli4TlEWxO_B7abFqJvQkR3T83sNxt9-mgCcUy0eo7q3NLFUYJMhsllJ_lD90r6ldo7GNQLRHNVOTGU7isBJJmf
+.netflix.com	TRUE	/	TRUE	1777253065000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9V-hApRGW20F5fgff8SSoisewkoEwW74.%26dt%3D1745716964525
+.netflix.com	TRUE	/	TRUE	1777253065000	NetflixId	ct%3DBgjHlOvcAxLEA7FOSIQtuhia5ElvHkjwUAOcGCIgYBfRAGaIFDuxxbW357YWylVQwLUwYV_23f-HygaXGFpnGUvvhcHviq1CHprru3KAZJxM37Dw48LQPmSdmm3DOZM5baoOuXU4BsdpzXxqLjitwyFGo48bwc3Kp1yDYNmWX2fXSYCMa7fHEnAptvNfTgu3FSSmZiAH66qgFKcCgAIpgLuSQAhHevCynHLPGw8ZpmSZ9sqCbNPpzQ5ZjlN-fZ-nCbyJ7eF6R5ntCyddPy4pWTDq1DGMym1oQcC2-sJC1gpjZs1Bm7hM-JtlMS_8JBATEkvz5OeDbpEHy952HhpJu4RGkLFM9j7fy8ypzCdPH2owmdhkKsRfNRk_yqf-Fhdou7sXmi4h62a3Bk0j7bMor8G5c1LO1dGl4hLinjzz3Il5jJLPm5GkVYI4V65ccXL-SxwwfRN_LuLEqoGTFxJqpsaxG9DZU_xDvOujBRYGHmjiry-8RakKvKewvRrr26SLJEIMFuktYde2s61SDmtulB3ufotiNF3LPQjXUg8Dr898Zf5H0zE9Xooa_UeRh_dV_cQ0m3xECSdE0YPr9R63ePqI822s3kHm0DagrduPGAYiDgoMeNzEm7Wo5d5wp4Bc%26ch%3DAQEAEAABABRlwxbNuVTc-jA0fTNpz_O43-kaUmxy2bE.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1777253067000	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+26+2025+22%3A24%3A27+GMT-0300+(Brasilia+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dbe2f5c7-2d5f-4c5e-91a7-5bf3e9737364&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRS

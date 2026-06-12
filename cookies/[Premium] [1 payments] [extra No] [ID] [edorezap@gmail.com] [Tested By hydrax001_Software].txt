@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Argha
+– Email: edorezap@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: February 2018
+– Next Billing: 2026-06-20
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bapak
+– User GUID: D5TO5ZOANRHIZJPZM3ZT4BW7IA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784354738	nfvdid	BQFmAAEBECaF4JIbjjLwI4i7csUIhmVgIH2Tm85xsgrx2O-FU5i1d7YGBENFXz0n272Qa7ka5qWRx5yCdysZbE5RtCcmOtvnvQB6xW3KDQNDekew9VPv5mKZhEfJEIhUbq-SvlPpSvWJgdW04fzsvh0hOd1k5HLA
+.netflix.com	TRUE	/	TRUE	1807245659	NetflixId	ct%3DBgjHlOvcAxKzA3YCIMxaibyCxi7Hx1rDa5JKiVeFfW8hAOzeiKouKT2WI7C4HRHiHt0wRhDiPcyiK4Dui2Ss91Z1jDAk2HUWOAO9gCu4yRi2HUyHITtX6ky09xR77RZWJAgYBDrrlADivuK4OeXaqy5OUqaPT2BmPCwitUzzMw9976URngyD67fXhLEtpaApG3Kovq5ltKz0PSbTmbuR0myKYL0OnFwyQg1NJch5b2iSEjDOIQZ1LgUOBHV1NvHSNK4gXA-D6w2LkpT2QIoDc8BsRAPd-q8PClpnwki1Agc69kkO1tS-MQ4yJ8YR-T5XxnVOhvKw3yPzn4yExj6-WnS4cnRhH110LJmizZ-Ui2LRkmIb71_9D4Km2h5Op84w6BSWgMMuqqjgX8wdYIWrkIN9kwPbwxw9sZllo7BapepSWJqYa1ZjRdhhT67j9_nATRa7siXMLPRnRCF1GteFbpVN16w5fM8JfWqgJ31PyR4TLdGMmmF-yhqhqImsxgjnv_2HxbseXg3Cf2BAX_GDHttNkXpevBNE8YOCRTA8ElpuEtItb0I1u_aM18W2I9ChdosL7Yqw2IjrYbRrjhgGIg4KDLox_XG2SoW-49S0XQ..%26ch%3DAQEAEAABABS63WlTZSuMdRdVFIl2lAsgt0UN2xUSMkU.%26v%3D3%26pg%3DD5TO5ZOANRHIZJPZM3ZT4BW7IA
+.netflix.com	TRUE	/	FALSE	1807245660	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+11%3A41%3A00+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=19b43b5b-154e-46f0-8674-3b8c98b2dd23&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isAnonUser=1&prevHadToken=0

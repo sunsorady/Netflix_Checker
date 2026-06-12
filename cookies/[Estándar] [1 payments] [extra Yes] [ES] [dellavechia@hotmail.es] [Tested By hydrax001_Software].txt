@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carlos
+– Email: dellavechia@hotmail.es
+– Country: ES
+– Plan: Estándar
+– Member Since: enero de 2019
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 1107
+– Phone: +34665171652
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dellavechia
+– User GUID: M6F7T4XITZCDVILC3ICKZA6SBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783674336	nfvdid	BQFmAAEBEAsdWrfCj0NIhBwRNXyKmHRgsEtATlxHxxeLLmFcmddEjWXdMhfKp_zhCGFMtek1WsxRYBBmvg3JrNQg4UA89NeUIY9yw5nt45RCCBmL4tbwY8G-5XuvC-5R0qoPg9B1r0xR_82lYNGcENK_vj3A372k
+.netflix.com	TRUE	/	TRUE	1811921859	NetflixId	ct%3DBgjHlOvcAxKEBGofEustCo_4tQ7QHX1oYAK3h4nWFomH8pTX7sSNsUta8tgIRT11Cpv-5yRZ-Fz8a3XpxVkysK27U6Nd9BkAUAP0gJCr2G-mDIphECvcYKXXfb_D9PeNosa6jRrospEZBdti4N4A9C-EpM61P5x0f18mpEnD4yWecES4FkgicJncgYC_zXcGmw9cZceByFIOe3xIBQUs3S2K00jzcH4tyWYL2F8_04messCG9cN7OJAmftNpeZGQu222KfHmbn-_u8ttYGRSyxdtnv-h5X5Wk7yLQVcHl4YZa1iDxUIdx_Ta5AwH9J_ihQJPaQ8sejICOmzh7JqBFly7fAPAs9N-K_YfLEUTRiHPXX5yODJhB_sD-8JKeoa0Y6fAhHJUEj2dmUtEpCa1EpBQM4yYPmpQ66DTYaRI9hhRz3LqhhZ9ScMoJqc__pphiwj9OFB6s9xWQmaIAewSZJQYj7mAXttgGU5HiuYReCCkRFvOayvvpHg4jGatUzJx_mczlAACcq6S21DIpgUudTnumBViuCJT64SQkMH73epMGKMLkKogxDJLxi0jcfbV5UY7geBCXNTEtZdEZMKQ96R8PdXkVf2qtk_5st6zL-Aye5qyjSdBAOMnejh3gkIZs97dPvkDTPH1XpPooxUBIrYiDra8vGao01RrFXrBkh2zuXoxVjjWzSyZcHBCgBgGIg4KDGYi2nKNygPVPa6DOw..%26ch%3DAQEAEAABABTcXSbJJ0UzC5WGkrdamYLLcsPB-4mBRso.%26v%3D3%26pg%3DM6F7T4XITZCDVILC3ICKZA6SBY
+.netflix.com	TRUE	/	TRUE	1811921859	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS30zloc2ACASRcdv7M9GedFC1_8eAyKco.%26dt%3D1780385859095
+.netflix.com	TRUE	/	FALSE	1811922261	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+09%3A44%3A21+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=51ec8abb-d8c2-4fdb-bb7d-56683a046284&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=ES%3BAS&prevHadToken=0&isDntEnabled=0

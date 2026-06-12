@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: THAK
+– Email: elenhkokkali8461@gmail.com
+– Country: GR
+– Plan: Τυπικό
+– Member Since: Απρίλιος 2026
+– Next Billing: 2026-06-13
+– Payment: CC
+– Card: 7502
+– Phone: +306947582681
+– Quality: HD
+– Streams: 2
+– Price: 12,49 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: elenhkokkali8461
+– User GUID: 533VXMIZAVCVBL2RM45DWY4I6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807611823	nfvdid	BQFmAAEBEGesIHHFXuuanr6A0fLYmqVgntgZiInHJ4-GD5xl7akfkarBHC_MJ3msOjmU-BxHncqpAXq-ZYGzVETk-H6dm0IK36eMnI_FCMjO93-zezzRWIeCT4IjXAMus3vLWmLAzDj09j5T9SWLNTLbAKMHwsMP
+.netflix.com	TRUE	/	FALSE	1809257092	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+14%3A24%3A52+GMT%2B0300+(%CE%98%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4687d6b5-bac0-4e5d-a59e-9034f22b1c9b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1776075755928&geolocation=GR%3BI&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809336855	NetflixId	ct%3DBgjHlOvcAxKCBAtyK44W_SKYWzCLPctxzKu4LPo6KvgL3xTQfeBfO0R2FDD2xMxBMhIT_JeFkKipH9zNYyuw0bquPK1pZVhWCEbfdSbPIQx1WO1-RDJtQuPIzPl048wMj0i8l0sa1kqdsngWB_Ju4H1haeK-e-2p-kAuf4TDTTtbh98COzTD6xn1UNl-0PV1d0LSDCQfuaM-BnyFcX9tAFJAASqC3f_YQeLCkAd8SsA9awrzz6ofSEDtkQzm8LnwmbsuJUrhHfsu37t0hd1ufgPEFxZKsjU2MRTBAcuA40OwJR--sc1DnbHKOOaj10v_UTQnKq6wYeEPrlZlMxSki8xbf_XQPuyJaEVzDPkvrIy6XaILepRP5ykX3TxLs7RWbJZBBSb_ShHzoYZrvFxggJ466ONWh5Nqc6wCopjev7mRHBI_zx4Pv90r2AVyuQZN7yiTFsuAqWAg1jlNsfUsi9aU60Mei62M0z4CMMGetwiZYYdKCLg3evPEibqK1hsopony4rIPhnJOTIhXYSKmbMpCSmaqB2qWyA_4gvs5jpT1-6KFkKswqgxKN0OvtbEMCEld7n3HCzl_9cCmkTGQwl_Y-D3EQ4Gpqc_h2QaFMRuCu-6vCGEj1L8rCY4eQpxxKJ4e47FjPPakaA4LXH2b1PZ8dzAT6UjaARDcPIgl8a1Ib1Sl3p4We9YUiQEYBiIOCgy0hUJ0fkVtmJGGh8s.%26ch%3DAQEAEAABABSjGsXSPHSMXwkOqWo15DUP-v-XvXr1b6I.%26v%3D3%26pg%3D533VXMIZAVCVBL2RM45DWY4I6M
+.netflix.com	TRUE	/	TRUE	1809336855	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_Bd2ahCmNDCUIm8K2rj8BuwVDrRn_ML0.%26dt%3D1777800857675

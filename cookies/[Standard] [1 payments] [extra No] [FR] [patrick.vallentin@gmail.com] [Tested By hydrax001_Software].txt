@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: patrick.vallentin
+– Email: patrick.vallentin@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: août 2023
+– Next Billing: 2026-07-01
+– Payment: BYTEL_TV
+– Card: N/A
+– Phone: +33611639163
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: patrick.vallentin
+– User GUID: UJZZWPIE7BE7LHCC2T2XEDXKMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3427399219	nfvdid	BQFmAAEBEExb4NkpCUUU9wKDM14N3TdgdXwISN_PsXsRal3tmy1XnBiSviXPsS2k6EHpU0plvwPLBTgls6UrOEeRjoA-sbCydCkMeoANk-0HiaGZkrnmdHAFlPWFXKMI7j8CJRaX1mUvg-X1BhEK53HJcpyw-fUB
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSsFGnS0lUyY5leM7drNBTlnBDZWJYp0zE.%26dt%3D1772372743066
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxKeA-0rtJWXRceeB8Ikb6mSoBWVLQ4Z2-ctFWS3aTYeTdPo2fRhIMh7O6b6Ps53yRq8EC8261yrZ0TycZGVffjhPp7i2bNoMSiiQQEU-mi0RYkadwQ8w6tPfl5k1l7TYSwaQdZwm4gSoXYWm3BVO3EaKxk99kHDtjR4fa-W8oQdGa2PrNj_scshRS5-LaWcjj_rDXKn-XHW84FJrSfz-jQjqRuhlAreBBQssw8_FAVdJ4Qhj7xWxlKGPDsjnDbUhc7i5oDTct9M9zk2FLoVQ9QaNWS2K5RVepoLKqnCImsNQzYvjy7BPmTTOV7BCs07_slNtrENYlLvdeGHLarQTY9NZbrmVIbzLh4rFQ76mSmW745BdsWKIYR3KojFP79uvdzwuaSAzypY8rvTfES_oHXKOmcSa3kUXluaVDHIRgemPNmc72jMB0Kz-uOlB6dtnb8ZbZRbb2wvpqZG9J47QEMhzMW5XcMuTZQHQlDH58-ApybFO7N0-gSfQkYEJYCc6JlH0zobbMig5yPEGyaGgxSLj2dtQNxAMPuiIW5GAgNrwxgGIg4KDHhbVmU813k_GPYMNA..%26ch%3DAQEAEAABABTNI3Sh6zp6ZsOAWKBLAiq8R0aIFItwvwk.%26v%3D3%26pg%3DUJZZWPIE7BE7LHCC2T2XEDXKMY
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+14%3A45%3A45+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=984d6f90-2619-4b46-9600-5c82ad61adb9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BPAC&AwaitingReconsent=false

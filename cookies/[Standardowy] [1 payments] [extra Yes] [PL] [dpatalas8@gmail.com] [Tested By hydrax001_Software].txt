@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dawid
+– Email: dpatalas8@gmail.com
+– Country: PL
+– Plan: Standardowy
+– Member Since: maj 2026
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 9675
+– Phone: +48886719138
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anna
+– User GUID: 7WB4U4S2MBCJZCJZBA5JAYAXLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783441458	nfvdid	BQFmAAEBEN180rjPemAfhMaeA__6gOtgxDXscxEvNmKuJmOYS-cdHx3KV2zab--wHSGmVMrHFqxLpEmGRt3IjrJfLNs2yK9L4u1WOcGBvG-8xyFv8qR7wDf4e_DSiVk9nTG-hJ3ecIA_2LV-3yReytFGFhVkYIcr
+.netflix.com	TRUE	/	FALSE	1790086119	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+22+2025+16%3A08%3A39+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c7906e3a-95b6-41ee-9fcb-95817490c6c3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=PL%3B30
+.netflix.com	TRUE	/	TRUE	1791190895	NetflixId	ct%3DBgjHlOvcAxKYA9XXbdh9tub1N3QXvPYHElze7rHqC1jNLoxtjjrmKDe99gPSSVuBSsIBnOQYkpe-tRsSBA7LEf9X09maLPZx8WxlfMqBA2jEZnBZlgnIrLWLhrdeXVnm5VMmZWkDcAnHqUMozfFFXhyfDYy4p1wRfxe_l4Q_nhazS51xcJv6EbeG644LcYdktUlYSpl1sSiL-JFWVwLr24MhE1WCINwlUxtoNa2_oWTfL_ngFFXGn3dnIIpFsnoFYWNqZFtQEUia5FyUr7j09SiW8_CkSibcHrrTkKaspumNsZ8kT3oGn5_1BE1mLjH-ReNQj-f0y45zaKYQiIcd4WnOYLk5TR55aUMPhdzS4WwteNH2X2JmJcCy1Le2uosEkzQewn0bhFgx7PcvFACKuGtCETOX6enEHZ8oeph_COQIYbGP39OqkYW3NKhtqPpghPmFX4jNLdaSOQIlAN83acScKPXgzn3BS0ON02Y-J29S0DUjWS5w1NUT2pZZBj82Xs28FzzwLvAE2XxJC6_JUD-vz1i_nTolbbxL8WgNuVFGjBgGIg4KDOmySZZXImdpxhZn-w..%26ch%3DAQEAEAABABSZ6ryaQWcojEFmQsKfKqwzuiY0UmZYojo.%26v%3D3%26pg%3D7WB4U4S2MBCJZCJZBA5JAYAXLE
+.netflix.com	TRUE	/	TRUE	1791190895	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT04l9zD4WcAaIOw_MSqpHWg7l73hUWQNU.%26dt%3D1759654859796

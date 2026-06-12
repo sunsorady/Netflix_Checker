@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bruno
+– Email: wallysonerick@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: dezembro de 2025
+– Next Billing: N/A
+– Payment: TELEFONICA_B_PI_BILLED
+– Card: N/A
+– Phone: +5579998561995
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Wallyson Erick
+– User GUID: E5E3JWWTFJE5HHJFFAMAQD2EGA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806288642	nfvdid	BQFmAAEBEB3QAKEivq1qATxCSuclS8Zg26mgd-7hNMPXM9yKmMy6bgj_jcXbS80grzEN48hOGvI3TPjHOnp5pNb3PWOulhJcd2ngkPnMFXuH9tNQ5vjKsm69cTYgsIa-74EtfOaxGi-06rPJWg93ZtSAZLD4pNSk
+.netflix.com	TRUE	/	FALSE	1809179433	NetflixId	ct%3DBgjHlOvcAxLjA6wJ5gSAi1rqA3_oTRoRLRqu2tCEBiFmm4o0SbXV0jbF9peyRr44pQJtQqIiBrFTto1R3VidEkzQy-HDQC_HA00JOg-jTnCxTkWvwGH7Oa3jIFj0WKS01jcPyo_KQoMS-jTlQtFlPvQuECzYIaQiECHCdKZzShFvdCcXMPe3TAbt17duocogOy5o4BLCiHMyItP-8VIFrgUr5Xho68Ami9vKhnVT8g_ksdCMJxw25iRDTEEaX-GGL6CYVgOVs_nQAi8C3aX3QCKApxRv3LiS4kWNwisx1dUQvcG23oNP44hbDwNvshPp9TKTDpCRbtAO1gIFWWPlXEFYkNw15lcWT_HnWMRu4tnm9DGjg1qDw1Satl6FmvkIN3cQ66qk2rKeSSP5P4q63PGDcj6scLfQezbJHtRnSzCUCXIi5tq5ssgEtEN8CQCXiTBvOJXkoNsZXGtbgjXrrUWGuJ0eE5c2VOtcdbqoB9ER8aSWDsolfVsM-XbCceQ1GNFU4wgnuQk4gJCJ3rlZvwp78iMMngzy3BPFJ2EmvikQN2-P4IsOQiY900Z8447MhdgqUYlmrMHDpX8yguyUEG-gZkqSWAgrJCZFkdel4S9R3jJH39u1Q_ulIR7_uG54IeyxGhkHmFwxgBi4mRgGIg4KDO37FmBbQySSbTxtGw..%26ch%3DAQEAEAABABQo7M1-FiNLw7ztTilxlT8aAmxW19g-43w.%26v%3D3%26pg%3DE5E3JWWTFJE5HHJFFAMAQD2EGA
+.netflix.com	TRUE	/	FALSE	1809179433	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOqBUULPsItxp-If-dfZ-Jr-VqhofvKc0.%26dt%3D1777643432773
+.netflix.com	TRUE	/	FALSE	1809186622	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+12%3A50%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=00a3a64b-091c-4387-94b0-27e9d71d51b0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774752596096&geolocation=BR%3BSE&AwaitingReconsent=false&isDntEnabled=0

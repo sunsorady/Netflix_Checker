@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Agent Smith
+– Email: rendanilesley@icloud.com
+– Country: ZA
+– Plan: Standard
+– Member Since: May 2025
+– Next Billing: 2026-06-16
+– Payment: CC
+– Card: 2762
+– Phone: +27602758951
+– Quality: HD
+– Streams: 2
+– Price: R 179
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rendani
+– User GUID: JXR656B4NFB3ZBQYMK4HVZNAMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810134853	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA1INB7Zh2ov61utSvHFUpaf7lAg1uPE1YtcU1SvUNdECMfxQ8_N44YfRlLRgKKVBb2zgnNNP4kU56iTrbMQiv1kmHDBoJDDH5wJc7r-hbOIrN5uzQXdmtvvmIohrKdSoFAcqvSPTtc15ClAnNU8zBpjHs9zs6auUYWYeHxhpIxXp1USPUxaC2G3zAXl1_PNCje4S_QzqYuR_KiHDc70FYdlbgwD3NeDoZ-44UjFoTqggknKmmee_x0Pn0_w46snDsW1YE119QPDKpgauRCUpfqEGmk0jrmn1JM5-B33iCw4EnMU7hLalBeHdec5Xx55fpxThjTVAL_KL0gR32xKeYDFGC8XJJ30WU56IGsZvxdh_Fye8ry0310DjonxzPigLdAaRl7MZfPUiWvgJbh3Ws8-XmU6gjZRbOxeIG7vjlu98-bp6UKp_hFbjRz3p2clPGl_DIYxNyVpAh5WGVQJep24kGdkdANLv47A3s1p8cFSGyY8qzBpfaoZHfIvnuJHn82W3SLEq-vQc6hUeSTT0u7MuswialnCh3zU-32LS2OQYBiIOCgxPiBqB7bcixyocxW8.%26pg%3DJXR656B4NFB3ZBQYMK4HVZNAMQ%26ch%3DAQEAEAABABQROBVR1qvyA8Cr9O_e4b6iJe8JXv5T5m4.
+.netflix.com	TRUE	/	FALSE	1810134854	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+17%3A14%3A14+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f7874fef-a3db-430b-b350-dca2440b4e5b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778597996445&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810134853	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQu0ncJGIw_gwIitupSHRQsOa3viaduUXQ.%26dt%3D1778598850751
+.netflix.com	TRUE	/	FALSE	1810134848	nfvdid	BQFmAAEBELykiwQAP01ktLz1R2o_0G1gHgeMtJfE30CAW-lBAX4iJot0jkXqhs-Vqm0Pt1nIeGxiI4yjZ37AlE8GTeraZqIDt05-GhlbsA8CeMgGFoo6RBszMfjCBnbxnLoXaVgnnoxhh8G-k5YZ6a7J11-oihP7

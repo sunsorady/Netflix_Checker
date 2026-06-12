@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jojo
+– Email: jojo.delangle36100@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: mars 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 7249
+– Phone: +33759161054
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jojo
+– User GUID: QECQ4SZ2E5HETFQ5YKPPMAB4OQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804076112	nfvdid	BQFmAAEBEIsyS3cVcExOjLbkV3HjGQtgO-r22YTftVTcDy7NgKLekVGGh4MHLV3dJ1o3I_410NNWZfgTWGRXNyVBO-n932_ivReGV1fnZn_i6uKsxhR95GBGY5ZTOqdTXqRclyEEw3XAp0GadYEWjR09_XpdtAt2
+.netflix.com	TRUE	/	TRUE	1806849495	NetflixId	ct%3DBgjHlOvcAxKuA3_BWduaSPzRojHIkA43jhqv3uObB1VKC6j3be-l4isI8Vy-3h95Gm9PmQ8DDPuiIYDTWFoOCRtvLhYiNpS-sZg9bjRhdFSPzO3M3atseCPAZ-7-wNhleXUxkeme9bKMhLejhuNgnUw_R_kPwM2DZlMtxngVvnzDQiOFY7u3X3VRX-1kP5ZIngqLSV-nY_2hpKt_vF-T6qH0kF7h65q8D7cw5Jja_8F-GE4sqhmjAnnkAdkWJxAMpgJ-zfOFqzkg-21H_XXKSb7kEgci0mNFwBs5WjNgem55KzBk03j1LoT_xmsPEo0wMtt9PyhQcKkN7SiGLGcDLOGRaA5P3P-EOaIY2Osvaf9fmC_R-XUPHv6vnm18A-Yh5Y-ObT8Iq6c4vTwrqNHoP85BDTIt_pqPnUDIXlAO4rFqgUxnu7h6UFzq5QqqqRxOQDH2UiWaAZvFfyXQLubJ3-dnziC1oDrIlVCkcnSXw8Z7EVK4MFkAZ4IzGX_UicLdXFpkS0Dhk5FTiSRH4faxwEi_8f3VPhc5mp8W18KQ1SmwM4ERxhQjznRhcKGZlTWFrXNlEGRrscIYBiIOCgw0gONbPfYFPYQ_xjA.%26ch%3DAQEAEAABABRVzm8fwHxDfc9lFGYYMW-zPjahDViQkq0.%26v%3D3%26pg%3DQECQ4SZ2E5HETFQ5YKPPMAB4OQ
+.netflix.com	TRUE	/	FALSE	1806849497	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+16%3A38%3A17+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=673754a1-d3cc-4ea6-b691-1c8507d7af0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772540037955&geolocation=FR%3BCVL&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sorayagarciaanes1986
+– Email: sorayagarciaanes1986@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: marzo de 2019
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34647422246
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sorayagarciaanes1986
+– User GUID: M7UJIQVGPVAIPI75QC3O6IKBAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811639338	NetflixId	ct%3DBgjHlOvcAxKbBNgDaAH3eY4QWTYyCaTULrD6heP6w2g4z264eDOgGF5eokco48kFq3q3w75FutNGbCMJ_3dre58jIaz-fcLVsK6zVCSqX3OWOWgZGSCh4jv24SB3kwRrhK04gopfIiv7Ab4gh_fx-3BxsuYrbLwUi7eyk8vcg9g2AZJ175T1O8wpPbqGZz9ek83YSs8ML10Vistk1NxiLyu7shIHx7-eKkIOSFui0EZc2uu2qIh53LGrBMMhxJqckl5pEnR9vVqA0B3V2Le9KD5trxu5D_q5yiCXc-HXM9xsk5aDSh2HYvcjQ3BoLu_HHfJJV4JTMDVLDuvXhbZF18Mm-3dfdK4IdGrKwrT_sz1fnKYht3A3XhNK9HpzlkW7IvGjzr1BmVjVeck937SwPsuoR-GFbzPATlyXb1mvueAuaSUE-cgo-LEpwozvmUr7J1bAg28AvIAvvVQvCZcu2va2EvhY8Dzxh8Q_1xWYv2kp0jZfSJAmbwekkoMTJPiOwF7TA5gD9GIehDijLyw2xxQ1MIRVLrfkA4FwWzYM0Bt4hp_sVAx_e00J-UGlZ6GxXHLLtDqQtf55B4JCkIMu6HAkPDPmoEJCYdgdmaFXRGMBREcS61CievIqYAn0hJ84Wvp2II8giIMAxRoDtDYQKX6ycIjVIT6Z8SrxuLgByn7_b_6xHuq73tIr1QoI1-AogKl44y5NiyyzIAt4NovzjUNE6z0WGAYiDgoMnozCw32AeHMdggTl%26ch%3DAQEAEAABABStn-d-tFPPbub7WxaOnWHvH-TauXtad08.%26v%3D3%26pg%3DM7UJIQVGPVAIPI75QC3O6IKBAI
+.netflix.com	TRUE	/	FALSE	1811639342	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+03%3A09%3A02+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=51a88d28-225f-4ec8-aa06-2cc0eb73854b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=ES%3BCT&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811639338	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvneMXFB423lolFT66Kxv459wRWQ7ydiI.%26dt%3D1780103338163
+.netflix.com	TRUE	/	FALSE	1811639338	nfvdid	BQFmAAEBELcJhaICbqVXh0uHksbQ3AZgPUEd4PfYK3qSrM6jyoFNbByviEZ9yezVdbjlORaVTDZchZFuoMtasplee-ENEjRDuUckqniRT6UV6LcsGWjYyJxcez_sfu6C-6bmI9VoQaQMHuQC5NS3TDHZ0Q2mtwql

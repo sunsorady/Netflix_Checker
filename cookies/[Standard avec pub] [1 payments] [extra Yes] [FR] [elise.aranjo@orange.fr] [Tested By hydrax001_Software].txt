@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Esther
+– Email: elise.aranjo@orange.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: janvier 2019
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 2727
+– Phone: +33633497466
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: E
+– User GUID: XVZDYCTP2BHNLBOAB7AO5UW64E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1785081622	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AsTxd4calFZ4wSByUGf8F6FLgDG8tz-RnoeIZ-1tFIQGV54fPBCbp4wki8nH2vKQCRG4ZHJ4YZxQfWs5GicQ9wROO-clD5wwgerR5Hv5Y6dVLQ97QsF6vMcnsUitxqMZNWhb5usQRT34Z1Z5RX7t1gaQep0KSLOYsBiSe9wMwn5Ufp3FEXcMGULeEBwicD7vgvzRvaxmzmOMfGLa5moEV8JjsoaN3Vfe8k0vLw0XCkNVhMFkd-M2YYPSsWn9q7Mz_NX4iTyss8fRM4Tip5dD9uOiNYF-Jm55h7If6nhuxI8U2nxvyPYp0E7bXHXhBKxkObt25mYflLdbmX-FlGRWCS_sLsM3-k_7B1OCShXRTpRUYqW3JJ3a_Qx2mlc3TrhI0ppRs7-xPz2R2wYHwdRYltL9cn5h71awLTWuWnSu4ZzsoVXh9IEOZhG0EEHwGcD-RcyeZrGGhCrsEcvyJadb0ossJ6ul9MuwolpfqbrjWPdAc3rEi8tQVael5hgGIg4KDJZlvRKscfmwVsQldw..%26pg%3DXVZDYCTP2BHNLBOAB7AO5UW64E%26ch%3DAQEAEAABABQ4QtrH5JPiiSnKUwJYovdElPOqeDST0Ic.
+.netflix.com	TRUE	/	FALSE	1785081625	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+26+2025+18%3A00%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a0a01d04-5917-4952-bd76-7a4eb2db9b1c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BBFC
+.netflix.com	TRUE	/	TRUE	1785081622	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTMkCAsQ_LLbux_PZPiMRjRCb5ivCB_OSk.%26dt%3D1753545368262
+.netflix.com	TRUE	/	FALSE	1785081616	nfvdid	BQFmAAEBEOcxIfexh6M95wUKYZi6gclgCztXbsT2Dl-SOeQx7BHx0cBddA4K2TQ88MvO5AWFk89MOUGDGVFIj5TI2lbSRP7dmaJByxqTMih6FutI_deEYJv9mGck6oNuZVlh8M0SBsMcpPgfXQz0cAZeEkzjX87S

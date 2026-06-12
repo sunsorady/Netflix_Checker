@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Para de mudar fds!
+– Email: trajesus@hotmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: dezembro de 2019
+– Next Billing: 2026-07-04
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +351965383943
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tiago
+– User GUID: JITOHRPZ5FARXHLWRRBEII6RNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795741072	nfvdid	BQFmAAEBEE1OfHMdyC1yJ40aUh80i7dgvQWaSCHpCyeHeGgOQzdsVfEhHYNpL-3HjVwB5QD208LJCHK2P65rvdvgKDcH1mV8mh6QfLpvj9zE3JroZcc1oT8saeNT-3QPTMXnzh8kTywvug1qMJTyfi53bI5DVHo3
+.netflix.com	TRUE	/	FALSE	1800991227	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+19%3A20%3A27+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ffe59c9b-2cec-416d-ba34-8e5cdf0b96e0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=PT%3B03&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803775875	NetflixId	ct%3DBgjHlOvcAxL1A6DBaQlMieRWEKGpeeWLblYrIaQfkpVGJEG4s8VBL_Q9ImgQGKX4xC-BZGgR6la3TnIIMpsplGmcoKoDbtHLqXZbd51-VB8HokwTRSolpUIgdw7ngW3i5dSxGbqXRl1ACopo7Q2JH0fy0c1dq4pgReHErtnnI1aJkbPe7Zm44SxDoDYB2wPx2BEvbL73F6iq_Fav4Z0KyXpjK2RAQnPYR_X8anMNci2m1vkw3SPqROcwCNeKG8t92-e4hrLwfp_yeL3byv7p5cPj1zEXVQPYMAQ1aCwK2FwiK9H_YLec51as3Z1k4sbzREN2cjjrPMl73YxEYSTtfj3P1jBFKcjkrHxyKFJxPUbqemEZ9OgvkMpnBd6_yAc_YXOJ7LgOUQqKtuDddQhSye_O_MGt4LgFqZz_MWi4lHJs4MtkhOUkpacCWYXpz9emwQ9VWmCKtLcuYl4ZKZS-XCE3ZG7lDBYH4v5KYLUO4oFOPKoJ1qXsbS_ZMV55F4q_fYulFsleZ7UrsNpUOGX4qo2HH6cxDhxhQUhGA_Re-dQWiHL3UkPw2OG-omWH0t0JWfDlJbB7-CWQO7INmoUhsH6d3qq8LvfynHkyh3uAwXaExEtmPu8qYmMWkbWJByQ6-cUZK4XLOrlGtvMpP-HJixZREbcOVwqFVCwQ_VtA8RgGIg4KDDo_n5lb3jBSTd2j_g..%26ch%3DAQEAEAABABSiUflRbZTvy06SygKhekhBhvUxJGOoxak.%26v%3D3%26pg%3DJITOHRPZ5FARXHLWRRBEII6RNA
+.netflix.com	TRUE	/	TRUE	1803775875	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiT84J0K8CTaGzc4VP0i6eOy4nbFAo6Ok.%26dt%3D1772239875558

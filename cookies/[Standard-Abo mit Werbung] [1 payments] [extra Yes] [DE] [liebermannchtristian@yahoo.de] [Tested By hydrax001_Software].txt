@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Schatz
+– Email: liebermannchtristian@yahoo.de
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: Dezember 2022
+– Next Billing: 2026-07-02
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4915203956191
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dark
+– User GUID: 3GSK632LRZANTEPWNKGPYO6SF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805741158	NetflixId	ct%3DBgjHlOvcAxKGBG5es1fkuc010cmSyGu4fcIdPrRiJxcfrEHgCiPj0Wr5UMtP3Cr-7PjaGyFAMDo_8Dd3i-j5DhbGHVgGYNCN3f6tRpJUI_To2g0PGDkX8RYMfxREiJfGNnunAPEI7O8FMLp8jkVAhs52fCOlKtX8d6cZJtGZXwtZt97FOJ-3sgnOYsKDfNjebskxVkxoU5n8O1o9YNSNg5fVMbgpEgmsQi8ow_3_i4Sy7svZrXlCG0RM2Oks3v8Q8PYmp7QAivw6LbmOWTJ0jjBffBvR5RsQOoYePavKEAMotOOMgXNRwz-NTHZBt5F-re-xUMcE6CNS2KdoJ4J4WVlblLq8ouOwhPOfDZY8RSV7J9fdvAlLUZUf8FsF-cgtUetgLiw-49dxgBWvuA5uk7bFQww4v19PXvzI6Hv9v4hafwt3RZCAe-JfSxikAQENbqpDqJvAJMi9_xKEdC0Jqe4DzunT6Zi7St7-7AN8OmurEFZC6B5FwjalnYxJUHchi8zL9rWjqiNrIUKt6l2IhmAU3GwvCGKlXEK-FpvJLNja3gvl997A3zQuROpPAm6fw641boRLlxvYWj5c0XnWXA-K35tjtpbT0aMGUYlq3WK8TYvqCrw7qSkLvX5-Rwqrsjxev2HuiiJOvexonjzBRr1dXsJjvq_Pooy_ULA81ne4BXiCmRoVm8beP6pNes9oGAYiDgoMyOsyxck4JrxaXdat%26ch%3DAQEAEAABABRbugZKB6sIiJS5F6-mqKMEhfU0kL3mbCk.%26v%3D3%26pg%3D3GSK632LRZANTEPWNKGPYO6SF4
+.netflix.com	TRUE	/	FALSE	1805741160	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+19%3A46%3A00+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a562a79-267e-4977-a57c-416af57faade&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BNI
+.netflix.com	TRUE	/	TRUE	1805741158	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRa8JrKLKngSVZ1qf77915iuW1-Sax-vbA.%26dt%3D1774205158997

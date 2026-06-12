@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fadhil
+– Email: fathima254@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: 2026-07-06
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: fathima254
+– User GUID: QOKE6NDRPZCZLBQBVDK4TJCEJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798084332	nfvdid	BQFmAAEBEJDFIsDTXT6_KLOPdrxyqSdgIGpo11hvszCFiyQ3X6v0AKSNqXDo0JcRMeYgAChlEUto0084zsgh-hARyM6gL49hYNMB2RSc4bHlstnFwzWwyz86MLGHJrbquertdeP6oWlDjs6a5CU9fQ-d7lD3sGnJ
+.netflix.com	TRUE	/	TRUE	1808307578	NetflixId	ct%3DBgjHlOvcAxLMA9X3-oBp7l9qf_nfbQJ14biJBYgUN5JC9NcNnB-k8zeFCigok5dT9gRrYsW-ZJ7Jl2UTzKszDmrKds9d9Rsjxcs51O7U-XBCUAN3s0GLUukozAHkek7eIZJxTSytvmhGKUj0YivkVqJJLvYRVtZm_jRoo0bssgUArynZUNgMX1QUPwRKooNZFA6FQVBOh9d54NwdCT0Y48P0COz4u42zbEMOQPjWxuVt_FZrSFXHB2tAd29arTw_GbvZrC8CpoQSd5yqqgF8CSwvGC1GMNxHwCIct0N0BStalJTfC8fzaQN6ee3bNOniuF56CTeBuBbqZR-aHie0SCNGKwL5sxHgeFD3llwky9Ml5oUIbh9SgLKLzc7HjY8Dfwu19C45_HW8R5YWo1CEu5qLHqIsyY3j09I5caJTSgF5F-MmZWbkh7P6PKiMVZMeK5iCVLfijLSdO9-RqrcD3RL7crILNg8QqR-w3nFxGvndZ4NON7lnUTxV7-2Wzp1Uj7gLo-Kt6Vvq_mzJA6irZIfcU2N1rvDOrhze3iNR7MmeCNwK90nrJNAMwjGonApaBILQCCqma2Y1MsCWc13jiXBV6fsbhqV8ZF-DRhYetz3jbpKa18QYBiIOCgzJjWlHLzOI6aNYCAs.%26ch%3DAQEAEAABABRdK8l1cbleH7AhQnnfcmESBfz_wEJblXk.%26v%3D3%26pg%3DQOKE6NDRPZCZLBQBVDK4TJCEJU
+.netflix.com	TRUE	/	TRUE	1808307578	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0I-ny4HLOyu8nbnEg34wmeOrSmOnJyiM.%26dt%3D1776771562217
+.netflix.com	TRUE	/	FALSE	1808307633	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+17%3A10%3A33+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6a753a86-b8f1-40c1-86e1-bc4e5c8051b6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769513459052&geolocation=IN%3BTN&prevHadToken=0
