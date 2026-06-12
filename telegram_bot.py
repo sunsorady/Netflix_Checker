@@ -127,6 +127,46 @@ def send_message(chat_id, text, parse_mode=None, keyboard=None):
         logger.warning(f"sendMessage failed: {e}")
 
 
+COUNTRY_FULL_NAMES = {
+    "IN": "INDIA", "US": "USA", "GB": "UK", "CA": "CANADA", "AU": "AUSTRALIA",
+    "DE": "GERMANY", "FR": "FRANCE", "IT": "ITALY", "ES": "SPAIN", "PT": "PORTUGAL",
+    "NL": "NETHERLANDS", "BE": "BELGIUM", "CH": "SWITZERLAND", "AT": "AUSTRIA",
+    "SE": "SWEDEN", "NO": "NORWAY", "DK": "DENMARK", "FI": "FINLAND", "PL": "POLAND",
+    "CZ": "CZECHIA", "SK": "SLOVAKIA", "HU": "HUNGARY", "RO": "ROMANIA", "BG": "BULGARIA",
+    "GR": "GREECE", "HR": "CROATIA", "SI": "SLOVENIA", "LT": "LITHUANIA", "LV": "LATVIA",
+    "EE": "ESTONIA", "IE": "IRELAND", "IS": "ICELAND", "LU": "LUXEMBOURG",
+    "JP": "JAPAN", "KR": "SOUTH KOREA", "CN": "CHINA", "TW": "TAIWAN", "HK": "HONG KONG",
+    "SG": "SINGAPORE", "MY": "MALAYSIA", "TH": "THAILAND", "VN": "VIETNAM",
+    "PH": "PHILIPPINES", "ID": "INDONESIA", "IN": "INDIA", "LK": "SRI LANKA",
+    "BD": "BANGLADESH", "PK": "PAKISTAN", "NP": "NEPAL", "MM": "MYANMAR",
+    "AE": "UAE", "SA": "SAUDI ARABIA", "KW": "KUWAIT", "QA": "QATAR", "BH": "BAHRAIN",
+    "OM": "OMAN", "JO": "JORDAN", "LB": "LEBANON", "IL": "ISRAEL", "TR": "TURKEY",
+    "EG": "EGYPT", "ZA": "SOUTH AFRICA", "NG": "NIGERIA", "KE": "KENYA",
+    "MA": "MOROCCO", "TN": "TUNISIA", "CI": "CÔTE D'IVOIRE", "GH": "GHANA",
+    "AR": "ARGENTINA", "BR": "BRAZIL", "CL": "CHILE", "CO": "COLOMBIA",
+    "MX": "MEXICO", "PE": "PERU", "EC": "ECUADOR", "UY": "URUGUAY",
+    "RU": "RUSSIA", "UA": "UKRAINE", "KZ": "KAZAKHSTAN",
+    "MO": "MACAU", "RE": "RÉUNION", "CV": "CAPE VERDE", "MD": "MOLDOVA",
+    "BA": "BOSNIA", "AL": "ALBANIA", "MK": "NORTH MACEDONIA", "MT": "MALTA",
+    "PR": "PUERTO RICO", "DO": "DOMINICAN REPUBLIC", "CR": "COSTA RICA",
+    "PA": "PANAMA", "GT": "GUATEMALA", "SV": "EL SALVADOR", "HN": "HONDURAS",
+    "BO": "BOLIVIA", "PY": "PARAGUAY", "TT": "TRINIDAD AND TOBAGO",
+    "JM": "JAMAICA", "BS": "BAHAMAS", "BB": "BARBADOS",
+    "ZW": "ZIMBABWE", "ZM": "ZAMBIA", "MW": "MALAWI", "MZ": "MOZAMBIQUE",
+    "AO": "ANGOLA", "UG": "UGANDA", "TZ": "TANZANIA", "ET": "ETHIOPIA",
+    "SN": "SENEGAL", "CM": "CAMEROON", "BI": "BURUNDI", "RW": "RWANDA",
+    "AZ": "AZERBAIJAN", "GE": "GEORGIA", "AM": "ARMENIA", "UZ": "UZBEKISTAN",
+    "BY": "BELARUS", "RS": "SERBIA", "ME": "MONTENEGRO", "XK": "KOSOVO",
+    "NZ": "NEW ZEALAND", "PG": "PAPUA NEW GUINEA", "FJ": "FIJI",
+}
+
+def full_country_name(code):
+    if not code:
+        return "??"
+    upper = code.strip().upper()
+    return COUNTRY_FULL_NAMES.get(upper, upper)
+
+
 def check_single_cookie(cookie_text):
     bundles = extract_netflix_cookie_bundles(cookie_text)
     if not bundles:
@@ -252,7 +292,7 @@ def process_cookie_async(chat_id, text, user):
         return
 
     plan = result_data.get("plan", "Unknown")
-    country = result_data.get("country", "??")
+    country = full_country_name(result_data.get("country"))
     mobile_link = result_data.get("mobile_link")
 
     logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
@@ -296,7 +336,7 @@ def process_get_netflix_async(chat_id):
         return
 
     plan = result_data.get("plan", "Unknown")
-    country = result_data.get("country", "??")
+    country = full_country_name(result_data.get("country"))
     mobile_link = result_data.get("mobile_link")
     cookie_file = result_data.get("file", "")
 
