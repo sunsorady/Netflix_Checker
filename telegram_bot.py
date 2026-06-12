@@ -53,7 +53,7 @@ awaiting_cookie = set()
 awaiting_admin_password = set()
 awaiting_broadcast = set()
 ADMIN_PASSWORD = "1509"
-COOLDOWN_SECONDS = 300
+COOLDOWN_SECONDS = 600
 
 USERS_FILE = "users.json"
 
