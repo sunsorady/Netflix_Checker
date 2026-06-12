@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Breahn
+#EMAIL          : jmiylo77@gmail.com
+#PHONE          : +16094910006
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2018
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0656)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 25 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-12 11:21:20
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783056513	nfvdid	BQFmAAEBEO5bcZHfRJ_B_mMvLoH760pgEcZTLQLRF5K5i4PlDeQtXeY2YJTgwdbgZ0cLg7LXPzhKC0hj5sa4jppLHAr85O8NuQbPzuy0Bej4Hh-DLvGaGRVCOGH7YdWeVztz8yyIrD2XUNFN42nPA9DVA8Kztqjz
+.netflix.com	TRUE	/	TRUE	1799560601	NetflixId	ct%3DBgjHlOvcAxLlAweijfbYkLt4S_zwAyYA2tepzwphbNn5WIV3EWLI6bxUwL45VUxAq-1BvVTnw7cjnZM-Q8KiFavCG3nEFYFny6VwY4ggH06U3YsjRqbdlHQwRFdEmpJIuZBGmIy9nNeDnfSn9vUjFbFzPgp0PANaQWWqsJUMMXB_NM4M-yvHqJAYl1LIQXIhYRCyS3ypqFRFaEFUGQUyXY3zVCSdQ4byaFTeze1ND15T18SvE0IKXKR0tmXkRHCwLnnufvHshDYD2pneyp2vFKaFby8yPyfoIIjF8cTODL_wFB4FsMi62FI-k52lHs5zm9COqfQH4wOTsS4dHumYZ2PmIiFfPcLXvNVtYFBf9ESfUr7EURY6HA-9AWiK3b6WXVSgwnnLqmJerrbl5ABUWj2NAHV5rHt5uEGH-ygrD0VTa8JMS4l5iuluudwyOhr3Za9yRNK2LbyVSebQxiZeUKqoq4DOiQ7lEs4Pkie9FCnbcTw_RVAAgtDhZjKQ5DpW8k5fKvYIYOBpiDhnfasHLqWYM5OFBvUlxFcf0ZIR-IP5TsQwRShdpAttao0WkYjvWnJcTd_lRJWKAy393lnhMxnPp0YRUIJaTWPg9d0ejUFN2-t0K4eLAtNKlqNJO8K7OwmHSJ4-ozPXZubIK8UfGAYiDgoMQr-QDWL7UctleH_I%26ch%3DAQEAEAABABT0V4zzITDZvuerw3MtzPqdGgVDkJGRBo8.%26v%3D3%26pg%3DXLLFJRMU7BCHHOKPV2RL7DJ5TA
+.netflix.com	TRUE	/	TRUE	1799560601	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTNg39kSbyw4ZFU2bE7n4gChHCL11wAwKg.%26dt%3D1768024601354
+.netflix.com	TRUE	/	FALSE	1783056513	netflix-sans-normal-3-loaded	true

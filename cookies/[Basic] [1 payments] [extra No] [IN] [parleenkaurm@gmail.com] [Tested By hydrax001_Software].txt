@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : parleen
+#EMAIL          : parleenkaurm@gmail.com
+#PHONE          : +917814303677
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-12 12:33:45
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1781194866	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1781194863	gsid	c8f7a22c-dd8a-4b98-a91d-aae656cf86d7
+.netflix.com	TRUE	/	FALSE	1812644785	nfvdid	BQFmAAEBEOWWz5ByUtBHpWB-tFwSRjtg9zvfF1E4Bz6OTiY6kcuBk0eIslHlvjpt9tbZeaL4-ULm1wZ6eT4ma8T23St5CDOTuJAr6d_Sd4Q37TrFSwcXGLPOzpykrJ4w1NFH4ZMczyqEvu0dUppn_9Jvd_hPQ9eh
+.netflix.com	TRUE	/	TRUE	1812697262	NetflixId	ct%3DBgjHlOvcAxK-A6sLPDdLFNb-oannQiZ3WAlzKiFotCPLydcYM7FbHp6rh0WGpNYd6AuTOnp3iXwqBIMdutK1lNetgIJ-1Qf0Ro9NoJtFP2iY361C00oDY8Z2prPwmqhB115Nk00L8zw1LGIF-AqJtFZaxwxhNqEo7rM-PMo42INyG8aGH8loYHe9wvni01tVUOunLRnN7GrX8FZe2yEiph0ndxjef4ye955A2yhlbCitfJ9X6WjFXmTSvVAlZ99c-T3fAhFBh9ZKLHQtryNwGDm7qufsVlVYcDznB2HSOcFoQz8yLdllW39nBSl8mIT64imUf8ForiUzBiNNtba6dEqNtapqWX9ua5SaIk2Pg6pANvyC0zElF_7y6pTO-ptTN6RYZJfQKQ_cGEXhu3Uq2utwdb9keFeXfaW6cbuh-hDZow677cixDWlDQpONW8FfcVpOzibt3l2cFfeR3JdBm3MLt7_xumH5jCI9UoULvoSCwqDZf7iZUPiQsZMfUfUHTb_E-BHlzRUIJ4OPP2QYW6eSksKxvHtxxA0jhLbpoLP5FQLmJK2eY2uFzbRvv0GBADIYRchKxFzUf8HlDaZheVnKSH7IrT7IGAYiDgoMqeS6zIipR1iHxon7%26ch%3DAQEAEAABABQFAD6YL_UZW7kb7sfSsg8yBQ5H4IQZGCg.%26v%3D3%26pg%3DXHZ2HNS3AVEOVDVZE2TI3ERSHM
+.netflix.com	TRUE	/	TRUE	1812697262	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJNqrjQ-49-wJwSKFxRD_ial42RuxT0SM.%26dt%3D1781161262462
+.netflix.com	TRUE	/	FALSE	1812697266	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+12%3A01%3A06+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4c69fdbc-a9c3-4fa2-897b-ae1c997df6ad&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781108481849&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1788937264	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788937264	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1788937264	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781163143	profilesNewSession	0

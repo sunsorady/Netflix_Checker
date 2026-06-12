@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Marcel
+#EMAIL          : lemanowiczklaudia7@gmail.com
+#PHONE          : +48799056833
+#EMAIL VERIFIED : Yes
+#CREATED        : marzec 2024
+#COUNTRY        : Poland 🇵🇱
+#PLAN           : Podstawowy [HD720p] [Streams: 1]
+#PAYMENT METHOD : ORANGE_POLAND_BILLED (0415)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-12 11:21:06
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1797110001	OptanonAlertBoxClosed	2025-12-12T21:13:21.186Z
+.netflix.com	TRUE	/	FALSE	1797110018	nfvdid	BQFmAAEBENIVyv3LiQjg0cvmK8wlAU5g9C2AvRTzUCLo1cWpvU8OdgMrXR6jyV-5PgLKLn0lA2xd5Y3WuwZB1bD_sXYme4B3qVn9sh29FitKkGldakG9IP63uNt38vJ9DpKGwT93nMEePn0OHqSySUKDfsEw2zBH
+.netflix.com	TRUE	/	TRUE	1809635065	NetflixId	ct%3DBgjHlOvcAxKGBEBNNJjhVzyILy7fOkbCf4ldB_kr028lI3E96UEueG3s4eM6bMA33jUzy44wooM40STApPFlZf4uO44TrQXkr-2oul8NgJmtYCrf5e2n_rGc3DrC8wmynDzCjiDh8GdZwbnGR0q1_rUZr2dwEinoVlOfs41kF87l2dkii-KkD_N5Eec0gU9Df1x9S7v5QmJsBDA2i5Wfis6pVqLEujlv6i71QCcx7GkTxJd_KHijFvhNpAy_ncIjcH3tMbHeHm83j-M-g0Hp_djae4Wa8akWCUuplKL5Nie4GBoAAO3B7_nqDWV4UoJt7CX1wuAgx4HUTEOeQMQK3AJrTYSiJVL9_47U_gcZlb5XxW3mROqLYxlMI6IDhUncdOC2tk5YJKhHntuhE1Tmgi0GwB4ke5fyfPPFjNSbaibYJggi-WMWDfH1Ed-0aYHqa4xZ0JFqE4L1SzikLQmObw6XxZXDUuX_KuCbLToOBjGyc8P8kUbkuynFc9m6Yj6cxNAZ1GB5CisiLP3nrNl0ob_0o3jAQnnY6quzgNllsAIH-9xJ8PBjm_n6i54FU5p9Na2YF2xn9USNBYNEAxoPSkbEjnSzU4m_1gLkDp5r-ksSLLc1X9Y1-czhkMuG1eINp0o5vAhl3acQGYzkk6ur9cZ9a089ldEBtiiE9X5vUfXOMWKf3Ctsvj8IQV51w0_CGAYiDgoMwL93LI5OcfAIoRgB%26ch%3DAQEAEAABABQo-kfxo1GQeSowL9R3t0HCxhIIWRgH9cg.%26v%3D3%26pg%3DHRJFARPVWFBMDJWDBQ5FYTTMYY
+.netflix.com	TRUE	/	TRUE	1809635065	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRu1S1CXq2XhJid52mbivF5LjgAbpaK8g.%26dt%3D1778099064492
+.netflix.com	TRUE	/	FALSE	1809644410	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+01%3A00%3A10+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a67cd14-dd3c-4218-a815-108906982f73&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B30&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785884406	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785884406	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : מיתר gg
+#EMAIL          : ayula777@gmail.com
+#PHONE          : +972504707630
+#EMAIL VERIFIED : Yes
+#CREATED        : דצמבר 2023
+#COUNTRY        : Israel 🇮🇱
+#PLAN           : סטנדרטית [HD] [Streams: 2]
+#PAYMENT METHOD : CC (4198)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-12
+#DAYS LEFT      : 29 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-12 11:27:54
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1768047271	gsid	51c9a536-26bb-451a-ae1d-1eb8c2f070a0
+.netflix.com	TRUE	/	FALSE	1799497594	nfvdid	BQFmAAEBEFcd4oBzjsVpZifhAG0ZdYFgm8FB5bNO2_SnznTo57HwzHl-JoaI4YMNE8STwa6tfmXnLcMvO53jd4zojPQeHNX_ElwoC0CxRakdV1UXxC6ZPp3Rf-xOuzCuMSGHsjyqewew5snfT6m6zBgKLqa23CWS
+.netflix.com	TRUE	/	TRUE	1799497674	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA9mHy45bawWjo8CB-6QCHCsULKEnAGD4eDpLiV5v3UEWsp2wpia5tjYCoMZ2CMA-JMUw1qTU7KxBfonNMO-_Dkw4tbo1ItywelK4dx6zIT6_QUP_l5W9eUDnoN6GIAQ0HvpWdJCc7sY9IoO_oICAAIMl0NvFimt-DvVj1VWLXcPeVkjzA2qLgEgqMuuBhAhZ7ZzX_KgWSENTcbfnrgiBzS7mGV8lOiTCsOHwNYSXWJkFExrqVKfGEOpKjHJh1Nu_WDBcjgdngCdYrXvA2zqGI1X4KYarqCmsW413Fd9OHrgfMvZAnoD9VAoWV93GBnKlZ6_rAkoejVm9hRFkxNXvw6rz4IjsNPFJuX-PsxRKaP56TxyQOk2VUBCtI6aeYbKnSzF4VbZuQe2ZVa3qtNG1ipWHjuF4P0l23pEwu3PoLvZjqe7TF-eKlTxRfyj1AJ9hXA8eA8qjco528JGFBBPOncpqoUobOSukZWaWA_sU1QuTaZCFgczeMA8tHxnC_61cGMPAmpQYBiIOCgzULZaJT8OTkoKN8hQ.%26pg%3DNNGGWQMR7RHCVP4M4KYT5SBSBQ%26ch%3DAQEAEAABABSGjUbKtFKzIh82Z-QfUfMKRIHqpqf4x6Y.
+.netflix.com	TRUE	/	FALSE	1799497675	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+14%3A27%3A55+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa4e6ce0-8a09-47a3-beba-2adbb71f7673&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799497674	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8lNjavtUodhn3z7OIToMwh-3SyuAh8Mk.%26dt%3D1767961673791
+.netflix.com	TRUE	/	FALSE	1775737675	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1775737675	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1768048754	profilesNewSession	0

@@ -1,30 +1,34 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: menaka
-– Email: menakaj1006@gmail.com
-– Country: IN
-– Plan: Standard
-– Member Since: May 2026
-– Next Billing: 2026-06-15
-– Payment: UPI
-– Card: N/A
-– Phone: +918122928934
-– Quality: HD
-– Streams: 2
-– Price: ₹499
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: menaka
-– User GUID: FZ2BB73KTJEOTHAXXUJLIKXYOE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : menaka
+#EMAIL          : menakaj1006@gmail.com
+#PHONE          : +918122928934
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-15
+#DAYS LEFT      : 2 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-12 12:22:48
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1811656682	nfvdid	BQFmAAEBEBwkhd8_2siTJitj9412lfBgER--Yc7_iH3H6fwZAaYyV29uRK5B9FUNaGBKt632O0U0_Ege9xbuW7kIDxDU4odKFvNNO0OwN424SGA-yV_7OzlDIPtBJEQ4mWtYTTu643N7MDldHS58uYY8mGUfomTQ
-.netflix.com	TRUE	/	TRUE	1812344213	NetflixId	ct%3DBgjHlOvcAxK0A_06cEa8Q8bcN20Y68bKJxxyptxP7S9YWC30_Y_uyXaeD_Oa29hcXd-o6L440J5Tp5uQv2eXt9dim4hjktvJhk3KCZHJzo149m7xoPQSHpGpHb7UJeY-GI4pEwJmqDpEFZ8LGPBQwHhl0oXVcK5kgFpQfXi0HLR2xTs5SgHrbVyjmWWgIH0MNnEFlzCMrOxDI0y26OdchExVzxsrHw_U36lOugMu8XfgQtpS7DmgJ8TbpFmCXQLtGP-nDMKpuhjtIEu4EVfWYz-Jc5VSRNC6KJh6EphsO3_ZlZ3inUbMlIjjgczUCw-A-sh5RvcGs6iwUDWp9VeO9c_5CaOLERox4kEyJtwqIkG3E4EWeJn49z26hcq3bzMeNeBqtADUZJg9DuSlDk6hXE1zuqdkzB2TI-JuWr2PCo0ZSPek0gFyMc6HLpLPedGD3oLEA9sDKNvlggmu5ndLq05TqEfzv3n8FCHnQMCAic0DluNimuoDsvV_SDQNh-pIuuWrgaP_0lQSLKecy-RUxOEmIlgSmtYBt2uFBLvjINAPWuvnEGb9Aw7JpjQei_jMWvqmr8hvJgnn0zB5ZkQYBiIOCgxkPavZdh6dWzhFAhw.%26ch%3DAQEAEAABABTmGKjIDKslbuHhpyvIn4Fnmwm4DoPFPpg.%26v%3D3%26pg%3DFZ2BB73KTJEOTHAXXUJLIKXYOE
-.netflix.com	TRUE	/	TRUE	1812344213	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT52tYU-oXqRFD9YSE1_ZGmgxXSvB4xp6Y.%26dt%3D1780808210144
-.netflix.com	TRUE	/	FALSE	1812349666	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+11%3A57%3A46+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=acc79f99-4ec8-46b7-a14b-85531d9bed0c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780333762503
+www.netflix.com	FALSE	/	FALSE	1780763514	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1780687919	flwssn	c748f2d0-4388-4b87-9603-248318fad142
+.netflix.com	TRUE	/	TRUE	1780763518	gsid	48f97327-51ea-483e-a429-1579fd25b58f
+.netflix.com	TRUE	/	TRUE	1812213169	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKQA18XiE1ZvQDdSOW1TaPup707Ue1yopzAuMYkl7KKBXIKt6svK-n6rQs96-CBiKv78B1DpwLA_zORy7syD7PLIuGH5LiGCbUWvLSa6W5cualnWGF588iG1ZZ1f8V5SpLESQUUl7EibhA6gdWU8_2jG0aBCcO_pXL3FfvZW0keMbPPeSwtOBeOsPbyEjyO85dNidLXATmwhjouNzetMY4bKzhDAV5tPRT7nNoAfNxGg9zpxfi4obp46oUD611DQmRBTo3pA5HoXaBwgs5RVE-5TFbHLZJyLJFA1KA6BwGAdNL5zL2AmCbEk0rwxVANoIsRpuTntN6ZaMstRp-brcq3iCznBs8h3g6i7z98edfCF1kOe_WA9U1VqqowH0_7baDm5MbnDish52SMOwm4ovaCOyErm54Ntp-It9Kn8ZcsX8x7BDFFTO-TRXjoZMs_kSkqjR2uXW_iEVyaW4G_cvmd9q3t2zgRThzCyy-WH9MRAKByTdlsdemjOxoJQeOFy0lzO_9XWkBmcBH3Ay8-k_d8hGQYBiIOCgz1i6rgjmneZJgx46U.%26pg%3DFZ2BB73KTJEOTHAXXUJLIKXYOE%26ch%3DAQEAEAABABTmGKjIDKslbuHhpyvIn4Fnmwm4DoPFPpg.
+.netflix.com	TRUE	/	TRUE	1812213169	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQT1ufPpFgQh3Q3qMKCuuvYbWvKDlosAaY.%26dt%3D1780677166784
+help.netflix.com	FALSE	/	FALSE	1780763936	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1812213546	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+22%3A09%3A06+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=acc79f99-4ec8-46b7-a14b-85531d9bed0c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780333762503
+.netflix.com	TRUE	/	FALSE	1788453545	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788453545	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788453545	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1780681316	profilesNewSession	0
