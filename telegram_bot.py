@@ -41,6 +41,78 @@ WEBHOOK_URL = os.environ.get("WEBHOOK_URL", "")
 
 app = flask.Flask(__name__)
 
+user_lang = {}
+
+LANG = {
+    "en": {
+        "menu": "\U0001f3e0 Menu",
+        "help_btn": "\u2753 Help",
+        "about_btn": "\u2139\ufe0f About",
+        "format_btn": "\U0001f4cb Format",
+        "guide_btn": "\U0001f4f1 Guide",
+        "lang_btn": "\U0001f1f7\U0001f1f1 KH",
+        "checking": "\u23f3 Checking cookie... Please wait.",
+        "alive": "\u2705 Cookie is LIVE!",
+        "dead": "\u274c Cookie is dead, try another.",
+        "plan": "\U0001f4e6 Plan",
+        "country": "\U0001f30d Country",
+        "mobile_login": "\U0001f4f1 Mobile Login",
+        "expires": "\u23f3 Token expires",
+        "no_link": "\u26a0\ufe0f Could not generate mobile link: {err}",
+        "start_msg": "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\nI check Netflix cookies and generate mobile login links.\n\n\U0001f447 Choose an option below or send a cookie directly:",
+        "help_msg": "\U0001f4ac <b>How to use</b>\n\n1. Get a Netflix cookie (Netscape .txt or JSON format)\n2. Paste it here as a message\n3. I'll check if it's valid\n4. If live, you get a mobile NFToken login link\n\n<b>Supported formats:</b>\n<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\txxx</code>\nor JSON array format.",
+        "about_msg": "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n\u2705 Checks Netflix cookies\n\U0001f4f1 Generates mobile NFToken login links\n\U0001f310 Free 24/7 hosted on Render\n\nJust send a cookie to get started!",
+        "guide_msg": "\U0001f4f1 <b>How to use the mobile link</b>\n\n\U0001f5a5 <b>Android:</b>\n1. Clear Netflix app cache or delete app data\n2. Copy the generated login link\n3. Paste into default browser\n4. Auto login to Netflix\n\n\U0001f4f1 <b>iPhone / iPad:</b>\n1. Logout from previous Netflix app account\n2. Copy the generated login link\n3. Paste into default browser\n4. Auto login to Netflix app",
+        "format_msg": "<b>Netscape format (.txt):</b>\n<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\tyourNetflixIdHere\n.netflix.com\tTRUE\t/\tTRUE\t0\tSecureNetflixId\tyourSecureIdHere</code>\n\n<b>JSON format:</b>\n<code>[{{\"domain\":\".netflix.com\",\"name\":\"NetflixId\",\"value\":\"xxx\"}}]</code>\n\nJust copy and paste the whole thing here.",
+        "cookie_text": "Cookie text:",
+        "language_set": "\u2705 Language set to English",
+    },
+    "kh": {
+        "menu": "\U0001f3e0 ម៉ឺនុយ",
+        "help_btn": "\u2753 ជំនួយ",
+        "about_btn": "\u2139\ufe0f អំពី",
+        "format_btn": "\U0001f4cb ទម្រង់",
+        "guide_btn": "\U0001f4f1 ការណែនាំ",
+        "lang_btn": "\U0001f1fa\U0001f1f8 EN",
+        "checking": "\u23f3 កំពុងពិនិត្យ Cookie... សូមរង់ចាំ។",
+        "alive": "\u2705 Cookie នៅរស់!",
+        "dead": "\u274c Cookie ស្លាប់ហើយ សូមសាកល្បងមួយផ្សេងទៀត។",
+        "plan": "\U0001f4e6 គម្រោង",
+        "country": "\U0001f30d ប្រទេស",
+        "mobile_login": "\U0001f4f1 ចូលតាមទូរស័ព្ទ",
+        "expires": "\u23f3 ផុតកំណត់",
+        "no_link": "\u26a0\ufe0f មិនអាចបង្កើតតំណភ្ជាប់បានទេ: {err}",
+        "start_msg": "\U0001f916 <b>Dan Sun - អ្នកពិនិត្យ Cookie Netflix</b>\n\nខ្ញុំពិនិត្យ Netflix cookies និងបង្កើតតំណភ្ជាប់ចូលតាមទូរស័ព្ទ។\n\n\U0001f447 ជ្រើសរើសជម្រើសខាងក្រោម ឬផ្ញើ cookie ដោយផ្ទាល់:",
+        "help_msg": "\U0001f4ac <b>របៀបប្រើប្រាស់</b>\n\n1. យក Netflix cookie (ទម្រង់ Netscape .txt ឬ JSON)\n2. បិទភ្ជាប់វានៅទីនេះ\n3. ខ្ញុំនឹងពិនិត្យថាតើវានៅរស់ឬទេ\n4. បើនៅរស់ អ្នកនឹងទទួលបានតំណចូលតាមទូរស័ព្ទ\n\n<b>ទម្រង់ដែលគាំទ្រ:</b>\n<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\txxx</code>\nឬ JSON array ។",
+        "about_msg": "\U0001f916 <b>Dan Sun - អ្នកពិនិត្យ Cookie Netflix</b>\n\n\u2705 ពិនិត្យ Netflix cookies\n\U0001f4f1 បង្កើតតំណចូលតាមទូរស័ព្ទ\n\U0001f310 ដំណើរការ 24/7 ដោយឥតគិតថ្លៃ\n\nគ្រាន់តែផ្ញើ cookie ដើម្បីចាប់ផ្តើម!",
+        "guide_msg": "\U0001f4f1 <b>របៀបប្រើតំណភ្ជាប់ទូរស័ព្ទ</b>\n\n\U0001f5a5 <b>Android:</b>\n1. សម្អាត cache ឬលុបទិន្នន័យកម្មវិធី Netflix\n2. ចម្លងតំណភ្ជាប់ដែលបានបង្កើត\n3. បិទភ្ជាប់ទៅក្នុង browser ធម្មតា\n4. ចូល Netflix ដោយស្វ័យប្រវត្តិ\n\n\U0001f4f1 <b>iPhone / iPad:</b>\n1. ចាកចេញពីគណនី Netflix មុន\n2. ចម្លងតំណភ្ជាប់ដែលបានបង្កើត\n3. បិទភ្ជាប់ទៅក្នុង browser ធម្មតា\n4. ចូលកម្មវិធី Netflix ដោយស្វ័យប្រវត្តិ",
+        "format_msg": "<b>ទម្រង់ Netscape (.txt):</b>\n<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\tyourNetflixIdHere\n.netflix.com\tTRUE\t/\tTRUE\t0\tSecureNetflixId\tyourSecureIdHere</code>\n\n<b>ទម្រង់ JSON:</b>\n<code>[{{\"domain\":\".netflix.com\",\"name\":\"NetflixId\",\"value\":\"xxx\"}}]</code>\n\nគ្រាន់តែចម្លង និងបិទភ្ជាប់វានៅទីនេះ។",
+        "cookie_text": "អត្ថបទ Cookie:",
+        "language_set": "\u2705 បានប្តូរទៅជាភាសាខ្មែរ",
+    },
+}
+
+
+def t(chat_id, key, **kwargs):
+    lang = user_lang.get(chat_id, "en")
+    text = LANG.get(lang, LANG["en"]).get(key, key)
+    if kwargs:
+        text = text.format(**kwargs)
+    return text
+
+
+def send_message(chat_id, text, parse_mode=None, keyboard=None):
+    url = f"{API_BASE}{BOT_TOKEN}/sendMessage"
+    data = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
+    if parse_mode:
+        data["parse_mode"] = parse_mode
+    if keyboard:
+        data["reply_markup"] = json.dumps({"keyboard": keyboard, "resize_keyboard": True, "one_time_keyboard": False})
+    try:
+        requests.post(url, json=data, timeout=10)
+    except Exception as e:
+        logger.warning(f"sendMessage failed: {e}")
+
 
 def check_single_cookie(cookie_text):
     bundles = extract_netflix_cookie_bundles(cookie_text)
@@ -118,30 +190,6 @@ def check_single_cookie(cookie_text):
     }
 
 
-def send_message(chat_id, text, parse_mode=None, keyboard=None):
-    url = f"{API_BASE}{BOT_TOKEN}/sendMessage"
-    data = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True}
-    if parse_mode:
-        data["parse_mode"] = parse_mode
-    if keyboard:
-        data["reply_markup"] = json.dumps({"keyboard": keyboard, "resize_keyboard": True, "one_time_keyboard": False})
-    try:
-        requests.post(url, json=data, timeout=10)
-    except Exception as e:
-        logger.warning(f"sendMessage failed: {e}")
-
-
-def remove_keyboard(chat_id, text, parse_mode=None):
-    url = f"{API_BASE}{BOT_TOKEN}/sendMessage"
-    data = {"chat_id": chat_id, "text": text, "disable_web_page_preview": True, "reply_markup": json.dumps({"remove_keyboard": True})}
-    if parse_mode:
-        data["parse_mode"] = parse_mode
-    try:
-        requests.post(url, json=data, timeout=10)
-    except Exception as e:
-        logger.warning(f"sendMessage failed: {e}")
-
-
 @app.route("/", methods=["GET"])
 def index():
     return "Dan Sun - Netflix Cookie Checker Bot is running."
@@ -156,10 +204,7 @@ def process_cookie_async(chat_id, text, user):
         return
 
     if not result_data["ok"]:
-        send_message(
-            chat_id,
-            f"\u274c Cookie is dead, try another.\n\n{result_data['error']}"
-        )
+        send_message(chat_id, f"{t(chat_id, 'dead')}\n\n{result_data['error']}")
         return
 
     plan = result_data.get("plan", "Unknown")
@@ -168,20 +213,20 @@ def process_cookie_async(chat_id, text, user):
 
     if mobile_link:
         msg_text = (
-            f"\u2705 Cookie is LIVE!\n"
-            f"\U0001f4e6 Plan: {plan}\n"
-            f"\U0001f30d Country: {country}\n\n"
-            f"\U0001f4f1 Mobile Login:\n{mobile_link}"
+            f"{t(chat_id, 'alive')}\n"
+            f"{t(chat_id, 'plan')}: {plan}\n"
+            f"{t(chat_id, 'country')}: {country}\n\n"
+            f"{t(chat_id, 'mobile_login')}:\n{mobile_link}"
         )
         if result_data.get("expires"):
-            msg_text += f"\n\n\u23f3 Token expires: {result_data['expires']}"
+            msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
     else:
         nftoken_err = result_data.get("nftoken_error", "Unknown error")
         escaped = text[:200].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
         msg_text = (
-            f"\u2705 Cookie is LIVE! ({plan} | {country})\n"
-            f"\u26a0\ufe0f Could not generate mobile link: {nftoken_err}\n\n"
-            f"Cookie text:\n<code>{escaped}</code>"
+            f"{t(chat_id, 'alive')} ({plan} | {country})\n"
+            f"{t(chat_id, 'no_link', err=nftoken_err)}\n\n"
+            f"{t(chat_id, 'cookie_text')}\n<code>{escaped}</code>"
         )
 
     send_message(chat_id, msg_text, parse_mode="HTML")
@@ -201,99 +246,52 @@ def webhook():
     chat_id = msg["chat"]["id"]
     user = msg["from"].get("first_name", "User")
 
-    if text == "/start" or text == "\U0001f3e0 Menu":
+    if text == "/language" or text == "\U0001f1f7\U0001f1f1 KH" or text == "\U0001f1fa\U0001f1f8 EN":
+        current = user_lang.get(chat_id, "en")
+        new_lang = "kh" if current == "en" else "en"
+        user_lang[chat_id] = new_lang
+        send_message(chat_id, t(chat_id, "language_set"), keyboard=[
+            [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
+            [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
+            [t(chat_id, "lang_btn")],
+        ])
+        return "ok", 200
+
+    if text == "/start" or text == t(chat_id, "menu"):
         send_message(
-            chat_id,
-            "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n"
-            "I check Netflix cookies and generate mobile login links.\n\n"
-            "\U0001f447 Choose an option below or send a cookie directly:",
-            parse_mode="HTML",
+            chat_id, t(chat_id, "start_msg"), parse_mode="HTML",
             keyboard=[
-                ["\u2753 Help", "\u2139\ufe0f About"],
-                ["\U0001f4cb Format", "\U0001f4f1 Guide"],
+                [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
+                [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
+                [t(chat_id, "lang_btn")],
             ],
         )
         return "ok", 200
 
-    if text == "\u2753 Help" or text == "/help":
-        send_message(
-            chat_id,
-            "\U0001f4ac <b>How to use</b>\n\n"
-            "1. Get a Netflix cookie (Netscape .txt or JSON format)\n"
-            "2. Paste it here as a message\n"
-            "3. I'll check if it's valid\n"
-            "4. If live, you get a mobile NFToken login link\n\n"
-            "<b>Supported formats:</b>\n"
-            "<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\txxx</code>\n"
-            "or JSON array format.",
-            parse_mode="HTML",
-            keyboard=[["\U0001f3e0 Menu"]],
-        )
+    if text == "/help" or text == t(chat_id, "help_btn"):
+        send_message(chat_id, t(chat_id, "help_msg"), parse_mode="HTML",
+                     keyboard=[[t(chat_id, "menu")]])
         return "ok", 200
 
-    if text == "\u2139\ufe0f About":
-        send_message(
-            chat_id,
-            "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n"
-            "\u2705 Checks Netflix cookies\n"
-            "\U0001f4f1 Generates mobile NFToken login links\n"
-            "\U0001f310 Free 24/7 hosted on Render\n\n"
-            "Just send a cookie to get started!",
-            parse_mode="HTML",
-            keyboard=[["\U0001f3e0 Menu"]],
-        )
+    if text == "/about" or text == t(chat_id, "about_btn"):
+        send_message(chat_id, t(chat_id, "about_msg"), parse_mode="HTML",
+                     keyboard=[[t(chat_id, "menu")]])
         return "ok", 200
 
-    if text == "\U0001f4f1 Guide" or text == "/guide" or text == "Guide":
-        send_message(
-            chat_id,
-            "\U0001f4f1 <b>How to use the mobile link</b>\n\n"
-            "\U0001f5a5 <b>Android:</b>\n"
-            "1. Clear Netflix app cache or delete app data\n"
-            "2. Copy the generated login link\n"
-            "3. Paste into default browser\n"
-            "4. Auto login to Netflix\n\n"
-            "\U0001f4f1 <b>iPhone / iPad:</b>\n"
-            "1. Logout from previous Netflix app account\n"
-            "2. Copy the generated login link\n"
-            "3. Paste into default browser\n"
-            "4. Auto login to Netflix app",
-            parse_mode="HTML",
-            keyboard=[["\U0001f3e0 Menu"]],
-        )
+    if text == "/guide" or text == t(chat_id, "guide_btn"):
+        send_message(chat_id, t(chat_id, "guide_msg"), parse_mode="HTML",
+                     keyboard=[[t(chat_id, "menu")]])
         return "ok", 200
 
-    if text == "\U0001f4cb Format":
-        send_message(
-            chat_id,
-            "<b>Netscape format (.txt):</b>\n"
-            "<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\tyourNetflixIdHere\n"
-            ".netflix.com\tTRUE\t/\tTRUE\t0\tSecureNetflixId\tyourSecureIdHere</code>\n\n"
-            "<b>JSON format:</b>\n"
-            "<code>[{\"domain\":\".netflix.com\",\"name\":\"NetflixId\",\"value\":\"xxx\"}]</code>\n\n"
-            "Just copy and paste the whole thing here.",
-            parse_mode="HTML",
-            keyboard=[["\U0001f3e0 Menu"]],
-        )
-        return "ok", 200
-
-    if text == "/about":
-        send_message(
-            chat_id,
-            "\U0001f916 <b>Dan Sun - Netflix Cookie Checker</b>\n\n"
-            "\u2705 Checks Netflix cookies\n"
-            "\U0001f4f1 Generates mobile NFToken login links\n"
-            "\U0001f310 Free 24/7 hosted on Render\n\n"
-            "Just send a cookie to get started!",
-            parse_mode="HTML",
-            keyboard=[["\U0001f3e0 Menu"]],
-        )
+    if text == t(chat_id, "format_btn"):
+        send_message(chat_id, t(chat_id, "format_msg"), parse_mode="HTML",
+                     keyboard=[[t(chat_id, "menu")]])
         return "ok", 200
 
     if text.startswith("/"):
         return "ok", 200
 
-    send_message(chat_id, "\u23f3 Checking cookie... Please wait.")
+    send_message(chat_id, t(chat_id, "checking"))
     logger.info(f"Checking cookie from {user} ({chat_id})")
 
     threading.Thread(
@@ -320,6 +318,7 @@ def set_webhook():
         {"command": "help", "description": "How to use the bot"},
         {"command": "about", "description": "About this bot"},
         {"command": "guide", "description": "How to use mobile link"},
+        {"command": "language", "description": "Switch language/ប្តូរភាសា"},
     ]
     requests.post(commands_url, json={"commands": commands}, timeout=10)
 
@@ -336,7 +335,6 @@ def setup_route():
     return f"Failed: {result}", 500
 
 
-# Auto-setup webhook on startup when env vars are present
 if os.environ.get("BOT_TOKEN") and os.environ.get("WEBHOOK_URL"):
     BOT_TOKEN = os.environ["BOT_TOKEN"]
     WEBHOOK_URL = os.environ["WEBHOOK_URL"]
