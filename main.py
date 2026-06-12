@@ -3460,6 +3460,7 @@ def main():
     print("            👉  Welcome, after moving your cookies to (cookies) folder, press  👈")
     print("                              Enter if you're ready to start!")
     input()
+    print("\n⚠️  This is the latest Cookies you can use: https://t.me/dansmethod/374\n")
 
     initial_files = [
         f for f in os.listdir(cookies_folder)
