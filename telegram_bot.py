@@ -4,6 +4,7 @@ import logging
 import os
 import random
 import threading
+import time
 from datetime import datetime, timezone, timedelta
 
 import flask
@@ -47,6 +48,8 @@ WEBHOOK_URL = os.environ.get("WEBHOOK_URL", "")
 app = flask.Flask(__name__)
 
 user_lang = {}
+cooldowns = {}
+COOLDOWN_SECONDS = 300
 
 LANG = {
     "en": {
@@ -61,6 +64,7 @@ LANG = {
         "get_netflix_checking": "\U0001f3b2 Picking a random cookie and checking...",
         "no_cookies_left": "\U0001f4ad No cookies left in the pool.",
         "cookie_removed": "\U0001f5d1\ufe0f Dead cookie removed from pool.",
+        "cooldown": "\u23f3 Please wait {minutes}m {seconds}s before using this again.",
         "alive": "\u2705 Cookie is LIVE!",
         "dead": "\u274c Cookie is dead, try another.",
         "plan": "\U0001f4e6 Plan",
@@ -88,6 +92,7 @@ LANG = {
         "get_netflix_checking": "\U0001f3b2 កំពុងជ្រើសរើស cookie ចៃដន្យ និងពិនិត្យ...",
         "no_cookies_left": "\U0001f4ad គ្មាន cookie នៅសល់ក្នុងបញ្ជីទេ។",
         "cookie_removed": "\U0001f5d1\ufe0f Cookie ស្លាប់ត្រូវបានដកចេញពីបញ្ជី។",
+        "cooldown": "\u23f3 សូមរង់ចាំ {minutes}នាទី {seconds}វិនាទី មុនពេលប្រើម្តងទៀត។",
         "alive": "\u2705 Cookie នៅរស់!",
         "dead": "\u274c Cookie ស្លាប់ហើយ សូមសាកល្បងមួយផ្សេងទៀត។",
         "plan": "\U0001f4e6 គម្រោង",
@@ -401,6 +406,15 @@ def webhook():
         return "ok", 200
 
     if text == t(chat_id, "get_netflix_btn"):
+        now = time.time()
+        last = cooldowns.get(chat_id, 0)
+        elapsed = now - last
+        if elapsed < COOLDOWN_SECONDS:
+            remaining = int(COOLDOWN_SECONDS - elapsed)
+            minutes, seconds = divmod(remaining, 60)
+            send_message(chat_id, t(chat_id, "cooldown", minutes=minutes, seconds=seconds))
+            return "ok", 200
+        cooldowns[chat_id] = now
         send_message(chat_id, t(chat_id, "get_netflix_checking"))
         threading.Thread(
             target=process_get_netflix_async,
