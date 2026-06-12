@@ -50,7 +50,34 @@ app = flask.Flask(__name__)
 user_lang = {}
 cooldowns = {}
 awaiting_cookie = set()
+awaiting_admin_password = set()
+awaiting_broadcast = set()
+ADMIN_PASSWORD = "1509"
 COOLDOWN_SECONDS = 300
+
+USERS_FILE = "users.json"
+
+def load_users():
+    if not os.path.exists(USERS_FILE):
+        return []
+    try:
+        with open(USERS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+def save_users(users):
+    try:
+        with open(USERS_FILE, "w", encoding="utf-8") as f:
+            json.dump(list(dict.fromkeys(users)), f)
+    except Exception as e:
+        logger.warning(f"Failed to save users: {e}")
+
+def add_user(chat_id):
+    users = load_users()
+    if chat_id not in users:
+        users.append(chat_id)
+        save_users(users)
 
 LANG = {
     "en": {
@@ -81,6 +108,12 @@ LANG = {
         "guide_msg": "\U0001f4f1 <b>How to use the mobile link</b>\n\n\U0001f5a5 <b>Android:</b>\n1. Clear Netflix app cache or delete app data\n2. Copy the generated login link\n3. Paste into default browser\n4. Auto login to Netflix\n\n\U0001f4f1 <b>iPhone / iPad:</b>\n1. Logout from previous Netflix app account\n2. Copy the generated login link\n3. Paste into default browser\n4. Auto login to Netflix app",
         "format_msg": "<b>Netscape format (.txt):</b>\n<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\tyourNetflixIdHere\n.netflix.com\tTRUE\t/\tTRUE\t0\tSecureNetflixId\tyourSecureIdHere</code>\n\n<b>JSON format:</b>\n<code>[{{\"domain\":\".netflix.com\",\"name\":\"NetflixId\",\"value\":\"xxx\"}}]</code>\n\nJust copy and paste the whole thing here.",
         "cookie_text": "Cookie text:",
+        "admin_btn": "\U0001f6e1\ufe0f Admin",
+        "enter_password": "\U0001f511 Enter admin password:",
+        "wrong_password": "\u274c Wrong password.",
+        "broadcast_prompt": "\U0001f4e2 Enter the broadcast message to send to all users:",
+        "broadcast_sent": "\u2705 Broadcast sent to {count} users.",
+        "broadcast_sending": "\u23f3 Broadcasting message to {count} users...",
         "language_set": "\u2705 Language set to English",
     },
     "kh": {
@@ -111,6 +144,12 @@ LANG = {
         "guide_msg": "\U0001f4f1 <b>របៀបប្រើតំណភ្ជាប់ទូរស័ព្ទ</b>\n\n\U0001f5a5 <b>Android:</b>\n1. សម្អាត cache ឬលុបទិន្នន័យកម្មវិធី Netflix\n2. ចម្លងតំណភ្ជាប់ដែលបានបង្កើត\n3. បិទភ្ជាប់ទៅក្នុង browser ធម្មតា\n4. ចូល Netflix ដោយស្វ័យប្រវត្តិ\n\n\U0001f4f1 <b>iPhone / iPad:</b>\n1. ចាកចេញពីគណនី Netflix មុន\n2. ចម្លងតំណភ្ជាប់ដែលបានបង្កើត\n3. បិទភ្ជាប់ទៅក្នុង browser ធម្មតា\n4. ចូលកម្មវិធី Netflix ដោយស្វ័យប្រវត្តិ",
         "format_msg": "<b>ទម្រង់ Netscape (.txt):</b>\n<code>.netflix.com\tTRUE\t/\tTRUE\t0\tNetflixId\tyourNetflixIdHere\n.netflix.com\tTRUE\t/\tTRUE\t0\tSecureNetflixId\tyourSecureIdHere</code>\n\n<b>ទម្រង់ JSON:</b>\n<code>[{{\"domain\":\".netflix.com\",\"name\":\"NetflixId\",\"value\":\"xxx\"}}]</code>\n\nគ្រាន់តែចម្លង និងបិទភ្ជាប់វានៅទីនេះ។",
         "cookie_text": "អត្ថបទ Cookie:",
+        "admin_btn": "\U0001f6e1\ufe0f អ្នកគ្រប់គ្រង",
+        "enter_password": "\U0001f511 បញ្ចូលពាក្យសម្ងាត់អ្នកគ្រប់គ្រង៖",
+        "wrong_password": "\u274c ពាក្យសម្ងាត់ខុស។",
+        "broadcast_prompt": "\U0001f4e2 បញ្ចូលសារផ្សាយដើម្បីផ្ញើទៅកាន់អ្នកប្រើប្រាស់ទាំងអស់៖",
+        "broadcast_sent": "\u2705 បានផ្សាយរួចរាល់ {count} អ្នកប្រើប្រាស់។",
+        "broadcast_sending": "\u23f3 កំពុងផ្សាយសារទៅកាន់ {count} អ្នកប្រើប្រាស់...",
         "language_set": "\u2705 បានប្តូរទៅជាភាសាខ្មែរ",
     },
 }
@@ -329,6 +368,19 @@ def process_cookie_async(chat_id, text, user):
     send_message(chat_id, msg_text, parse_mode="HTML")
 
 
+def send_broadcast(admin_chat_id, message_text):
+    users = load_users()
+    send_message(admin_chat_id, t(admin_chat_id, "broadcast_sending", count=len(users)))
+    sent = 0
+    for uid in users:
+        try:
+            send_message(uid, message_text, parse_mode="HTML")
+            sent += 1
+        except Exception as e:
+            logger.warning(f"Broadcast failed to {uid}: {e}")
+    send_message(admin_chat_id, t(admin_chat_id, "broadcast_sent", count=sent))
+
+
 def process_get_netflix_async(chat_id):
     try:
         result_data = get_random_cookie_and_check()
@@ -390,16 +442,18 @@ def webhook():
         current = user_lang.get(chat_id, "en")
         new_lang = "kh" if current == "en" else "en"
         user_lang[chat_id] = new_lang
+        add_user(chat_id)
         send_message(chat_id, t(chat_id, "language_set"), keyboard=[
             [t(chat_id, "get_netflix_btn")],
             [t(chat_id, "paste_cookie_btn")],
             [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
             [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
-            [t(chat_id, "lang_btn")],
+            [t(chat_id, "lang_btn"), t(chat_id, "admin_btn")],
         ])
         return "ok", 200
 
     if text == "/start" or text == t(chat_id, "menu"):
+        add_user(chat_id)
         send_message(
             chat_id, t(chat_id, "start_msg"), parse_mode="HTML",
             keyboard=[
@@ -407,7 +461,7 @@ def webhook():
                 [t(chat_id, "paste_cookie_btn")],
                 [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
                 [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
-                [t(chat_id, "lang_btn")],
+                [t(chat_id, "lang_btn"), t(chat_id, "admin_btn")],
             ],
         )
         return "ok", 200
@@ -431,8 +485,35 @@ def webhook():
         return "ok", 200
 
     if text == t(chat_id, "paste_cookie_btn"):
+        add_user(chat_id)
         awaiting_cookie.add(chat_id)
         send_message(chat_id, t(chat_id, "send_cookie_prompt"),
+                     keyboard=[[t(chat_id, "menu")]])
+        return "ok", 200
+
+    if chat_id in awaiting_admin_password:
+        awaiting_admin_password.discard(chat_id)
+        if text == ADMIN_PASSWORD:
+            awaiting_broadcast.add(chat_id)
+            send_message(chat_id, t(chat_id, "broadcast_prompt"),
+                         keyboard=[[t(chat_id, "menu")]])
+        else:
+            send_message(chat_id, t(chat_id, "wrong_password"),
+                         keyboard=[[t(chat_id, "menu")]])
+        return "ok", 200
+
+    if chat_id in awaiting_broadcast:
+        awaiting_broadcast.discard(chat_id)
+        threading.Thread(
+            target=send_broadcast,
+            args=(chat_id, text),
+            daemon=True,
+        ).start()
+        return "ok", 200
+
+    if text == t(chat_id, "admin_btn"):
+        awaiting_admin_password.add(chat_id)
+        send_message(chat_id, t(chat_id, "enter_password"),
                      keyboard=[[t(chat_id, "menu")]])
         return "ok", 200
 
