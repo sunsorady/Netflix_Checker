@@ -55,6 +55,11 @@ awaiting_broadcast = set()
 ADMIN_PASSWORD = "1509"
 COOLDOWN_SECONDS = 600
 
+REQUIRED_CHANNEL = "@dansmethod"
+CHANNEL_LINK = "https://t.me/dansmethod"
+MEMBER_CACHE_TTL = 3600
+member_cache = {}
+
 USERS_FILE = "users.json"
 
 def load_users():
@@ -162,6 +167,24 @@ def t(chat_id, key, **kwargs):
         text = text.format(**kwargs)
     return text
 
+
+def is_channel_member(chat_id):
+    now = time.time()
+    if chat_id in member_cache:
+        if now < member_cache[chat_id]:
+            return True
+    try:
+        url = f"{API_BASE}{BOT_TOKEN}/getChatMember"
+        resp = requests.post(url, json={"chat_id": REQUIRED_CHANNEL, "user_id": chat_id}, timeout=10)
+        result = resp.json()
+        if result.get("ok"):
+            status = result["result"]["status"]
+            if status in ("member", "administrator", "creator"):
+                member_cache[chat_id] = now + MEMBER_CACHE_TTL
+                return True
+    except Exception as e:
+        logger.warning(f"Failed to check channel membership for {chat_id}: {e}")
+    return False
 
 def send_message(chat_id, text, parse_mode=None, keyboard=None):
     url = f"{API_BASE}{BOT_TOKEN}/sendMessage"
@@ -441,6 +464,18 @@ def webhook():
     text = msg["text"].strip()
     chat_id = msg["chat"]["id"]
     user = msg["from"].get("first_name", "User")
+
+    if not is_channel_member(chat_id):
+        for s in (awaiting_cookie, awaiting_admin_password, awaiting_broadcast):
+            s.discard(chat_id)
+        msg_text = (
+            "\u26a0\ufe0f <b>Channel membership required!</b>\n\n"
+            "You must join our channel to use this bot.\n\n"
+            f"\U0001f449 <a href=\"{CHANNEL_LINK}\">Join @dansmethod</a>\n\n"
+            "After joining, send /start again."
+        )
+        send_message(chat_id, msg_text, parse_mode="HTML")
+        return "ok", 200
 
     if text == "/language" or text == "\U0001f1f7\U0001f1f1 KH" or text == "\U0001f1fa\U0001f1f8 EN":
         current = user_lang.get(chat_id, "en")
