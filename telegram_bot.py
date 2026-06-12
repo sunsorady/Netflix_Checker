@@ -49,12 +49,15 @@ app = flask.Flask(__name__)
 
 user_lang = {}
 cooldowns = {}
+awaiting_cookie = set()
 COOLDOWN_SECONDS = 300
 
 LANG = {
     "en": {
         "menu": "\U0001f3e0 Menu",
         "get_netflix_btn": "\U0001f3ac Get a Netflix",
+        "paste_cookie_btn": "\U0001f4cb I paste cookie myself",
+        "send_cookie_prompt": "Send me your cookie text now.",
         "help_btn": "\u2753 Help",
         "about_btn": "\u2139\ufe0f About",
         "format_btn": "\U0001f4cb Format",
@@ -83,6 +86,8 @@ LANG = {
     "kh": {
         "menu": "\U0001f3e0 ម៉ឺនុយ",
         "get_netflix_btn": "\U0001f3ac យក Netflix",
+        "paste_cookie_btn": "\U0001f4cb ខ្ញុំបិទភ្ជាប់ cookie ដោយខ្លួនឯង",
+        "send_cookie_prompt": "ផ្ញើអត្ថបទ cookie របស់អ្នកមកឥឡូវនេះ។",
         "help_btn": "\u2753 ជំនួយ",
         "about_btn": "\u2139\ufe0f អំពី",
         "format_btn": "\U0001f4cb ទម្រង់",
@@ -387,6 +392,7 @@ def webhook():
         user_lang[chat_id] = new_lang
         send_message(chat_id, t(chat_id, "language_set"), keyboard=[
             [t(chat_id, "get_netflix_btn")],
+            [t(chat_id, "paste_cookie_btn")],
             [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
             [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
             [t(chat_id, "lang_btn")],
@@ -398,6 +404,7 @@ def webhook():
             chat_id, t(chat_id, "start_msg"), parse_mode="HTML",
             keyboard=[
                 [t(chat_id, "get_netflix_btn")],
+                [t(chat_id, "paste_cookie_btn")],
                 [t(chat_id, "help_btn"), t(chat_id, "about_btn")],
                 [t(chat_id, "format_btn"), t(chat_id, "guide_btn")],
                 [t(chat_id, "lang_btn")],
@@ -423,6 +430,12 @@ def webhook():
         ).start()
         return "ok", 200
 
+    if text == t(chat_id, "paste_cookie_btn"):
+        awaiting_cookie.add(chat_id)
+        send_message(chat_id, t(chat_id, "send_cookie_prompt"),
+                     keyboard=[[t(chat_id, "menu")]])
+        return "ok", 200
+
     if text == "/help" or text == t(chat_id, "help_btn"):
         send_message(chat_id, t(chat_id, "help_msg"), parse_mode="HTML",
                      keyboard=[[t(chat_id, "menu")]])
@@ -445,6 +458,10 @@ def webhook():
 
     if text.startswith("/"):
         return "ok", 200
+
+    if chat_id not in awaiting_cookie:
+        return "ok", 200
+    awaiting_cookie.discard(chat_id)
 
     send_message(chat_id, t(chat_id, "checking"))
     logger.info(f"Checking cookie from {user} ({chat_id})")
