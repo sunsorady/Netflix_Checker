@@ -210,7 +210,7 @@ def webhook():
             parse_mode="HTML",
             keyboard=[
                 ["\u2753 Help", "\u2139\ufe0f About"],
-                ["\U0001f4cb Example Format"],
+                ["\U0001f4cb Format", "\U0001f4f1 Guide"],
             ],
         )
         return "ok", 200
@@ -244,7 +244,26 @@ def webhook():
         )
         return "ok", 200
 
-    if text == "\U0001f4cb Example Format":
+    if text == "\U0001f4f1 Guide" or text == "/guide" or text == "Guide":
+        send_message(
+            chat_id,
+            "\U0001f4f1 <b>How to use the mobile link</b>\n\n"
+            "\U0001f5a5 <b>Android:</b>\n"
+            "1. Clear Netflix app cache or delete app data\n"
+            "2. Copy the generated login link\n"
+            "3. Paste into default browser\n"
+            "4. Auto login to Netflix\n\n"
+            "\U0001f4f1 <b>iPhone / iPad:</b>\n"
+            "1. Logout from previous Netflix app account\n"
+            "2. Copy the generated login link\n"
+            "3. Paste into default browser\n"
+            "4. Auto login to Netflix app",
+            parse_mode="HTML",
+            keyboard=[["\U0001f3e0 Menu"]],
+        )
+        return "ok", 200
+
+    if text == "\U0001f4cb Format":
         send_message(
             chat_id,
             "<b>Netscape format (.txt):</b>\n"
@@ -300,6 +319,7 @@ def set_webhook():
         {"command": "start", "description": "Show menu and start"},
         {"command": "help", "description": "How to use the bot"},
         {"command": "about", "description": "About this bot"},
+        {"command": "guide", "description": "How to use mobile link"},
     ]
     requests.post(commands_url, json={"commands": commands}, timeout=10)
 
