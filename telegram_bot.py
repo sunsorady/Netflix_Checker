@@ -476,7 +476,7 @@ def process_cookie_async(chat_id, text, user):
     mobile_link = result_data.get("mobile_link")
     pc_link = result_data.get("pc_link")
 
-    logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
+    logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie for other people"
 
     if mobile_link or pc_link:
         msg_text = (
@@ -536,7 +536,7 @@ def process_get_netflix_async(chat_id):
     pc_link = result_data.get("pc_link")
     cookie_file = result_data.get("file", "")
 
-    logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
+    logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie for other people"
 
     if mobile_link or pc_link:
         msg_text = (
