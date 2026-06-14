@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Felix
+#EMAIL          : nicoschipper@gmx.de
+#PHONE          : +4367761857034
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2018
+#COUNTRY        : Austria 🇦🇹
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-04
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1788804813	OptanonAlertBoxClosed	2025-09-07T18:13:33.614Z
+.netflix.com	TRUE	/	FALSE	1794682989	dsca	customer
+.netflix.com	TRUE	/	FALSE	1797353758	nfvdid	BQFmAAEBEFEaqvOBULM5c7U4Ae_WlQ5g63wJaJg6prBWoiXEKW-3I-n1AvpAd-KHf0ko2DTiyIOPHV-GO0LOZIebF7sUJS9XivwEkcpkwH4U2VCQoDrfwo6LGkpmiRwkHZxhBD1f8PAFLBBU1J16rTkTKC3i_3z-
+.netflix.com	TRUE	/	TRUE	1805729907	NetflixId	ct%3DBgjHlOvcAxKFBBGdUJMpgNkIybzHH7EMX-5jRiQ6t6YCVKdWHuoPS_Dj5UZP794DYHY6kcPFPXtuKoFxSCVAb_maJ5WSYh6tZMu9Hkr_G_oHINlLtp8iuJMEEKS-1gQXTo-JlxegIOydEHmb1wXmzdmkCb6jXlpN2I2iPUkrO7X6lPxRoazJ0uxXUmEaZXcuVWNOcZ3N9yY4uiENUCxmCr7hif2IP0-brPkVqv7-qxVWJ5VTnlYY1xPvuZ0pT7gea-54rcBqqZHVBAlZbWspQbRG_BHKi1Vr2kSdj4v7yTe9V1m9d6chI9LDL6ge7LQjqi14GFfGM9_GZlZMPCN4LPQY0lxcgU85bt4_oa7HZom0GfbPpKK2wlmz_FDBKs49DPbOcIGQaJyyx9ox0lcdQ951Bo-vysF_R0XXcbnlkekYlRpYVG73vdPU57uK2RkE8hkR82EsHbgTz_1AhfGmHDIaLpaLhjoB_SUo7zo83ogq00Bd_GzlexDycu9mUU1-M5WAVK9rzuHxFfZoPxOg5l4-8z-KwN3noU7TJHI3AqWH96vM9oi-ugYRz0nXQENc7VH6j59dNoqBD-ika35hDD5zmmPQRuI5uTj4lrgICMgmUzx9PKLdFcXHe0-E68YXfYPO_lPoKcuZjb-Ked-ea86YFWYhHzmK4uGAHhVWPE4iWZin6Ly1QGJeESEZJ38YBiIOCgyS7tVCgbOf1o1jMSo.%26ch%3DAQEAEAABABQAnfHiKS0W10BB__scTTt0KGZDBLQhcE0.%26v%3D3%26pg%3DD45X7NFPQNH7BPPM3BJSTP2K74
+.netflix.com	TRUE	/	FALSE	1805729908	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+16%3A38%3A28+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92bc05ab-7418-421f-b6d0-e97264c2c5e4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=AT%3B5&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805729907	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfDaUMvbXXK0Nhv3D5sMt7ta6Z5wMCzb4.%26dt%3D1774193908326
+.netflix.com	TRUE	/	FALSE	1781969908	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781969908	netflix-sans-normal-3-loaded	true

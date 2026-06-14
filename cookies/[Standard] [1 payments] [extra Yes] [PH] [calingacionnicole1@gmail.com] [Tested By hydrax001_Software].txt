@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ateeee
+#EMAIL          : calingacionnicole1@gmail.com
+#PHONE          : +639937324432
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-21
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:42
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808123564	nfvdid	BQFmAAEBEEkA1aDISOSf29PrikK85Glg-OBOd_Q8eHIl56TJQ1QgJP1BHW9v96ajFmVkNxq-z4mxJ4teeWoykc24YyDtb8c8yJpXMaklAdudd2hnlc1NKWWZ2mg2_wxa1xfYtrMewHCr3ShybU1qKVnH-Y35Q5VF
+.netflix.com	TRUE	/	TRUE	1808649992	NetflixId	ct%3DBgjHlOvcAxKEBOmhCwteuPPRgxQsurAS3-wqEo52_F0Lk9MsNg214PLLtUn4HqqHBYsrg1lkNxe1-2ED8VeQGTAZv161iD6I_uFCIJM6jDv-15NtqzM4W5b9vIfmHydsR_pzsAoRNMuX5T5gicLsCc_b9aDXGyLTRPnMpJIwiu1dv11qPSr4Q6nWQiMP55_lhYF_La7xmoeNvHWHUVsqU0395bC-urSJ8YZUK2DoYXHMSVMvNDXcgpFLQqkqvNmucIAXK9hQC09TG0ggqOgotLD6G2rC-kCj3wtmxBhLE4NXdQ7ZbuHx6_uIb5uQP8RiVi5AWn16ACLfsBn2_0nYWOeImvf82WMg_YYGjFdd-uJvMtQZOEXhCtPUnyVsEu0kf4mejduAuvdXJW3Cm0xQiCrrMTdWiyhvdEr8jHzTAAyOznrzPEmrrPFrUIAp5doI56IdCUYrgVL3WvhPN6HklGfSKUnHeVjg_4lzjDx6_1LZ8VuAMi_mIm0Q3dhvqLfvVUkL9KmmahLxCZ1x1ekg_6Hzcwu7y_UkWKGoMnotYvDGQgoDeQ-x6nqpkHXanKRrpAd9vO7chznGvWPh4NBzXSu9FpGUqEFJgI7etqCD1qXmjdsZJ0IQPigvHR-r7oGbPPEWfrIpwTYIa_bdGccvATzf3liCFUQsz4fRtZ8wHrBavD4u3hD6rT6FgqCBcBgGIg4KDLlQfCGTvuAF9VKylA..%26ch%3DAQEAEAABABQz17mUDVuaWuRHJWY7WHpLgEvC3MXNUiA.%26v%3D3%26pg%3DQWQ22JKNAVHEXJTLC5MZW5KVXA
+.netflix.com	TRUE	/	FALSE	1808649993	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+18%3A46%3A33+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe017db0-b8f3-45eb-8f0e-8f982f46908e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776587564383&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808649992	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8uAWt5jI-L7poRb2nDntYup8MGMgvYtw.%26dt%3D1777113993041
+.netflix.com	TRUE	/	TRUE	1783056511	gsid	202e5f16-672f-454d-887a-d01eac7b3402
+.netflix.com	TRUE	/	FALSE	1784889992	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784889992	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784889992	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

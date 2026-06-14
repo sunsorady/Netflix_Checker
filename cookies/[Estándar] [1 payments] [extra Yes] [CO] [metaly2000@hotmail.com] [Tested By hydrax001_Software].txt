@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Chicho2
+#EMAIL          : metaly2000@hotmail.com
+#PHONE          : +573104019610
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2026
+#COUNTRY        : Colombia 🇨🇴
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : CC (0124)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-20
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:37
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1782529600	nfvdid	BQFmAAEBEEhlGXs-WGQYUG-NETDfBaxgeDz-AMLWXmMGSZ74vqx8tx00BAMnX8iJBOq3qQPXBComTdOoZS2LFeO6w8FF6fO511EMhXAWzzG15OWZFEQAOecyqkAPT-80cVnsLtKl0RdlFjL2O4WqdXQ8jq-bZKd5
+.netflix.com	TRUE	/	TRUE	1797312619	NetflixId	ct%3DBgjHlOvcAxLoA69hHwQ4ZZO-qLsMrDzv7DZMwx8PwUCUk5NhV_8T6nvOZOw443AUBC4G9Eujk6zlqnM8G_dLNV5MIvf41JlemyAq_wiWHg9rEAkNKTm26i2Gq_WAdEHo_retxZqM3sus5IIVdur9-_PE5M6TFF-vaVzkRkhYPCoNNCTfRNk-7FKegcKNbOmMVjoKh_eEHdUv_nqsraH8pqR1zHhw2Pcxg1-J8NYcj_ED66ncuMl1QAPE9mXDg8kcbVyp88-iVj88qNoZyJV4ELM3tSVOqhVFgPmB4FGc8ymwQd6p08AFrKiwwJq4Vp_v7qdwuCpdFJXu1ZkgqU37GiB-B4nVJJESf1h9psiy_FlPDtbtXsH-gzMQEwSutKVqsZ-uQoyH_H5PoAnB9Fm1TV_3ymqIkfIZ1s2hnpoPFse4wPz3P0_uKUc9GfYkEd-7HWLLti3J02drvl_TJN9x79CMJXdPPai1ka4roK8gsjrjEgo7O_S_J0GgADn8FYpD1aOUhwc6-j4Qdkj0tGQz_B9xiJoJvL9Si68n4NoXt2RSx8cVk3CVxk82NrkK2S4yZO2DCiNuDR6JBFt5aurn7JJDGTXyCFNsgKDo5z7tPdnv-6EcDbKdIhrbhqLR8-HsR8KbbsdrIlQ6T6xRFGsndnmTGAYiDgoMKfneUMi3N1B0o-FF%26ch%3DAQEAEAABABRZSYJvLgM1L0Oq7IyBCHTYRZq0uQ-a8rw.%26v%3D3%26pg%3D5KHPYPCS4ZGIFNHF5MYAKBUQX4
+.netflix.com	TRUE	/	FALSE	1797312622	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+15+2025+00%3A30%3A22+GMT-0500+(Colombia+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8a348e9-4a44-4e79-af4c-5bc24cae9e97&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797312619	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZaTgSlBRWjQK0LdHqxn-M5aEi5y-37Pk.%26dt%3D1765776619212
+.netflix.com	TRUE	/	TRUE	1783056507	gsid	ca92d9b9-95cf-4952-bea4-5cec390a0ffc
+.netflix.com	TRUE	/	FALSE	1783056507	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056507	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056507	profilesNewSession	0

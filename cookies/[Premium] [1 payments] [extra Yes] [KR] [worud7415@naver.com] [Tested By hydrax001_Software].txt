@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : 12
+#EMAIL          : worud7415@naver.com
+#PHONE          : +821049349087
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2024
+#COUNTRY        : South Korea 🇰🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-12
+#DAYS LEFT      : 28 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:50
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1787415407	nfvdid	BQFmAAEBEP2Q67jqiv6CSdF185RM7HdgxU99dDu-k0fD6cN_wH2sfxX1l_64OrTxyEN0votbOimEgxX01cqK39L00D2bmNJCPp90ZCYdBqlcSUPSJgMJ538wnBYJ-Xn-Ten8BPWRXFXjy4faTlfwN47frr0AiVum
+.netflix.com	TRUE	/	TRUE	1787438187	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAgdUjuow_jPqcIEPfn2GM3g7a-tO3HmdiSYpz_bL8VR-4AMaHfn33Nc_YInoQtqPIWv3162fQFNbVdqMxcPe7U93KLs8rV9KcGHYjGhd0pJpb7hQPgIRFlxIAVeOzrhQhMixg2vuaSPqmvmzxvELCdK0T4rIoVbAJu-e5cfoGuZgASf_PEOy1uUn9cYLXf8J6hXW5Umce9sOVkW4okEd1kGbPdCJ94xJ1qXnBY3NTE7N1m43vZV03i4WOktDsco6iE5rl-SrI9ctMvm0DaFNH-vgPpfmiXpaly8IhKa67fpDG_UuYxPup7gkbHhQtP6SHDk3Vx3kXvfzil60c-yJLdQ4kv2NDpAbSScW_IMXMHfusgmk0iOcD--ORhwynj-Wv9cQ2I17wMEUvixgi-BRsMq4LgmWdluMuNFtrqFw2fIsiyu4yQxDzZcyEjosDMk_Z3Q-IPfzl9S45Ht7oqsmR3mB82G2XQTdn1VsXLNZucIjGAYiDgoMTE0D3ihhqG4Lkq5d%26pg%3DJEK6RW5XAZBFFO6RGKCR2FBQDU%26ch%3DAQEAEAABABS-EK0m5cxPJUvjvw-PG0WsTS3x_O9nvJY.
+.netflix.com	TRUE	/	TRUE	1787438187	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS-58hF68I6tgEB6ReBJ5KO3_ctWEx6-Ak.%26dt%3D1755902132093
+.netflix.com	TRUE	/	FALSE	1787438329	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+23+2025+05%3A38%3A49+GMT%2B0700+(Indochina+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca6ab8f9-fac8-42ca-a0ff-8e18626a1c34&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

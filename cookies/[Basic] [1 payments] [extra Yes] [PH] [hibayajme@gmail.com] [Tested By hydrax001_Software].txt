@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Abujinnn
+#EMAIL          : hibayajme@gmail.com
+#PHONE          : +639919555512
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2026
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:15:37
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1806212742	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1837662342	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+23%3A45%3A42+GMT-0600+(Mountain+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd2b268c-0f48-4efe-9e87-a18e09786095&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772891938810&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806212740	gsid	afba378a-abbb-41eb-b31d-ab8684b8e523
+.netflix.com	TRUE	/	TRUE	1837662339	NetflixId	ct%3DBgjHlOvcAxKyA-u__wqQLHyPPUFF4GYQpdc2Wvbq7998JfPjDi9ojMKFOliZ87axGhjM-8GbB0l2WZDPLR0RebsBJwPQbID8UNKdhgNRTeWKFATcuylYj2Z1lB3aC33OhPnHYfRuAfn844sE995kcKqiSCJJq9rarc77uAG3oVdLtdRn1-27jQi3oYxKib6fcY_dqDZslZazLk9acAoqGB5GfXFfh-AoasmFTtlNcfkq_uZSL52CeGl2vF3qbAldttgF--oRr5B5fmoR7yKPnuo3jiYFjaQR2dWMBjSjZlSfwKN6LqwTLWZekiOwbn_ytgjLSmXHTxr-vUq7WZWQXWwfW6bc-QHGYgnkCSgIIqiyQJbUQP-HQu_ocPvlJIu29x3GdJ3S_falmtYuIqXfbwoGmJWQaDdVJsn9-km6D9nWdO4uCBlzGJZXINVLSIcjcmWjxZot77rF7VAx-FimjSotyTi62EDcXQt9gm44DEMPFiCQdpeIZcbb5PhasSD0keiTWUyHCE_nSzF72Flc4ODPqB6RXHLLiK-I1tboS5CUaIC8Mdi19Pmn21kpLZk7ZHsYhhiwGzx46qlIGAYiDgoM4lSmKyLEuA48gpts%26ch%3DAQEAEAABABS4Koo1pky8TsamrXMwPs1U2xLC1oLB_Cs.%26v%3D3%26pg%3DY7VCDUJBE5FKLJKRCLIOBIMPIM
+.netflix.com	TRUE	/	TRUE	1837662339	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9MkqKLrToO0SPpGKAL9LZw5Utwb2W9TM.%26dt%3D1774503940214
+.netflix.com	TRUE	/	FALSE	1806137139	flwssn	5d1a4521-a432-497a-a0f5-7f024128d724
+.netflix.com	TRUE	/	FALSE	1836050445	nfvdid	BQFmAAEBEOLW1f7D0zoeJuVS1KCpf91gYdzSepQnfHw0nIjEs4VWZ2W2TfwHJaCNvrvZkkz3kB6tL3lOdQ2pZbTmKOm8eeXXP6ybwb7O4wIxC9uVOUvm8b4F94qufIvSKbUBh8mYwoy8DLn8ncMCiF-8zRvvc9ak
+.netflix.com	TRUE	/	FALSE	1813902340	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1813902340	netflix-sans-normal-3-loaded	true

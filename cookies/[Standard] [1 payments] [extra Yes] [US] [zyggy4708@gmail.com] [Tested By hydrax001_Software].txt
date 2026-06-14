@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : TY
+#EMAIL          : zyggy4708@gmail.com
+#PHONE          : +19282961295
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2025
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7695)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 02:04:37
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783908009	nfvdid	BQFmAAEBEKQSDhAVD_SmD6e22LcNVClgsP0jXMwE2rVn8TFOtW6wY5qbn8UHD9Ij0VkkBctBvKiGpgBif_nkSQ4ciLYIRIDDS6kfba8DUd63KdoKH5ZCsJx0Ledg6dAiUs4iFPBjzund4cLQ53X7oibG6NF9S0S8
+.netflix.com	TRUE	/	FALSE	1802795945	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+09%3A39%3A05+GMT-0700+(Mountain+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9410cea9-4da7-46cf-b29a-3d2fa58b7def&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802795944	NetflixId	ct%3DBgjHlOvcAxLfA0zQd7qg-GNPtCEdfj6395O08Aa8N_2IiR_WTNPRPq5wWiRuN7HnZSajpimMwUrUiFvouLCz1AAtp0Vf2EeOot_CEGl2SOCUBnaLbjmW_gnCMtB__lr6IfajNiyw58--P-kkzsyT9v_iPko--3vkrG7jDa4kEUZ71YVoEWbqyTbkprbYLXxH6hbZedhDENovVTa-dwwjhYcQXVQeg3STpoYuTp_DuGzeC82ScZLB4yG9VPvH-eLPLgoaSQezfrd61Op7E1S4mzOn5bfr4Hf7KSzfXHWgwveAI9L-f85WJajQgdSTtOvCDAwUMUuEvcMnpvxupxRolX-uYE6D4dQAxXxSJMbtrzDxVWGx4ty7e65IBIySGbkeVjgO9V688j8vwhUKUi0D9eWWBUbMO9xoTS8FpeUqLIxY7A8_HNNsudY8n_-LrTnATzuMpILtlqs9z0cRuY0o1CedKInv25tcXncHeTPPVsdde1E1FF1WmarO2RJW-5xzoEaeLll-6JBvaDV7H6750x2h601eUGXWDP31BRV7k_GiLid0L_tp4SBfp3NZc88ndoQ-FghSahCwsTDlYMWOaByq78wxwJiQyvNm2PEm2rhD0sE5YjOonZY-bHOvQLhvkAf3UlfmR2t6GAYiDgoM8Uedh1eSbGuNLfvI%26ch%3DAQEAEAABABSCoL9jeZRtKdyC9pKmX3TWb1ZHQjfzpM8.%26v%3D3%26pg%3D5W4ZRMSNQBHVTAQ3RJI4SUGBH4
+.netflix.com	TRUE	/	TRUE	1802795944	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_3S7dtN60-DujkOQAYcWAUUpnqliE88o.%26dt%3D1771259949120

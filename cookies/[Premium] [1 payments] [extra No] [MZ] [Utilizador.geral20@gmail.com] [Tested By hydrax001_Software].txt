@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Dennqueemel
+#EMAIL          : Utilizador.geral20@gmail.com
+#PHONE          : +258844339259
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2020
+#COUNTRY        : MZ
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3392)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-07
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:51
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1805809018	nfvdid	BQFmAAEBEA01eDzAvh-yTYjlTdLlE25geZkcdOX7q0dt5KXmaRdl7It_iNrXxxEFi5Ub34k5z-7yi3exnPatirtFcsPgRZQLUnQtccedhR76tRVI2Gxq74_nImApir4A9uErJfK3eqLeW7UfGXs-vj6vpYovkoU0
+.netflix.com	TRUE	/	TRUE	1809354898	NetflixId	ct%3DBgjHlOvcAxK5A9Y_3dhRiEwccPyWguqu9tpb-OWDAujgd-EAb5k1S8aRfzo15q7ekkRIpaOMB_3zZs4J2X6gkGg0yT0c5bVRT0dVN3MFvIWQaEuZkBKeTXZN-LNVK_-yFFz5fX4ZxluEgPo0qz0vUuYyHELaWtcXQkHPEmDFiU2w13Xf8MYOEUNypBHEKlDAWUScpv9ATHbuCod00sEhBu8or9-H5zbMIHr3z_CpiLY5M1h65rKBqlXoJzqDx_tPnfPs_r0M2DGIyefIv7N8OWFc1jJ_ey5nYuvm6Gb5k2FZh_N9dpHezNnrb0FwF4d8Vz47xFNiHTFAYO-uPH7TQghz5KW2kPMdRp0SE7ST_2kzotI5bPpMoSQskRFzIk6fojiqufjRJJWyrKp3B-HrYlfoRlyVOgps9z1b7DWT3TKu_jgmcDt1Ua1v4Gpq6zzsFPEctZynlkMn-HH8YAXYDTHFaUKWBaSH9I3HGwX4isj84YHnsAkow14wc247lFif-PrZzvgviMa8S11tJIyZ6S7-TTWUhhzrj5EAjUs_2EEsI9tdgHmi_K9mvodhJnyLFLM5jxRbnnM8zXTKVb8IAGvaoRgGIg4KDBCIoz2VyghP0UMU0Q..%26ch%3DAQEAEAABABRwDmMu3sIa0sNSuwultFTVO77BNhqlXrc.%26v%3D3%26pg%3DYRXHU4KTVJFQHJUXFMVRFCYLZI
+.netflix.com	TRUE	/	FALSE	1809354900	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+16%3A35%3A00+GMT%2B0200+(Central+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8a83d610-3ae6-4ef6-a36b-0bee8b4a8a06&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774272619275&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809354898	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpzyxn0JCk-AZsxorK2Wp0GSQaVMGp8J8.%26dt%3D1777818900556
+.netflix.com	TRUE	/	TRUE	1783056510	gsid	7d8bd6e1-e94d-446a-ae1a-59ba7afd56bc
+.netflix.com	TRUE	/	FALSE	1785594899	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056510	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783056510	profilesNewSession	0

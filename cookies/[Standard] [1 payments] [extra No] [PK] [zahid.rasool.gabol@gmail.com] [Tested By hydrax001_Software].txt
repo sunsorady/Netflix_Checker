@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : shafay
+#EMAIL          : zahid.rasool.gabol@gmail.com
+#PHONE          : +923317360858
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2025
+#COUNTRY        : Pakistan 🇵🇰
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7826)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 00:22:07
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798165939	nfvdid	BQFmAAEBEIa_cy2Ng9zK5eAY8erSQ1VghLd-HnKwa24kup1owH_hdhwBwYt2x-3VB0XFNFAIP5P8BHJd9lrZLvPoNl65WULsvx46aShsF22oG0L7flPPb-LUJwggs8iL12cFlBSOTldzZOwoFlqk0Q87omJ8KhdC
+.netflix.com	TRUE	/	TRUE	1801366673	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwTgrg-sR0Hdk1fguAz-BgRWbetUXJG6M.%26dt%3D1769830673065
+.netflix.com	TRUE	/	TRUE	1801366673	NetflixId	ct%3DBgjHlOvcAxLnAyrUXNLVoQYX1950x2v9POwBT0a6h1EpbUgN1QwY_bjv3KC62qNiegxaVEHHd2X5OAqjzGS_-4yB9MfoAZBS-G2NKX8gFPi2A-IZ82hcNlQLX1i7qJFpsgLtepvhYYe9EpjCeqgTOZ4rzg4_CGD5k8RPvnE4cgIQBfq4s2qlVrOQsscKZzdTrGD6yrtJdvKmsri71dbR82pgohm6QbuRQj5z_eFms18uix-Sf2raVT2EPNhRL_S-kDp6KtneSI6mJiSAEYGkgwYRCHdIE_eLWQ5EmOb8bV9K3Qga1KnrHRs-2-ga6E4KLC03Z9UEK4D3-8lky7RLKQLLLjHzuywAxhj1Im34bPR9Ri8Cv7PI5FII7SK-edf9kpHY6m9hRJSvzEf33A1rVGeRpLzTvVVJXjEl7U3OSgtSu6FFDgQ4ceQMTocY80-AaZYHhbonMX1T1eS20HlXhdSHoSggX7mudcTTebbs-Lh8bzAjfNV9GEw73fXxb5Rd1xG8lzpidR1kvTJYDs6XUeq5td_nF5kLut8mQUhsT_NQ-tzn-eGwJ4h6sN28P9nYv9b2TgZ0Gp5xHQjApR7va4YohU7Zp0vdvfGQYJ7b3veXrA1YiqstldvWV4RYOmbqstZFZkg_xzQmVKoHmjoyxiUYBiIOCgwjQOoqxs9zN5DH118.%26ch%3DAQEAEAABABSR4nvdBvgVAbTbglL4bTehw4ajAXJtBwg.%26v%3D3%26pg%3DUUJGJFG44VATVJA3KRXHJMOEPI
+.netflix.com	TRUE	/	FALSE	1777606717	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777606717	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1801366718	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+08%3A38%3A38+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=350dec3f-e949-45ca-9ce5-a98e067f57ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+secured.netflix.com	FALSE	/	TRUE	1804390729	thx_guid	08f6cc38cf6bfd36505b539d9eaafe86
+secured.netflix.com	FALSE	/	TRUE	1804390740	tmx_guid	AAzgHclqGItFlErabIIWsaGYvTX5jkbodUiOgLxNE8uo1W0bFRpCY7PVM_NaUaPNe-6CCMQj5Bz9k7edQsK-pea5EdJoiA

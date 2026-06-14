@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : 김민균
+#EMAIL          : kia1026@naver.com
+#PHONE          : +821098536340
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 7 năm 2024
+#COUNTRY        : South Korea 🇰🇷
+#PLAN           : Tiêu chuẩn có quảng cáo [HD] [Streams: 2]
+#PAYMENT METHOD : NAVER_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:02:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1786339201	nfvdid	BQFmAAEBEGfgND3MP03QjxOt1uzA68Zg_WkwiSYOGT5EnsGJRYk6NtzFqI8sCPl7j8MeqG8lfTsi2MTzTVjEQ9JEhMOWmGwM_b9RAObfsn40ITvVt43dCkS63iLZ5H3OW0IxxKMNVwLkxIH4pOrQ9X4tld0Qpp5Z
+.netflix.com	TRUE	/	TRUE	1778419718	gsid	7208323b-d216-4188-b379-580218c76a48
+www.netflix.com	FALSE	/	FALSE	1778419719	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1809923774	NetflixId	ct%3DBgjHlOvcAxKMBB-QxIQigIXQMymmD_OT3eIOC-vM7VB8U3X38_wyflQrCWnw25DxI5uz9pcJnordDgCifoh2ejTp-cVT1daDDGVuGBxm8VOgxmT5fPBOkLd_Djw-fBXIsyaWaiLIKDjOKFkHJ8LWqmGo6YFL0Cdg9fqMXzTglz3QbjnilUoESHNx9zKH2e2ZG3AlUcv0UOrcjJmeitHRGQnVlXFIgarDKugWjxdKVg6YP4GGqp4gI5jxeqeFyc_FriCDxKSnfVyk1rJ_nt8n3C7Qx69JpzWjcmcdCc9Y8nQ2AyJkXM_yi8KaH0kbREE6BlaHNqZ8ZGn7r2B2EvdmPvugIkOv5M8khY9KuKr3IK2ZcyYbtodGJpWQyl254-w0UN9mhw_eF5VKGkypyWw2ZYV9j9gnwZS664KXSusyOQdcXVDeHV4mmLv0s6fRjeBkVoBo3mcRSxK0Uvh2pdpeoUeuEhGdPCPsv6aTsagMsSAq9EQLXU810fos4NMkaAKEIi0bGErKFsWCltwzcNCZ5lHJkYvtrIaxrc1FoyIql_bMtPGInaXPrsnhsvDkbJs6SxMibO1FeMzEWxko0NiEO3Ed5jmEy80pyRDKHU4rfYExvD5gRtuJ2z5FNV0CHWEh7tq72_IFKlYQlMk13D0UUaB3Szm_G35CWqQHTeS3IW49yReNpONgBm3G2kHv8quBLzoxmZJsGAYiDgoMtZ7o-NbaAb8j_UBj%26ch%3DAQEAEAABABRcJch2zSB7QksCgos25MhbbVy1UUVl0MA.%26v%3D3%26pg%3DY7AX27KBXRCXVK7TI5OR44ZB34
+.netflix.com	TRUE	/	TRUE	1809923774	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLyun4CUMtg8Qcyuh7_-vntTmpJ6PGvVg.%26dt%3D1778387775993
+.netflix.com	TRUE	/	FALSE	1809937739	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+17%3A28%3A59+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a7fa0143-c5dd-4041-b47e-07c449e24e0f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786177737	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786177737	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1778403685	profilesNewSession	0

@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Arthur/Feioso
+#EMAIL          : cintiajesuino3@gmail.com
+#PHONE          : +552192966005
+#EMAIL VERIFIED : Yes
+#CREATED        : março de 2017
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7509)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-19
+#DAYS LEFT      : 5 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:32:03
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1799632278	OptanonAlertBoxClosed	2026-01-11T01:51:18.061Z
+.netflix.com	TRUE	/	FALSE	1799632275	nfvdid	BQFmAAEBEGwehQXG3r2zwTtPRsjKcdZgDwwH1umybF_7bYhT2-j7v6jfuxFc5VxEzccwnQqj12-YcfGazPQh3z7uek79xp8eUwSyhoh9eo84XTe88VToQTn5xf_ykT1_2QumCNY0JXY2A3Q8cEiZXXKwcRI8PU6j
+.netflix.com	TRUE	/	TRUE	1810139670	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuSXNb6FoBthF_5dnOgzeFKH1gIMr0kQU.%26dt%3D1778603654285
+.netflix.com	TRUE	/	FALSE	1810139671	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+13%3A34%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=52257ea4-e249-4870-b5b0-da21e07e5dd1&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false&crTime=1768096278557&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786379670	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786379670	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1810139670	NetflixId	ct%3DBgjHlOvcAxKLBO1WMZcqDjw0yYML6QbNbYua_mUI-jcc9k411a2Zlolz48GzH8slg7sFKiA_HitKwqkl5hIx0wNCDn3Yyf_OULQDSyKvd045nTek7Dr8FY2lyP3lw-JOvazOr-Vb63hJqzbKRbmpY9Jo8jhERpqFl_e_XDZcexEJvEhzl71wbfH-Z3yRKyG25vN9S8uY8j3TC5axPYEibrI_dw3pedIW0W92ZWhHaTo7Z-tInp4Ow6R4PT2486tzsMrUarQTofYXXRze1tsg40-qmxSelgVF6i5h7djNel7YxaE5oyUIjTzONKzfWqO1Oj9aJ2-C_PPNYqSlwseIqjSqYL3it5_wGvIZBvsxbaN3nYC8KJfRkyS3bFkdgLZBnRErv8KLRZl0nPKCa-4V-cpa4anQHBjMY0ttmtV_dznKFibZWRGFbHOhd2kIyTYWVJqhVDDBqrr4WJ28OCN4C7qQ6xUuEV3zvNOzJjGtqnYbMdAwgRg-NGzdPai0HXuztCopJ4pSwCpJMasIOLeA9mDpfxNxK-FKE-4R0UKt4ZeXdv0ucdj7rTD4rEunwPPrpU4UnYU37KPwI6li0r4AQ40eHehXKhuE_l3tyBwB0XpTcjXQCHS6Cnk_jcUzfhTdskW0sfrwvW7gJups3FMyTiiIAGHjYFFXsnVAEj5rSUkEb2G0jzVrPDotj-ObPFkqBXrdrHUYBiIOCgykhMVOqVtsWq1N7AE.%26ch%3DAQEAEAABABTMSS9Yi3Zb7DTJOvgQedHTgBrz8lrqzRg.%26v%3D3%26pg%3DWM3WHY2UGJCGBN67K3MBM7EPPI

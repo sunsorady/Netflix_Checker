@@ -1,0 +1,24 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Vinc
+#EMAIL          : smony03@yahoo.it
+#PHONE          : +393407645330
+#EMAIL VERIFIED : Yes
+#CREATED        : dicembre 2019
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard con pubblicità [HD] [Streams: 2]
+#PAYMENT METHOD : CC (1606)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-20
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:32:09
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1800638679	NetflixId	ct%3DBgjHlOvcAxLwAz6QwzdJ_xzprPFFEpSIfTOUpbNy1CNLPBmghyVEGiTskysrsL4f2Xn_8npKaQx6tydG1gSNfttPmupvrV_rlxgQZJ8Bo4ObTUpIp1kkCg5IRu3Cx_41WgxhoyyasCvKNAqx_8kojprOmNn3NCKZkxpb1R9g8O1RLhSm5gB-9sA0f_-Ko7RBxmPjU9yb3VD4TVBUZT3N-ZiO3OMFX7WsqlZ9W3YFCUikqs8Tg4q-8ou8sWA_wVu6Snxh40_jRi3Rt9YA-6E_AtHGdeNIJm5cj8fdlXK77l5rG3U8WtT7HUm7EoMhx73Dy0NcwHOeR2Crf6NpXs9ghL8D84cVXseYaposlgf-vgVigqV-MgjQl5keZaV-dzJDOHBA9L8-onXANucz3NoZvPR8GpuNX4SHphzxynWP1YY6VdZS9Aea8LMwqxL_AQvc0wFLiRz0K1vdHhgn24UvEji9QKFGrvq6p1tOG2yruknAWDQZN8PUKsSEGriGV2kFuV6Nb0j8sZKtC05StBYpknqVRr77_YILIa3q-Vj5UDaonVFGMvVUM06hEAlb25i7G7pzIfSYYXFLE-SfHg0sn4yySbNMUlcBHtRJSEZyqHTAdKy6Si5iWNpHHLYROO1cRfeTx91xsn6y04S_-PwO2mqMsUktDHCOsd4YBiIOCgxF8Z68VknenMPaX1w.%26ch%3DAQEAEAABABT5IoaGjhNCrLVJ04rWjZrwOsNiK7_cT_g.%26v%3D3%26pg%3D273YU4CKGFF6BFZZTMM7V3OGKQ
+.netflix.com	TRUE	/	TRUE	1800638679	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSsN2CmXme7nSDaTRHqPKVHZv9uYTdNxCk.%26dt%3D1769102679220

@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Manuel RENDI
+#EMAIL          : grupkita2023@gmail.com
+#PHONE          : +6285296749415
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2023
+#COUNTRY        : KH
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (8967)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-15
+#DAYS LEFT      : 0 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:05:06
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798526834	nfvdid	BQFmAAEBENCIQVfVpQZ-kXorZJdbenRg3YFuDdLWc--sK7YKp_upTqLXo_fQEO_lFzFHI3SVnfi5oUtv1x5mynLMAx8wBHH7vO2uf1Y79a7WczNSqT8iboilnNoXQ-8Fs7BsfWWJXTpBsd7NifU4qnI1RWSbLlmm
+.netflix.com	TRUE	/	FALSE	1807017039	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+20%3A10%3A39+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=beb86749-3425-40d3-9301-5459b19ab4c6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807017037	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaPWRGCZ5ij5DRbUwfBS05S2LAvLd-_RA.%26dt%3D1775481037251
+.netflix.com	TRUE	/	TRUE	1807017037	NetflixId	ct%3DBgjHlOvcAxKBBCSAZtx5qsGmOIfgZMmAmjJzbxMJ73GZH5MJENsmzyR1fxPeQV8WDFxMgC-vfK5L5lDizbGsJDBD3LaMDjwXX_GAyeSUnT_yqU_ibKzL3LamJZIiEmPRuY3WGKDkZ-WlqluhvHM0V91hUK_eT73nh2Hj2Z-4QAaK_kdhIeM-vVkfTDfgX1Itc3wu_FYg8C-3BrMlYmMfmQvLloMqhibuYbSeauoWZdZYQtz0_U2ng4JZpp9IHBl88GoAg1wySe6md4esyVMnPWLJkJsLJstkgJc-mAgaO1kouId7LN9QLtdlDGYBwtDtE3b8X_b2NvDpl8_adhskj-9dDLEzT45iUG_MafqmxFA8iAUBy-IgXOdpQpeI-3wqJPfnD_gGCY-4Bp3mBZ2tW_AogRQY9rRnks8UmA8hzsPRPjC4W1c9bsDiix841IjzJ5UizrZf0LRsRzBcYNFFWSklYb7nlqiqOCoDPDDy56aCW_f1mzk9xVRiHqgupXWwXr_ShBsHJJ6biFC_D389dqowlmPL4skCNf9yRJSEdRWwA5KdoHX6cyrBEvaNT3b-SMl-OK-5sq-UBDZRB0zrV0VWDRHv8yRXUHqYVHLeiVpBWeHgpTuTVlhDH61fM8lAkxMUfLdRxvS6NGhdYEABVFNQH_JDFsFs0sgQ1quM1iAfqVIARQ9fD017ChgGIg4KDMPVShPM4ZOsoLIybw..%26ch%3DAQEAEAABABSO93WMRBPcgC8PxVamLj5kJ_DJ3KN2M0U.%26v%3D3%26pg%3DCVCQOZF24NBWZGN2HA5S3SSMIE
+.netflix.com	TRUE	/	FALSE	1783257037	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783257037	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Focus
+#EMAIL          : darkna333@gmail.com
+#PHONE          : +66627325544
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2026
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-16
+#DAYS LEFT      : 2 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:42
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1805204115	nfvdid	BQFmAAEBENtrvaB1lyTqJ_jJFkjPlM9gdw2ZjTfyGQJzprMj4oQ1RpV8pqRlamnchu0HHKWGJ2AivziCdGApv4dUdgsmfwSSSiAwjhVqObGvMJ6MJzMDVcaH0gdIw3hxE_cp8GmyiJzPO-y2c5Pxbfhg68IK5BD9
+.netflix.com	TRUE	/	FALSE	1807498637	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+09%3A57%3A17+GMT%2B0700+(Indochina+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16a57538-24c7-4331-aaef-03e3723c11a1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783738635	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783738635	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783738635	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1807843384	NetflixId	ct%3DBgjHlOvcAxL5A7bFNhayb9DtAiTz3lr6J-ajtKw2pmZ_46C4fiu7Ic7H_L-g_luum5uAF2sEHnAc2usye-zWBgOsyADKPwnJJuFOMRKgWSHYZtdHlAh612g22usGQ7A2uyy_mx9ce4RFXct4RWb5y4AER8aLCii98alp-w3dHs5OKSDWpTWm1hk5GPTIwTYQtuIe5wDLSBxNQW58pRTJOaek1jqGrMm90_IXfGe6kvm51IYRjLFLYxIdpqSlYxSK5RyvRdeEx6-2aO24k0J1GN3ICXM6-ebyd47d2kMZVcqtpdeNerVeX8_0iXCAZpWecgyaylD2TteImcjjSPtwQvUXCSMU44_ums68fxC1gLL_C7UxDRpNortU2TfVj8U82ZQ-g7QXH2NRKzxpvvOCCUWbiEWB9IQxzKcZJp9VWsi-FUlPHTNbldLcsrrR3aN5U5QS6JUfqnRRCO6j5z6aC3fbvGFp5xW3KOZZ212ymos5AocnSyIG9QJWAaHhTXs7sWclxbi55F9oxmaeYKepyz-6qXJPJXJ30KSx8TZzj0HCFkPpoH5_Sgipo01POcCJIP7x23eKr8Rz_ygdvzUPoKSluJP1EuDolhjYwzPYLCuIh0Q2spyO7BIY6QCqDFkjPW0XpxZ7OJ1QlECxrMSW5sX0B3hol3O17aASZAVkWak6xvIYBiIOCgz4p8LnvUBUbQho480.%26ch%3DAQEAEAABABTcrKp4K7SqdQ2Ynbt-ehqwPvKx0wi_atA.%26v%3D3%26pg%3D5U5X7OMCNRCIVA5B2RL4SKSS4Y
+.netflix.com	TRUE	/	TRUE	1807843384	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSn7VMEL0LZoogTFNBGNSYK2PdTsJTrLyI.%26dt%3D1776307384990

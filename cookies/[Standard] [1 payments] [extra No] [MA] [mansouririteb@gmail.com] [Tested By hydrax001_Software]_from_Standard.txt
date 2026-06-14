@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mein
+#EMAIL          : mansouririteb@gmail.com
+#PHONE          : +212613457683
+#EMAIL VERIFIED : Yes
+#CREATED        : octobre 2025
+#COUNTRY        : Morocco 🇲🇦
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (4401)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-20
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 23:41:08
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807432374	nfvdid	BQFmAAEBELnzvXW6nTpCNIiyqujjeatgN_jnJcr2b-_XL41qB-_DPTAeMhz5fMs_yG1z-gShwxpDOLvPMSBa5S6Tydo03SYSUTWG-egm20QYJh0kuChua8YPaIGiGmZBd3T5VuvK65pDcAaFA8Ru_Gm2RFvZOz9V
+.netflix.com	TRUE	/	TRUE	1807672345	NetflixId	ct%3DBgjHlOvcAxLkAwzQQmfT74YJGMKLIDkzoq26ZQ5cw6LE2IAQGNyIBnDHE9xQf9JNddm3c-R1qu17BLPFDw2VXTL-b2gwKLMD4mJ0fEY1hB65-7ZhQVRxvhMJpRfm6zeRIS7uL9pt4AADvSfiurUZ15kaqZKL9abkeST1XeExdRnRMa13tQtadm2jrtfwyBaCCEVF532WnSIQgOv_JAd_-u155iOCFhwKqLMRZ-3zdu4motjb5sE16XXD8bxVSsFmO88IUo2LIEiX2QoLQZrw8_mmIIE3VYgo7n2O1j01BHERRO_nOxZ-VCAh1snd6AiI2Z7w7q3SJobT5I4FVEkQOjGWrnNpdTQXA2rrl1yiai3hr0N357E3AYYWWmoBZoZIfrl5x4RjjA7RRMqFkPci11AHQMHOMrYuuzyZi-a6Fd9npc9sJ5uZBW_i7N5quRGn5w8Cwv6GGFLptGDTqG__PN3V7MNsCUHV9TKJGg0HM2FbpC3dbf2bVx85GZbeGDkRU704_53rGaZ5GMilhekZn2qbAAGUXeuMHNbOa2onRVqPYUAsM_c6jH5LpE63MffUIZo0FmhH7TPQ5VPp-ffOL-Ubbmx_pTyMfer2KjVbUFrfG8udWYToPP0W7tf-3gIJDzrHJrHEEC3qHvxP_J0YBiIOCgxQZxoneL20_mquxm4.%26ch%3DAQEAEAABABR_bB0NUQmIvNEp2_cHpyyWRByRlvPvpRo.%26v%3D3%26pg%3DLIX7FAZC3BEJDPBH7GS22UGHQI
+.netflix.com	TRUE	/	FALSE	1807672349	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+05%3A12%3A29+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd5e8d6e-a0c0-49b6-9412-1e8ab83c1bfb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775896373900&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807672345	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRspvSsC8LZ5mbO11v7see2pj1YKd7fsLo.%26dt%3D1776136343322
+.netflix.com	TRUE	/	FALSE	1783912345	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783912345	netflix-sans-normal-3-loaded	true

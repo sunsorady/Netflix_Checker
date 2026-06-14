@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Harvey
+#EMAIL          : harvey.2208galvis@gmail.com
+#PHONE          : +573104580059
+#EMAIL VERIFIED : Yes
+#CREATED        : noviembre de 2025
+#COUNTRY        : Colombia 🇨🇴
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3990)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:36
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1805403515	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+15%3A58%3A35+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=883822ff-8471-4f1a-afbb-d249edb2f49d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781643514	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781643514	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1805403514	nfvdid	BQFmAAEBEAy2jTg-B-HYhT34d705wjdgO2GYU8dpfbVmN0EFxW_z3zHRwFVUhIje-jMt1XFK8LQEeYNVXkKsPUzfkFEmhZkUwM714SxMRcrpKscxMGKoKUoH0HjA03pckzJcgMhU47ggSYgmIuBx8Uc_iC48-GTE
+.netflix.com	TRUE	/	TRUE	1808859225	NetflixId	ct%3DBgjHlOvcAxLzA1HtJUThPN99tDd3JrJ6SPLUdcATXyeKnxkm_M62YEtd6Q1wzo08wxUkt5_HtYR0G89VW3haAPK8YFeKMZeaVOrvPRlkHaFaHfTIaUeotGbKgHPcn5foQeGWH7ktW8xy8c7WXZVXPVr-sFN6AAGLbu40kyjJBW0DSPBVo-QUPilGmQMMRDpuptm_cTnflmOLzG_YR_Jiuc6p6HyWWpDME_MXEqLIiHRBNkyRkQ5IAHr61w0ZMu1swCTCbl4HuK3AAEaK7rOpGuZz1G_O5E_7kdIrFfSSx81jJFRz71kSoma3_9zSWARPH9LfVnY8t2vXZjuoePy7iOJbKZemLll8VecYgtvaGMIZh_GCtRnBrRROJfXLg6zh2oaYK0VazsLif-T7G-Egxzz6RSZ5Lrc25qOJrUuyTgbv1yOoz2iFq3NnvEVOIVZvqhqjkyzUX1q1WK5glrDrCTB8DoO0F9BILnhyYoV20tOlZAfdx_IqFplwzxV7SZ38VaRe3vvUsaZZ5g8P90bLpptjeMl0aBb7xz0Unt5O8i4nuwJQtRhWcPCxmrOEKNu1SyUzS_y-dcQpPj3XDISzXPZNm1nra7luTACDp94x54Rul0--Wjdluwq35KvQC7NcFOIFD6TgHgdqV4FDQtDRfN0jo25jBfwJK1sKWosYBiIOCgy_fvtZDdV1rmyngUg.%26ch%3DAQEAEAABABRx7agfzieDNhqj0ptg8R7YO0s2_5CRMBU.%26v%3D3%26pg%3DNLDLHFFIPBGKFPL7GUSQZ24SII
+.netflix.com	TRUE	/	TRUE	1808859225	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXYBm9Olnk2ZcuwTzsB6pSHRf4im59LwM.%26dt%3D1777323225702

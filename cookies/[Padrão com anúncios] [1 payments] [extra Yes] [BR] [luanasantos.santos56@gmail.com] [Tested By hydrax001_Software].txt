@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : LUA
+#EMAIL          : luanasantos.santos56@gmail.com
+#PHONE          : +5571997051545
+#EMAIL VERIFIED : Yes
+#CREATED        : janeiro de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : NET_BILLED (7014)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 00:33:05
+#==================================================
+
+secured.netflix.com	FALSE	/	TRUE	1792839477	tmx_guid	AAwHU5v2zP97s42nbnKcLhinf3wGtUgbz0K52_2iH0rh8PfN7Uz9msCS_tyKQ-ZPeftgnQ-aZqiogB_LdeP7CDAtN2T5GA
+.netflix.com	TRUE	/	FALSE	1792274508	OptanonAlertBoxClosed	2025-10-17T22:01:48.305Z
+.netflix.com	TRUE	/	FALSE	1799415142	nfvdid	BQFmAAEBENrs3yEgS4IdHnUwhtwHsJFgfx9DdeEJfaRP7y5h4Ny3M-assAsYRj6fE0OLD8fTdIfn-3Bev1W2v19-W3LDkg3LX2FwR9joCqlMaZrr7_jx6UAup444i7OWCB2r1Idd7A6ZzGV3ZMm5RtSjtaOuu1Ra
+.netflix.com	TRUE	/	FALSE	1810636051	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+07%3A27%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dcd88930-a556-497b-af09-3062563d49bc&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811714586	NetflixId	ct%3DBgjHlOvcAxL3A0X7wvEc-L2mK-4xIssE6JHjFWZ904BDQsHvkwrxXg5vBj9_MBu7EkMBs0CWjSLF3St5zxHKIZ9Xiw3R2swHvsPKdw2d_HkTQYYfG73UtgkpHRd5llISkHoeA9GqaTjPnNaUwXiKiQMBDmS0Ru9TVT8emwfkVggt6bSeJq4PRn2CrUtDC3LA3q-G_OS5LDz3MdS5ztfWXe-A2fgFKgPB4fNeRjLN5EGXFZu6hP_6IQKM4Pqw2sUSIE9HpTRantSSIJ9uDeb2IJRjfGFaEFZOM8zYkm4YcJfD8dqd5xorXi-DC7VSrrIisWmiv_MRp_NpAV9ag_4R_U-aeVGBhTe122baUdn__WD2PSWrV0aMYHbYy4VicLJhWdgR0CQnOJ6O0CDV4jZq1tVCE8XLV2oFiNzFM8don8KVyrKdHGHE2aUmvgZ1arnnEY887CYoejh2IrTYDaQwoaPCgwWZON4R_7U9sDWybL9KI1UH3BZpCF3K6X4R85ZDG-2sH9jFtLPFhy9g-VeXYSlFeVMe0HPtXA7tKEPXivsrBYUgJlzAVNmAA_P3KAkzVNFJ91zz2XDus5WpFPQVhG01n8oiPb0KOBsYeF2pM6APBgzJAb-IekPe136tPDPSL7iZp5QkeWcY8RGipG_f-KcnXu5ncnhbOTcTNI74tFiUGAYiDgoMGh5-hDhRzMLStogS%26ch%3DAQEAEAABABTDEEjJRQW1pwhWhY_aP2l83UGvT9NDoww.%26v%3D3%26pg%3DHWCRK4OXYNF4DLCVOZF4FLF3EM
+.netflix.com	TRUE	/	TRUE	1811714586	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQl23jP3VdfkjhGWU3w0lEA8DmVJr3iJF4.%26dt%3D1780178586369
+.netflix.com	TRUE	/	TRUE	1780264986	gsid	d27c4972-f2bc-4da2-be0e-5beeb6cc0e5d
+.netflix.com	TRUE	/	TRUE	1814738586	nap	BgjduevcAxJJKsHLgCZzVDo93T06y0DhB-kP6_XmGc6CCYbaoHahg0-4T8qKm08oVolcZcUAUhZLquCTc8ZC8DDu4xRJR5mRO1aXs-OlBceN8xgGIg4KDCzmJ9ojC74DdFVkEQ..
+.netflix.com	TRUE	/	FALSE	1787954586	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787954586	netflix-sans-normal-3-loaded	true

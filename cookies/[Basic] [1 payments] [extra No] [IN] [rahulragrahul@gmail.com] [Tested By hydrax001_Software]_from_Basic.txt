@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Raul Rag
+#EMAIL          : rahulragrahul@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:40
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1787665978	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIAxVaFXvMVJ2YARPNzo8lkukiYQ-McgI-bR7R0QFQsR3t4O7L5jZzGQtS8uH4qcCvKWN6H-ufuntA3MFgqS9M2UcN9ojIsUKDAqhPPepxFUGx82Qrxvxqvrs4QaHBDfQhDWEMbCq4zxn_wCcau3GZBPY_NmYBwx91Nm_nO0Ix7deukqj4xRv79n-ow0f2jAiX67SilsHzXPSHpoWn6A-Hj0veo00strt9gCWz4bIdI1bLxzA6sjK5K-xSabr-YTUdCMTUYhJWymb8t3p3YXqHUpLbIne9KRKfMk1tGWwKnZBsPTAzhP-r-AUeF5325bTlOtUW7DHuq7ZdkR-5ddwK5uInEWzwCmvklR9FMbWhdgrv6zhXbh4Lga5mXoWSTzL4668w4gQkB3vW-oUJdL-fL2zKdgspY_RebAUHcJl6sG1V7_2DS405wlidsioTJ2AgSvyne-3zt6i9O4RUav-4yWQkurDfz61bWWmHSbx1Y_spuUqgsiG4WwDN5qRDvoUZTXf-5nTaXVQhGAYiDgoMbraFBwybzFRHwfA7%26pg%3DSBRAHAJ4FFAXPM5D3RRLF2YNME%26ch%3DAQEAEAABABTZYUjoi7mYCRAt2z6WZsp_GJUopj2ElnQ.
+.netflix.com	TRUE	/	TRUE	1787665978	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREMpkEuOA4GNZasINhSzGXpRC4GGPntEE.%26dt%3D1756129978362
+.netflix.com	TRUE	/	FALSE	1787665978	nfvdid	BQFmAAEBEKn7jijzDHgIH-kuXAjIG8BgWglX9SCkhRMmw4_tbcWpQzGrwWA--TbQi-re-CzL45bji16xVvxQgt3IQFFDuo8NxXZCj5ViDaRA2Jlrq8BS74kCf6Un-Yd-wwn99vOkZZgEzKnBdINjD459Ns6lzPwo
+.netflix.com	TRUE	/	FALSE	1787666724	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+25+2025+17%3A05%3A24+GMT%2B0300+(Arabian+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8653ad8f-ffa9-41ba-b7f4-b069153caeda&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783056507	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056507	netflix-sans-normal-3-loaded	true

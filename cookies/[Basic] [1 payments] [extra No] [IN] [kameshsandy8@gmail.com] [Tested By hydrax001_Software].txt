@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : kameshsandy8
+#EMAIL          : kameshsandy8@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 27 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:37
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1804327735	nfvdid	BQFmAAEBENM_AzqqnL12xiK28MZz3ShgPHTwVHxNd8OCD78Z4c9r4S6z-F4kEWq4fRAb1Ic5H9gDcbgSMIpOgo2h78SvRo4OLMGsuSKUvT8ofbh7AsfAzl8xWS4wVf2jxqcNZyUi3upSRXK65ETMOtrOAX0CuMAv
+.netflix.com	TRUE	/	TRUE	1806134236	NetflixId	ct%3DBgjHlOvcAxKtA9tM5HvQeRM4hcVL2t3bAu45UYZYRRHFVpJrXY2xx8VVCDvoIKzzj9Cg99wfmhTlbbYQHfP6QVM3a0wPeDY13aruzVv1szD5SGHrlES4VQ9OIUPPwhNoQ96kt5ggr37JHdebyX40wfqakaLmeNkqLcnjRavk1Ci1hBI-PAcQvG8z4Vwg5WKKIgd7nKKN1b9jZ_R38UH9OobyaZSTzwPOPSQ_ipWMq7Ba9b8nPmwkSB6yqHcLkc0Xsl-3-KKi1_y1KH7HIXmE7nbS7qjc_N4Li7wPYyY2wTOxQU1SVAyH-8IhdhblMA-Mr2AFkFF_mILu_0ppgjvitiCLqB-9aQTSq91V5a6IonmkDY2R9HPBiQFCEmnml7wuYP8LdjBWZPJqRdasUZD1jalY_fXZBBh92L26nxSgpu9X0A6OPoDFVGaKt1lSVEDyb31livOw4WJnbE0XKObMJXxVFB5xem2IDKayXIg1bIp2P4n-TPAVS_fVT1pUgD8tEsDur-Us50zbRiNwXkWZJYqxQEN4p5tMa1ArNFLL4XMfd4OBHPp72r7cPsejuPbyQXc_8q4V6xgGIg4KDNoSxA1f56lw-kAk5A..%26ch%3DAQEAEAABABRVO_x3CagX7IvFdHUuDixgvAQkcyTsopw.%26v%3D3%26pg%3DMH4BIMN25VERXDOEDGK2WFODXU
+.netflix.com	TRUE	/	FALSE	1806134236	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+13%3A27%3A16+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd6653d8-f0ef-42f3-a0a2-9fd2b62b91e3&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806134236	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxsojUgbowGfTVrx1vnT_iA5Df1Q37PH8.%26dt%3D1774598235463
+.netflix.com	TRUE	/	FALSE	1782374234	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782374234	netflix-sans-normal-3-loaded	true

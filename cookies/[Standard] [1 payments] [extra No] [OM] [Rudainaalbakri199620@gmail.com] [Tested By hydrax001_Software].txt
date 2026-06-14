@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : AUNTIE DNDN
+#EMAIL          : Rudainaalbakri199620@gmail.com
+#PHONE          : +96890909656
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2025
+#COUNTRY        : OM
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (9386)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 23:43:30
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1800656713	nfvdid	BQFmAAEBEFedyQ27Bc2v_Rk_pMvWpIBgHni-3rOHHfIDc9KU_lcAeOjUbzppJ-pWv-lg7fF4MrLlip6UAMMsfDCjdSDc7kEGNGap54zJ3noedYz78FRSuqXkLH5pTb5Zu0mOufzhL0zIbcM4ekYenNLTZCfsXYbm
+.netflix.com	TRUE	/	TRUE	1808483471	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA_MQI5oQijp6fJPFMZ6gckrAkK7TfVNft3SQ00-7fq_vQldk2QZh8Ig0J_GDJqwpVnjczc7TjWzJv1YX82I4bgURoJH34UHTtg-qja6wlJxqWQAhGwLoaoRiBGWWqiywJ5KlDFoEGBvtOQ2qcu4k9eOEsGI8FgNIz30PLNu2t9uR-8BJ5L48jYpF0HtddFAc5bQUzMLA93MuHuxneVdgPYAosnOVUrjbkw7jWPjmnKkcD71v4Dkq2YnrpQtjE-n81CvcwKDo29Xz4sBrFY03yPHis-bOg_tpRVLb5PsMhPt549HWTGfhpr7HuJS41O8cAOUqlONyY3gD0Dyz2sC8MaoRfw6pVq2e_nTM09sjDEazWmLbveZA9zRuZ30Xo7zsh5r2idKXsmGYjiwm1-N3Qzi-6X0vy9bhw5X96ffC1v9jkYeCfcBOvbKvWe_8jt8JQSTQljTpU1SKnS28OGJWKmH63foPp8k6WwtOXYI4g86fRZFKnmzUh7xLp0cwJgIyt3h1i13tBmp94sK6uzAIgGd2ZxXL7s7J7-rwOZYApJsKGAYiDgoMWYlIF-U-Ia-qxNi_%26pg%3DQXG6IIX4U5EC7OI4KHXFD5DZ7M%26ch%3DAQEAEAABABRZejMQQMn1Ng7c-objapfKddkktmLTF9A.
+.netflix.com	TRUE	/	FALSE	1808483474	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+16%3A31%3A14+GMT%2B0400+(Gulf+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d2ff575d-3d4f-492b-8fa8-b548b848126b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808483471	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScn14aQ60l3Izab_-ae7Qoj4q6-OnMIlQ.%26dt%3D1776947470725
+.netflix.com	TRUE	/	FALSE	1784723473	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784723473	netflix-sans-normal-3-loaded	true

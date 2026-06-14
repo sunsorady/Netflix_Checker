@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : dzmadara0009
+#EMAIL          : dzmadara0009@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-02
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:42:02
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798089880	nfvdid	BQFmAAEBEBBLBThM0YQVFesH28EB_vRgH_-OJEPJv2lbGGZWPd4NIU1h1p4RCECcf5MFSrgqDxQ7FGv-Kr_9ikiG_EjA99ZMLI6-EAx9Thvf2Y2ls_YvolfohNN6lah4LzAz9kCezdrrSJTnx1LtNMSddU7d77Wr
+.netflix.com	TRUE	/	TRUE	1812520785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTk4p49OKW89B9xUaGombb71W51cHae8-g.%26dt%3D1780984786117
+.netflix.com	TRUE	/	TRUE	1812520785	NetflixId	ct%3DBgjHlOvcAxKxA5Kdf-i_6uJvZx_yBbQqb7pglFkr0j_oheAly7IuLGHqokJ9SPiPd89j7OB__pufht00UduD5sWW2oCJNGCy7fZYpBcnxme262QKP_KRDk3rWMpTRbMbiOQmAoDiKyaltc1pnCRDLPs2NvlaAslPFMuqBLn8GV9qa9-aR15542UrEpSpQ9bSP6GQy-DleXRWM11x7UaIVCZCKHvoSwzsAvyEWw58ufJ-M0sItUqg16gEClChOsxYDKdvIDhqKSkIdvKkjo6ky4ocdXBXK2tCruTL1mEt1j9C75zXif9UAgRSUXENn1WBOQEUy1NC817I1SPw4oocVNrDuvFP30lj6tHKdZCgOiNiDv6yyPJBdsnBRtTZbhkQlSpuU9OVR0UWmjVDitGqNgHz-W21es6HigTaI65uOyt8IPEXwNn-VVdTYFiWD0DlFmG4mY3Nqg_QnlEE9CtXICnb5v4i8XmTn2ycDIioPKxnoD9sPqx558S-xYEW0cJWTp0yeCoyeeeF-NYaufgA9i1i9ubmJODIQPw1g632HPKT1mRwf5-g1wVLnoI0KsBkvqf9MedeAKr8JiIYBiIOCgxt1Orj1lkQzUQG_1g.%26ch%3DAQEAEAABABR86pOFWK-eWSz7W8_TqWBArz6G7HkKunk.%26v%3D3%26pg%3DWBUGF6SMSVDRLJCH2TXJ3WM7NU
+.netflix.com	TRUE	/	FALSE	1812520902	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+09+2026+11%3A31%3A42+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d82bb0a-4942-4f0e-8804-ccdc50d75be6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1788760901	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788760901	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788760901	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

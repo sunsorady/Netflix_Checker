@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Iskapo
+#EMAIL          : r.ktourstravels4404@gmail.com
+#PHONE          : +917678558580
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-18
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:40
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795690001	nfvdid	BQFmAAEBELnnE7HX5QyytG_9hMKSyzNgFExMiIFUUuTjyXRp9sVR-3j237LF_AJXEXBRJztIGmY2gs5s40sud_GdhL1AOUS-lrUbcEB6ayt0WpH-ys_Rc5f1NlU-K2GOCsQRZsT4u0UO4xiIEammGumYRbdYSy3N
+.netflix.com	TRUE	/	FALSE	1809424406	NetflixId	ct%3DBgjHlOvcAxLkA0L0o4uYdwuWnD54l_1-dqpoXDimFgpRF0FIcHrWNEt-eawTywYhMOONA8NrmpvMDE-ryqTGjHoP9O33hPaV4nxcLHiIMN1j37DBP3Sr8L4b1nh1ydL64CUiQpKb00QuJsoHy27EmeYY2zVD2jdL_-fGTnI7S1pARypxDhTzh-uI_HsvfKEqZuetf4rNuzGS7tod2vfnjXwCitSNJ0f22p92UFsKGrHXxFyySSyQhBgXIKASkmuTaJaSaNfKOzHmKST_9yckaVWeWiaEgqR13SeC1dbVJoqtCbBDYlzY7jqk7Ex_L2_WGmnYlRTcaS_B-5QICDxcIq4vf69Mo5nEfgPtxUQl1NtDtRgZFVxK9zcCJr-yDp3--vZN-YJPKuTzAuBn_RFKfVLIa154NIPkrmvnp59sjeOZ0rymQL1bhLHGEpHHrO-OswoD8R7j6uxCQYp3v2oo5HHTpj8SFsqEaqbTGb5r24ShNYY-EdH6ysn3BG-e6B5pG3PnH5Z1E2OFhaXKiGXEP6yFSn_oACchFfQPr8UDCifw5YuXsUB_JQARJm69rXIm_OOLoa9VxfwfQjnv3JjnTcF-9eIb5N_6OEeUWACG3pZFpIKnJX4a6tQWLZM38DVLXAMMI6J3RM3XG04WLQYYBiIOCgzrwyWqQ60Bp8VQIn8.%26ch%3DAQEAEAABABQLIqqFRo_XE14PeqV0txTWJirMjsf-Mqs.%26v%3D3%26pg%3DHW524KDLTZFVHKWHXVAE4MVZLA
+.netflix.com	TRUE	/	FALSE	1809424407	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+15%3A23%3A27+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d5b2402-f381-4abd-b71b-90e75a1f27ed&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1809424406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRaByaMGKZY160INw3nV73AmCImnbppKw.%26dt%3D1777888413578
+.netflix.com	TRUE	/	FALSE	1785664407	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785664407	netflix-sans-normal-3-loaded	true

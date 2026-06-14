@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : ibad
+#EMAIL          : fahadkhn6877@gmail.com
+#PHONE          : +447418010319
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2020
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (4194)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:06:16
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1779907178	nfvdid	BQFmAAEBELGoz7ES5nQxb9VPd3OiDXRgSl1BENAjFsSQV3DgEdL1rmB2SoN220dk8jR5DMDtCI2L7TKovSVbqmJUXWPgknOzs8SrAym6zed9POtaUf6KqyNNaRlEDvZuu-VJFzlO49RpRG6l45j_4LNTD9rr9f0o
+.netflix.com	TRUE	/	FALSE	1779907180	OptanonAlertBoxClosed	2025-05-27T18:39:40.837Z
+.netflix.com	TRUE	/	FALSE	1787341685	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+21+2025+20%3A48%3A05+GMT%2B0100+(British+Summer+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4a2d2bb6-f575-4341-959b-009f0af196c2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1787341685	NetflixId	ct%3DBgjHlOvcAxLEA3-jC1COJBgGslmlF0vaBLh-S47cq3TesvK9OYzUkCTFyKNbx2nI8kwc0bUm0eaEZBh6MFVWBPIBOrgcbsecy31WFlKnXhUx_RH-IosUE28HCT-QV7kYMUjGSwgG5ks6ipcBZJWxDh_PqMd8k0Jf43TosxXZW4D5fU69L5_pHWsgoA-TbHTWvxesWjwhRotSAfLWXQNxF3bzV4NwWW7wcH58zoUYCiWQYCndSrPCHXhDHNzmaUkmD38MAzVt3H3bh9Hsz03Gdb_yb-2enK8ADnxqUdCPDF7YwC4_SI9QE1A5I4IEyMFDsE8-GlZ72khcPHPLXnrXOytjoMaVeccfNTiZ5h40_jybdWKggXix_Drhulzs3dhu3-B8dG_iT_GLP52EhhqMV0LjldYF0XWdd0dwA5u-jSgSo7NWgt7a0dKf8oW42CRLk5-xEeDuf5_ZkRUAH5GYid28iVkIKq_gkX6LrChPSbbVM4CICXEazi7Br5PpsA4TbRKBhA4LylvBDEJp-c5NBQXzH363UJfpj5Z0VdkWVMAPNBYSlAwmEtAgLDztQNx3Ocz40mE3OUL_oYASkKoojGKrlHp8r_4L6a8kfyO1GAYiDgoMcKMBMKjVpPze3LC-%26ch%3DAQEAEAABABQe33hml9YS9T3_Y6hArhlAYC2P-ML239g.%26v%3D3%26pg%3DX2OB26MEBNFEHED5RJUDUR25BI
+.netflix.com	TRUE	/	TRUE	1787341685	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRDLvDTaUIV6iuB1-N1FA0fqcLZuP_L2w.%26dt%3D1755805683690
+.netflix.com	TRUE	/	FALSE	1755816484	flwssn	4d3f188f-69e1-4e89-b7b5-7260515292bf
+.netflix.com	TRUE	/	TRUE	1755892084	gsid	872d69a5-6609-494a-951d-4a86707253ac
+.netflix.com	TRUE	/	FALSE	1763581684	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1763581684	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1755809036	profilesNewSession	0

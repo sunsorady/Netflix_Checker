@@ -1,0 +1,25 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Carla
+#EMAIL          : carladolivo@gmail.com
+#PHONE          : +543525644751
+#EMAIL VERIFIED : Yes
+#CREATED        : febrero de 2025
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : CC (5978)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-22
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:18:39
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1788108815	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+30+2025+13%3A53%3A35+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c0395120-8437-43c0-8409-02ab4932b6e4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1788108812	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-DD4ybb7J52zQisZ-Y1_ViG5d0m9szsU.%26dt%3D1756572810950
+.netflix.com	TRUE	/	TRUE	1788108812	NetflixId	ct%3DBgjHlOvcAxLmAyEI6Hv5BacPuzBgn9iQMPSJX5EmMwjdwF8hq6aYRuzoo0L3-T7ffBd6MVgkjsd7Zvu5bEKCBLN3vR2NKaaklEFj0f98zux927u7IX1C0eWmcYMBcSO3et_hFxXuhkk93Zn8EA62m58b7DOA0dvmkPPJu_M-5XelwoqEK5uskvw-zsKBdS3rcCiRo04IU7wm2nnwLHM-G7e0IwdGsAJABaIMrUckA131lqgZMzr_nMjKsPGLd-FTPYcwN1Hxr2U0pVOOXEAPJMuXjkYucPGcqDGDV8GVzwmkI1OYZwOja-zHanUd39UjrVB55-61R4dM97SGel2-isuIn7gBTBilfBGJ36cY9nsXR-nGW2udqOrmc3Y3FoDguzVW57Df_saGqvyLZHt6scJHVEzy6k3ZJ6g4dlEq6Ab4dgHAKr9ml3wUj34knlJMuKm_CnrmCCdSKfcyvz0MlkFvJJKKkdd1xcVEIEofFnZ8FMhHvhu6Q229xS5b0eW8mjyKDpHlJNwwk_lFNwpBnw6ticFg5qU5m9ger9KEUdfVqzLXxME4VyCJJvLSYt-JrAtNkrBQGGVKZPLKkZKQr8bxhy9-mt-nzO4nFHNv4X5MdjTmn5ioKEsoe1POFMJoWMWH6shPx0ps4wCqcxtsKhgGIg4KDIR8UsBxmcRyCLTI3Q..%26ch%3DAQEAEAABABRv9Hjtx5PZnYjM6Z35j0N2ddi7f_R8334.%26v%3D3%26pg%3D7GQ3NGJDZNEXFEO6IKI6X3YOJI

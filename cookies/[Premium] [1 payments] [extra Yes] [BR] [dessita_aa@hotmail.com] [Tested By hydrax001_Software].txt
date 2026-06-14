@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Pompom
+#EMAIL          : dessita_aa@hotmail.com
+#PHONE          : +5577988266997
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0575)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:43
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809654054	OptanonAlertBoxClosed	2026-05-07T01:40:54.692Z
+.netflix.com	TRUE	/	TRUE	1810026399	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA56fV-03CWQBk_X4yJSOMf4OiKY2PSl6rP7iHbvScfiiqaRyVqZjxp27vUkG8y3L7TVQPJaFrSrP-e-BVbhr0NYJTIg3fD8iMJcNxGKZeJfs0Dhs5x5m6JDe5YYVyYkumIvRL4rDDEsRKOCCGUGdFlSSYMQ2RypB07vTLhwic9pln66rAWTFbt2-kDsx0s9iGb6wOvHlZHJ8bE674DOuUOePiWvdTOGL7ZFEUiRH2QH2RdZTFeGsiAexVfRjHYZdRGgdvxPd8M-yhreXS7EQ4hDlZgkh-A0PZPlvNo3V0Ad_ejQJtOQZBzETpsPwleAUNc9wv_BVgPU7Aem9FToducK1jq0dTwVMbEZmey6Nvk25TwnxakG0LqYDWbRdcdCvD7z54bw1BrHISlqpflSJMIW0xrECQHGCfE3VOQ3o6CmJU1y5ZWEVjVN0GtWyk5TIcmW68qwswjFVuwV26B4wsD0nxWDsboLyZh0oVNNU_KDeHBEUnccqaBHJEYGGf1ryJOc6hst2vM2rVxAssk5uhYckqmweXBgGIg4KDExS-gJ0gkG7f9QfYg..%26pg%3DCGED2UE4QNCZZOBRLD4WM54EQA%26ch%3DAQEAEAABABQITphUBk3rwZXK51tC2ixQXBoFaD9Y5tg.
+.netflix.com	TRUE	/	FALSE	1810026401	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+05%3A06%3A41+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=411d7cf5-8f54-432f-bda6-4c2be6a9e265&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778118055756&AwaitingReconsent=false&intType=6&geolocation=BR%3BCE
+.netflix.com	TRUE	/	TRUE	1810026399	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsNYOYjwzXdoq-lyOyDBTz1ODwjFW-_aE.%26dt%3D1778490400880
+.netflix.com	TRUE	/	FALSE	1786266401	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786266401	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810026392	nfvdid	BQFmAAEBEJfY4aEAv2tlM_6aMf3jG5dgK_uJF8-FA19aj4pcNYUqRCfMgcRCGKSSdLQakhtKBsC5OoPWubvqSepxhjVY8xFxnxmA-jcHcLFPB_ZZW74aRtISf12TSuogfKN9bqA8op8SXGUQ4C0WUWQXYmsTRQeg
+.netflix.com	TRUE	/	FALSE	1786266401	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

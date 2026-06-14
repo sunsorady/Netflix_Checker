@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Iden
+#EMAIL          : low.soolyn@gmail.com
+#PHONE          : +60122860013
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2023
+#COUNTRY        : Malaysia 🇲🇾
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : DCB
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:32:33
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1794133939	nfvdid	BQFmAAEBELOErcAylG6vzDZsawmgbQpgkdX1hYtuAyP8n9zXAXw1nhUyNsddCX76rm_GsGNde0yMu2bX07AlGijFABvUIm5kFm4BEoJ8SsQ_Ocrra_x1MKUWPtE2DROc7obJZ6Mi2O_U-93vNpoMx-wLItKtlCGZ
+.netflix.com	TRUE	/	TRUE	1808235008	NetflixId	ct%3DBgjHlOvcAxL-AyuTx-86t4uMsAXEWs0Z0faZXZcw5RJSniDYrqONxfxAKNOw_Jq7fL-VBsgsMQVW5vwlWNfX-QQjObk9G65Qt_jmOQGDt_w6kNlB4-seO_8oHvMQUOLbkcvFR3mP87gIZZJ8EOb-dnFC_Jf8cinq310KtLaCRA3JCh0AUSGbN7VClQNpRSGFY4OQ0_qg6Rj4vHcoayzphVCL_d_5Qq9iIgb1tG86UkeQwiMboPRU14pk7hdxOBAYAwAM-TwS5M-iG6wT1M4EK71CjzEN7WPh9MdPb1N98yITQN0EoFgEiOiHbeTDfdnE3F-NSv9y0oTAHfn2yeyuQDenUp843V8VnxCy8SbcGAeu4LhMt3lf1VsgckZy7cYXdvN-DHJi5F5_t0jLEDo8xcSzR6FaJmQXGZhJASZlTmknNmYSl5ATB2TolIwzunLlP-gEeSs9csH6p3q6i987nBo1Jynh6qSaqXihHjZYMziiv0g16_EW9CJEA5OSuf_9cn6CVC4DA7noyYLnBzrQJDE2fgnV6FHUh_fWAlHfIdAVmv5jwks3ko3LqhavhqTBnLREL5E27OFgjsAGDCrIv6xeNlDv4jiY79Nsxg0ICsT8VhGOXfGyeOkouAr-SuSMUhFb1WszlNVU7Uqkx2glveYWb5j4lqBc4SNCqLpTgo1r1Qi7tTqDExgGIg4KDEimKmwp4AMyVz-L3A..%26ch%3DAQEAEAABABRqhpeizcf9aEE3HzimqcyLuXwvy0TUKHA.%26v%3D3%26pg%3DAE24OVXLKZGALNJYCRMWLBL36E
+.netflix.com	TRUE	/	FALSE	1808235011	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+23%3A30%3A11+GMT%2B0800+(Malaysia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b019b349-4fd3-49a3-a194-f6a67ca33454&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808235008	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOdEqGI6Ye81y5S5eKTbp6oFs7mJmiLM0.%26dt%3D1776699009866
+.netflix.com	TRUE	/	FALSE	1784475010	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784475010	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784475010	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

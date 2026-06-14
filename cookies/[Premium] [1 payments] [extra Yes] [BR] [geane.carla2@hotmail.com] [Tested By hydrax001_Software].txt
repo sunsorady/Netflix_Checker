@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : vitor
+#EMAIL          : geane.carla2@hotmail.com
+#PHONE          : +5565996964028
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : DC (6039)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 14 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:44
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801018254	OptanonAlertBoxClosed	2026-01-27T02:50:54.113Z
+.netflix.com	TRUE	/	FALSE	1801018279	nfvdid	BQFmAAEBEIez1zWOtA1RbyDxyza6hA9g9bH8RH5c9YSQlYoJeiQI5V2nCSu2wY7jfanXcVA4xE-0gi_1CKyRjnkLNe11-paHRjc34PqQqWXf_Rc1UuYgUX_0bApy_kexkEk7cRJ9bKyMk0T5ZlYOOJGoL6ZshrMa
+.netflix.com	TRUE	/	TRUE	1807844382	NetflixId	ct%3DBgjHlOvcAxKDBPxcLy2G610Id0mk5QAe_wfNSC3ZDlsHjEGQGp6GgfG77_e9iZdoIQeieGU3jZKiUqXlxM9qY-81Udy_zk0RKO8IUXE9tW7hY-hJuo3sMJTJdvMuS3L5Tsztdz5flj_GzIe9x1NojvAlSDNevu_NUqkd8cu3jDQYDkFY6waIdxMf7NFi96Vbd5OzAcFtm7QEGCcP4_bo8aLhZ8H2ahvCuALtz7M4pq7SQmd2kth1XIsGaccmz4ardXHmqXc7Np75RAtNZPV7SsY69Pb2TVLcmJcpTUN_jyFjogKrdUXO7VgjROoUlpVY80jdCkn0NKLKAbrAm62b_uUgnwY0qF4fRA8qQkUFRWkIOcuQika3L22U6AxOeKJT-WZGyb6NUusRhy0g16eukF3PP-Qa_fOf4SjGb5R_Aot3CmVF5jp8qV5NYdmTW847DHaGnYezWywMDfrjPaYznsUuumPlBWCvls7ys1SRTwqCVTxOaelVPmk7TsnIiMlJHMbwic1rh1-5bsaf8Jg7UsnBAPTTjBxT_76f80O7W32MAlmDqXhHDR6izXNYN3rzdzLrgzoxWTpDfBjQjNl9pQ6SZqALVAm3kFOCF6iC5tgK2CO4D182UJlljeW8mK8p5d0C9Tg1zk1wrdI7cIRb_zMENOr1KVHNfGTDN3zxsDlQEKlas--qWNsRsvs9GAYiDgoM5g1MLvKiUdItmEfw%26ch%3DAQEAEAABABTa1YZ9JjVzSgTtUMMrHj-TvWyfoZGljZ0.%26v%3D3%26pg%3DK6SF7G5TEJD2HMHGBRYECII5JQ
+.netflix.com	TRUE	/	TRUE	1807844382	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR92LCDhzIRHGk5oicZxZMPuSIycekQhfE.%26dt%3D1776308382243
+.netflix.com	TRUE	/	TRUE	1811537062	gsid	9b5807c2-cbd9-4959-9da7-2b7d96cf0271
+.netflix.com	TRUE	/	FALSE	1807858460	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+02%3A54%3A20+GMT-0400+(Amazon+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c869953d-0181-4428-b218-9d0508801fe4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769482254624&AwaitingReconsent=false&intType=3&geolocation=BR%3BMT&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784098456	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784098456	netflix-sans-normal-3-loaded	true

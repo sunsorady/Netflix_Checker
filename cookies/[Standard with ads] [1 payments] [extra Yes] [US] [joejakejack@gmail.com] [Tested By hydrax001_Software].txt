@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Öswald
+#EMAIL          : joejakejack@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2012
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard with ads [HD] [Streams: 2]
+#PAYMENT METHOD : VERIZON_PI_BILLED (5014)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:49:16
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811030604	nfvdid	BQFmAAEBEMD4wADEnP8ZpS83Lei18t1gCZkQ9CNIBYmFfjDePmEDP9cULlVCKIrxSABo7g2-ASdIOgPsjIo37iOhJD21V-kUXr-OJW0GNdXW7Nu-uKy0g1hNrrAgUqYU2BybhVT5fYe9pzbU6Fi8MGKTDKe4bULm
+.netflix.com	TRUE	/	TRUE	1812098964	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-ud8oRif8DOLh-9oxtl44CgaEgIHZW1g.%26dt%3D1780562964347
+.netflix.com	TRUE	/	TRUE	1812098964	NetflixId	ct%3DBgjHlOvcAxLHA145KV-Rb1WfTEdZqCA7-Qn99EHJ-Pj9OsLOc2b5fMsHib6dxES2c2EhhP-tdmfWJzRfRGLdeVIkn3x-DYliolonMUl5Hrc7ccvejedZ4Jq8-6kMznH3osiBgipyP6ALe_q-fR2twiqWER3G04oAjjAsgwzS32JiJtaAn39rN5Vc5xwD1DtJ1PREKqlu-iWVcbK7qKBL4D8_YVbxi2Y1FPkucMfK_NwVeKUzgHIqNEXTIlHMxY-7Xme04sRJCgO2URKBwSM688Uh6fNaW3_4hLIPWD357Z3VKZ4xkTU8-uALABJSdmVYQAAPfYzi9wMlfnkGE2Z5PqObr44J9liHSwWMI2sMndgYRgEKPcjJC7E1Y_sYAhUTBMZZ6lo5cyGfIrlt_ZXCaXoPDdCW0C0hkVda-6m7go6WHiAWk0mrKHJhWy0dOwq2KmO7qm31Z1a7dRFdLrfk7_m14eXRM8M3NmKZiSGxOdP6Npn6verH0HQ-AtjTtrN2oe04fEGJblOJxKqGYR3nXn2cXM9pzEAffsZm8rc854GykDXEIHhTvhpqxBCJkjHd0NmmLNZ1OWPO87LenHgaa_tNS4XlERMAPVvq3iXV3obwGAYiDgoMJVb5ZZRGOxAizFz2%26ch%3DAQEAEAABABTn7iSV22ZfQ2OAmXGwWbHszY4zU_fahy0.%26v%3D3%26pg%3D7K2EJY6HLJBUXGPBNARX37TWHQ
+.netflix.com	TRUE	/	FALSE	1788344792	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788344792	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812104792	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+06%3A26%3A32+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8f410536-5f78-4998-9569-5cc7d22a9c6e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779494574892&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Maiveimai Rimai
+#EMAIL          : kholeliikomai@gmail.com
+#PHONE          : +919871152119
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2024
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 14 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:30:39
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1799384163	nfvdid	BQFmAAEBEEOa6byKCwZuLKOtIixRvWdgw0N-iL_RCsm-N2oCOuS0VXWxQkdCQj-rsztRDYdQRN42LfkMJnjxm29BJgbyfx_8tnBHXxyAxbwoLMHod4Iv6y20lDmR96oQwUVPomCEPxGBZQFh3Qz0_cQ63vhecD3X
+.netflix.com	TRUE	/	FALSE	1809751634	NetflixId	ct%3DBgjHlOvcAxK5AyQW8QPqMYlkYNobNhYt1gWJtzIklsJH0EBZi2v4dpcA8D9-CIOAMutJ0mP7aezeZIddyKuv0HhNdq3k3_LTWkuEwpaCYAcHNVWlvFAgfkGpNNFj3glojB3Z5yimmFnfuLg4sBNTQFaoV9jH9oNaGXUM_FBHjgX07FpKatr9t3rXSqAdKamLs9YkfX8-WPIEf3kb3kjN6y1ShKjjftcohVk1fF0Hr-1j8xqgHy0renUzbhCLlRvpmsIOX3MOo0BGYvBvUY-FeJoD3eQoLUeA7TD60e3YSJCeKOCZSzi6EmXFWNg_gURfiS7jjJUXl0VYzvR2maNvbSXKHcqa5UFaDLJzaM0AAg3GPqJl_KoMsT5K9J88gKVj0gEpzL2B_KSgS9hrb9gDobtT3qtDvUk5Tw2b3Fvs4Ri7EI-hO7q2bBlb1nQ1z3hjoTBWavugB5MX05U2ZPU82iRs83X-7EryiwYEDaLHBHhkGNdXtd_VW77wAa_q3fLK9iurzymlyk8npBzJrMdcQtHYFAceK9oIoXMTEPrIjOVbEUlHOCk1P2orVXNaUmIjo5o-241XaLAGDYF4_bsoRgBK7hgGIg4KDMItauK0l1amoLg3jg..%26ch%3DAQEAEAABABRAxQEa9SAfJPC6n78of1aPaF_H_7Pd5wM.%26v%3D3%26pg%3DBFQVEUZYENAF3HJMRGQ7JUQELI
+.netflix.com	TRUE	/	FALSE	1809751635	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+10%3A17%3A15+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cebc315c-a00c-4842-b04c-56ad1962c0d7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1809751634	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTz__VXPbqkYf7Q16H3Xmbn_gtLlNt9nCA.%26dt%3D1778215636317
+.netflix.com	TRUE	/	FALSE	1783056509	gsid	2efa23a5-a921-4cf1-8f38-a943576124ce
+.netflix.com	TRUE	/	FALSE	1785991634	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785991634	netflix-sans-normal-3-loaded	true

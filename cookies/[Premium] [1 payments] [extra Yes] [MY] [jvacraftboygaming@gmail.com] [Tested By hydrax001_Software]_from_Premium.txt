@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jeeva
+#EMAIL          : jvacraftboygaming@gmail.com
+#PHONE          : +60105672140
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2026
+#COUNTRY        : Malaysia 🇲🇾
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (8825)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:51
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783056510	gsid	55979b07-a693-4b62-9d43-852b581a49ee
+.netflix.com	TRUE	/	FALSE	1783056510	flwssn	a87dce76-078a-4022-9ce5-4aa4d916c9fe
+.netflix.com	TRUE	/	FALSE	1810816249	nfvdid	BQFmAAEBEAyza0FMtdJZRhWBXZtPxUhgbuNoFcuTcsIyB00Zi96lga4wi6PMVZCkEZ6P5cANhNVUrrVL3UeNYoWvBQMJ8fs_4-usCzW17wM3korqYOOfkOFeRgm0-l9MoWkUxmnRCuXPQlOcyFe_LQ4AgU0bCk2X
+.netflix.com	TRUE	/	FALSE	1787056277	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810816278	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRH76mOdQ7OVnmKyA9Y0_s_JVTRtK8bKEg.%26dt%3D1779280277964
+.netflix.com	TRUE	/	FALSE	1810816278	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA8X_kNyhqMFRKkPvAOVYuo1K6pIInFE5bDgnhv8UgADgmfFdtX_bV7H3FnHDDdnbp6p5s8Bovx5ucVK3T6pSDRtJI9rjpc8oTO3PhxjsB9Zs1lotnVqrc_skAlk-kh4qTN0BnyV3n59XEY0RyuPDpIwBf1TGczTfFrbKhwyjrAU92XT0Vlh5XkIGZyMMEphFY5iZtslLEhgMn-VSc6IV2XhMJsk1nrUlpYxzWOJ5FAoQq2YGgocP71BFmay1eRvuzoJtJuZkGrLFJ8bnuX7mnCEyXOMyjHVKZUQV1lcFRy4BgmSVXFnSiUi5pLfE_k1fGVc6bAvCUNFQcZt0_6FcYyzbqBNnf2uoW5gHt-QnVl5SAUVMTRBRxJRbt1FkFzP7BywdYTkMjz2f-lpCrjcG61ZztBK0Q3sqZI2-bJptRIdY0dX4zI2GWcTbBAS4F4gkSJgaGo1qTCuS0yEjOdAMpNYy9N7Ihdvms1sypK1SRCzgEiUw-h1npmPPwVN9HZBXlJmeB1L7dENP2UFcJH5gdXqO8LZzGAYiDgoMXb2ePgb7uxU7VJoM%26pg%3DSRGKN2AM3ZFZ7KHRH4UIVRYNWI%26ch%3DAQEAEAABABT_FkSOLqSuBAv8taKExnuv4gLwSkQUOVg.
+.netflix.com	TRUE	/	FALSE	1810816278	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+20%3A31%3A18+GMT%2B0800+(Malaysia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3631033f-4550-4c6e-9694-b539ca8e1c73&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779280184591&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783056510	profilesNewSession	0

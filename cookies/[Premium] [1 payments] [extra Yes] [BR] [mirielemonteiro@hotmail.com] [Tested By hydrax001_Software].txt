@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : matheux
+#EMAIL          : mirielemonteiro@hotmail.com
+#PHONE          : +55972157883
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2016
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : TELEFONICA_B_PI_BILLED (2155)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:45
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1806969138	nfvdid	BQFmAAEBEAp5y6MohcCFHeBK0zMF39Zg3F6L8yYLjp2nlmFlIXviOsIsOqmmwe2gq6oNTg0HV-mIPAQX9YkTebyIr-quOHT03ejUPzTT5petLHvE9Tc0rYAmSbfJZZDIQhUp_9sb2EwiebMu59N0L6uQpjXNZ9fX
+.netflix.com	TRUE	/	FALSE	1806969173	OptanonAlertBoxClosed	2026-04-05T23:52:53.690Z
+.netflix.com	TRUE	/	TRUE	1810257544	dsca	true
+.netflix.com	TRUE	/	TRUE	1807831050	NetflixId	ct%3DBgjHlOvcAxLPA8L_SgbDPV5r0eu-Ki6hUpXWPMYgJF2RqXT3QZ2zs0DijWdlbuYw9bpslbxn1aNM2vO3Y1skso8ijtSoa-u-AXae0Wssrj_KyIJNV1STaRhkHZdRyXVXap1PUHUgGMHm5UedNX1UwRUvpazQPoWOji8k6QhzoQnWDbXRyj7EFmt6le-DhcIC05N9hA6F6GnS-du6bLsjA-WuKSDFiKKdiTeHGwE04HEScqKwNI0WPGMfPSmg8UPwEFfX7utaO-QOIJRctVMl1F82FPFszPWcMqTTEcWBCKeTOvI-bR5erO_Vqq4vL5Z3vgPsd8VUCVFxLTeO1RAKuMw2h_vt8UeGT8kDXbaOqtS0bsOuKnWm8QR7Si4CFTRHntYAWdLEieDqvkGSlP_53asoKRzYivGvjw4UpwfmA94I_A-EbX41aTog2Py0z4wXqhBhNCYAJgyF1hiVGLom-Kti-CfBPA-4yqDIDiEY1AWZVE1UBTxiPmgANParmoGvWsmEyjsb_HpHs4Hjky-xqE4Kcx5n4VktdQvdARDvskAsqf5JKc6AF3ZR8PMO9jdMtGEObjomvux7sTvQqtc4oUuaYBl-UAHcGxGcXzbcRvd5p-YTfrrrmJIYBiIOCgxVzK_IhrZFXZTC2uE.%26ch%3DAQEAEAABABQrVKqxRC3--85CcV62O_6tMpH0AjpvTt0.%26v%3D3%26pg%3D47JP6YVW75B5VG7RQHHDVUDYCY
+.netflix.com	TRUE	/	FALSE	1807831050	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+20%3A17%3A30+GMT-0300+(Brasilia+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=50f869a9-8f2a-476a-b887-b703491bbec7&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775433174429&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1807831050	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsf3YexPDFXbtShCjchQswpCIJIx29AcU.%26dt%3D1776295090440
+.netflix.com	TRUE	/	TRUE	1783056512	gsid	b09da170-d9f3-4b5c-b007-97045c6b42f4
+.netflix.com	TRUE	/	FALSE	1784071050	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784071050	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056512	profilesNewSession	0

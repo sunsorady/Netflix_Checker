@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Lu&Ni
+#EMAIL          : marcelodom@yahoo.com.br
+#PHONE          : +5511999208827
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2020
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : TELEFONICA_B_PI_BILLED (5050)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:31:45
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785206992	OptanonAlertBoxClosed	2025-07-28T02:49:52.898Z
+.netflix.com	TRUE	/	FALSE	1785207066	nfvdid	BQFmAAEBEJJ5KHWW1d5CtYrLG90dmSlgH57DoESU-dCqu_KazhywPxDEvaKLgHItUq_YZePssfQVG7K7hpXXCetkw-giVxkKAKSgQJvExZp2bcKAKA7BM8h_KoCeWjdtG1bbdUX0F2HlFHTAjubbfjlRw0VOKmAE
+.netflix.com	TRUE	/	FALSE	1788236033	dsca	customer
+.netflix.com	TRUE	/	TRUE	1785350923	NetflixId	ct%3DBgjHlOvcAxKrA9vcGMeNJyUIOMccHmPLnC8HGawKJ-YzyUPJ9VC6A0ltuMNUI9tV_3YzespVvlnjWZ1H29PZrhuCjNn3Cw4DLGHPwgGCxhf9j8melDrwrgtoBm033At8mi40LSsSMRr2XlLbqNsPHZrTzqxTRy-V7VQy_Nek4KS45kXzaXTV3OVciikluyndx_p4FVmo9RGHp6XU4HZk8E6lhu5Ww6erkqjq8T8alqQmo6BFOeweurGrZOT3-Z7CP1qWdfr8GJD5AL8EYwWhNWxH7M4-G2wqC-q6ei4onLm3NxjU16eR1AD55RLNztoyIQoH0G3UtwICm7Y0GilPDTRzCV2daw04hDBPW3tg_S-gUCrZqXCgvkiyDBq2Ij7wrpGxGmcDm0mmvQPFl6BMGZgA4Fl3qLE6RJ4ULmK4Sg7U4V8MyFoJz1r42M7BA1I4SQG8kHjtfVwKET-JtwKVvDPnTstH0G7CkeN5AM9HNq-GWui2BxE0PhsEqI3XLysw7bxCsKJyaNZ1U1vfyQzoTsWuLe7eaddskeX18JrAsbYJn1d7Wed9lXz_9xte_ALWM3SCWFYYBiIOCgxjSnLUfYFHFyb6mIM.%26ch%3DAQEAEAABABQ1nh8OQXtnfHfhLnL7Si1HKUxCyUpKmdk.%26v%3D3%26pg%3DKFXSJIPZDRCHFMVQN7S3B6RQZE
+.netflix.com	TRUE	/	FALSE	1785350924	OptanonConsent	consentId=1fc92ff8-e043-4a84-bc64-785a932fd18c&datestamp=Tue+Jul+29+2025+15%3A48%3A44+GMT-0300+(Brasilia+Standard+Time)&version=202506.1.0&interactionCount=1&isAnonUser=1&isGpcEnabled=0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1785350923	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3wwNHEhw1XfhF6ExLb2dm1oLbj1X1eek.%26dt%3D1753814923550
+.netflix.com	TRUE	/	FALSE	1783056509	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783056509	netflix-sans-normal-3-loaded	true

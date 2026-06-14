@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Krish
+#EMAIL          : kunalshrma.027@gmail.com
+#PHONE          : +918920980924
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : AIRTEL_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:42:55
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1802158498	nfvdid	BQFmAAEBEAu4ZdUT2r55pKOnumNrFoZgCOIScy-9qCagTfXD1wfKI5JoEnzCBUN6y8pKR8sselQOLgIXrA14XbWGKmsCMLXwE6sijk_mvkjDJLJPkwVQfcg89-qNXtbD1cwrmKD3NVzUMbi8YZVvJT4yFPIm1DRD
+.netflix.com	TRUE	/	FALSE	1810319607	OptanonAlertBoxClosed	2026-05-14T18:33:27.303Z
+.netflix.com	TRUE	/	TRUE	1812772380	NetflixId	ct%3DBgjHlOvcAxL_A45swhX6MaXFNC9QAfBQnXHyeiJdWmDfB_fVjHnZqs08BwC9kRjQj_DMDYNbI9g1VL1vRt7ei104yLDVbsVxJxcbyWE3hOxUa8q9-Fpauyx7rK-yw3hnFxvM2yoSwBjsWXzX2-g1OLDotBzz1Zt3AkkMvymaWmg-DPJ1C6XaDnnoxhmYNSFsrnZmMbcc_dmPRS3h8GMb3vYFBADrs__47VWUMVdFn6c5fF9EstVF90a_-bjBgQ2k7Yt9rP7jVrVDXdZq6SklyRIX7AzlsrNtfuUtmjcr_nJ1QqtEowaBOdJbuHi6Wfml5IB5JAX_z5l-rmYxdPb_TSOfunxXgP-GRvjsezQYLI_JBfyR6Nix7jLfNnMSuIdMgBKZJ7XCTBxYVibbnyIkogKNBV_yeDeHVb8Y0oVg6Spdi1q3z1BU6dn1tDYk-Nr_KkjfNEs5tgLT10bDGdOthOMsvaP28k1II8buOkHWosX0GJ8odtN50IrUyNfEhIw6lh_qXwKRX08cSGe4Y8OEGDRP-B_GUYxZq1F0Ne4O3LBR2QUfvG6OU_KiwNMhpPFgO1TFsEK-QafNRTXNfxftciCPH412bHy6HNXbD2JpAWjynqz-d93ptXOEaeMgSl4pG4iFLlRkNEN2Z3YU1k8pHFrWr06Hkrjl4FpO6_u43JE6ufJvV9u5U4cYBiIOCgxhGrlBdKbzNarg2y0.%26ch%3DAQEAEAABABQDEgByBt0AF4B0FCUDZjkyC30LoWH_39k.%26v%3D3%26pg%3DYHNITTQL75CPPPYXV4N2L3FDL4
+www.netflix.com	FALSE	/	FALSE	1781322781	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1812772380	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShKzMMYzTPFzw_Ag5S_oW_-4hrmRY4Iu4.%26dt%3D1781236378374
+.netflix.com	TRUE	/	FALSE	1812772381	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+09%3A23%3A01+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3675092-6a0e-4976-b39a-e1cd2219e02a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&intType=1&crTime=1778783608996&geolocation=IN%3BDL
+.netflix.com	TRUE	/	TRUE	1781322780	gsid	cd832a0c-b1c9-473b-b1b7-b516025d5872
+.netflix.com	TRUE	/	FALSE	1789012380	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789012380	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789012380	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

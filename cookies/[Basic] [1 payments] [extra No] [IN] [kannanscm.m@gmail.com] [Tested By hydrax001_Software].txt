@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Dv
+#EMAIL          : kannanscm.m@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2024
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-14
+#DAYS LEFT      : 29 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 01:37:58
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808072787	nfvdid	BQFmAAEBEBmBG_XXORqoSb0Kd6FGwn1gT4sbCmwZQfLSWbQzRhFTi_0gb3I57t_PdmCTmkvstig9wfHGAUkBQiV5m7BHtfUWjmc0ITl27SH0ZRF6nfx0P2YzxFoq6vo3ZV1NDBO9AACHiAJTRJhMoejdC2IWF1UQ
+.netflix.com	TRUE	/	TRUE	1781361205	gsid	20cd000e-1afa-47f4-bd5d-34a26a4fd12f
+.netflix.com	TRUE	/	TRUE	1812810820	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA36PeSUBOufYjuxwxujk_xYLF5jlUINDl1Gh9s607r16vhvYd-wC-5W_lpzNwvH_jvFQ6FG_2CWwpIWioU3j6prlrLrEHMp7QX_dJc3jAO0-2Ek3xWXFTnc6VGuGTh05oIB3j1DBHS92Yv9AgNiKG0tVYYZAOS8-2k4ADjCGiQdjNC2ajNi_q-RjMBI528KpJqqWCinhuc1bdr17CcxpntHe2lBnI1xzWB79lPvMasA5duaaLS83skw5vEbWlpv4qtiXUcqzqRW-s4eyWhffLLTm6RCK9Qohq4sypovDP8k7QaeL1F5daU3-rzXCxF08K-Nw5QRDN5clNQL5NJCc-YwErb9MxQ9hpc_wyCW7QArKbnfhDdOjPLFAVvPPkJetgu-BXO0t2DPUmGdiIKNzUuaYIC7SmZw8SD19LP13Pkc56vRWKxMK0jLLgNK66yWRB90KclRSgALhvUamdl5jnyKmoc__0IKH5vL-L0Mz9GNLbAsR_sRaewzgSEIl4smEIYJLDw52_BiGehQ3bgKqcclDMCBgRYkYBiIOCgxCREQlxw96ALQOGm4.%26pg%3DXCDXSMIJVVEX7C73ELDZ6KPJEE%26ch%3DAQEAEAABABSx_ySln1O68FD_RSKdGWMBu10HGP3E_a4.
+www.netflix.com	FALSE	/	FALSE	1781361219	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1812810823	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+20%3A03%3A43+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0c9f10fc-b340-4639-9fd0-c519d87a3bc7&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812810820	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBQqY4Z5zxkR_SiLzOoMFhbJ1LQPKA_cY.%26dt%3D1781274820873
+.netflix.com	TRUE	/	FALSE	1789050821	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789050821	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789050821	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781276627	profilesNewSession	0

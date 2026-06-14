@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jayden lawson
+#EMAIL          : chesnutdon@yahoo.com
+#PHONE          : +12097567382
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2025
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3974)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-21
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-13 22:32:08
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801009133	nfvdid	BQFmAAEBEGGde5QPph4tRl9eI7iS2o5gwUNgC0CKdPW5Fq6Z9b41BZWJ1cQxoYsl-niQVdoiM2vTKTCDnn4Yww9Q_sAvhB1fD_2WJdf3dG83xZU4mlerew8q-bdT68qqVPlKB9bTRTwI5JESTNnoQuIn0jbxogSt
+.netflix.com	TRUE	/	TRUE	1807146655	NetflixId	ct%3DBgjHlOvcAxK7A-y5AVEindgJW6lzcViMe3pSlO53j7WViIdoyTcD2FUeNjafcLvEfca3BzZqnchbjEcRh4U6ok521naSQpMIXq7suQNN5Oij-OYEidNQWGqxzqBWq8BgPDApBFyjtM8_2SSd4qViRN1UAXKE1xwygkvL6j8v1nrhO9Xe-RwdOy6cAqtmNdWqw65ZyLHulvrKOHLD9wuArwZhbzI7m5LeW0Mv4RUytck0oV6uHDr6IgnGqrfXIkrhxb0bKdIqLjVgtCnjdsF5kV99EGysOOTzMTlq8aX9kbPHZhHNLmMbw-nc_uszlyXsqEffDjmhhlWlMMQ3VDQBXo-rngvnq5gQdZqCjcVRFL5rets1cycWY1JhgmcBXBAIj8e_WtmHo_97_tSpZ0r5HJ4jKjr2-oPmgY2_W4YMspTQn-wiNgrMo07psONQ4x4LV6ZiquvJXuJloMh1H5qx9AIRBHcY7b66MlO8pqYbw_uvWlkSMldvu7CKNFu4ltxMrWvZ-roCyu4QRGKte7VFn55f0qzwIqdL7jS5NACgVwtm_GXDDKRdXmjxbxnH0CvdJMtjL9-XICV8HEDCUGuhko3ysPtiGAYiDgoMoXD_ohzN29E1Vdq_%26ch%3DAQEAEAABABTKn-1J0sUrlnfGNjlXjkr78IRT0ob_LVw.%26v%3D3%26pg%3DJ3PKSPQJSZB25JKR4X6BGHPAKY
+.netflix.com	TRUE	/	FALSE	1807146657	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+18%3A10%3A57+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e687d5d-e8b5-4f98-bc2a-5485995c98ae&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807146655	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSq3IiRXqOoXMnCdp8eZxZp7gtuaawjnw.%26dt%3D1775610655588
+.netflix.com	TRUE	/	FALSE	1783386664	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783386664	netflix-sans-normal-3-loaded	true
