@@ -390,14 +390,16 @@ def check_single_cookie(cookie_text):
             "mobile_link": None,
         }
 
-    links = build_nftoken_links(nftoken_data["token"], "mobile")
-    mobile_link = links[0][1] if links else None
+    links = build_nftoken_links(nftoken_data["token"], "both")
+    mobile_link = next((url for label, url in links if "Phone" in label), None)
+    pc_link = next((url for label, url in links if "PC" in label), None)
 
     return {
         "ok": True,
         "plan": plan_label,
         "country": country,
         "mobile_link": mobile_link,
+        "pc_link": pc_link,
         "expires": nftoken_data.get("expires_at_utc"),
     }
 
@@ -460,17 +462,21 @@ def process_cookie_async(chat_id, text, user):
     plan = result_data.get("plan", "Unknown")
     country = full_country_name(result_data.get("country"))
     mobile_link = result_data.get("mobile_link")
+    pc_link = result_data.get("pc_link")
 
     logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
 
-    if mobile_link:
+    if mobile_link or pc_link:
         msg_text = (
             f"{t(chat_id, 'alive')}\n"
             f"{t(chat_id, 'plan')}: {plan}\n"
-            f"{t(chat_id, 'country')}: {country}\n\n"
-            f"{t(chat_id, 'mobile_login')}:\n{mobile_link}"
-            f"{logout_warning}"
+            f"{t(chat_id, 'country')}: {country}\n"
         )
+        if pc_link:
+            msg_text += f"\n🖥️ PC Login:\n{pc_link}"
+        if mobile_link:
+            msg_text += f"\n📱 Mobile Login:\n{mobile_link}"
+        msg_text += logout_warning
         if result_data.get("expires"):
             msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
     else:
@@ -514,18 +520,22 @@ def process_get_netflix_async(chat_id):
     plan = result_data.get("plan", "Unknown")
     country = full_country_name(result_data.get("country"))
     mobile_link = result_data.get("mobile_link")
+    pc_link = result_data.get("pc_link")
     cookie_file = result_data.get("file", "")
 
     logout_warning = "\n\n⚠️ Do not log out the account once you are in, logging out will kill the cookie"
 
-    if mobile_link:
+    if mobile_link or pc_link:
         msg_text = (
             f"{t(chat_id, 'alive')}\n"
             f"{t(chat_id, 'plan')}: {plan}\n"
-            f"{t(chat_id, 'country')}: {country}\n\n"
-            f"{t(chat_id, 'mobile_login')}:\n{mobile_link}"
-            f"{logout_warning}"
+            f"{t(chat_id, 'country')}: {country}\n"
         )
+        if pc_link:
+            msg_text += f"\n🖥️ PC Login:\n{pc_link}"
+        if mobile_link:
+            msg_text += f"\n📱 Mobile Login:\n{mobile_link}"
+        msg_text += logout_warning
         if result_data.get("expires"):
             msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
     else:
