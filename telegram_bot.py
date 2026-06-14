@@ -473,9 +473,9 @@ def process_cookie_async(chat_id, text, user):
             f"{t(chat_id, 'country')}: {country}\n"
         )
         if pc_link:
-            msg_text += f"\n🖥️ PC Login:\n{pc_link}"
+            msg_text += f'\n🖥️ PC Login: <a href="{pc_link}">Click to Login</a>'
         if mobile_link:
-            msg_text += f"\n📱 Mobile Login:\n{mobile_link}"
+            msg_text += f'\n📱 Mobile Login: <a href="{mobile_link}">Click to Login</a>'
         msg_text += logout_warning
         if result_data.get("expires"):
             msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
@@ -532,9 +532,9 @@ def process_get_netflix_async(chat_id):
             f"{t(chat_id, 'country')}: {country}\n"
         )
         if pc_link:
-            msg_text += f"\n🖥️ PC Login:\n{pc_link}"
+            msg_text += f'\n🖥️ PC Login: <a href="{pc_link}">Click to Login</a>'
         if mobile_link:
-            msg_text += f"\n📱 Mobile Login:\n{mobile_link}"
+            msg_text += f'\n📱 Mobile Login: <a href="{mobile_link}">Click to Login</a>'
         msg_text += logout_warning
         if result_data.get("expires"):
             msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
