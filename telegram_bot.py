@@ -489,6 +489,7 @@ def process_cookie_async(chat_id, text, user):
             msg_text += f'\n🖥️ PC Login: <a href="{pc_link}">Click to Login</a>'
         if mobile_link:
             msg_text += f'\n📱 Mobile Login: <a href="{mobile_link}">Click to Login</a>'
+            msg_text += '\n⚠️ iOS: Link won\'t open in Telegram. Copy and open in Safari.'
         msg_text += logout_warning
         expiry_kh = format_expiry_cambodia(result_data.get("expires"))
         if expiry_kh:
@@ -549,6 +550,7 @@ def process_get_netflix_async(chat_id):
             msg_text += f'\n🖥️ PC Login: <a href="{pc_link}">Click to Login</a>'
         if mobile_link:
             msg_text += f'\n📱 Mobile Login: <a href="{mobile_link}">Click to Login</a>'
+            msg_text += '\n⚠️ iOS: Link won\'t open in Telegram. Copy and open in Safari.'
         msg_text += logout_warning
         expiry_kh = format_expiry_cambodia(result_data.get("expires"))
         if expiry_kh:
@@ -622,14 +624,21 @@ def webhook():
     if text == t(chat_id, "get_netflix_btn"):
         if chat_id not in admins:
             now = time.time()
-            last = cooldowns.get(chat_id, 0)
-            elapsed = now - last
-            if elapsed < COOLDOWN_SECONDS:
-                remaining = int(COOLDOWN_SECONDS - elapsed)
-                minutes, seconds = divmod(remaining, 60)
-                send_message(chat_id, t(chat_id, "cooldown", minutes=minutes, seconds=seconds))
-                return "ok", 200
-            cooldowns[chat_id] = now
+            entry = cooldowns.get(chat_id)
+            if entry:
+                elapsed = now - entry["first_use"]
+                if elapsed < COOLDOWN_SECONDS:
+                    if entry["count"] >= 3:
+                        remaining = int(COOLDOWN_SECONDS - elapsed)
+                        minutes, seconds = divmod(remaining, 60)
+                        send_message(chat_id, t(chat_id, "cooldown", minutes=minutes, seconds=seconds))
+                        return "ok", 200
+                    entry["count"] += 1
+                else:
+                    entry["first_use"] = now
+                    entry["count"] = 1
+            else:
+                cooldowns[chat_id] = {"first_use": now, "count": 1}
         send_message(chat_id, t(chat_id, "get_netflix_checking"))
         threading.Thread(
             target=process_get_netflix_async,
