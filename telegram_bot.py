@@ -52,6 +52,7 @@ cooldowns = {}
 awaiting_cookie = set()
 awaiting_admin_password = set()
 awaiting_broadcast = set()
+admins = set()
 ADMIN_PASSWORD = "1509"
 COOLDOWN_SECONDS = 600
 INDEX_FILE = "cookie_index.json"
@@ -577,7 +578,7 @@ def webhook():
     user = msg["from"].get("first_name", "User")
 
     if not is_channel_member(chat_id):
-        for s in (awaiting_cookie, awaiting_admin_password, awaiting_broadcast):
+        for s in (awaiting_cookie, awaiting_admin_password, awaiting_broadcast, admins):
             s.discard(chat_id)
         msg_text = (
             "\u26a0\ufe0f <b>Channel membership required!</b>\n\n"
@@ -604,6 +605,8 @@ def webhook():
 
     if text == "/start" or text == t(chat_id, "menu"):
         add_user(chat_id)
+        for s in (awaiting_cookie, awaiting_admin_password, awaiting_broadcast):
+            s.discard(chat_id)
         send_message(
             chat_id, t(chat_id, "start_msg"), parse_mode="HTML",
             keyboard=[
@@ -617,15 +620,16 @@ def webhook():
         return "ok", 200
 
     if text == t(chat_id, "get_netflix_btn"):
-        now = time.time()
-        last = cooldowns.get(chat_id, 0)
-        elapsed = now - last
-        if elapsed < COOLDOWN_SECONDS:
-            remaining = int(COOLDOWN_SECONDS - elapsed)
-            minutes, seconds = divmod(remaining, 60)
-            send_message(chat_id, t(chat_id, "cooldown", minutes=minutes, seconds=seconds))
-            return "ok", 200
-        cooldowns[chat_id] = now
+        if chat_id not in admins:
+            now = time.time()
+            last = cooldowns.get(chat_id, 0)
+            elapsed = now - last
+            if elapsed < COOLDOWN_SECONDS:
+                remaining = int(COOLDOWN_SECONDS - elapsed)
+                minutes, seconds = divmod(remaining, 60)
+                send_message(chat_id, t(chat_id, "cooldown", minutes=minutes, seconds=seconds))
+                return "ok", 200
+            cooldowns[chat_id] = now
         send_message(chat_id, t(chat_id, "get_netflix_checking"))
         threading.Thread(
             target=process_get_netflix_async,
@@ -644,8 +648,8 @@ def webhook():
     if chat_id in awaiting_admin_password:
         awaiting_admin_password.discard(chat_id)
         if text == ADMIN_PASSWORD:
-            awaiting_broadcast.add(chat_id)
-            send_message(chat_id, t(chat_id, "broadcast_prompt"),
+            admins.add(chat_id)
+            send_message(chat_id, "\u2705 You are now logged in as admin. Cooldown bypassed.",
                          keyboard=[[t(chat_id, "menu")]])
         else:
             send_message(chat_id, t(chat_id, "wrong_password"),
