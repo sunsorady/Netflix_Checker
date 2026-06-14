@@ -54,6 +54,7 @@ awaiting_admin_password = set()
 awaiting_broadcast = set()
 ADMIN_PASSWORD = "1509"
 COOLDOWN_SECONDS = 600
+INDEX_FILE = "cookie_index.json"
 
 REQUIRED_CHANNEL = "@dansmethod"
 CHANNEL_LINK = "https://t.me/dansmethod"
@@ -239,6 +240,92 @@ def full_country_name(code):
     return COUNTRY_FULL_NAMES.get(upper, upper)
 
 
+def _extract_earliest_expiry(filepath):
+    """Read a cookie file and return the earliest expiry timestamp, or 0 if none."""
+    earliest = None
+    try:
+        with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                parts = line.strip().split("\t")
+                if len(parts) >= 7 and parts[5] in ("NetflixId", "SecureNetflixId"):
+                    try:
+                        exp = int(float(parts[4]))
+                        if exp > 0 and (earliest is None or exp < earliest):
+                            earliest = exp
+                    except (ValueError, IndexError):
+                        pass
+    except Exception:
+        pass
+    return earliest if earliest is not None else 0
+
+
+def build_cookie_index():
+    """Scan all .txt files in cookies/ and build/update the expiry index."""
+    cookie_dir = cookies_folder
+    if not os.path.exists(cookie_dir):
+        return {}
+    index = {}
+    for fname in os.listdir(cookie_dir):
+        if not fname.lower().endswith(".txt"):
+            continue
+        filepath = os.path.join(cookie_dir, fname)
+        index[fname] = _extract_earliest_expiry(filepath)
+    _save_index(index)
+    return index
+
+
+def _save_index(index):
+    try:
+        with open(INDEX_FILE, "w", encoding="utf-8") as f:
+            json.dump(index, f, separators=(",", ":"))
+    except Exception as e:
+        logger.warning(f"Failed to save cookie index: {e}")
+
+
+def _load_index():
+    if not os.path.exists(INDEX_FILE):
+        return None
+    try:
+        with open(INDEX_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def get_sorted_cookie_files():
+    """Return .txt files sorted by expiry ascending (soonest first)."""
+    cookie_dir = cookies_folder
+    if not os.path.exists(cookie_dir):
+        return []
+
+    current = {f for f in os.listdir(cookie_dir) if f.lower().endswith(".txt")}
+    if not current:
+        return []
+
+    index = _load_index()
+    if index is None:
+        index = build_cookie_index()
+    else:
+        stale = set(index.keys()) - current
+        if stale:
+            for k in stale:
+                del index[k]
+        new = current - set(index.keys())
+        if new:
+            for fname in new:
+                filepath = os.path.join(cookie_dir, fname)
+                index[fname] = _extract_earliest_expiry(filepath)
+        if stale or new:
+            _save_index(index)
+
+    sorted_files = sorted(current, key=lambda f: (
+        1 if index.get(f, 0) == 0 else 0,
+        index.get(f, 0) or 0,
+        f,
+    ))
+    return sorted_files
+
+
 def check_single_cookie(cookie_text):
     bundles = extract_netflix_cookie_bundles(cookie_text)
     if not bundles:
@@ -323,31 +410,31 @@ def get_random_cookie_and_check():
     tried = set()
 
     while True:
-        files = [f for f in os.listdir(cookie_dir) if f.lower().endswith(".txt")]
-        available = [f for f in files if f not in tried]
+        sorted_files = get_sorted_cookie_files()
+        available = [f for f in sorted_files if f not in tried]
         if not available:
             return {"ok": False, "error": "No cookies available in the pool."}
 
-        random_file = random.choice(available)
-        tried.add(random_file)
-        file_path = os.path.join(cookie_dir, random_file)
+        cookie_file = available[0]
+        tried.add(cookie_file)
+        file_path = os.path.join(cookie_dir, cookie_file)
 
         try:
             with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
                 content = f.read()
         except Exception as e:
-            move_cookie_with_reason(file_path, broken_folder, random_file, "file read error")
+            move_cookie_with_reason(file_path, broken_folder, cookie_file, "file read error")
             continue
 
         result = check_single_cookie(content)
-        result["file"] = random_file
+        result["file"] = cookie_file
 
         if not result["ok"]:
             error_reason = result.get("error", "dead")
             if any(t in error_reason.lower() for t in ("timeout", "network", "error", "equest")):
-                move_cookie_with_reason(file_path, broken_folder, random_file, error_reason)
+                move_cookie_with_reason(file_path, broken_folder, cookie_file, error_reason)
             else:
-                move_cookie_with_reason(file_path, failed_folder, random_file, error_reason)
+                move_cookie_with_reason(file_path, failed_folder, cookie_file, error_reason)
             continue
 
         return result
