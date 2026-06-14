@@ -247,7 +247,7 @@ def format_expiry_cambodia(utc_str):
     try:
         utc_dt = datetime.strptime(utc_str.replace(" UTC", ""), "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
         kh_dt = utc_dt + timedelta(hours=7)
-        return kh_dt.strftime("%Y-%m-%d %H:%M:%S ICT")
+        return kh_dt.strftime("%Y-%m-%d %H:%M:%S")
     except Exception:
         return utc_str
 
