@@ -240,6 +240,18 @@ def full_country_name(code):
     return COUNTRY_FULL_NAMES.get(upper, upper)
 
 
+def format_expiry_cambodia(utc_str):
+    """Convert '2026-06-14 09:08:05 UTC' to Cambodia time (UTC+7)."""
+    if not utc_str:
+        return None
+    try:
+        utc_dt = datetime.strptime(utc_str.replace(" UTC", ""), "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+        kh_dt = utc_dt + timedelta(hours=7)
+        return kh_dt.strftime("%Y-%m-%d %H:%M:%S ICT")
+    except Exception:
+        return utc_str
+
+
 def _extract_earliest_expiry(filepath):
     """Read a cookie file and return the earliest expiry timestamp, or 0 if none."""
     earliest = None
@@ -477,8 +489,9 @@ def process_cookie_async(chat_id, text, user):
         if mobile_link:
             msg_text += f'\n📱 Mobile Login: <a href="{mobile_link}">Click to Login</a>'
         msg_text += logout_warning
-        if result_data.get("expires"):
-            msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
+        expiry_kh = format_expiry_cambodia(result_data.get("expires"))
+        if expiry_kh:
+            msg_text += f"\n\n{t(chat_id, 'expires')}: {expiry_kh}"
     else:
         nftoken_err = result_data.get("nftoken_error", "Unknown error")
         escaped = text[:200].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -536,8 +549,9 @@ def process_get_netflix_async(chat_id):
         if mobile_link:
             msg_text += f'\n📱 Mobile Login: <a href="{mobile_link}">Click to Login</a>'
         msg_text += logout_warning
-        if result_data.get("expires"):
-            msg_text += f"\n\n{t(chat_id, 'expires')}: {result_data['expires']}"
+        expiry_kh = format_expiry_cambodia(result_data.get("expires"))
+        if expiry_kh:
+            msg_text += f"\n\n{t(chat_id, 'expires')}: {expiry_kh}"
     else:
         nftoken_err = result_data.get("nftoken_error", "Unknown error")
         msg_text = (
