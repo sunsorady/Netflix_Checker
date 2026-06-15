@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Luc
+#EMAIL          : lboiron@gmail.com
+#PHONE          : +33611193817
+#EMAIL VERIFIED : Yes
+#CREATED        : novembre 2017
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CP_FR_BILLED (7064)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 20:00:31
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801602231	OptanonAlertBoxClosed	2026-02-02T21:03:51.801Z
+.netflix.com	TRUE	/	FALSE	1801602229	nfvdid	BQFmAAEBEMlELDBGW3rrJF7gDamo2kNgI7w2xrZTukIeGey-1BvYUnS_7MwSHFybB9yjybb2OuspJW2kN9aAqO_6ArE7_ZmFCKBykQUpoWkXjVV1BrE90P0ejXY_t63Z5psD5fYcOu12kL0vSX6iZjkHbdSuIh-c
+.netflix.com	TRUE	/	FALSE	1804637624	dsca	customer
+.netflix.com	TRUE	/	TRUE	1811414884	NetflixId	ct%3DBgjHlOvcAxKDBGz-9USh_qH6JYNULxivdyBYm69C65FWKD7q8WRMZuWO3DANFG6o-3LkDz5h4Gcv41b4h6iw-vZf1P9aGXa2ivkqhA_AvKz0dOsNTmJktnhzezrQzwkW6EV91L3yT04YnSmwRwpQNL-GPxYSycNSEuiVKQHvp4zJeAOd5nctcMHgloM5JmwZmkN-rWs4lDW3v6nslJwgTbgN07AgEJhP7xB4HzMINlRcbRt6vrVsztfYE1TpBVi2uE5PxOk67_G8J1yIupczfsYZ_zVBT2HOI1FZYD-OTqJnIkg0xliLSg02WVihoZ97a8JHXO_D-PgCeVHn_2GC1Anoya7Z929VXY68-uh31lgBTHwpSagY05xz1AD1mjymecrjcT9zId-jYgEKMU7Jp-p1n29FLmiXYxavf2-yzbOSUDDMOfLtS35S2Y1PK-xwsjBtOUdG5q8uaHH214pcQFPi8IYZC6kP_40n0882BLWHJG9QhtNpWDUNYeJrg69dNv1m_izUGh1H1bRV--U3ZvC-8TcCnENoTSsCJ-SjqxADrU4RylwOPv5i2ZWDZfEzfYSMvyJ0HnVfbICAAEVnnh-e1eluLHCVuaCf1DPDzUHz-kljju9jbqtbWAiRsjQW7YG98Lc4jQcBrJ0dFUwVBNFxp1oWuhe5vQsGq4CvR1AsVAOe6LjVoXQXDkJxGAYiDgoMeujE6zCvvGKC6QN6%26ch%3DAQEAEAABABQ9Q7-I50g7CZW5CgH13vyLEIEDzDpFHIc.%26v%3D3%26pg%3DPN5G5ZXENVD4BA2QARYOR32NMI
+.netflix.com	TRUE	/	TRUE	1811414884	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQb2hWconf1KXVGqhJMUBZ1Izt3qeJVy8M.%26dt%3D1779878884627
+.netflix.com	TRUE	/	FALSE	1811456545	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+00%3A22%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=44c9d928-f9c8-4003-91ab-5c8122460361&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770066232160&geolocation=FR%3BHDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1787696545	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

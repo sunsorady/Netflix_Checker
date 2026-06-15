@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Marcelo
+#EMAIL          : kelyfonseca20@hotmail.com
+#PHONE          : +5511934341497
+#EMAIL VERIFIED : Yes
+#CREATED        : junho de 2018
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9473)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-17
+#DAYS LEFT      : 2 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:12
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1805240963	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-ApgDFVyIsh7cCzM09Iseqld3Zup6RF0KxNZZbwozfpuMVbSzD0p_Q0EySwIpOSU9d9X7b0d3p-6hA97YFKdk8SIxJTUZ04OO31bBslCpoQmuJEpx7Jphgj_Bikr_GCmCS5oD8yWc5-z24ptqJl3PmfGs6bNyML7ubs8sOhAvqtNEc-rJTkLuHS6gP81XxC4n4L5y-bemH0C_vFDyvY5JuK9cydsb-iL-8UahNMk_OjeQvH2BtfkdGSt56aOsm_xFRaRq_t3SVySYtfKmSe8cYCaPAnHffEiKRJVo9ax2jFpK1Fb3PShpq_6Q3u0eR0tZEBxwF4mJ-GyGbRB1JHEC9lQFZM1kcrmGrxL8FU3s34-Lqo5BO-qhqGEWd0TRONoFWoLDNi3DOVWyCANBgUzyQe_tjIdxAteXmZFUnPh40u7ZBNzn2BhayqcYSqhDBXa0apZqgO9G9OYIJFyJWPrIoEhTIxF-uSXD_8lSukeCeqSyND1AT8G3Ts44dGJdl4sYBiIOCgzc0bIqX9VU-v52Hiw.%26pg%3D3KFMF2X3NJBS5CWAOFVHFUX6EM%26ch%3DAQEAEAABABS7HOXbiFL4RLw5XhmNoYrb4snR-wueEwo.
+.netflix.com	TRUE	/	FALSE	1805240963	OptanonAlertBoxClosed	2026-03-16T23:49:23.857Z
+.netflix.com	TRUE	/	TRUE	1805240963	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZMPptEYICTYkesPWIA9kTdHCbYcXlOyQ.%26dt%3D1773704964073
+.netflix.com	TRUE	/	TRUE	1808264961	dsca	true
+.netflix.com	TRUE	/	FALSE	1805240961	nfvdid	BQFmAAEBEIdJ7AaTotoITlmP5EPckiJgifPFgu_Hl5ouf4iMvNYqrCc1y86B3W7yTLe3CuEUuo7Vp6_459k04okI72JF0Jw20KuHEiCZayyQi1pMWeCog22EQRW71D7RbT0O53LZPYI70rOh8mSiRDX0EaoNfFUH
+.netflix.com	TRUE	/	FALSE	1805241056	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+20%3A50%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=321f56f2-26b5-4d47-89a6-db856383f83c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773704964243&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	FALSE	1781481056	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781481056	netflix-sans-normal-3-loaded	true

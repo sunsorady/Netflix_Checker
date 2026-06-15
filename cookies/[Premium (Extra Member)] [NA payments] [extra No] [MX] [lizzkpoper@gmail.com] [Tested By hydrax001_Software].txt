@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mami
+#EMAIL          : lizzkpoper@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2025
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium (Extra Member) [UHD] [Streams: 1]
+#PAYMENT METHOD : N/A
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:51:36
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1781653998	nfvdid	BQFmAAEBEGe-QMZB-3rZnitnktu_XhZgn08Pu8LAubwzC2ynyom3ts_exehioqpLiQiFkT2LdU4GsdDPEEY2IkJgdms16eHphDHvBvy7qq4XDJIzgVafChfVz4Oz3Jy8uUVwlsuE3m6R7NIvyZcsbr219C4DMqPX
+.netflix.com	TRUE	/	TRUE	1782359665	NetflixId	ct%3DBgjHlOvcAxKZAwv6kkNkcdig4uq7WmHjpS0VAAcyyy_q6BNwdDFgrGPXaXl08s7l4-92H8lcGke37E5hKdAblm23W4sQE3CZpv2O5Gxlt9mBNX8jWzurLG_zLWc2upg-oLmgp8stFyLx2yJtVSkWOzcJU1UGQjECoEyS5_yYyz0Cy_MlGSmHSZi5oHfP5aytsOqge924q3Gx2jKQksXky0oDU-vX5k6J4I_7rood8-Ul5QmKj2zIfedTfRykF6zlNdabuaE5hLzNSSc6aBzVTIExatKhPdZbZvpn62-yrawWJJVtU6G83U-1HrFBbMh0j_TSwNDifYbwRAyvQl5jRcPY2PP6qt8Dxh1wdrspWq9X5TQkzRexq_NqIzVdFjLdrO5h5x5jahHAnwp9w9A0dIHGm9S7GgrPvaUM_bQaIW6NUvIMEmrv-Mggv4oBv-gz2ZBRgkQGuHS1wdbfbsrFlGHjlsjeYel3Q801tAd1iJaSiucu6ERH-PtcJW-fYOYZsBXRqhgsM34uQXW6R3T5WM07QISHqP_918d_TlBcdGskXk8YBiIOCgwybg6IoFZlp5RCTZg.%26ch%3DAQEAEAABABSRtrxpAxzUT--lKL9CebvAUP0x5M2825U.%26v%3D3%26pg%3DRFO72NQOQVCKLB75IPOV6RSYXQ
+.netflix.com	TRUE	/	FALSE	1782359667	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+24+2025+21%3A54%3A27+GMT-0600+(hora+est%C3%A1ndar+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=27cb970c-f62b-4272-bcb0-72624e6d31a3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BPUE
+.netflix.com	TRUE	/	TRUE	1782359665	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfcDjR9SQwCgJVrA0Qz1VpMCiBs5Zw5Mw.%26dt%3D1750823663613

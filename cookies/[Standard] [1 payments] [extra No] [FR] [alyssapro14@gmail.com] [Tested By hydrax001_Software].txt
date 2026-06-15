@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Aly
+#EMAIL          : alyssapro14@gmail.com
+#PHONE          : +33788324666
+#EMAIL VERIFIED : Yes
+#CREATED        : janvier 2024
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CP_FR_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:36:27
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1803401857	OptanonAlertBoxClosed	2026-02-23T16:57:37.790Z
+.netflix.com	TRUE	/	TRUE	1806425856	dsca	true
+.netflix.com	TRUE	/	FALSE	1803401856	nfvdid	BQFmAAEBEB8jAuwgM_f7dfm01mJl4WFgKtA7cXytKCWPRWDPlkrSXoAKC9LntJSB0MUk47HWwtuqZxEC_CzuB2eIZxCflXdPhFGdUSYphKHhoyrfMYAig93UI_AXUs9gh2q-WzY-dKJ9szFV-iDWQg8GnM8qeDpi
+.netflix.com	TRUE	/	TRUE	1804438567	NetflixId	ct%3DBgjHlOvcAxL9AwZRy5q70L1j6L7x7f3K-rK0gP2GiCRrFITfActqa1qxezgyiCwikbqmdkCy9tw6aYYHXboZ6X1sM5bVZz82UkKprUoSSA9D6vncU68VdU9_6HQKyRWrjodldLEL1WLJejIQGSuzgxu8XWuYXots5x-Dd45Rp63ME82X9xGvtLm88gvx2lUztcpOA99n_1Y2g4CxE0UF4x_GCpGUIRRpMkRX8M-llqztByTapGM3BFY6Dsb6fBUKKguz8kBDDafcH2gmOdq-IGa3lh_UOX7nw6FQW9xDQJdfcmD9jcx_16XwbKpCbtwYvawlQfa1QIVDcPZGOM2eJJsXOnpW8g_F4aRl74vyD8vzO5tGJSQyscqh3IQzzQZDec3ckoAGpn1Q4GEygkC0OVYTKd1Atv0jVvoZoLRqBxWYC6r0nCuMFIOXof7vONMOGUhX-u-khOuH3xQwpkHYWwyRbznOlzmeUjc4vEzoVjdz5SL7K1zriFEv0Q_fZ0-olQ0todWBBGqI86M6Q69tKVtprKMR2UkfdDtRseCeHWdHboAZsLhN-5QUgMANc0uL7fjW5y7dOadBNm8d-ypQt7mxfH7jfvK6Om_HAoRbSMUHXl3o5RWGZMQJf_2EQw9J_W8dobm3zzfDAx2dVASxmOljN7TGIcB3DWE_0-n36mgO9KlidcrUGAYiDgoMn0gx3-5lXOeAcRvY%26ch%3DAQEAEAABABQV6QJdVJJcQR1NjotHJ73fLJcSH7rjIxk.%26v%3D3%26pg%3D5LV43N24VBC7LMRDOTVYBXXL54
+.netflix.com	TRUE	/	FALSE	1804438568	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+17%3A56%3A08+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c20a90d-93d7-4879-843e-c21013a8c7c9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1771865858161&AwaitingReconsent=false&intType=2&geolocation=FR%3BCVL
+.netflix.com	TRUE	/	TRUE	1804438567	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTveOm576Tx-YGT3O7CiOxqgtxxKIjrCfA.%26dt%3D1772902565796
+.netflix.com	TRUE	/	TRUE	1772988968	gsid	6c563111-c86a-4ef0-8de6-1e7a126354dc
+.netflix.com	TRUE	/	FALSE	1780678568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780678568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1772931462	profilesNewSession	0

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Captain
+#EMAIL          : brad.blackman@gmail.com
+#PHONE          : +16152944121
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2011
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3740)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-27
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:52:46
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	13436586931298674	nfvdid	BQFmAAEBEK_1poTDOB_SAYSgQ3H9n0tgrPDeKlfr6fNWFr3rKgPNW8P8ZGpAa4a5SzdHTIhut4QiSr_UXsrnmuLTmEJ2YJsYFFhikC9PFyExBG5LKpaAOKjM7F-Sfok59bDGdb4Z-GIGhXIugijKab8HvQY4heII
+.netflix.com	TRUE	/	TRUE	13453169496500721	NetflixId	ct%3DBgjHlOvcAxL7A3IdST3O056OgnPh8MfHvWER2IZvAWs8tIzugKGJEcu5WASPGTd3mxAl2gFOqmmHWC5vKXvUOo3huaJB3Gs05Hnt848BP_IZZ4UH2u9UJMRKboIobSdd2VXpGPR10Rt9FryH8gpROAjxkm15nP-m0G1VVR6SOQtuySYX_-1AND5nVAWI_NIGCyiZ7VstzNGKqetfr1f6oJCAHtnEjDk0SdP2Dcq-bmIhrPrugnfhW68IOYgdcJcSZFlNhGG08rZ1A94MBqxh7IeMKcB5-uMewLSEgc9z3ShWBPPsvOtUvciSLcWCtquRJkdfsviE6IWboUvHAFcEshovlzBRidFpC1lLEl3V1r_Syy2nQkH49DtvioV-__BpArhPdKn-TPGflB1Agsf1Emq5RdHBJJfEXGrvTvbr4bGy5QeD2Qoq7qf4iuGLG7Em9xbgHAoFG6OjKesTDewyJK-9bfZux0O-df6ZTZ7IdfgQ0toEo6tGB3oJ_1Q9DwuEIHc_Hm3lNBBzSv4807oUpsUeMUMYu0ani2OIdKF7_f-pAg_b9Px9qlq09NWqyJQdDWXcGoO-YVlr2q5L50i49nr_q7INHxgFB1pj3icrx5_iHHyFV4Ju2BmtTTjNuz7iJ0Ur_-DTYSoHuGfGKBjo1odIikXJRIwPPsUi_QdIJ8SyHc4JmBgGIg4KDMuyX7mxbj6hBFeafA..%26ch%3DAQEAEAABABQYaLbnzSYxzbYy6-Z1c98GGnN0CdsQDk4.%26v%3D3%26pg%3DLAIZVO556RHZ3MI2BBVPVOSH4Y
+.netflix.com	TRUE	/	TRUE	13453169496500286	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRf7lEjwOAuQsrMQ2XeYxWVLqOXBP1UAf4.%26dt%3D1777159896160
+.netflix.com	TRUE	/	TRUE	13421719896500816	gsid	17b031ae-5870-4cd3-8ccc-4c2e14306f08
+.netflix.com	TRUE	/	FALSE	13429409496500195	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13429409496500131	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13429409496499982	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	13421640786548631	profilesNewSession	0

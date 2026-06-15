@@ -1,30 +1,28 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: {Arhan}
-– Email: imrahmadimr@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: November 2023
-– Next Billing: 2026-07-04
-– Payment: UPI
-– Card: N/A
-– Phone: +919899070990
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: imrahmadimr
-– User GUID: BSJIHEP5JJGZTCDZLVOIOYG2YQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : {Arhan}
+#EMAIL          : imrahmadimr@gmail.com
+#PHONE          : +919899070990
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2023
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-04
+#DAYS LEFT      : 19 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:12:28
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1789395391	nfvdid	BQFmAAEBEKEnCrLx95ApLrw1v-p8plBg5R9IQKlxAeAzT8Eu7Ri184akLKka5P8A8N9aAL7GBcD13Ar9XMM1i82Vs5vzayxyBDTZVbmNj6AoQGPELKYEiFbDWegpoUi3dDfoveAeXSU4zhsCRU4H3zUV3TP8Kxob
 .netflix.com	TRUE	/	TRUE	1805172140	NetflixId	ct%3DBgjHlOvcAxKDBDYFAs_okowiop953XmgeZbJ9kKaSwYZiAMVNvQl5FKCAKjpca0DJCDo0j7zPoN0ukVKG2MPL88ohbZAyN6Dw60tJExZ-ooOOhhbf88j3kleeyWfMnLfDUImwDN3_vB5jNOAQmCa-elWLkxRpfIcQG7GfrcmbQNI_joobzGPNwolfk22b9ZFmU9AAIl6lMKpEJq1iJ0NHKiCMsgFdpVD6twEsVeiVHZHzQ9gIxjf94hQkprubpeDY99STCfgaaItf6T5tgq_sU1utG2SP-YL97UjGrXGyCg6z0e5pIlem6YoQKa9y3_wSWGkEecXNxRMBKB7Bf9kPcofEt03YCi9jHDRhp39HN3EnZMt6AjFa-6f1tKGD6M2kiA2JmzDFXDW85VkSVgjCcbQ4a_rcarp7941GzosHH-SMRe9d9AvKp9gaZ2JsVC1Vay12H4XMl7TjLrMizTfygZr3_0g7Hz9yRPkEHrwLF74meD_egyYuclObcKdyAOh7LnhjRPxaS9OgzQ_79PFndpK3i_P9g6zJJj1xPCRSOcWqpHqjrUjIeJz5RmrWRPFZLDVcFH6GJNScIa3CyPZU5j9CWJS4pVKQZZRZkBRtBEG0iIEXil4B7pXEohnzwTsPlu9EaPInKU0J6EXeSeq0uodCmYLGSXoEuls06d8vjhq69MvNdXO0qcHjVyrGAYiDgoMCmZt761p4MnycwKu%26ch%3DAQEAEAABABR9PnFXgfcTkdCgL_1PvLEIz30P0y6nqvs.%26v%3D3%26pg%3DBSJIHEP5JJGZTCDZLVOIOYG2YQ
 .netflix.com	TRUE	/	FALSE	1805172143	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+10%3A12%3A23+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b627c56d-7015-4f0d-a76a-ea55df3fc659&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1805172140	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQXmN9ULttNhGQJzsvRYPjl6h95uzL6GSg.%26dt%3D1773549725296
+.netflix.com	TRUE	/	FALSE	1781412142	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781412142	netflix-sans-normal-3-loaded	true

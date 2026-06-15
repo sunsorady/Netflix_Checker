@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Momzy
+#EMAIL          : jwan112@aol.com
+#PHONE          : +19172794453
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2006
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (1002)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:10:06
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1766351085000	nfvdid	BQFmAAEBEKS5gpieIbh9xdU3--Xc9_FgLX-_99P2Vdbl6eEbBeet0B9m2lFoaCj0jrG6HsyobC7Qp353uskBuzuVRCesLr-KVQb4A56xFzAII8dToIzoiPvk-Z41zUo7O47M-XNaNlfBc-F9SbCKQmT77RCHikwh
+.netflix.com	TRUE	/	TRUE	1754185943000	gsid	683a37a3-7c79-4fb5-adff-123135759221
+.netflix.com	TRUE	/	FALSE	1754794951000	flwssn	b9f20288-856a-42cb-b24b-75bded4698c6
+.netflix.com	TRUE	/	FALSE	1754955514000	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1786600405000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0COoJNF1FHc-MZJ0wkdKXNcFHb1UeXCQ.%26dt%3D1755064410418
+.netflix.com	TRUE	/	TRUE	1786600405000	NetflixId	ct%3DBgjHlOvcAxKFA0cdWdipVIT6EJkqcrXJ81wmlAr6b8Q_NUFVmseX7bREeD6KcIEM1rrXDC82L3tx70m6rbGiL6Y1qcbXnvGsHh65h8BEOM9fq-afS7xYFTA5vRf3-AiFMe6k1w2aqfbUrExNJ1yT1v6jhvcz0U-Vue08vUrHjz2HOGBTury1duDEdAuyOPwGZwsDeoSkdG_M73PqvUwqGRlZhgHbR0RIMqeeRwnqYpst9Kxwnz0CSw2VqCn-sQ9b3Euii3kTQ9YIvx-iKtQOL1ZVJIEFkAIAiUe3zsyv6U_775PQk20pzEjPc91eC3_Z5Kop2n_epCNLaRWNsvtVpTb18ofru6ZAIPAXVlmpWQeWT8UrLnb9EvwWK9z_5ONEiavVA1eLncbG9GmNcCyyIMDa-uHbVfb-Cxn20r8Aak8Ly8Rp8R9_eCYwJxnN4xRa66qgRK5u6HHHpb0qMqH2pbjpk4mudm5aoeIMdvwat0GYbmWIJ_AIQ3TT6oS4TLmmvWqv6ua7htzoq4mXplU3GAYiDgoM6J3vMFUR8ZPuDM2W%26ch%3DAQEAEAABABQQdlk7R_vX7fgrH-dksxIeUY_C0PVgnu0.%26v%3D3%26pg%3DLRJAX5PMRBBKTLZQW5KIVNQOYI
+.netflix.com	TRUE	/	FALSE	1786600406000	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+13+2025+01%3A53%3A26+GMT-0400+(Eastern+Daylight+Time)&version=202506.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=cb7f6e5d-228f-4b38-ab2b-8fd26169a279&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jairo
+#EMAIL          : rsirventgomis@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : mayo de 2022
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : TELEFONICA_SPAIN_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:00:12
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1787440576	OptanonAlertBoxClosed	2025-08-22T23:16:16.686Z
+.netflix.com	TRUE	/	FALSE	1787440593	nfvdid	BQFmAAEBEIwb2ba27sN3f5i9datcdAZg2u2bcasH5nDNThpZFQ98LtUKaEwxdUrBysaccVW0CK4NRF6V5jOFtB6o2HDtICPnSURkc_jvpVdg4I9WZ__4Na7k8rNNqE8ff88RYT-uT6YnDlE0G9dJIXBtJ5n2V4aT
+.netflix.com	TRUE	/	FALSE	1797274810	dsca	customer
+.netflix.com	TRUE	/	TRUE	1795224734	NetflixId	ct%3DBgjHlOvcAxKuA1RbKXig0nkLt-kXCIrGSdGo9FfXGKXZlwoh_jzti0TVIsmA18Hy-qzWuSLCXsDY-Nj9LJR7wGUDWHH5l2hdVw7qB4BwtILsHn9zZU5AmsGlN6FgngELzmAXvKssrep-Jtxl8KGoyr23nbzGI1U0VneUjv3JfhJfirQ3FZmwCK2N_dPnm5NLmnEMrknthrJOyxwx9xLxzGVUQ38UOJKpd_ijEK5Qw5nDBnvHqkCROM_zaB3NVs_WTtdWZLnNsUt3rfoaJg4EHZ4A6WwQXleIpOgsIsCUICI-Xsxw5Qm96FYItPzLjeDv1qH7s_Lyi0b01GBZzXuY70vZdq7lVXchHcCbQTH3jWSm870iKYnAM6UwfimTBka360wqUJSlF3P2g7tayc0QVQp1hvLoDk6GFq41FX0-UnyvmCPZY9ost2m7ZLJlYWJ2jzkkJb-Dn5ebrlfMg4G2_z2RPuyBZiyeu3YwgDhNfDIZ1xJEohVZqSzKVe1u6Y3HSUkbnSHWx_bFS0V1GTlmMs_YnnYTXIiuU8qfp04y6TnFb5gKn1zadR1-d3rasRsC2AuJI-NWOeMYBiIOCgwt58xMw4ju1L2jfJg.%26ch%3DAQEAEAABABQA_hJMDalbh5O8SmHo2yOb0iTxBrz7Qok.%26v%3D3%26pg%3DZDL6SW276RAYZI4EHCPMOM33L4
+.netflix.com	TRUE	/	FALSE	1795224734	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+21+2025+02%3A32%3A14+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=749987de-1034-4f33-8d01-f2475d34ecbb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=ES%3BCT
+.netflix.com	TRUE	/	TRUE	1795224734	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTMJCF7tTO8nI78d5sJeD2OhEcOXmboVI.%26dt%3D1763688732301

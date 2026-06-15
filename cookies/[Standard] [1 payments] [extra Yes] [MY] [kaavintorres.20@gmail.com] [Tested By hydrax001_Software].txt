@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : kaavintorres.20
+#EMAIL          : kaavintorres.20@gmail.com
+#PHONE          : +60123990934
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2019
+#COUNTRY        : Malaysia 🇲🇾
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : ASTRO__MEASAT_N_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:20:50
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1772295157	nfvdid	BQFmAAEBEHvQT8dBIF74PaZWumV9RaVgQPuyPfd8tc9ueifK3Qb1EMSLhtq0CdcnEgHhuMICqDxp5tnU_-pjvPXY3oOJuhYy8c3qghVVu1pQf1uyLh7UM_MOIuPRP2b1--NIjxvIactjkyZtcFkPXdK9uQBzKJqQ
+.netflix.com	TRUE	/	TRUE	1774193497	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6As8hKOioAruFBQQND7RpTzX7FBrdmj_j6TT9DrYh7BS0vlO_YPv1apSaRGW09T-lxwi_VmAglUX04_7Rxh9vOSAFpTTkQ8njTwXdGr0cJpByaRHrY7MPrOmklG0qvTkB2NLRAVgI60cNKfU_b848WIOKeN41nmLjUR6-POdILMZwoykJuqCNv-eHkzXa_fx-XYLu-zTv3Z1eMA43haqeFrVRG-WOZgCxgHYFar1izij6uEMgdUMh-Fn1_yg2GmpRuc2fD-4LdDJLtFUa2QyQb9rzDzHO2KGpUrg_WdkjxpApy-9YkUnraYrtybGP6T_51a3UdowySa1W4KFygv3Hp47pKCcQQuPZrlQ5tCIz-ekjpO7CaN8zOSotn8xbB2AyEl0KdT3vdmzmV1E7Jejc8cAsgvCCnZpP9jLkf522wl6orXvgJ8PEzyJck4kG0RI8dmTjE_-7-fOgN1UR7Zz-OwVopMXxXoj_HeQ4B6ClfVxD-AB2bd9My0VcghgGIg4KDEryoNFVfD4scVbDjg..%26ch%3DAQEAEAABABS8u9agWMGd59srXRK5MXr9jNHfUWqSkBU.
+.netflix.com	TRUE	/	FALSE	1774193498	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+22+2025+23%3A31%3A38+GMT%2B0800+(Malaysia+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8dc549c8-2d89-45c3-b51a-5bbf80c5b897&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1774193497	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5TGke7lyNsgeY0WIwXlWNYPp4xMGDyAc.%26dt%3D1742657498226

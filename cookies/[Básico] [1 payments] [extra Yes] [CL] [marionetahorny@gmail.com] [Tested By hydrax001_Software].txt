@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Chad
+#EMAIL          : marionetahorny@gmail.com
+#PHONE          : +56979391297
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2021
+#COUNTRY        : Chile 🇨🇱
+#PLAN           : Básico [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (4231)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-04
+#DAYS LEFT      : 19 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:57:12
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795031404	nfvdid	BQFmAAEBEI3QmCBzaBMXdceNW7JjXIRg6eQPvXOUZalN2b8ldqhq-F2P4KK821W1hjhgLN6lz7aHgSkFI3Jm6eFTwLamtugeqkAFUqB6OX4czxy5Oyk2O145Xkqn8tVXHk6LKQgpjBl055Vn8UPBLf4Ttdumq139
+.netflix.com	TRUE	/	TRUE	1808951340	NetflixId	ct%3DBgjHlOvcAxKCBN_GkzrqPHwCDhTUNwOVRO4kZSAXQ6jqCA7OOIpv4f1GDa0Oqcao8gtNddYx-TUgvyWO5gZwtkkt6Amm9FVPJvY8-er22snWq8vFRwHhN4nmJGTSqV40tBfO79C336wyT5nmxXXGVc5rJKgYWhXKbHJWxIU-z1933dUVVnuMiDxzMEkoYzeEgOCqibsx2AhEiJb7-sutReMD1DQe0UPN-Sbt3VHgQfH_6LtjVohXAeUd6Qp7_KKRiV6vvhWhQJLE0gEDxkL6e3xuxnH3i3VwnwUFWChQ8gqOZIfB8xu96wEpj9lwewNqYbC2q9WIVWRUGbizgVr8yg-V0uRa7XkD2HKU1p58ABZDvuCElb5YZjdQEhCHZkilb1QLPgjGoo1yJfnV6rpIVWIpyEHXH1oebiaa0s6dhoJSofu8q4uTHaa3LRWNPNiSOuEVI2o1oPAYG_bvX8s5cszVEQGoIogXPC97yxSgu1svdJ1ivdr6_l0ZKHkA9GEJjRV6tiM2qsEPLSqyQI4_vBOlTuPdvylswxfHAWbYxBZSswIXxrdI7DMppEYeZ2A1ZUwgQTTbKpp-tipyX0K25Oxv8pUynZLp1MtMuu8wLhLkQrWYOa-DrDgJR3kIKRYf_QvFaFkNMHea1A3DmXXz-ECCjbRfEoflA-9HpuhOLxLZlOIWxC78uAVsMm8YBiIOCgwjzKZ4rTLte3NPUko.%26ch%3DAQEAEAABABREPpOqCmPg-U_QaQT7kTMVPnygUpmfwFc.%26v%3D3%26pg%3DSJFBE4W64NGYXBJJG6F5TCIMNM
+.netflix.com	TRUE	/	TRUE	1808951340	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTeecEs02AvSbcGh_mnrwmNJ9SzdtYu9do.%26dt%3D1777415339125
+.netflix.com	TRUE	/	FALSE	1785191340	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785191340	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785191340	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1808951341	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+18%3A29%3A01+GMT-0400+(hora+de+verano+oriental)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b3fb4a71-3c27-487c-b354-4cd6b333f71e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

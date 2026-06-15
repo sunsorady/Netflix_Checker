@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Justus
+#EMAIL          : katja.diemer@web.de
+#PHONE          : +491732807654
+#EMAIL VERIFIED : Yes
+#CREATED        : Dezember 2020
+#COUNTRY        : Germany 🇩🇪
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:52:11
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1781005580	OptanonAlertBoxClosed	2025-06-09T11:46:20.811Z
+.netflix.com	TRUE	/	FALSE	1781005591	nfvdid	BQFmAAEBEGkEbNDznAhS0O_ZM5y8T65gQnx8bOKr7N7WxmSFalQAT7OyIAiPNgMMMhgbF6a7sQ4k5HbdyalbSDUG2Owrxc5W6-Se1uvBrp11xKR0FP_zqqBmPiQGJAlkmFyi-_wiSJrqTdnCkZGYuALRezbfV40m
+.netflix.com	TRUE	/	FALSE	1790950342	dsca	customer
+.netflix.com	TRUE	/	TRUE	1810309623	NetflixId	ct%3DBgjHlOvcAxK0A_E3ISiMyGyYe13vGh-dPG3KuhcwM70FZGn7BXswsNsL3CaJ7OvcS_XzPWAGyAVz-eVBZEJ48WCohUMj52inuvzolZmeoaprpXbGTW9AnCNDSDUcWr334lHSmHUjUbkjg8Q3DNtE5_43NGxrCtdPx323nHw4YRWh0yBcrfFz_NOqiBc9zevsxTVAyzfdh7J2W1bP5XRmEdCVsD8yYdIDQRZi9a0NU1IWVL3t7-5obDTZWnVRBiU7Cq4XIQ6qE1uuCxv_0C0r6-6UFp5c95aeUtGQrQOXJuuaiPjvtJzhLrl5fkfsN4wL77jWc2Z5pugGkakgHIgQuqT5GONM_auopwlLhIkrdqlnr5ykCFLstGLKEojSZoJ_Tr4yyOfSJqJUNv0ia_WIA3YCu9coYvKG6oZQtV8DU_IvG4c4x0NPvEWc0eHeDXQrW586rrwETnpdkIYcEYz1fzT5O7iJqQZFYvQh474VxOV3O-aHy2nnoc5fHM2R18BjpAPQiKnwgdGMVYho40K3uWdpxz8J5vZ4BQG2b5HD7xzBUMaGAtoX8aUtwXJO5VTLIioncidS5JraDnr6fWoYBiIOCgx0j3JFiPwhG2fUUJg.%26ch%3DAQEAEAABABSv-uw6b3cqfjFD4SBmBWCl1Jm7ytDWRhc.%26v%3D3%26pg%3DYB2ZLNVPZZHWZN353BAEYVO7OQ
+.netflix.com	TRUE	/	FALSE	1810309624	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+17%3A47%3A04+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bb55b4e7-4971-49aa-920a-91a6c2f6b5de&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BHE&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810309623	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-mWRR9AQz1XuvkhbKHD6Tqeu4Hgfp2SA.%26dt%3D1778773622085

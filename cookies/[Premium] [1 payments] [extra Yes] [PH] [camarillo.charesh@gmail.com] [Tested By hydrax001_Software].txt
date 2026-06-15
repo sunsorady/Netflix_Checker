@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : HOUSE
+#EMAIL          : camarillo.charesh@gmail.com
+#PHONE          : +639602536372
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2025
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:45:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1799650680	nfvdid	BQFmAAEBELjueVOxGp-xcTO6BsvcsjNgNtK_jiHOn0xn6r3JNYXq0nipAhXX3jnTispaMhcw0PAktwTYQoJ3E-FrFyBf40AFmBak9uDkz2MBw1VpgH-mrwrcRY7aY1G1aiCv4yDSPk1Iz01ooLtxR8H2s1qKZitw
+.netflix.com	TRUE	/	TRUE	1807600448	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxE0V-2-JFt32EUgnqOM5j1BOz5spWLt8.%26dt%3D1776064448510
+.netflix.com	TRUE	/	FALSE	1807600450	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+15%3A14%3A10+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=d0d1026a-195d-44d2-b6a4-a32b1a896e24&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783840450	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783840450	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1807600448	NetflixId	ct%3DBgjHlOvcAxKDBDsewpPpDoSa24HdWtCPsw7j3gQvb3c9wfrDg4NHqeLDeabVoFD4KaA4Ur9DyI2w_78sZrexS-gvqR5wohYZPQ57ES7_c3CMWtcKLbn5Jhig1GbCIQLnBZAdcEIBxX0g_5NyANSAima8eMN8rA7_lkT9RuX1-ZMK958R5OPCecur5_1EL1Bo9DWXK8mLYDC49KiuN_ICObzdBuksCs8gFkFJ_J57PTqcq9NCjZsJbRVzTyN0UT5jZtZHliiBn-IFxPDHALGjg5Or7Y93o5JuVt_6NnRdAjB7sCsGnSOtsG0dRK69VQFxdgPKsIA0ttuf3dm-dsyzVwntFXtPALUKYKHLVJLZDH6_CYRckSKxBm5S6j1ODdUwWTRJAnk26LkERaeyxjnE0EVRjnYkXik3u8MVudK_LZyfDLErucT5qSz0r6gLiRAU7DrFM7ADKwqWJtlpl8n6UvDPlcEn3BgW9TVbf0XkX4x94nQ9-SL46MKmLGcpFCTY0LHusGXurOvOIXh1mHAKdHB4Cv2XTPe_pqh3Cq7h8hJiCBavxto7kFGIbjvAWU41c4aRWFda5f8cPXheOU-9i7DLfDH5EKnEzlDIA9jyt8DUqjUkrqazBZdE9kFnVex1eVUzI96fq5ZJYPMwXcKfUcuMcqrs_LAOJ8Ki7nw5Gv9GqLnxgNovI5SI2BIoGAYiDgoMAju9V_eriO2ksbxB%26ch%3DAQEAEAABABQ8QAAQ6ikKmdsTmdpwhwWlz0JxEKR1cOA.%26v%3D3%26pg%3DSUN7FL34SVEPVBIVQC3OBEFOGA

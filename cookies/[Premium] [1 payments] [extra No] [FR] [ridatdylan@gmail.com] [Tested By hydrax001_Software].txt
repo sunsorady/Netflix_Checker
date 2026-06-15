@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Barco
+#EMAIL          : ridatdylan@gmail.com
+#PHONE          : +33603475711
+#EMAIL VERIFIED : Yes
+#CREATED        : novembre 2025
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : BYTEL_TV
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-27
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:53:04
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1806425039	OptanonAlertBoxClosed	2026-03-30T16:43:59.282Z
+.netflix.com	TRUE	/	FALSE	1811456243	nfvdid	BQFmAAEBEMnDtcVQt4Krj4YcRgDUglFgmth9jWT1wA_L2h0hVukzxexrXOyPaT01S6XPu1V8_AFVKD6_MTp1WWTmLJEOwnLBohMVeQlQmbcsFrk4NopT_xv2OJM5RE9bqCpE5Pr0BNitcQtSX-dhukx2QHFaeYlL
+www.netflix.com	FALSE	/	FALSE	1797200344	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1811931276	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVG9lDm4mf_k9DlwwX6w6Q6hOU9ni-g3M.%26dt%3D1780395276020
+.netflix.com	TRUE	/	TRUE	1811931276	NetflixId	ct%3DBgjHlOvcAxKBBK1PdjKGaTu-5d484bO3BlQtRPW97LowixXiJkBb_WPdMtw0PHdHyboKEls4KVvn4LXKHizB5XZBAbE_e35eqk-7eElRPs_T8CDI-j8lKHax6uLgBdV8rSv9n0DMJYSdNB3rMQyvgkCyWGh_FWZFgSqlHBoviAG3aHmlJ8tFsX3cOMGiOF4I1jKOquEEqBeeADqdjfml7OEPb6pLRZ7BqmKtKpT_ecmI0Vtgn50TJRexqBvds062oWsOXiGf8Jzy8YlN_BwGtNF3jCYFnfc1mgxciqRydBe1vaPXzcUNUPLrg6tRU8jzggcmGWyBGGihQqHPuEvuY36Cxu0hgxyV1GjrHPAMOcT7DgXG6dwb_GHNkpkgBJ1a9VEB9AF8kOExfzzhJafzgbQiT4-rp4tWpShnkFVMlWF5JAwz1_684wFu7xcAHUq1srC0YKoVkZOt1Eo7FL8RcK2zZycMDErvy0bVfM5333ICkKDlEGbzoRGZeMiOAlloioUL6OqHy4IywMTv2pDQBJ2TnXzjuE3jW-WOhZLvGsWXDmmxR4dBB251oDNFR-ZGpB7inlHHYYEGg3_dPAmzT4go1_s60LOiqQlaIPVwfNW2KmxKKkj61bgNUgLjB7Ky1H6SQDSoAqoXS4Rt_U6ss77WOKIqYGARkKlfuo9rANYocvEmz8AdeE5NrBgGIg4KDM5RDhqvVj4BKLY3qw..%26ch%3DAQEAEAABABS-5rc5tMGT3xuWX5Va3yHAIAAeaPzga10.%26v%3D3%26pg%3DOJLU5EFWQRF47GGSIXUGY7VK7Y
+.netflix.com	TRUE	/	FALSE	1811931277	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+12%3A14%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79c9b554-0357-4603-a835-d70585735e9e&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1774889039663&geolocation=FR%3BARA&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788171276	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788171276	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788171276	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

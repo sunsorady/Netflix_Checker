@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Shivam
+#EMAIL          : chitrangda.26rkgit@gmail.com
+#PHONE          : +919910481642
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2021
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : RELIANCE_JIO_PI_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:24:14
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1803832757	nfvdid	BQFmAAEBEGr0lTR1lCuIMImBh2QJl_NgDcaFCkQ3byb6JQogobOCuyiv8Mh19pDw5OfNKjafTOFUwnsOHIOjMxe1qFjPICc_mLukVEcNM2GLR6z685IyNfMDO83htpDa59lyXlqO88hVZo0eEC5-VB2pHeXqlzi8
+www.netflix.com	FALSE	/	FALSE	1775762576	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1775762576	gsid	3572c443-e969-48b6-892b-d60e76550f47
+.netflix.com	TRUE	/	TRUE	1807286849	NetflixId	ct%3DBgjHlOvcAxKEBE4BA40scy0smnVcs0maxexdFrHAwHbYAzF9PA5ZBcRL0sOEWsBbA1R52IKS-LQiIdjVVa22kYeno7JAuyxqMUO3K-MJVHbKGflvqzCqM_6ETv1bmYaHlvJPgu0k_9FmwGg2StJCW7uki1p_GM4LVrmaEdM8tU8R76OP1zZp-GBQWnwO1cwZQXLt-alpyzeFTtQuEvf2HdcXyKbm19-NJsZlFwjqH1rjsQdcjS6J_PTGmG1uXjHltHMkCzvlacDQrO5amY2qUGkO0QOE1b6Zsqil80zwGtgcj9JNQww6fEsHhJ78ToJa_jmmVuDwhVKb4sgN5DKX4-V2VGLzILMDARQ0c-8W2agvPwpmUI38LpaR-UT96XFTRNcmc8qv8TZ1S4J3fC5TrM98MFuy8T7cBcCC_Y043mXpIIZlj55xcaVV8QRAmsS7op0TrR8ZkzLlp2fJSW-pK2mI8cyJc5TvgSd_4e2JLDJWh1Jtxutozcjtf_bP1x-AhGBjy_J9KL-r3sOZ6G-47p9yF4u-WApbB7P8dW0S1b65PIoayWGfdSEycO0F9-aUkeifRH5aEMWvgW6wrJSn5hYzj1k7U6gk9ZdAICC9CCqbVl8F7hnxFLNLpE21nfg3lOPwiTEvFVbVTZuj74ydrISJFyUJw52mjt0ZDiyD8XUAccU-oE3fysjBTf0yMhgGIg4KDJCB6LnSUZl8ryfnMg..%26ch%3DAQEAEAABABShOE6W_7ZPX49CDbFQGQS0lOx8UdeWI70.%26v%3D3%26pg%3DMCTYVPS6UBE5DADSTAWH75YVEY
+.netflix.com	TRUE	/	FALSE	1807286850	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+21%3A37%3A30+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11cbd3c0-7952-4586-9707-42d32b9863b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770239256936&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807286849	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDVSfrgm0MetFn9X3_wlsYxiyeMb9Eo9Y.%26dt%3D1775750848538
+.netflix.com	TRUE	/	FALSE	1783526849	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783526849	netflix-sans-normal-3-loaded	true

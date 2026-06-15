@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : mr priddle
+#EMAIL          : kerismith2508@hotmail.co.uk
+#PHONE          : +447882609689
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2023
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (0245)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 14 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:08:18
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1802473542	OptanonAlertBoxClosed	2026-02-12T23:05:42.476Z
+.netflix.com	TRUE	/	FALSE	1802473752	nfvdid	BQFmAAEBEIxg8GNdmN_lSKsFyJKNqf5gD3xHpSV_eDSg2s8tOlEox9VELyphR4dRjLJDTmVilgIkFfOAj8Y_0BjqMYyMmW49zietp8ViRy3lZovrJ28L9Xy9XjIjLtLv87svaNrDdMCP9YX-i4PyAY3aSswgWppw
+.netflix.com	TRUE	/	TRUE	1810131643	NetflixId	ct%3DBgjHlOvcAxKIBBtf7hv2vlNvSdiCXrZ_NeU85Mn5j7qXO2Zf_Z_CijBDeHkG4511xvQa4ykJ3Rm9lfJplD028DdQkbQHTOj8HZ-wBdaKN3e7ajdxXESFpj7gVd06O_CgBBAIfaVF3uXQ8qOL4luVY5hpjGKJhYG_tM80tkIJk3iTxOyeN7A8fnMU8q5SMC8qYl9Wo76wpKIY-Em8rqz2kgrpYUevJjrVgibNZ_Ets9xpAo0cI4nyF7SJK4ca3lb8ljQYI4UdyL4Y_rBcliTZB5AGq6lzbk9Fr1XLExFaPrD6l9EPInFhYH-q0LT02MNBmByvJXReSjm0Z8e1lr94AGRdMh398YlrK1YkoIHIgjLRSbJhDLbvj9ssxYlNW3FlN6LITWMLqEx5t5ows9fU6jzkE-pAr7VYDCMFC5QwW6BY5V_i4uDrgKXtlqm4Mlq-DU4573wxRpVBjgulwot7YhLBclP2PY38IrSi733y136O-HFk_zWABtDtK3HvQMJ12yxmecR_pgOuX1uNjWbgrPDoBxVGOT_LewxD8S7dN8hj3mUQmw0OL7dSiA99jE7lsjmq_FeufnyhbymUnFakTiBIJycx0x1aD6UQfdNLj6MT1gOV7Qg4MCutO0Ii8I8UIjedAT3Lfmcj9c2MzlbssPydwITg8gpYlWA98y9nTzfGhrHib7OfnJHrs2rNK5dwjjsYBiIOCgyN4Ue_vUaqtKnAa7k.%26ch%3DAQEAEAABABTvl1Wa2N22n_PyG1FuCMwdhaq4LqLgCvk.%26v%3D3%26pg%3D2RBUQCQVXVBY5EEU2ZJRB6DQ4A
+.netflix.com	TRUE	/	FALSE	1810131644	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+15%3A20%3A44+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=50e22625-8ae2-4447-87fc-e63605bc7561&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1770937542833&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810131643	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtBob5UC2Fl8ReIkPbJKPx-u35t4Q03b8.%26dt%3D1778595635031
+.netflix.com	TRUE	/	FALSE	1786371643	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786371643	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786371643	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

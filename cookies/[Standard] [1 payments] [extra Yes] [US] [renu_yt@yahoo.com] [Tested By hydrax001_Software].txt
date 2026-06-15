@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ryan
+#EMAIL          : renu_yt@yahoo.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2017
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (8939)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:01:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801370625	nfvdid	BQFmAAEBEF3ARVIVOOmOmFPNsq9GBClgYcSn7wyIdoV8gMW5doF92DZ_9-n6iXSBeo3uUW64WqhRRrTp3IJdRdbj_ygnEJrymFvkHtc8dpCDRZgh0AjyRQdmswVa8fAyTAtJky8mJ89tEzcrXEtspGQI2chRaIRy
+.netflix.com	TRUE	/	TRUE	1810012058	NetflixId	ct%3DBgjHlOvcAxLMAzVjTpID0mtqRZV135JB7Ro-zOVfEeTBJSOcGoYEAaiA_ync4eagu684eS3wzt-W1KwxBZPBgBjeX2HPpazi_macL3DT9s1LWO7lJxUJirFqr1y0bxweFTqd5G3Gy2NHVDeICh8pm3x-0eo9XUbn4KmmFcdXq8UN-eKzXDGtPx3I0QFah4HFLk6ioiOn7cUeEpM_wvpqYLqJ89OkDpGTF9kttK8-2y3pgfC2BOMNqOIP5U1RcAi5Nadcyl4-7hrv3PdZcWGy9mthEUoIu_6E0eRYkC4Q95JDQPq2pXhImHqPC0qEmMSjw2_sMMH2FhKexCh92zNhtEaTJ1VSr4yVd2MDGApJr_naqu8Q_8tFKslAivc3F7KYDMhWA3Rlt0oBuzx6nvv6bDfJ8DTg-bbbnEewz_qIlkr_I5kluJ4QWeA85pJK5UOIIW3iaiMbxGAZ8NWB8WPZ3F-kenyx9tB0aY4LnH6O8d9f-tMvPX5Ripgi7KmBU8sMgU8yNlih_BVWGAtinfCxxKVvNwooG_JoiXRatWNhGR8w04kbHe52_zX-XIsidxy7Yl3QBFTAOJI0MR7Ej0M_HyKgBjpayiZKPxy4e4QhAzNvVv3g4bYYBiIOCgxwsV2cwswL3ObjIj8.%26ch%3DAQEAEAABABSv0UBTeICTOTVVD8J-L32QH4pGH60YeWY.%26v%3D3%26pg%3DRKTAFL2U2BFRJC642ZIFIIKLZA
+www.netflix.com	FALSE	/	FALSE	1778562459	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1810012060	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+01%3A07%3A40+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8405565-a780-459d-b1fd-2911c334d7e9&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810012058	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSnSHQq07auDpw54C_Ys9patEXW2Fx1HU.%26dt%3D1778476058749
+.netflix.com	TRUE	/	TRUE	1778562458	gsid	63d533f0-1f4d-4dea-b668-66b3b502f5f9
+.netflix.com	TRUE	/	FALSE	1786252059	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786252059	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1778535800	profilesNewSession	0

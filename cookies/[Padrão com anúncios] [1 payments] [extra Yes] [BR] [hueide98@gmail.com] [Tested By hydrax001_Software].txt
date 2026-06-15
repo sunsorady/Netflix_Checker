@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : JOÃO E VILMA
+#EMAIL          : hueide98@gmail.com
+#PHONE          : +5519984185501
+#EMAIL VERIFIED : Yes
+#CREATED        : fevereiro de 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2779)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:48:14
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1804469550	OptanonAlertBoxClosed	2026-03-08T01:32:30.333Z
+.netflix.com	TRUE	/	FALSE	1804469681	nfvdid	BQFmAAEBEAuVpYV2lWe4tCa2sw2nnixgSAv6pGUx7wNf1so5NdATm2t8ru-BjcSWTN-X_KFBoVTv59okZzxqRNQK5-5OjCzm6ynLYHcLJj40HbmE-Uu5heu3q1gn5S10TV0XDIIZkL8tdickpwiGPdCzNLx3mvRP
+.netflix.com	TRUE	/	TRUE	1811206355	NetflixId	ct%3DBgjHlOvcAxKLBJhXA6yzEf6IWQvT7xMiZaZ0-UvMT7rgqB86cCej_erXosgM2uhVUXUT9Y_dVRa4-sDLsbbTprUmfENvyn94yxPO_MIu1zVw5H10zV_33AwRsTtLrYEKjma4hSGj-5sKcgUcNvjgkwzVjZruUPWz6HMplM06mPkuqDqprzPq1d-YgTQQLRnnIWPGDSYGAjEfp66I6sISm2rFyq-r5LwIMs66LZot0O0oLNcxjpCfV-RAlHPHPryar6Yvj8LgPJ9daOyoBlzHEaGtMyPfyk2tSm2XYg_7KdkXJrDTzv4MjQkYWJBD-nLZaPQhXzDZhpW2thFJU8s5paWgusE3sha4P92XbYyohGQuHmn5Hjdp-lCi3_8FYp1lPdosfDU2pILelSoIQZR8_vlRGABkmBqoq66D54FJbSB66GRq7W7C_halMpIUCqR3cmoW7_7ppgQB9ayqTotrl5wjhw4jL_DLd-p45XlKgT7FpKeF9r-BEtBFUrOb4Rmv9LGu0sp5qGJDUIAjbEVljcYl5cNxepX_SZCIEh-FT3Sck69_gbnKQRIWagEg-K_CNTCih6Plyl1l47s0Mz8Nu6Q68MSnCBdjWrE6NhO5wZ5CTQEdyt_X6NS-wI31PqML3QBIoG1WLL_D0aV90m3O5hHo4qwWJeBkTZ7QDQqBMw-eYIEqUgFT-FXMI_J2cTMOf-o8LcAYBiIOCgzBkmpVb3FFBkThuIk.%26ch%3DAQEAEAABABTRaFRKHKOzD_UWzivok2xGcPumJq6EgLs.%26v%3D3%26pg%3DXMXFSIZRTZENJD43CNLHLOQ3SI
+.netflix.com	TRUE	/	TRUE	1811206355	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhaM0FSzp3Xu78i9UAgy40oVcsmj7Hssw.%26dt%3D1779670355499
+.netflix.com	TRUE	/	FALSE	1811209586	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+22%3A46%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3530dc5a-fbc8-4fec-9b2b-fc4934f31a00&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772933550746&geolocation=BR%3BSP&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1787449586	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787449586	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ab£l
+#EMAIL          : timoale9@gmail.com
+#PHONE          : +16478540924
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2024
+#COUNTRY        : Canada 🇨🇦
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3363)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:57:44
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808695805	OptanonAlertBoxClosed	2026-04-25T23:30:05.053Z
+.netflix.com	TRUE	/	FALSE	1808695833	nfvdid	BQFmAAEBEFZgaklKCzhR_J3d13q2lWVgqWQCzvVrpvf1X28Pjl2IknrKuZtQIvD_vnbuMSIaqkqEky-dOuN7-8JbFlJHXMQqZB0KKB-Rnm_URdbVewuWS1MQuVC_J8ndC7E4E5fh4bNPM0Qd6FZJj-HPvFeoAfPh
+.netflix.com	TRUE	/	TRUE	1812056411	NetflixId	ct%3DBgjHlOvcAxKDBO_SlPjA9MRjoKxRFOgTmNJJuRM4AlRYT3i3IE23nzOhJyPQmuEts_SPtX6Y6MjrccLDVvDZEX54Er9jB8q2NaIbJjROBbXMIfxpOz5d2t43mrar3NVestN8JDWxoP8Y0M1ph_EOXZJrWRrGPHe8gsu80inez5WnVVLBgBoO_GQXF10Qxh2K9l3pKLywl8KgTqdNRlbEaH4LZ-dmU8T_MgPF_Aej1q9IhJj9D5cg3tUidSpSP0LAxZz556R-v_5pTr1nf4_vXTaYkZmR0ZoBer8wIW7AfzALks8TsIe3gtzrJoLJSmO90-cC4gAnxEuhWjrWy_bze_iX0OdIDIa6DcDyzUkr92kdGYPNQBeWsNG75tAXFKxLQsWOXiy4d7oKrs19DSwcYcocHsy8lXpD_-3affbPkv1VRtasCGS_bmAdiYkOI0hruYqYptBdfzDqtkAHsrTOJ7YrR3mC1B4eEwZTnR1yEMAud5kHwalX3Dx8D-QcvLLmlkyh3BxDFKvz4XGbZvjcdmekoQ8QwZ0P1VXVx6yMKIz5AADGuwwwJsqYybj_P1x9-5AIfG6gyblMvLWHEFDaN5_d4nhEgFRi3unWOBoG7IyP_3noWlkMI8N3-bil1wbqj9sjlaA0-h5aiOC0QAMECbYmwJQrY19-bw9HlPu1m-H6Ph0zkx8mo37lReJ8GAYiDgoMrUlKfQ0C5kh-d86d%26ch%3DAQEAEAABABTal8BnIKjEb8Tcgalb2czW1tOy2twvdAc.%26v%3D3%26pg%3DAGISFBQBYVHRZNGW7TCBYMKKEY
+.netflix.com	TRUE	/	TRUE	1812056411	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRAzN6yyyqU7X-PxayTHeSIkWU2NRQUJ3E.%26dt%3D1780520395710
+secured.netflix.com	FALSE	/	TRUE	1815080432	thx_guid	d0f1342195fc9efa48c5ad90572aae0c
+secured.netflix.com	FALSE	/	TRUE	1815080432	tmx_guid	AAzSHhqd_nmZXV3AjbU-dD-BMqRaZvl-3kB3xaGGI2GINEq4XO1bY3vwNmZaJglw-7Yn6HwPtX8q-V3On8svt8qMKoVjVg
+.netflix.com	TRUE	/	FALSE	1812056552	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+17%3A02%3A32+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3523b96a-eb34-41f6-8974-1a2369624eda&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1777159805315&geolocation=CA%3BON
+.netflix.com	TRUE	/	FALSE	1788296552	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788296552	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788296552	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

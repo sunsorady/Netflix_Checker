@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mélanie
+#EMAIL          : arnaud.maite.84@gmail.com
+#PHONE          : +33629840633
+#EMAIL VERIFIED : Yes
+#CREATED        : mars 2018
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (5601)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-17
+#DAYS LEFT      : 2 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:08:56
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1792759189211	dsca	customer
+.netflix.com	TRUE	/	FALSE	1758246177102	flwssn	25414513-eb10-4161-b067-c1d5f50910e1
+.netflix.com	TRUE	/	FALSE	1805740340395	nfvdid	BQFmAAEBENzWcnQvkfGKxV1yWrd8uwdgpSc0F7suTswQGkksAEWl63_HIhIWX4b_bW-hrtv8id5CG6oNp6_p_JG3JjJXnq1W9jLIm24KCTzBtgUncW-ZWm6ktu7AijI1OERo0byL2EIeqFVD3H7WpULbC8P9UWbC
+.netflix.com	TRUE	/	FALSE	1805740349000	OptanonAlertBoxClosed	2026-03-22T18:32:29.941Z
+.netflix.com	TRUE	/	TRUE	1812135828658	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ44ZMtYhrHMUyzhBBYZQkiIe33FN3ANMs.%26dt%3D1780599828308
+.netflix.com	TRUE	/	TRUE	1812135828658	NetflixId	ct%3DBgjHlOvcAxLSA2WaJg09A9f2PJVEH0BgtqoHkjjWqzS5uEwFDzaIIv8_4An2Y2JzcIdYaEhpNDgUcpd6P_WuhldDjXwLEk7kt4fCCkYDs4qOJwiAVzAYtiIXlYUZHdupYa1CTo29pB8zgxiHxMyw3yLGepNjwPufQzMAffmROi1tXcR7rq_HfVsHNROu5q2PZBCPKUxB9QlumAim0CC7Wh_PRz8dEEgRe8jQghjVKPJq--3oRBBTElYILPdpwYu4nmRGji91YHWwfaTq9WWzVEStdLh0x8mwhW-I4PV9kIpBdeAQ7wN7rCxUsDJ6U6aRb2FRdOyjqI2gpnn6f5GKbWBYaAs72toP39o_RmpFBxPvWZSmxDEuVbh5y7j_6mz0adotOzlTHXgvD1jhLBZFJzLbvKwj6rFHC6aLrMf9amftBDZLlGD1xdD9zxsMRmZbwHkq22sPCAxCTOKdFls3fsc_76zBFwiZeiAKYX6tjnhROv16IiSIF3cyadaOQRFv5QxPktmal6ufWK7MAgb10Jm2MYNctk_bTlB9xwjMc0jAkj1-Tg30Rh_7Z9OsWysC3TIONmVsToOw7Tzo9LJHujTD-VS4I4m4_P6CrSOK5g-G0Ui7S2M0uo8BkTwYBiIOCgwgTZCC5yldUFSvZQ8.%26ch%3DAQEAEAABABQNmoLIFo8XDoB50jnRnkT2lNo83b1uwpc.%26v%3D3%26pg%3DUX3KEEB4LRBAZE7HQP3U66TLEU
+.netflix.com	TRUE	/	TRUE	1780686228658	gsid	e39d9a16-b6ba-477d-99de-ee76eceafa63
+www.netflix.com	FALSE	/	FALSE	1780686229000	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1812142697000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+22%3A58%3A17+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=29eda86b-0b74-40f9-858a-11f7dd88ce91&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BARA&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1780612740256	profilesNewSession	0

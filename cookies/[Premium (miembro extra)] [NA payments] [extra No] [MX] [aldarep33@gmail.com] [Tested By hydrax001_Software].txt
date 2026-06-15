@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Alda
+#EMAIL          : aldarep33@gmail.com
+#PHONE          : +525535069707
+#EMAIL VERIFIED : Yes
+#CREATED        : enero de 2025
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium (miembro extra) [UHD] [Streams: 1]
+#PAYMENT METHOD : N/A
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:48:27
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1791434970	nfvdid	BQFmAAEBEPVhemKtgMWCt7mpS_kFostgPIuExR_sSyher-m8TjVuCamjuq_ANPxzwJ-JeDC8g1O6h_f0yQOzhQPRyyD2Rpi6ljKj4PXV_O0lWuXMjOzMel2raHQ4nAeChI2rparuP6R44pzsLyJHWzevO4BB1byY
+.netflix.com	TRUE	/	FALSE	1791435020	OptanonAlertBoxClosed	2025-10-08T04:50:20.830Z
+.netflix.com	TRUE	/	TRUE	1792376449	NetflixId	ct%3DBgjHlOvcAxLvAxfNlQ97FP_VObVxzNYtLm613P0F8KY6Y32V0T-wmV4QvdhhcHDhd001M4QCKy1wF13fEPtAh9EZ8GOiyBnUCruusXophcEbgEnPfsyA1PJ5Tb7Bg355Lbi6s4IKslHKe-fJrhl5NBxSPI7LMza4CqCx6cQiziXTVEo6RwBvleVopVB9TzMmM56KAzlmC6Jj1fps_hPaJxy3efpiae0OVfZaQzkevnvqbNWNOy1nBEK0ZW2TMl3Wyzvv_Jz3VkE8RvOSdQ6bvsGp2zDl1eoGE8LxF3MQECIYroXxA8liyDywdwhBBiyxz8Q--qFATjYu-QlGT4RgbhH5mdh57tutWxi1xRrKfmSuN4q7_LdJ4Yv_z0H_eSPnF4bzXtG7N6-MKfd1okoOakCuDL4rT4PibrDHpIot1qCWWqBbZRSQ5_KER9Y-l5kK_fyqCEi6Ax_gq3p0VevG0qo7Kx6m8pdv5V3hXNsatDdubNoxH_fnj7ln3NWkIugTmi6T6SbrZ472IFF0LW3x91Xf_x-MmN770_1hjPQywCnrkzkFa-SG5z5jMPCe-f5PGBfab7JYGQINi5U5fdcwky1YWHtOWey_X_Q0-xDAzpuiewTGkitvouWtc7YrSZa9bWgRfuP-ujmVJbruNpXvQGoRemMs_AoOsxgGIg4KDCu_S0vm4DSHWNUMOw..%26ch%3DAQEAEAABABQLjkp0_llaylCfz9VF_Dp6aaHBmgNRz_w.%26v%3D3%26pg%3D4D3RJHOPOJFNRBOAN6P7VGRFVY
+.netflix.com	TRUE	/	FALSE	1792376441	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+18+2025+20%3A20%3A41+GMT-0600+(hora+est%C3%A1ndar+central)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c7563985-693a-4d70-ab4e-a3b987ea9447&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BCMX&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792376449	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSabcsDN_DHtYE-yy1gkZxgqDmCtlI3a80.%26dt%3D1760840448784

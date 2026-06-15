@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Otthon
+#EMAIL          : susu199700@freemail.hu
+#PHONE          : +36307920559
+#EMAIL VERIFIED : Yes
+#CREATED        : enero de 2026
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9025)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 13 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:46:59
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1781296630	dsca	customer
+.netflix.com	TRUE	/	FALSE	1801098620	nfvdid	BQFmAAEBEMkBuwYpbtUsU_Ecljn5n1pgAxN14IsYTwy7ATNa_Yhay17XBoNniJT7L8ImlQZN27Y5v1RJ4AhJrvkzAPC_ACCxch-6diNuMLqiifzcAYT9KslTfBdfTM0pb2tF8SVJCnBNgeYCHI-A1A9EE5_4tOJJ
+.netflix.com	TRUE	/	FALSE	1810047865	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+16%3A04%3A25+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f7303f5-35b8-40ab-8495-7037621210d7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810047864	NetflixId	ct%3DBgjHlOvcAxKJBGW6dw4YubztkDhcSDIybOYsIpqbF4O7fpPtZDfiCiRiihcYZJX7nBb5yrqPXv2AOXwfRByOOWF6OJ3vPm-XMi9_eKJN6S8S27DH0WZAByO7iaCknF06yB2kF2h39za8WicPQeiFPmvc3p5gE9aazC6mzyKdho3eY8R2tM8XETGHfwECCBJYVni7SIdsrLRsDLZcbu42nLh1MF5fMz0AvSSr95GwKXHOCLV9ZkG_MPolwEOSCr_rBRoS-6zASA9GMmvBfRGVHuUYyEzrN-ASNaUHjH6WaKFO9TIxlFManzFloEVh28TAE2I4Q01WjtIb4eYdqu3yw-hfBRnSnxzp1QeRyGVK4UQUnDa7l_Ik9Cjv-eE5Iy5YN2N9jRGB6q3mgonLFp_6hjxf157YDZtM5-FiQtE1r-lazcvP6j6sjoFDL_8b1MqGWcetivE05ril_NZVYdSu__PYz5r3nRmEaEhY7nXi2pHQCLoWC_th9kiBgO9NSSTtv2t6iVvJsAPgtfnjy2hxhia6o6M8SwCWvjmkzI3SFOnIvejs4iviTWD-wYggbSdfyEbE8nElcHEyyyvZnXWbfEDdyKLFu0_JVN_fKDw7bo3iki1dbZ6JFUWCzlbXQkXRNvuZXacmdBsQ_RPLZx_HLWdD5SFF5B9hmXyR4S4zuJOz4kTYs1GjAqZoXGpLtdM-lmzcGAYiDgoMwyIJHAGBQqRQZ8TG%26ch%3DAQEAEAABABRNxRgtr9cdGklY9RgLOVaM4lpEhdpAmlc.%26v%3D3%26pg%3DF57WMHT24NAUROZJEG4QWTXCXA
+.netflix.com	TRUE	/	FALSE	1786287865	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786287865	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1810047864	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRF1bElLEBZ5PhpQgjYWSgvI2j5ILl5168.%26dt%3D1778511864865

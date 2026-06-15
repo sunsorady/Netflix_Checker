@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Maximus
+#EMAIL          : kheardlaureote@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2020
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (5517)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-02
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:58:41
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807056308	OptanonAlertBoxClosed	2026-04-07T00:05:08.159Z
+.netflix.com	TRUE	/	TRUE	1810080378	dsca	true
+.netflix.com	TRUE	/	FALSE	1807056377	nfvdid	BQFmAAEBEOYrUhNNwaRAzTjVX-qbkwdgGKA9XJOTv59qWUXsoPWPpcsO4B_q5Whjx984judVN1rnHrc3psZ269CPVPdN_pV20fMyEjD4Qag5MjkbUqhMwhHMcYacpsvnE2qTHEiM2It9FFwWxKbH0DIegqDKHu3c
+.netflix.com	TRUE	/	TRUE	1807140507	NetflixId	ct%3DBgjHlOvcAxK1A8jKX5Gh6DFoCsSfo_DHGmUzm4NrrngdTwOXLgCYAdpJPSoA8s_yKMf4dnulveUa3tcB4DUrmHncvvyxOZjfRxSuqbcn6CVQrdlBQQIQ493BZvWL2jJJdgu7pvyYvfih-ZeBKqfU-bsSSUShbFMErbCa42jU4PoHiSNhZBEFfJ0eQ4OwxGMC_YbmJ5kx9UucqsYooGNcTewR3IiVKhfq3DUQsqVzwx-snW06USll8QS8gc47pjibArQEljAVNcBNFVlVBy00O6lpJ8QFw5eWBe1gsjrlDJPqZCIdMhq8jWrJMrOjgqaUpJ1ZNNupHbnEzZNpJW461FIoW9RKpkiRN4G4Pqgwb_sALxEnDMqmZqbY-yYHfWbmVcn1WghDniWklbAF1oyJz5Wh0BqmaPYk_62UjL2FW3FytSZoPiPKxkMosknjTvf4d8Jw1SvlaZvjsYWq0IwXWy8DAT2j3lXUJvHeQ1YHNzgBfv393Zyq3KDpKZIy8mjBohVC5eej741-Q1LHRdnB4ENttOKGbxEMG_A5OywMoNNUQEh5rdj1ddelKlz_8bLvfoX1tXDnJFzxpdDdUR1XGAYiDgoMvNvkuQK_UI2UbKFz%26ch%3DAQEAEAABABT4vthxcS65t7yweUSyU-ol40Ehq0OJ-Is.%26v%3D3%26pg%3DWPHRNTDN7FGHBNKE53YAYRZG34
+.netflix.com	TRUE	/	TRUE	1807140507	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRJo-jBGfCBWLxQcTUVoVXlK-3KXoYaAo.%26dt%3D1775604506863
+.netflix.com	TRUE	/	FALSE	1807148021	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+02%3A33%3A41+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b218aa31-1b79-4b4c-a9ad-ba8e763c0308&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775520308687&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783388021	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783388021	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783388021	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

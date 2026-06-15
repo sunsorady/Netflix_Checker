@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Little Holmes
+#EMAIL          : Rubyh0706@outlook.com
+#PHONE          : +447545629366
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2024
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2502)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-19
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:04:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1799537258	OptanonAlertBoxClosed	2026-01-09T23:27:38.155Z
+.netflix.com	TRUE	/	FALSE	1799705235	nfvdid	BQFmAAEBEIvHCnRNSJ5lF7QDMcTY6Ftg7L0JsdlkVfz9HcdMjeDN1O4dedKzSg1jUBMYn6o3bdkJe5fBjgavH9Cfqz5pVnwMYJee0UCt3rQhquV1V8cAQnvHpK5f5Kc9GoTfSJ5wmmd-pQ6S-Dir67X_io9qeXi-
+.netflix.com	TRUE	/	FALSE	1802733942	dsca	customer
+.netflix.com	TRUE	/	TRUE	1811004164	NetflixId	ct%3DBgjHlOvcAxKNBGfBoCFxUAlEmQKb7EFUDgwZPsxo_fqcQQvO5HQPaTF32OZ_B0T2Ffq2E8-qcwNgEQJzyb5XY53yDawkhOMeg-6EhFe2ygaVUY90kNGjUlWt8eG1fEzX8KqWbZOvFcBJLUEnwBw4BfnNdSOa25dUxAhDM6XyjrAovuQsMMqeTKozB--X2jHmCMSQnGBT1JYcpATOr8kadkc7NddP5uAkoRroQ3ZfSCwio0bn28HpRnyZiBuFLQIg5uXFhySVnjOnxXDtCsfL1nf5kdfQgMwgTODRQHkAIb4gbRHANga5m45CeO_vSzNbKiUby5rPHy4kLJzF2grPa5kkwgPJnmkNrJ25U-K1bOrQ349kuuoedWVT6_N07rV7LMA2wNl-0mKbqi7WRVdyAgBRELmnpms1rElptn8RV3pwXBtX6Ebj_fg2Rg9rOq_5arhy8VrbQU9qRywO2g_GHmkidUt_nmcMpAkK_6yYHLxP_igK9ZH1HTQpAHZd9lZ2OUBifL1DfxmMs5AnrE-eF1w_ZmQwUDdCP5NO6XvEfkYm0Nlw7gQuy250-yJn4in9mbrBodwHrFAoEn0DHSUlu7LFIB5GrEYyblr3Kq38CC8iBLDp8dn8zrcojCMnGK8_KuppW0vfumX97GRU2em7bcif1-IXWAOEQCjtXo64TVuAAU-Hnefuwz_qmjEqaQ7DFNwmvb2mIBgGIg4KDJH7aqGru1-adhF5VA..%26ch%3DAQEAEAABABRGBk4zL-CB-T8rQGlOB0NPQ2CEiKk58Y4.%26v%3D3%26pg%3DGTUP5NEM5NFCZM3SD7AAFIGD7E
+www.netflix.com	FALSE	/	FALSE	1779554564	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811004165	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+17%3A42%3A45+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&isIABGlobal=false&hosts=&consentId=af4e9a67-72ce-42b3-b31f-f7a478706570&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&isAnonUser=1&AwaitingReconsent=false&intType=1&geolocation=GB%3BNIR&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811004164	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTV4_4q4-nX3kGL_BI7Wgid8OXvdOry29Y.%26dt%3D1779468164228
+.netflix.com	TRUE	/	TRUE	1779554564	gsid	54c6a308-5f1e-40c7-889f-aa9e1569e0a4
+.netflix.com	TRUE	/	FALSE	1787244165	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787244165	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1779470034	profilesNewSession	0

@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : ranjithnatarajan51
+#EMAIL          : ranjithnatarajan51@gmail.com
+#PHONE          : +919094760625
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:39:15
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808408543	nfvdid	BQFmAAEBEMKcqOkzVPm2GocEB2cRAEFgyNKVFUebp42UT_AKarCcvL69WTWqeAfa9JywnOtcuvqAUe7MyZRRlG-0GmahtTngFFisxHkeKR0DQyGjOI5vbg3SkXGfJiawQE9-Cm3vG2kJCYBterr6x2Lyqt6Igi74
+.netflix.com	TRUE	/	TRUE	1778603108	gsid	9a5bee41-65e0-4096-86d8-25643c038dd0
+www.netflix.com	FALSE	/	FALSE	1778603078	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1778527477	flwssn	d8c77603-f425-4c7f-9ec7-c6239e565aba
+.netflix.com	TRUE	/	FALSE	1810052708	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+11%3A25%3A08+GMT-0500+(Central+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=660e81f4-5c02-4f25-8cde-d8a22a77cd6d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786292708	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786292708	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786292708	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1810059142	NetflixId	ct%3DBgjHlOvcAxKYBIPsiECYrKXgbHj6XaabiekJEgl8nxaDhxZoOKT04-cy-iOfdOf7vPLEjJIfNcpMC8A3UyTtNrlA1hwLm3v3RVwbxiO1nhvQY-gVX4Yo2IDJ_c_Gf-E_CiPEWD8YF4eVVrZWGlVOhKPRoTg973P1Uv6LTwDNkW-v272q6GBP99JXe5b9aJtKJkQmVB4wVpnCQVFh2WocIH6H3bs_ArMuypwtl_CpH2oW1AEif8ddiE-RfQDRFkYnp_PNY6cnvlYKxCmJjo9CmmmCklY4MLmPvZ8VzuIG-hV-V2oW13QsAh0kp0BFT3QD_-TfT7-FByWwuWcDgEbM-kZi_ybcT4XcDweOpqsNBUfQA-CDxj0UqfmVfqq5_sdlsCEzd9ZHi8yXtouGXvSA7FU16oyY_MYVTphJlhMhr93bhq-APconCX3c-Q0oii5bWzcpH8-K7KZwT5v9qBz-6__I7B9mrKcP8Zy4D6WfKEjqGzXkYSNMZDKoDe7p6iILMmik7W1DXfnS2Q5dMjyHoAKTGCO86aGu6gWlGbd2nVplpPUKMlXXMiRbjIwy54qB3ikWX496X5rnakYOrelpBruCw5_1ZKifWJKYNc37h-s0pb8iRld6y-TVr9Q5anHZvWcd1TbbAD6PPwppqwPTgdibBoWxtwmZnRvrhnInR_MB6Ij93BrcNnwwpqkQRnLwz6eG7VMu6yEfgnoGr8GwZg-PGAYiDgoM8i1xkrQDLaZHVRXF%26ch%3DAQEAEAABABRKrzVPcFEbNMhYGrOO7kkV2SMFqt0qIvQ.%26v%3D3%26pg%3DOTGAGBAHFNE2THUERZIXXMDYQA
+.netflix.com	TRUE	/	TRUE	1810059142	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmnXUtPhsmyT3gvDW5d-8j8Bv7aIqJlac.%26dt%3D1778522560488
+.netflix.com	TRUE	/	FALSE	1778529729	profilesNewSession	0

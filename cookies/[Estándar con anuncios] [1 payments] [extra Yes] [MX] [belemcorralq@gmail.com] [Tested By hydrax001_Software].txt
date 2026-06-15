@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Abril Unger
+#EMAIL          : belemcorralq@gmail.com
+#PHONE          : +526622292701
+#EMAIL VERIFIED : Yes
+#CREATED        : enero de 2025
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2024)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:52:53
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	13438320070000000	OptanonAlertBoxClosed	2025-11-05T02:41:10.096Z
+.netflix.com	TRUE	/	FALSE	13438320332000000	OptanonConsent	isIABGlobal=false&datestamp=Tue+Nov+04+2025+19%3A45%3A32+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202508.1.0&consentId=bf8adae2-7c63-4579-b22e-a3d4ffe73404&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=MX%3BSON&isAnonUser=1&intType=3
+.netflix.com	TRUE	/	FALSE	13438320327221251	nfvdid	BQFmAAEBEFLWL78VFN3WBaDCc4Vcz49gBzSkgrZL6o117EKrr4nPZMuF8x047Ey_v7DohLpL-8-gqU9xjijOyVV5dcThAycv0r9HW61rb_t28wLYf9myp6nWbFUsv96F-1KNB6QpALHvDCFLU_wwmzxpEcFFyIIA
+.netflix.com	TRUE	/	TRUE	13445140137085765	NetflixId	ct%3DBgjHlOvcAxK2A8VWSjCOFwSYpVBRGiXM-lwsPo2OZKX-KEmoBiWTxUGnKlVwUQNzWny92BA2rPUwArB_URWtRw_HumEbRAnAS4ET06UM7AOgBSvMaug5gTZsCz23VtBu1egaszw07NYCSbOmQtnOeGRhmUndZEolK_OgfnRTIFLQk01Cko3VWO4x6kmrbj_0tnTCadHk-_Xvpx9Fkw6J3qZKzU5aYcxZjXo_qZf7C95OXjC4q45eFuqDgmOVzAZrqy9bOov7y1a4B6lM4pD6EGXjsnQ07Teu9McARxUcpX1f3QOBTDNDtgRM_cRXdvhEUq2wAqF-po2lCZjopYNLo1Fgu5RquHAScn78aVXy5u3s8uarAqZAIN3wgENbpeAVEpGBsd9cNXQTTZ43vQ-tMoOSPo2EKPAj2FzBnlPEh1TdlEczHep5Gsq_EKyBJ3qxjDLLKxKfUPNnh2lUPfOnxrbdSpd08Kq-FosxY-FcKMVrSeDW9IlJsRKsyQBDBeIWUiFbJ3XgcVU3VaInIvR6G1pZ-m2oPOgrUhxuYjR98WWR-5ELciMwfZFC-iwPFLNb0Lx72NWPh6oW63aeFTja6RgGIg4KDNhMJz_SJNSyBktJwA..%26ch%3DAQEAEAABABQOYJEbtj-FMw5yfS1xelDwS7d1axO95zY.%26v%3D3%26pg%3DU5XFUDMZTBCEBFDP5Z4VWRKVZ4
+.netflix.com	TRUE	/	TRUE	13445140137085593	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRNrmwXih-xLdSlb3H-SNfLfcTtIhpnlIo.%26dt%3D1769130537636
+.netflix.com	TRUE	/	TRUE	13413690537210011	gsid	c901681d-5be7-486b-b4ed-26420705c0c1
+.netflix.com	TRUE	/	FALSE	13421380152796202	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13421380152796123	netflix-sans-normal-3-loaded	true

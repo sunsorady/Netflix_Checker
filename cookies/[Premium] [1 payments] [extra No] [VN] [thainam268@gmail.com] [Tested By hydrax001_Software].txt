@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ty map
+#EMAIL          : thainam268@gmail.com
+#PHONE          : +84932769110
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2021
+#COUNTRY        : Vietnam 🇻🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 13 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:21:29
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795624714	nfvdid	BQFmAAEBEHeZ4k4WNex7njsZif8zuxVgZnuuqsucDMECl40ndaxEhYj2o32rX6ba5gPiWA2c4DgNJZduqrDDP6LeA8-vwBwT8dxdJlkfREDFt4s9idU7j0QH8OfSBi6RW0MLyxV64_V8wGXxWRk6ox8fZicCgj9A
+.netflix.com	TRUE	/	FALSE	1812363284	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+17%3A14%3A44+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07971cf3-908d-4856-ae67-8a2435bcc970&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788603281	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788603281	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788603281	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1812372932	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT74PiDtdammy9cenNkNkFyylGGG1RUtO4.%26dt%3D1780836933760
+.netflix.com	TRUE	/	TRUE	1812372932	NetflixId	ct%3DBgjHlOvcAxKEBGn48t01fiF3baoY-aZ4N6BpUmsA7QFsZ1zK6KShKeOAQKacNzR6KJmMtEiTVJWChBdTKz29HeA4PcrdUUtP0h2F7omMd3WZASrZGoss9ZrD9HEIk2Yoo4EPBOrZUHEitORD2AIEN37pFCZ6Q_JCqS-1CatmuO08OJLFaetFKasi1V1hS43R6PUpMm1d4AuK8L5fTNqp2ZY09NgXjNxfJnqXz_HcoKbaqmhAHOTVnGE6LGnR2AR5g1brPi-d0Q3p3wFTy-1RoKXb9DjLulnME5cwnsAOs_wkbOXmmiLnq3lmNeEx6_zL0u0rCg0KwM4DLFrwkzkLXz1vAHnYP9CoexZ9Rit3RhmcONU7ZsNNK7KZioZXPlIAmxsKaUGW-lTkmUljUr9UQxNaXq9j8NRU20xVYcBvy_dZT2B-J6MKpAvWj3OOfP8ShuClbfLTZvmVpik7DLwp-cvPbgOMc5C5n4yc51KiwvugXmlg6DGwzNb7If9ha3kTkhXYxYPVyyWqmfYbBqiCBEZsOqCMbR8WjKVtLBGKTDt6NETHA9htAu29vcFjshDglaAzObEYRI6yQQgwSgpqq8I844Fl1EtFeSM-4pKQbh9Zqlp-PXBUdYdnuVewscUCZKBLumnnOlOssW3GdVHnuSVcxhN4xfaUE9nlfIVHyxctQV7qjy6lG511Q6z2FRgGIg4KDG_SWkVlTrNV_oC4ZA..%26ch%3DAQEAEAABABRkYUiCJH0woup9uow2UKG-6WUw8Mtqn08.%26v%3D3%26pg%3DBENOTKYCM5HIHJYRWETGT62TWQ

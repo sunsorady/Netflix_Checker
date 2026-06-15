@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Noah
+#EMAIL          : mirna10579@icloud.com
+#PHONE          : +61414311380
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2025
+#COUNTRY        : Australia 🇦🇺
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0626)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-16
+#DAYS LEFT      : 1 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:12:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1802413011	nfvdid	BQFmAAEBEJ4xRCD08W_uwVrqgOT54wRgoC_Cue74kIKfkcoyJCUC3wttQfyBEo3Tf-LNVFhdIUvtAEG39M0wLYdiHWOcbh968qyh25v4Y8AXOxV0sm7qMOu210bDXqeTcn1msFsb3dZqqHKyD91YuU-3ZQCVA5L8
+.netflix.com	TRUE	/	FALSE	1811245401	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+21%3A43%3A21+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df3609a3-5267-44c2-8658-219ad8433c61&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783056512	gsid	d05b4507-52ba-4cc6-bdc8-bdb34e773052
+.netflix.com	TRUE	/	FALSE	1787485399	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787485399	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787485399	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1811323891	NetflixId	ct%3DBgjHlOvcAxKCBJNlu4zY5a50NjfU6ZTtEocs8e_v5a2O6aF2h_4aCrFRgBAnmv8uXeBIVlHnIitKHenO7k01C4dUbUwOEUf3Tp-DV2mhm8RbjXWMhpPe0ExzeprTO5AzJlHCMMYYULYnXWGxNNP94i4MkVjq-uQo1fMQujWeLfMhVHGYFmZrCKDm-m8EE91v1PL17lnYcyuZBA3LFMtaYBuMq7HU7B-_QUn6AyWBd2fpPz8YZNPEAMjngx8cz24AXsPFly7gCGsElxn7i4KyhEqn_1X_KN7y39UljgDiv71RATDF8pLRZXeAs6oE5PYXfdiTl8yDjGYMpnxDcnIHmkQfAexV39nJ4YF1oStkXTR7Euc8GewEAnW0w7hDK9bPrkM88cU3ycPoVrsNJkufHWD-rO7gdDJeuZP3A0z4VTFtsYO0Uz5vbot-7g9acOmzbMXVQZN7zEY9QwhzpETVyOuKa00m8KdiaaPKIGHO-XeBXLMrZ497VLfFI_e0dakFGO23DG-aZTNMVTyBPucwSdTJmPPXMS3fb6aIftUskjAcdRo-5qRV7aYTw2kwm6HAeh_ZjqIj-d0GZvIuJwOcbe4Qrz4cmy2uKXVPVtKnSBSbGbv0hCye6XlH_H-4uDl9B-X5fXvKrlkXK-fN6RM3Zc6ZiIkHza0YSXRgN4elBpjnfg7XZf7MewDVqCQYBiIOCgzavVEnPOlLZKzGlbE.%26ch%3DAQEAEAABABRZ5ljYZuDLGM-k7916Jwto8W1QCfiSpWQ.%26v%3D3%26pg%3DUCRK2YZ3QJHVRF4WHXF3PDUZYI
+.netflix.com	TRUE	/	TRUE	1811323891	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1k7ZoJ-eO2EwT4in9DOvswygYuxD-M5w.%26dt%3D1779787890279
+.netflix.com	TRUE	/	FALSE	1783056512	profilesNewSession	0

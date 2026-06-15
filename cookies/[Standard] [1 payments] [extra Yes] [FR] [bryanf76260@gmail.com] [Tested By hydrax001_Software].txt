@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Bryan
+#EMAIL          : bryanf76260@gmail.com
+#PHONE          : +33682848712
+#EMAIL VERIFIED : Yes
+#CREATED        : avril 2025
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2294)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:02:59
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809276496	OptanonAlertBoxClosed	2026-05-02T16:48:16.703Z
+.netflix.com	TRUE	/	FALSE	1810074096	nfvdid	BQFmAAEBENeEYQzhV4bZza_IPlZBds9gB56yilA4AhkkPUXULcDPlcnVwY7D2pmVUnNi2pgWfT02nwET3EYHN-52Aqtyrrqou9vtBwKRP4dP9hKMKodyX_oAPg3B0BMmYQT1wbhUVBm1ezzZY6nZlOqpc0ZLZeja
+.netflix.com	TRUE	/	TRUE	1811276015	NetflixId	ct%3DBgjHlOvcAxLNA3PIcp7xguvCxnVtCmFYWcrHtWS0E3zZItRFdaCjN_j6E93DDIqJ8A742P-1u_h7xjcFxsGn_I44M6AB6yccEnJhay8SZR13I5qN_307dLaFTlWrBlsU2F28aVQ3tRRAeS-H0-NpggMRRaAr8pHVReYX3yjzzO2SxFvdWHV4YK0x_TpS6WLnGbmnDZ-gcdKCB3IquRpV-5-q4FOzQXU1I1_a_Fs1tuL4jDfbL1LNgGRmGxUoKvf3Mq7J99ElQw9u7vkN6PH4bLaFC-zftgWL9v9JhgW7GTTE0kQ6lZmKPe3AsIYkFS1ir-0v_R2AkwRXUsPt_0jtQCIzhg2mblVJHLsO_kij4X8MxCHKRmImyaoeWak_SKJqJXXxYOHwVOVw2WIO1fDEQBOD5tFkql0u4QwacGOX-HcRwgWpnePFf_McE2fycYr3J8E760wZMlO5xD4F2CPzPOey1dnfzuFg1M1Yob3ZVU4AjLIF57CiWO6b-jlW4nDg-sSTOKEaNDp3cdgbCh0c1i2NnoKE2K_mN_SL8lLs79KfT7hp2YY1dGAF8oQgiG0OrAcDEdXtMM3BfOassygXadi-eWvEmfE3wZR1ki3Pb0Yz8-9Z-z6pGAYiDgoM5OHr0f2Hne_UxJk_%26ch%3DAQEAEAABABRd11IzFTdEB4JmsASZvJmMRLEfYhh6vHY.%26v%3D3%26pg%3DHUK3RETAGVEGDMPTBJ34XAQJX4
+.netflix.com	TRUE	/	FALSE	1811276018	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+22%3A13%3A38+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e8c5faef-fbaa-4ece-8d1b-400af73d73cf&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1777740497420&geolocation=FR%3BNAQ
+.netflix.com	TRUE	/	TRUE	1811276015	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHUYVB-a5D_zrEmPgt3i0pZHkqoIRkRuk.%26dt%3D1779740015877
+.netflix.com	TRUE	/	FALSE	1787516017	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787516017	netflix-sans-normal-3-loaded	true

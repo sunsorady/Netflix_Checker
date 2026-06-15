@@ -1,29 +1,29 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Maycon
-– Email: marciosan222@gmail.com
-– Country: BR
-– Plan: Padrão com anúncios
-– Member Since: janeiro de 2025
-– Next Billing: 2026-06-28
-– Payment: DC
-– Card: 7487
-– Phone: N/A
-– Quality: HD
-– Streams: 2
-– Price: R$ 20,90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Familia
-– User GUID: YHMLXOMJ5NHRFIJTZ27CQAA6EY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Maycon
+#EMAIL          : marciosan222@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : janeiro de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : DC (7487)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 13 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:05
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1808079605	OptanonAlertBoxClosed	2026-04-18T20:20:05.424Z
 .netflix.com	TRUE	/	FALSE	1808079616	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA0yjqMXY4pU5iJN59Vrj_HsfcZ-wM0TxivVH_hQG_H3n4lqQd93LtlWQ1t6SwTjNftLW8HZss0YO6AsWEKXRFPRPHpiB_3on8Ekxgi6AlQ37PJb1vomDX2yUAUBJQY8n2xynh0UZoN-s2uNeShwbftCwb2Qwk5p1epCxJqwoM5VVp7Z7bLbVoSjGXU59t0ZIdWvsSYQD8T7MueWPBKfXsOuEx1cRlcWUcDxlO4hL4jJal0FmPn4ORTk1vxPo9CTS_vchxkgpCyLf71SH6EmYcD2f_e_phf_iD_gpuGDsvVNNg1XkIgbfx64JjuM_vNbBLNUAFSJ0HFROLgb-MGIBK4bCvH7kOZZ_4ti9-doXmOdqJWK-ep9NLr7iWw5hRlhL3ZadEBp8e0YMGR2BRAwF-sDu1kNVCAdMUx8nPh40cwbSgNOl6LbgY172UCOL5fki8zDp3o59y4KO9aH41g6suQaP9VKKI9g51gOHVxyJkaiiRA-iecmY64t6UmWfaEnYwAownTZu1ptNDZo_S0O7U1p-6nOMTE0wvzIWGAYiDgoMb0A-QpIGc9J7affW%26pg%3DYHMLXOMJ5NHRFIJTZ27CQAA6EY%26ch%3DAQEAEAABABRPpiaGirKT874CCylV2JmXKC2QTC6eX7o.
 .netflix.com	TRUE	/	FALSE	1808079618	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+17%3A20%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ef1f7dd-98d6-4524-8e81-b1ff196cf6fe&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1776543605893&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1808079616	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRprjSDuo_Embk-7LwQTPcBZjyNn8PIcOA.%26dt%3D1776543617583
+.netflix.com	TRUE	/	FALSE	1784319617	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784319617	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1808079610	nfvdid	BQFmAAEBEP3gvWMyg2bYZPQPlKDY6bxgTBEQvt7m5nvyLR15whmeRXAjkxtlRujP6topW63rxnVX1KgT26Xi74NCXozTrX9ieWugjXympSw6r8LvIpqLlaNDlTjCo81agayCg2xEDaAa4UNQvoHEaY4zVTFxjENN

@@ -1,0 +1,25 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Dyeff
+#EMAIL          : ester3mina@yahoo.com
+#PHONE          : +40747785348
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2020
+#COUNTRY        : Romania 🇷🇴
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (7518)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:28:20
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1805582595	dsca	true
+.netflix.com	TRUE	/	TRUE	1802820694	NetflixId	ct%3DBgjHlOvcAxKRA7KWjor3VPUDy6ualEAOm_2jV-CTE2CkOtR9CoDPVM19yfcvQV7HFQGLYBXsVEl3A2rTN_Cw3vszChiICv55fGLljy7Bv3TbTOql-ebgKsf7gNJ2Eja34-E4A-NNwtuCOslmpAkEktAnT34Y86HbCfhGl0CsZjoSxJ4vJ4cHxGAk1RGcJtsDYkEvMhi6QA45D_3OU5tL0uptgO0DovJoEjlFZvSaKr_ktcApRLcgLLuXNYZtSbU90C3qOD_AlhSh5wNxKg4l2osw8B6oZc-RrYNQRyI-Wdq4Xjj4i0_gxb-M0rMke4K4bZj-h6AOeTw3O1Hu2oHO4cg-FMwfUiNww6dNTiQPkYIl5hbt2Ik4Rbqx5et16g0HCG8ugMzGfvfiiJ1g_EA90uuk5H_9dbdo1NuTEBe_Zw7zWArYpkKvrlKC6qSy0nQHM5u9VfpRppZCEMzVyV19ZIhsXDwacVxhEJfUbTTK1e6A7_i7NeZYWI0N1xarOqY-V8ujy9WXtalTANftGffxOOqGPNY3XPO0aFriGAYiDgoMxRBwFIajTCXY-_Mx%26ch%3DAQEAEAABABTzPG1j0MjbZuwWQUe7sJwsfuAwzDqCF7Q.%26v%3D3%26pg%3DEGRT5XGFMZGJHGFJOP5FHVISKE
+.netflix.com	TRUE	/	TRUE	1802820694	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSeAhKLrXTFdDZSF5fqHOHVMva_RY-Nj4.%26dt%3D1771284694161

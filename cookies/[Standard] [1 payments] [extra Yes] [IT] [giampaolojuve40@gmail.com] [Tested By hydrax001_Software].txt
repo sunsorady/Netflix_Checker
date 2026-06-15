@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : giampaolojuve40
+#EMAIL          : giampaolojuve40@gmail.com
+#PHONE          : +393931405261
+#EMAIL VERIFIED : Yes
+#CREATED        : ottobre 2021
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : GIFT
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-22
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:16
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1797969563	OptanonAlertBoxClosed	2025-12-22T19:59:23.286Z
+.netflix.com	TRUE	/it/title	TRUE	1800993577	dsca	true
+.netflix.com	TRUE	/title	TRUE	1800993578	dsca	true
+.netflix.com	TRUE	/	FALSE	1797969577	nfvdid	BQFmAAEBENMpLX0hsKvVpw45_tuRifVgrAHnX1XfrgYW-MZFmpXxtfJiFbIo6UUPNmNR1lu3qrY5snbcNDnbBiXwGG6kd_ZMdagUzr3SPIJo7Fk_WuJRoroLVDzy4zgQ4tMWKcCKU9-97NPc-7c9D0FlV1Pl3ZRC
+.netflix.com	TRUE	/	FALSE	1797969664	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+22+2025+21%3A01%3A04+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b978dcd4-7b06-4528-a729-1a0bd3159d19&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B45&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800993664	dsca	true
+.netflix.com	TRUE	/	TRUE	1806347120	NetflixId	ct%3DBgjHlOvcAxKWBNQ4Znv2bYd4YdmZ55AlkUh46LlQNRdk65vr_w2VUtA9xNOAWz8N_qA_XhyLS19wY55FViJIdQhsEjAMr6HE-K1E3Fvd3-iFlipXlt7Ueh3thKMoyoten9aLZ_k2NzlkfkQQt60Kljo-1KTgkEUUC8pfWwgDDdzEQj21ae8CQ2ADSgbKtqZ4il3_aOgOULD183UiQ-KWSkN9loLY_7Vb_5ptfQhMeiDLDNsc2AxAgPjs-Ge3SOWYYSf0QKd3a9u2o-chzOBxqS3sp_f1S7nrqTKDmpNV5s_oYFFlFj5AfhjWM-CCAXbHCrYDBqPLVGK_0kdCvLEYSsHEktdjv35M_xxmTeDVtIm2d9nJXUvrOP06juyNBgywj2nDA_VNAW7KU4HoC5p4yJBOSwvcEL9zvOEPJ_K5Yux8WYRiOMTkwLYIqOVsBz4liUwFibObq2_-G2ct6SPyHu438TcIrLEyCzZym1GOPoR8ZTzydk3EaMQG1kQ43ZFUErndC9y41avFx5kXRhKs8IVQByujU9yGzd5zyqnU63rQxP0-45lv2KxKEs7V0DBVZmOVVCpZinU7yd8ECUeJs1hK8103MSaGZTaBnsyKya5poJbiTuk8N6u8JgilBe3dymgeBTjOoYs4tjCYY8ige80eyFZXfugTzmaeLVH7oeCfoaThRmC9q03qIszzgyd-gb2nKsZuuBSwOjKVaaFQPhgGIg4KDGLu26u7sz8qJB_LcA..%26ch%3DAQEAEAABABTFoSSNg1bjzSqs_XqdMGE2TeWtbaZEb4w.%26v%3D3%26pg%3DB7DLKJRXLNDPTFAGB4OWPV2SKQ
+.netflix.com	TRUE	/	TRUE	1806347120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdnnA5IN7FvV5EgMU0ZXLnZRKspfPL3YQ.%26dt%3D1774811120094
+.netflix.com	TRUE	/	FALSE	1782587120	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782587120	netflix-sans-normal-3-loaded	true

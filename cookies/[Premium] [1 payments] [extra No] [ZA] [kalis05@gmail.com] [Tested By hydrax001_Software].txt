@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jj
+#EMAIL          : kalis05@gmail.com
+#PHONE          : +27745613635
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2020
+#COUNTRY        : South Africa 🇿🇦
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9418)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-21
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:57:43
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796641148	nfvdid	BQFmAAEBEAa-9tDcTsUJtsyFXsDubx5g87NkSf8Q1i8RFLmJFo_WDNK-dPwudphZ__8Yj1jWssKu7EGTg95DV-Czz46_N-EB4kwiQrP5OV2IBVjeRwDQC4znsDgpkPrIvinAPnGWh6EiN4cmJeRJhUbx1LkoNwKh
+.netflix.com	TRUE	/	TRUE	1810142621	NetflixId	ct%3DBgjHlOvcAxLKA1uDRqLDqLET9Y3i1NvdXzIxqi_jlFU4uslyn8hJ0GLlp7ny13bTNdxodft2G0mPMOEEnQhAVWTeOX0F44ES7uofr76chQS-qkmmB0SfBTM8uJZ2lGb16zH8jZK0qIOY_SRH7UI9-vcTmgcw0CPlTU5AKDJFY6w-k2uH2w8Zj8mjIDvAr-HUzls0uI8ZmkX9ovUCpZmEntz3h6jvGB2mmk0V52Y5dpj63OYQf-oI9PY1gP055eCMvgiCIQFStlz0YJSa-CruNfkzMeEigrj6hOkpOfBHqCWL9A5fOX6EeRMIMACN9D0sFX0iOrVkUG-sa0o36e-TdIykiWcNtfLvoILGCHekmAy5aWTPqsg3xLJNyF5U9JVNuBelEVUVXSKDPChgCWwYqmfXVlOw_jasO9FdAVgrhQMIh6zZLLIuMXkgr97b1j7ESFWGt-OfdCNsoUO3kZFAEfx9ldaG25QNASH2H9_TV-IRmItpeRIwDJxhI6U_sDwl_rnhIM12WKb2v3-7pN0NrD9hhR2_z5KzTIaNVelrdG64tlwct7-OCH-4WkjSwfAn7lQhST0O-e-rdGBAX1bbhQDHmJyNlVfWjEGOIcfwUODiSnS5GAYiDgoMPClvKwxfZWcfKstT%26ch%3DAQEAEAABABTM_CRp7NV_jgRQDw1RNU1tdWj4sPs4p60.%26v%3D3%26pg%3DMUQDKFARHNFSHL45KVB6GG4FKI
+www.netflix.com	FALSE	/	FALSE	1778693022	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1810142621	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKzysLV76c29hV5Q1LWn6hMpp44ZRVQD4.%26dt%3D1778606621983
+.netflix.com	TRUE	/	TRUE	1778693022	gsid	7c3255ff-3a8e-4d9c-bd3d-9d3ae16b82fe
+.netflix.com	TRUE	/	FALSE	1810150281	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+21%3A31%3A21+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8edf048-d20d-4893-b06e-b188e52dfbcc&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786390281	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786390281	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1778620829	profilesNewSession	0

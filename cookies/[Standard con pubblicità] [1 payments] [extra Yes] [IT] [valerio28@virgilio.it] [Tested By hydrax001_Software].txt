@@ -1,0 +1,36 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Valerio
+#EMAIL          : valerio28@virgilio.it
+#PHONE          : +393479317525
+#EMAIL VERIFIED : Yes
+#CREATED        : dicembre 2018
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard con pubblicità [HD] [Streams: 2]
+#PAYMENT METHOD : CC (5060)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-17
+#DAYS LEFT      : 2 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:53:37
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	13436637711000000	OptanonAlertBoxClosed	2025-10-16T15:21:51.997Z
+.netflix.com	TRUE	/	FALSE	13436637722542665	nfvdid	BQFmAAEBEDOk62YW6OryoHR_my8ZRUVg4JL-TxnmmSaFVjUtU3fhToP43fYbIDFgUFSgfi9af8dADgWThjugX-jtVdpAoteHlF-E2pg_SYKe25hHVX-IgMwHjq6OhDBZLtsqjTwQsSYE5MNcjnID2ijKNv0VvcfH
+www.netflix.com	FALSE	/	FALSE	13422381765000000	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	TRUE	13439661945009231	thx_guid	e7071277f6a22cb8798e1c2aa1516be7
+secured.netflix.com	FALSE	/	TRUE	13439662032533041	tmx_guid	AAyL-_tPwOt9JOl3udsgSDd6G2hf5QKCTnSlMNUmoLd0aySEURvkMH3MEzawIfjTCgatEndXpUUlw0J237qnyYaS8WjY4w
+.netflix.com	TRUE	/	TRUE	13444101289269570	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA6E5b2aU8--YkdC6jvXkcg-KUJSxU6a9uKFOf0WB-rw4acU-UkDseGO2ImP85pGXhDcAFnwGbaOF-OQ8CGeSTK6xfmKlhsclS8AXkqDbamszbov6QNgZUL70wzjQGNUwhx0xX2kmV6BYaZbeEHV_pyHZQSzsaqVaFQM8sCc2HtN-5-rGQGYT63tB0t37LtD2X68cWInz_rSjPBJqBpyDxQE7M8sxWMu1jYGx0M1C8afUtMiNx7wJ-rA2dd2gtrOfM-GUqcL-3DUEJ4nFnHwxl_3kvNOYcbszwQPzuNlTipw_7bw0Ib3Ob-GwhIZr2trp7SoMDZqEix4jGFnWl9b2PfhKFyNz-qRUl1laPk1iims7Lb0yFHJ2iYa4A49vc0C-JvMBohj6Z25I8-ZX9kZJmImTCB_kyVsJBECkZPtjv7SFgwwOwFyo1rbO6GCeGmiLKu7hEdHqAHPidQubjkXwPfrUp5mHyNapdYthcgwvJDwtvKmLn6Q2_F8SaY8tM36vN_UBDBgGIg4KDFW0S3FVr9bGRsEe_A..%26pg%3DPJHL4W3H4BBSTMU6YF6GAQ6TQI%26ch%3DAQEAEAABABTYIxsL6J5vkh7X4PIaKnh5SFOwZ2EoCSw.
+.netflix.com	TRUE	/	FALSE	13444101289000000	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+11+2026+01%3A34%3A49+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7cdbbaf-fccf-4f66-b59b-a8d9b1233958&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B62&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	13444101289269395	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmlQe9Yrkd_gmHewlhHTeDAlo0YEG_OAY.%26dt%3D1768091689161
+.netflix.com	TRUE	/	TRUE	13447125289587593	dsca	true
+.netflix.com	TRUE	/	FALSE	13412576071257882	flwssn	24ad291c-288c-4b04-8eee-6a2cd4de3635
+.netflix.com	TRUE	/	TRUE	13412651669096929	gsid	1469de84-aab5-4c88-b3a9-8ba07718b88e
+.netflix.com	TRUE	/	FALSE	13420341271257656	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13420341271257323	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13412576226355754	profilesNewSession	0

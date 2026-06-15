@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Oliwier
+#EMAIL          : ofrankowski2005@gmail.com
+#PHONE          : +48797526926
+#EMAIL VERIFIED : Yes
+#CREATED        : kwiecień 2019
+#COUNTRY        : Poland 🇵🇱
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (5989)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-10
+#DAYS LEFT      : 25 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:59:53
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1803828934	dsca	true
+.netflix.com	TRUE	/	FALSE	1808429619	OptanonAlertBoxClosed	2026-04-22T21:33:39.894Z
+.netflix.com	TRUE	/	FALSE	1808429616	nfvdid	BQFmAAEBEBj2u2yTDvcLvo9Vp8QYF9NgiRgMzWFLvCgcOfwrVXlfxDJGbjaAkfEIgs9Im25ZtMItH8IqY9-pKY0e3liwQwH3HdK3Vy-IMiwJXTSsUVbahe3v6B-EiNFDLXU6aQwTjzfciTqhLerOpXDRvBunZgLH
+.netflix.com	TRUE	/	FALSE	1810040402	NetflixId	ct%3DBgjHlOvcAxKFBACkPWLapA0__FSx3BxwGpHeewvsaByTg5kV__9jAPbMyFerVyPiQnqrFwO0aoNIZnNKNAkqG40ad_oPNYKuji2M0rRWsnK7S9NAKq5T5JUZAUq2TjC7Pml7Q99ckXKH484QIUq_-6vBmDDUlkJQz1G9LSmz9ta0zdHOjLJp3XcUIWwN98pvpYy_7bndosmkusJhKAvoQ1BcvFl_cuP0X-IjG_o9frib7OYgbTzAKRyKXc9Kdz4ZoD86OChZmE2JbNVod-_cSMlUCc-I4Z8QkON5bZKaNJawhvAGXic5kQhqtvXSdV-1IAYe5ca8JGJbCUE8Ehunivvi7aAgPtfNyD8_yaVuFKePmPw10DXqTM92g-h_nHhpDwfFWp9z0jQYF682ZRPWJ9Pzc8kXYL8xo4oIDZZ83eRMx9eQmcT8PlU4Hseo-p6IR-D02g-dqFgGRMBQAKOVh4ow62zFJBrLzVnVB17kTI7c8dN5TF-44VtA4GT6N2GvyjaBX1YlScCI1Lx9afo-X8XbUEPVzeMkzGTsqG3gVHguqz1AnsFfDKfyGR1tNKoTgnMYz8vIs-SDIz4qSQeggiIQZi3m5SEl2AgA4azSesOT9o72a2-TXIrliMcE0a3MMWyFW0u7Tx-oP8YiZue5ZzuuKK1ffwpOilnBCEIpUluRM3Ih0IvNnsbQ7T4UKx4YBiIOCgze0xDTwcQ-HGn1IF4.%26ch%3DAQEAEAABABQJ_SYye60qQpDRbahgU6l6hmOTIcwXPr0.%26v%3D3%26pg%3DAEAAABH5F5DPNHZILQGZJKOZN4
+.netflix.com	TRUE	/	FALSE	1810040403	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+15%3A00%3A03+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=333b0113-6290-4a09-ba26-caf0acdaed99&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=PL%3B12&isAnonUser=1&intType=3&prevHadToken=0&crTime=1776893620309&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1810040402	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStdV1VkFVjd5u5KDXHXxUxbzRWP7jv_ic.%26dt%3D1778504103795

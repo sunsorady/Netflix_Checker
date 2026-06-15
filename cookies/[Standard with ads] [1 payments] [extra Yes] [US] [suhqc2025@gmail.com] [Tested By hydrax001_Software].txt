@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Keamon
+#EMAIL          : suhqc2025@gmail.com
+#PHONE          : +13176285593
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2025
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard with ads [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6991)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-19
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:39:11
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807822866	nfvdid	BQFmAAEBEGO7aDELzwwj8Qm4Uv-rgkxgqC7XooTeBJ3efSKRwHmppaYQ617KIv1WrT6efhvKqBVCdFlfWdRHmnAbGrngyxxS3i83PvGlwIXK1htBoXT9AZeAwvDSirsF9Vd9dZ85I3cdfVDdZDprAE_6FiyyGHGa
+.netflix.com	TRUE	/	FALSE	1808275296	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+22%3A41%3A36+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=629306fe-4857-4e50-9d50-fed87ba5eb97&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811574121	NetflixId	ct%3DBgjHlOvcAxKABECE2Dm_8Jq7zzOEOyny-22FdTHACd8GIkjlIcdudncIi9BzpPtLk8_NvLuu9frWk1cJ0ZL9Ww0_OWx10eGIQaQOEM7UAh-IvOibKRuN1AQ4pvkWY75Yolyiqa-EpkogHtja2lvTYM-NJo1mmjCXJGnBl_OHoscmU9nflNo29PBGIxovcJuEgsfp0S78b4xVxbnpSY8cukExvKBo8Ji-K79Hr-zJrDW9N0YlTEFyxPRFlQKQG86LFe6VEdBVtjhiV3OUphTsJQcD3HFI6loXH0JDDQpFVZs5cvL5dhOvzPFzyiPgC52_DMMVEAsYtkzNzFn2VHNAEUSvSw_hNO005Dg0l2ccaMC4tuCC9Kv6W2x8z0in8h5644ovJBvFXlqMQn4Q90Q6d3QIIRRLukROZ-jtqRNlWhQlPRiSeZvpQL_KuyiWmPk5J89mowRnDcO0ihPTmKKhTiHi4OKDCQmpPCImSKBUPoKcvosbOlz0QI8dMv5o3yQvxZ0hYzXFD-OPSy0T0nt-_dtXOArZTAOPjkOaa9FHq9QHNzOTg_1RUlNECfmFrub5I_HzFduPCmxVjLWhyLres3OEtyn5vkOyIMmkAewv9PoxUE7mAtSG7O-1L0LLSEM5qGydHMkr5TmmkAQTi8zvRKvfzEkS3xztBluUpJEjxsAeZajkvHjsNFYwGAYiDgoMhNp56x3NW5O7dQEN%26ch%3DAQEAEAABABSEisEaSisCejl0VW188nfSg0LMWx4476U.%26v%3D3%26pg%3DAQ4RRP6M6JFENMMVLV25SGZQYE
+.netflix.com	TRUE	/	TRUE	1811574121	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5JMSCck0LflByqzcAh5UCbJi81Y7c7qw.%26dt%3D1780038061249
+.netflix.com	TRUE	/	TRUE	1780124521	gsid	bd3f0f19-564e-42a1-9717-a6afba3530d0
+.netflix.com	TRUE	/	FALSE	1787814122	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787814122	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : TODES
+#EMAIL          : nessa-pml@hotmail.com
+#PHONE          : +5512988793200
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão [HD] [Streams: 2]
+#PAYMENT METHOD : CC (9511)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-18
+#DAYS LEFT      : 3 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:18:40
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1781368170	nfvdid	BQFmAAEBELMTa3ivB-xematCSuayhOxgSLLAxfPwnhcR_3DXFzd4dL9acCRwyaZpoS9zs6QtaIkpwSptl7d16r98ObbR5_8ZjVbIGfoJ0FUDPt8L6VLSvHmmWwPqbA5V6rY2n5sUgd__JIz-vpFDKr7jcnhnYtOg
+.netflix.com	TRUE	/	FALSE	1803340519	OptanonAlertBoxClosed	2026-02-22T23:55:19.392Z
+.netflix.com	TRUE	/	TRUE	1809988104	NetflixId	ct%3DBgjHlOvcAxKDBKJFX5fZC-SKKO-zX69N14ymTAzdmoln0Plgpv8kWFi-47-klIanfE5BOEXE_eDKiNgj7LFXL1EoyA_Eyz7-aUJPlx3Ts7LQaVC2RprkOVYd_v59NaywOcn3mxSpyerXyKnjz7qHW4LSb6SoTnpva6Lh7FALyX6NWPGriLYRA7TmsQRkyX7XA0YbjJ7oEdGw3gtzfk0_0nFWFni8h8sy7IFEdcdhL7eJQ2i1zS8Et5YohmebJXsPbUeIPGa8Y6hRVSb132t6q-dC6d5xEzlV10w70L5YCaMSclN4dSvmSJFKhpXxncLH269a_5WsuP6LVabJZ00NbnYNGWw5SvwgYzTOGRGhRMB3GHQ-c0ZuLD_56fSnJAMgvON95jWKV_qBixO2C94hbyy-RaT0AxutA0wpvGL1oQAjTU8D6iIAnlUKX2rvYCoSdopeUFYBQLeeqz6XvFxegAPSpL7oK-kdQoUzY64G6OzSSa4LTYKO4uFvFI-gMKfq3A3gePQhvaJtkiIlixZjXqAoshCSFSnj6rHgOIi3d5melEeKR9uNKkDiHdIjBTszA_8PVnPJshheRTNPAxhCC6Fv_Zq0TQI22Cntq1ipMCE0JuGil2Fj18AsdEe8k0wPX5wov_Qr6uRAOQ2HmU2ynmA0BuklAlDxHVA9DgW9ozFxcGynw2CCB81wYUs7GAYiDgoMfMrL1y-LwoIgq5cC%26ch%3DAQEAEAABABR0PABBOHmzOqw-mEGs94jv1ScGofafCd8.%26v%3D3%26pg%3DAYNRAL4MIBH6POTDMFW5EF6YOA
+.netflix.com	TRUE	/	TRUE	1809988104	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLLSe4qWCaVo_zsH3XTW0Hf0CjAvBnvMs.%26dt%3D1778452104293
+.netflix.com	TRUE	/	FALSE	1786228298	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786228298	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786228298	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1809988305	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+19%3A31%3A45+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=957bf341-4336-42a1-8ced-3573be6bcdb5&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=BR%3BSP&isAnonUser=1&intType=3&crTime=1771804519869&prevHadToken=0&isDntEnabled=0

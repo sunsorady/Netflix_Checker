@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Riri
+#EMAIL          : halimaria@live.fr
+#PHONE          : +33782448812
+#EMAIL VERIFIED : Yes
+#CREATED        : octobre 2023
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub [HD] [Streams: 2]
+#PAYMENT METHOD : CC (1725)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-26
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 20:00:23
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1788126595	OptanonAlertBoxClosed	2025-08-30T21:49:55.457Z
+.netflix.com	TRUE	/	FALSE	1788126608	nfvdid	BQFmAAEBELnw2ThDJShkp8DQf3qmgJ5gemEH9iYLi3zd_EcbZwk-XpfJ9r0o4yMXCDOF84CjK8ECr5Ygpn6JyD0PJHex-sezBPx0jl4JfOgtEt_ycN9cM4fzqHXatD7j07w-Ot6yMXqT7MyTz1MiZYXGpjYaQ2kd
+.netflix.com	TRUE	/	FALSE	1795191535	dsca	customer
+.netflix.com	TRUE	/	FALSE	1795636577	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+25+2025+20%3A56%3A17+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0e0fe4ab-3078-4bb8-9c49-43a01cbb607e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BOCC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796496996	NetflixId	ct%3DBgjHlOvcAxLnA99AqCz0ZFTBNDNzDXN2GuYIT--sk94Kj7EEHmul-oorQeutVOR7XwoWdQHAsAvaYR-WY1dhd4p6MU7fXO5CJtiRrqLuitVqpxnvBsCJKsaAjeOqsaGkfsSGFONQlFCqRbankVl8NKR6396QjeXDvf9gh1VwgN94jnItJobZmNp0LOwN6ZKSBo8qLYGCDjXVogie1GQRYWUunfmMBFUBdXjcchfw2gSGUcpaNoSh60a72pI6U0JqsGROKp-ismrk_xE1j5i87TUWXruG1ttZ10Zww_s2Tsy_NKOSwlJTJXnrCOaDNri9taPR_vkQtNfLGShzn8uD5jLtEsGgCwUc8JgGD0CvUnJg332pLIRdDhwKDwUe7SklISYPm3y42OwcweW1ajGNspxojAFNnQevoVe_frjjndzKPChNvjBrNMBf8498-LsJrfASHNPs0lo8qUhz0k-SDTkFu5QJKgAXMBRbmwOPX9Q9x70CtUkzrArCzG1szZcUxguDyqlshnMIw2rovn3SN9KCU2ExtP_se1G_416X7mJf6tqm1dOpktXWFWH9kddt-bHcg7YB8UyHDXFCVHtQxTox5j6m3srr0fFHkOCv0eRDHedHLzNVXKH1HXRtkjDwgecauPa0qZtlDTp4Lj5GiVIYBiIOCgzZ-_MsotNWXkR3ysw.%26ch%3DAQEAEAABABSMABMsAC8QpfWTTM2YeSRcPmTX_i3ni0s.%26v%3D3%26pg%3DFHZLJMBXDNCTPGSC5C74J4NLKA
+.netflix.com	TRUE	/	TRUE	1796496996	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRzYRbGal_5XlQOmXYRRKc6vSqpXitzh8c.%26dt%3D1764960995196
+.netflix.com	TRUE	/	TRUE	1765047396	gsid	580db1a3-7cd3-4a86-8228-70a4325fbe25
+.netflix.com	TRUE	/	FALSE	1772737140	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1772737140	netflix-sans-normal-3-loaded	true

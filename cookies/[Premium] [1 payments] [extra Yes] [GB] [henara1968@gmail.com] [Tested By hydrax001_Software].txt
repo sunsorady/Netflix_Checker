@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Christina
+#EMAIL          : henara1968@gmail.com
+#PHONE          : +447444120196
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2023
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (8958)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-24
+#DAYS LEFT      : 9 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:25:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798989674	OptanonAlertBoxClosed	2026-01-03T15:21:14.770Z
+.netflix.com	TRUE	/	FALSE	1798989745	nfvdid	BQFmAAEBEDWjnmCrqR27CyUlUfmV3t1gQi6XSBKAT4FI5Oo9EpH3ilm5-WKuNOcS5w7pyVy-UQHcMVVDBCqQwtMNUUzoV5eBv7sW0UM9HnKjcKqgtxni5bUYjsKtut6ifD21zaZFIWa5qmgc47j4_VlNBQ6aAJjN
+.netflix.com	TRUE	/	TRUE	1799076390	NetflixId	ct%3DBgjHlOvcAxKWA2sdihROJ0awD8PZ-H0MX9B_JS2RHNRsAsle4eDl0K2Qht1iNhn3xCzYJR05wOUMiaTNV1KRk2hgq807cUy-mE3YeiPm4xrYFqtq97dmJFQ3ml4-XfMY5CAoE33uBpYciUh3NXqAKMqW51TNQRq5-Zn0I4dH5HuRIDkFfHLWZr3-JvcJuqRoyPUhqJj1GDaxrHjzORa7sbBHRK2r3CeFO1uOErUf_RsjYnMNcKrf0S12R6cUzCYo7iAzKpRrAZiNaohOK10srcrPJ6frAvZd782JQdBP3gYiUWeyELPrcPtNj1kj9ftspe7LIGndPXQp5g8BS5czRtHDrGc_a_AfFcJ2_oh-i72KPi4uCsKDTMIj488ZsD0PuGINE06WLYAPooqWuI5XEVRF3uAhWmN-Bj7yWk5o91T-eJvf9ngqdGLJGFF3E1TiXUKrseduOMR_dh_VtHGYdW4qn-yoa9tzlbgWRN9kTN8xsZTzvRiDhuj5o7hZQhdqqRXDL7JuPjSnbwmkOI1ARifYtzJffZK-VfBdh2MaKUoYBiIOCgyDrJCpfVn7AURaAh8.%26ch%3DAQEAEAABABQ8-igQOul6j6kx2doFk5QoHvamm1oPtYM.%26v%3D3%26pg%3DZRQJ4TYCNFGTHJHECENVNVOZAI
+.netflix.com	TRUE	/	TRUE	1799076390	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkSBjjB-LksEXHDET08b3fFXNJBptgygE.%26dt%3D1767540389201
+.netflix.com	TRUE	/	FALSE	1799102654	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+22%3A44%3A14+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=093980fa-aad1-496c-9c2f-616267059b8c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1775342653	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1775342653	netflix-sans-normal-3-loaded	true

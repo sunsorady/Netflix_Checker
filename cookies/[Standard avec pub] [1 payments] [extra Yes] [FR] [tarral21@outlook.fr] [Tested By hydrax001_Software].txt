@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : tarral21
+#EMAIL          : tarral21@outlook.fr
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : septembre 2025
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-18
+#DAYS LEFT      : 3 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:05:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1806572511	OptanonAlertBoxClosed	2026-04-01T09:41:51.660Z
+.netflix.com	TRUE	/	FALSE	1806572519	nfvdid	BQFmAAEBEMcoMrm4LrlFFUeUcpL_mgRgZlI2D_2eNF7mWl13pebHLoapVxcHxUxz0uVeFO-cGWPrScJzhYJI_NZzDWWXVzlJX6KugoxQNNbbK7PUjaRbcZia6xdpg8ez-gwk2ewMMnaTGOzOewirgcNhzV-EZ7Ha
+.netflix.com	TRUE	/	TRUE	1812013642	NetflixId	ct%3DBgjHlOvcAxKBBMdUcV_aeQzLbTOVtOqXe-B0RkOYIYnolhUavoaPqnndKl9Z-eQfmbSJ_6YMVOHDf8EzzkCrsd2yyXdsQceSozrO63RXovnaacvbtCWVRq0RYhqUCKxCQJlxWo11Xa6Ni3pgleXFVZ4rrzAVTSEkgyPETTgu78mklENi3lstjef9f0oyD47w8tBxKLugGeoIzoNCrsxCgZaHXQ_QCzSIZ1tH4SgvsESA8RpxEoVzX5O4tkACNrkLi2nFoR_maknDpIk9v-bkmRwK8tMSM90JxWOuCyCzXvlnBJkowJp6cpBEPao9A_faGfRSMJbp0pDqapkac1KP9nI9hXOLMrSEyDuqzNDp3WRPdCwj_nhaTH7q1MkBR3qFM0QKpKOJU53KEk3jcORQc2x5gqftuAIGymmyQ4BIfFBuNec06yHCQ5ZX1Bqi8Atx0cQQZf7x2La0tMexTL48m7A9l907S61pXeH-3JqkBjZQzF56smplU4oKLEJr5hmFuTcgW1hc2Orb_0cB_QrC8KxKmHiiafyFvtP0lsWn9zu4i6m33UVUM0O3lhX4Udphq_B9XqWuU0xcXfoE4TsbYGpo9xl9C9aXO_tG2HF_yuHx-pNg8_xN6RWbgapgP6jnVZ5b1XPD2w3fihbSvamh-uGN2mrYeqPF_rbJFkNNBbjYBPy9BFlQRihw3RgGIg4KDANYHl52sz_kaBielA..%26ch%3DAQEAEAABABTt13ZAWPmVpuyYg9nSGXFc_YCPBK8gwOY.%26v%3D3%26pg%3D36IDZQCLTRD2RJ22BDBVHE7QX4
+.netflix.com	TRUE	/	FALSE	1812013642	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+11%3A07%3A22+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ffd3ced-525d-47b9-b15c-42a6ef6a9e91&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&prevHadToken=0&intType=3&crTime=1775036512007&geolocation=FR%3BARA&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812013642	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_3P55bmz64l0tO7iXzcWw51QIayrZ6Fk.%26dt%3D1780477637380
+.netflix.com	TRUE	/	FALSE	1788253642	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788253642	netflix-sans-normal-3-loaded	true

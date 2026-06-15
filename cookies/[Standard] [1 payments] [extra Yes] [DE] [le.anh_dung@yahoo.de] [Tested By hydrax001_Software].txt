@@ -1,0 +1,35 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : AD
+#EMAIL          : le.anh_dung@yahoo.de
+#PHONE          : +4915146718371
+#EMAIL VERIFIED : Yes
+#CREATED        : Februar 2017
+#COUNTRY        : Germany 🇩🇪
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : EU_DIRECT_DEBIT
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:19:32
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1810741931	dsca	true
+.netflix.com	TRUE	/	FALSE	1782847234	nfvdid	BQFmAAEBEBfOty5HFNLe6DtpfZjqrz5gBychysDgJe7oDlQ_PW1hCHkO5LrIZY6rSJZcDQ4nt7zWq_C0iVj0l67LoWZqjAR_PMUEqWvqWNv3ijbS_OPbRvQBZgMwx-SHuyYZG1YrDu8mDWa90QRSGhHrL4ZBSuAI
+.netflix.com	TRUE	/	FALSE	1782847238	OptanonAlertBoxClosed	2025-06-30T19:20:38.136Z
+www.netflix.com	FALSE	/	FALSE	1786462307	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1808067971	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+19%3A06%3A11+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53326a59-acd0-4a4c-8a92-a5901f75794b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BBY&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/de-en/title	TRUE	1811398043	dsca	true
+.netflix.com	TRUE	/title	TRUE	1811398044	dsca	true
+.netflix.com	TRUE	/	TRUE	1811526922	NetflixId	ct%3DBgjHlOvcAxL6A5f_f1BWETfBir1I22byhnUTO8zwhNweBJSn7xqwJwUGYL5jN7_YeqygWciQ4yva9AHQfNqnmxHuxyKa-Wi6akaZx-9v6xfMv1PHlp0HQzzk4GI6HiU5cCIxQ0Z0S0VFuGGHNuo_K71mv5fPj2_q9UIiwe3RLppSKNxfISZYoHO4OSnRlYKBuAGkc7FHAHsZ8wp9t_o4Fc8Babaiy1CpbWmIaB5oAm4EGge0hQprwwKc42d_MVXpVbCCJta1qC7Za72P2fAo9-9fMYuXSWdIJGEcqVZKyF9l4zmNtubq5af3ag0V56AyFkf4DYzS8l2UICuPZjqErxDHoXWfVClQC_ArfugiI8ya4egmiXiC5LIp7s1rqyBBP73XQ2Fh6yLT7UMi-Ey1n2IzwBPJwrqj__d-46hUWiuIsjAG1WqYmeaby4UHxyP9MrMB8fMRuPMJW3FRfVka6TuBAacXspImZ_juXg-AzDtxW0nDLVFTS3uAC_AIjaR8C1LjdbQfQ10yh5F12HdmDZ9I-s7fmfKY_V5J7-hUbOP7lvMT0klm6ceJMyfk5gvVospQbssT699Prr21bP9SrXWwH5KDVKz4dwyzBVx0jEmDpt7CzVopOvHZ6MaEPlvIssVowpq2AQeAOJZ_hAHY7VeDRTIjEHtEms6L2PUzOAMFOZmfGAYiDgoMnZphNBdVTiMEgidS%26ch%3DAQEAEAABABT5kI212fbNIXTZacMm5E3z7Cev-FdITn0.%26v%3D3%26pg%3D5NTXPF72NNCFDM7SW4DLTGXWBI
+.netflix.com	TRUE	/	TRUE	1811526922	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThiGVX1jfpqTN6oouop9D8HYG3me3x76s.%26dt%3D1779990919779
+.netflix.com	TRUE	/	TRUE	1780077322	gsid	733c5134-a335-4491-b72c-76fb7e1c435b
+.netflix.com	TRUE	/	FALSE	1787767012	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787767012	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787767012	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

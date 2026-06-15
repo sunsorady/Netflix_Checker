@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ana Paula
+#EMAIL          : anaa.bladee@gmail.com
+#PHONE          : +5541987096368
+#EMAIL VERIFIED : Yes
+#CREATED        : fevereiro de 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6166)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-04
+#DAYS LEFT      : 19 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 20:02:25
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1802904682	OptanonAlertBoxClosed	2026-02-17T22:51:22.492Z
+.netflix.com	TRUE	/	FALSE	1802904699	nfvdid	BQFmAAEBEH7RqSBEts_Aw5HdWICDXmVgCmfS7gTBkMX-cjQth86aNFiyqadGkjk5pTWCmR5b7Wh0lyqGlpsoQO7I4aN-ZmvQREZGSd1FOcoX2gdMhl0KbIG_VoiJwo1JAGoJNFvlWiAqfyaSugJkuu5HbU0cCchl
+.netflix.com	TRUE	/	TRUE	1808335646	NetflixId	ct%3DBgjHlOvcAxLNA8wYJJJ2dq-Cs2PsBR2faxhQyPo8WJmI5DUMhdahp8wQwu1ZeZGoS8WKas_A_3VYkVTzsuaj_hZbffnPDgpqEW9aY03Q_Sh0q70mPFaRVNmqrDgL4LL0tDvLlAa8MQbUUUVJWDKDbIcL0NGyVD_5vU7PvcobXImiXki1-DOlYIu-l_g4uOEVNE_99ooqhQU1NC2rosrtnAL3wBjzKBYtl_Ur0rx2PDrq1x9UXep2bSXmgibuzZH-xuoQLgL3AMjQjxD17tcPwVUnx6yejqLgGuN4MS3DoFA-neg65xaNreMfNN1gGhGhtRITVYTbpuhp1F7y9rTwFWlpQ4U-1GMGC81zy-M9djEgl1GpaZb9ThGfDkWlu-QMese6PpZJCK_KPSZ1BZrw_OEivphbYwMCGww7SkhtJeRYHVbJA63ElFElAg3AVib0bwxKmiapUlA5LaFAs5-6bG0C2D3w8kCuiqhDbeH-QALYkUIqsIVj7WLSzq2aLPlm7paB2HSaiVUevDqeG6EN7eWHQSdEqou4Y3KOF92jmfXG0Aslg3JOHsKIWOC3XjwsUJ1ts9K35t-4Zzawqr9JALGf2bRjFGVsB4ycymhcs8fa9chjA2wAGAYiDgoMXGcYOgulaBDu-4kW%26ch%3DAQEAEAABABR7sJl-hp6xMb3_JCo_pwWekCyXfXWbxGQ.%26v%3D3%26pg%3DZHUS6CSM2FEVXKWR42IXNRWQPY
+.netflix.com	TRUE	/	FALSE	1808335646	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+16%3A27%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d5a926cb-3f06-4e51-a45f-d0f6b1512fe6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771368682908&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808335646	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZpFBfNEQBIhtZIw8pqz2GbPBPxlV2VW8.%26dt%3D1776799647877
+.netflix.com	TRUE	/	FALSE	1784575646	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784575646	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Zuleyma Montserrat Rosas
+#EMAIL          : zuleymarosas170@gmail.com
+#PHONE          : +525616689998
+#EMAIL VERIFIED : Yes
+#CREATED        : mayo de 2026
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (4979)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:19:47
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1793325193	OptanonAlertBoxClosed	2025-10-30T01:53:13.611Z
+.netflix.com	TRUE	/	FALSE	1793499869	nfvdid	BQFmAAEBEDhOmlgUnDnUaWHPL9SA6Cdgei1jO_GaxYKe1-6BJJRI8RdFTD_hi_Hcd-faxHkAXIEUv6ca0nwBL0juuNQJM_sMbw4TER_TyKIfODAzQ0r_Y5N6PByNLJEX4XkJISgqSp_RZyHiLnY4Arvaj_PiwgGW
+.netflix.com	TRUE	/	TRUE	1810097119	NetflixId	ct%3DBgjHlOvcAxKWBNA4ajBvP4a0lw_QHEvFnV0FN_6kMvQHyUSAZ2Rc-Bgw_6Xg8Ce0y96QP1SO72RMUEHAjoKXGsr2J1tfj6BFLAgKhXaCZ-A6DTq7Pv_fjzMw7d2_xQ_vHgHBBvnlOgWJ-KmjLUyBaGGRXgQcNrb9fxZxCToLG8Gylr34OL0VRZ4jctKyd3b8vLJmSRHRzIpZdQiN011EAqs5rXNmy65_LzuPsqYki6YeaYuC4p71VYFZoY-qNo_iokXqKiqflJWY1e65ZG-RxovI6mfVUz-BqJZ1vFSOXupToe1DvDrhNjZQEskR9-pV6zhPLCyLr3UPQ1kFezfl9ARqwLB1cm_2Caolt8_HixyCf6srnS4p9tZPw-Vvqxe-lUQlRopa6SSO5gzkcZM66Yc2MiDWZA5EwQHY8bKQTrLikayAv7yqHebGbUrm2pDV9uHkRDDi1fcOtfgNAGxXhQ0KKIDemixtGozWMSBnqE2xxeTgDRkcahDxor3vecvygaYDNAO3sjcsu-awHxGrqg82YS5aLm_QOm4jqHV2rw2v8maOw73FNZKSuYYCjHabm2weabpN22KQWiqgKYIUIa72jaMGo1kfAYXwyotLA1BTeKGHwvnSAZPvbXY0GaTT20dHDMm9XuVueXbWtBeTo_vYdrMEFkqWfCO9slwi57aqFRMUh5C3c2N9aShS8ZnvXgiih-IH0CAcoNOT2eK3xhgGIg4KDEgat-P6CQzBQhZeFg..%26ch%3DAQEAEAABABQUXP7_3AR-SjPRJrsfrrF6JHv8K9_89Wc.%26v%3D3%26pg%3DZI3BRRJ7UNEHJMSX6AZ7BZCYJU
+.netflix.com	TRUE	/	TRUE	1810097119	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtMs1y4BI30I_80uacNW-ltU6gJTUuPOA.%26dt%3D1778561123924
+.netflix.com	TRUE	/	FALSE	1786337119	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786337119	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810097119	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+22%3A45%3A19+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=31faa90f-1c56-4f30-88e3-030defe20c2c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCMX&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Umut
+#EMAIL          : umutbhardal0@gmail.com
+#PHONE          : +905455911110
+#EMAIL VERIFIED : Yes
+#CREATED        : Eylül 2021
+#COUNTRY        : Turkey 🇹🇷
+#PLAN           : Temel [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (4562)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-19
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:05:27
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1797421043	OptanonAlertBoxClosed	2025-12-16T11:37:23.652Z
+.netflix.com	TRUE	/	TRUE	1800445085	dsca	true
+.netflix.com	TRUE	/	FALSE	1797421084	nfvdid	BQFmAAEBELv2O9Hv8MM5vWQ9q70rsidgTluKc8BzRs_vWo1kCWy1eFXdC-KxygTfYOmuL7DiduB1H2uNJswXYcKrkBFIwhoKCUAbAlIrbOFHNry_U8_3BxbUGj4nZSaMwsViIF3B1ohmL6--rA1OfNNt2URRXS89
+.netflix.com	TRUE	/	TRUE	1809527099	NetflixId	ct%3DBgjHlOvcAxKwA4Kv-AmIRSQaDhAmzVFY5hiykqPHjR1rj2QWTPACOLpz71Fb87qpyJEP5PvB-6mtK_7n_51SLxq7j3GG_11v_fkJGlkd7FkLLWlCiaYj-T2OrxHcuqaFmUIYPFuWw_h046Fu1gTIl256p3FJBVqEygj0dJ2KwrY84FxkEmRVl-NSF4U_UGnuV47_e5jrVjskF3cC9wyK1tewOi-678j3gi97drCAsMgPiGW18tdqgV-orktpuRrslNCECCcKkApEaNjIZ0Uy40-uiCUJEJfJiE725eu7JsThN_iNNYrC2XmBPgLDx7fMpvmPQttp_Y5fICZsgxO5gmtaiTEPM6aZs8Fi8IIV82vSqim4YaLq4Vm6d-510XUn87UMXTI5blpUJI2vFOfL_uaIbvK2EvJ_wdJ8DlH94DAWKc9KxzUjbS8S2-jOvrUuLYVdQSUrQc1oHZsXDn7buMmCunlRCO4-fcmv_0-FhGwUHI-K63yz5ZG1deaWaK1BljuaX8ZDNqV_zpkRW2eAJinMpY0XBgxxbS5vlxxMLb0C1XurrzNzYS2BHqXjfSn-MABO2prkfLsIWRgGIg4KDKzRoGoU51n5wrWLOg..%26ch%3DAQEAEAABABQCHX48_-xR8LZaLVJCCqb0cO9IXegaFCQ.%26v%3D3%26pg%3DVYJKALRPLFE2BKUENTGPQGXJXQ
+.netflix.com	TRUE	/	TRUE	1809527099	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjaUw_qvDxRcYDkI3CUxMNChMuAAZu8zk.%26dt%3D1777991102803
+.netflix.com	TRUE	/	FALSE	1809528354	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+17%3A45%3A54+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3953e87d-5c4d-444b-8dd5-fca57186db83&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785768354	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785768354	netflix-sans-normal-3-loaded	true

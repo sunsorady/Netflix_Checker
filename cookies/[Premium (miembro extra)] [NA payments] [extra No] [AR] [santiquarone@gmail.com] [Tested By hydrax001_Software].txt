@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Santiago
+#EMAIL          : santiquarone@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : octubre de 2024
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Premium (miembro extra) [UHD] [Streams: 1]
+#PAYMENT METHOD : N/A
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:03:26
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783411236	nfvdid	BQFmAAEBENG0oZeB2Pz03ZHF3RJqYBVgIywbpNniG7Hn9xGDMAIX3t4D6P2-5PNomjfU1l3OGBAxeL2GvXOFHqmAVjmW65se9Rr28jpYEzI1DH-cBf3HeSq_PakTaVFyVIdNjJnuLrubjuVhpv_dtuBRWqtNU0zx
+.netflix.com	TRUE	/	TRUE	1795292598	NetflixId	ct%3DBgjHlOvcAxKOBHvFp5AbukSrNVJWSv9OUbDWHhKtUUa6t9K9Wp-PumthUK9PM6ODivbIcDkIkYM6bP8ik42Na3iyCf0A25nkadhZ9D6ZLn7BhOUb1j1zcOZMEhYl8Gxn0nCJCLnUC31nJJGcAiMHuL2LDs9jhCxoLdFlbUxYH7Iql8Ib-8zYlwkr8aP_CS2QmYP6EhoAsCJn_C6OHg7XjYVYtK_qdziYgmiv-F4Yu5yf7z4Z_Biw-akgGYisEJH-GFk_sp1NfRdrrAJa6BlMWsGadHHzUZ_Hrgx-itTnXoDXcs-r3e-hBfzE4-TmZvQZ2YQG2woB18p9GFRgI_EOKhDDgoM7FysGIOQsDKwumsIu8JYhhq3s72g2lnH6rf9qufPlyfID66EE_IKGCUEnb70kDK0qlOYGRrFaEXamX7Q4uIX6l5X15h55mRIwC9NkhYkKADNT_RUrk8ZWb1qo5JwfXPS9HMdrHRynp38zRLxkwoRdb6HxBr1Bt0iLfJ3ArI5fi_vpAlyXfaix0PMUCJMPIbstLrYFgjerNRQqzx2aRmfXEY6Y-aFbXVOPqn2iF7BJ30zl9Q-Qawi4h2oNu25h81UZRftko3u_XqNiodkvQTA134Z2GExtR6AUZMWOu8bTT9CebdrwoSszgbob3-p0U2JAR2A56Aggi9h5DbFGtidmS7MZhe-8sW5qraI2Cpfa1Pox1HAYBiIOCgx3Aps9B8M6uxYh-LM.%26ch%3DAQEAEAABABT5TvYr26Xtp5CamJ8qPE1OPvWLvbeMcQc.%26v%3D3%26pg%3DPOE3EWWVI5FTPNC7T3BTIE2HHU
+.netflix.com	TRUE	/	TRUE	1795292598	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTldhZ1wScoiZSdqD-LwuZevVAnt6UGbqw.%26dt%3D1779740586703
+.netflix.com	TRUE	/	FALSE	1787516598	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787516598	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787516598	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

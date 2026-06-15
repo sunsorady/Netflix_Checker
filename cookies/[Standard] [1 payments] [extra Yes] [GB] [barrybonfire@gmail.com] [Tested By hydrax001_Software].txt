@@ -1,0 +1,34 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Luna (Future Vaginal Owner)
+#EMAIL          : barrybonfire@gmail.com
+#PHONE          : +447949355532
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2023
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (5031)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:20:55
+#==================================================
+
+.netflix.com	TRUE	/watch	TRUE	1799548000	dsca	true
+.netflix.com	TRUE	/	TRUE	1811682229	NetflixId	ct%3DBgjHlOvcAxLiA7k7E3pcQD5r43pDXyYpgrlyq4w4blIkd_g8bIJxR0BJTkauTIBdD_uD78I1QZeJW2sO-C9iCuWpM2f_QhJ-PCEKIBeNqMEnMdUwvRwx48CpAcjckikcFhPvtuaSE01g-XpgeOzPtroZHoEOyxnXkhQ7IBRGe9OqDx_s7Z58qzMPof_NSGu28BHBv81vdPm1Js5iJ48sq9SL74fZb2zhfb0HW1uup9r4uEYXcH4tWNNg5ItD7GztP9UucDHnYln70U2FxIwydmurM369pMMwuXmAG8ZsoJ4lRxIRiB0IIK4mUlBVma30D3t_tHs9xl4TJpFtOOAHRgnC_HQ5xcNYJsHqSR7g8H69OUVk32kTSfxoyxRw49Z0jEgYoINgYQ94LzvwpuWEWN422YRpA2uwjUCFSyQeD4nqL-fQUAbWYv8IJ6DQ84DF9u6FDVVx0IDZhDGuioKhTgsXm3C2ylp_3DR3GUvZZg84LWSpg9E7YrXkEx36VVBN1l9joZaH595Gtxr1QvvX1JispY5vz0Wp8MVA20TyFUOMdbpCdfqLVsmcjzXDw45T59nxihCfVAMD-g6J2GiBwdblqlurl0qi81bNJEj4H9kAfEufSrjf76M2mo1DP3Yi-YMLYz9TmXC9P0eKGAYiDgoM7l9NSsUq-fRntXGi%26ch%3DAQEAEAABABQ02lPFqHjPQmcSDomSKLIpSNof34mvZ_I.%26v%3D3%26pg%3D535KEYRYY5BO3EOKZEOTPST5AY
+.netflix.com	TRUE	/	TRUE	1811682229	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxLFzVZmgJk5NnjCbx7I_aXs7gzXWshQw.%26dt%3D1780146230911
+.netflix.com	TRUE	/	TRUE	1780232629	gsid	71e2716e-b866-466a-911c-9554ab3e46cc
+.netflix.com	TRUE	/	FALSE	1787922229	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787922229	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787922229	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1786983823	nfvdid	BQFmAAEBEO3D3uEJst40Q6L5FgMoXWtgQo7nY9k8KM2nt4lYEsudSCORanV1QqFOeNiNmc5XWz5bDNwFH7eXMytRrCUP4g21PWbeHZ6Qvi7rMKmcjPOl-gCu6pCIG0iPgCfeLkDtryaV4p-DsVRJeuGa2JP3ZTfz
+.netflix.com	TRUE	/	FALSE	1786983954	OptanonAlertBoxClosed	2025-08-17T16:25:54.894Z
+.netflix.com	TRUE	/	TRUE	1805777021	dsca	true
+.netflix.com	TRUE	/title	TRUE	1811500227	dsca	true
+.netflix.com	TRUE	/	FALSE	1808737689	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+12%3A08%3A09+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=7db83ca1-9fc2-43af-813c-625284fbbd3a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0

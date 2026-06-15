@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Family
+#EMAIL          : n49n@hotmail.com
+#PHONE          : +971503335549
+#EMAIL VERIFIED : Yes
+#CREATED        : يوليو 2025
+#COUNTRY        : United Arab Emirates 🇦🇪
+#PLAN           : المميزة [UHD] [Streams: 4]
+#PAYMENT METHOD : DCB
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:31:29
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1787051761	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+18+2025+15%3A16%3A01+GMT%2B0400+(Gulf+Standard+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e613b625-e4d9-49b9-a702-b8411d3d3654&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1799770258	nfvdid	BQFmAAEBEAENwkiM7RnxkdBNRaDIFBRgNXOWI7Hy07tAnvy9bnDAeohF9bPoifPWAo-301uNWvzkOCGa7n9w9qi91A1bMPcCimGPLimGFkvSmSgZQ-Wj81qAKomtkwbm-isOR1q-o7Ktll62-bzga52vSISFpueu
+.netflix.com	TRUE	/	TRUE	1807257017	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdvfkHqG6f1w74mc48lCz_GUbRkbeE2RA.%26dt%3D1775721017752
+.netflix.com	TRUE	/	TRUE	1807257017	NetflixId	ct%3DBgjHlOvcAxKHBICD6bYzOuuatB0qPZtOUwpx4arqyuIMq0qCEvm83vgGdCqaO8NV1Z1zrXAvgpvEtoMEmAIUlqHeib6h458t_sdb1FHdYwzZUYyoAVDN7xLqmO_nen_pJbCCjID7lyuFTDE6chFR9-1PN5UOyDUUXrbqyEuzN8ydSE-j8gK1v6KJnPkeHfZeX-eFOC2wIjZNt1UEzXECh_wbEjAhp2avsXHSLFhrf25KPDxdHQaj6JHIv703cibx7d7LxBC4FAKGGla0RIIt4ujCOrSAMjbcNwjznQ4NTxFDbRVJxDQwLqGA1AbRFDP_9GhctbVgG5RgBPTcO6-kjFaIMLSSjYklpg2V8L4FB0nf6WMtA8FSLPjJXKoiVp2_WVPF8PguBsxY-fvZVCEMNfofWFZP3S5TbzJcpCaSYpMKT3ceeKpWck0C_XuHIvv8gZvNZS8sikOLh72hQlaQCeGfi3UK04xa833fme09fdJglclzAbBbvbB01bqFaCzsJPbmFsG8WsaWITQLFTerPgvi1pBmIbv2yGprAtrHneZhUyyzI0deI9AN6eHgZ8P-6wUOgkAHHwUgppifgPtrrG_a-avmIeuTAbD6UxKyEcjcQsn_Wb0IpYPXD5oqurLy663yGXa5A8fnn5mxxpWJcVOTcKjmMdfP4rKShEouInBOr3kq4Uc1AlDp4L_r-nPCxxgGIg4KDAEsxIPP5wNRr5np7w..%26ch%3DAQEAEAABABQalpDjvizx2z4kxW0I5nEzmWrcc2-8IJ0.%26v%3D3%26pg%3DIVYR4HEBCZBJ5G2EQN2EMFTK4A
+.netflix.com	TRUE	/	FALSE	1783497019	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1775807417	gsid	1b859d0b-dd89-474a-96c6-c387b565e138
+.netflix.com	TRUE	/	FALSE	1783497019	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783497019	nkufi-bold-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1783497019	nkufi-normal-4-loaded	true

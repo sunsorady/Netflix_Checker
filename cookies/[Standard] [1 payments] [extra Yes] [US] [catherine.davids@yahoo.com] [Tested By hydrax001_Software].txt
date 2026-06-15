@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Sharty
+#EMAIL          : catherine.davids@yahoo.com
+#PHONE          : +14802671719
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2018
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : VERIZON_PI_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:26:41
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1783893385	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AvJnvfQUl5py0d6Y5PSOIdBbDgVztyAJOljqKz_wYdWLWs4LKr0_K3X9jc6POGbdMaYxBTiwajAQ63judW2tIxrSAOGL1E18vgwVnYTICT8Ky4gBRpYuuvjQ5Am8TXZLG6p795OBCPd_cebJeKetYvSrA3ZZ7sCfjodhjOUOnklJ8hXefh6We0hFqYtTSFKDr-Itlc6XPkSRSTVR66lpNMTUDQA40B4LZ-skoFkI44Y9PEo5ok7POWtMlfmijNrTsfVhv3BSZZdoIxkyhgJDE-reDxFdMg_KbLbDYwiVMSvm4KD8T902EtQzZTdbL9jvAgPAIks3Jv8saetWu9yMWxc4CukjlU56nG6z12BbDqrzqTWUnDpP0KcU9irrjeDzEMoUoqQGRS12plEy5UekRAk5k6w0YhpiiopuG20EyvycOwN-C5Uqp5i-DEHUSxjKGsvwkfGQ4sobVR9M78-VOGeFCXgmYZHA9I-7ZRb-WEWrqJcR4Qc2NSkYBiIOCgx5s17UoD8XwAflyB4.%26pg%3DDLZBE3ZX5BGTTK7FZPOIWYPILA%26ch%3DAQEAEAABABRGFgzX4U_4o_sTqJYICHtby8ZyvSGrreY.
+.netflix.com	TRUE	/	TRUE	1783893385	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQPeRxAMcbnVDnmCDZgHBcnZp875sa9gnU.%26dt%3D1752357385671
+.netflix.com	TRUE	/	FALSE	1783893382	nfvdid	BQFmAAEBEJnwLPLHf-I5ZcQh4lCT1KZgp-GROaadagrEYO5Bx04Uk50YsJyjMrlSbSGG7-TJeYAjPmYvI5SBWffDvASfaDhMqpuQxS_wEcjR0tEiJO4jfC-UP7RIOcVv4RR68yXPf2zQRumXHoa4Yomqk2kRwtdv
+.netflix.com	TRUE	/	FALSE	1783895033	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+12+2025+15%3A23%3A53+GMT-0700+(Pacific+Daylight+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c904131a-567f-42dc-b33b-d068443ad579&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

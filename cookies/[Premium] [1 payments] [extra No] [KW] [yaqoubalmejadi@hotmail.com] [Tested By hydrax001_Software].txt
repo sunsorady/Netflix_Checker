@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Yaqoub
+#EMAIL          : yaqoubalmejadi@hotmail.com
+#PHONE          : +96594006632
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2020
+#COUNTRY        : KW
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3731)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:13:13
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1799206862	nfvdid	BQFmAAEBEPz2-rn_ZJVsTCdnlczwKhhguNDJphfvIQOtp-b1l5NlJJyzsuQ2T_tkG5s6hkadEuzL4WXI4DYnP48Tp17GFPfc53PcbWj_W4rue9O_dN6EwHVxaRlCtSvAu4RCIsDgTppOYYN0Wi7RKVXBds7QpCgN
+.netflix.com	TRUE	/	FALSE	1788024973	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1811732263	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+05%3A57%3A43+GMT%2B0300+(Arabian+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fff522d7-1737-4c54-8781-b00c338cbd1b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811914171	NetflixId	ct%3DBgjHlOvcAxLOA_0St4WsmNuq81LS7oNUYcVT9m00AEkRtOJ57pcReQyXCAdYmQsRsXtFDmm9aPtUHXVrXm2FhAVYfzHFEoMUYcOEvZGCbxb7JWDkfBfkrZa442skzXtrmCq_x-5lJMwxjwNdApUkYpZ4kgPOwcckhA3s0digOACAR-qQp7beeKn69pEwPdrd-ASotPCCoEMCRSJ139PwPLv_rjOY9yAsmp_SGWqQqg5mzoj2umXt_fupneTiwuLRgeaQ65YMsCoxrVqabAvTi0CkwRGWTmMld4TEEtoQg4O2neAptpn7clQoUwYrIhoUaIk1dOj2ZgDis8Rc3A7WNZxBFEaTLIzpD8QpuA1Up1fQ4kVR_WeBKobeeV-ufq_-HO90YdO8YlegYGvVhgvku47IvphNf0F3aGPlCyLSlh5A-RVDpsXu3VaXFyKwz84KWYguKJ0jkjqBfCSwEtGVikn-iij4DX210HHXzLhTxAmgIiM92HP4Nx1YKf2_WxECSYGVHQ4SEv_vfvFbmobqLTDDpOWFTgDJVbe1tP3Zxzgq8aWGJOzw_VVUriYSepiuAzoY8lpxtmcPIAIdaSnTQngzVHrr0Qzv7g7sMq84xI8AgjtT0qBarxgGIg4KDH1dV8aMz-WFb33acA..%26ch%3DAQEAEAABABSul9LnSXaUjMlUD8GpqDsIJlKWlcUX2hY.%26v%3D3%26pg%3DG3LOVKGS6NBBVNQXDAQ26KI66U
+.netflix.com	TRUE	/	TRUE	1811914171	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQz3S14qaADCRbRc-OcHyDONOE3ATtaZ6U.%26dt%3D1780378171487

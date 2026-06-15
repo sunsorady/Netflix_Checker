@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : BOSS
+#EMAIL          : mael_rp@yahoo.com
+#PHONE          : +12462300594
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2019
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (6539)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-20
+#DAYS LEFT      : 5 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:44:09
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796312543	nfvdid	BQFmAAEBEOe5FFm2Kex3yG7bszGWjTJg_aLDVhTkHWQKY1__4FXAG-0mrIJcb-7QQM9Uv7LbZY-j9nKQVqQS52lZC7QAIwmFCHirrxxHp6OTvkPmpLw9T9qoioyWUctqVR6M9RLfGs9BCylS4PCHbxIlSH58DVbI
+.netflix.com	TRUE	/	TRUE	1808047559	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTt6XdkZPKtqXoDerZ6qKU7UJuuR40On_w.%26dt%3D1776511559174
+.netflix.com	TRUE	/	TRUE	1808047559	NetflixId	ct%3DBgjHlOvcAxKCBFR1ZTjCyUwzWJ5hgxaQ2SHBjCtEerznSVBu0nvI9QVyTzD0-Bt0GVlkOwMu8GXjpKR29r5fV8moyvbTpxdtAKedvqPqcGMlCMene_pC0_dddWRSJ6gD10V2Mmde7saSswV8lGEs-W7YcS42_6HIvC2rQ5r2i98wfRoMEJEksLJZJs9ckskKUyPT0dqsOEy35oK24U3u18OdTpehZPgm0bMmjCQojr3p4SNDKJVr2u-e_IK0SFYWCySy-Dzp5W3Vk8GU7TkJgU_2YxcnsrqyfM6StkXbY5oyVMLv0zUMpDoP74woo5EVrGeK0fpaehXOTnRyOWVF6x3dWjigMHEso901fuCnqXrbjYxwRoWLIP4Ezg8FYoZmLziSrjBw3vAcjYV4rTfLR_we0E7rKgdBv1tNIJQjte9kdnF2BrYdN5NKEDOWLFRD_Ko-MTl1Tc7B0cBXwZtJIhv7DUWqtsiIpY_c8HDT3VDyckFE-bb9ZMwqPVgLzSD5TH__ffptjDNoDqm-mxqJtFEczBhsLrTpXvRpE71HE-DRIkPwt3jfIaM5_1Dq41_ZKUU7gU7Bz-g2-DqcawkGIqCjFztNxggAdqukI7zzZKihOeZMs78zEVpkUihZXNOs9OO4vyTSChkFy5nEYEBPXNNHm9WDGGSWjnRqyBt4BRteUC2947Q7hyiO7S4YBiIOCgzSubkXlUwBoBc4lwg.%26ch%3DAQEAEAABABR9hSXtDzNditDFhiwn5ZQLMhDbPJ0ScPw.%26v%3D3%26pg%3DXZDZ73RIPRD2DKVPNL5FDYEFUY
+.netflix.com	TRUE	/	FALSE	1808073292	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+14%3A34%3A52+GMT-0400+(GMT-04%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=10a18497-9ab8-41db-8f32-43274fda9f8a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784313293	netflix-sans-normal-3-loaded	true

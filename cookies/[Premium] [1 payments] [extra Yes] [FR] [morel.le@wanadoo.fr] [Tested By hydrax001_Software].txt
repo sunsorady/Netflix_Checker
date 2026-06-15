@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Youenn
+#EMAIL          : morel.le@wanadoo.fr
+#PHONE          : +33676313919
+#EMAIL VERIFIED : Yes
+#CREATED        : juin 2019
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (6921)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 13 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:51:57
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798175262	OptanonAlertBoxClosed	2025-12-25T05:07:42.018Z
+.netflix.com	TRUE	/fr/title	TRUE	1801199267	dsca	true
+.netflix.com	TRUE	/title	TRUE	1801199268	dsca	true
+.netflix.com	TRUE	/	FALSE	1798175267	nfvdid	BQFmAAEBEO2oQxcgXdmD9R_n5zC3dcJgVVkkAnVntrr_rc05Rse41kbc_Q_m9uIJbqKRCZraAchrMFXmfQuRpyKvIqfmhdDJkfJD_2jDkisx9B3FQxeYkUeZQmAO-nIv53kFL2VgJeujxBdPtNsMbhM7oddHJgbq
+www.netflix.com	FALSE	/	FALSE	1780004258	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1780004255	gsid	ef6d15c2-9610-445f-9af1-2f8be46825df
+.netflix.com	TRUE	/	TRUE	1811515158	NetflixId	ct%3DBgjHlOvcAxKGBMekEqoNgwopTrKMziehmBaxCMVZqMpUuz0h6TOflgA1lv6dmjkhu1G4ylAU02UHwACkB3Z97WfSu7_66ewFqgtbe6UOrP9z_4uMdFr9sVkdzrkPDA70uu0UqYC6l2MXm20ZjHnytpQA_aBzjXlseEaq8sRFIVq3YrwVOFxArQPHOgQ94SX7TtN9_UyMDmdaCBCQCcB-DMtPtmakD4FVAmslPk365-tfiTtXYkOJ7w17Ib9NNVeuiJwMnNDVmdgcXoVhbACRPWsw71ieaVL1MvGdfiVEHI5WfSjMZnZwJ6LQNBXKNpkaMd0AjICnqng3ISepdWdOridGhbQ3zz_f-kerulX-QtaEbOOeLBxeMCcGPpeAlOwSLXAy-DzvnDucNzMZY-o2RTcu4wodGvneske8WLFYNXAbZrvRF5wrxTmHEzTlguZsQBxeX9sqCRmhbHl6BusC-xwwjIZpJ1KuJWdZo6i4qXdwEPDAbOAFeBHmfgll4jIhcysSZhGYF5FvCc5HX41XYTlllS-TqSO9RlT2AQI_T_rnVNR1qTZfUJ6qgtM1BaJ087t28sdPNIwocgqpR99r_i11AH_5NmOLbChsptsaz23n-led_gT4TsGkyDAxV80k0G2l5O4Ro40QoC2_uT9jJseDRRBR62qIvzM4jEN1FvrlDYHd3qnUQF7y2RGplBGQGAYiDgoM1o7w5eXO1fhztNCR%26ch%3DAQEAEAABABRgImS3rbGh-NcxHw37fgMA5z1RcBKJlBA.%26v%3D3%26pg%3D4JJS6YFZGZH6HMYXQNIA4YV5TY
+.netflix.com	TRUE	/	TRUE	1811515158	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQzsPbGXyd-FhVrjLtxUFGiEFJfLH21QO4.%26dt%3D1779979161366
+.netflix.com	TRUE	/	FALSE	1811515227	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+16%3A40%3A27+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f288656b-bb12-4e8d-ad71-e8e980348edf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BCVL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1787755226	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787755226	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : szabacsx2
+#EMAIL          : szabacsx2@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : 2026. április
+#COUNTRY        : Hungary 🇭🇺
+#PLAN           : Alap [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (8484)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-27
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:05:13
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798468994	OptanonAlertBoxClosed	2025-12-28T14:43:14.273Z
+.netflix.com	TRUE	/	FALSE	1806264433	dsca	true
+.netflix.com	TRUE	/	FALSE	1808859339	nfvdid	BQFmAAEBEKPYUos0L5EAZBaHdDE1Gf9gNvfh7tpF1Qxd9ekUYq39f5rR7FDimAdm8-JN4sQ6KqFpgtTH3CbUEeFO_aSWvfgrbyNVSB6jHpnch-gxY2l7rL3qCE-xEQAJR4BICoBFKuArDHrpMhkbCvCjZ65T9n-0
+secured.netflix.com	FALSE	/	FALSE	1811883559	thx_guid	ca33e590f7a6dcd5b4835ad9f62b9efc
+secured.netflix.com	FALSE	/	FALSE	1811883773	tmx_guid	AAyvifCpehZhVGoLlExAWxSJWQDP97XWijxDlbBMDdpMSnh4GfRPXnRSofwcHrl9tzO8B8FW2zNVCEnN8j4ZMFK4090_Pw
+www.netflix.com	FALSE	/	FALSE	1794603852	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1810995268	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA9XGQ7DPs6jobcB9XgviB_L3Ir-BxJRF6teSPMSqt5Bo12b8QSOP-9FyF18LTopqP9XxaFDdBPdVKIbaHGbItxwbTXMcPOrcDSlrhMNy8M67eIfhvrWmXLUrBe1yKw5kqSjLNRfVukAkYCA1T-kW1R6lEv80QKKwT8ZnCcQy3mrU4MaURfGBrLAA9sFmp981m49XXeDjFMPhHTLBzSGPOyMp_cGmtPoYAX3ir-OpqPlLLaceRoJb39Lrybo2riYdr0ZQ1iCOb8EDPZA2mb6pmWHGxD68apKl464g7ZeSYeEys7h-aeDWzWRnVUkdJZZsYCPUT-Kxrq1aOz_nh7gVhFRfBUz07_AAUTESuzDZZgytpfu2jO5xZMFKpJ0AjrRMQ7BauNpszUF_-FTbHdBnW0ZJMJLAMcTV_dtKECpAeVeHsb-soECqlfvETncwdwCLIZTUg5yHaj2n5PQoLlRKEs-jCNWpjpkYOc4KaYHnxCvKMHt2XAXOiHJQE2M9_mXfWrqO7WshLY66k-ut4edD39rmdChcFvBTqRgGIg4KDCaVGKl0ajairkb83g..%26pg%3DYKTE72GGBVEVHP6QKAJAREWA3U%26ch%3DAQEAEAABABSiweyYLQxoUyPTBCON_U27IFyA9i1QBOA.
+.netflix.com	TRUE	/	FALSE	1810995272	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+16%3A14%3A32+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6313a62-e378-41f9-872a-9ee61a74544a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=HU%3BBU&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1810995268	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRABWpMTTTsWdXoHJx0kNFIWagsoO0-lnc.%26dt%3D1779459267534
+.netflix.com	TRUE	/	FALSE	1787235270	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787235270	netflix-sans-normal-3-loaded	true

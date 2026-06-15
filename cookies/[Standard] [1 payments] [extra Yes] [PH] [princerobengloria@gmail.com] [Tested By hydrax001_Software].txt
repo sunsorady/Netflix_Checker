@@ -1,30 +1,29 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Unlock
-– Email: princerobengloria@gmail.com
-– Country: PH
-– Plan: Standard
-– Member Since: September 2024
-– Next Billing: 2026-07-03
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639679251039
-– Quality: HD
-– Streams: 2
-– Price: ₱449
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Unlock
-– User GUID: 7IW4Z3XIMVCQRBMD3HTLVBN66A
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Unlock
+#EMAIL          : princerobengloria@gmail.com
+#PHONE          : +639679251039
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2024
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:16
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1783056511	OptanonAlertBoxClosed	2025-05-30T04:44:34.492Z
 .netflix.com	TRUE	/	FALSE	1796757024	nfvdid	BQFmAAEBEC7tW8N5aT0kkEG3AHFlU-pg7DG1gUcoMiBZuEhYSu-FyMTDb0BtyQUTTCexradeKpCeZgQnWTwQL3kGcfuiFinf3SY3G0IAHHJ1Dlo7D_htW3JnGG0i73L1BLwxRgQNTTGkfA73BBhMI9Hwp5pyezSa
+.netflix.com	TRUE	/	TRUE	1783056511	gsid	cf5ff89c-b1bb-4ffe-a458-eede8048f53d
 .netflix.com	TRUE	/	TRUE	1807749203	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA_v9hL7D1rrfxw06Yi3k7TSOXR_Cf8XE-Nr-kDNZKnY5orujYYk-_UxnwSSdadvg_-abj9QN10JOj5faqbOpRMQEDhQUU_YOcwY0HWzqEVf94U1XtRQzgSllkI7KQOAIFdXhe1JOPlgJMm9hamWkcMWvd6VOhNRENYksrOSYcjsdOdhmpccR80OcL5DL1ux2SBj0H2cd2HchW9bnNtMpiDmEQB9lDRy_A7gj7nYgx4oOHPNll4suM-xqhL0Qt3KUdtsm-bbDN7VCXDWUoqAOc4Ocj4yodZrk6olUtVCatCuBKJrq7QEiERjmLJ6efCeUOG21L4aprzMoCsSOG5A8warsSpIaiVJv4X9XAAMZasf45jGSiXYViMt0vHy9WDOLKYrK-9T1vA6j2r9lKGzi66cz976teVOv-3NUFc-x1U6dxAU0hYr-CyBubnVjM1DMB4nbBLkZp-9WVYc87Po7HCGRx8501rv2Xcj8IZtUoJckoPScE-Hp0KeBroCZMhZiKxukp0LW7Y_-Ym68J9yUpVUnzkUwImgu32IYBiIOCgwx3nD21p4AJaijQ5k.%26pg%3D7IW4Z3XIMVCQRBMD3HTLVBN66A%26ch%3DAQEAEAABABSC5jZNxklyxZAQAbp9yqDVsJCYhA1D_5s.
 .netflix.com	TRUE	/	TRUE	1807749203	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZ4iIpANxk81s3fqZHrp5Vz1TyaoIuQH8.%26dt%3D1776213205294
 .netflix.com	TRUE	/	FALSE	1807790221	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+19%3A57%3A01+GMT%2B0800+(Singapore+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7857196a-59cc-4082-be49-ffb79420f382&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=PH%3B07&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784030221	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

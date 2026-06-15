@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mario
+#EMAIL          : marutzuuu268@gmail.com
+#PHONE          : +40728550858
+#EMAIL VERIFIED : Yes
+#CREATED        : aprilie 2026
+#COUNTRY        : Romania 🇷🇴
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (1292)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-26
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:05:03
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808697656	OptanonAlertBoxClosed	2026-04-26T00:00:56.232Z
+.netflix.com	TRUE	/	TRUE	1808698477	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA6rKh7eb7g57T8ORTGDwiCqVkCMGz3VtRfFnhDi4fRurs_993a1GZgaVXASwsHkq0De6mhtx2vzrp1WK_kRIq7gbW16xSzvI4pzUlfD3OiHyaUOD6I0AgGtXjgoK5t624KgC7lFO8V15k6J4sE576zsxBtL3bzxez8Vcb426jNpoTlxKsEvHcBp892O3jIJ8aZsZ5JQ9OI4l3XpDOkNZg4fc7Ztz7qHIrxRd0YoctwJ9M9f-ZsfEqglJdlqNBn1KD9uLWX6XFYFf6Z02uS9X36GqP8GCcmyhQZ-nJXVFFOlw-kcSaRP_vHCwHqBC5mKyn2LJdiSW_SkLwgt4u-zx6NT5Ik0BagD31zZ9rPpbgFbcQNZsKZKqwBCvUFNZ_VQl-WgGo5InOgXAO71Rbr8dnUDosmf602Y8UYC9Gy8V1FsCGYHoXTXNiB4g1WudM65DLdLFb3V9oNrDT8dioM-9CVVynN_Q0JTJINwN6CJljJdU3QKb22koAYdcegNGo5qYpwnKk53iNOgd2YbOaXi2bCcCZWbSGAYiDgoMsTY7wTJLnkBWLVih%26pg%3DEAVUORAZFRCNRHW2B6C646GJQA%26ch%3DAQEAEAABABS8U6J9epqIa49edqUTgBF4rBSkuAU5fhA.
+.netflix.com	TRUE	/	FALSE	1808698488	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+03%3A14%3A48+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a6a3bde8-9ced-4037-80fc-bf4097990f54&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1777161656711&geolocation=RO%3BDB
+.netflix.com	TRUE	/	TRUE	1808698477	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7wux5TqAYFVnJzzVjDXrc-FaQi5--VE4.%26dt%3D1777162474486
+www.netflix.com	FALSE	/	FALSE	1794442480	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1784938488	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784938488	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808698471	nfvdid	BQFmAAEBEIJ_tvbgNVUPxV_4-tTTje5gv3FZTLJxnB-O4Fc07ZyG-8O5ImUCaP3A7zs6Con4GB7nGIlo7eRFhBIP28ZWLpyC41m1y2gff3i3RaIsG-PHaFJtFWvTVpakz-M-viqh1wAFMzp1JY-kQXvrE-qGR6Hv

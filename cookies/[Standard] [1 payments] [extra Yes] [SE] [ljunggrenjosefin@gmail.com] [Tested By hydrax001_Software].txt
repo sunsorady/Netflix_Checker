@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ladvin
+#EMAIL          : ljunggrenjosefin@gmail.com
+#PHONE          : +46707795122
+#EMAIL VERIFIED : Yes
+#CREATED        : juli 2017
+#COUNTRY        : Sweden 🇸🇪
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (1544)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-15
+#DAYS LEFT      : 0 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:57:26
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785945041	OptanonAlertBoxClosed	2025-08-05T15:50:41.221Z
+.netflix.com	TRUE	/	TRUE	1785945104	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5Ai-U02nBiX8-MuynWc5N-Ns8qivzRd03zIWXkBM9Dm9JZstC8oJWOR-mvlNZ5QVFh-PeV3OMnbsCU7dqPzC679wcG6lFrEpfKo2nWS_SpXpzuAnwduex7Rt2UyPgRVJtdMxXiFnUMNMF3n61wrPYWnzFxpkcmFjoi0uHoIZOHsB3mv7w-iMHY3WDnWO6G1tcbrONHftPO8igTYlV_T4oGFkzcdtUIXFHICFN5svdG1c_1mDwCPgmOi9iLftupK-XTYouHcr3iM3zIVHs0scwVyAcPrrWrAj5sW4Nd8fUowx91epopM1yK_C6Bl9Zstt6TFLESFrr9MWTJpLwoVln6mpoZNjMLFOLcu9aYlF_ogqJHNDlUjGszm55FrPz8XA0Df6326nAsN0EfKvrjXH5zmf4PmHo3v1N1faDFwMtW148s6raxe_MnbhTnLgb5T8ynclftXtQ0bBSMh_x3C-D4SHMl9nUvzhs0F0YkJ-FMsMTqq40rKYEBuPWGAYiDgoMfhsuFry9Y3iaYQNX%26pg%3DMLBS7MSGLRATHALPSZHI42MOQQ%26ch%3DAQEAEAABABRlTCX4XXZyOzsL0ROLUMtYP8EocXnbg4s.
+.netflix.com	TRUE	/	TRUE	1785945104	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTn_dX5RxnCukXuoxR3PBeOl8G1hwKbr1Y.%26dt%3D1754409104482
+.netflix.com	TRUE	/	FALSE	1785945100	nfvdid	BQFmAAEBEGwfv9oyC_diGjM70rBIpfZgglZaZwiDov13H5Fu9Q0bRTuE0gcHXthVcye0bHvXAj1pp6JU2Zt8qnWEOACAF25-mQV_wqW4kPhDvZOxJKc9sQykBFh8Q5X2XLw3gKriFqWfcmypV6vDc8_3XqLYFSaJ
+.netflix.com	TRUE	/	FALSE	1785945354	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Aug+05+2025+17%3A55%3A54+GMT%2B0200+(Central+European+Summer+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=723664f3-c3cb-40ad-8b44-2a296c97673c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=SE%3BM

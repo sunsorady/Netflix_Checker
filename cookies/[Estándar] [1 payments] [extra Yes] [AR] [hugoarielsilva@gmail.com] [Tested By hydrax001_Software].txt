@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Valen
+#EMAIL          : hugoarielsilva@gmail.com
+#PHONE          : +543412778423
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2025
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : CC (9114)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-09
+#DAYS LEFT      : 24 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:25:16
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795784392	nfvdid	BQFmAAEBELGrBQXwUm9tM8NsPZETN9Jgax_1Sn2SzkaDlmXuB90VvHln4lcxC22bkF-dul7XfvPj-lfhfiJ3S0J0ua0RaVq3CT8xSUcrhstbG1nTsA7seXhsWnGSC-AQUavppEcBImLZ-H09RSZvsYbZHQELZPC2
+.netflix.com	TRUE	/	TRUE	1810941321	NetflixId	ct%3DBgjHlOvcAxL_AwMXdUcM-4d0rsKj8w_Gm7MopzFi6hZ7PihqAyyXyfVXAQNPPrMTL8mpi8OvtMiWga0fUyb8hzKoTfMmwnK-wS40HKrBdNJb0hVQvEtqxYY5lQCrmeY4ZyuhHWpTd1zftUriYUWZB45AMXw3erTZGKl3Rc7QXuCFZv2WSh6q0EFVxfmDkstLu4HVM3P6Z2AS2rc7Lc2S60bk8ua9mrmZrhvKGaX7OmPm36XLKHVxQ7ac5qGFc7RoIjN6LsVYRqSK0YPVeMHBAQNbQbttY8DlN1CH-GplUFFyX64k2tHKZ2_kQDco7tnWRYY1f-w93nuFMCh2FkKKyvQEsiZ-SQK0_ij4Vg9zWAm7kc5Qj-73jq1FUW94xiUAUD9sl7PTaGrDp_tf4Fkh6WGRH1WQdNmGQdN1uGP-6HHw5mGPDwteKlwqWqn8d630UIw1-br_Nu20x45PghwQxwqiaK9NDGV0n3xKOhFVrJNocuhrTrPcmghwzIdfFRvkxd_pgVs750WkBBM9HqHjTBFQoJnxANbc9SST-1NFNx5HqpnIANdR9XCykdM7Xp0x6D5KMNv_C7i00QGewhjfLduVs6tse9M-yOw40i4t5aFm-KPwvuT2wBMDtA6mYMzelQ6UAhvoNmhUbJPcskZZwFEqz42-TFvrqQ_4ETxP7KWEms026p7eizoYBiIOCgz5yQ1HCF_yVXHC_-Q.%26ch%3DAQEAEAABABTY8cyEli3Mkb_CFAjDx6VtWq93BOUBnQA.%26v%3D3%26pg%3D5KLQKN7BNJD3HJ3EHHBLBCJ6H4
+.netflix.com	TRUE	/	FALSE	1810941324	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+20%3A15%3A24+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=730523f2-4923-4721-89a3-8495c7fc7d47&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810941321	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTqk4SiItAT6rRikLHXFsCYqX0TSbg_IXU.%26dt%3D1779405324735
+.netflix.com	TRUE	/	FALSE	1787181322	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787181322	netflix-sans-normal-3-loaded	true

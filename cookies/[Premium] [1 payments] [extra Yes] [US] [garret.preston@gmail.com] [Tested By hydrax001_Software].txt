@@ -1,0 +1,24 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Garret
+#EMAIL          : garret.preston@gmail.com
+#PHONE          : +13159220319
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2022
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (8474)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-14
+#DAYS LEFT      : 29 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:15:55
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1756602387	NetflixId	ct%3DBgjHlOvcAxK7AyIfMfftwybiKzOfLGyA2T2Eu73kWUsHdPz8_BU5TFbwjBwf2NdS-Dt0T3xCGPnSrXKt9d5MTZLx82MO1eRHCU1i4knnYQQuaEOV9r0MCzMQoLH43iPGwJGh2pPI3eNbIIa4Tfv3G7m6psaovDthKLonBHDQF4cHQmppfxo-E4gOmhSc1bJuMQC0zp4EFA7feioifUe85FDzRMEWWbvLIo4PtE5hUrkmDvz9P-KCxoohfZ9BUH6B9YxXTf1LFAHx8pGhAFOf-CnO_HG2gP1rz0iJiiT5GqKd_SYrCIxNlBDYpZuXwU0B_Ln7JMk8LgwhNaYgDNr_i_dm_UwTaisYhEoV1dFESRPi-XRVTrNpdsgZUVJbzygvlq9HOv__WWd0rXad55agmsuEnSAjlmAtgM4FSNuVGMByVIhIxmieWhabCIOYxFLyQHjQt6xDLj_XCE7_Nn3lkkMMk1VvOtkF99lSc5t3tCaTiqvETxc-PS1x-lBbrIhcMMcvfWRSgFMtZ4kd5bchIQiMKwYqN_CArmfoYhKNRwnf4bDo8inkEtrG6wVfo0gQD9-bQcqy8dRQbYzUiaTX0LvKu4cAGAYiDgoM80VRGyJTqgS2Mfdq%26ch%3DAQEAEAABABSGXi68a3LeIjUwToC-p5ZoDVtbvqAFIb8.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1756602387	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfoc2oszms6KL03RPnFM-DUedWLhxpE9Q.%26dt%3D1725066387789

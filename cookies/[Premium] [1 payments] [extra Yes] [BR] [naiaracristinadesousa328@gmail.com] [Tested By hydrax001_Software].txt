@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Renan 2
+#EMAIL          : naiaracristinadesousa328@gmail.com
+#PHONE          : +5534992783067
+#EMAIL VERIFIED : Yes
+#CREATED        : outubro de 2021
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : DC (5472)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:58:29
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809213736	OptanonAlertBoxClosed	2026-05-01T23:22:16.669Z
+.netflix.com	TRUE	/	FALSE	1809213810	nfvdid	BQFmAAEBEB7H1qtq3ZzTM5lNrCkB-DBgZ0lUGCIMplXJ-V6UX_P1FkT2GNhaHfr05nxnwMWmxT9TwndAR5kjh7Ft1RS7Y3DCx6owLQdjuIEo_Suq7nkgPGqFLGvC6d0kkrMy7Jq_7EAPNkiK7M5re6VqpRRFEGHY
+.netflix.com	TRUE	/	TRUE	1809880984	NetflixId	ct%3DBgjHlOvcAxK1A3NAnF2NLdrp_3QZvpw1z1_KlbmZ9ew17nRPLuRK9L3keFHsBZZiGMgoDDTlTXBWcVLxEYh62z2Q5qfMjLvHSWy0_3BPQW2gmT02HHJ0HePeNFZLbK5nc4dZHIT6nHbXUvuwjXa22sokesyApNIiNgRrDBeq5kR_5-mKNtaOqi_wNN64QO6D6IojXntyDDUxheWnGW1a-9upi_ejerEGX-sDpPd1FzY7j5wFcUwHWqxUsEtTnd2pln--m3EoGOmJLwfGwi-gL4f4bvMLF8YPXC_zwh2cG2mCd3ISGWYzL5h5IVhgXtMtyXNgWTXpNLHi4UD5IPVQtrW0X5canntOLJVTvi7MB5tNj44IHeas3yZnZShR-c9UH7rARf6o_K6U4bhGmo2SNc90zNWD5CIVvLzXDC2Kup-ppK3Byu-_DN-681cpObJ7-TLOv8MITVS46OkU2uIwS1FMhBxsHzHZW7bS-_w6SzAW45LiyUNFupB17Y_Lp65k0C9lmEqUxlZsvmL8jI5x4PgnYg9SaHkWQb7MJEYYP1GTiBeFhCeQhQu3DCS4Ng3dP8yfkJbZMfIoiBhatXysGAYiDgoMs-Qeb_PZkY6Pfi8j%26ch%3DAQEAEAABABRhk4veOXeB8WS16gxtVCOYzWaU3dDpD0I.%26v%3D3%26pg%3DCCTF3Z3E4FHZRAJKXUZ6HD3FPI
+www.netflix.com	FALSE	/	FALSE	1811878223	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1809880988	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+13%3A43%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=19579cc7-c00c-4098-93a1-5b62e555896a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777677737177&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809880984	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4akmARS6gEe5e42XHS3rRgIt7vUUnong.%26dt%3D1778344984053
+.netflix.com	TRUE	/	TRUE	1811878223	gsid	7662f9e0-82ef-4740-bdbf-6bec96136f74
+.netflix.com	TRUE	/	FALSE	1786120984	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786120984	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811878223	profilesNewSession	0

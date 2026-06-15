@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ela Strzyż
+#EMAIL          : strzyzelzbieta@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : czerwiec 2024
+#COUNTRY        : Poland 🇵🇱
+#PLAN           : Premium (dodatkowy użytkownik) [UHD] [Streams: 1]
+#PAYMENT METHOD : N/A
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:06:14
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785195707	nfvdid	BQFmAAEBENh-nAjt-1r1FqTLantiqcdgjKpzZE1Q8GaAxSuyl524RfbFUrsH2IbVfPVnuqWRT0Ufbbt9ZhCCb-sCiqzJem5l3s4fabeQ86GZMyZENIQqIOYvTFHxL7wz7Ni_w1KX6Xs0mnU7Bf_0L10xfqbZydQ-
+.netflix.com	TRUE	/	FALSE	1801411590	OptanonAlertBoxClosed	2026-01-31T16:06:30.021Z
+.netflix.com	TRUE	/	TRUE	1812210187	NetflixId	ct%3DBgjHlOvcAxKPBGRNlvutbaggRRqwF6tCiC1puSnMuQOr2levbi9sTSkoBmSvGflLmN5W8PHWvIf2cNLn225xGIvojGk1SWx2FyfmbXA-VMsZ6WicpDCfITXyxTvhVrnFCPfMHUTogevcIQRipKjD7rJk93A7ERT4BW4zq9yCPPyEOv1vF6u8h5SF-bQA337P2ywqEUVE-aB99hm3XdpXzM0sXc5j14v0G0GNqSe6d48-tLK-RoQxNd5nJKl6EGqEABR4Eu6lTXYtdM7z87me_NRCUssjALQEnFy87MaqqZ5-epNLquDqZ50TWPt6x-dNlK7NPZTnL0Cxn0wvq19WWcbrErSSSHnqnPugDGyYYLD55rCjebsMgBxUZ851ccvkr6GBjYY910IViGB7VQopePFX_2qJs3CVJEydgC_6FeMbZjt1nCaeJ187BFsuZNP7uSE5KRca7fT4MWVQvFAzHjClHyQPWXewvWB88xSWtooTijVjJCBlqtNoQ92cocP9EfboxMAFBad37gilJ-dEyFaTXSjTkWNpNpLcqCXYm2YUcLM04dvw0KOGBJuQHa9Jl6OyDWgnMwR5TyQ41Ge4K7D6LkTkZPrljEYFgB4_sC7FxY_OTof93UnArBfaHmBopzDfypu7mPaKU4LKUsVHkluIZSAjdQtDnMvDWA96IgAhMG2Ga8u1dQ3LYuKx_KEWHtzonMdBC37zGAYiDgoMZfkVDV6TYFaram8N%26ch%3DAQEAEAABABSADriaRfrXr3I_F4mHKVDRoRcxRnbJNyo.%26v%3D3%26pg%3DKSEMYWVAAJHG7PM2QYO5BAPRFY
+www.netflix.com	FALSE	/	FALSE	1780760589	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1812210191	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+17%3A43%3A11+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=51103068-9ca1-4751-86a7-bb24e8733c86&interactionCount=9&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B04&AwaitingReconsent=false&crTime=1769875592548&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812210187	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScJpIx0_8ntPj84uW8b8JnLNogN1kCyng.%26dt%3D1780674187899
+.netflix.com	TRUE	/	TRUE	1780760588	gsid	47099533-f0dc-4f6d-b130-7dac12dad598
+.netflix.com	TRUE	/	FALSE	1788450190	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788450190	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788450190	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1812294517	profilesNewSession	0

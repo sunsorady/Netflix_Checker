@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Honzík
+#EMAIL          : krenkova.tyna@seznam.cz
+#PHONE          : +420737424058
+#EMAIL VERIFIED : Yes
+#CREATED        : listopad 2023
+#COUNTRY        : Czech Republic 🇨🇿
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0636)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:44:30
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809198330	OptanonAlertBoxClosed	2026-05-01T19:05:30.314Z
+.netflix.com	TRUE	/	TRUE	1812222626	dsca	true
+.netflix.com	TRUE	/	FALSE	1809198626	nfvdid	BQFmAAEBELzQLfI5A97jkEa_paQRJyZgW6yAmgZFyXuWTCMHuvaryuiNuJ9GvNReJccPxY97tia9IKQh_nQZqHFKgaFRZ2zIGg4Sw5tBlQUahdCaikJG53AblXZauK27ynMhvpKm04cPB3GipLYQ6evr0Btd3nxQ
+.netflix.com	TRUE	/	TRUE	1811614830	NetflixId	ct%3DBgjHlOvcAxLrA0jIMsqurZDl4RLMhu9oV-a3V4QBJulmh7twfMtaQ1DyYw-QY7BsBZzLJuOrzTQaEk6bXutu2HrpHbX1XfnpK2L_9CXusVTR-CnMxfitEgfN6EqF3bVJGrngMBg3w_gWHzE2jezDDU0Oju9_nhxLKSif7df9OgYi57ld72DKuZ6RqS5PsMZwRWZDLsiaIHYyclobWSQ9vY_fqSHG062sA6_9FvpJ6Qzyw_PJfJuQ_IzQlHmV3a1ANjJnrR97frcK5xKsg2mBf7Izei1r8exqsjd7jh3oRZhNGbunCIpECpIP4krz17G8gD5if9JbDIdp9ZFg142iB9mRSLjO1UX8ixtsKdRrYSxMd6ZzRPNKsE2zuRg_r37GdHyAHRTiJiBs0tG87Tq12SPJ1mTH31PGX24S1MD87VFDrsIKXUq8hfdnhQBBPviG7a5PlThFAYQY5mTroINX5PLsYRUP6SaA6CcY4ihyvqUHhntrlxJ0FzcaE0dHiKs7ztKQhb2eIFVCmjaoyYL0Y9yfH0mz5z9QDNcSNrkRIWR00Scg3JCRbUnSt8NjuHSRxOoMh-jB3GR3m14zRjWCo9U0w7HcIx3vQrhQq1T7YJOmcWmpRUpDnYj_MQMKjixZyxwbTctoyIbE9Imb380OdAajl654GAYiDgoMjSm7cojzrdat24Tu%26ch%3DAQEAEAABABRYgXZkLBQUxseB1Cg5unnPgQrDcBKNWpg.%26v%3D3%26pg%3D22MVK5LYBJC43KAQWSHCSH635M
+www.netflix.com	FALSE	/	FALSE	1780165229	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811614831	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+19%3A20%3A31+GMT%2B0100+(GMT%2B01%3A00)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4eb8b0a0-bdb4-49ff-88e6-b685353cc32a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&isDntEnabled=0&intType=3&crTime=1777662330675&geolocation=CZ%3B80
+.netflix.com	TRUE	/	TRUE	1811614830	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSju3Ov3OtKUFIoIn5Td7cHc2FqfSn57cc.%26dt%3D1780075188482
+.netflix.com	TRUE	/	TRUE	1780165230	gsid	481558c5-cdae-4fb4-aaf5-343e2202f4e3
+.netflix.com	TRUE	/	FALSE	1787854831	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787854831	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780080644	profilesNewSession	0

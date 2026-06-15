@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Dylan
+#EMAIL          : delaneyx33@gmail.com
+#PHONE          : +13473109745
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2023
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (9406)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-27
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:02:38
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1808014528	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA4uGvifyW6vA6zNPmyjRNnXzxJmURNaYuJKnkZ4WGEMi1jwN8G-WVdHUMGpuLnLzsZiKng-tgOLWREQGktMQikvnwnSz82FcQc1JX5JHW6GjvIhDeCf3zkyVzeB2H_4Hb8igrpyEZ3kBuV7ElrS2GCo04MZx9vCFPjsyLALAFubWACBdqhuGP44ri8FDammWAM6t-Qr8mSWmL6Z-m3lhrw_JAyrbVOeBAUPOjvyG8nMEyjMDmKdbt_TxioNs7la0BDCRjlMeUTPf_LC9LEGfXwDyZjvOBtNsA1LPEUB3-yUF74luBaNAOTW_X3z6WDFsU5yztuk9UIrCH_TwVHtQerhA53W962pnUzs-JS7LZR-_rr0UzAFUZFWaQfpZ8o-XcpJWPsxI2A4RKj7cXCPTMlr49T-W7wkSPscGo28T7kgWHDcVtNf1Me7Rgmw0Axg2mEb6Il1TowQx3tGHYePOwF0xG9U4GCs6TIW4gGeSP5T_u2JTHkWFaXFGCVPPYdFVdzNSxpx79N1ZkZaeXUw12NRvZ8Zw2mjb9kwYBiIOCgylY9K3IbXOW06uy6E.%26pg%3DGHBP7MOS35G2FJL62JFYVN6KBU%26ch%3DAQEAEAABABRqWIW5eO1uPvLxJvp5UHY2UNVXj0sItSU.
+.netflix.com	TRUE	/	FALSE	1808014532	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+22%3A15%3A32+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dcd1033d-1549-4b13-8fbd-234c7ac4e4b8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808014528	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNbYKCBkUTdn-SOuZ0Y5bH0EBCZBkJopg.%26dt%3D1776478528894
+.netflix.com	TRUE	/	FALSE	1784254531	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784254531	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1808014526	nfvdid	BQFmAAEBELI_UEIUvgaEIUepJLSK7bVg9yDk0Gn_cC2euVmoOxiqSGyCNKGel-gyK8g91lk6EbMiMU9ysVHIf7AtUeDBAQJY1PDIdNER8PC_mjmQo2ZA3XurRjzd6W1Up0NBeDSWpccpXDnUkC1aS6y33DHloalT

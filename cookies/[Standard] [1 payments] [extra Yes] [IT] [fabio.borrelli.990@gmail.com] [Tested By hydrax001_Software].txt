@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : fabio.borrelli.990
+#EMAIL          : fabio.borrelli.990@gmail.com
+#PHONE          : +393465858606
+#EMAIL VERIFIED : Yes
+#CREATED        : aprile 2020
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (4914)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:07:11
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1797883421	dsca	true
+.netflix.com	TRUE	/	FALSE	1806182476	OptanonAlertBoxClosed	2026-03-27T21:21:16.526Z
+.netflix.com	TRUE	/	FALSE	1806182529	nfvdid	BQFmAAEBEN3-Tp4Z85MwO-DKN0SEf5xgkk5dvPmODhCd_w9LJ5htJT3Aki64vKB8g1Gt8xyZMes0TsiGbTJrZWy-pa4KIOPnXfoBJmLHax_Yfv60MHHSZ9wJ0hLePdC1oPrF18NHAePU8dNNw6vgADHR2udiNeXJ
+.netflix.com	TRUE	/	TRUE	1810323105	NetflixId	ct%3DBgjHlOvcAxLrA8-RyPEXLHhjEAX43UDeiNqdsXPtaxA_zwJpPLBiPnEuHuhFz6svSwctbiKaU_Nprt4pB0UYsisnFen69w4vKVLkV73AE8-_WQNp-imydEF2U52S2sRvHWH8XcP6LZeFH1KDQls5529mSw7Elfo7x7mO1YS2y7N5IkzrfYTxV_QNhZLnxg_fRDIMhX4bAWKg8BpPIioDpNhd2ynDY2RPjlj_WaUJ5cJZfCKysbQsc43jrAaNC55YNCqWblNQquVitXSmwj-92JXgO40oRD2b0NmCiIbvvo5CujLrpawhJfBGy3V8v0lIDtuAJ2Oo7CTsBq9ayw8YEPYaNe81YiJqQykRTJJW0O6JzsFizG4n6K_6UezawajMMWoFgLlk6mEJy3DxRoKbA525hEhIjQ5MS-_6rqwWioH7in9iTHdqBfzLl81b23KneDqi5qi7rbxwfEnCQKY91mzctqxG9dCeVERRFjW3sBMy56y0iCtZRuQTDKnzykyH9C7E1KNKqjYz1B4UnGnCOh1FWsi8FVDWc6yyMpZdrSbEsSjjknIfEywpgg0SlZrpmo2WxJlrZXdKRkGrLUzAALFLn60Vol2L5hrfgX0raXy8Oo4vU6hYph8wa3OiTBsEA8KfCqX3Fvg4VHiK6DbxmDBteSflGAYiDgoMIXEVksbfdEy0AVaM%26ch%3DAQEAEAABABTHe_wRj3TysctAUI2KfNAg_pByNE6guMI.%26v%3D3%26pg%3DDNQ5ZZZDB5HPFARS5DRDSN6NNQ
+.netflix.com	TRUE	/	FALSE	1810323107	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+21%3A31%3A47+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d894dc9-2afc-4e33-959c-04a17e887751&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B21&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810323105	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiDq5TrQh3UMo-Xt4pCYcGSaGvxgl5Xfg.%26dt%3D1778787105341
+.netflix.com	TRUE	/	FALSE	1786563106	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786563106	netflix-sans-normal-3-loaded	true

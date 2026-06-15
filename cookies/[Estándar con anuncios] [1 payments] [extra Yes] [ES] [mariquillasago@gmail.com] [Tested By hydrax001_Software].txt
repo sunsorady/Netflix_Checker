@@ -1,0 +1,37 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Misko Jones
+#EMAIL          : mariquillasago@gmail.com
+#PHONE          : +34652498855
+#EMAIL VERIFIED : Yes
+#CREATED        : octubre de 2022
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : VODAFONE_SPAIN_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:59:25
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1784656189	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1798912087	nfvdid	BQFmAAEBEPKawGb90uvYl-gjjp88XARgcOWgtrnQe-ovpQNFmSbx1j88MBrniBMvAO2L0-ZToPdE-mZppCj6m-7N3Q0Ag5WHfVnr6a0ykefcsABCizKkdUjDyPYsWLhitqToE2bdF6-TLQ6lasfo6m5Jx5BIs_0y
+.netflix.com	TRUE	/	FALSE	1802213449	OptanonAlertBoxClosed	2026-02-09T22:50:49.269Z
+.netflix.com	TRUE	/es/title	TRUE	1805237464	dsca	true
+.netflix.com	TRUE	/title	TRUE	1805237465	dsca	true
+.netflix.com	TRUE	/	TRUE	1805741538	dsca	true
+www.netflix.com	FALSE	/	FALSE	1776296894	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1807746493	NetflixId	ct%3DBgjHlOvcAxKJBOc_9xp9_vuHF5dzSxOUTLP0eks_aIM9yestsQzS8SWlOw5Q5XvyDWcDZfzhozk-SfE8OrCnwprSK03fjYP4bcBiKzmUlRwa20iPyanI6T1u-0Sl_2YFDscCf6FFBW2u7Pt4I4Jcqe7Wzo_xxJzD6JF0lysaFGU6qvgiDXe1nxfyJAUKYacu6OucQIMYhSeoTJT2JZ9b8J4yovun9cnsOMwf5LQdVA001F63WawdEh31cJUsv2iUFcz2xnixXN2YYYZ0W0sn2Kog07bYmfvQu241-zGxitfz9FC4MJcNQlLqtLRROqMOE2WPvM4Dvb0VPfuMKXneE0Yk0i7tX0H3HVtUdUjbs0HE1DnV3ywwpFU4jVLVol0EbNm8F93vNSYEESuqgL43isjRH2Las_oNEtLxf0DlTTSesUbtuE0YZ-qLwrdqzOq5mgZczhjz4EZ1QzkK5OeGtnerMRFPGZ7Ik2fx2U_xKqSAP11bmIyHRey6fr1vi8Q9tsA8FBG9oPUqjOycqWVzndiZRA7SHjZPq2waUOZ7F9Ni75rjTqTOBsufoooOsmVMpmGpHDp-rWKpevlATEU7dsWjW0ciUEN-sLLCNGj3oD3R8ympJCbNnB3S1qk0j1y5yh4za-lGIAeYSELt4du7b0TuAxfAHCHFZ7-D3bcFpSO3KRfiCjOI12Dfyf37c7hSRzX7GAYiDgoMXF-Prl2TiwII8Srw%26ch%3DAQEAEAABABTbF7VMAxU9GeiIqecqeF-xLfG0SITV28U.%26v%3D3%26pg%3DPAWPNJJP2JHTTAFEJ5K5P6NRAE
+.netflix.com	TRUE	/	FALSE	1807746494	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+01%3A48%3A14+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=131c6fb2-4c43-479f-b125-08a9d7c0ec0c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770677449657&geolocation=ES%3BAN&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807746493	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQL-JfYFh65_DssOWfjGhzhWTU5AoshuRU.%26dt%3D1776210493970
+.netflix.com	TRUE	/	TRUE	1776296894	gsid	5f880a19-4865-465a-8161-7e6da5515441
+.netflix.com	TRUE	/	FALSE	1783986494	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783986494	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783986494	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1776251025	profilesNewSession	0

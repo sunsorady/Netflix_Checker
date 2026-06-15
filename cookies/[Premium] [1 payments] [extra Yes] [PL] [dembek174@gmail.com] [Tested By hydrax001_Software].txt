@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mounir!
+#EMAIL          : dembek174@gmail.com
+#PHONE          : +48572755165
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : Poland 🇵🇱
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0306)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:16
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809327980	OptanonAlertBoxClosed	2026-05-03T07:06:20.243Z
+.netflix.com	TRUE	/	FALSE	1809328006	nfvdid	BQFmAAEBED6WQ7P4Zjgz4NuzZ6PyKeBgD3EqNCdlxAm5Icr9PIyfmzk5mqCuAd6Z6S-zBiyvHKfWPRF4he4DFn6FmQvbGY-cERaPI8vi9mXxWFMjlqP8rNEZ8eZEamRhQWrT7Una-ZLdgT9eaO3SrNBRZmtPqa9D
+.netflix.com	TRUE	/	TRUE	1809328011	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA1cFSvcyBYIDmO2a3k31C0Zp5igTr5T9lJpPN3tBM8H0HvLW4pWfIIwuID9tnpObDTFfzIOWx7iEmC4E3X-7kMJq1Va109XrL1YgK_1l8EB7ymLXxXYO2sBFXq9dAn3VZeVJdTFTrY9GO_OAigYL9Ff3ILvHIWjdsHKRW77-NvW9c4EHXie82kKeG7QqKHoy7_md2kWIUzdhw5bRdxmsrmTIQpyUyQ3MJmGl12asPU1WPCFvq73YHKADtG804T-A87j5KyAtw18tFvN4n53DaNu3fYa5E4b3OKbCWj_vok8LK8G0plm857jcYeMUV-K8twQcZ6mfccE6OkFm4Sq-oid_l8ZYXr9ZSPh7MDVJFe8PAGqk0ChdoYEkFtkgisRUrzFdqKyk1YNRDySlDK1WB1xFW82sIh8SidTHaxNrETto4w8c50ZIsP27ftZbG3WEt9t3UTUt3_pfJOwtPx5SJpaCnMxhCF6q6CZ8Cu8PLGGNtcXsBJIUTOuwpqm5wPw6ucpln7WIXgPg90KOyjJEYVz6oz1IGD9t_hgGIg4KDDjLb5TpVdE-aFQj2A..%26pg%3D4GIHI7IHINHBHCFNJDTX2ZQGGU%26ch%3DAQEAEAABABQzwJpm9m1UCOJhckFsF3DwQ2wganY_POw.
+.netflix.com	TRUE	/	FALSE	1809328012	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+09%3A06%3A52+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a45dfa02-c979-4566-a850-9057c3c1d145&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777791981117&AwaitingReconsent=false&intType=1&geolocation=PL%3B14
+.netflix.com	TRUE	/	TRUE	1809328011	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR6l1n6_AYvcTj32m41202Z8lBHk3Ne4bE.%26dt%3D1777792010296
+.netflix.com	TRUE	/	FALSE	1785568012	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785568012	netflix-sans-normal-3-loaded	true

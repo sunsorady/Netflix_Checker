@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Nguyễn
+#EMAIL          : wafflegod1408@gmail.com
+#PHONE          : +84842140802
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 3 năm 2024
+#COUNTRY        : Vietnam 🇻🇳
+#PLAN           : Cơ bản [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (0163)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:17:00
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807620476	nfvdid	BQFmAAEBECa-nbe6CBoFYn-JU77lCqJgYJ3BNDR_da2GlrsJxnqvQKrF6YQ7jGf7UAT3Rl5jK2Z2fAIH3S5tviIhBVGRWUWLtHXGotdZY7a9S4TvjQsGe12O8TwTYC-w_1pyXCPUUQWHe2nrXrLLvmUZVZt5ousj
+.netflix.com	TRUE	/	TRUE	1809167159	NetflixId	ct%3DBgjHlOvcAxKyAyf0xEfr_exLounsghT7SmdOhfMwUZKfmlRUsp4RVm64eK_arQNdYPU8dok4DQzgedTZTIPLAN6GBoSuJNNpXjChSh0UKF4cjo9SIZNV9P_s-aEoFSMaf3nFjUbBVxs6rCNFDzGOaUr52Tue871mkSKfJp7EahwXpVTt9BN35_JT9URyYM9iabj8XP3U-18RI0oTVvUYZ5oHAMeJIuoh7C5QZQERekmeMhyjHaGV5pEiw_9LDrIP-jpsRgPQ5pUqbIa1Cicc7nK5PsuJkoPcuwW95BdjkwSeqkwAtyRxRpkFqsIyTYR4OiDfy_7J-BIgx4g4ypBH7e7STFOKSJdNuk10xjYbAzeo3y0PlIi8iXAnAh46CR9VNRfoqbVEg_Z8EmsnJciNA4hnoruCDWDIerkZro-R2CIVqMGVoe3mNN2T7uCUFIJpgDDXVHotblemvWta6iLggOBQofDnO24SnxiljIOgxlG3V8-0auENKl36fCTS4OBr50jW2TmI3ZCXx31RVN4cUv7uBWY9dlSWFr3xIJDJh1d_O5G36232dr8c1fd-ASsxGBkXMvwqj8MyPF_pGAYiDgoMGMElOz3aCs5f6UGJ%26ch%3DAQEAEAABABQuiC35RkmQGJF5PAZpaGsn5zdyLUxzv3o.%26v%3D3%26pg%3DT33GKDOID5DR5DGHM3O4FAU5Y4
+www.netflix.com	FALSE	/	FALSE	1777717561	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1809167161	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+05%3A26%3A01+GMT-0500+(Central+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8d968ac5-4613-48cd-9cbf-bbc99451f4c6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776084465950&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809167159	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0YOFU2G6OELD1v0MHojlVNZlhfG1BuIQ.%26dt%3D1777631158452
+.netflix.com	TRUE	/	TRUE	1777717559	gsid	b410892d-2011-4697-87c2-c7750eddbe37
+.netflix.com	TRUE	/	FALSE	1785407159	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785407159	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1777640681	profilesNewSession	0

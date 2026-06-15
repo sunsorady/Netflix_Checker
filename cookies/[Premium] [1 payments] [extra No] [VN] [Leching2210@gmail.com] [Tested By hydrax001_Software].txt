@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Le Nguyen
+#EMAIL          : Leching2210@gmail.com
+#PHONE          : +84886102010
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2026
+#COUNTRY        : Vietnam 🇻🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:28:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1801815574	nfvdid	BQFmAAEBEPgF1xm6_xaMceoMx_hf7_1gilSsPYTLf91dY3Pn0WCngT-ePIxhcGqhbk-l1JHAYfbKbRodnf3wmJ_MYoRT8lYjoEODhso3GhaxiD43YgFEDR6Q8l9ouArc1E2fOlJjh_DmyvbZnjeeCLdA9LJGvHOu
+secured.netflix.com	FALSE	/	TRUE	1804951892	thx_guid	4462b6e3be0573506003bfd7b9a69240
+secured.netflix.com	FALSE	/	TRUE	1804951892	tmx_guid	AAzY85tF6ER7IhpMDkwmqO350fGo8upFs_iQ-hDBO0CU9oGPtRlrxgx_roJky3BCFiin5LFKVEWwtr7-3QXO4U5tFdOrbQ
+www.netflix.com	FALSE	/	FALSE	1778942065	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1778942064	gsid	a161e796-d83c-43ae-a6c6-7997341f7b38
+.netflix.com	TRUE	/	TRUE	1810432032	NetflixId	ct%3DBgjHlOvcAxKGBGUCqvsoKzP6C8kX3y9cZ6sv1BcXROlmlGLGaAICmmIWP941B8f4ss5AQP1p4Iy237zwjFJzX2TL9Ik_DlaJax1tiifCqaKILqioIV1GBA-uslWnCRnn2fJQRdufyRS2iwX9DP_8LfgGQc5KZ7kHmccwmZQeDIw7MZyh_O0WAzukJZW-OQH_LUiuA6kLWSKEo6kSCvCsb9IIyojlm6cN7EWqQIoq5n1HwOs2TnowDNQADGyHE4PwdGutlASvq7oBzfRI7QNCWvOSNgg80QWQlBOB5wZhRZNnIPBH2NCSzeDNFTDjOJ9kLWOZ2K_pIQU6FsSxCqUhfjCSPNX9UizyMfj16VJ5eEL77YoFpn1QEt9-s3dMtN8CYYRXs3FzQzy-uq0Iuz5Wp5SV05RcJtBgnwYHrIHVGCRswXvtIzpXjjLCzMlytYUWnYPYTKnX7yZU4aVIWiOe5oUTYyd7J_WZSwvqUUiWvRDTSKR8oR5l1StwEDrR6-fBTDdE8kKnIlGJGvJH1y36MgfYmNq1cFIx-5CUycltmE87htMRm6-GDSt68ZbBnQ7fI6X3ui82b-lsHRso3JdXwj5j24MDBRAm2McrJh3fSNXnbPEeXVnLqGKDlW1UaRctJcU0rc13sh2LYr9kE9mw1QHz3Ye7DTz7bApGvrpfT8yRUA4kDwtdQ9yKxR5XxG9bGAYiDgoMAM3TQ4Pb9Y2moUb2%26ch%3DAQEAEAABABTvue1Tn8WohnuhNVy1AK40Xcm8I-_4mDY.%26v%3D3%26pg%3DWNXAMTF7YVALXPSPPQCDCAI664
+.netflix.com	TRUE	/	FALSE	1810432036	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+08%3A47%3A16+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79ba9891-9b19-4222-a029-67a8b46bef78&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770279574512&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810432032	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQR_1t-IT523V-G2YEpZbAplQlpds_WSQs.%26dt%3D1778896032315
+.netflix.com	TRUE	/	FALSE	1786672032	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786672032	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786672032	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

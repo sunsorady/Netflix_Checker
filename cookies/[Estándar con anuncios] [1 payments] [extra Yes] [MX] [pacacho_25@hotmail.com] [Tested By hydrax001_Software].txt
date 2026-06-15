@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Luis
+#EMAIL          : pacacho_25@hotmail.com
+#PHONE          : +529988954040
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2025
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (3394)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:52:23
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1814406550	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+29+2025+20%3A49%3A10+GMT-0500+(hora+est%C3%A1ndar+oriental)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80e63932-1a64-4af0-b695-2afa40831910&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BROO&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1814406549	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKPA1x-EXqJTFtMHWGVhsOeeLy1aRk1K5NTq2hyMDBXS6Pd9rg40odNnD8Gs123u03Xck1CPbCB9g_yY00IvVfZYaQhWrKoRRwWC4el3bEbJIN_A-65Msvgl_hK6dF1OGs3PUVO0foB5pzLF8I9P3vCnLDQVp40yrFgBzFrqp1I8RtC920_feVKRJnPmWhHTgy0cPYbaAwmULm5qFwWLpR_s9LtRG8f8YneLzR5TfykoCm3AjblZoiUlUG66iilih-bbspt2ke0uwUUvY1DvJj6tiz4BW9PcZ9xrw1w88P2kbtG8-gedPbOAlyn8dL3qcrqK8efiPjP-US3q057Nv5gAsiciw1uOYN0_MlGGrwGzYDHICT3PAS64yk0ScGkul0oZrWCJ7Cri7uecxo_kgnwsMEXe30nqW06wR1Ke68IZStBDNzNXuTaoMKahSRwRUFJOfWDMbbaW1HVS0mM2rPyjRwjesGL4HsBU9cYwqex0JIXFEAxDa4NBlUnRsofNbZBBs3wd2TReNRmRJkUE5XlqRgGIg4KDNuIXQgO_o0FkLuS3g..%26pg%3DR5QGHSY2S5GDNN2JXF5MIMOD6E%26ch%3DAQEAEAABABQ3cNqx018gPqeNUdvbrI6yKvzr0JXKow8.
+.netflix.com	TRUE	/	TRUE	1814406549	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSF5zWp2Lc8MsPpYUqT3LaE300P7q1Eh9k.%26dt%3D1751248075344
+.netflix.com	TRUE	/	FALSE	1814406531	OptanonAlertBoxClosed	2025-06-30T01:48:51.703Z
+.netflix.com	TRUE	/	TRUE	1782956927	gsid	6abc8ef3-cfe3-4299-969a-a9737a5c013e
+.netflix.com	TRUE	/	FALSE	1814406527	nfvdid	BQFmAAEBEMClyGdZbU-Q2lfYfsoqdddgp3g7ydlfojo4_0a2GEF0q46utO71Ib6tfXd4l7o5W6l8oTAm1tBIabMIwW8Y0x7ZeO9xZJZ3_ESTz-P8pjgAAvri20T5bRccGID9ZfzaHQBJVl3fSIogNIBJS4vQe-kA
+.netflix.com	TRUE	/	FALSE	1782881350	flwssn	518bc9a2-563d-4395-9a18-547afa4f42ae

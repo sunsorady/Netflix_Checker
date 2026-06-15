@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Bin Anh
+#EMAIL          : nguyenminhkhang12a6@gmail.com
+#PHONE          : +84889509528
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 9 năm 2024
+#COUNTRY        : Vietnam 🇻🇳
+#PLAN           : Cơ bản [HD720p] [Streams: 1]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:06:27
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1791528041	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtN0wPO3tywCI0tJaZ0d5iEUcXWsBiGf8.%26dt%3D1775976040014
+.netflix.com	TRUE	/	FALSE	1791284251	nfvdid	BQFmAAEBEKVccBdBfeGsybYRqUz93IBgQaethgtobNne4UlK8NCe2tHOVJdvLN4Gz_tcoGcCegFiJNtcQerGcEGLSyD-tAmAIYZ1aJy62WiaqO7z8p1-fyqR9HEwHndllRlUbyGCg0dzBN4IRrxSeghtPcIiLZoc
+.netflix.com	TRUE	/	TRUE	1791528041	NetflixId	ct%3DBgjHlOvcAxK1A7wGAkbCTvpztAmwER4dmpA5dVEbh1yMsx6olmZ3ihr4fhG2o_gS8cRwokURWPFyCVLND5ZMNAeLDI4Dyq6QOV_vgzzFjp7_JGyQwfOOV5oZ5cToMnx3iMjUBhhIU12kA7eT6Yj6JGbRu51E5dbiSoQJxmXCe8qCCmo3Sw4Lp6Kt7sEXohG_RiQj98whr57ue3VduMB5W-GKI7U2LHq7nfMX-o8X8ATSEjKSzs5CZmySIhypvSDOSHqyYtFj1a5DZoU04pq1Xxm5WErQM0YWuZz7JS2wF1UYsxLjY4RKoGiuhIEGe_ChH3-9c-mZyVqrRWildLdDCoO2yb61R3hRAB9RsUCL-4-sakrioj-lBLW3-jAXkb6MQnA2VLh9wy85cPEC9pqTZWNGqFv89s1G4lxpez-NLns8WUYktBxYp_x0Fy5q2IPqlUu3rBTXkTpwVa-H7EAXSxtR4w2UJ6l3ntaBotxmSswtnI_SAEY0Wvgh6RmIQewf7QVXBKrGQpJ3lafQAU6S1NJ_tYb9eKAPHs0z1bkRBlLWOJriftwtk9I_54hsc2Ld1Jrd4kQ3f5v62ukrlKXYGAYiDgoMf0lYkvPBJXuHZknp%26ch%3DAQEAEAABABTxzKERjKVBZbnVblC53fPB9S-TMXw45WQ.%26v%3D3%26pg%3DXXBWGS7OSVHWZLKLSO6VX7NAVM
+.netflix.com	TRUE	/	TRUE	1776062441	gsid	0bb70b74-7fb7-4d26-93ce-b103e5d3cfac
+.netflix.com	TRUE	/	FALSE	1783752041	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783752041	netflix-sans-normal-3-loaded	true

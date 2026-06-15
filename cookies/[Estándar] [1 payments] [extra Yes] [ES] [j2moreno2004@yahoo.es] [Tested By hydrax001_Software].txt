@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Víctor
+#EMAIL          : j2moreno2004@yahoo.es
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : junio de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : TELEFONICA_SPAIN_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 20:04:33
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783080252	OptanonAlertBoxClosed	2025-07-03T12:04:12.609Z
+.netflix.com	TRUE	/	FALSE	1783091857	nfvdid	BQFmAAEBEP8DBibJF15MwjUmJdxcz8RgF0wiEMvWYYyUQjU-NrL7JJppFcSaMc933cJOMs62NUvFFsX2nRtGoNjXrXwnD1KAVDvdviWm0sFUt5D87fUQFUWGhFT_l3iHYeZx-RUCPZVBrLDcvWkrg3ay-Zq9Kojr
+.netflix.com	TRUE	/	FALSE	1796593851	dsca	customer
+.netflix.com	TRUE	/	TRUE	1811321636	NetflixId	ct%3DBgjHlOvcAxKFBEa0i00aCjNxah7GV2s4xfaLPWRx8eDJgJqYS8mFhq4x4IJbsDx_iY54nkXJySD-YSN4yJE25xnaDBLh3Vwd2MBK6MNTYgZrRrQIDGvoghymrYgiz-DCtY9hoQvfAmHtaSiH6-dUV6Y3EGs3XScCufSwNoWONIyN4-H0Ob8cX2V5tswvRlN4qwqxfr2SWsqs1PI9EnlKJqyeUDAEIzE97WL5BT0LTfgBndfVNWaALG8mqoCPOIAHm6sqOLID-xegvravukoChF1Cmjt83yhaYU9kLrT5V8zHOTOD5OGroJQF584UeHlT2yqhc0toe2KkiYn9GpUTPupyWosA46B6H-fM1HD9DPyqWhR7B6ttlxxjQ5elWzdEiZ1DIrEYP8hgcJwWvYn7HtsPQbQw-G8soJSDESPRd4hLD2_PNnHlbl-io02iR2vr0ZyVl9ILu6bD9VomrmMFYzUBg9uye-jnWUV65zn5ouq8SY1XRFBunjWnbLqnRP3FbeUy8aG4gIm7rw871VSJeURv6xkfzFkWvIjwflwUhH2g9X2NbEsLaVQMyUUCa3eK0F1AOG6EfHfKEn36xMY8KVK6NZgTgaqYGbuVcN0o_0SDaomMQTqchcY0ycbI3zsndNDOHTuIrtWgswRxkfWi9eLbbhpkduVqrE2v2vd4tskoCUwhxNIRTiulR6Erg24YBiIOCgw0pM_HeFUGwN_aMN4.%26ch%3DAQEAEAABABRwfmGwdv0g5U6vuylE-sgIAUK7jdLP4ZE.%26v%3D3%26pg%3DXZXREECLSVDLBLFI7EZGKQLUNA
+.netflix.com	TRUE	/	TRUE	1811321636	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSS0BPPBQ0s5jNQTVpE30zBXcgwarGa6p0.%26dt%3D1779785632025
+.netflix.com	TRUE	/	TRUE	1811849097	gsid	bbb2cdb9-c532-4bbf-9690-d823d6cb82a3
+www.netflix.com	FALSE	/	FALSE	1811849097	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811327102	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+12%3A25%3A02+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=69d2cac1-3cb5-4bc9-b9a0-cd7161b6540b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BCM&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1787567102	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787567102	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787567102	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

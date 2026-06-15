@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Marina
+#EMAIL          : marinasena2627@gmail.com
+#PHONE          : +5586988442872
+#EMAIL VERIFIED : Yes
+#CREATED        : junho de 2023
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (9980)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-24
+#DAYS LEFT      : 9 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:05
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808336204	OptanonAlertBoxClosed	2026-04-21T19:36:44.236Z
+.netflix.com	TRUE	/	FALSE	1808336232	nfvdid	BQFmAAEBEBv1tsWFGsRT03Z4QiWNwZ9gbGwQXnhBf3yReFPZfK9nKPXUKIzbyuB2iqscEGY53rsEDJnZRLB-F47YcywdPmLb2CEWI4hKQJ7DF080BF2WjsMYmgcwAuumnH-EDnxnh_rB7wtaQopge7fbmpmEUqkQ
+.netflix.com	TRUE	/	TRUE	1810488839	NetflixId	ct%3DBgjHlOvcAxKJBAQrHCJ3eZkqJCYQnD3yRmw_RsGj9dXaNrJwXXuEjF3q5Ex5H31KgV98sb3IN7KOEyOfDVmv8Lgb0k-jHrm2X6ESTTID1IPCeC30ufXC8dGj8BinSJf3JQAIVEJ8Vtysogo07XAYXj8Jyf7ZBtzAH-1ValaFmKH2UmOVrYh_QX_j-EXHZB6qOaxDfrc4cbRHf3s92rvt790TZ_oErOw2dzC8GLD_x4M9XrmEkBVg3U0bsQR2ZL1teBAY8Zj2n7N_FSPYlmBkBwtsK08BeH2_zwWtSd-cA196lQ-zHfySRdZNvmmclQbusrfyQYLIKw1cUnvI1f4l-TI_9LIcBEywxH6ewyojaVmL4eQUDkbvspfjyFA85GP9YAKajb2FhhhlTk0PZ8o8mlCTMBNeJtWWNub2slhpz5W-LLu7zYMldBgfxToORpb67NHuTPGpWaEGQoz-KAxCRTQu6sLjuLK_Gfx145wOCiTMAuxaf9OpjqPM2AcuWnm2CDcpFuZJs4n57h_YyrRD1780Mo2htSX5xZysnuI1KejrvlA-c_o53ZyK2m42LGTnjsojjqkXNseHZrVWlNtv0tMFpxJPOXWeXstzl6pQhlBlyKXGarbuUcU8W3qbw3ccWOISQS9V9PIVHbCaeEt6Cx9GygQuzzR6yqIiPNic12d2BFqOuOACPPh0AIkmwz7Do-MNGAYiDgoMBusm8acMFnvVo3b7%26ch%3DAQEAEAABABTqCWzQmFMZQznV_mfzYv7RmSCQh7Vh-A8.%26v%3D3%26pg%3DUPFYNZHG4ZDERBKKMI5BBRZFUA
+.netflix.com	TRUE	/	FALSE	1810488839	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+14%3A33%3A59+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d498f1d3-7e68-4d8f-bd62-2cdc545941c0&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1776800204717&geolocation=BR%3BMA&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810488839	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZc2QK8symHqKuFASkFo1w7GxgLAuf7_4.%26dt%3D1778952840105
+.netflix.com	TRUE	/	FALSE	1786728840	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786728840	netflix-sans-normal-3-loaded	true

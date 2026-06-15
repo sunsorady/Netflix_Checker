@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Lucas Kimisima
+#EMAIL          : dkimisima@gmail.com
+#PHONE          : +5518981969555
+#EMAIL VERIFIED : Yes
+#CREATED        : maio de 2026
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : DC (0055)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:06:28
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811028739	OptanonAlertBoxClosed	2026-05-22T23:32:19.651Z
+.netflix.com	TRUE	/	FALSE	1811028806	nfvdid	BQFmAAEBELvADUq0kYF7op9bzWtc5CZgLyLUKdanyDqvC3ChZsGjlaJhNPvvErKQUMK16htbz0LHEcVjb3BhAx2CoHUdLIxxmhQj-vzAizo7faWfev_VDfcsoI7BhCQ-ysMcvarCC4ZjR_ZMw3cPgH6DUHo7-Bz7
+www.netflix.com	FALSE	/	FALSE	1780355993	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1780355992	gsid	f22c3280-3670-4743-aefd-4399df22e3fc
+.netflix.com	TRUE	/	TRUE	1811870232	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA3eTpXTPHO1Bc9CO7fml0cHL3cLx6xERMgU7boju9s8v3H_6qNXjuvpXQoopKtdb61dfWfPhtLFjOAHv9ED0lVzOaV53booOWLZjC65HhA0BQ7ToKi54z53NJbfd2e39_XX24XBG8rRhME76fEsq7fqRlRrgv4M88AeDfm0ghafJFqRRGdjkSmxd4iPA710PaS9J29fuQSs2ToaOEaICzSvGi-W11Or02-_0upB1p3xu2nhR_yZuhyb6GTnyH_4WkkO07r79bLlERyuEJoQi3qUpZSu-er52h4FXpFrONYV0Q4e8G-CAaqqYVnz3ShDRdDeW5kfK1nExcgNXdhWR8uRuMrUT9vVrGhbnrhW6x0hwa97tNMYw9vkma8QVPkUgCcgXE1TGiKaFJNPDXKTqqG-qqjiLDyiiFL6K053HZ2L6ptFUuWgC4lRH6fXzByz5Ijv_18ZTXA0K2gBFb_OlwJOjt8l4iWup3Go-hTauOm50Z93QlQ6QqH1AOGt3WKey2svOzUMHP8-m--d9fZ2lrKTZOYY3jtW0e2UQkjr6GAYiDgoMsS3ZDsM6eHiPllG1%26pg%3DCU5DRHAM7NGUVP3P5U5CD4ULG4%26ch%3DAQEAEAABABT_TXyKUjU6RPPqSxBHqdKzNoO93THT7bY.
+.netflix.com	TRUE	/	TRUE	1811870232	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTry_aAl69Oq74MIHoCsOPVHRNwTUfa558.%26dt%3D1780334302318
+.netflix.com	TRUE	/	FALSE	1811872645	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+14%3A57%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=82617826-54e5-4040-a6a0-a8e37a6f527e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779492740062&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1788112644	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788112644	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780344057	profilesNewSession	0

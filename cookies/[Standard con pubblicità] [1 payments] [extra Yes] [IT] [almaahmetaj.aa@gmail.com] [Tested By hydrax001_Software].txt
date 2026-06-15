@@ -1,30 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Raffaele
-– Email: almaahmetaj.aa@gmail.com
-– Country: IT
-– Plan: Standard con pubblicità
-– Member Since: dicembre 2025
-– Next Billing: 2026-07-11
-– Payment: CC
-– Card: 3257
-– Phone: +393511242734
-– Quality: HD
-– Streams: 2
-– Price: 6,99 €
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Alma
-– User GUID: TOY7L6QZ4FFPDEO6VCKB42RGQM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Raffaele
+#EMAIL          : almaahmetaj.aa@gmail.com
+#PHONE          : +393511242734
+#EMAIL VERIFIED : Yes
+#CREATED        : dicembre 2025
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard con pubblicità [HD] [Streams: 2]
+#PAYMENT METHOD : CC (3257)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:07
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1800296765	OptanonAlertBoxClosed	2026-01-18T18:26:05.317Z
 .netflix.com	TRUE	/	FALSE	1800296882	nfvdid	BQFmAAEBEI0Kxjp8E6GRq4y1gt-e6u5ggFQb2runq6pEIjpzVVz09TKDibLXQ-ktxqBvuMyuFQNnEd4RwMS8ed_JDFaOADb1ixozhyQJA3cSX-K_Tvhizc4cv3Y1Kf_LVvjvvfSe3zUgaVlf6kuc3ulimuwDemWd
 .netflix.com	TRUE	/	FALSE	1800387630	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+19+2026+20%3A40%3A30+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1476acf6-3c63-4144-9060-ede63b17eeea&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768760765781&geolocation=IT%3B75&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1804711204	NetflixId	ct%3DBgjHlOvcAxKIBEBgcpaqk-0qvKSVQABeMdybhAUS4XEqpgfEGH3PpY29gDMm-mH6fKUfiseL0YczY8gPyDMhVc5329c7jELVFSeOWs-yepUVEaQ6OOEw0_jUjEw0_Zq2io5sEDzzLAg2zWA3X046WvqcqF5U__VueS5AGqtygUazd7w9O-5gtfMN3VZ8IE-G32RFhLDlMxrdrcyoWhejhdcBS9Qysl9AhXfjowMKNYu1hFI5EUBFIhVNJaN3rCqXALX-cDEM36WqqrUyBHDDAI0DGfwSz5NeC50QfmNQk0CFi3N2zWmOUtaDPN_6Z0f4QjfA5ohHZzgrs0dofpHofrQO9AeRayAnasdj4uFzCKFo80p6gFFc6i2mRn7sSb-mNQ2rqJPyB1ZStMf4YMvBUzeQII45QN4WWFqfyX-GAHUAP8nOseI7CO4ZQOqcL2tWQG2tFk2HF8Fz4Zf67xCRRCX9rc2czn19wwrDPJhkQrUNy9E_zxDeh_nz_14LYAo0kHQramhAn7sAPNLVYNbIPPch4zJbnjttyPxYwClXBQ3YVslMqJ42HgsPwVw6Nc5_JHN2iqbDQl_Fe2t7tQto3S9PhSXcy0BYZy_vZJ1mtrFRh8LJCljpb8YrMwwarH4TruXE-6bsoN93yz-kPOBMbwkUJCMUU8zQneVOtJbaFDy7P0Ur9VshufSAnuThdF6B3pIYBiIOCgybgrZo2L2Z18UL6x4.%26ch%3DAQEAEAABABQbMYaTGfq0FOx06fovSSY4QAYAtUH1FAE.%26v%3D3%26pg%3DTOY7L6QZ4FFPDEO6VCKB42RGQM
 .netflix.com	TRUE	/	TRUE	1804711204	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7toz1UVmwYPk86mPit1cxTicqncvXvj4.%26dt%3D1773175187394
+.netflix.com	TRUE	/	TRUE	1783056510	gsid	14726cd2-f7bc-43c9-ba05-dd005791bbc6
+.netflix.com	TRUE	/	FALSE	1780951213	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780951213	netflix-sans-normal-3-loaded	true

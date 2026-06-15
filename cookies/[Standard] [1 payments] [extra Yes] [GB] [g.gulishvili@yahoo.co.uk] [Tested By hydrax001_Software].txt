@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Lucas
+#EMAIL          : g.gulishvili@yahoo.co.uk
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2019
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:38:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1793478874	dsca	customer
+.netflix.com	TRUE	/	FALSE	1803510297	OptanonAlertBoxClosed	2026-02-24T23:04:57.846Z
+.netflix.com	TRUE	/	FALSE	1803510292	nfvdid	BQFmAAEBEHemLuSshuu4_nSIOgS5RgxgmyMVxAd-hHWM1h3AjcinJcu1axvcelcFH_R-j3-Z-xf4PO6G_6xg5Y3rxnKJFCwjc5yjJLf-lcZd5nbvb83qKLlKBrlloCmJCaFU1fkRtWG45uFIUzqFKQKCVHzhy7BP
+.netflix.com	TRUE	/	TRUE	1808675342	NetflixId	ct%3DBgjHlOvcAxKBBCjIja4wTcZpwQGsWWLBqcIHhg3Vcpxrf_SRUfqSZxOnybwAK9_kvZeywkEc6Xryp0MskOXhIk6wyivRVxoAGtidRe18NL1yMHRzajjUuqWn2EIMsBmlbfvysixJXdMmCGZJT_zkgwwjfFq5nxKeepkNOGwC3wUqM_rERxpxLIk81HfofkpG--i6-7PwpsRxZS1bjukn90Lktuk-iVF6PTNCEwSba5Xz3J2QRx76_bHZ9Wej6qVdWe658E52ZVK7jp3LxAmeCaVhCtivpUwbslTGSOfPImFw_9HmA7JRZPHF9JAsDe4DxFdTaWiebaxS060-AsTsT7NQoCRwObXEf9mcg9VlIza5FBPSC5k-h_KVkVEVB5f3kmUJNWMbaMimLxwMwlnem5LdZ21mN72X-vrCqSDWhS0lx8_pucl3JD5eJJuL6SGJ9sNlOAH8KfYqM0obmoclM827o4VlsZv3jt8By_v-hQzmhakELciaduQbZJWERGKNlbW_3UTve9SNvM1y4BD_e9H3-KA6uvYYp0yqGnnRIfGmY6zMYKhiqpibXJ9XZ92LGOB4An_JCkB6AGn0faj54Xf66Ytbvw24uBIwiSLikCL6mwmtDS9GaQu74Y1Dsd-z8ti-8yxCmfB-Dlh4420pl4PIUCfhXg7qDeY2WIc_LFo3jP_PAqTk_mZRyBgGIg4KDL5f8Hy5Rlnwz35wOQ..%26ch%3DAQEAEAABABQ8dGscYsBT2wkK40V9peOKCydMfcl-sq4.%26v%3D3%26pg%3DQXFYRKCBXRB55B2IFOVNWHYEDE
+.netflix.com	TRUE	/	FALSE	1808675343	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+18%3A49%3A03+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=04e2f0e6-ef0b-465a-870b-5882f81becb8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&crTime=1771974298223&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808675342	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdUVOGKbHmttyJe6913LsOHfBvQ3_zQhM.%26dt%3D1777139341407
+.netflix.com	TRUE	/	FALSE	1784915343	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784915343	netflix-sans-normal-3-loaded	true

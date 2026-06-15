@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Benio
+#EMAIL          : a.dipoppa@hotmail.it
+#PHONE          : +393384183039
+#EMAIL VERIFIED : Yes
+#CREATED        : Januari 2017
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standar [HD] [Streams: 2]
+#PAYMENT METHOD : CC (8970)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-09
+#DAYS LEFT      : 24 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:15
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796225903	OptanonAlertBoxClosed	2025-12-02T15:38:23.349Z
+.netflix.com	TRUE	/	FALSE	1796225908	nfvdid	BQFmAAEBEN7DmT9qUVIU640J-9YlwOtgl01qY0Z9pRDk13GdAJVag1fkW40ZH0D2CHGm2O0rtXKave5Kup9jPw40XcYOdG8dbDYqnVdgoSWW28PWbcXhUDafSN-mkZlLRJA0tG8391D7r3LF9Dl6SR7irP42xnWz
+.netflix.com	TRUE	/	TRUE	1806857346	dsca	true
+.netflix.com	TRUE	/	TRUE	1807038744	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBSQ3EjfEc86svYAQ8k_Lso_g6OL_D2Po.%26dt%3D1775502746188
+.netflix.com	TRUE	/	TRUE	1807038744	NetflixId	ct%3DBgjHlOvcAxLpAwXP9dbOWVjM_GuNXA97m6KeSvkrXFtjpQfuwBNRrjAlAJ6pXaxz6ZB0ObaCUmRNXM1wRAeDg3oBYiWQ4ksZ3P6umNPerxNYJp3tOQac-80sFWnAYj4dRJ6yKBTnLvY6ILRdBFMt5jwKS_Y7C5UpKHOBwjen8UsKeIldAPH19__wZQd_Ds_rEInj2McOletr3ub_aiw8ZSjxOUawCbsNf2JL9tDiyBWIgG9ERI0JWmisqXSDc7veEgI6JdomZXY8dJvRlnq7PFIy4F-f5qH06c3CZOWq_m7UYs0NrQ43kQg2xd1mZxR9Hs9ySJ8cBcI-s0i1TNJ1HV_6Wk899XhMefSYUQrufrckPVhxjHADda7FnRX-rToy-vsqOG_FAtBxjawq9dAjBONJzlbDF1LsSu8Ybv_qTtz9PHB7ZPne-kPjYRrlwQduOJJQAQE7cUOYoNH1X8vgz2Crtl_6BzTezuof2tv7eL18tiMW0Hco3M89BSHzSuOhnLpxr2l_Zr0eNEk0myhIJIum-Pjn_LYsE9qZCYBWJjrF9CUgWzwz6NICyyV3_QW8BifUwrJxxo32bhEEhGrN3PnZ8CQ7JL-hPFZfzeLG1CS_LMhHy9H80eMscav2MFFGLRLd5d1xafV-Kjdv-4y1FXsJoRgGIg4KDPd1sSVSCmIWiImGCg..%26ch%3DAQEAEAABABSyLaemXPl9SjdD_bsDEVNOMzBmdTfPLtw.%26v%3D3%26pg%3DOUX723ZME5BU3MBHMTXNGDFY44
+.netflix.com	TRUE	/	FALSE	1783278757	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783278757	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1807038757	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+21%3A12%3A37+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0942b722-67e0-4ad0-84f6-9427fa9118a3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B25&AwaitingReconsent=false&prevHadToken=0

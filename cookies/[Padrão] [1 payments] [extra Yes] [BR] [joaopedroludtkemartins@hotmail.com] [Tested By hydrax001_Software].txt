@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Rodrigo
+#EMAIL          : joaopedroludtkemartins@hotmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : junho de 2017
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7844)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-27
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:12
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1783056506	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AibAB86IaUl59BVnaj8oQZZEKdLuaXihwZd4S0vx69LOoHOQDdsk0WEX5ekDj01hwUP0ITHz0ZIomqYVp2b0uHbLT7jJ1RP8FhENJ61gL3-dpJeXcjEr5HEl0axYmmIga9FF6OpaBJ7TJbgp2jsJIxPpwcwPV1st4wgAAQDcVu0Q8pxsp6NPAeTDEALhSoV_HoOEpAcsjuK4UCrMKENWd3WOUgTLWbov76fReQ0hzCziGbrj-Ca1ikKkpKbqxVKYctRG_PDt2IVputRmsltOuCYbLMlwTISKeDg0yqtwRMufJJpqsjiC15L2gJp3NX86zJy-JzDQPut9GPpe9FteeNywCMv4sWBjCl0mc1Vuqlz6ugspax4oobhgZoD_wVVnuww-tbNmdGYlTPRqwM-PzEbE8prP_c7C8Apo3C7WV7UZuGWRQ7YyHKRD5yKC6JmIO-CiqsgYFa2DFZz4p-BfW27xjDqTVEFNYzY9QKOnpIgfDR0fS0iza-r-GAYiDgoMhdf5d5h8biplPvHz%26ch%3DAQEAEAABABTHY3iG4aKAspUkGRGkUX34DZh2Ih6DVrk.
+.netflix.com	TRUE	/	FALSE	1783056506	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+17+2025+13%3A24%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=79dec473-ffc3-400d-ad53-07c63d1fc5b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783056506	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRn8blLWnzaYEBE9-lzTADHjQONrvrU__E.%26dt%3D1747499053537
+.netflix.com	TRUE	/	FALSE	1783056506	nfvdid	BQFmAAEBEGDx8zgusVZG4dL7uyJ_e1JgkEnRFqx74_KBRnypLTTr5tz2MAMgI9mHwNJTbpWRgPuV3yxD69zWn8qDOXbd34JdM2FszvW4WeLYVcRHuacFAg4Gh-wYkbs5cQIgW3T0K75dCN8rteKuvcseoaxMtF7F

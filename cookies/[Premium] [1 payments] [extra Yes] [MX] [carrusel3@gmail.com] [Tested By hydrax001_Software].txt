@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Emiliano
+#EMAIL          : carrusel3@gmail.com
+#PHONE          : +527441582566
+#EMAIL VERIFIED : Yes
+#CREATED        : septiembre de 2021
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3001)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-07
+#DAYS LEFT      : 22 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:52:57
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	13448303655000000	OptanonAlertBoxClosed	2026-02-28T15:54:15.123Z
+.netflix.com	TRUE	/	TRUE	13451327852278259	dsca	true
+.netflix.com	TRUE	/	FALSE	13448303851710765	nfvdid	BQFmAAEBEApv_HCod_HB2bJbEYAyWEdgzqFJ-qojD_OrdvYdnndmS8_7_P69bViv7fmK-Bv5AvSWZWExLu52Nq2Ec-i2BwWQdTuWGT6uGU00tL-TjKIcwi-czmBLChpacmzwDjy6XXIQ49Aw5FrXchnPk_R781AS
+.netflix.com	TRUE	/	TRUE	13453794568821996	NetflixId	ct%3DBgjHlOvcAxLqA-2B3WXiF9mA_vNl0-ol_nUpC3fuPPBlmBibdXaBXzZSiQl9N7qc0LAPYtCiPJMxf4pl_yDvP2524zq6ufWS4gYxP1U1bASRrJmbKlQG4GlJ-xofgCRs6Z27JKDFul1kpLk1NNcJWWXG36y5dd7rG-o8EC4nAUNBgHFUQhZFDayMemcR2ZJLvw2DQnIkCm4oORNBps3Zh-asy0x56z0ixuX5Cmcp6j68LkZccUme6LuUe9fmPpwIizPJIcQHTspHfKfU8r9yBBnsiXA8uzsCVKqYz4gpA-Ooo3KUgR-UQ9YHTWL4vP_7X3LA-KJrW5qoqunFQ0kT9JenQ7PcR-kR5vQ8dvJDZiQU3UqEOPGJv_EehUSGaI31ufELmLxI5UN341nA44iHzl7I5KBU-4bV6oK6QscMaYH3V1ix_3UF6SU3FKFkDqPGioeycc09qyFXjWkmg5TNLMvXLd-Pj8bk-wzHyyAO3TVxi2mERlcCmpQeP6mGQEN8A9xtzek2GZ6kEt8KVGC24gDoMQ0Kc9UPzOw_mwD4EawzJuM4U0dU1erdooQ4y5hwLjKlH67ZLpG_w7i5Sm9E-lVV-U0TcQmv_LsbJL_cZ781jnnvIJnce2e7U6so47_fwAnF9TvxMAiHKW5ru5HHpWBRl40YBiIOCgzQfHUPoFFfWvRkNlM.%26ch%3DAQEAEAABABTzL3llxKmon0_YHjjCqybgP8QyJJC0oUM.%26v%3D3%26pg%3DE6P2RP32KFCC5HWEORND3F6CFU
+www.netflix.com	FALSE	/	FALSE	13422344965000000	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	13453794566000000	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+23%3A09%3A26+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b4fe05ac-eaec-41d2-b4ed-29acaa4ae1fb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772294055339&AwaitingReconsent=false&intType=3&geolocation=MX%3BJAL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	13453794568821833	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9AsvhlBo8w3sfy-1eGDTwVRMpt0F8pKM.%26dt%3D1777784968786
+.netflix.com	TRUE	/	TRUE	13422344963075672	gsid	350096e9-f142-4e4e-9ae9-c4ccbc02502d
+.netflix.com	TRUE	/	FALSE	13430034563874471	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13430034563874337	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	13422260439609612	profilesNewSession	0

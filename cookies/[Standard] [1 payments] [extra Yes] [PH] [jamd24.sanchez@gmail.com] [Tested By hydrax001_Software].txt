@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : nuod ako
+#EMAIL          : jamd24.sanchez@gmail.com
+#PHONE          : +639082275136
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2026
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-21
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:02:02
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808289025	nfvdid	BQFmAAEBEFmjNAs2Y535OySVOT8mZrZgpq85ehURapor2lFsJ_XZbsIUAltSpEIhpjo48aNz4ZAb8jRBx_oNPsdNDyDxvxS7z-UCOAE7Cv8UjjOl-cmufJLvOhRd1wLB04kbNsW55IERj-4__yrZ8chk_Z4td3f9
+www.netflix.com	FALSE	/	FALSE	1778574485	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1778574484	gsid	6df26cd0-cf4c-4193-b35d-b847b6ab3392
+.netflix.com	TRUE	/	TRUE	1810024630	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcAwUwVE9bHzaMLpO0kv2pAF-x99zAi6okOv_lM1yikNPOTI6j-qqsvtDGeZV7Mu2nmfQKJjaPA8SH9eagfsdw9SOtmmNI-BC5EUVvzmzjw9bFy4AaYRksjWk0g_v1fX-ntbkqbLGeyAWrZAC_Q4Ij14iXElwgjTXnff4nmNzy--drPwk0XEUvhCXpiClL56On3NKlcyvpC6CoeJssxsFguIN_2N1qQCOFd1rhLWeoYYH_og_KqedijVCvGm3DrjOe6XAMf6mSnSsGpfxDgZ3nYT-8SLqm47cd9YhDk7m1eUmi91swfJ9fyD8bp6uf8-jbM5cH8udUA-32NcowkGu7_7IxYeW0voT4Mjg4SKXhD38l_lHfZXQqhg5H-crzyBZtkIPY1D_IOLTQoqdB9akbEkWWMUTHz3hMxAirvPO5ecSXy-XcxQA2DoQkLnWUWHQJ4NWFcM5FGRUr4rD9g_lERE9mR_O7zL2vNVyOFkrbPwde8WjKp2Jw2IYm_RCUQxxfE6iZBMLh_E0nf1fLkeLBQq4Srj4aWzleA_mLR0UYBiIOCgy45EnAmAhqE1xBPyE.%26pg%3DRTMRYZ73UBHR3P43DKR6XDJAVI%26ch%3DAQEAEAABABQUYKOwl3o4MZazbls03PwkKkdVXqvCadI.
+.netflix.com	TRUE	/	TRUE	1810024630	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREz-cj_-ygCKNTAOjs94K9ay-x3ilKAbU.%26dt%3D1778488630201
+.netflix.com	TRUE	/	FALSE	1810042083	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+21%3A28%3A03+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa5ca140-9ebf-4739-bf7c-19084a84d564&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786282082	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786282082	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786282082	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1778518407	profilesNewSession	0

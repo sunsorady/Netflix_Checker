@@ -1,29 +1,27 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Pedro
-– Email: ljmferreiras@gmail.com
-– Country: BR
-– Plan: Padrão
-– Member Since: maio de 2015
-– Next Billing: 2026-06-22
-– Payment: CC
-– Card: 6739
-– Phone: +5517996054999
-– Quality: HD
-– Streams: 2
-– Price: R$ 44,90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Luciano
-– User GUID: 7NCP4SBTFRFTFGB2PP3PSTYNBQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Pedro
+#EMAIL          : ljmferreiras@gmail.com
+#PHONE          : +5517996054999
+#EMAIL VERIFIED : Yes
+#CREATED        : maio de 2015
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6739)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-22
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:12
+#==================================================
 
-.netflix.com	FALSE	/	FALSE	1782587072	nfvdid	BQFmAAEBEHazWOz5oHFf-I3iSd_XCR1gJhhFwA_eNHqT2ZEdrf8bC0gVDMGG1GFUy206N_4SWoSQZZLkoS52bTPEoDCUHRZgA9Cd5FUx75ClWvjEVV83qPYqP8VFtvJrFIXFD8IuFLfiGXyrjILaLxKrFtX2NzzK
+.netflix.com	TRUE	/	FALSE	1782587072	nfvdid	BQFmAAEBEHazWOz5oHFf-I3iSd_XCR1gJhhFwA_eNHqT2ZEdrf8bC0gVDMGG1GFUy206N_4SWoSQZZLkoS52bTPEoDCUHRZgA9Cd5FUx75ClWvjEVV83qPYqP8VFtvJrFIXFD8IuFLfiGXyrjILaLxKrFtX2NzzK
+.netflix.com	TRUE	/	FALSE	1782587098	OptanonAlertBoxClosed	2025-06-27T19:04:58.851Z
 .netflix.com	TRUE	/	TRUE	1786468002	NetflixId	ct%3DBgjHlOvcAxLZA8RE-lGO6By2iht41Nb3DBcaz-Wq60fnKAR1_bpuqu9ZpiGTGOqUPpWophWYsLsL0NDaD41qVgx0p2y1IqP5Y2VWIXy7NOnx2etN2ph4fgPSBPB6BZZbStOeHc_XaA7Yg9xY4-XaPf96rISQeOAyPod9fv-TwnQPKSMcpbg1z9MQ9Y-i5hPUf-OiWjDWzmVEAubFdFM0iFAnfuGlC-l0IYp5c9pOtazVQSBrNZwj4OZe_2-80hoBQyQQGpabMHRrjbwOFvUYFhr4diF1A-THjDW44qs5TfV-FUtsBoIvEA_gjY6sQLiZVhioCOo5GJ_NWnjcRG77D9itcCYBnJ8GqQkAfttgw-xcrDZ_eURDSCa0G2zhLgmxn9uj_Swd9EmiBTrwHIF4qTcan8aYsvjYUMqAsGuFfKZk93iw4YsUbeQo9CNhkdIftNWR6_XkqlMqpAvjokExzY8qXPveS1lNubalZgutJHjiaV0Ga_4TsBUfz3ct5YZfCLgkPzL7mbPbwnRX8PWtZ6t4g2lkk2PjhA-HteIIoAaTMrPN7V4sZXRTctmh_fJ4-WGBZbM0ZTpWRgTX6Z7pMgf4H2JIzGWDo7blkpgWyada-7IBh64hRvOve4Rk5eV5FS1OGAYiDgoMFHNG-AT3Hbeztw7z%26ch%3DAQEAEAABABSaYhBEjmGUOCo6v_U0OvaHRCrYh4i_P7c.%26v%3D3%26pg%3D7NCP4SBTFRFTFGB2PP3PSTYNBQ
-.netflix.com	FALSE	/	FALSE	1786468004	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+11+2025+14%3A06%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5db47e8e-a5b8-4eee-904e-fa0038c550d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1786468004	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Aug+11+2025+14%3A06%3A44+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5db47e8e-a5b8-4eee-904e-fa0038c550d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1786468002	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-adZlpuGxR5Evdm47mfZ-nobny6bNvWI.%26dt%3D1754932005885

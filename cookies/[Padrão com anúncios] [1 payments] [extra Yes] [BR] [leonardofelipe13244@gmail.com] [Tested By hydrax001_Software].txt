@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Leonardo gagliano
+#EMAIL          : leonardofelipe13244@gmail.com
+#PHONE          : +5567992440505
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : DC (9998)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:13:04
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1806857362	NetflixId	ct%3DBgjHlOvcAxKgBFpkkLmRj6uIdwe7ygsq0NR9lywU4NL7NWokNTU68oYYrlwYtTAQEk_ntYCJHKLOwa0cD71beQ9gJ5l4HRR5-_i39V_3GQf2ExRr0k_8bv6_o_msqPJKa2x18FKg1Z-H6ycDJ-ecoiVmeG-CHXjy1ESUwCdR2LD-4oEM2OA6Nc0EXQ0ipPOVpMEDP-ZDD8jTvsW0sgwE8gsesg85wqJmzwKDTwGKe8stTA-v9ju_oBJcuK0jyW3KGYQPFiHaH3w1AnReTZAB4LiPu4G45XwOkQR3wvOmyD9b_uxK6hZaCO6mhbFqlygfDVypSsB4bLHDAKSxWMZTkXstkH7UdYEWZpgaybANKxMhIsUMZEE0DpFtCGc1hQ0TwPVgIoLGPTgQIIJZnma3OgzdT33CIpHX8f2lF5V76huQV_xV0kVrm6e_maPnGFRpTKZJvGau9p4ACdZHz62ErIWGt6BpRdtdWA4clTb6sdYZGXpl4XLEaf8_gP7T2ica_IO-pod5jeUFG_P2qjdjbilyhLj_j5__XY7vhyyGQlyloXH8TBYkjiwwH9sbrOTF3SOko8lkFShMsoa0PP5GtNsOABmQm6y5dctcQ10RX843O9ue_TrKBSB0cAsB6L3ETtwbxigN88BkOeSAzFkt7uAfi6s8LTCmFNKJgIuak06yMHulBwMX0mnWO14G_N2U0dQE4hcZcW5U4NFFwP6zcZQT7mJmG5ODtm0YBiIOCgysX0P_fc7hJqqYAFw.%26ch%3DAQEAEAABABQz2V9bYuwXRL7HEp4EgrunSiuvprAAB5s.%26v%3D3%26pg%3DSLB76G4KQBASFJJHUL2PRJGOUQ
+.netflix.com	TRUE	/	FALSE	1806857368	OptanonAlertBoxClosed	2026-04-04T16:49:28.860Z
+.netflix.com	TRUE	/	FALSE	1806857369	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+13%3A49%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=804aa14c-6298-40ff-9a52-dff27f92f76c&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=BR%3BMS&isAnonUser=1&intType=3&prevHadToken=0&crTime=1775321369495
+.netflix.com	TRUE	/	TRUE	1806857362	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLEVMzuPgxZWCBmrO5T7Tv1WBrHhj2vP0.%26dt%3D1775321120079
+.netflix.com	TRUE	/	FALSE	1783097367	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783097367	netflix-sans-normal-3-loaded	true

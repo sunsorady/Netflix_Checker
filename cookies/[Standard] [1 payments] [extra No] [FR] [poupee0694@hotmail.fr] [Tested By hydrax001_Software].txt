@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ilyes
+#EMAIL          : poupee0694@hotmail.fr
+#PHONE          : +33670471893
+#EMAIL VERIFIED : Yes
+#CREATED        : octobre 2023
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : FREE_ILIAD
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 20:00:28
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1778274501	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1778274498	gsid	c7123ee3-208c-4ee5-9c2e-b9c9891f6009
+.netflix.com	TRUE	/	FALSE	1809724119	OptanonAlertBoxClosed	2026-05-07T21:08:39.216Z
+.netflix.com	TRUE	/	TRUE	1809724134	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA91wJnMBB0U4ED0Rmqs_PGueIfym3bRhYdykGY7d7WdvzWw-wJ8dQ8TIipuQ1DvdqB5i9JRHWmWdaSx98t504XctYUkeUX9J2d9u518bvCLaySP2m3K0s-XyiPkptXz9qoGamudNCdo5K1tDWgNB4OlUcpf1uMik6CBq781zmFwZFB6M0b8dUAqzCdHoWoxhiIw3Hd44XZKBWpRSBC2syiAi3qPoUB8AF-eTlYp3VZoSJFSeGXE3MDNFvm6tAyys2vYDykun6yHR7JRV3cHJx0SLQL1qicYC1abthMaM9CXQ3uAGA0gFaLjwtyIvODIw9vwTcqlT4djL-6UzH21RgXcDxNFel4WEggZOzOrgUlAUCux1gpvJovdac2djnPcwhBsyM8QwLVKbsFedqVHCRIRqiFYH3G_pK0KNLpPXvGfePrI7FghWuiHMYkbRLo_I7QSXwg2fzd92Scuw233z8JDU4LzNXzj1Xc8UVzMMOPlbbJbXZI8u71JxYTFTeQUndwICtFFdSWhn0klQAIe2uunenk8Aq7Nm3jcYBiIOCgzW7jMt1Ym0ntEVrEI.%26pg%3DH3FMAZ6NQVAALIU2WQVYDAG4YY%26ch%3DAQEAEAABABQZPL947L38y-7le6N5QF3ox7KV9KGlqq8.
+.netflix.com	TRUE	/	TRUE	1809724134	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTe82WmtQ2jQlUgvNZJMFwxuM9zMQzApo8.%26dt%3D1778188134387
+.netflix.com	TRUE	/	FALSE	1809724130	nfvdid	BQFmAAEBED3aRGZkPWDu8P1GhvRZ5sRgx_7lIok6p2EXaOYAOCCwrSWFMNLEy6YkkFa-lnubeuaRngzrgzZ0z94qL_P0sKW5Qsb2s1wxbn8QYwUifc4xJayBa-Zc86dQ-doEmW88XwoUVVfystptC0TaTnD2hTkY
+.netflix.com	TRUE	/	FALSE	1809756760	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+08%3A12%3A40+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=17760ef8-e144-4e0e-817b-434af9b49ed2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1778188120206&geolocation=FR%3BPAC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1785996757	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785996757	netflix-sans-normal-3-loaded	true

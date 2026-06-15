@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ojie
+#EMAIL          : elishaojie221@gmail.com
+#PHONE          : +2348108183944
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 3 năm 2026
+#COUNTRY        : NG
+#PLAN           : Cơ bản [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (5048)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:52:21
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809437134	nfvdid	BQFmAAEBEGbgi8JyEUckPurLMVc1F_VgvZn9rCU989edTONWABANP6Ircbxbs_cQE38O1ettvozkHPOeTgg3ZkqcAN1xuWO6y2lrMfXh6EPf5KhZwtgSveEE4N8yxMtydnuT4_uNky1xoUS7BQiBiyzDz6437wxk
+.netflix.com	TRUE	/	TRUE	1809700302	NetflixId	ct%3DBgjHlOvcAxKyAzx6RNm0J7Lau6VLj2dedbseJl9vdTDMpH5BLB1U3cHhhafyB_8Lw8Zq7Fy_G9z8QE1iNarl4bFfmYl6GJxhEBCXB3KUi915VoH3MoN2hykH8dJShtnJ77LWcoOUmSJc6TYSf8KSkrqFev5ILcl9abicYJb1tmCK1Zj-BmXqI8DglPeT7nn-DzLUXssPrTI40BuUmYFfrtrjZGlrPoq2y1Dbnrao4_GoCnMlE-DHfFdIf6KcOmpzJCPQBh9gzNHKwhKj17PcRmgTfK_PMD3mAVIqqxz6FaRiSsKytMgwmp-wccK8j81Y9dnkqE28PODLe_DDOCdKyVOI9xjifXEkgCO2EexzGrpCLU57yT_EFJSTPVrjASxFJxzKojHSYKUy_JaHI9OnJkzAd-ZhLFRFk8jsiXpn3cHlJ_O4Glc9Z6GvIg_NfzRMHoK9UTe8HF1sE5oUNxjXep-Vyyb2deqP5rxoWnqDqG0r_fy186WCeQ3kQYki8X8ix33na9AYShHYUqYsV-k5AWqKdQNKO54Kx-yAGCjSnUL5sxPg6B2fXKT6d-fLnFUtfRNdp9V3kv964-4gGAYiDgoMhAZfc72V7dLyhG9E%26ch%3DAQEAEAABABR-wBR2gCPXrRZ9nj9TQ7kd7qO7BImW4Iw.%26v%3D3%26pg%3DEXR3KNAV3ZE2LD6ROBBR7TA5JQ
+www.netflix.com	FALSE	/	FALSE	1778250706	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1809700308	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+07%3A31%3A48+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8606f938-9f15-4e9e-b06a-14fd289974bf&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777901134760
+.netflix.com	TRUE	/	TRUE	1809700302	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnXOaxKhrUslrcXjyei4PzIjyEqE3xzyE.%26dt%3D1778164302294
+.netflix.com	TRUE	/	TRUE	1778250702	gsid	0eec0c39-52c1-4390-9669-fd789258454a
+.netflix.com	TRUE	/	FALSE	1785940306	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785940306	netflix-sans-normal-3-loaded	true

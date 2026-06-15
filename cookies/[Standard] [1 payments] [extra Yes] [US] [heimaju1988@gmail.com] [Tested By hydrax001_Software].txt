@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : julian
+#EMAIL          : heimaju1988@gmail.com
+#PHONE          : +18155737616
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2023
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (3830)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 14 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:10:57
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1736743173000	flwssn	be152dbf-9599-48e0-8cfb-718c1661bb74
+.netflix.com	TRUE	/	FALSE	1800103927944	nfvdid	BQFmAAEBEEwWB6q2Y2fSxaxP70aEsXNgUwaCRlBcoyyZjS_7pRNAXZUXp6p0plPtn-bniSVPQ9H0SoCvyfHigOqb6QdDkkwsch9iLBN3rv5Jf0BmxA8s0QmISyULoK2ISp2k8cQzzXI_BDwix4Do56NRkfMij3za
+.netflix.com	TRUE	/	TRUE	1768654327944	gsid	cd71cb6c-65a2-4178-9130-3c3231920e68
+.netflix.com	TRUE	/	TRUE	1800103928322	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT26OqJu5ImYOTGm0QDrcES5sajMIK0x1w.%26dt%3D1768567927311
+.netflix.com	TRUE	/	TRUE	1800103928326	NetflixId	ct%3DBgjHlOvcAxLsA1m6dKttpCFEOzcyAyuSkr54-kMuuQtJv3wz-E_kcMR2Cvi4ISbWjYaaG0sXoflXlhIk1FUJ_SlLWIUmq6trSRga9sFnRHpMI9t_tc-PkbWggaq-iU0iweH2icaNhH45n7O2BLJA8ceEP8J-lzCFAD5TESm4YZdfV5os9KRKkOcyYGCm5fm8jqTce4JH2xwaJveAmA9c0HAsCsg6LDj4_Qp4elFZqimEe9rsjD2O_QiQ3hcdGEj83hikmVm4EfmJpYC-ceAZvEAUV5ZRMGGFJlMyPdGs59KWQcUTF-JQZIjuuPwlPH3JhscPv47Wl6o0Tm3lJdiPYL1q_RFQQ5bNtXR6UwStwp7SfgZAdYDwC9yOnqPqB9RYLgxtqoEhbyzM9iUjJF9TMkE5AOuPexhCI420CTt5bk9i9yQYV4mhDrm-sYwzD-cYq_1YYDSyDXAQt2FpTFBzowIIzdU0ejfpn3dpwMDWMVhysyS-aZRRAOsFGZrrNvBk9k1qwqGA9z6Ao-rUdrPHJ8NlbShV4vy9HQgCk7jYDsA6iMMKudtnghVk-24ruuOPcGmpbCXgENpWtoHO5gfo2Q8fFg7l6w-pjgXgJjorKUoN7jAx_v9wi1DzL_i5eJbuNESAydqYTN3f8v4FJ8GMw7bun_Tf6RgGIg4KDOzHk6dRHTNgkcOU6g..%26ch%3DAQEAEAABABSlH2Wpzvdxwl-rkNIXQn7M5jai0TaZtnE.%26v%3D3%26pg%3DTPIS2EL2PZA7ZP3MBBUNTW263E
+.netflix.com	TRUE	/	FALSE	1800103928000	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+16+2026+06%3A52%3A08+GMT-0600+(Central+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77b9afc8-9eaf-4bf6-9891-bc755b751e41&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1768569729707	profilesNewSession	0

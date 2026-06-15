@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Clement
+#EMAIL          : lou.lc@free.fr
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : septembre 2019
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (1184)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-18
+#DAYS LEFT      : 3 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:22:43
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1793821750	OptanonAlertBoxClosed	2025-11-04T19:49:10.111Z
+.netflix.com	TRUE	/	FALSE	1793821752	nfvdid	BQFmAAEBEGgzclLAJjYjIKLAmWLll4BgwAmNJBIlftDpQQCgQkJ5-nWCMP32Qzqjrc-l5WGxt0D-d4Zxo0SvuGPQeLDyl0q24pL_yx3h6CKQSXEuyiuVJRJ9T_rm33lnAqec79c-NRNopDnz0IRo-DaeCwFrW35d
+.netflix.com	TRUE	/	FALSE	1807727964	dsca	customer
+.netflix.com	TRUE	/	TRUE	1809727323	NetflixId	ct%3DBgjHlOvcAxLLA2c3GFwct1k0uJgzFTkXFyX2-uPYZco83myAL3E2B9nbysupcfFw3BAJdXQwYi8ztnKul_vAPpksGWco5S4UF0rtFItf5730Bd1PKwK_7CwAbHJpZuloQmyJ7lhbz3hNn_v3E9ALo_TOvNHlHmGzm1ePAOkh9VLS1bmrb_ZDxbMr8Xc4iyfjMDiB2KWP4V5lSXeYCiba_EGvAqy6K5h9TyuRQiXKLa6A_2Qkgd9muQPvuYV9Z_LrtHIU4thksg2Z35jpZlmi0LyHVGxOHfE0dAyqwZkZoYIYUpVYkQLmk5xOEGLZ_StyYwxnKz8j4StJXDIV0KSbRJjMUEALJnx6QTD-9Ndc76Z0lZFjbcFnrZBHuKKbjjdvNU0Jn1wAEU8BVDcqka4ixPaG3b6PmTAzwW53M-3KxVDhBfz5Y0iQZ6PMEK-GNDjhzlvaFRl1fh650MwesOzuVQVqQJsVZEjSQrvKcoCuIfpEuIXZoe5j8B3d80g7FTc1RBRPlBF-0CxQuW7Cj51i0C_2QmxB2878qfQh8XVFEX6VQ5PeM-rUSO7L32--oLNbXGWyAR9WGyXSWkrRX2LVJ5JVidZ1nocZJQOBKf1Eg9NkGsZsfxgGIg4KDF4d3uKqy0J49DBwvw..%26ch%3DAQEAEAABABQImugN3nPx-UICXCM8H0DsBX4rB3MynEQ.%26v%3D3%26pg%3DBTWL37F2YBAWNI2CDBLMUETK54
+www.netflix.com	FALSE	/	FALSE	1778277724	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1809727324	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+00%3A02%3A04+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f28f855f-ad67-466d-9ce9-792837c6b404&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BBRE&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809727323	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_GUMjSLk8S8UpLiBh6qMtqOQtVqFFgnU.%26dt%3D1778191316651
+.netflix.com	TRUE	/	TRUE	1778277722	gsid	c3518f50-632a-4f44-b23b-9619780da663
+.netflix.com	TRUE	/	FALSE	1778193126	profilesNewSession	0

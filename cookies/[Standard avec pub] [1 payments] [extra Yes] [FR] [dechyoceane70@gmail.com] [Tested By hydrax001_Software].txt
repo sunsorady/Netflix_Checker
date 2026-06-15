@@ -1,0 +1,35 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Oceane
+#EMAIL          : dechyoceane70@gmail.com
+#PHONE          : +33781731708
+#EMAIL VERIFIED : Yes
+#CREATED        : août 2024
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub [HD] [Streams: 2]
+#PAYMENT METHOD : DCB
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:59:22
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1780438899	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811960036	flwssn	5dabc260-e2b5-465b-8fb6-7ddbc8bda313
+.netflix.com	TRUE	/	TRUE	1780438898	gsid	9b87a15f-2102-42ba-9744-862100a7938e
+.netflix.com	TRUE	/	FALSE	1811888503	OptanonAlertBoxClosed	2026-06-01T22:21:43.245Z
+.netflix.com	TRUE	/	TRUE	1811888545	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA41TyYUAsrO_vA5Ca7inJsTiZ2QBxm5BuIsNGwzLEtGYpViU2OOCh1voSBRTStcjy5lmI27D2hMrUrthZ3VZ-f4IAEV8sh8VqYXq8tbI_KXCPVikLqpDJSJkzuqaGKrTk-qQvhp09AV3yB77PWRRupx67jgIXKdrPL7bzWLZ508QxhR4NlX2nl788fmvtv1medpzuR_wwYo2TI5cj-b3pVWnJAPZJq5jkIc4Q5ZaTdJQnwXuPLe6em7sqMcUUf1mpX9O4kU-3bDD4APgK5-NSHud8NPpqRAd50mAtZfQQAxbVOsedTZ3n7mYDif3-OzxsK4JS8aXYV9uvJ6eUjK-N7yMXReoK1G9FCWG1sJSVC5YybWh9VRaUjlLa0xmEn5fQ4IJ-XyF-8FFGa57pZD8FNyqw92ahYVIZbT5RsCXTwMthg_SlcCoqttdD3KP5LHt11K7kYHRwTnV9prP1TpAZvmSZFYbzZoMkgwBVkbTE-yptCBW3jSajEL2tJhfpsBUu0lVO1qhPkdBJkRnGSjAtLTTXOq8PAPofN_ZMPi728CvVptdGAYiDgoMJwoGqTMLb3TkWvzD%26pg%3DQ2KITWTBVJCMTBUMDK5K64TS6M%26ch%3DAQEAEAABABRXQnGDnpq-8VjemOWvZ168VkHHVrMdVek.
+.netflix.com	TRUE	/	TRUE	1811888545	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRchBLEjXQsQcgra-5Qr7OP1Y88oAhDUL8.%26dt%3D1780352545273
+.netflix.com	TRUE	/	TRUE	1814912545	nap	BgjduevcAxJJJffS-yN60eIxxmGeJwQ5qt8SPv0sL2V-lo9oSpmJT7cNf2yoQaTXryspbhXcADy-JovCe54iZupXuEbS-taqQpkXliG7Q2ULtBgGIg4KDKIk2rLh2VKSi31Uew..
+.netflix.com	TRUE	/	FALSE	1811888545	nfvdid	BQFmAAEBEL5ya5gJC41BqFHH3AG-7JJg9ez8S-tZZT44t1bbbS9SjO3jnd0IOQwEts3PoQYA3nUTI5E1YgbbEEhGqr4rdub4aSx97bH3EpcseFdi9mka4KkhjQzZvilW7Lpytws0C2PRWmL-E8JcWDgSqFw5i2D9
+.netflix.com	TRUE	/	FALSE	1811889232	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+00%3A33%3A52+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=db3e8924-3fc2-48d4-acd5-435e89af2547&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780352503575&AwaitingReconsent=false&fclco=&intType=1&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	FALSE	1788129232	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788129232	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788129232	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1811960036	profilesNewSession	0

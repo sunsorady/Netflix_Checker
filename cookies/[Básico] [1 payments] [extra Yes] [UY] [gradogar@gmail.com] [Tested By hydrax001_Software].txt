@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : sofi
+#EMAIL          : gradogar@gmail.com
+#PHONE          : +59899215865
+#EMAIL VERIFIED : Yes
+#CREATED        : febrero de 2019
+#COUNTRY        : UY
+#PLAN           : Básico [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (6027)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 13 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:15:04
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1781037680	nfvdid	BQFmAAEBELdsYCfzlzEPCLaPQcQlRdhga7AnhkoV-xygawYnl5vDgy3hm-rkuQ1HdxPpN45fUyex9L1llEZvlY1eCIsrcVzx5dB6BDGrtIELwjw63rsZxGHrqWmfh7OqtLtWi6qjQDEf6HCQYa8LXcjzy2to5Gdx
+.netflix.com	TRUE	/	TRUE	1809635451	NetflixId	ct%3DBgjHlOvcAxKABJeDuF4PdNBnrND5Y7aGXz714D0I6k2v6gaYlAdllMH3cYrPfo846X227ikUJtvL0b0wXhii5ffK1xwfstNOimi1tAn9VMEzrwPk-T8dU1ZofCU1MjfRUd2hKivCRuTMVBFirXk-y7pKRNzluIhaHIUzmwUqKOfVCch_8xMt9MgamHT9XYY6iqDdeZNU9KpJr21pmzpHEBcn94zjBdItKP5bk8oSAGBi0GIkYld6gsIc1cz4iXH4UYfKy-q0hTCHKu5__6RkqOQGIOIJCZXgH25p3GbNF6vSUQQ4jbd49xGy3iIjlVs_GMKPWo8kCh5tMCEeuJGuDbWaydVZ9ey6A06r6pMtqaHKGpM5jvcj1o5lkM9MCuj2g3hVwnFgnJgEoFKXLWgvnpHdcDMaxjRZJqkWqMYaS48E3-oyKfNbc6c9e3hZgNTSGP0WBB3ruONvx3nmEJrfz_Ph9D5XK8FYkw6HGHlpRqD4BICUrYpW5hdE8IrP_wWrLzJl8lV51O3jD_HQ0Tu9rrQ6smtCwONsi1JrHCRXPTJlgmYAlYO_47Nkff635hFsQT7O24POHAaLjdynLubqsIVLNf_bIn2gblxt8grPSYgWsn6ZXwbfyrSstspdOVehSUc_mhJau4kg3wU2j5Wq1iXGo8PH5h3_ClHU794dGrjIlWo9HRtGIiODGAYiDgoMfwd-VbaPSeyfiuTd%26ch%3DAQEAEAABABQkhcpNVvnynqdg10Rx-XfsNVcs_p8fg8M.%26v%3D3%26pg%3DNBPU2FLFPJBMBDZSMITVXDMYNM
+www.netflix.com	FALSE	/	FALSE	1778185852	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1809635452	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+17%3A30%3A52+GMT-0300+(Uruguay+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42b43fbf-8b01-4c69-be44-fa3b245f52a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809635451	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4AF2E1MN0fb1kql1xJ2ziTaTo7-f08xc.%26dt%3D1778099451075
+.netflix.com	TRUE	/	TRUE	1778185851	gsid	fe02a3fe-2095-476a-a847-8bfd5e10389d
+.netflix.com	TRUE	/	FALSE	1785875451	netflix-sans-normal-3-loaded	true
+www.netflix.com	FALSE	/	FALSE	1779309055	perf_dv6Tr4b	1
+.netflix.com	TRUE	/	FALSE	1778101336	profilesNewSession	0

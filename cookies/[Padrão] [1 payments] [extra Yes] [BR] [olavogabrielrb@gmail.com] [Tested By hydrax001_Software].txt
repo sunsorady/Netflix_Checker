@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Arthurzinho
+#EMAIL          : olavogabrielrb@gmail.com
+#PHONE          : +5593991473530
+#EMAIL VERIFIED : Yes
+#CREATED        : junho de 2016
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão [HD] [Streams: 2]
+#PAYMENT METHOD : CC (0103)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-26
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:14:05
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1777150891	OptanonAlertBoxClosed	2025-04-25T21:01:31.764Z
+.netflix.com	TRUE	/	FALSE	1777150953	nfvdid	BQFmAAEBEJLziytyzGt6q7nYQKyaWmNgOaR4KtapqrAKn6oo8lUtKawJv5s-JIiwBhPocFCAxX7N5KX2zb-xt58i_VWS9A_o064VMDCmde7pnRMcvr0g-LR6jGKtmDMPjJClkXIpVBsI1UWWQ_Eh_1H13X0Vj91T
+.netflix.com	TRUE	/	TRUE	1785724823	NetflixId	ct%3DBgjHlOvcAxLEAxYKoj8Ban_vqRVIwAglfNmtn10bzTBEfM-NryIMfIZ14pL5ECvu5d0sK1PHrqdC2aQAAzWEpJ9qiIb3hHO99l4hU32Gr86P2grXiXbH9SKe-0mofWDdS8p2jlw7bYKug8dltX3r2_i4ja1cLZwA3o-IIkgNMX_OZGrapAP-vV_cEQLOvPK__4BsFHMu4JNkWnEuyE2Jxo5sN9kZR6DuI107uZdhUgNPkXPrh7xDCUvxlGnPp2MDTuDkjUTxbw3khe0Jb6NSrH-PJoqXXVAEjM8kXjwOP3O9kH0Dy_zER1bdXM4AbMpCJAKeVU1shS6qdpVlCbFfespN4Bhn8BABwPfYVnSVbtbYRmwX0JMWluBYFpfs55kQ-4-9NQFup4xHmY5cPrZ9qXyo8tcbdXTythzO7JkFo1CqeK0mnbILKawJmhuIrZwcHvlNRIRVYe4v3zX-nha41xDFVLk6CokzQdhjdEFJD1quiQvqfd_fWqo8iInWuiln9lUd34W4HyVlK6f0jnqNvNqRwT7bwUJZoT1th8SHyE1zlFIqidzLa08TEXNHWG7uWfsz-wjOOtRr3roNHEUqpLHEcJOJZ9aqUIYAeifYGAYiDgoM3EQzUz2cdZzjKvgV%26ch%3DAQEAEAABABR-DenGgf46rmxvMEOesi3FzmBNNUxOzpA.%26v%3D3%26pg%3DE2WM4QJ3J5DMFGC4MYCCSSYJJI
+.netflix.com	TRUE	/	FALSE	1785724822	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+02+2025+23%3A40%3A22+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a0723b35-8584-4d5f-9e16-1a85c73a1679&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1785724823	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOznUmgHw6ObV78YGtn61RLm2x_16-cN4.%26dt%3D1754188824984

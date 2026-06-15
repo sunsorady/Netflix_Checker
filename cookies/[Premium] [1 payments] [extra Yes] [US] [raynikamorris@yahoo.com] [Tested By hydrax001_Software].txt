@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Vonny
+#EMAIL          : raynikamorris@yahoo.com
+#PHONE          : +15043434359
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2020
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (2417)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 19:10:42
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1782689310000	nfvdid	BQFmAAEBEJXTWr6eaeAB3S2VFJBKurBgE5ECpMUVmJiIezYmP2JatL0f3sv_cCx8C6JA_o3Vp8Y-r7kB5tNnREDcS-asRMX-QJnIOMcSazRq9nS3U4zEJFU8YOopaSqDi-pdw83STFHuEXCiqycWMkkSSNO9kVcP
+.netflix.com	TRUE	/	TRUE	1776837290547	gsid	e1d0e70f-72cf-4247-8d44-01ce5795ada1
+.netflix.com	TRUE	/	FALSE	1784526890542	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784526890547	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1808286890547	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTuBMlhRAeamMJmL9d7nEaNK6ZiyP7bRpc.%26dt%3D1776750888473
+.netflix.com	TRUE	/	TRUE	1808286890547	NetflixId	ct%3DBgjHlOvcAxKGBJmyNefvs3g3_NyENTeXvVX3uG8SxGdgT52q6rtFTgwG2Cby6fJ7ChfdCgyLbZT5an2Nko4-Hcxc-p80y0UdyEMcjfyHVAZf8DJFAbxrqqfwx1f4t1T7wrT_Th_7yiB5pUIhEp79nF_9lUwn-0c_Try452jenb26MF2WkjIwYkeWymX5HfIbyaDqAKuztp2r8BCVvLWID9bcFURJvTuhnwDXtTE5r0KI1T09yMJ2uDAwmGCB6WrQ7JxcinS0PfmxmENxowQu4vFmYzbL-9T-D8iPo-iUy256p9rbiDOPcJSXjyJDTrajBhzeq2LQmn4ND45CDwxr4FoACKQCHQV2W-xp3NZuHb5Cb21bLZEHwIKzCmlZd3RSOkji5vHsKn2VGAJ_lR0DhZcBI9vmNQi06Gf1KWiHrxWwmW5YD-oKdZ5Z4LYjGrfQ746OfmRNucg1rIHqia1CgeEtTSiVzVzHfQxi-hhuIcspcd4LuzgPTaEMVBRfXdo0hDImNC3inTY7pBYZSbX3tcZlS6idrwSddUARZEcxdBvZxMZPbttb0AAYsRahRla0K_aofOo6EG1CzG015Reyqf3ZypzuRt7S88VC29F6chsU3n9lsUBAvs23EwxQ5STZpfBBReBzDooNcJdWxuPzphuk70818XOen93MUcoS9gLndKDjdnW7yYrEn7jjPdiOGAYiDgoM4pP8x5Fg20zG0WtR%26ch%3DAQEAEAABABRPBEgwyVl9lzM6EJaQwXwzpvDyzhhBMPM.%26v%3D3%26pg%3DDVDTL7WIR5HIPFQBKQPOPHK5TA
+.netflix.com	TRUE	/	FALSE	1808286891000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+00%3A54%3A51+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6c30917e-bf22-41f9-89c6-209526d3e44b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+www.netflix.com	FALSE	/	FALSE	1776837291000	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1776752691924	profilesNewSession	0

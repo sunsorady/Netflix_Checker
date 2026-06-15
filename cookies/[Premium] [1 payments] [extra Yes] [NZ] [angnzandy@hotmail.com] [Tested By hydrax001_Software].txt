@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jake
+#EMAIL          : angnzandy@hotmail.com
+#PHONE          : +64211800480
+#EMAIL VERIFIED : Yes
+#CREATED        : mars 2016
+#COUNTRY        : New Zealand 🇳🇿
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (6893)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:12:58
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808662538	nfvdid	BQFmAAEBEMI8WuuhkhbRa-RU3CQ7N_pgbWK3u6qx52mly726RvNKjQAYdrr0i-6Q0vV3IcUXKflQp8n73_OkA-iJY8hfwqcgLe8rnzf1aYeB_B0qr4Iry86Mjq44M-uuq4i-GW9Zt9PHVtd3LOHu-RUBNZCFMEHA
+.netflix.com	TRUE	/	TRUE	1811393106	NetflixId	ct%3DBgjHlOvcAxKNBBXtfLEBtUfnSnHHkVVwhsKP-CCvx9AbneWPk1hqWdlr-ayOSRIfLdG3RKQK59itvGh5rtsAbvwxLFBkK5FsNyd5bzZy_gZX8MXsbNES3f2rqRk0fqXVFbrXSkBX9f2w1U2ocbBNNVCdMkM_cDp6Gu86V-NO7sxD8psiGsURBV8_n0866OXsGhkpCjOL9Hr2lHlUJzu9CO6tBK_ecrrrMyB5OknKjeCF6uxjiLHa71xuIHUhiT4KrKGrtSkWKYu4XwTsZu9tR73yQTEvzlh6QSKtjc9mFdCC4zQXWYTjR0zwJlUwvICTbXIHhhPMpxaPVs0zci5FrMPYrshRilIQ0zjmTL3PEzl2BEQc98gNPc0w9vFsbn1pvgDORT6xWi5LIFW9eNunT1v1FYfRlGWlofP8q8J0R195BzgNNpW2TsGQLYMj6Cyf3NeYaWWr2L1b8N1CWEaLMc66G-NT50sRFg64BWM0txNxRgATHj3MZfOWuxOc_TXP1PRxwbRfR-6XhLZuhlEvQZWkGxYQZmwoznHKUdLkNCmXcUomBUussYbx2AWyUXp477uXxox55TjmdNfUlMQrlLbv9AO-kDPfkKwCFtr0BVCKfIK04qYbEbx8w-72hzAnp6sTAZeI8bD3agZcnpK3t3XxVnudUfuq4g6coQ3Th26qGm5GbPEXMFoCrTpaXJwZLqphu75ZKxgGIg4KDHi7pRIZ246cKG4kPQ..%26ch%3DAQEAEAABABTbTFy1yKWZQTCBrkRz8etJ3UP4eS1RVEs.%26v%3D3%26pg%3D5DQUJUAENVHQXDZPRNSHNZX7OY
+.netflix.com	TRUE	/	TRUE	1811393106	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXaRALSUGoX8_pb3y_NVeJLfIC0EN1hs8.%26dt%3D1779857105842
+.netflix.com	TRUE	/	FALSE	1811421048	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+00%3A30%3A48+GMT%2B1200+(New+Zealand+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12157ea0-afb0-4826-8448-bcca841e4abf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783056511	gsid	408817da-4dc3-4276-a092-4f2559fa601e

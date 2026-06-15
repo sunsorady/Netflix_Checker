@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Venice
+#EMAIL          : waynepablo0829@gmail.com
+#PHONE          : +639266472618
+#EMAIL VERIFIED : Yes
+#CREATED        : October 2024
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-15
+#DAYS LEFT      : 0 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:57:29
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795241659	nfvdid	BQFmAAEBEB45uTliXUHS6Tdsw6SEQBFgRNcUbaYGLYAulfcWpI-Nh-BZoSVqXBWTyWKGrNwv1E73EdyzwMWjDU5Ov1Ss8nTOmlYhWYd_0kaBYpV1RGMK_MxFdKLe7ApNRDnftBrwK9-G5iGsQeMqjGjdRv5gLgLQ
+.netflix.com	TRUE	/	TRUE	1809954781	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA4vVDxXUjc7GfDbWG14fkRCuW_NjAB7QPgliuDDn_VWYqKYOhz8qo79WTaPdDkszefRU3n2tkBlcItbF4-vQq61pyxYeN9ibUAanPVZwJ5YJF2cDXGK7tEK35Yyv9QZk1gghh0AtXYA0txlbqJhsiK3S8VbWwLPfYF5IEPqfgjROlJLCaaqfAd_JBzL49FdIOxQJvyIN3_oQk_82zhoPqtZy4a2sEaMWcSChldpkQwvpcBMPFWGy_hP-7DAPDLnFKf182TH8eRnqEl5KNeU2hpKUdhpeRkE2clSm4I2u4Cvqtv-tOefIaFZNbB_JppAAKQjz5uvezvQMGGBhXQ3Nln1KiD7DtAVHnURXIDN-aMa0Ljj7DX6SJJJdhEZ4PN0XnvtGIy1SXsC3wnlHhrf3y9cBG_dfw5c8Xj8McDPQURWC4Br36_SD3wHwJStFKRUG03KsXPqvD1lKn_FWvRc8qy-vJVlmpbQcJ93OhrM_-3kWXXrnDDYh6Ltch6XVGi8CizePN3lX53YFd-KWDPHLQPDx-L8pY01GPVlbGAYiDgoM0FLGT5HYlNE9o4DF%26pg%3DRHAFYSOWWRAKJL3K4B6R5ZNDUE%26ch%3DAQEAEAABABSuf_fpb2EUqI-U9koOSFEfTvz7sy_J_-8.
+.netflix.com	TRUE	/	FALSE	1809954783	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+06%3A13%3A03+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=153037bd-e3ad-4a87-8818-fa8e05273f85&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809954781	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtJ2kFMYDOhVMS01GSt2U9ngxzHyLtUjk.%26dt%3D1778418781604
+.netflix.com	TRUE	/	FALSE	1786194782	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786194782	netflix-sans-normal-3-loaded	true

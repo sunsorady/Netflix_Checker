@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Simon
+#EMAIL          : nibinkjosesimon1993@gmail.com
+#PHONE          : +916238807082
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:35:05
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1796135361	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA9ZV1HErQZyVnlLc8V-x-ZL25EZA4nAHWp124z6m8SGYUIQ1Alm0o69GpB6_ZPG-KNSxrqPab-qhLlGGRDhwK1X42gzMnOb8ew5sPE1ycvfgIYii5atHUgvkV8sxmGEEhi_HK2SLTO7ORQu84ZVZu_1P2Ddnv7lAH0XD5prq8GX0mmZhymZIaoqTub0IFazDKadrfOA_E0gYqcczet1uGyBHnf9JdZC67o9BxlTe41yjirdnu2EIo1zsp3ISyEM9OCENxoOr36ITRYRYpLX61IiUzO75rRB2KVxA_yNSyyP0ZKwyGATQvvqm3QzOz589K9aChvSpGaVaVXrAAo4TLTlRaNwyAKw8v68gIHRoQKlRzCVtetulkDk1tymnOofmbqkmTkUtzLcvd8REr5LiMrb5J-9STZ7hthalPSdANdj-nx7seNTF69Qwz4ato0UFNVlP5s62ZE3koHaVUDjhC01JSoNsXM4rXfevkXwFVYymWiL2W71qexf39-lSsuhCFK214KJ7kmVIdqJsfrS27hXxalIY5RgGIg4KDCSaq3UMStr6ebFgyw..%26pg%3DA4PU5UVFMNFHZHA6ZE4KFXX4XI%26ch%3DAQEAEAABABRNvY22FhRYLBOTl12DkIZdmR4KzvWfZlc.
+.netflix.com	TRUE	/	FALSE	1796135364	OptanonAlertBoxClosed	2025-12-01T14:29:24.487Z
+.netflix.com	TRUE	/	FALSE	1796135364	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+14%3A29%3A24+GMT%2B0000+(Greenwich+Mean+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fc6e17eb-79db-4351-8b1f-8c60cc2e9961&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2
+.netflix.com	TRUE	/	TRUE	1796135361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQkhle4qmrRVdAhNTpDJNJbqxaiJNX61HA.%26dt%3D1764599363995
+.netflix.com	TRUE	/	FALSE	1799159361	dsca	customer
+.netflix.com	TRUE	/	FALSE	1764610161	flwssn	81c4f3a1-cab3-43d5-8af7-280194d086b6
+.netflix.com	TRUE	/	TRUE	1764685761	gsid	d927065c-1be0-4d41-adb9-f433598cf413
+.netflix.com	TRUE	/	FALSE	1796135361	nfvdid	BQFmAAEBEAly67bFfFlAOIy6rUt-UGFgExKWghBR0APdXVxQQEDL7EzAzDt-ipDGeB-a3cDNurBT1m2amqk8imZTW3sYlDqhYewSZghV089TBjpwbntVSq9tYf3TVPow4af7eH2CQQD6a6qF_xsW_bqLPXyj0AWm

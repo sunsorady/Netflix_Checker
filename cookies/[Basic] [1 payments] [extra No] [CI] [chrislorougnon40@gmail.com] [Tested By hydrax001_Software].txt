@@ -1,30 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: MAIMOUNA
-– Email: chrislorougnon40@gmail.com
-– Country: CI
-– Plan: Basic
-– Member Since: May 2026
-– Next Billing: N/A
-– Payment: CANAL_SUB_SAHAR_BILLED
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: chrislorougnon40
-– User GUID: HZMSGWF4NFGWLN6FSHWF53VD2M
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : MAIMOUNA
+#EMAIL          : chrislorougnon40@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2026
+#COUNTRY        : CI
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : CANAL_SUB_SAHAR_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 18:44:27
+#==================================================
 
-.netflix.com	TRUE	/	TRUE	1811543816	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA41B7xT5BAcXlTB9HOgwBDNFct2NZcd3DGoVSMVTipzLuLx1c16-awpRdprFqHtcj3x8trF9JoEZy0cXlBjGznzNZMeZ3wl31wzSlbyUyPb0JyLfo_e79h2mDYnHmSFRSISXxH__x6e0XNZ-A0lBSbK7KSMpUHtfqOT-R8DWY6OdS-7ats2PSFDsK9ZDT6YTUnuO0vhZxLAfDQJ-AW15e1bOO5it7HfPa5psrN6uqGRfAP74BqworO4bJWitcecjuMFSWUZpQF7ZXMGRSwcPwBHl3HcTO77D1wc7ZnM-9WSPd5D7K98SZkS2khZfnR7elctyvUvXFvmrgOF5V7wexsvkoBFqaAXxT8fLJiIjkpxzeeqUakiNm5lMgPfmJcUvATF5HIXUhrbMh6hFHUg3BW9dd3QYufCT1GbBawDhW7sPLlRmWaLcheOfzxiOVD0mj6yKVO3FLmsZgCCN2DcYc64E070-NbwSpC9BG5XrS9u2fi3ks8ahec92SOHOiMAVPwI1Pya14hsgJV7B4s_-EPW7MkUzu1c_GAYiDgoM-16DvB0JS3UxKpwE%26pg%3DHZMSGWF4NFGWLN6FSHWF53VD2M%26ch%3DAQEAEAABABRyueuNKqouTfqL0HI75YGWJ4gjrDxR-yo.
+secured.netflix.com	FALSE	/	TRUE	1808518594	thx_guid	0403bb3a80147730a29d86e7ff01be8a
+secured.netflix.com	FALSE	/	TRUE	1808701831	tmx_guid	AAzjgkJiguvV7qBiFkmifofmLElcXc8tigWIJ_ahP3oVwa1RhgebGgrPc4Ft6uk3S0rDEZ4lLF0karP6vf9uaWSReeYW6Q
 .netflix.com	TRUE	/	FALSE	1811543786	nfvdid	BQFmAAEBEBz4ojqYPN76uM11wIei_ghgEKi0Eq4_tgy41JzJC3g0vZURLuOQJYDODErDwvRx1w7Fulo-bHbO1CIMAehp9FW7TWNIL_VUb2whmu4qn6zy3C5adgOMaaYzQraoH2AzHWvtccoVHiOdbZwAUKiaZ7hU
-.netflix.com	TRUE	/	FALSE	1811543834	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+00%3A37%3A14+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff7b0935-dd36-4548-ba95-86c4046bb4f5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773958430576&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811543816	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA41B7xT5BAcXlTB9HOgwBDNFct2NZcd3DGoVSMVTipzLuLx1c16-awpRdprFqHtcj3x8trF9JoEZy0cXlBjGznzNZMeZ3wl31wzSlbyUyPb0JyLfo_e79h2mDYnHmSFRSISXxH__x6e0XNZ-A0lBSbK7KSMpUHtfqOT-R8DWY6OdS-7ats2PSFDsK9ZDT6YTUnuO0vhZxLAfDQJ-AW15e1bOO5it7HfPa5psrN6uqGRfAP74BqworO4bJWitcecjuMFSWUZpQF7ZXMGRSwcPwBHl3HcTO77D1wc7ZnM-9WSPd5D7K98SZkS2khZfnR7elctyvUvXFvmrgOF5V7wexsvkoBFqaAXxT8fLJiIjkpxzeeqUakiNm5lMgPfmJcUvATF5HIXUhrbMh6hFHUg3BW9dd3QYufCT1GbBawDhW7sPLlRmWaLcheOfzxiOVD0mj6yKVO3FLmsZgCCN2DcYc64E070-NbwSpC9BG5XrS9u2fi3ks8ahec92SOHOiMAVPwI1Pya14hsgJV7B4s_-EPW7MkUzu1c_GAYiDgoM-16DvB0JS3UxKpwE%26pg%3DHZMSGWF4NFGWLN6FSHWF53VD2M%26ch%3DAQEAEAABABRyueuNKqouTfqL0HI75YGWJ4gjrDxR-yo.
 .netflix.com	TRUE	/	TRUE	1811543816	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTUD5Y4fqXQafZPmvZSFNRttNZnhA7E_H8.%26dt%3D1780007812465
+.netflix.com	TRUE	/	FALSE	1811543834	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+00%3A37%3A14+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff7b0935-dd36-4548-ba95-86c4046bb4f5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773958430576&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1787783834	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787783834	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jacob
+#EMAIL          : jacob.bonner03@gmail.com
+#PHONE          : +13044910412
+#EMAIL VERIFIED : Yes
+#CREATED        : July 2021
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (9502)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-04
+#DAYS LEFT      : 19 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:24:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1797131447	nfvdid	BQFmAAEBEG2si5NleJbi1Z4NbpArxjNgoqwgdhqgkguaGiHa3_sI3wYjRZtNGmZfrn-rsYLcZh1IhdYi5mbHJlskhtwIoVSJI3NZMN01w8Ho0VvZ-eMnzcnB4OGZVBsSgqgpFcdCBgbKGzyCKm8zx8QUCh1tQopF
+.netflix.com	TRUE	/	FALSE	1804544445	OptanonConsent	isIABGlobal=false&datestamp=Sun+Mar+08+2026+18%3A20%3A45+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&consentId=c33dcaa0-0071-4b39-953a-7860455531ae&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1809824097	NetflixId	ct%3DBgjHlOvcAxKBBEphWn4ojJAZ40cP5wxa_TCtKaF4gtnnW7GU1IUDZBrMRKbmjFkez1Y3X2DW3mW0LZaSrJAtCM6bjOPQ2OSevllFeWjaloc5MKwNy-kVEn8WEKRmzozFZSZiehNd6abvR27ANC_xCDXJ_DBTaZsURysYxOSk-avag0KxwFc60dy07bEsLq95o0rOsFJWqVrIqBNtbkJynsHV91m81Id9mKl56ZusD0gtwi5IiSdzpsHNgQBwE7xrlrJ3f0phQCxR0ftOlOvAM6l0-wIaiQMmqQFMgi7QBD-99vFU3SnOoSiw_tNiNYAPPuvO7WpIbNnnEgeJdAzxea7DTOzMwen12dNkiOQ5zpBBxv-VJFxj0_G_9WWJYIPe_VHu_McyOnEiOQArmzRN3i5w8xxzc8-AiJ9B141mKBgwAYARZJ0l67BjlQpZ6icRr7XR4vGMwTd5NnX4sApTXCTwUNSBxwnmA0eKXtw91Zr3FHlBy5ybwxwXYpqTitZ6paSUs_ODXiVjVVZAPftY_pZO565CmPyn0UD9NfdLM0jHZpwYjihN9qJdYvLSSZ0QUX3QAXGrbuBYZo-836YOg9tyHx9l2M7QFiPJEzJQc30o7DGkUWBwPNTKRnm71A0ln_iSChHct4Lt7XLSaYNL7iS5HIJfBh-_3WHMofSj0iUarkMsIMNAtE-IoRgGIg4KDMTJQxUiHVZxsv814g..%26ch%3DAQEAEAABABSte_bmvNC3yFEGTOob2iQh9W1926KMceM.%26v%3D3%26pg%3D4LQD4XOEAVAQPPLJ45PH753NCQ
+.netflix.com	TRUE	/	TRUE	1809824097	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQCKpkUcigkPUwAZJKjEiESFMB85igvE6E.%26dt%3D1778288100828
+.netflix.com	TRUE	/	TRUE	1778374497	gsid	55bc0286-2e25-4e4a-ac85-8f7740178ebc
+.netflix.com	TRUE	/	FALSE	1786064097	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786064097	netflix-sans-normal-3-loaded	true

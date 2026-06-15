@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Sebi
+#EMAIL          : melania_vr@yahoo.com
+#PHONE          : +40724030526
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2017
+#COUNTRY        : Romania 🇷🇴
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9710)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-14 17:03:04
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1783356143	dsca	true
+.netflix.com	TRUE	/	FALSE	1783356142	nfvdid	BQFmAAEBECBwlv1mQotJbIdcxlkbrm1gHtnVk7EBXKrY0IlMt2Nq6aaIgzKLxdPIWTgRVH-LtEXVw9SIwwA7gtRj6l_xZ3rz1ANqoykX_GNdo37AX3zNLAWHcPkEK2QwpYD9IfMTs92CI2Rft7hp7bhuoKfbn96l
+.netflix.com	TRUE	/	TRUE	1790511954	NetflixId	ct%3DBgjHlOvcAxLOAxRM1UU5jGe6bCx98ftejOSK9I8CRP5DswJmxkVZMrGwb3n-fy70CSUreGVZdO_liYDOmlM17pm9BA2wdMteX32s4ncA8CIUF3cJnjIcoVEwtiBq57r2Yyun3026mWWkNFCXEYBrv74Vir1-RaV9mAuO36CJ8isCUph6MJgOFW1718FfjsvmVAhAEt-rV7eJooMS2jTuSqwj3IBkJ9FX_xZPIfFia5p2yjzH0n4UGjMuGYMBlABkg115S9iQAxUfUw5xUd3b8WaHHmXt0CtqAAkDWHiPbWIoXBKdEqTENYkAFEZyp-vwsOTam8UvpPKnOHCl5lKgOG1bI4S4LU0pNC62RShlOtuQP5BvYem7lP10lJlzwZaLPSlU8nNtIKtrvxtwuXCBw3TZrSSx_D1qVyk5FJmjwPXj0a6W7qYUb4HGTmcptJKSYjyRbwneZV4U0v4ofa5ckvykD7CJa9X-Ap9ziQxv4JZ7yioBaeFxOHG3BWWqGjQeA3ZQ-JYSgl3IeJ63JqyGauflrktePG9ONJIVk-_zgg3pdY6It9GRyyegORoU0ksbt9fV8sMFsObO0fEMOuM-LiSFfNeNgC7g-cC9eA1slrC16MLdiziNZBgGIg4KDNN6FDlzvoAv2yi8Hg..%26ch%3DAQEAEAABABTya1A_2mGECLwimTFeXD0Okw5nh0uCfJ4.%26v%3D3%26pg%3DMT2KTJ4WFFD3TK52N5M7UHHALM
+.netflix.com	TRUE	/	TRUE	1790511954	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_z9v7q3vC2niizTEzUacycPJTCT1P5nc.%26dt%3D1774959956860
+.netflix.com	TRUE	/	TRUE	1775075530	gsid	cc83e668-c313-4d31-8180-a54306e0c2a9
+.netflix.com	TRUE	/	FALSE	1782765130	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782765130	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1774991001	profilesNewSession	0
