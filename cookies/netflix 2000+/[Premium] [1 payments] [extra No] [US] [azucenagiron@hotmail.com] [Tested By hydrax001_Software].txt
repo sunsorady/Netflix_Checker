@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Macio
+– Email: azucenagiron@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: December 2012
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 5003
+– Phone: +15056100539
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mom
+– User GUID: BOOG4EKMD5E2DIAPLRGP2AFFFA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797756417	nfvdid	BQFmAAEBEAoXPZUzErLAB11gGhOKbrtgzW4_ZIgfBFrTqaYR4BRsmFwCHRJoRx5Q2HuC3hWnyDKLMEPWMBYvMlzRr0wIucgYO9hDvFqoxMQI484QNWYoeB6lKsElDAp-Y4iX2wGXAAhYJQh8zeRkGrH8Kj7oEXlT
+.netflix.com	TRUE	/	TRUE	1801648333	NetflixId	ct%3DBgjHlOvcAxLeA8Bli1YzIRBDLkQLPQ1KdOuU6Ttx5ioRilqw-xD5M5JmiyIY6PKH7EIeJyLOmxAAgwo-Cokze3pM9EWIYvQA-85zDVF31h53Pv2wlstLhYQxh9TZ5ua-yztJwIaZvSjL4VK7wTjJGOXI0P508PnkwQXptKX2VeLyxq04Xncw07Bs66Co0oRkk2EemLl9fOJLFRl9dyT8sg7AxlI22p22g1GQwudHRhtYhUErK4F7FGOeA-IkzbWrzrnY7qJn5OJHsS2coS4dNiQ_Afk56JlbiNMXvkoKQYHYl8GYoYazR-oDLiMg0VKw25wfXk1n3bQRnnmunskPHe8ARm5gMolUO6djRRwqXH9srq5fYCtVEG-Df1zjSYUCrH3khxLHF7je6uWM1msrnU55Kb0TGxvE1KEnTFBjKA4zMy-q18JpdErz-cywheCqAyMOSEsfRJBPWqCm9b3jBx7_jGiBja3bg-R1mdagNrV8_3VYYlcYi66ADNnU3X86fz6DmJJzRzBDgURLTjWJ58ochvh7ATPCnUvB8HVME4lJ2ME3qOmFlmYwP2ROPc3ckWC8vpdndvdzfgs8I7Q7xxXFWxOMuUYWYdrH4a8DEDQ8FIAtV52FJhzo7Im6CPF5D_ulvKNmWmEYBiIOCgx72fMBloJpZO747nw.%26ch%3DAQEAEAABABRNMWCeeaDnjGjHiVOQCcgi9lAV0KuXERo.%26v%3D3%26pg%3DBOOG4EKMD5E2DIAPLRGP2AFFFA
+.netflix.com	TRUE	/	FALSE	1801648334	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+01%3A52%3A14+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f247de59-9f73-4a29-8ee3-4d547216f3ee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

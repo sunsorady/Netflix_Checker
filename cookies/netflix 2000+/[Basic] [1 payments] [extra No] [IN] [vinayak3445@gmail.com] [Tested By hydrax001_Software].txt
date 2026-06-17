@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nisha
+– Email: vinayak3445@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-07-13
+– Payment: UPI
+– Card: N/A
+– Phone: +918217047423
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vinayak
+– User GUID: WRZH5R3GD5HU5BKCP3MNUCRBBQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802594582	nfvdid	BQFmAAEBECsdibvTuapque8NER6twoZgSEbzphXBudQ0YI1oh7eBOBkd1TtXqMdOnEkhoWfcObTIWl0jJvXjC2xarULiZv9NWnrVxsIf3rOqwQZ1J67NcyblgfPEzEM8X-qav60Cvre2z2zW_xAl_bD55fDPl2X1
+.netflix.com	TRUE	/	TRUE	1808775081	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA5tbqbMzryuX_gFPLAvMRXhNIJqTnNxUHs48OG58M5az1sRkdzMsTTfIOIyriMLG5xwLUeOobTYBxXTCkSU3_y3xJDzMrMnfxDu-2Mr1s2_seK065pDHXGFKh1JoHpyWTlCUfyeJX6-gPEt5QBRPpfJiHYJmnlJxkO6Bsg8U9MjJGM3qcK7XrjhxgKQsP0Caw0s-tog8kmTU08AwpKRqroBgjzKEjQCsjAbE-9aJ8J7xvEUdooBpEYHtVqaAlpr7kkKQ4-EBzVRd4NFeSNw6CdKZ6ugPKZX28H4yTq6VbU4ZZq9ZYyu0MyGhHKKt5UrKB6nBLA1FemRKNrg2S1Or3WHac-VATqCcRidnBCFGD72nU1HypORbvejYYOb1bA8-qiGmMwo-ozmy7PQLIQ6w4WBE9UFgyiL7Fi9hf0btuBc_qk9E671UsPnZTZ7eGnX8yEc-7Gr9bMFON-xBw9rbB4LstW1A0dFjsuONTuSRfTjalyXim89Jc8i4Hf4imaPFuO7VVV7ohlcNjMs7LTjW8s_0qivAGAYiDgoMEVCHh57hxyLN16eE%26pg%3DWRZH5R3GD5HU5BKCP3MNUCRBBQ%26ch%3DAQEAEAABABRfwWBEEOje2a-XzC5dr7-qHuuZ2GUjB84.
+.netflix.com	TRUE	/	FALSE	1808775082	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+03%3A01%3A22+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3f9eb82-633e-4fe5-aeb4-892f7ad6608d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808775081	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRjOdcMLrKMVQbE_OC_Ll8g5ceCV89JP3Q.%26dt%3D1777239080185

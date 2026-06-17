@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Quentin
+– Email: corinne.viales56@orange.fr
+– Country: FR
+– Plan: Standard
+– Member Since: janvier 2021
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: +33612418487
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Didine56-974
+– User GUID: PEA4DTB5VNAOTMFVE7GPYPWNGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784494217	nfvdid	BQFmAAEBEFweygd0oScQQMc1XkoPmXRgo23g4ywCFOl51e1qOAZFpsKMd_XsYUDSsoA0-8kjI5MHqvFZ-XZHPdWBnUdA3G42B_biHgMH5YdUVF-HYJ3PV26rs2ZAMDLqRbIvSboY2ajtD7Ygny6eeTSePluLdhhQ
+.netflix.com	TRUE	/	TRUE	1789060976	NetflixId	ct%3DBgjHlOvcAxKDBM02NDa-7CjlPGx6-W-zphlchAqYt9uEg26LwB4qInmE9TDX6ODxNbmbiwL4J_x4yHRmnKbhnH9DHJQJ_aU60ooLG_jtKEt_QQsfMtukoX_06RCVg68QCVk_4LzfvrYwOwUazvBmZdCamV20bWy40ZZySIkvWsEANHL9Bzvh8MW9d1cJg4Laa8yq5PXerd_S-Q2_r3Gd0JShKeGof_cuelKHnDg-PtONTX93Dj4CcZLex2lMhCuMDKwdM1OmBHN1cAR396xkQu2qMLh-5ZONVzncL7JguIWGws0NSFBMqst0ynSn_WBsBk_bWJdYuSa50ycZm3d1B_J5Grcc3yv9ipvhtzudAxfq85bRAS-PgAoqgbat8zV0hY6Lj5RMU6m3EPf2AVQJvse2Nj1ad4lp8m1zFKUUTkDR3AasD-Hoym9JyBKQPGi8vkwxRyMQUGcg-Zgww-lSe-wp5y5o0ORMjorwftEFlIieFzcfkbYaoMDh5-P127q_WXXMwlq8zPhR5fwKpO9m0yBqzlzd320AHPJikz6bd6sOoXLdYS44LvfhrTgAW_kPqBCNAM1dH6iJdAaqkvAc_0Mvk0z0vRgO1Csf-9lZR54wMxelqvuX5CRAS3nG2LwSMQtAl5kf0qYK27L8Qj3FiImlWo3G2gJqE5gysnDlmfWV9QlZcXIDBIZlKJdFGAYiDgoMC0XWOP0rh9bQynv-%26ch%3DAQEAEAABABTiM9jJxZqnKQx3UD0cTfKDfRk1h6aSNUE.%26v%3D3%26pg%3DPEA4DTB5VNAOTMFVE7GPYPWNGM

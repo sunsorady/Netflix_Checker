@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: D - JONN GANG
+– Email: cadman12000@aol.com
+– Country: US
+– Plan: Premium
+– Member Since: Januari 2026
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 0523
+– Phone: +14026811694
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: A - JONN GANG
+– User GUID: MGVC5GLWSFBHXFFNZGDC5B5WB4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812095766	nfvdid	BQFmAAEBEIXY6tEEr0Udr2kNQJ2g2_FgVG0W-g9bCgKGvByV9gb06gkOkw2-lMqIPBv7r0_pQ-kim8n1GV_0k1_T348thCZ6ho2nM2nvZpi5nduR0aJLN7ZRQ2JNjavQKhXRrKG-ERjKh0U_2nqFkit97HaFJ5Zd
+.netflix.com	TRUE	/	TRUE	1812095781	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA_Myy3O9GwOeO4qWubSNec8fB1IvC2lyqkGPPBG0Q0ISHGoHMAfc33p7O4Pl_Y1fLYGzrIaNLBbwF9MrPs8k764ft1n7N2gBde6hoONEgUzqa46YihrrJ-glmZGKxl1xZ_ygd6o_TWGNF_k0pZj2pmjpxxdhvwKqvAMvvXx_wmRjRlDTNV9wT_6CWv1EWfqu7no043Usg7BkQq0Pvbw3qxH_MAzhSprt1tOYd5HFaN8wgUEOD_Zurw7Hn2ZIJC-R2n5MqMPEJ6Iwc3I2d7uZKgh4BHAsvdfQPBR2G3jIz5_63It3CKUZNyKFZa2b8h0TT03MU7_BXzhTF0BSPc1EzkuZTNpNy9TLJK8vFTmR6AvSQXnOZM_7_GOtgS97ZbJ0hsFjfbEh_DYLXTizN7AThIAjHN-GsUEWWWpk2qNAt6k6mcVS477OQK6huwjz4jnjZ9Wrh2ZMlu0-T_KWWtj52yMz8l0hRVNXdy2ZjlpEovwq1g5F8CYhWvwgjFKs4x8AGfYSUnwZfZn88EEOoCWjh_9g51nz8HsyoSzsVnw6HtA9OhgGIg4KDJ2Gf4aCGnPbq8ym2w..%26pg%3DMGVC5GLWSFBHXFFNZGDC5B5WB4%26ch%3DAQEAEAABABQbii9r_iStwnl7P04_Ay_VJqxpBxNg2J8.
+.netflix.com	TRUE	/	FALSE	1812095815	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+14%3A56%3A55+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4e3a9876-40c7-4b30-bd75-c1ba813298d0&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

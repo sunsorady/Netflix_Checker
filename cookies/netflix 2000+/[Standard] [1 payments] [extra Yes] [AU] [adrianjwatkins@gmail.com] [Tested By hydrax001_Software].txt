@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nara The Rodent
+– Email: adrianjwatkins@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: April 2015
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0005
+– Phone: +61423095072
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adriano The Great
+– User GUID: RA33E2XSEFG7HGBSGM2LZNBW4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783897917	nfvdid	BQFmAAEBEGmxcvYgOEMTjguM0KHe98NgY-5bO5MVwB_HiSk6MkPU8YxG7gIUuTWYtD0TAjzdLTXdrxJkSwhoshcFl166HSkpihbJJ6AhwUKSNggYlRjBMeoaBqkMUawHL61mDr_zjnFi6mtKBhiYxsAM1YUul-8h
+.netflix.com	TRUE	/	TRUE	1782283341	NetflixId	ct%3DBgjHlOvcAxLpA7vfSBG9EWuNMF8DzbhO7m1mnuUWVpySG2c3pA5FniSWw5iIBlgZ6TZPv_MGa8T-d4cNYUfsz2Afyu98Fl3J37XTbbdn03OMYUp0l35DkJ2DAiKR_beMVYMSG5GUL8k_4RvoyncfgNqzaEc5vBOWt3w7zBLzOAzVrZqswiOtkKm7hXogi40mVyHYWUbO-XIjO449FZupqV95Ay_BGLCvm7cjjEhtifj6_maraHSE-7Mb0iw-m9c_t9O7bfcO8d3v5m6GMpw6vSRHTkuGhOzK5wc2NQ5PKZaGixAgTYacgsTxrCREzvJsPDpbRu2ocdgR8BiewhpXLeIeHA4pogE6lJpT21kIFN66FQKLHzUpgWfkFRhUtxRuCm6lczFHtfuPDPrYqfbhICGLFSFWlw8Xf14xQ3f460N4etFpH8TOob_AlrYto50ngToBFic9pTxrt_wfNAwlFgyHVwLeIz0e6IeVVJGmzRB56iqoyJ2vKjDKskV9ofPb0m4ienCaOXQIdD_ykNoAgN1H_SKAVoa9RcaI-I_2Iy-rRTNZ2bmJUd0ioavA_ycXCKs8v2sCfiNuSsZmrGRFA3DBs1V4GsidQyEVE4alhuZWGFRQx6Vkte5bu4moUX92jInNphztkkqEDRQJrW89kZWY0hgGIg4KDI5XO0-N6dtpJuhf9w..%26ch%3DAQEAEAABABTM9V3AHqSy24xKHU1r_qfR2MWyYy_J-EY.%26v%3D3%26pg%3DRA33E2XSEFG7HGBSGM2LZNBW4A
+.netflix.com	TRUE	/	FALSE	1782284034	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+24+2025+16%3A53%3A54+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c42a8f72-bf5f-4d9a-82ab-65a9e3504187&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

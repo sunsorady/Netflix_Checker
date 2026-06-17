@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Azfarboybabamama
+– Email: adielpasman@icloud.com
+– Country: ID
+– Plan: Premium
+– Member Since: Januari 2026
+– Next Billing: 2026-07-16
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6285166102782
+– Quality: UHD
+– Streams: 4
+– Price: Rp186.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Azfarboybabamama
+– User GUID: P4WWGHIZARHONCHPFARQZWL7M4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800215359	nfvdid	BQFmAAEBEPkxpfpyIIGKjoofFjBLpedgyJVDY2L2lma2e1bi41OqQCXqfMuX3cIJgXwzfvSbW79AtidbomDwFR0KERgzwFWXs9LgBeXKkUFy_-1SwU6_ZNMlJWhhflzeeNRMEEAInkKcu5jwjEjogjCT0JZL9qFJ
+.netflix.com	TRUE	/	TRUE	1809927545	NetflixId	ct%3DBgjHlOvcAxL_A4kHjDl6VJEefuphVJ1YeFPFSgTgaGM00WPCd18h7tBLEjGeVaVMNaI189yX7x-2vtgWJMHLU4gMkQqHb2XOAkKlGkLoPRJBW-hnpeEuDiXNxdVwRWM_Oatb7Zda2DOW-iCIKd17ODZ2N-NjEOPw9itOaglsCAvyeOCoNBDFd4epRrcsGjHAJeNGbYiTFcaei7SbYVkaft_YMkXPQZ6XPc8sfKZCYAY35m6kbL3ZXbL2F5ox5utX1fDh_Ux2m4b6m_TlLAdLUJFfOYuL2xy-40yIObZrvpBtEOsnGAZlGLnsBnouybraaKrAddRGmGwYTktw6t5QiyQ84s_5Jtoont5OkTi-vpulxpUcv6piHLtNjvBDKVeuoRMUWdqf5G9oOmtMmcewZYBs1JFtS5hYGWGNQOQpmLo2q4F_yCGSaPaNZ2Sz-MfABpqkBC8KB6HVP_6rcKth90l4riri2CWoEBnKfIIeuMyH5VaI1SDjNWAOISWECUQypZH6HvPWMtH74NEE8KJg4TfwlMrdDDBMksrYLYjgI7Ltto2TAsQmyWe5yPHXc2J_Z-CA4EmUD_o-9rLR4sOSY069rox0KCeBSCzPW8euW5EgQfIBLVstI9a85n-8eJfK3Q_BA_ezpMpinmfmLnbe-Sa5R6X4CzRqXnsSDcv5_k4D1t0rJRfznI8YBiIOCgymD3taJjyW4OR1LSg.%26ch%3DAQEAEAABABSKKWRgYDtZir_QwumS_zqoEFSvSaeB-1w.%26v%3D3%26pg%3DP4WWGHIZARHONCHPFARQZWL7M4
+.netflix.com	TRUE	/	TRUE	1809927545	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDOPaBM6wNurO7fhwd5GeqLORb26cMkuk.%26dt%3D1778391548065
+.netflix.com	TRUE	/	FALSE	1809928234	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+12%3A50%3A34+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb1b2e2d-eae0-471b-b98c-3c82eddcb801&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

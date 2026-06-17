@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lin:D
+– Email: jess200582@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: décembre 2017
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 5417
+– Phone: +33783720455
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ludo
+– User GUID: IFV6KT3B3JHTNKYDRHU5WRMUL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802723140	nfvdid	BQFmAAEBEFSO3j11j9-sYeUk8yGzfxZgtwcNihBIWg-6b2rCnuA4z8TfX-qWPrRNa8Mku68airLHzy3u50S3LZo8vAOAtGjFiBDCTc4Ok3gTiqvKFlXngthUU_QFhyE2C-PN5qCAqltDBAj5i8CmdUfWcVt_8wt_
+.netflix.com	TRUE	/	TRUE	1802795552	NetflixId	ct%3DBgjHlOvcAxKYA2ZP7PU9-B0emXuA1XKYFyRF8v-Yg2DF_Txtk7j24qPNx5gA0VY25WxeW_nIpY48VCBMIkh5Gpt7IKM2LRzATYAr1tpAR_dAxXYqev9lsfnE8VGCktrTR9jm9mlEBFaSNc-CEv4m04vM912u1d0ZHNpvplUw4XudKNZqcaQt9xED74gPTBrduMBJEnOTLWDeXCKERWVnx8fPHKSxhf3GFBd9VFEr49s4QGyLb4mx0IudCv8AwOl6bOmX87Xnptf1JCbQv-2EEYNlsgZ4g3k4O2xvMt4YlhHQ6HyKjwZ8KcltxW3HHStvPQH_c9OjrTDg2FTrJNfwrjwM7xpGuTCb_ktK2hwLoNs8MKCJzYcNrawNZ6CqJIHAEvOcgL7cz2VDwBFjIFeFtUnW_iTcKJn0EIlyLwNUc9O1yQT6EK-TpKbO1zKx5z0UoiQaCB3ogXsi_ihURTU1RfYvP-x6bznFTL4f_YPayG1bfOttFx8d5hFStrQEuXKICF2rH2_yaV4FHJldokqfAUgSsqKNcZExnBbOKv7ngS2LoxgGIg4KDAK7Zlh1Qevob8oK4w..%26ch%3DAQEAEAABABTePmjN_L5UZKHnQEz_ohIg4LaLGpiPiTs.%26v%3D3%26pg%3DIFV6KT3B3JHTNKYDRHU5WRMUL4
+.netflix.com	TRUE	/	TRUE	1802795552	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTiUO2iY1nZyPTLoUs02TDcPjXmbY_YZCE.%26dt%3D1771259551503
+.netflix.com	TRUE	/	FALSE	1802807193	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+20%3A46%3A33+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a3fc717-96b3-4b04-b77c-e641afa3bd1b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771187110823&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF

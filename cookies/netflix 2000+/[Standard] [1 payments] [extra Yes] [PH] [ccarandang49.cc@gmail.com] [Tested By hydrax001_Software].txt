@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ItzMeH3ro
+– Email: ccarandang49.cc@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: December 2024
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639952954301
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CHRISTIAN
+– User GUID: P2GKARYMGJDMFDYPQNLEHFZDOM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792316	nfvdid	BQFmAAEBEGVfduLZDJoE0hJNhHHynRJgBMUHctpGF03OOY6ogzuamtxyp25GoAJ6bunwRmLP3XUeACgL0ib-517CbDiXLgIYFU4QYpA2cPXWQz5CFCbJWsoBlDFoKH3BsJluLymHWT5CUZEfjwAzO5XBf3javAtc
+.netflix.com	TRUE	/	TRUE	1798619290	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAyyx073NdHAAWT4yY3w00EnIvtxedNQ2Q9vVNU5wRDqAJ_bse2tWTxj2eEKHwIPUOEHCzApQIyYmjD2l0rOhaDQkZ04Uqb-x_hotoJstm3QJ9M-hhdCIUZaGZ2bvFBAPPLxHPWg1dqG3ObWImIJmDGxWBWCKxvUmcv1aJ3uvcLcoS0bdcMjRV1dhfckBkWzvpe-sxZgT-Qm6Q98x6v25X-wcansio-_jZCWveAos3CiXQ62oT2LVhXmxh28dPkkJDv65X_Nf0rD7zncB50LnsrofIgFD2OxSPN1qdr4x72PE5jfuXCoyfuaYeAF8-DP7suRUvm2_2Vpv2erN21cKNrMVc0QaGu1Mwf-qOg-Bbr9QmO43P-__0mcoqpgWHLpzEEowzbFS263rh82q5ob9a6JSAlmyl-OafcG-2T8U-0Rja3xWCzz4Y7cNaOra8_cv3Npjfs2qG1BzlcVedkm3EExnOijBpMG84lrNFRWvS_a2S9whehJsche8piFVFNbm8RgGIg4KDBD22n4DPn34QekDfg..%26pg%3DP2GKARYMGJDMFDYPQNLEHFZDOM%26ch%3DAQEAEAABABSUEROTsph3kRFFmuDlCAxANCHCDXiSpw4.
+.netflix.com	TRUE	/	FALSE	1798619291	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+16%3A28%3A11+GMT%2B0800+(Philippine+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53053cbe-1641-4366-8b37-a31f7d0a2737&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798619290	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZtT2YJapCHA39CX0QGzO46b-E7nOYWQo.%26dt%3D1767083290248

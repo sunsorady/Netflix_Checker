@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Luisito
+– Email: guillet.luis@icloud.com
+– Country: FR
+– Plan: Estándar
+– Member Since: diciembre de 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 6098
+– Phone: +33660484546
+– Quality: HD
+– Streams: 2
+– Price: 14,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luisito
+– User GUID: RU5UFQ5YABCLZOMWQZ62GRNIRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790190899	nfvdid	BQFmAAEBEFjTyIts0CUsAr0ugQHUzEBgJ0VeB2GYxC9c2ZCiz-m1n-UQ9BLLkioUZid_IxCdsvnh_GMg9oDkCxj2lSPAckLW-fQq5I2_MlHTbLxpvGnmydwVSpQ9u6T7gGf3VhR-1652MrVMOZ036W2S0OLIUm6x
+.netflix.com	TRUE	/	FALSE	1804021092	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+21%3A58%3A12+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=69441a90-c10c-45df-bebc-0b11d06c7bf1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1804096403	NetflixId	ct%3DBgjHlOvcAxLjA7A5WUCw3AOTkEU69QyHJN0dezSx-RSWsYy056bRKSnmvqzhFHNHWQXQpCSKs8GqVHvr9bNNMCmn-uKEnYvtL_TZQuZZDYLwy8ZLGZFzJvJd-XB5FZxYJx3oAShJUXkJynCxve4KknN6PBJb4g0c9y-9dTv409uWDVJ_IWw-rvqH78s79e_P2GJm8aPa2U_8PUnr0w0Mw3Ukyssvjr4n6rSLQ8S7vfTta4TFq4xP1URb9wVVImYASoCn4Fh-J1CMFM5W-D0aMXFvUQiv-gv3uvoPr-yxuqx3cBWMq-MYI9jcuPXRiuqjPdaqNkJcmkqImNYcQTTtdY9-7uC1YXSp7gq9cxfzaW0WMLvB2J56gYPq8bwr-OzTWGOstWz4-aX5tcalsxwhdt8TQXqf8-wmd6SyT3v1703u8nRsOI1NYdC4wYVmYdihwHF1Bjd-DwGpcND1WvJGpLg9aSCvWkTWBpmrmLR1HigvASSTHsKGMV-Ho-vZHpnYIAS6UBt_DZ_hxhJi8Bj3q-sZ5F_iWmue_4yR6b_9S3FQ_jmDs7wwbWg9wnOYbcUjSDXLuGmsYMGZCNovkTGKpjfvv_t7Ta-HDjLVzEjus4nq-HC73pKW6wnBP_hUe1DVSifXtlHYuqYo-ve0NxgGIg4KDOveYRkwrElcGEBZgQ..%26ch%3DAQEAEAABABQ8QkHXDoOzPZiYNWogFSHOXl652DYXDsU.%26v%3D3%26pg%3DRU5UFQ5YABCLZOMWQZ62GRNIRE

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aninha
+– Email: silvanamendesdias@gmail.com
+– Country: BR
+– Plan: Standard
+– Member Since: May 2022
+– Next Billing: 2026-06-22
+– Payment: DC
+– Card: 5789
+– Phone: +5545999353129
+– Quality: HD
+– Streams: 2
+– Price: BRL 44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Silvana
+– User GUID: HZNYB625ANCHVE4XMVVHI5LGJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809322486	nfvdid	BQFmAAEBELH7wupFxvJ5_iHLBJE02-NgSTI6BmgeAxnDRJF970bZT1zpP3pFZgDvX_sQlI-W8Iuml0mmgYDvpjJsOmyYviv_bmkfLIM81CSyVINqk9dHccKFVX6dWCaXsd83cBwk3uXGnOKz_B9bPo6HBEiv5k7o
+.netflix.com	TRUE	/	FALSE	1810176179	NetflixId	ct%3DBgjHlOvcAxLoAwi2bmIZlQ4-80BZsFdxBxv1HAiBo4yK7kYOwL04_bAJVqfXrRN2zoGBsXL9SS6sgdNTXYKXqBgBInX7b1RNcrJzpuuHJ1yQZvVBit85U3zQCnLWUhr0uBFdMGmsChAHes_-AKvRl9VJ__k7UgPXGUWzU-PV1jlGE9oKAJHkIglrLEkO8pDPB8sG-vrEQ7igTvccKoZL9wiLs9sfYy6_hmbUE4sbRQDMdDJv62ajYUTj9yBW4sHXoM0uC1D6dao4pcaQj94Py3pYdwIOv6vCGnosTpe8lbSnamcwCZkDH2xoKGIrmVCaGkDAPojyzEdKzW7wKrHkfp1Uwgh56vZZl7tNFuF7r-5BJA6CwaJ7TsGnG7e5K06fIWru6jrj6D5kw9QFdglgvIMYaTxteQig9cZPnvwzGK90gmwFTeM0CYbkQMpptJKOy5tVV5wWMXMFajfXPmeUfN_vf1kOiLR_-LjxyN8RsOOC4Ax_PLeJzbYzoTIZ0OkK81DS_F3tGGmwF0-BAfxN49XogJaJK3TSQ9ZFe8YD2a25VYEv2FFdOi_pHZ2Q0cCGM9oRluTEuEjsdssdDut9iCQAdlk4M3BaXJeOW0n33AB4MXz2ktzRFCuTdl-6uS6Heiy3vfPDdjwBeNj2sMyyvINwGAYiDgoMtZnJPU6w5sQxqeNQ%26ch%3DAQEAEAABABTAIcvNwyjV9wVUzKf1SUsQKmo5MczZpqo.%26v%3D3%26pg%3DHZNYB625ANCHVE4XMVVHI5LGJ4
+.netflix.com	TRUE	/	FALSE	1810176926	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+23%3A55%3A26+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c6bbe69d-f18c-4d2d-9396-41f25237cc40&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1777786340913&geolocation=BR%3BPR

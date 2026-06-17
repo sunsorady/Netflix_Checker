@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Speedy
+– Email: chantre.eline@gmail.com
+– Country: FR
+– Plan: المميزة
+– Member Since: فبراير 2024
+– Next Billing: 2026-07-14
+– Payment: FREE_ILIAD
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ‏21.99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: San
+– User GUID: NRCQLYCODNEIBK5E3SNMSEPZPE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807388168	nfvdid	BQFmAAEBEKzRdXgMyDoTse26C6BKRSpg17pAIPY7rBP0PukNvMRWflU7ezjPa7FxJ-VWid_JaRwUjdNwu7zOuucQJ6zp2sid8-fPbbY4DhV6xFpNVtKezT6OIYuIRaW_8CZxqIiuW_cZ7B7Gu3wC90M5cuPcM4nE
+.netflix.com	TRUE	/	TRUE	1809776101	NetflixId	ct%3DBgjHlOvcAxKwAw1JC36m8v-N99_knIuHEEjU0y8ttDjJ2LjoIWK_1V0Vb4E8auh7k4MC2jE2xn3s1m2jl0z4ucSD6UnJbm6YESM_0KTeK03fbMwK0oDxg76rG_jxeNPFLTgFx9ik9YsUqmsBHgVugf1j5j4Gm22WpQG8beChthPOLi9agBFXt4C3mdn-_G_EWmyAyLVSQ5jDkugfKFQpkO7mshNefyUeSYD_nsCqpG3XZbjUecwXmNLhUyF6DsA3B4eBbozD3m7XstFdQFiQ8e-_KFTtwcy61nAN61WcBEJN8cUhqhHGfFmYD6CbuCjVCPXiiSZ4dCz7KkcgtJ6cc6PfHXZlqbrC8bnbXztB1ys0G6D7rBAd0IJfoOHXpTSCU1O19_FdMKUCKqJadsTZOG4lOWcUfQHECFhItgUqIdQ_C2k7wBvfopmaNRn0iykJQenbZiUAJFyIa9oaf5UaFUlP3UVIlPJSJP-zuVtOCvp6TJIWi1JtI7Smi5xHJSrXqORknIRVdCiBTbaqNN3qtQIn0HT8yofE-WK4jD8KAhHvNpfeu-7UBKw5fnO5zWsOIjVx9pHYTC3qexgGIg4KDFndChmmEaEZASBTmw..%26ch%3DAQEAEAABABR-CAq0a7nTjGSdH1Bmm-5pq8tmUOmAH6k.%26v%3D3%26pg%3DNRCQLYCODNEIBK5E3SNMSEPZPE
+.netflix.com	TRUE	/	FALSE	1809793511	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+18%3A25%3A11+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33019705-09da-425c-89be-62e2c91d6222&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775851572159&geolocation=FR%3BNAQ&AwaitingReconsent=false&isDntEnabled=0

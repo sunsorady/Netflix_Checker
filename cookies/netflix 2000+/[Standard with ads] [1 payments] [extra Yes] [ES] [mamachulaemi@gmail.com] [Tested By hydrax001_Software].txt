@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: david
+– Email: mamachulaemi@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: March 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 6393
+– Phone: +34640529155
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mamachulaemi
+– User GUID: FQC3KV6L4FG5RJGFEOZBB2ZROQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810501731	nfvdid	BQFmAAEBEJTXG2B0WeZVJVA9L0lzusZg-UQWKubgLTxfUCszTXi5X7d-AQ5eq1RvoLyaBhWJ-64ZmKb8OMAO0nJiuifQpVnCcZ6fOmx-gxI82OMVw3MHQZtR32mGlRizZFJ9dQRemUvFZn8uClzBEQo_B-dNlQJM
+.netflix.com	TRUE	/	TRUE	1810548592	NetflixId	ct%3DBgjHlOvcAxKxAyJdvcZ2KJrLJdTP6M02TgG9w0PVtnC34mTAcunJgfNyHwf19lqnt6zXaIINJ92G-QId0hd2d_Zk61KrKIIF6_uiaZ39kl5q5_7OWgUxQ7jtvb3VftjRbQh0df-lbG45mJw2H8Luh57USZ7zhQhsRIHx6HuLm0ewiaJSZFzj8i9_R7mpVFSWn6M1vcUMXhB199emBqAFL5Cusi41yoTUMGftMWDwKXaFtoGle0i9E2-X-UhvHHPz7zNONvRkVn1uV1BLUljdMiid0iyDzVuras5BKcLgtH6fqjqfmgapHtV42pqd8AwP8JuZ0ZERoQ4zFwiEJsi28pWYNJGsMUCSsn8zzPqLdJHXHCGbKpuplL5_O5XBVUbBOwvtNeNNQOjLTLHU685qw67OCYMd2e-SnaYAmW9dcVGNiTYH0Bv-znIZsep-9HnDW2oRacU6cZuAcDhFJ1Vkq-aORh4hhvqYvn65hT8-6wOEimwLrmMXa-6ZsPTUHS6lEIRuB6pkJJQ-Qn3x-XmGn6Y24SxP9PiL6GwmK-5ENzj6iXL62QVoql69a82vElfmoKMZq2Z-Y7QLtrEYBiIOCgy1CIrezhDpIC67Ttk.%26ch%3DAQEAEAABABRkMjNiETmJc5P9-bYYdLJILNPF-xkSPMo.%26v%3D3%26pg%3DFQC3KV6L4FG5RJGFEOZBB2ZROQ
+.netflix.com	TRUE	/	FALSE	1810548592	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+12%3A09%3A52+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=443a03d9-7b56-4006-9bd0-6c46e740f86f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1778965725149&geolocation=ES%3BCT&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sanad
+– Email: aljabarnehmarah@gmail.com
+– Country: JO
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8970
+– Phone: +962797120273
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marah
+– User GUID: L7RHJYJRUBFVRD5ZIIKRVSGVI4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1812132382	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAzKGZGpoj074xcIzbx2-7f5nkqvWOS0buZRaKNXoDoqK9ImoNxCeOBXo3eWzo3-RvZJjU_IBxKHwtxzMoIQgT12rhl-XDPrVyGULudzjeuvln-B2Sg5vEaVF5b4OUt7bkUHH5nGFSQfLqq6igcsN1slx0mGurhae9rm_txMpUztK7pSj9hOFFkGJ3NqzIuOxYAkJLTS1d9ASWN-4XzdBMEGKcc2CLbg2QPw7gK8oWl6D2YVk8qz6SKBLhqy0f9pQi20t_tnIcpa4LaMD2BV8phAD0AeMOd9V1aKMzVPGrUmHy4_BPAzc_cg37rr5Xi6HayBSj1ed-f98k1YxzpsPF-PGqNSGx8OiJH2AJ7pdUUVGWwhaGQkcl1-ffZuBKP2mmUaYq6z51J70nrEMTklSC5VwzvD1uoIwsDWrAAcau5KHLgx0Tt8wuw2UhOajQ_0bu7K41u-WhyAMHCSHnC10sf_AacrWVY_7qjQHXayTcH47uh7LbgsFM7B2lekYree5RRLYvHyUN3QBLroZw6KOmfGzSk695PcmSr8YBiIOCgzIVXxOtJ7qwXjHq-k.%26pg%3DL7RHJYJRUBFVRD5ZIIKRVSGVI4%26ch%3DAQEAEAABABRYk_3IVkPG5oO_OvU2mdLqrRORkZHTSHk.
+.netflix.com	TRUE	/	FALSE	1812132383	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+21%3A06%3A23+GMT%2B0300+(GMT%2B03%3A00)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4dbdce3b-33de-4186-a696-9991af755a65&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780595821089&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1812132364	nfvdid	BQFmAAEBEJMmK0ykzOKnOtO0bRsh_RRgf--xsY7UPH7rHMtKrO2HGxwjtC-xfNVn0oeiI9M3_KmzTP5bXBPHcKxehBD444a_d-sEJZChAQ1nlwDE3NJOu1pAFd-D-6gpBHvC-NkIfjw-wrP_UKhaDc_mA8dwq0id

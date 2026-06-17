@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kiran_arr
+– Email: kiran.arr@yahoo.com
+– Country: IN
+– Plan: Basic
+– Member Since: August 2022
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: +919500097663
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kiran_arr
+– User GUID: OJSMDTUAWNED3LVJOKSLPW2JXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783187051	NetflixId	ct%3DBgjHlOvcAxLsA6qrQ5mSr9sXXfD-25z45Ip24p-JOwrNnBIMbdyRkypRv-o25h9iTlBMDfV-O9h8Qiajc-KhQQTzFwG81snp8Yi8pguASs5bXFYaXsrcCdqq_0MyUEfpWNhuJJ6xd5UHK-C50tEbyRvTYBqEqLuTQkkK7LwYBNmpxWqi233tWgDLAi1WXqGqWefVb8Jqq33aR8755o6QOFPlZjnx8jNJ6EiVCD7SjI5QEFEXu1jXRsnOLeMrrq1zaJU8AtA5zPFgNL_GFNNVLlvuqsXKeCXgVieEECb0qA-d4O4QWWhFIk24eA3XADn1sTKpEfd1oU-sk7c9dH6RuSJje7HZdg_i9rwnR6vmmUtRQXCxGjyj5_Fy_gdmAdq35K1GUeCkr62wklQBivH9d0A_Q_7zLyU-bMp4atmtWv1hTIVfpNvlc1O5-xiiN-30lNskVPCV0JMrv_IU_sytoBlyjmxIkaXMiI9yHCSHwGSvYAEuhBgensvqOTXZp13aFUrjbddAC4QP4hm7UNpsr_LAmXCbAyPn0p2UBAxSJDaglj6x55TsHAylBQ0CkfqbeJOuOlherk54NC8OT6xT73t8qor6szSYA4VILkdiZTHPYFozhWkkR5VMY83gq0tA0EabKZsyvu9N8puEyvh_6Z8DwVxf8RgGIg4KDMYef4QtOn0ZneTJLQ..%26ch%3DAQEAEAABABRjY008opse14aVRS6SvFSy9q-Q5Cm9oyY.%26v%3D3%26pg%3DOJSMDTUAWNED3LVJOKSLPW2JXY
+.netflix.com	TRUE	/	FALSE	1783187052	nfvdid	BQFmAAEBEFsYwJptKKjiJJTOPPeG93hgLzxO112xuZiona2bvdCOCJXjVlcuFycEaX6UOqnQbbbytKSWH1IUPHnYZXaik71CpM6yZuvPZoxpBTlZCRwy3eD2i6Gz7DodiEgnQEBUk2AvkRwQpqA_MNcoYzaBsLVB
+.netflix.com	TRUE	/	FALSE	1783187073	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jul+04+2025+23%3A14%3A33+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df3d94b8-ee75-46b2-bf39-416f5a1be6af&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1

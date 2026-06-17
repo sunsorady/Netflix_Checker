@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lukinhas
+– Email: kethelys465@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2026
+– Next Billing: 2026-07-16
+– Payment: DC
+– Card: 7326
+– Phone: +5594984199353
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: E.Kethely
+– User GUID: 54NJNJK2OVGWVHZ4XGHEYBM3ME
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804440243	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Ar8jl9nwEavroyxdy7SVexiGFBHa-eldnoAsax48tsWWuqRD0xlSaPk3Z7e-7Coc9E0JnBOdMyZJpz--GpwM2EQmFxHkNptuhObUrseGQh2sDDDKEHaO-NNDvCi5N9mvTnXoubfiYdey3akf6NCNDEJ0VG9Zr9-BRkEx9PGtOac_8uiIxQwGYxOB1cyP-5MUG03662i9BxQhZjgv9cxNbGB331BwbfVICVwL8xwY0SEKMRXbaN6ckDmX45PGA1I6JT4CSOzbaUlpm47seOeNyA4J-ybHq1hT3lOUeMj4E-B8xMAYJG2UDNHA3RkS_caBqvjJ9WM-hjhM_ClL4Xsg9lSf6a2z9DTHqJ-PnXqlNemp_I26NTvGHvsR8qJefRb0WDxur2TcdxHGcYoWesvyvlhKpZw8z2TtiDAsTxz2rpW5e0xzlxutapqIMlsypUXE0AV2fjqLLzQLT4bA3536yLo8XBU2XmGPFEOa9qia9V0ysnMbpdEhntK_7BgGIg4KDBLRiomMApJ47xZ5eA..%26pg%3D54NJNJK2OVGWVHZ4XGHEYBM3ME%26ch%3DAQEAEAABABSa4TOZzmRnsLXwuPemaDRXQNApOOrlmTo.
+.netflix.com	TRUE	/	TRUE	1804440243	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSE_Z2gOOFrrx6BreeQ6f8JJr-aahqyl1M.%26dt%3D1772904149801
+.netflix.com	TRUE	/	FALSE	1804440225	nfvdid	BQFmAAEBEJGMWpCHBvY71s0Nd5L4OodgUhAFI4_G1VjuUt_W0B3p_QESUKor6Xbzugqg36FZTtiCsurWVA3GqnBjgx4ZuY-U98zTFqb7ohGwVR0_9Ll4xphMN21cem6ywP2rh9l-xO0n2tdRykJnuPCu1_xEWeyx
+.netflix.com	TRUE	/	FALSE	1804440797	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+14%3A33%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=576137f2-5d03-4428-91fe-052f55cab0dd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772904188001&geolocation=BR%3BPA&AwaitingReconsent=false

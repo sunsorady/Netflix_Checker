@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Intruso
+– Email: yannpimenta64@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: December 2022
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 2059
+– Phone: +5563999918784
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bosonaro
+– User GUID: QGAZOR7TDNBXFPJMA7CYCFUXIY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798247943	nfvdid	BQFmAAEBEI9ouG1H8KOgYwTUV1A7rtJgg9GXd_TJ8kAK0QOpVN9xEBZH4hQgcstKVMXGHbNMI_yJ0ff4NDT0kpSsGJ8D-XSEvVoM5TMeLDhtvuoDaSmOHOK-tBzEgMr2yHtQBqnMmKIKlieeVYmIFh18pY60oq4c
+.netflix.com	TRUE	/	TRUE	1798765583	NetflixId	ct%3DBgjHlOvcAxKWA6VHM58ywxD3YxuYh9DnEcy19rD8PWQ3lVJ4RQ_k_XdvYG8NfeUQAd0nmzoBu8qDAPsUkVoPvNt9-2Kn3GBf8Alq4wGVErb0a7Hg0DKuehOC04X6jh82Jxo73aAW3eThCEJIR3ptoTB9zVmFVpZqO9VhWuJeJLXo939vN9myQ7ULYpynHesRUGPpCOq3oHHP6nPlZovUigwC1W4EbdY1i7JgH7LMqNMXDsQ_p__Ue4Y5AYzKP1s9wVZdaViWRllYd-4Bt78XL2etCq1MgNF7BSJN8YAFJ1E9n5wxDcf_c09AxRuGw4dgO7xT6O9skrDtbR4x043XK_1KXcWOjgIWjEcTOmo1Uavjj1Qcf690_8DtKYvPsmbc-Q2vyNyR0_hiCAoAq2nhul4SUA-MfiRxTnQlHgavsBoZ3x_xK1FynnrPH9WNTO7_NYQ4pFbKToXffTQYoFPinTgLCRO4gbqeOiGM27-P8CE7LutPqHo5YeVfEVsO3ZJ_wGsboNQO8bAYqpk5LqTUXCdSna5Tcgf0kj985ODd3koYBiIOCgwwJFMkvVce7y70lp0.%26ch%3DAQEAEAABABTou2qpxnkfEVqq273LKN41TWyGHOSk54U.%26v%3D3%26pg%3DQGAZOR7TDNBXFPJMA7CYCFUXIY
+.netflix.com	TRUE	/	FALSE	1798765576	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+31+2025+22%3A06%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86f14cef-8d19-4b46-b00a-7ff7e36be7f3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP

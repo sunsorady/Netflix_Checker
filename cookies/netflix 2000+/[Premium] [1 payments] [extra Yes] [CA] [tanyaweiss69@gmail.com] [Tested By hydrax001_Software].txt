@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Todd
+– Email: tanyaweiss69@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: August 2013
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 6508
+– Phone: +12268083705
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Todd
+– User GUID: NCY2IPWRXNGGRBNLYHSDPGYIRA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786989219	nfvdid	BQFmAAEBEIS47hvu6UUfq9ttEM3pMrFgQadAcw01lnRFfLVthqv7byloaEvRQL1lHdperp3SFuHNzGYtfc1hfC6rGmB1Rnz0exNurSQDnqzRXFBBNJ9OGS-PADdLpKKK8IBEaquukhNswH1kIK9EyGqmp9qCH0wO
+.netflix.com	TRUE	/	TRUE	1811445563	NetflixId	ct%3DBgjHlOvcAxKmA0dpO-y_bbEMgMt1ta0E5Qk5wP83js7j4-pD2YFL3_oiPGCFNbYdtU5Zvsf2BIC9-OdvJof2j8KzM1r3H-wi9XYBQNMVF98fYd-5eJfsrQIHBWo-goeXNF8EFo9CXcXR-l99v5p--0PMc3QyD720ZAw-Qct7dVyJFDSxWVcZbXiZlAfT1WUdG7Ps1fN0LsfzcXfu8epnadFoGHorbibKedEqQJ530t4Q6tSNZn8hMUk0XIxtmGMgH2NGzCKNYKlZGTw1N-axy8fqZgJQ33YHjvs8IrqmNRMnncNOPyi1U2ixSlecRf6QvE3M7bFRsncc1cZwO4Wlt5zkQjUrQi2y1thinmhHOSE5GDgYar4ENsT15YOZrQ7ackWfqaPt5OtdjTdvCd7V9VTe3qIdVVRfvLuZnbou0l7bMLUlyYUuEPbPRj8IdxHnwQTNJenAf5xX6s-jH-42oWdroZ5I80uEaE7EIcjIabZQo0iSSi_kdhVYr9IrOM9dQbsPqWgxM4TxN9GqTfs-7Cxrk_aoa4Tftkg1qwyKchvfqQxuLrAkOTEchJRw3_APGAYiDgoM2GwUZbNH9TrSg2ps%26ch%3DAQEAEAABABSstSM7iek74DxP6iT7C0G_sJI3NeHcqeA.%26v%3D3%26pg%3DNCY2IPWRXNGGRBNLYHSDPGYIRA
+.netflix.com	TRUE	/	FALSE	1811445565	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+15%3A19%3A25+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e5e3f5e3-9038-446e-88fe-93908dbd3744&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&prevHadToken=0&isDntEnabled=0

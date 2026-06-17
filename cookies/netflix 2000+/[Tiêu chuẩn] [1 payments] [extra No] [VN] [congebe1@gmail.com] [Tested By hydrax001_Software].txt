@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Khải Minh
+– Email: congebe1@gmail.com
+– Country: VN
+– Plan: Tiêu chuẩn
+– Member Since: tháng 12 năm 2025
+– Next Billing: 2026-07-06
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84903141742
+– Quality: HD
+– Streams: 2
+– Price: 231.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mark Tran
+– User GUID: KYCFSH452JARNK5RCKF2JJY7XE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812536719	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+09+2026+17%3A25%3A19+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=85d6f4e3-34e3-48e3-9ac1-e760275ad1eb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781000072383&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812536717	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA8aUCVKwlcQbXVQrlVhHBHQnbeTpPOsr-cZyF4JnoDZIh3UrKmdSGj39uiK_l9sGkxo-exQASmrMkiSCPz3_05YhkGixlfEDpVcruHWaTceZVJyDswGJgdOmogudlSINQtlWkGlO4-dtem_xbGjGTDjpAQcT3tm7nDxEjrEn8W8VEqV0-z1Ru1RwCCLMdLYltUHbtJZWEtvzkR5UVm2yW2B7pOwk5WvPkT3l8psC-N0nW2syy68w00y9uyhXTzFognTU5DVjlyX7E5yPwW_7UvQU23Yxsm9wt8FO6ut1K4G8if1NtQSHLs7OXHGAbewBR_toRzmyVqPZO8CX0sSsQ_Wj2_rQ3mkPQSsjE2vSzsDkxzbB3bhrw-8mdXIT5YxhHY8SAJE7m03P0RLTPB4cm3j1yl7ALnsgzEVLm6fkMJDtk8raIammJKODdRXmQE_MefknaxbQFlISMqS-OhWxQXbkQfzZ1XaBio83YpsL2ANtTcEHvsRsD2-0YzspOWOQ9aigYJjbWOWm-7H-6YhyKIH6puQ90m0gBLHcUeWS-xAYBiIOCgzhoTGYoU0HLkC-T04.%26pg%3DKYCFSH452JARNK5RCKF2JJY7XE%26ch%3DAQEAEAABABSRKuxswQAxz6DvVPlGiH7V79ByUOEi9RQ.
+.netflix.com	TRUE	/	TRUE	1812536717	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRAEjMZ747bd9UKH6skWHTwKlqMHQGJAsk.%26dt%3D1781000717459
+.netflix.com	TRUE	/	FALSE	1812536700	nfvdid	BQFmAAEBEI5RNHPF94EIZocXENFz-r1gWDLO5GeZ5mADza1AKHrGFbDrl2AKDyt-kA63pQdL1N6g1KQ0Bf6VtpXJ488z0onBTXHcN3Gm-LNphb-rrxVngTKAQ7ubt1N3wzg8zrMarjhVThxuW3DULUuy7w7xulQz

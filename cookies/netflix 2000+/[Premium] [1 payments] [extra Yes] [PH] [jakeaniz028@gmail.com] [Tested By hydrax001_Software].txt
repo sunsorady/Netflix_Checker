@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jakepogi
+– Email: jakeaniz028@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: December 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5257
+– Phone: +639762895177
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roselyn
+– User GUID: MLEDXL2UX5F2XE7BOCVKCJ2A2A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788676966	nfvdid	BQFmAAEBECeAvF8MvoghE8qfpbX9EMdg0lQvgUNJs983WeAtcAqZLhw8GRuhAEYsU9HFbI6qmXlAxXkhLOiWrqHZIwPHuwk6ompOvjgkhrRo8fperuW3BYiPnwSkU6puU9_P9ifazXruhN4R5lIoxbBOeQxGjHLn
+.netflix.com	TRUE	/	FALSE	1807586374	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+11%3A19%3A34+GMT%2B0800+(China+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5df6cef9-4a3e-4d5f-8244-95dae815aa49&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807586372	NetflixId	ct%3DBgjHlOvcAxKCBNlN6om_0HtrfYWydV31H_4QCPYYvRwqZfOfa05hQQdZBBfUVz0BWv8QieLNmGa8eNfDTV5ddPgxMoJ3eO_JhIggyrdbZTMlO3PAotjDvSQi0a48Bu_nkCv0K6aIYezqhSlSilcrb8j4jvthpj6USbHFOoNktxMc-sw8Wz51Q8SwtOuiPqueABwRP6LrYts9s_xX2aWG6tRsvl7tp_OnLrAgpTZmgYrNIz-6jKOxeWM4KrA6mjSDBM9K2RXYlnHsSWaVyaFbrZTKQ0BrXIa3NGMtRB3MBewGBmJIGToLyGS8ERmgucrT0pp4rEFHCp5Y7maiDEVl3xUFWBGU9IzFS2RirbwKVZ1ovz1ijZHFMeWUGh30PTs2lnZAh0V0VKIjc3vZaxvjry82imTJuRRPby_UOWJiwrBBJtiYMCBjH2HUO-jMWYoiMTPdb3HMBoRdTlfTI30lbCypKrcWqoQeVi7HDzEQlj3pmF5f4mn9U2pLy8tAMFg3OPTFpg07IsyUh2cM3K2LoR6pXg80y3M_45ml47pTRmRCUWQsweQOZKKJKvzGs1QjFzbVPNWwJovqcUkicdq3bH_qHFD4VztiVA8Y6gmLo2BHkleuhTyzP0cggZea9lixywcjchn8b_82HPLXe3Y45tPkLURdRam8o0W2qinFri_DquEc2Usbo7Pfs5MYBiIOCgy8OwYy8pF59nqX79c.%26ch%3DAQEAEAABABQE3Znl8-wN5MyTAV_jNcMdj7s1AeSbg8o.%26v%3D3%26pg%3DMLEDXL2UX5F2XE7BOCVKCJ2A2A

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marika
+– Email: lartom82@gmail.com
+– Country: SE
+– Plan: Standard
+– Member Since: januari 2024
+– Next Billing: N/A
+– Payment: TELIA_BILLED
+– Card: 1556
+– Phone: +46739950251
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marika
+– User GUID: MTEESKR55JHQDJKVJU3UNMPH6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802552978	nfvdid	BQFmAAEBEKNg_faFhOp022MgU9dCutNgyzhfQKr2ES78k0JO4GsUaDMevb6s_h4VNF7mKgGfR8toXjD-hgoEQgXdEAYl5VK011_2XpBzUcgQxKPYDz2sObseJQmZvxOY3F3tCPZgnLrxRuIZ749NaEv08XqE_pPa
+.netflix.com	TRUE	/	TRUE	1806181318	NetflixId	ct%3DBgjHlOvcAxKbBJ1I7TxwdR-U_TQ6aVrxUnKNLpYwRAEdzP4bg6NQ8l6ktKBIlgm873VucV_--UuxDSs0ZtAiT-A0QCnn0TsftFkrXd0M6VRcvG7MzlkPNYfSZLluSz0x9ULec2dz3Q57vgA2mKET3lqTAG1LdBbAt0qRPqtJeoVfQDcQpem7Zxp6B-2eGtLcgSuV-Kqqtoanhr1eYMtkivYc0vr7jelkssNyL9vV1jj2-DDBD2z9itCeto1x8ue9H14KujvXr0Ib1kC2jPHAYe8VhNtGx-9QxwbG4D9E-QGa3YFOAx5VNJcsJe0wOZwAlRGQ47HIM7DYFinVHYfci6MtmHZPljp5dWBtpWW2Yg_8f186bBTzPaKFBylSmp9mykBlGQexMAR0_VEzp1SfaeyBVjDhmH5_t6d_YERWglvsFPAX3den6nJIyk16DKzVEVOW-hxFd2oAW8hFZpCRUM4hbEYAkpjDFacXTOin_AclYvYeqT4EGPESX-ewtw7Fz5MG52t8W9T52uPjj0cTa8s9d6CY_szOy8GVen8UGbrgDyihQZ73y-Wk3lDAv7o43iGFZXMFIj2-Awfu7khWLps2u_gWSHoyaANuGBZXXhwucQUffFGAkB5IBj248FkpAg3yCvQYO4NEpq6UAWwt-R3aAwnuPID8alqh4UjtuvkhWLjpDMTfdQYG92NIQwK0zop9p1ZoTH8-OrbcKbEUwJycej9IGAYiDgoMjdwFLJzR_Bdo9zzu%26ch%3DAQEAEAABABT-ieC4Po__TdRtNVaiukcMOdrln0V1gzs.%26v%3D3%26pg%3DMTEESKR55JHQDJKVJU3UNMPH6Q
+.netflix.com	TRUE	/	FALSE	1806181319	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+22%3A01%3A59+GMT%2B0100+(Central+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=663db0ba-841b-4404-8c7b-165873c82ac6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1771016953128&geolocation=SE%3BO&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806181318	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSURquxcdf4UdBLT-6UYZVVA2gRT_T7T_w.%26dt%3D1774645307869

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ☆Rawan☆
+– Email: zforyou@hotmail.com
+– Country: SA
+– Plan: Premium
+– Member Since: May 2019
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 5939
+– Phone: +966554407003
+– Quality: UHD
+– Streams: 4
+– Price: SAR 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: بابا
+– User GUID: WIIVM6VZVRGZ5BTMFZSG34IHYE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792093201	nfvdid	BQFmAAEBEPnmQhxSOcXb32xy0iS_YOpgJO1iIfL7Uh_2Ewihi5c3PVQEJRtK8popsY68EG0ZsGAGKlcqrvGaSGMbvX1-QB01oYsshAqJnJWUxK5T2-h7tXQ0NjkPd17fcFq5jUJvPVqxWdSrPvBI4j-MPxFEXgxo
+.netflix.com	TRUE	/	TRUE	1792806271	NetflixId	ct%3DBgjHlOvcAxKHBPE4mn1kqpgRVXFtA6TcpEd465aO-SFLc4dNgAGZjW7U1sSj4GcKetF1Ol8duc6IGrgG41V11ECGmUtviU0ekZtgBIQGY9xczD8K8E2hpQJm8fK1rN1WxyIkAbwjmfikPW-oQboU2b8mfnmG2JZ-8vxd1xMtKNOVUs0j0sgme2YX-lvX_udml9ipT_pd_bKp17cfY8NLMH0RKp9wYyAr5ahq6uu7LftMtEo_aRXNXOuDGC73YkdZU2t2EVkDUDoT1Jk0Dh0jS2kbmLSTAnIQiXpHJKKBO4OapxYtvXAk8lOLc_QeZu9VE5hbTmS-cfBCo5z0gPb2oW05LqWVS-H6whzEbH4uX--XGfhHG--cAlYF7cnYMT0L1197JjM7bupv5lGq9An6pqGGmkGTEdvBr5fYyQr_3HsxjiwK1_Xcvx9dfBQ5TrqA_hWzHJd1EY_cnRr67EWDx-iXz1rSBaxrxqowCYwy_IsrF11t_am7_1LZzlA3CFt8gPM3QihJAOc-eEiA0Pd9BViOu97-LDthz1TZqZ2I-RPGzkXmY_TcMvFSBdguoCq3Naxe2XcJcMUScVKCHueORvr3CIZZIORK6gi7c4DFYek1XltBssH5IuQewhZBk5pIUg6QEW0il1DkefuMBf2N2lXa3j5FpLpH_31epFCUPyPdpsi5_cVEzPR6WuLthsZudBgGIg4KDKfWf-YLiX8-eAdqBA..%26ch%3DAQEAEAABABThc-zTLUp6ywKuGom0-maC3iM5oEu2y9o.%26v%3D3%26pg%3DWIIVM6VZVRGZ5BTMFZSG34IHYE
+.netflix.com	TRUE	/	TRUE	1792806271	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStI8pp2BFKXtxo5oRknUMyHBVW2j1XqX4.%26dt%3D1777254273831

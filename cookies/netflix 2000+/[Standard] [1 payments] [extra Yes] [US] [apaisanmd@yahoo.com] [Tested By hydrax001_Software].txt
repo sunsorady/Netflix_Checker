@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: skibidi
+– Email: apaisanmd@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: June 2017
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 2531
+– Phone: +17874587607
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ada
+– User GUID: TBQS3FXAYZHT7JHQORD2ACXRCA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804713964	nfvdid	BQFmAAEBEBDgTR-XSmCExI1LrPo79iNg2pgtajx9BBxp0jLaB4AR7dzq5VV7B0jFCOuRvz-br-2E8xt2Z5Q5S7yehwcH7RkkScqpbs9T2x0GQP0UBLpyZC42Lnwev5_TNhwySOR7dY2lzXqlPU1ft2ihe2E7TrFt
+.netflix.com	TRUE	/	FALSE	1811789585	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+15%3A53%3A05+GMT-0300+(Atlantic+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ba17deeb-61d3-496a-b50a-e8809a823a02&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772492977746&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811957322	NetflixId	ct%3DBgjHlOvcAxKFBE1GrdRNYjZfJrDztyWsx7TYUfRqySe1slAQlMu3tqqONR8amE92WdOMOKX8KyFF2a4Ex8TOPjKKx2Vfv-0BHQh5bxnGrPbS_-Wbx_vFO5zAkJf1wrBYFhNHFQwNMUrtPpGHWAUK10q80ME619Oz8Xn9kqTFkdZ8S2Kq9TLmoAug67DOs2tko0sd3zvuHH4vmAoUT_BZO_byU0tSl3b7oBEUFjl2jEfZQwm3IkhmOJ7MQFdX4KLpu9kueCA34v4xjdFsEWddATyVqI2WQbzsxb88rs99ApFrQdLNXKCZ6W5WUARXoRH2CO43S6U_o9NHBJGlut39-uOlfYMx4Q1Btb0RKyL68i1qG13wJiuAdtJSkeyT9GuZ6Sp9f8zMU3EmMwgi_WHSZ4-PqjHP5SuHSzkeG_lQDYjR8eSsV8PfBerRH-6kKJ1TbRKVKk3uyEuBRaiDwNcSejph9e_1S45EK2WpNnibhwZ8ls6OfYhHjNqVTNipXdjZA9DBN9Z1S5CPzjK2szBKBVt97MsiHd_DM_1WU-OLiLomk0k0OkOKlqbihf35Y3XwYXk64bdm94QbkFd6FdQdvIP_T6IjIVkN8Le6yWG5pqMpBp5JZZ2TxKik1bRUmBvmoel59n7e8dYFQENiw4MOuDq0-rfkzyamma81QXvknnF1Ns6-7rFAs24zXdI2dFgYBiIOCgyLMUBcvfw70Ib6Cus.%26ch%3DAQEAEAABABSLBzegHBO-Gp6hPW1QBENN_m9TxR7H32w.%26v%3D3%26pg%3DTBQS3FXAYZHT7JHQORD2ACXRCA

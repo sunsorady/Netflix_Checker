@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paul
+– Email: oananedelcu94@gmail.com
+– Country: RO
+– Plan: Standard
+– Member Since: June 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 2973
+– Phone: +40774012080
+– Quality: HD
+– Streams: 2
+– Price: EUR 10.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oana
+– User GUID: 2K2QMPZYIJAARHTMRTVYRMJWQI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786456895	nfvdid	BQFmAAEBEMfBMXD_hXw1KxTgEHGLYFxgTLJj-4naLl4hWN04NXYdwJw6cT8yw9sAFKzBoXZT2gPg0NEKymXqcT0Or707_3UaXFa2IrhgfnrQ8-tKkG-KAh6IBIrR44Q07ieCc3xjcFmv1aO-1jKM52TOxVtN-Ydn
+.netflix.com	TRUE	/	TRUE	1799963674	NetflixId	ct%3DBgjHlOvcAxLhAwHb4-7AAJCUSYBhTG9tfLSmMTrrUhi8JGJdHnsu1HPkTw0z25rmm8NBWMFpIUh9_Tcg6llM94XTeoXVbhi1f2ThiYxSxyupHyh2XKbJ9revJvmq9B_yVFRO7SB5p_ttWzhGFLYIP3H0ueVsIC-RxO3QbRsGhfE_VCtxTyne5JG3yl-AQx1twGieRYVuGIgFkVOcsWylUxGRH-DAhaT7G-CuDBZjpNMgFgHTI5r1Mbl7HPbXjiGvnw-wNT37sQrQSPAXr2DxGo8CmTbctfOmUc4OQVz_jEkTK5_tPUEMWhmzEfVmogdbw8peoa_ElEtE_w6y6vW7wqXokpEuaHXFDV7___uySJicYz9wB3e5n9fGKC8C_XyKVml7IBMwtyotpK9PwqML1ZpOvmDo543qlRwoV-LXlBIkuFHupsNDB-wvAyZRT9dK7iwrOjrwvUrSvqbM6nZ4W-O-azU0PCGWl0PKV3KPtYnFT0dNWYliaUJFZwHIWb2MW-qO7rAClV2a1MqMvfoc5gDiv8DWgBqJhv6PdiZYSrfJluskvaC-OpZ22GINBFOxTL0ARkyGuJazka-d1SnXGd_vLziK4IjPvy-pxWQ2gx-D3vwHZpERlHFbdwIrZLckNH9a6y3paaBuMmsYBiIOCgyT-Q3gr76xVBQBokg.%26ch%3DAQEAEAABABTQt19t4WA7NI07QMcd5NZBT-9bbKhC8_c.%26v%3D3%26pg%3D2K2QMPZYIJAARHTMRTVYRMJWQI
+.netflix.com	TRUE	/	TRUE	1799963674	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKoTL9JrjU3sHQkef-VTWMOXXddW9L4DA.%26dt%3D1768427675036
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+08%3A17%3A23+GMT%2B0200+(Eastern+European+Standard+Time)&version=202512.1.0&hosts=&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&landingPath=NotLandingPage&consentId=d1fa2dc8-7156-4fcd-839b-279ca4880239&browserGpcFlag=1&geolocation=RO%3BTM&isIABGlobal=false&interactionCount=7&isAnonUser=1&AwaitingReconsent=false&intType=1

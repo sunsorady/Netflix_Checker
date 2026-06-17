@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giulia
+– Email: carugo.giulia1998@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: February 2020
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7611
+– Phone: +393409416525
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Giulia
+– User GUID: EJSJE7SMS5GBDJM7TND3NBUO3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEEDMtMxEWgNPYvoBBL6rlatgMlIWxL7Ag5dJJXMwhosFjwhSd8MEQh-E0Ik8aDkrPbrt2VA1QCuGVZnwn1EANm_FYuM12DKA1tpp58ZYKbDP9h_LRkL7lB3N39u8RCePw428KLTEXkYLhHp4vNju4IL9
+.netflix.com	TRUE	/	TRUE	1784151574	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLsApJ3CBby4z0Ivqmr3dRVGK2sx1ZQ4xc6N7W6cXiIWrUCXcvA7pImeaAYep7qUi2JL0vwVId0YQxDqwxQaS-JkaKahpSf1twa8cP79e3t-hBs4hJ7Ptql_CgHyIArUNUNKmvo4BOcA--yN1Bh1mGWDtkPVmk1Wa-3D89Okt3_oJ6aByV1oBDwQ7hp-aslZA_nO8oLcwn-fpggNNrlFLRRuUkp3F5UnGmbPD_IPqme5HaxaATwCQ4llVyCPg8B6IMezAMNHwcScX1D7tedkdfaFrRRGQHpRNUXlSyNIgIxbVLUykZ-8oHY8UDoh5ecVXEAsUZVlPNmky25yzvNQ33r8O41_PAmjR-MY8XSvry-lcBFUfa60iwfMO1TGlIl4uYvABAMcMmnpfcI_IMsqlCovkX9xws4aNg9ijlZHRRC2f7uPSsGFbSUfeUQN-d8zjqaB5-RcMuGTpZqlrJM8t1WSHnqt_j_AB746N0OZksYBiIOCgxflRnO7KI83YyHz6k.%26ch%3DAQEAEAABABRayvvoxIhCcsWzBNA6VU2XoT6XLeaEDyQ.
+.netflix.com	TRUE	/	FALSE	1784151574	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+25+2025+16%3A40%3A55+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e45a547-bd4e-4514-87c2-712960d4775f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B52&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784151574	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSdJpAJ4VWBqAP-knU2e5uPGSvcbkNj-Lw.%26dt%3D1745592054181

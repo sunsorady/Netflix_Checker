@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adrian
+– Email: piskorzadek@icloud.com
+– Country: PL
+– Plan: Premium
+– Member Since: January 2024
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 2179
+– Phone: +48726002546
+– Quality: UHD
+– Streams: 4
+– Price: 67 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adrian
+– User GUID: R2KGFL6LUNBBTPIS5RAYRRXXIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795203956	NetflixId	ct%3DBgjHlOvcAxLiA4JMwC0ba2L_RwDuyQcofC2HvZqadyGg9Z0Q_q2NGn09Z6S9J5l6KWyckbQz_E009SanpTgF3Ic7UYsrzJRjT4rjEM3FJpY3dBODSFm6QsDDMv9n84MXrUGh1o_ZcUtZ3K6QXEL_M00nJVMmuD6h1iHkDla8ZuSU-R9k5Dvpa_NXeQ39SlmQK4nW-F7kQcx-kHLYOBRsMPRj9Q_JR3fZcBS00DXeRbM89FuAKo-JSwS3IhKMeuIkUUHeuDLohRe6W1bCDd6Lm8_Bic5ryToHRKPxs1KqrgWy0ikx5EfK49kYWWXRE-0VDzP_ShMMrSsc5q5wYuZWvaO2LTXmLPHZcsQkly_XuU7_R0fzQuLyD00180eYSIj70euZMcd3Juhk8C-QdltgeREsqm9Hr0Dqe5FCiTDUy9z017h-u9syFcTyMBpzLFIhJ6KspjIIjF5jW2OPfFxi3mUkXRwNO4b3pbqvBmTzkqaCtBVM2-Rp8o4FPZ57Ou3dzindF1t-c3PXY_g5YshcLonaqj_qbwnYukshxrVHcmJtizYAjpCUNo5Y34M4aMH4tDgSzVgGyWEe0BRURzoSTepAgn4bgDkTzTBWaUNDmXwUMWpXnJ73wn_fNheYMvdStd7ANPppC_GTpxCUGAYiDgoMkkVu0iXc3A_B5VOu%26ch%3DAQEAEAABABQ9b874YS0mCwaCep3xMMME2EdA7GwL6bI.%26v%3D3%26pg%3DR2KGFL6LUNBBTPIS5RAYRRXXIU
+.netflix.com	TRUE	/	FALSE	1795203956	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+20+2025+20%3A45%3A56+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f09f517-3f08-461e-a9a5-d01eb88371dc&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B14
+.netflix.com	TRUE	/	TRUE	1795203956	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYsZd3Fj6AZJX3e0_QTtMhc96MT_bIBJY.%26dt%3D1763667959050
+.netflix.com	TRUE	/	FALSE	1795203952	nfvdid	BQFmAAEBEKOcU1m_I5dEZwlBo89SIT9gGLCOW40OdRJ4JWpbHdLWEwEhxaQUiL3zVPcDPkwD5lto7CROYu7u60Bhhs9GPjoKPsibEyfY5usIG4Sw85_jP_ixVEDMgZyGKuGQnJmn4k0r4IRhWkLM9qF9HZiXKriq

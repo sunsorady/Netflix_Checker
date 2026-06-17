@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PLOY
+– Email: jutharat.pjp@gmail.com
+– Country: TH
+– Plan: พื้นฐาน
+– Member Since: ธันวาคม 2567
+– Next Billing: 2026-06-29
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66838915528
+– Quality: HD720p
+– Streams: 1
+– Price: 169 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PLOY
+– User GUID: JJPWMUR2LRCBXCYNWUH5VDBWDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807982205	nfvdid	BQFmAAEBEMFcNl1L6lCKR0Mt7xnz9oZgEqRjxeAqKCD9crQ20DVMDyC7JOtUJf1qjdAniyaAsmA0XQnnizpgQYrjNGf5iNmKnfCAJxw1TjIGIeHsjho-z5Jtd5solYqSvQEHyrQcb1uaHeZTm7H8awZeNj3ovVjb
+.netflix.com	TRUE	/	FALSE	1809183194	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+21%3A53%3A14+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a1766a37-b277-4870-8d9d-1afd04c0283f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776446205835&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809183193	NetflixId	ct%3DBgjHlOvcAxKuA2lzPBrKKZd3nzntGbSpVnifnm2uBOUDzgRigICyTBqYla1PoGaALA2zhKzm7hKr9uJWKQjZcYZY0nUrG4qV9RHYeb33qE88GiSzV9_kFwImRk56AaUUZmT5_yXLCFFY2zGsHjA0i42HSk8WR-7Dj6twsUxRHJxurVBPz01l8RJbXD3z1AsbT5abce8AvK3wPGJDWLc0L0v_XRsaD4E32Ci2-ZQbUAHfHCZya_p-GUhCvlaPHQiyOHPTpTfsXeP0hg9f23rW1XqRDGV8IV9TgJ5MyLsw1UnNS4qh0BcQpL6cZVN9MXaiACX42677AQNTMC-1R8BhEpN1gGTNcBhvIIBgHD_pO-lrAUxq8866WBgiW-BzMbBVKXK60V948qgMPonHPc2WuwqJp5vCokLn-CIwXvT147fgfxZWnR__zHbSEiZWPuPoY1b1BarDmt8VoRa-UUi9yqVsafdE8cg7W5_awNk-5aPXiZ7jBOzu9Sgf3IA1U9LNyOR_Fk3ogbZ1F_L4EF6SYedh0mEMg3r0wgntY7RTX4ls9DrfThGD_RN9gawJuFFSRTlKllf4xmQYBiIOCgyAqlo9LNgtQx2mWwA.%26ch%3DAQEAEAABABR8tnV7oIl5-qVZet12fiwDkMnE13cS0ME.%26v%3D3%26pg%3DJJPWMUR2LRCBXCYNWUH5VDBWDU
+.netflix.com	TRUE	/	TRUE	1809183193	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQe6irF-rJ5f1ePHkunIBzksrVlNE5K-pQ.%26dt%3D1777647192296

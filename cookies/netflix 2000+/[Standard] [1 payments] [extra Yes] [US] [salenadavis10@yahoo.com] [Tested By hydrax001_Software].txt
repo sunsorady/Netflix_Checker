@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Salena
+– Email: salenadavis10@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: October 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 1852
+– Phone: +14058898603
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Salena
+– User GUID: 72XUI5HKWBDFBALILRYUY76YD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809972990	nfvdid	BQFmAAEBEHCSQg3-B5vvWq_5zAxp5vJgsw_16ZphhnWfVdIqWOdL6c0hjz2q9FybliWjCA9khPbVjpLb00DNqQMlFfNm3O86UevU7y-FZ8NROK3_0FcgpMUEfcQzCgxK_SPMp4BuwIij-sFAnk18tJ6FEH85PWH0
+.netflix.com	TRUE	/	TRUE	1812272757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxw6tMT_64UCTv9xwmPgC8kZMqPTjclNo.%26dt%3D1780736757311
+.netflix.com	TRUE	/	TRUE	1812272757	NetflixId	ct%3DBgjHlOvcAxKJBGcIet8261p8JYDWf3VELvWO00cR6co2QjCnaQ3f8zNH57xPF-HYpStBFsakB1Q8JO_lSn93tjR2sPMN5O6P5MOqQJj28Bg-36kg5csAzyZgHUedVcNwATbwcyGe7W2rBM6uuuf99yUVlQXfDqgRYRvnRHMvGkVEVXSQlcpBKr1zpL708l5clCtNLOUJOmZ9fcTSK2qY7lU_r77F1TR-jK_Bo7JZixgIBAYr9-QLKbRwL_L2fql-0fVCiMHFJ9H1ye-YN_0yAvfUDGhoWoOGGpPk-5m0TvfM8qXVlNiVOa6u9MIutyh8cGGUoVb0E96_3l9LgHTJhgu2teSP8C23dcz-C_iNpv_uaDfv7YqQfbUI2K7KHNHlC6gf2zKXpvcPYcyeFjzM-Fl3vl7fIvSwBsGwFDlxrUsN8bVIC93NNZcwxTg4jzVoeq-9ife4yX4_cZAqrnq6XV7FUXDzZcTGNSVpNsK5CcnygEcOaxTV70MdPa442Sgu_rs1luiw1DfAvsoduiYiTQP6oHB_Cs67NeCX_Q4QkruuysxDPc0dtp2yWQE4PGPslU5FhzU0QtOQ5zdXm7-EcWXfnKdWc7o6XpD0hvxv1n3N06vHMagxhw1aIkSnN1qbu-tCWlvBz22k1C7VGVv96YOgwM_7BMJ30ritatyzuIbclMrHFXv09PnvpA9AglZgCCZ_GAYiDgoMPGxBNi-yemvjFdLk%26ch%3DAQEAEAABABT-PGmswKmBAFRwMtt8ocSyC_4a2BtuHyg.%26v%3D3%26pg%3D72XUI5HKWBDFBALILRYUY76YD4

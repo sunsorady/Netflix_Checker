@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jordan
+– Email: Coraly.villain@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: mars 2020
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 3320
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Coraly
+– User GUID: K7BCZ7MZZ5AJZHOTIIDRTISKQ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792137812	nfvdid	BQFmAAEBEEs84m-Amv9CMTa_JBj3uGRgFP-PXqbs8giEfKequatKeOSz6v7Evc-T8KYB_vr3uPAbfftONflNEt3SFqbej2wnPTJ0kD-I-bIZPxqFGjP4CyFFYgqprDOMk-Lgk86hfdndGHrBy1Rshuvzg1VtT3U-
+.netflix.com	TRUE	/	TRUE	1800449163	NetflixId	ct%3DBgjHlOvcAxLnA3EvokDTN2M6hh1uE41xk--gmczkHzpv0J7xLheywA1RC6TRqbUS8ghfDhyAhtrPZhr53Z32PpNAzaSwW-WLRu975DD3o4sADyeehoLjvZnUrWvug7LE9wMWyOrM5xhkMjxol8HcLsRzmmiHcxOSTbUtErSTlXp9lLgEDspImewgKEeiQz11VLeQp_Iw3YjqonCG6rzOWiJFn6oQoEK-F-r9RKqvxPik42t9OHGB1p4XaDvxAOrJj_S7vPglIY7jHTN-H7BhAYPH82zIhxpdbhkOBRZruoeI-fs11xlxYI9bSRyC0DbPtoiBOPOU_rphcLgggIgvrpDuCOm1bdEPS2nQem8vQ2OK4-QTvFnYta74AnzjToZ8CN9E2jbBFBY6Kld8bRb3xdgRJTOVnsOcBjgjpKzaVJpCG3Eg-p-jx1ZEq1mIEoSFBnnEDR1qO1gSUERpaD0JbjWQA0g2Esk8nJ4W9UDJr3wehiIUaUxQvYDLfgm1xZ-RSKA7R26_saEWCT93aopCi6NxSH7BS0IzGc9I1MHHNP3KOc3ZlJJOen7v291T5Ry5vhqQLh7i5V1_3VjJUgMDnCWEErgatUqHxldo7NGvpt79OE8LyP6Tkj9sWkvgU2f7pz2PgiMsd7WOtFbOS50UvJIYBiIOCgztrZC6_unnG8v_xZo.%26ch%3DAQEAEAABABTk02OqgkGSVaxe69Rspz9_wa1BF3Fl1ng.%26v%3D3%26pg%3DK7BCZ7MZZ5AJZHOTIIDRTISKQ4
+.netflix.com	TRUE	/	TRUE	1800449163	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNXG7ztGmqg3ZkvH4S-xj_ywAqYoFVmT8.%26dt%3D1768913162471
+.netflix.com	TRUE	/	FALSE	1800449324	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+20+2026+13%3A48%3A44+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=47b40d69-6817-407b-8d64-7898d1410bfa&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ

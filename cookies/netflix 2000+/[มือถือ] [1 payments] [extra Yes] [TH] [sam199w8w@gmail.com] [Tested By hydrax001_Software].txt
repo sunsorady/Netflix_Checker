@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: แฟนต้า
+– Email: sam199w8w@gmail.com
+– Country: TH
+– Plan: มือถือ
+– Member Since: มกราคม 2569
+– Next Billing: 2026-07-09
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66822183167
+– Quality: SD
+– Streams: 1
+– Price: 99 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: แม่
+– User GUID: 6ZGS5VEONZA4LPZQVKIXDE32LY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808573545	nfvdid	BQFmAAEBED26Zg1S5w4KgkvBDoKL_u5guHcM8uISBHG1LDHejPwLzoMeujNl0HSwFnfdwR9gRixYahjAainWB2BbwtutZQSTS4JOh6ebRWX1QKG3vXmoIgNvKVwffCeLmiKZEWk3MbeZ8WY6nP_Iq3aFAwJlZBAr
+.netflix.com	TRUE	/	FALSE	1808573570	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+20%3A32%3A50+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9ebc24a-08bb-4f66-b096-ae1412f6b900&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774796229787&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808573568	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA_zB5ZL_loFxCVMJu1_Es1AwZUpWnDvOWx7uvSmeytZOt_8u9Tx-dhnYR_hAmadNJzSTzOiUZh3oe0ZCXCy-ZENB8K3DbWsEGWSytjW41jdY17EDv6agPgCPa4LBPv7na2k1OCUsYmmLs8udgq5FFVYpkY-3mD7DAD06_rej02LgAZRKW-lxY0k6r6vHst-Df6KpDwnEwbl6BYZ5820ti30aoSWSTB7TFgVgStqKiAXjwGA_8TtRf2uAISfROPHsRXRxO-vbrdXGgEBmfDZ7LkqFuxUzBZCje8gNIMzeyStsZcfOJRsp0vhUa5rZWLVrKUVkY4NBc-oKvU9ta71y1USW47UMpFrKjOV8UbFFqm9Oy0g4aFTq_J3zobBEk3m1JhlN5TaITbI10Hh_i2xd21MHpfSo9NjwFzyCILzGdZ7SwS9j_VNJ-BKjk07YkPORLUwsNMYiNZTiNlPPKxOzYq3k0wITTTZ7gCgSGbd5s85JXja91KrJXpaPg-5IBhvzhjg-7Wk0wkonpNcFVO99osVw1rn_TjCaS2RzFEVsKY0aIq-jGAYiDgoMOUhDbeOZo8Yib2Fy%26pg%3D6ZGS5VEONZA4LPZQVKIXDE32LY%26ch%3DAQEAEAABABTStBRdofA1MzxnAdr8gv3JuxF4McrVJdk.

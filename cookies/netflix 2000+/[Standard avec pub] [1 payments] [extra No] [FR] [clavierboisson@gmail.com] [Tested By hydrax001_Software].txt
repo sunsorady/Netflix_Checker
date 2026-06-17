@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Schnappou
+– Email: clavierboisson@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juillet 2019
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33642092886
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Doudou
+– User GUID: MYMXRXWF4ZEJXKCI3RNANLA5OM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792351648	nfvdid	BQFmAAEBELvQkH834UbgJPaDqazlw_BgbAfIeHhTw82LLSfFIrU-4slrdmoGpHzFweqzGCuhenDIR758Mk8EXG9iToEsdK0iUhkZTBgkwjVqURlycPOMOMeSIa9zk11OBSoDvIXzKkHsi3b2-TYA2aIaDoVeVbQ-
+.netflix.com	TRUE	/	TRUE	1811449396	NetflixId	ct%3DBgjHlOvcAxKJBAqn1nLzZ-err6KA30voDe_hNFFrsTxy8PlYTga7C5pc55R0XD8-OJCQMz_-6XTOfU4YM2uVcf_N99saPK1FoJW0z743p3WuMxWToRC251sN6U6Al5wXzrM-34SIeQ-hdb35A6oBIXAkShDhW86XwtCmnW0oSIQkYRR9A78JlxrR8wAbsNNvLbedGuAOYqNJE6TnMyYoirFUfgaz4gOLLIKNPd41fGXNyAIEdr_dvAInWLQ2UFPHP1XgRLmi2dCwGWmHBw-gOulHP6TflN7SD2arLMauJdEoI7aF2wky0RguSXerWUnXwk7QKwI_3EerkwXvkvL5AqDqnbXg2-arhoBakfYEuRxL74B7qO0lnVpvk9wyin9aV5rrFxdED1di6bdN4b5NZeQCTcC9WJXAsiCKevtopTCOg7M9fVW7Yh1z4J7quznxNPgM-ZJR_P-4fVLpSu5T4JJEq5am3zpJZmxDlC0km3iNftWrV0C30BocVPOXBPVSh6Bld8I-Si2x0FEFQjsn5fYrEMjTQbzo0V5UqHBTbSV3JHddGU-EvW9gdpGOvKlROx1_bdWL01wUGC0rHhtahWRGKsDWZcowog_aww5H8lIgbUnmma8tnJjTzDbEAH9RFtI0qCClHOPE-rHFdl-MFZJGpf-Jfve_by2mKVq7kfewkyezQLkcvXw9JvOM1_CtjxjpGAYiDgoMSmXlwvo6IxP3Ilm0%26ch%3DAQEAEAABABRe8X0ZuSv3zdzANjrzNtNS5-YLgqmek6w.%26v%3D3%26pg%3DMYMXRXWF4ZEJXKCI3RNANLA5OM
+.netflix.com	TRUE	/	FALSE	1811449397	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+22%3A23%3A17+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3dab16d6-4679-459b-a588-caef6a9fe002&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BNOR&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

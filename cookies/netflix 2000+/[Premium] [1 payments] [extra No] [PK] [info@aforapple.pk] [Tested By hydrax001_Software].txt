@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hassan
+– Email: info@aforapple.pk
+– Country: PK
+– Plan: Premium
+– Member Since: juillet 2024
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 9759
+– Phone: +923246557286
+– Quality: UHD
+– Streams: 4
+– Price: 1 100 PKR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hassan
+– User GUID: ZRQ2THTF75DTVEKYANLEB4MDUU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810314812	nfvdid	BQFmAAEBEPoBLWGyqE7dQkR1-XNbxYRg5MI0QIW2UCDjZSbyWKSwTFj1LU8-YkDTunevWvVdGLVi0oH7t1th3weA9JH5fI0k8mfG4hatp3RiYZfJm-f8JcTxRiRh-PUjAsVkJSXvqfNJrOVd3pVtbBeEO4XJGrQc
+.netflix.com	TRUE	/	TRUE	1810407542	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA85LSVTMM8tllKu11o44Tx7dFEgeuHxlRlJVuhrX8KpULQvfDzPDyTKkSjMGa9qcYBAMhZwz7y4n-vfOeCQjkPwDrOQzC1gZGN7jKuw5-p9nlY9bvT-aeXSin9xR3f_aPa0AbTjHvTEnIcR2jwDpLJoy7oxViqirGf3WFw7s4RF7gGCB9CwXQaap4a5wKB6mv7Gg7AExNFty-A3Yqlay8n4bdC_4X6zCrNvVTC6imEUoN5LC7qHgVegZJqesKy3VcU9NkzipBPbhZdKWb3Yq-au_OFAg3a_oAcpcipxOhofDcXxhRUu5u8Qco05p-oP9Nwbcgq74yUgoj8M5u8cL6wSAAqDj6XToKi-fGjAA8zTgGFhKXVUm_9VvhN4AEU0DwNbr0C0w4fuIWOnw7c6fZwsFSJQMa2YSJrXgq8ke9MfMpXxXVzMBNyYoZxClCLnGnabDD6d7Jj6FO26pBRBLO0LiEehDipobRFVYXrXs1JcIfeUqJxVwax2XuQZ3E7nYjg4WHcKHaD6ybuRpSXfCh2AkyPA0nFdcgXHXGAYiDgoMBL3m5iXJKQwxdtQ_%26pg%3DZRQ2THTF75DTVEKYANLEB4MDUU%26ch%3DAQEAEAABABSKUZQR8qB_h90eV57JuXRopnxBygQzYqc.
+.netflix.com	TRUE	/	FALSE	1810407543	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+11%3A59%3A03+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=62c1c94c-b693-4856-a1b4-ff78841a53e4&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778774332782&AwaitingReconsent=false&fclco=&intType=3&geolocation=US%3BNJ
+.netflix.com	TRUE	/	TRUE	1810407542	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkcCwAIR49o5DcYty-Ikb3-Jvm8i-5vxE.%26dt%3D1778871541540

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marco
+– Email: scoassa95@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: maggio 2026
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7102
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marco
+– User GUID: TTA6XTR2IFCAHBUE7PKLHWFHHI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811667382	nfvdid	BQFmAAEBENQOceuEuLnJUt2Usgt4-j5glFLn-OFC57aeUec9EW6BjohAQz-vf_a86gO8TRSn18q2dgm1xdf7Dunf3DeAqL1-LzjDcHpNMuQAfdDEzmANHSAbHc8z12r7GjZ_RZG5lB7HI93ksCdjjBD-snK2Csws
+.netflix.com	TRUE	/	TRUE	1811928231	NetflixId	ct%3DBgjHlOvcAxL1A0lj17XDnAYGA_iHkPZj4M6Wz-qRUfaKpPthiSuWM1wP0CjdxHSprA_lYELgJ6jnq3dHL3AJPy9napsUqmNqaeUJkd7z5opLK2QdsUCR_nbB3u_56m_mkMnPtdKfwLuKN2kqErjUMeWaI97BLtyzkOf-wcKjHctUHPK51LMEFZwPI7NunFCULfvdIPC6qa6Na4pKJi_kjUu_AoCt6MlHZq6XlocL4yAO1xl-hO0XjuMcsjgxEduxZWUpak7tkC7jtNpL7Psdsoguiq1PX3Ge-YAwJ8go-GC5HFP7j0IP9Qx0QsDB_e9oLyajMZHJAQ2m1d2xX2S2FYP2sYexny5O6ZwDHkOdZn-0GnaO-3eqPB10cXc_q2D3ar1rbVtj_3JmaRAJtBRnkcHHOwcrb2oXdstCsl0HbgJJdUNS8RGHfBUZHaC9mwiS8-uq03qwDQJCmwoXDKCBDyu6I5EJcewQWd_Kd5u9pI_4fPWmf6kMb9wJpZEpWX8ERSFKyCry3u1KY5cbGIA7yPCCf_558aIZDF_cSwxirzx8-PMun-B2Q5w2HlTClz_b9vQSsvXzoBNrXftTC85XciH2EXPGySfU7Wq7ZZ9GLoaSD6rht1W7CG4QKQz1cihrPlbUxm8NEpUYZBsFkddhuJ7A-9hf2Su0NQ361exIaxgGIg4KDEuHhIwqvaFYDFC6OA..%26ch%3DAQEAEAABABQB6b52FYcHiVwQ_H95oS2FhOmNi3S3qTE.%26v%3D3%26pg%3DTTA6XTR2IFCAHBUE7PKLHWFHHI
+.netflix.com	TRUE	/	FALSE	1811928231	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+11%3A23%3A51+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d1d5115d-682e-4e37-8491-4896c204285c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1778262959671&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1811928231	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEf841f80JC4cXW2Qx7i0JXqryIZ4wJ_E.%26dt%3D1780392229486

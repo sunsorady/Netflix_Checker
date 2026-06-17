@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bymat
+– Email: mathisgousset1408@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: October 2024
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 1891
+– Phone: +33610641578
+– Quality: HD
+– Streams: 2
+– Price: €14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bymat
+– User GUID: LQHMMLZESNCVZFU5F7L57MZNPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791641182	nfvdid	BQFmAAEBELNTdlBL0bND05sokWFyGnRgI-DPAy1M-xz8cwmHgkdNRtR9JCy13wJL3-XK9jhxp2MQhqeMRlhEU_jmg3NF-0wRGaJSCZWuOQgEmw6WGqmvmAu9WUzpXiMO8o7qhL79dy0meqP1G5E1sO7qTArch6kJ
+.netflix.com	TRUE	/	TRUE	1811332855	NetflixId	ct%3DBgjHlOvcAxKBBAx8JD122RpWyynvusiKxI-kqp0pLlICis-RUjdghe8blO3rrQndrq5e0bnQp7VBqdz5LxupdGrMx8KGlK1x0xP1jzO88_WHmP3IELck-fIxVXNa6kfjQOrg9Vr4uF0UCivtxRZkxAL5Cw5pzhLuZHT1a43Bom6LulcXweIUDlX1fdfVe9gqNQctQXdL1usTFoLE7tIy0q1dXsVwpDyqH22hAaWOEa1ERkMGjANIuNOI4x1tY6jrBSDL3gQqXa4d4qmXFvKkfGXfhM0ddqEbRqxVqiMiYLxDOZfhfsV4SqhkdtUmS-4lAg5GF5d9Cers5oDUq5SUByjoeVCztnKdZt-QrDtXZVx9iOd115CaQYDEgv7ZOau5COPNZkOATv7nEpcfY1kdUADBfrsig5OXy-9FNRJ2Of6yS46cQvAhV_56vzp8uuULNF6RBUBD1haoi1hE23g4PjggfLxsg7RVdxSQnNrsUVR8-8RC1WC4XzdEyuKa5kRRS4032r_MEkQXIKwljNwD6eMNlJdzYbr4q6hbWDeYnOuh2o2hV87YivjahAa5VD8Lq3bq3flB5lETQ_xxazHWokjimk1uowCsKd7BL7KfPulr2uiAGixKdjV3MpBX0SGMOGZyFTY-r_rNlB7tDP1dAX7lPEffHtGduNk0-uxdib4UtjbG0Rhhs8MU6BgGIg4KDGVkrdUOgQoE8YYCNQ..%26ch%3DAQEAEAABABThj002VFm0T68IsLbsCaDbRbr9YoVj7Mw.%26v%3D3%26pg%3DLQHMMLZESNCVZFU5F7L57MZNPU
+.netflix.com	TRUE	/	TRUE	1811332855	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRoidLYeMYjEmzu-BZuWyny9haUoWxJrUg.%26dt%3D1779796856705
+.netflix.com	TRUE	/	FALSE	1811376469	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+02%3A07%3A49+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f171a3a7-732e-4197-8bf9-2f33257c5e17&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

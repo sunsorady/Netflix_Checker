@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Asta
+– Email: astaismo2@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: March 2024
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2949
+– Phone: +19169579455
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Asta
+– User GUID: H4KRPDIY7JH4DF2EH7SN5FR7GQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796423652	nfvdid	BQFmAAEBENTUqBRyS25vo6b9J0XkrrVgagiwv2MQpZkOzMAVfUtgN44jaNA9jxcVTXffgIIWR4ZKQHSGdSfNl81KBPt3G6EOZ1CmgQYINjybxloWNzn4Bf2RvT6k6LodsxsLvVtAudJ4eNkW6PbdC9pbmBRtBCcJ
+.netflix.com	TRUE	/	TRUE	1798178316	NetflixId	ct%3DBgjHlOvcAxKeAzv3dKIpTKc_Pv5Lc2NrlVf7yaYRoZ-QlphaPSTcxi-RTuoJLkL2A_Cb7ex76e3x7Ersn6V7beoALpfm9SeGXxcDpDlLIrVWOsJoZYtXrakU_aaQGfae0zQlqrSGDvOLYsGCUMRLPGOmKixO88pIDOsPXCqVzBI4S4mw76w4i0CCl9iIx7x_N8qAWW4HT4nYJHtUJyvZmCu4AVYzTrcllrEidatprNIYtrn0013q4EX7N-U4QewT4JacyQM1Q3T1Tw91fO9x182s-WPszMMLFcQqhxXnP2w8ov3iEAkPdv379WVnP5HBENBRDIca8_b_tA7FHmbhlPgWAz0fopvoQe8F8NOE-UjHICJXHzYcVeUUPL7qjnmflgTbmpUQz8GtbAzSHY84-ZdmnoKPqzH94HtS3VYCuS3PST_89fjP1lUWU46cojgncV8nyj7Rje0vNlbFTz-El9qC9qu2a_oVsZcSpCSEsEdoIjF_eqoO_8-coI2XIyRkpqb9QrkaPeMRPDlUDRuImBW8Omi46ISXcLzWhX9jtr5PfezcdAq5LRgGIg4KDF7ifQj-6S0B8_QKSA..%26ch%3DAQEAEAABABQ9UZcov36I_Rjztm5gleUWpbEp7h0PpmU.%26v%3D3%26pg%3DH4KRPDIY7JH4DF2EH7SN5FR7GQ
+.netflix.com	TRUE	/	FALSE	1798178919	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+00%3A08%3A39+GMT-0600+(Central+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a19a9da-0953-4fbb-a021-5bb05a707d2a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

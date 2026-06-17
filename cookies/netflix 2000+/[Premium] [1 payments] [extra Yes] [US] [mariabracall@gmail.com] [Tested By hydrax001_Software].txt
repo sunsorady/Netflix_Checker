@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Niko Dingus
+– Email: mariabracall@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: November 2013
+– Next Billing: 2026-06-25
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +16098052842
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maria
+– User GUID: XXM5SUZSKNHZVK6QIX2DM77NR4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799794872	nfvdid	BQFmAAEBEOzLVj69lyK2rlK7JFe3vJ5gjcyP2eOt6AHEQuC5IE_XuMCl8THhZ3Y-Q57NBFR3AHNLmgX2Pie--lgEGDajnN_Uy-m1cMdIj-dtyZptvVA6OZWmf39K-e5p_ZdQSV0P5I7Hh1NNH7mzwBDx1esGPduZ
+.netflix.com	TRUE	/	TRUE	1799888855	NetflixId	ct%3DBgjHlOvcAxKtA8UneDIQTmPZOXyN95pRSeHQcpMi4W4mzwF6WbhqKk8elWoCbmulTWcWSiKwXMB2moLgCMgnF_vUBEPDI7ZJQwFN9625du3StcK_LqxW-zwF01xQrWiX9mUMrgk1GpaCiOeuDmiwWkAJ0Qtixcy5jvjXEhvYxbUVRLkaKRnG--MPRfMxe0Vaxo0EAC1O1392BLqGX5RKQoXu3uuFNRgtVMksi6f_IX55UjhWPtuQ-WgGbKiMaKkEr6q3dEei_W4SX65xc6m09n9Bg73KAbIxqPUdbiPlQZeDIHo7Ywzfu3r0-kHkcAtFJvlLfYqQFpGvk9_FJ8Ai__MFYVwZ2CfoP_8TcW0PTyE9C_1ObicY6ETMSF4jbTvJZwRjQhLCvmL__IRkysgM3D5VAS_dJbGjcRNNtRCIpx5L_DYczQLeF6mygdY4-wuI7IsqVQ3sPJGa18N9noG-l45c256y12Ome9Le-Zf2EZjPMzUrLp4fu1sPZW97N1cMv3XcLycB-yp9hnyPWdnND6MZ1hoiyLG6NT9An6dErbK9aGnQxr61ovYKbcd_cmQmA9Fi1ifldxgGIg4KDKmXyj0WNKxjGjnUNQ..%26ch%3DAQEAEAABABSZ6Ms6jjYryatT66hguLV-oEC-hNlWCJ8.%26v%3D3%26pg%3DXXM5SUZSKNHZVK6QIX2DM77NR4
+.netflix.com	TRUE	/	FALSE	1799888861	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+20%3A07%3A41+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f894d981-4841-487f-9c6f-beee0d0f1b59&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768258687231&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ao
+– Email: sibeloger@hotmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Eylül 2020
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 9216
+– Phone: +903206913
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sibel Yılmaz
+– User GUID: FQV4X5RPWNF7PAW5YAXZGFLI2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804350750	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AjnK3xt_519XC3XW3JdbhgpbEToGpnoFtTquvP2ZNCiEUl_P2Hp7e5otXjO4YXl7ALK46W1WIokfKeqCLYjOe9pGYtq0lnLpDuiXHYKxrGjgP-sJEZva8VM44qpZLvOcYktc62s5pb45wSt6h2GwltykIHDJaCcqsU9tl2br50UHojJyag-8erPALUOEiZDqC2IWBuO_VWm24GKHID_4U1j41ZaNi2VMnEg3aPekhPt3GiwI7umxaYvceGOJAzVj-E0ClXi5sGmpxoa_kZzshIRDHX3yjEzIEsiero5Nlvc_Vj1s38zXb_xUFxZPnGCdFNYiOwD9k4rc1e5itHHZa8n1znB8HwRfiGKV6dxfk4g9VxhYHXTySr5zvFSsmky6IonZJmcwUMOBOjawgmgkMq5f3Ozi9_QOXT5pxVEo3xsWw3G2Z5T6dV-sA_DO7EukDUQU7gWiFJHl97c5La8L8oJDjY3X9bh6doDOg-NQ_73NiciepyGmUYyfGAYiDgoMDoi6X-TiSC6YbPIu%26pg%3DFQV4X5RPWNF7PAW5YAXZGFLI2E%26ch%3DAQEAEAABABRN17O7CmTc3bcqNv2ncMnFZP_XJLV3k9E.
+.netflix.com	TRUE	/	FALSE	1804350752	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+19%3A32%3A32+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17587de0-bfcb-4d5d-942e-3c12bbadc2d1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772814599128&geolocation=TR%3B06&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804350750	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRSHa4ZtL9n0xIODOmYo3hwNuaN3DO7jg.%26dt%3D1772814750659
+.netflix.com	TRUE	/	FALSE	1804350748	nfvdid	BQFmAAEBEIIgTJQ4Qnne87lTbYL0bBxgsyjTVKB8-TA2oIjcqC4wVB1UaGVtBYK_Ox_zCBx3ZBvdCqA18eyEFypfZdno-nIc1_Um21NONpydzWCN2os6fXfYa66L5ysmJIViA1zW3rds5P9ABstXvUWeOT8yW3ri

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paweł
+– Email: artur.buziaczek@o2.pl
+– Country: DE
+– Plan: Premium
+– Member Since: Januar 2019
+– Next Billing: 2026-07-04
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tata
+– User GUID: Z6WKS5O2EJBS3GALKCS43PRETE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809455444	nfvdid	BQFmAAEBEEMEtquR0KjAC-WK0h8jBJFgdRUHZJkU1Zk1oDqwuGIjuTeY-wPGb4WguV3-SWqn5uGd1oOYQk5q1Gp2vQ1oG_fnieocnIVz_8gxyQ60Gjig0QolxLlAnAncFB8rxblesZxs35U1ARybL4jZvZApAEb2
+.netflix.com	TRUE	/	TRUE	1811140226	NetflixId	ct%3DBgjHlOvcAxKGBLdeSjKAYHVECp37kDzryQmXw4wWE2hSVRtMFllzXyKOWvOyjgyEj1jkfkbYu6dcaMcnh4tpA7zWe8noX1jcE2Eo_rxdK8B4oD9xg7xgPZ92anCkm3izMEuTF7YUiKrVlqf6cKdmwAiNwrwswHDsZz4W9WJT6E03F06GZWJkAoAnICnjY3zcwgBbw3Peo8z4mgQfZF21Yc-tsMksLFxVxuFvHf0udd9dsTkpVcsM5zjQRXxnaCYnMYMWBxwJ9jejpovU_2k1u_WyxKmXw0JDSs7Wi55RDWCx4CFcgoNV1Dy1lKbB4T-5c0tn9BcRQQktjBH5Gr-5-G1zrTKhDTZ8lp-KLoIDKDCYV20fxb1wbSrzWGiqtWFYSXI1pDH-zqMJqriyOFDDTSl0y8bW9-ir-OHVMLrNdLo4ck9hxbv6vbSzsWndLmIla7V57xlmMtttoMp7cqi1eVUJf-p9LF-CuC99vlLxl_9DX5FY8-m7neVI2EzCTS-kr-90ovYwUte57Nj8HtzhrVoOxdxeLQYZVCWoqgfvHZ5_da3-oJNyXMl_MSU8yx1RF5UmfcKH5szR0xR-HvI4VCl_6LTjJuIn88oCawq4f1WJM-Q9LfyBvYtlJ3t5VdnkgV68Tm29wPAm-XqGmHjuoO5SPQ591qnzj078QOifq3_Lp90ZJD0eABYdPZ9qN0gXGAYiDgoMhlSys1IFPxZoOoNd%26ch%3DAQEAEAABABTLbdw1Tk6kaYGsrJ0W2pmGA0LqHgoB30I.%26v%3D3%26pg%3DZ6WKS5O2EJBS3GALKCS43PRETE
+.netflix.com	TRUE	/	TRUE	1811140226	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSrdgfwC7eWc30Ux_CsCq2a90j6zcBsgQQ.%26dt%3D1779604225809
+.netflix.com	TRUE	/	FALSE	1811146933	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+10%3A22%3A13+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a763156a-608a-46b1-8df2-1b34af6e9b71&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777919428178&AwaitingReconsent=false&intType=1&geolocation=DE%3BHB

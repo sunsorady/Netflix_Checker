@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: silas #1 diddler
+– Email: ceden317@gmail.com
+– Country: US
+– Plan: Estándar
+– Member Since: diciembre de 2020
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 0817
+– Phone: +19126876249
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Catherine F
+– User GUID: EFVMT7WDMJHR7HGIQXB2N66XGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808000109	NetflixId	ct%3DBgjHlOvcAxKOBO9ocqEJIEKwAxDrxDfaS-Tj4NmWOW3z-CUwaeZeqYfYAiC_QpDLULSBX212bwAn2pxlmf25r3uiAHw3lUkXElBCq6sxkjA7pypX3EzHkJIcO12Zyx29jIzWf5wb7jT4nwsWMuiGyAPawcGi_fBcSKEN_E5fP2kMg5zF8NEihccaqiyK_tJ9HX0RFWkw2ZgnPnhmhYcVfrdF-RWME6nujn1eyQD9Ocam_1ECyLKeXjaT_kDkz-9P36Be2syADsGDCVNXztLocZxOZ4jkwI58p37NVTC4rljFXe1Xurw4fNQpp-W6Us6nztN6zpuGQqZcFz77S5J1h_PLLjKUm0T7A-MckzYrxR7PpZf6bgfCBm8YBCKVVTYfq0smrzw5WaOurQvOkS15bnCtFYp3YxueEbxcSixrCQCN4lfV-LxgyWIMEVkTAZX9nsL4okTPJCkDoA1BknAeSvBVKthWKMwXqz47JZOzwziOPtgd6m6C1L89f04pHEgHJ56IT2RSOYdAJVdPxk4Fw8ebYv-g3xvGd5wb6zG5DPICnGyYiOBqOjw0iGX89tBkq2JyUb2MQ7rZaPtE4-WTLly4MDiCWLMiWNTls6yMNdxXoTvstMk2Ex2edfuvCzUNFTqS_McrXfhjyseNWCHixKXQPiTpwE3WGUzPSI4Pbkt3BKJFq-rEWUdYu_Dm_afbu5jJ2IyCN0sYBiIOCgw4Gjrbbismf1ae2dg.%26ch%3DAQEAEAABABR_5rIchVJ_EypPA7nBQwPuWj8fQqTmAr8.%26v%3D3%26pg%3DEFVMT7WDMJHR7HGIQXB2N66XGI
+.netflix.com	TRUE	/	FALSE	1808000110	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+17+2026+18%3A15%3A10+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c369fef6-9e87-48ce-9dbc-9b3855325e69&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1808000109	nfvdid	BQFmAAEBED_ZTkYHlIt2zTPn_EPP5rlgUHuBHI6oXgdkT_m7AJ2R1jdzgy1uZE8jS2AWi2pSOS-Q8NduVzz2-Hd36uSrMEkVU_KyWv5Ce6iFN8KwT06QcEMTj3xN9IToNMnlP8cenfVaeuywqoPe_VYI37nROrQP

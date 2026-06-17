@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hát Jól Kitoltatok Velem
+– Email: vetrozozi@gmail.com
+– Country: HU
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 9583
+– Phone: +36305841134
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Én vagyok az apád
+– User GUID: 5HPGM4VPFRFU7B7DE5FZ3I3JTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788253091	nfvdid	BQFmAAEBEKOtS3shMHQS_3LUjRlBoiNgIZBAXASD4700pkaKv2hv_mozEV04Gq_WNfK5t4ao3PE2Oc3LNjHHnjQb27cEMby2juz3VHA-oYoDE09oMyo5zq3QzX2qE4iBo5xCXb4uxcz8vtAPFlPqeIadP_Yh7XQE
+.netflix.com	TRUE	/	TRUE	1792517058	NetflixId	ct%3DBgjHlOvcAxKrA5NvjBg9AsNk54z9RT8VsrjTNaLBhsvX4CR2cvVScngV9TC1_nPpQ-NNHfl6h698k6pKCYAyv6wm0YN347sdgVxetvXyd_zQBMOHzeKATx6Pq_DV19c53GV81qJGKGMuhIhdbjrpm4w33KNR3dlX31Avj0sOZbazEoD7kfyh7xJLLaqfPelWBYIQ1L9ThXkYU_GDUuoJv3iBQ9VGhwT2ZSp0kpGDpILGZZ61AYBWhcXikFn9NZtVZUzaxLBtJyM01cJ1xCkh6ka49ijmwc_AwqyKD1uOBkBFWxOphVNG5lFUq8wwvnIReV8yUcYkHK6zpXFEL8jodBz-mSJwTg1ErvOAXLp9NAmWjSVyyilB6X_zF-MXcpcNkAd80PSKc-D82Bc2YLZn0BAjgtmGvFg6zWtGFoxVsKDiM6uGhNL5IkzDN5OnyYDVkUTBgfSFXfkieBdp1cMkpMhZXJRZ5e82qAZ8KNoCqwZJrwLYRdESoB5Ygb7mAeMH9_ID3q2jV189Cu6fc0lnuKGr6-IBkx5uBKDtoqwz8UabLdEvzbSqvT10EPITy3sksU-JxQ8YBiIOCgwOUrN7OvrVPUd3P2w.%26ch%3DAQEAEAABABRwxrImsx6QIxwBoqRkCuxzhMnxmiBVBOQ.%26v%3D3%26pg%3D5HPGM4VPFRFU7B7DE5FZ3I3JTQ
+.netflix.com	TRUE	/	TRUE	1792517058	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6sLAgJ9mX9FGwqL6jZjWT_v0rwhy8Bqs.%26dt%3D1760981057718
+.netflix.com	TRUE	/	FALSE	1792517234	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+20+2025+19%3A27%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa6b5fa8-0a0c-4b24-92a0-fa918e9e6ef1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=HU%3BVE

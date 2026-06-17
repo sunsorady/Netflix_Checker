@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lisa Lane
+– Email: figueroa1666@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: March 2019
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 4798
+– Phone: +17146844161
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Teresa
+– User GUID: ACTHILI6GFGMPNPMUTIBJFTJNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808172583	nfvdid	BQFmAAEBEJJ0RkmtM73KxFwpNkuleERgKMmuKt6vU1St04ZgW-78nRe1gnswIrjoIEKIrj8HcaC8j8ZoqGjZLB7iJe_5DAIiILgzrJFQ2CWcqpLZ2bEwgmCXs4-vmJ1NTssf8ZvHzJNWWwLN3Z5QdSugfyTdQurH
+.netflix.com	TRUE	/	TRUE	1810182778	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA034FyBNMqbx3AVZdCdV7UeTAK74vbT_G8wHadQOVYuvMMyIa5RWvvjTPRxsw8GK3JpNjsWheCBLdjW8-aYZwUBD18_im-TF8n8XyVJRfzJ9W5az3P5rDahIyLk8y1LWtlyZEtPXacaB3yOtTtf7sG95Eu5szJrJgUoFd6nBmhpl9R45Ii1jyzMzIZ4l-5HZIjucNKPJxIiMnBi3cuEtBvXOjPri4c9bCSlJI4GYAfLU9SUMtFW_UIJPz6h9z9NAPdw3-4J6ZVp86N1Hawvwy9aEB7fRs5q7MbX-USZlDqf6ifavcM_Bt9ZbTrND3Lf4VFQAYGXlQ5rYwsbyUYUNDOMwbPCu6daLlqJ6dAsoBkcuOgWhGk9i1m9qAY0rB_3u_pJG95rH6GRvoq4FKYEIQ8g1-iUrAS5nhgzgUlk_Hh-EZNXpqQdqNlbNrXiLZvuJl7gfHzwQ7fII0Onb5aRjMmCoJ64CMC5RYX9x6Vc1bLvbktodlHBZy0TNDF8Um3VlNlsaM6TKLA66_HzJUC1qoGnpLTwjAXx73NBWiu9jGAYiDgoMM6Vjulkr-GLT9v-V%26pg%3DACTHILI6GFGMPNPMUTIBJFTJNE%26ch%3DAQEAEAABABQyXF6UejildBhFeEVmHBFB7DGYwteQCVE.
+.netflix.com	TRUE	/	FALSE	1810182780	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+21%3A33%3A00+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e276caa2-683c-40b2-9d33-376744e44897&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810182778	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDv-TdIxiGHyb0wqujnGwroVgEVwi6ix4.%26dt%3D1778646778238

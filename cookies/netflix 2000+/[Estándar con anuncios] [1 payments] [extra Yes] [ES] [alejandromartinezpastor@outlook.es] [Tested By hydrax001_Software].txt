@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alejandro Martínez
+– Email: alejandromartinezpastor@outlook.es
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2024
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 4311
+– Phone: +34675611601
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alejandro Martínez
+– User GUID: PWZOPA7C3FGQ7ASDYFFSHIBSFY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805237155	nfvdid	BQFmAAEBEHIaz_BizpcJftMZEOv1odhgteKuRTVM_9OAZcEPxbtVXQVgqxa-y-PRDx3YumkPlSlqMaMXk6p8uz6w0sfD01r3ymhdi5NTyCdK2MgDnR1PKUQvCZYxjKu7OV8Kdd7GFm3roTDdHF_x5fHokXZigd5T
+.netflix.com	TRUE	/	TRUE	1806002390	NetflixId	ct%3DBgjHlOvcAxLgA7ctOS-Hn7kVVUxnuAWt47QmjtF_NeCG8dd0G9N-AQ90Z5hEa3X6znxKMfvKXpSGH94PfOXQ3GE-Ex0b6I4uwIWKye8jKItoFrY79azGPsvNCdKJjMJAM_L4-US7onoKE-JZbqjKJRVZmD_w-F1t0OdZmXQSckrILEjCBjpcPIZuDc3_BYNE8wxXwzkRg2RPY7pEX0lWFwbZkv65yQNWjI8LnkNwrxgOl3Lc90SyF2Ob66izPY7bwn6Epbz73a70KkweOJrYushwwhBXvZo8vO9VM7Duf9TwLI7bNeYu4Qb7knMVw13byymbDp_m50Xrdvk1RfHnF-IWYuZSWp1c5JcoU2PT1ZZaYUSI088E2P2lK7H3zfDEQG47t7T7AEu_BnLBUTflL0a_QlT5ajYF-A3y9H81dO_M6UE6MCuj1-LbjAlfwp5NCM6zwkMPzYcOlACn8GKAT96ltXVM0E1SYYFzPGb_aX4XwhNULQYrVpVZXb6PR24UW4XK22Tf6jayQ-ohT2bcEKTZ8NXFcb_wb6Z7kCMyz-NNYJ3Y2o9MWaXWtn9_Y9MXJpoIR9Ez_KUjwO2kHgLlXBbQVrEP9JpvP-fDv2nhXdz2533i30a4XGumAaFiY6X0k947QJ8wfQouRxgGIg4KDB-lIIJUfOmBQ_tOew..%26ch%3DAQEAEAABABR_JGVDPJ6aUi6p3lM1EDZqneW8TyoXPJs.%26v%3D3%26pg%3DPWZOPA7C3FGQ7ASDYFFSHIBSFY
+.netflix.com	TRUE	/	TRUE	1806002390	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSDhztC0-Oluvw8WnOmrXJK5xktJ4Kfbl8.%26dt%3D1774466390510
+.netflix.com	TRUE	/	FALSE	1806003291	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+20%3A34%3A51+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2b0e7abb-3910-422a-938a-a14adf172bae&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1773701149025&geolocation=ES%3BVC

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Week-end
+– Email: Estelle.darko.i@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2023
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 1552
+– Phone: +33645548549
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DARKO ILIC
+– User GUID: SC5O2GHKOBGTBJYGK27SS5L6IU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782118092	nfvdid	BQFmAAEBEBS4WCbCpcHiz4G-qw97NpFgg4x1BV96OkQXS-PrZM_9uKL5hyamxBUhKAfgzt3NwCBA7YC-HJSjIfl8K-u_NKHhN5PxNPvrdha2_AQKt1BKVsGCvOi7OduuwwKPAJtQaL1rNEj3lvPiMwvk6Q3F4x9N
+.netflix.com	TRUE	/	TRUE	1782889644	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AueYVtsr6423CPFLrjnqfq9ru2wlZvFgx1CXGYWOQBunXJWRO9qnN8J3xCYH1bK-7FLZoR381oZ6Tb59yAKIq-MxgqBVNv-u2CvjURfwYwk0DGUfg7eMxEkzM9oscWtdowctIui4_9dh8wPHBKPenuWLBFW8OQTgfJypxKbJsv7aXragUo9jju4wJuN3Yv5EOAsO5OS9_r0dhULydnvHzvJfNu1i7Qhrrh3cCv627qv4wbGy2OMnlgh34gD4mg7Kfq2m0WXB9SBva95__nEMjCQ5ORtMgifUECZuJNvGkBItoxpARoStvSDDAXIbkIunbKw_SHWVLlm0s7pYnvdtziUG2RsWGQm2m-b_sbCYUPADJaoWbgseAo70UtSdNsKTDMQlze1IQtme0xQewIpa9Szv8uMXhJpnv3kPTxEztPoK2HTmFBFjuZNsZHZ_Y0SSUXBEe5Bh6m1b6YpoCwNBqtyh2dhrgcETxQs5XBmC7ex3zmTuKROTNRbeTRgGIg4KDEDDjNux2LH5nFVimw..%26pg%3DSC5O2GHKOBGTBJYGK27SS5L6IU%26ch%3DAQEAEAABABTUYDRvtJLXFH9ouiT-OucehulC8MEalJg.
+.netflix.com	TRUE	/	FALSE	1782889659	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+01+2025+09%3A07%3A39+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55aafab6-c45b-4cd2-875e-cd9e974d75a2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BGES&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1782889644	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1LdanFa7f6RXbJVPKsSDywkOmpuaBWcI.%26dt%3D1751353646926

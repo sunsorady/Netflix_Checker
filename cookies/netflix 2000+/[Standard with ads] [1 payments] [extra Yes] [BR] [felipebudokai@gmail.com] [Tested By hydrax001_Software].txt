@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Felipe
+– Email: felipebudokai@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 0222
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Felipe
+– User GUID: 7SV3EC7G75A4HFKFUWPLW2BO7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810517250	nfvdid	BQFmAAEBEHbVj7IWSKwRmYuIvleFmFJgYQYUYpHGMpTHgjZMv6kUsGqWPz0Z_9jmDH9UOlutLtfZduCJK7dR77UNAQtvilVwcQHnXES-eOy59GrJR70qvPk2fRmuIYiVdSNH10hcAeeZ7_7Pa99PAdwg3Qi43A7-
+.netflix.com	TRUE	/	TRUE	1810577120	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAykmuviQ6O7bLlX-KDg9cRgHvs1h7YJT_5Bi-IePQ5m1Ka6clVGKoeonrNSzpJp-K_Oi-1efrHiCWSQpu0I8Wze4rup5XxnbjRwGmOE_ruhauwH3BBUst8VX_Bl7lKHeDhOUE8FaY5Vz0bWUddBZJMMXzfLGCC2L9sXxhaIFmDexrFp2hRR5B1ocDyHJBEs5f9N1YodbmUpcxYnrtftDAklB9Y7TXNl7QT0mBcKH52WDQ7-Eb5kZDIUQWoCy1ZfkyIqdLTZKaNTcFjps_k4-LiAVKL5BRvr8WuQ-TaZKM2PKiZT1_Ar5VueyLN3J8QuBNKE_k4Brcs2IGD3HxcrbIBOo3HIU9JtP_c3hz2BAdA4ovyN7OoRx4gUFBfRhOwDrwuUlP81r8gBUH-dPKbXyZT6bBVsta80j5pvKZfD3IZ8ZHl-SuQrM-26KnTYBWh-OKTiMQ_ROkkgWzEONnxNZJLmkpcT9VjJnhVQI0Pkso8NDXJ5CoAOLCee_Lq987CgMlb16rJYIxYTnGOe6y6x_RMCM5YDj8BgGIg4KDN5l7msUwVXrqo1qMA..%26pg%3D7SV3EC7G75A4HFKFUWPLW2BO7I%26ch%3DAQEAEAABABS6fGMrKLFNWyZ8civaS8Tf9386RWnambA.
+.netflix.com	TRUE	/	TRUE	1810577120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRG1rqWrsI5FKe6lQBYIpY3gokN4nikmj4.%26dt%3D1779041117195
+.netflix.com	TRUE	/	FALSE	1810577985	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+15%3A19%3A45+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d24e50fa-9214-4584-bea8-183b690e7363&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1778981219641&geolocation=BR%3BSP&AwaitingReconsent=false

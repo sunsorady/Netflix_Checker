@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amira
+– Email: o.yacoubou@gmx.de
+– Country: DE
+– Plan: Premium
+– Member Since: enero de 2024
+– Next Billing: N/A
+– Payment: DT_GERMANY_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amira
+– User GUID: DVHVRMY4LBGERBB6XA5YCMB7GE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799793171	nfvdid	BQFmAAEBEAwTdPfrI2Uny9Fns9h7NkxgfKfg1R2qhqXD_V-68NqCoBsGSvd2yYeuf0H6lLiX3O06ebdmY8-B2PaHkm7Lf1xr_jJ83wweU8esSElrTq2DQnrmc_p9xLrjQYIxkSZsbdwX42JCGAE3O3fuBX_77bbX
+.netflix.com	TRUE	/	TRUE	1807466268	NetflixId	ct%3DBgjHlOvcAxKKBADG6Asa0MwuXy9UK1n1RT0wnkqrhI9z664jbhToVxxJOeRqHriT590pQUXAXsuUnIibroSmbjbojfvdlOdDrc9eMzhprvBjs8TviqTIVVU7YVolcDEOH0CXOhu0829f3ek1JCPfRWt0Sj-OgSuESig2nSM_UACOx9bo59lBL57MRWCXiZZeSDBPJWB-6g1nKQhY5S2UsikYw5MhBJMWfSNWyoCwmapfgzOhNYspNbcp478ZxLN_GCBo95TN1uDbktPQ87QciidXEKz0raMi-zdj5h8ElqR9et0Itg9MXu71LhWZAZr9belmUFzrGQ4_AgmLJclv7BGJXmQUX-37QSmkJArLNa0_pTj9HP18ZF5i6xliGnCx_k2gtePSbmM5W-kEEn6kkg6CroXwVLxdMN95h7LzLgCz5YBdKWVXsOgNeLgD78Zd_lWwyD3XcFJAQZe-pMhNzqQ1qqpz8HiavM-z62REu0PgERrp_BMuKtBBzmA-W1Q8Yk6xCh7MvAK9nyVP9lSh2UmOkE3zNnezzs2lUD0vdyJCsqDDgRR5Hyd9aGkEKFDZ8HIPOWQWY95xVinjGxXAnOSRlwAdJ-N4s93kDLyZe0xQEUNdLtAbvpt1uga_whmpwM6h4pWWdkizW2VG46B7LzBDPpgLUeh-gO9BHPkMkNi5QqL4Qufg05DXQ6T_U3x3gxpruhgGIg4KDP7z6xeAcpF_pP0HoA..%26ch%3DAQEAEAABABTmFjGgD1BIECeyNNIosIO_Ch0xP5t88ps.%26v%3D3%26pg%3DDVHVRMY4LBGERBB6XA5YCMB7GE
+.netflix.com	TRUE	/	FALSE	1807466268	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+11+2026+19%3A57%3A48+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7668040e-d3d8-436d-aa7a-0c3825bc2d1f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=DE%3BBY&AwaitingReconsent=false&crTime=1771977746615&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807466268	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRe6MO6kZujzNrA9qUnyLISSHjnteSB1I0.%26dt%3D1775930266570

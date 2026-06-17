@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: WARNING !!!
+– Email: quismara_duarte@yahoo.com.br
+– Country: BR
+– Plan: Premium
+– Member Since: November 2012
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 1382
+– Phone: +5548999069073
+– Quality: UHD
+– Streams: 4
+– Price: R$59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: WARNING !!!
+– User GUID: MCHMGGR6WZGZBOH6P32B7CIIAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783122614	nfvdid	BQFmAAEBEIwm2nk74z_Lg3X-IqxnFC1gfEACfhNcgG-zNYVPNjbcfxByROwNS-9W1NOB7SliYaX1NEvFF5sNuChJEen8MnmDNr5BuU9V8hwjYZRaGI6BiMZrJQWpZJiXmfpNg0NGCslI4eTVpFFOutweiu2yeDOM
+.netflix.com	TRUE	/	FALSE	1787531867	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+23+2025+21%3A37%3A47+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=46e53810-faff-437d-8e1c-e82807bffd8f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC
+.netflix.com	TRUE	/	TRUE	1787531778	NetflixId	ct%3DBgjHlOvcAxLfA_zl6LnqlDoXET_fTcpSOR7Snlo0HUeRe3NUN2JHflYFBnIQyq5gCv6L0O_v4R6sfbXPwTHcPoHwigCbjhKesZ4ayFsDZGQ7dJymTzzbgJGzbEfD9wB1A8SxzsLErONSwsk2nDtoG3NzEK9K-LT2N4YEQdTJAeJB2l14BFT8Ntl8RMgyq-7xMWdQtZhVaVm0C3aUJkX7vVQEYK1kre52BztdOWX9r1Xs1rGlbINYDsYKVuz39gM3DOwebGI7vajb_2kY5w6T9RhmBEiGshcZIHnVIUOHLCu_BTZgVo0IODOAXqnpbfEzswdw5u1WWNoNBraxKxuagRm1b4CejZNqjpnjNrowf4n1-nQz355veHGi8OFWKwTi51y-b9GnkiaNCFtRGXWobOyrTcCpUryG2eMUawkYbIYOMYfOraWolAIoCotyG6u3fHIhjmGKHjGqcSLGaNJg5mf_UhG4-YTiQP9GmgNcqgUWQTdW_DB_krPW6CH8sihnOOShqfXh5jsqtavHo4B3IL4ilX0i6G1wNAYQHvMs0FveEcLOgmzoEbEwcnsCfi-v228vx1KXNPZyXebjnrZk7a4e_xLQvUPpcDTs4mVI-zvzlAaUh-eY-K1_z4ZpvJc8iR1VgeDKm_GYGAYiDgoMsXKlquRtQyXrdwJz%26ch%3DAQEAEAABABQGUWRHEg9Ll51OIO8JgX24Pzg_jd1AjN8.%26v%3D3%26pg%3DMCHMGGR6WZGZBOH6P32B7CIIAU

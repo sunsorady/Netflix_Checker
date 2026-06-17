@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: osi
+– Email: yasseraloosy@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: January 2013
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 6920
+– Phone: +18187704040
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yasser
+– User GUID: VRCBGWEUEVAX3KYPAIQTYCP7FQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806434195	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLuAhRRoChP4qEXtcYL0Qy0Z5PjzPkGYgBy4FKa0amIfY4ZPO2OxG3oSFG2CWdDMDhYXmSqON91PbdoDC6Xm0OrjfmBdk6PRswMPc4AEo7QfoNobCCKSzaBsr1dICBRuXdWhm_mBGDucLXZNiRxj83Sn-jd7HuEiP1xOWE8X1g4i5lZlu7VIXTrcPGDuf0CVU4ZKvh-wzUtrMXYHfMrnLbuP6K-Y2SO0g_kND_NPZPfQ58EDEMSan8O0cUL9EFoGM4Xa73Bs-jJL8bR1B-KbQlqbYdW6YbYGj90cXQ-sJV7pK6iq2SUU2njH48KV1ABgrhZS6qfMTieby7thRJcULj_F5Xewn7-3VsbLKWfseLSY7Ijlj_oKvI8hSBM9kAAdmBBrbg2kiWusFu62lkAHgBz43pr4Tt8B3q7AnYknqD70DZWFb1ia9DMh1GUWTqeTUQhvaV_F3qPPHFXd3DEso0U5dommSbNVH8ptoiahdNmFxgGIg4KDNGO3i6a-jWRKRgqvw..%26pg%3DVRCBGWEUEVAX3KYPAIQTYCP7FQ%26ch%3DAQEAEAABABRt58OECFmk82LbzMu9HepjG1yFyZr0LoY.
+.netflix.com	TRUE	/	FALSE	1806434196	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+12%3A16%3A36+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3b44986f-239a-4682-95b4-bd68b144a96b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774898192298&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806434195	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRuDZEMFePHh1JPSwcIclJRNj4YgTmb7To.%26dt%3D1774898196051
+.netflix.com	TRUE	/	FALSE	1806434192	nfvdid	BQFmAAEBED1AXKher5s-eyOs2JvOlU5gCP1xT6tKZTWKyML6ftGqmSoHTnfae1YiwhsTf8THMPPoNb4Zv7z_hCIOaxy-7VirN1JonpERmLieswWZwTo7TqBAZyuOk0uMEf6CCPxQAJIfM5EJtRPPO-6PUZTLe3nb

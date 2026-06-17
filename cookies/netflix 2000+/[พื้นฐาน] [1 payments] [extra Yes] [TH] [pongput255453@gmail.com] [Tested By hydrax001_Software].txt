@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pongput255453
+– Email: pongput255453@gmail.com
+– Country: TH
+– Plan: พื้นฐาน
+– Member Since: มีนาคม 2569
+– Next Billing: 2026-06-19
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66613957554
+– Quality: HD720p
+– Streams: 1
+– Price: 169 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pongput255453
+– User GUID: HJCLP2HNGVEY7IWERVD3TUNKP4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783733935	nfvdid	BQFmAAEBECykflEtn22jDS6KnA066SVgSiJm4nmGnmSs1a-xGokbE1IZXiduxWgiwfw4muzKqt763OCbqlauJ5qDmptIjqIPbvCIayfHKjn2ycgj9eAmTl3j1jGlYYRYCEyQvW1QGAoA6vOUIIVrYolGNsZpc5iF
+.netflix.com	TRUE	/	TRUE	1811667933	NetflixId	ct%3DBgjHlOvcAxKFBD6ZbvSXWsAFRZHkOkd2JbFk85Ha0BUgC2zGNd3-7XUVdSCvJHAPo3ASdlgaa7irvrXhddIDPwCNmFsjL9P7MVevgXiue4KjydkZ8Xw4zxxM5-nhYMTDQDnEiXQVyD9nT3gU81uvbulcI4Rdll7KeclRWjtO9hQvGn0EX1UeM0Jz_dkT9xv_GVYln97xCKaYhnabnUoQ1n4446--d9H81Fka0hb7CpUlQV0WEVd1XPL6uH57ZGnjdviDY7e90wUXdA-ISZW8dFobONUrITXWTugTb4LGg-uaM-x5MIIDlGlvJY-kYIfGIpE9gNb43o-hIX8IV87IPR_vP-0KopwjsE3ms_4xQy7pXSvo8mZnZ3c66U-6JEda7FhXBb2rr24d6HL78X2sJVWiUSKrxpYMCT7XABPrIpAzC395mdwUxvupuIePI4EeYK8kKhkj0Z_SL0Fa8TwlqTJzcvVvt_UjyXWpLKi71Ynj1OkgTdwpLr3FKZbJiMascFvvjXrCfN1XyuV7M5O_dbPhrNY8aWmaFZ230ghrd9yzkBuY9-aPyyJbN7alsNsGLaAGsgNK5D88isCkoIW3kLOw9f7-oy0YTw5CTihUkFs7-m-o_WsV_ZEUegbj8LS2EIGIWqvC43RrH_399BCSpUJDoijy6woa3hOvpWRBbH3OEM1z2cGdl8crxaKvglsYBiIOCgzHod4ZBrCMg2fcdHM.%26ch%3DAQEAEAABABRuShPDKClNaWjOBG5gNUXqU3mE7wnQeVU.%26v%3D3%26pg%3DHJCLP2HNGVEY7IWERVD3TUNKP4
+.netflix.com	TRUE	/	FALSE	1811669331	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+16%3A28%3A51+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4b1cb84e-8c60-4a34-98d1-bcba32f8d26e&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

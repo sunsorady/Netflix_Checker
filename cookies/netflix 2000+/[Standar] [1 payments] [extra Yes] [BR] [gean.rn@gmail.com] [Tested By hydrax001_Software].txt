@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gean
+– Email: gean.rn@gmail.com
+– Country: BR
+– Plan: Standar
+– Member Since: November 2024
+– Next Billing: 2026-06-17
+– Payment: DC
+– Card: 3446
+– Phone: +5548998520094
+– Quality: HD
+– Streams: 2
+– Price: BRL 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Esther Christina
+– User GUID: QXBP7OMV5VGHTDSEA3R2NLK4JI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1841779240	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+18%3A20%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=41d5744d-6d97-4874-885d-9b4e3c1aeea0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=%3B&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1841779239	NetflixId	ct%3DBgjHlOvcAxKuAy2T6KYJHpNxq8X36c9der0aavSrxBnYykOPeszlJKcByEbXxNgZ6xhHJJRFPerPrBGzzjBp3RR4ylnKZemcTeJAV_4p58qC0-f84RVzd8M6lO2iCVCW3uYxv7ugZ2rAzJYGR0YMvogqVZPzhAHggQKxh3nJ3dOCJTxXLYBnpA-6zxNgd7C9N6io6thrr9QBOY4yJUCT-sD68UIuHIiklwSYWx0tyPX8eb7AoufsG1NzYuEMyLvxoYUcJFHdB0cOFgLZg6h8CWKT36U4BDtp4HStnD9UH6PgxKKUu-R2tFGHvWY2nbrM3iz392sys17Bf3oNpfXwVtHihIiwH_uecnjcW2NCmymSjkjj1M4YCXYSwZ5Q_EUsjJVwCnv7p9SpEH3zkDvYzlfq0Mk80QHhfG0jct-SrLOA4b-pUc0F0TcPCRyDKNgamcmZ6kOfVLXwWukajRqDSp_IK7hW-w5HqbSrWH8Zc4NbVRk6BheYzlQB1ktt5QF_MyH701cfQj-1h4pMAPOuG7vPgBgrSb5z9SZ7pHj_LataOwRD-vzo1Oz-_mRClxM2bDES06SmS9IYBiIOCgz0GwpIfULESiL3EyU.%26ch%3DAQEAEAABABQAoFKUiwJSvJFjKJJ1o0mv7qv7twnSHnc.%26v%3D3%26pg%3DQXBP7OMV5VGHTDSEA3R2NLK4JI
+.netflix.com	TRUE	/	TRUE	1841779239	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiZdEuPJ2YBCYRsBzJL_H4zOt3GRMaf_8.%26dt%3D1778620837467
+.netflix.com	TRUE	/	FALSE	1813727935	nfvdid	BQFmAAEBEJtSf49gPo5OkPxl_JFN-qdgWhGgJXnde_wMZbRw5C-ma-Pv5XWISWY3BhdkvizA7DmXSwndaUdDZFcTr7frh5GUz8b9STDojSuj_gPdWV4l9kbyjMPbWbwURzqnsZBrjXoPsklJUih1qudRjPgfgVE8

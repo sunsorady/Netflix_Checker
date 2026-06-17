@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kizo
+– Email: ijovi@yahoo.co.uk
+– Country: HR
+– Plan: Estándar
+– Member Since: abril de 2026
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 8952
+– Phone: +385996000804
+– Quality: HD
+– Streams: 2
+– Price: EUR 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: IVANA
+– User GUID: FB6TLDJ3AFDOHMREN5WPPPBUIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1803830912	NetflixId	ct%3DBgjHlOvcAxLlA6SpUwfuu_Fk6VoTSSWxfMw1QnbpCb-OyzvSXGMy33qvu7G_AXPM6AhtEHZKnbMZdXp1p6bIkJ5_W087zWuPOT7PE5NxjSLisU6R_yHkAxoXS8SJ255U8x0wUHaDhg_FSOJg5WEBDXS41-XuxNPFGjpXl_5c9p4qhH2JN2VuJJ2OEMEVqPb5W42omPIF7zOWiPTPWf-MD8p6LaxCs9BPELVaNykdxE6Lw-weQrhmadaaXnfRf_MaLXDqOnHs0V_XZCxBPg94Gvfy-9ctcvcKmHw77h3kix2cp12U7qM-Co4oNn35_hkp4_E0kKLzkZoMHv4SPX8qnVTr8SisZ5kyv0wX6qWiGcsoeF10M-dU_89bQ96l4Vhj5AsQFSwwGFpMlh51tRPGi8CjVjr0ZSoW6RG9MTHRFChpV14wwOxDfMzc7LQkFaqZ4vq_FLqQsR7XeGZvzi9fSAu_HG-C-taGJhkpmLiJWOrWBcYadSbg5ZiQIMcJqNtbkBikOW0L7d_AvUsWNA1PRNn9N2ZS921l1kxgjgB_L56p9eoaBwd3PjsvsxyRV0Nu5zqJP323tdC5-0scdq6PC-YgBnMHjesyzO0OGjg_jtlcgvtE6olDZ0lyxukAFjjMZEyPWwmAp4Ote9FjTL8WGAYiDgoMrwYtNY8v7R331hLO%26ch%3DAQEAEAABABQuuHwGyIKO5amvA_JDAv8OhXbLekYbbDg.%26v%3D3%26pg%3DFB6TLDJ3AFDOHMREN5WPPPBUIQ
+.netflix.com	TRUE	/	TRUE	1803830912	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9L1E4bu3yNVhZ56JjYESXHaiBkzNzXEo.%26dt%3D1772294913925

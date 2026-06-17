@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alexis
+– Email: alexisgadea16@gmail.com
+– Country: UY
+– Plan: Premium
+– Member Since: January 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 0301
+– Phone: +59894590731
+– Quality: UHD
+– Streams: 4
+– Price: USD 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alexis
+– User GUID: OP37LC6YWVEWVDZY6AH33ERGBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808633333	nfvdid	BQFmAAEBEBjI_0G90mGVzcTvpJbGulZgMDkPYsExSCLoHb62Ge1muTyvh5X-URUnEEflWP0lHCqKS1nG-ph6ngsWqArlT0D8w99DgmXSOBt0RVHSWqkuNm6SFktovu6SqltwW_263upuoBqMi6WiGaeV5pBeGfJb
+.netflix.com	TRUE	/	FALSE	1809831907	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+00%3A05%3A07+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=34adaf6a-657e-47cd-8515-901e73f75e48&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777097333898&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809859807	NetflixId	ct%3DBgjHlOvcAxLzAx4jwFJhCXzgwJb-lS3ax5DHMgYvlEsodb6CbSUucESf1H3aFGW6t3vQZgpglbkP0mM2s7aZ-Enr-HSva7KOx9A4h5CjYjkvRfDHQ3jm6s1g9s_1tfBBsFlnLZD4E77WR1eu9xqWhDTYkar_r9I2Es5RKiDYCLPhjWF15QYPhe-WoXoPtGhzBSyBWBqGpUN_uGyu_-IIOoeX5mEKRj2QQVg9IGWzPlYrNnVGilM0LYGC_XBjCdW5Qb_nKazI3K7OQ6GXH2mr_C1olocy5wcSDwrRaXzIheiyGM-D6B2Y6zzlubTzzuWsP50KWRNRaGy3gDQ3hn_YjCl_zXHyRw4TrnituPAqxt7XPfUjwHbFSV-HxwaREEbsiOe4a4K3iukwKadFYaw5YpWBaqtbMw0xKVZ1HBPCPo1LMpd5nsgyWMgNky7p8Yd88FAqxHbQEoDcgkRfxo8jzCa6Eh0GosSM3Yz2ZiWeAyzVRWEDMopQRCjM_rgq-YjVVUbRfB8t_x8EtDlp3aEKSFWrlNyNVP_HgrEA0kdp5Yo81CYeJjhPVzpk_d61rS8poHfdBBhtf5GbOW0cht1YSXMO1edw0rJe3t4FYIJf6WRPh2xXfKTpZihXExYdvrzDlPmShVhvtzn7jBJEK24SH0-4tDEMc38nYP6p11AYBiIOCgzBHqotXXjt7cR_s2U.%26ch%3DAQEAEAABABR_h87GrT20Ke4tITP3OBFr83iPzmQFiDI.%26v%3D3%26pg%3DOP37LC6YWVEWVDZY6AH33ERGBA
+.netflix.com	TRUE	/	TRUE	1809859807	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRHXgsi-YqfzKimhg9ypQNGSDa6hKa7Cs.%26dt%3D1778323807809

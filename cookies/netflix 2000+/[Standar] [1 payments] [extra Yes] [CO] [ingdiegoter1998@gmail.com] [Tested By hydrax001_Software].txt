@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: P2
+– Email: ingdiegoter1998@gmail.com
+– Country: CO
+– Plan: Standar
+– Member Since: Maret 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0858
+– Phone: +573108660167
+– Quality: HD
+– Streams: 2
+– Price: COP 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: P1
+– User GUID: 67EK4AGDKJFE5DDOCTJKUS2G64
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805661939	nfvdid	BQFmAAEBEDFjkHStTsMhA5XtniXZuANgYtXrw6IFmESb8r30Gks0SAa5R_IiV3t8uzqScbdxOdrMeP6tv1Vg2Uqb5MwmcXgvtBSiroTm3a5R0rjiCf6IH-hALdKGvuhie905VDqaRSpcBtGQ0CirX2lB0BHd7Jl5
+.netflix.com	TRUE	/	TRUE	1805742727	NetflixId	ct%3DBgjHlOvcAxLBAwrccwJcIcyCOQgm-mdX7xKVwEg7h19JrSHQFWKmzrd11raGL8jD8YumxX-popsMapUgefDBg4eBGhgDFYMSqwgWyJZJJJF1b4UP3XBT-0QRrigjfZimNSLikmJ-RizOvBlii5s5fzZmsDTCipMVkQwEE0nruf4tf9vjsu96MjVrCvRw57ouLkn8wqYTUapVv04M9VbLg_4mKbuOPtM4FpdwvYFJ6fTdbpS8LcrtjKj92g_BuFh3c2fCmm_Khi2sqdcGwJR2xzobF4Q2wkRKPg9RNRGbqMyGGW40z2yrFUrFweZn_YdlJYnwAGSOavgiWHGoBzkF9x54fclzo7cBOXTwYGQNRPBrpUKjo-jCSb5kxfv_lumoM6qgoiSr2mpfCpw5aXD7YZfTI7Wbo-BxZE8hKfkyXmVWDVbTPm8VBfLA9Nlaa8uhnimWtctcwNQLScG6XDdcyGTgmOcmHKzwGqzHTIUipJG3LhcnuXsYa5qhS68gxLYMANh_JPxYSIlngI30oOyIXPxPyDGRylWh1xNhBHfwUaL_7y6jD24AHwx4fn27Hqebqp0ikoPad_Zoohf6K3WGGCOv8J3YJ1TbkUGfGAYiDgoMC2ODuf-QSAccy-bE%26ch%3DAQEAEAABABRvngf5XxdlSXsUKC_pHk_vvyu1K2rXQX0.%26v%3D3%26pg%3D67EK4AGDKJFE5DDOCTJKUS2G64
+.netflix.com	TRUE	/	TRUE	1805742727	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSdAkwf_nrGebzf329NRX8jeNTqvACxAAg.%26dt%3D1774206729160
+.netflix.com	TRUE	/	FALSE	1805775957	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+23%3A25%3A57+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3fd173bd-2a1c-42d8-b2da-0667856a19a0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768696755752

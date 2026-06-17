@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dudu
+– Email: franciscosinigalia1@gmail.com
+– Country: BR
+– Plan: Cao cấp
+– Member Since: tháng 3 năm 2026
+– Next Billing: 2026-06-29
+– Payment: DC
+– Card: 9487
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 59,90 BRL
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dudu
+– User GUID: FZ3OGTE5PJH7HKRBEEUHY5IQ5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806516675	nfvdid	BQFmAAEBENi1xKaqh68__iOyxpWExEZgOsTaVAT-TEJ-uaSHghMquAtLIbiqzCPdVPBNUSTVym6WD3RBwkUUY8IlCbxR-M5ZaEtSHyPU7sDCm8hXsyqZEZLpwUHbzZ80vm8Si6iY_mPPHUDB-iohniIB9oaePdKA
+.netflix.com	TRUE	/	TRUE	1812003691	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA8lLjKwVoEIbzFj7oZDtZJhz9NmLCnijC_I8IZWlXhEcU85OPicRZdool-yICRxXXNU7hnjdMcz7QNYEkSCk5L4Q29NfBT1Du2DQEtM0A6d_hQKBZ8LmH4DCBoiN_so14lNHfc2q4Z_22NUk-lOjREzZsicE57y15rSxmMNriqA53QF0rEcq0wS94Zv251x9xTiahAJkCn0jncy8ThDMDuzIQLazVL7VEtXNcndQCRWuvg_J48I-a1XqN_5WYMC0VvqvtXUP5geUZ02lMdNArcU4QjXcFS5i5SAVcBrvmdDlsgT-ZaI1uBwXBlOFHmS_LXQ5A0j1HhsryXyHSOg9x3FUiF2mEi8AlAKXrCERP3XUqNnocfcIdLO28hJFJ0dZ9DxemapdsRc8oN2Y5ecq7zvEvbfvJk23Po1fg-_Xx1kIi2gyyBLEP1H_PfUINmShC9Fc5HqYZOdPSW0dh4Mxig17kWLKy2KpnkHvb8n8_VQ6uB3jvoCZe-e7c3_2eO8X74tAO-Civkn1_HzoAqVUtzVFL7AYBiIOCgxrhRHnwS846sGV6u8.%26pg%3DFZ3OGTE5PJH7HKRBEEUHY5IQ5M%26ch%3DAQEAEAABABQnLrXiLCdhYNQANUjTcTGf_aCVOeW6mgk.
+.netflix.com	TRUE	/	FALSE	1812034937	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+12%3A02%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=120698a9-67c6-4b49-b17f-ffab88483ebc&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774980690145&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&isDntEnabled=0

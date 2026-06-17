@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mi-mi
+– Email: pusa.tejaswini@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-07-12
+– Payment: UPI
+– Card: N/A
+– Phone: +917330628366
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Moimeme
+– User GUID: 6OTNBXEPSRBHJDE5FOJLUJG35U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806040681	NetflixId	ct%3DBgjHlOvcAxKDBJjZBfISpEqmrmWfgQuJloy474LnqyQOYmUaEmAB0tgGgriElx_L6HcQuD3hFSL97BhBO0PV7a1d83klmeEVcMTp3gr5cVWMcUjCBdsZ-BoSlKj4n6dcWftLPDa93I8jQ39w4JIwLePoOD9FucSKRz2J8Nxax8RkcoydHTGwvNXzQofuw9dverwrEn5635RePCTpBL8glnyJzZQPgZDTvNFkvo47FMKy87W54uulpPV-ZaB1LP8_ak1jA8H0dLSAm44-wnen9_g08vOznqTG2wLZVqOIko0IVE7K2OTIZj5rqTA5f4j2hKGVrNbxs_kTjVqdjQ2Zo9e_IC6Dua5JrLYakkuOHwxSPHxjBFpJUuGB8zDy3NmK5OuR9b1O3AiaxDXfigdVgotDBHyMdBtFjzCaFXGfsUmmKN7R1wW0KivhFgyvT_iPNZwYKQTzuXtmbE8DHuDnP1HvU0gGNxn059wGAC_1cL2so95131MrjWiOfgek3LOH-VKlsmElMRaY6PLVJze-_svBfgqmkUBItFDbjB-rroVHYzPL6LIBF6Onv4_dH2ZWQR4kmNVeivFNdofiMz07DQw9DvviXN_JfDXvBS5m8cRTlk7b6H3adr6rJYJErovsFI4YKrKk-pkJpNLd8nTG1MrdAM-CacQ2WuWysZqF5pIce1TnE9LOYL89_SfLGAYiDgoMO8kdbKDncZ_v8xy_%26ch%3DAQEAEAABABS7qkK1YR3KHb6TB_11p-Us0v-Qw3szsL8.%26v%3D3%26pg%3D6OTNBXEPSRBHJDE5FOJLUJG35U
+.netflix.com	TRUE	/	FALSE	1806040688	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+11%3A28%3A08+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13b3d171-8e3c-4d67-b429-35956050900c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806040681	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVYEBGBNNkGIEXRe9JUPo9GQB7edt4tZE.%26dt%3D1774504682012
+.netflix.com	TRUE	/	FALSE	1806040681	nfvdid	BQFmAAEBEJK3ygnWBRpZqeMdCeFbkABgxiEOI8iv8TFYpr9-vUrrc7uzmU1tAv8zR9Ni9xVT60_OaJZ96sCzsRsUJ6We8VFSTPziL0zDCACV7B3BXkKuZn8HOcjOiP7U6h9bjuSyXw6-g-7egCcz2VR1Q-1tImvW

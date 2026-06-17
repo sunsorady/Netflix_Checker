@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Coralie
+– Email: clement.coralienetflik@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: mars 2024
+– Next Billing: 2026-06-26
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33650595025
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Coralie
+– User GUID: MUTKJL7HRFBKZGCRWWKXUYTV4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803322201	nfvdid	BQFmAAEBEHhCDvCjvTT9Qia36G1LzpZgt9CQJ8sVBuWaYLQBVKLvL8MGJbmUR4xm5_iaqr49aY3qmkU5Jt3tgwfe8aa9Ity_m9IchxRdpxMZFDrNqEHEw8jQ1uODcNLaKdpA0Z-wuux2H5Cyo58oVCZmZ7OsxTrN
+.netflix.com	TRUE	/	TRUE	1812216986	NetflixId	ct%3DBgjHlOvcAxKQBPj1JFYlYtcbz9tk2ZgkC2SPnyTXMh3OdyNf9t1LxU3dxMJc0ES33RKgnpYLwoq7-bB9G7N6b_owbGI-yrZnGYc803fsfw-cMKYK_Fcl-uzNC7xl_grrkkCDhAxFodZvYGeFaWFpjuUZR56K8vQrX9Z3-56YPI57-88aS5e01ombZPuBdjhL_mA5a-NDSGa1C80kOHVObuw1dzefbqxvWDmRQGAAdJC0GwtPj9jHw5io-E0Pt9YrYifY2e83s1kAVA3lkKzMSFynrvG6PURgBgRzXNfNQK9sFW9Cf9JjGfM8SCJj5XlZlkBTRjqjVxwHSXAmL_OjCcVFkfNV3DGOyosNqvw9oU212WYgxo_eHXhX0TjqU2lUo1qfR9wYeUigJSk3K2X5iqfVvcH3DjeRFNnH17St2OXjeKI8G499tNfw0252JPUM1nSswBalXIrSpHweVRZZ6QeKssvpWhjUdiqCJ0tkGrPAo6hUVTxHGps5m2ia4HPFuCKDh4icaFs9azg1SJM5DWl-3HV2mmyaMrZD4E8W1j6Xm4exkhYzprOvDd3M6RhwW18bNyITQLfYpAE_s5LZQV2pV8A7wquqPBBh8sseHEQFw6rVrmdHEoO33g7ncNjo9AT29WVzJ1SPIAvuCNYYE1jZ5dYk2zmfHn8AVzR_8CAufI7qKut-EnrkSgT6mdmBn6Gy03Y7ZPokXRgGIg4KDGG36wHMayTWYTESvA..%26ch%3DAQEAEAABABREQ8Nt-cn-XqixkBJesi7cAD51Afn63hI.%26v%3D3%26pg%3DMUTKJL7HRFBKZGCRWWKXUYTV4A
+.netflix.com	TRUE	/	TRUE	1812216986	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQN1lWxzOzsX2VZIVzRdaEI76iylbPMkS4.%26dt%3D1780680986792
+.netflix.com	TRUE	/	FALSE	1812246860	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+03%3A54%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e195348d-a289-4aeb-8361-4f8f1b8618da&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF&prevHadToken=0&isDntEnabled=0

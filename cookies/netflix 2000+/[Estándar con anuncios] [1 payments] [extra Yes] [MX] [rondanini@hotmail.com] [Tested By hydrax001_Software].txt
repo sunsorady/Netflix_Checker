@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emi
+– Email: rondanini@hotmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2025
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 7022
+– Phone: +529211469768
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Susana
+– User GUID: FVAA3FSSMBGHDJWAMLXNSGTZ7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795276036	nfvdid	BQFmAAEBEMsQtXQ-Zuc0IDGIA9PspZ1gEBpNsmzDVQoTWoJY_r6VTiE5XVUPat-oMQ6eU_OewGzuPVPPmSZRppNzMy91Ep6JJXDn4H3LgDtiGwNYOsECreX6jfboYxPunWY2H95rWbDYIiRbjkcN6LOedNRSyllC
+.netflix.com	TRUE	/	TRUE	1811958387	NetflixId	ct%3DBgjHlOvcAxL9A-o5QMoUwxvGzN7qW9Dr2nPsga_CI7yE2MU3hWJAt7Deedlk6oCSgpskX1nGSQ4yb4gt-kQIIJIweBIXM1U-Pk5tKSgRqeajAS6muRKLFfqndAKCfOgVHtm83bA5PE3iYU-eNoB2lcGvwuUUwHJu9WVqFI2tAJzedfKixPCT5jz2hKtb-oNefoCm9NB5Sh90XortwOcu0__fPMkO2T3Ee024dfxG4D9BpKFjjTP-UJCKOzIv8O4oKARCdczFKVl5iErOQ2JTBsYYseR_GLFlq6XbB7SeEmRD-rZCXT_BkQdV39_Ne_vOGxiJU06dUuf_RPlU95M72attJ9bzLj68bUQKUkSGBmbwGQrWBqGo0R_aVJOX201fjVWS4JTNfP78nrxO-qCKW5Z_sxzhgkJWkNuGcHC3lr3c5MLZOlsvWQ3zzcGIgXh4MUTMGU9TVvPO52UsJ5uhIfYTx9lfTqOS6FqMZPd8riyQqqnZQPy1OwfaVGRYrw3vMNLLDIgk0HaQcXrs3Bd4UhacEqZtsLap0DJX17S_JY9K4jFKh4NQ8Vc5yJjBEnWqMbe7slbkkwy9wrbG09Gol2VDEa_LetdR74e--U3NY3nUnCSt6iR-GMlnjPDGXqwQyJj5YUHqflvlYESA2LR25PTpP53-B6TQKav6z1sznmNgmwf_ekk6GAYiDgoMICTe7ae1KtQhNwgU%26ch%3DAQEAEAABABQ_yZ-oQyMRkRdpkraAD5hwmPzghQCmE1E.%26v%3D3%26pg%3DFVAA3FSSMBGHDJWAMLXNSGTZ7E
+.netflix.com	TRUE	/	FALSE	1811984706	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+19%3A05%3A06+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d45982c-a653-4317-acd0-d31cf0c3d8cd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BPUE&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jul & chano
+– Email: delvalle.julianaa@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-23
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639770441854
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jul & chano
+– User GUID: LMBFVJNKBJHATGKCE6QMV5FZHY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811073951	nfvdid	BQFmAAEBEEJkrffPA7PqEVydB367qtFgO_2Pb2K86qPUEjX6UglaPdUBdc6rRVxJvrHyJj0rkAFK1uxt8FLrY68a-HGASzmMc5wNw6iccQsD9X-M-3UAs_JKVZcytrwooCcCDZRA33fikDCEhP-nkMUOkR7yAULx
+.netflix.com	TRUE	/	TRUE	1811407222	NetflixId	ct%3DBgjHlOvcAxKSBGXSnHrDskVJhkuWS-NX0IFTkkgtWPGN76eEFfY2HZN_CONAkiy6TsQGgK1hYRkImEh7w-erqJEY_gLp3W1R8ZN_EvyOq45cHieBUYaTMRd22SWjaoOPzI5L4ebx2qrT3nrkzPHq9It0eHzQhc1lLhUKoiteOp15y3Zmx-nen9waH5wXq-aW3P3VHnPPybFkIitvCvGOiIBrcFAQvXL9edZR6aRCLewUv_M7KBm417X56p6s-Q_bWX4p-RzlkUCEMhZfvqnCp4JrSOxus6hJMUZHvvgfFdAu6BpDHCDRzS55A5K417qhGTRhHnNcfKJDUN6QtmnBjwlJhHPM5DIA9Q1LW-RPW-6gc4bkLVsWEHvbV8WhztYzPCEYRa3GrBVeVjz7Az0zeTsWjhzffw8Z60ass0N_5J5XZnWXX0KEjZHgRNqrpZrtEh5He4qs36WO8kS6sHZpljElLq-rEI6qmoNTw5lhsyladSjR0nX5RRgrKK5qsgVi_a4M1I1DSxvDuBbUY59kOyAZF4WefLBUOWQrNi0OMSF2IH1EZTL4TNwT21yspWWShNbhFWQLTJz7uFHpxa2hIE7lSIB8EBM4CR1UmwwfOtT-xCooW-KsueyTb8mLZComMGVBSHLqnNXcVFcjXy8tTctwwjVIRF6f6itXHaO3lp_xpKwA635yjJ51XNtz98EVfQE69PWc0Pv10cr8GAYiDgoMiSHv4o7hiSQXGfuQ%26ch%3DAQEAEAABABSS5eL05LBQk3ZIgaC2i2T8f4YfYGqjemY.%26v%3D3%26pg%3DLMBFVJNKBJHATGKCE6QMV5FZHY
+.netflix.com	TRUE	/	FALSE	1811419154	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+19%3A59%3A14+GMT%2B0800+(Singapore+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c70d6025-b40d-4594-915d-a0dde9479dd9&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

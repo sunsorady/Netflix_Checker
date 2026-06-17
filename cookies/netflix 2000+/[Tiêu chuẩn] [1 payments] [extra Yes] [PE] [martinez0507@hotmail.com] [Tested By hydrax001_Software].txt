@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hvu
+– Email: martinez0507@hotmail.com
+– Country: PE
+– Plan: Tiêu chuẩn
+– Member Since: tháng 8 năm 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 8318
+– Phone: +51997690446
+– Quality: HD
+– Streams: 2
+– Price: 40,90 PEN
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hvu
+– User GUID: HJW746W4CRDGPD6WUOH4GUSUGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787885381	nfvdid	BQFmAAEBEFq3IrsVfnrFuhdMR9iZ_NNg1TmErdKHrt_25t1ZSbVjQxBc3uzrLc1A_OfRcBw4gY2yCYwgr6KdJ9RGWOD1nxJQ18xyGLNUPx3-U2_34ATerspoHpqs8KGSJcliZ0ABcDAtf59D5YyFC0ygSrJUn-j9
+.netflix.com	TRUE	/	TRUE	1810145031	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWAyAFWB9j0TS6p-FfWoUiGKSpo1XjrgMrJyI3QYPlqTKu7Ry1nGL-gy8p_TKr3rLtO6l83z-BZYDaz2y-_xuWU8hkQ5m--vxtfT4__01AbzdVOKKJXC7xHN7oOMvlLENe6npqGg98Avpk3OHJsSDXjtTB94QLUupRcVVogitBsE73wdZ7HmA8CaiBlgUvE2e7lYZlvenv_stEZVgRSw-OB5ONBpPCVuA0MEr3w95SmPreW5pjDeUYvekAMvi-bMj60gCk15EE19YB3HfNguc-Cm8xLSdzUf2vtYGKnnOhqr7yaucdvgv8hOHkQp1_Y65w_vdaW_Lf0W5SCR5l6t_WnMsXfW7IRvIzSxBD1DByf8VyZ1GjcYsLyD37WHHzA9tN_6YUWDLKIssHqd02rc7webLOcsZF9_Gg8LhXNBqfbhwf9APiWnm9Whw3JNSGtaFGfYcIZ5vK13l_rQnbAaK8yx9VD5wCU4o59nQVoMM-4Hm_vTVNOMMrGsckY0igV7_gGJ2KUIP8Y2b3INvOQumNOdS_I2TsvOQYBiIOCgwipi2U3tn_13oiwqk.%26pg%3DHJW746W4CRDGPD6WUOH4GUSUGI%26ch%3DAQEAEAABABQOI2QS_yDiibSKAL-FNZppFSLnjMoGnCM.
+.netflix.com	TRUE	/	FALSE	1810145033	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+13%3A03%3A53+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c54ff54d-bda5-4c6d-a491-c2b277a26abc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PE%3BLMA&prevHadToken=0&isDntEnabled=0

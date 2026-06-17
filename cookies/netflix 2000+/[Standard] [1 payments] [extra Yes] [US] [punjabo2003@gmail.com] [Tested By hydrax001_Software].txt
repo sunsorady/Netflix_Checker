@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AJ
+– Email: punjabo2003@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: March 2024
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 5650
+– Phone: +19254972844
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chabo
+– User GUID: TCITT2FADJDMHITRATARJFN5DI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809138540	nfvdid	BQFmAAEBEM2Ikx_HM8Ijrr4GYheWb4hgjV9I6T_R8ZMTfFqNqotrPGuUKQY3IFA7-VQmEPbeFDsVaen5P0rzUQP7Vlm03dCIUE9EXTtUkVKv9xEnNY87vi7bTh4nY-9FKZ9oAagKyGoq27CXAKyKSveMNsOkzyBp
+.netflix.com	TRUE	/	TRUE	1811272318	NetflixId	ct%3DBgjHlOvcAxKABG0fVUF7eYr1zBuZ1nZvMN1yKLmXs3e31bxq13CVVMgAZokm-vZUTJhxQ0nyHhZQCFs_NubSJBbTZIL3DkWJaYRCtGsUnPC6KeNzD_bV-JQyultUggyt2HuXOhPhksXgD8D1SLGx9sjzXEqnNOAupJcvpDuHg8dMBIxUDNCpq3d5QOr-h5Ex1G_Flk2hSzteuAV5bBZbtzOB3L4H4bhUTmGY9-sZ6gFNoEPZFShVl-E3ThvMmHg9aRXotZihyEeB2pLQNzWxOxAdtm57HpiTp-Rzu9jD_h_WrWtNL7F6nO4Q794E8rvKMmKoUjzUgvWcn8-ltD7S1DAsHgRNBjI9GHdilGDqOKhs9Le4tXGbq_jQjN2lKiglPI1Sz2ZODSk2Ryefs9d2H8Eff74nExSLnIPJDJWjSoUasaIpbr2OLF4LAgZmrr-Kn9r-KFxW0-Kw9pE9RpaOvwf1Y29Kaxi4Qg6bc-hSZY4Ppi_50q2VfFIjKV4zvrKJ_ARXfXBfXSdwjoOaRnmfXfq5iJWq8xSuWAxvcVK6_CPzYmAEGAeLjDvj9tCHJck-ONlwP_7uw8maTW3QtJt7J09PLeGtOPbP1AaFsVhcUqT-GGN27KOGMBRMmN5TkCWcIgXTr2kTErkFpMmS7PwvNJ-cyUzBzwoXzjdZhNEXKKR4bxEhtAFnt_F_GAYiDgoMdPDs7KHRv_Gef1xu%26ch%3DAQEAEAABABRAMjMJxBwpgxV2TT6Qu4AKwlzCZCnCLV8.%26v%3D3%26pg%3DTCITT2FADJDMHITRATARJFN5DI
+.netflix.com	TRUE	/	FALSE	1811272324	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+12%3A12%3A04+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=25a64c99-692a-4444-941a-74caecb33a3d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778387486497&AwaitingReconsent=false

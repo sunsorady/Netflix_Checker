@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Henry
+– Email: lapumaradadecaravia@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7025
+– Phone: +34620851635
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rocío del Pilar Vega Bazán
+– User GUID: A7IFCVDZPRG6TL6TUGB3QYVSQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800221942	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AvtCstONNOz4R1socSlvHOzWlx_n9K2Ghrpi1sP2atDlGamUZm6H7hNvCcFUI6H3cAO0cliwin7wHk0lRdsEfd7N1krM37EnhtR2VPo0Z71leAiOaxKoGaA--h4k1ux9P-vDcmaGQpN1E3ngFFqmmEkA4zxMdE7qH4avihE7x9V4K63HufnkMhiehb-Ew0HZluM3EYTQswGnCKoq9lH1rH6V1rEvKXX-YTcu1a259MZJXeRMkbnGV4xxwi3BgNlUkhdmS3WtY1iorL1MF2sr9-gMKYBr5WPpvVN-VUNwn6DvRpT7aS6hVrxq3I7IDNdC2PRuclP4JaT2NqzVuYO5p5vQ83MT6Z23MCDUa8lbyoLz5KAE-xZAdtim9g97nTmEqUKCwfcSAvIAK9zZZv3PZbIvj6pwf7Kk6Gaejz0ViGsyTZBvCAvGyU-N-LMPMa2S5brGUPKReh47Nad3kVx6vvn3aS427yv7g4z-hmlxL28SMMgW6k1e7jqiGAYiDgoMOlvXqagmz20GdykF%26pg%3DA7IFCVDZPRG6TL6TUGB3QYVSQE%26ch%3DAQEAEAABABRX64SMEGxcFY9h-GDmyez8ZLk363VSItI.
+.netflix.com	TRUE	/	FALSE	1800221943	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+22%3A39%3A03+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60f0ca4c-00df-4d90-896e-d521cb157a15&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1768685796302&geolocation=ES%3BCL
+.netflix.com	TRUE	/	TRUE	1800221942	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSqC75ey2CWCyu5gBekd4Kxkp6GE2ExQ5U.%26dt%3D1768685942308
+.netflix.com	TRUE	/	FALSE	1800221937	nfvdid	BQFmAAEBENbl92qU-HG9mdCqE30GhAtgZrlb5rhVgwrtQ-anDcjfBExcwrgGpSKBuwjfEIwRSbJBMhjkUPSFpFDqHyHUy2s-aa3X3d0UMpZeN-SFBCKsvGiG7JdCHSC0kHFhipJbUzUiq43Sg7fOfMpLAZdlf0Sq

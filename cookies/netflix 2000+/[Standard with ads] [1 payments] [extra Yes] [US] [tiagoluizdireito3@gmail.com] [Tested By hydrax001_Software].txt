@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ✧
+– Email: tiagoluizdireito3@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: March 2019
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 1352
+– Phone: +19802664494
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ✧
+– User GUID: FFPUCZUBMFDNDNSZJEVQRWPTGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807650515	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA9Reo72mbv4-GXd1mwgd7zQK_f3A54DJbhhVBYdRZH8JbQ4U9GFSnvELCLSWCB-JhVt5DDTcL6MTepTST8ABCTzpjj_Eey7CsXIS4orOah1OAdvhlp5GxArZnr4sGhQv4PR_xcdxkCzdP5-JIZ9F2x2-qQ6k05NVCwuDTCf3uiflNAS7ewwQnPAk_Vg05eAi8cAAt9qTPRCNGFGVsBOvaBDdLEg99o3qtfttAPDa15EsGfMh4uJe7bpC-ObdYEntmfxJ7S6d0wOwE7ENbcK4rrsCN9YPJLb4Q-kpCNCC8XSlhnrKVyfnth5hwmtaOEaxtVWev9VxBEkGXjF9saIEwV0f4erzZSmyxntss7-kkrqM2hnco_eStzJpK4ZB8Yx5ruJ5b77P0I7RuffBMCffBnbIZwuTUDK1vYRAZofUdwFsxTYArOZr-p06kMYHIulCqe56t83PJBe0r48tILux-3GKSYKtr9XXQ9MCo3LsA-Rh3ocO3wGU6MxxmCZdjHYd_0hlG3vdr3bYflP4yu4vu55SemktRGjfgnypmrpinwfoGAYiDgoMNLCJGyUk-9I1nUdF%26pg%3DFFPUCZUBMFDNDNSZJEVQRWPTGM%26ch%3DAQEAEAABABTAJPGtnmt_mu6Nn5ATSwO9Hvl3SXN-zLo.
+.netflix.com	TRUE	/	FALSE	1807650515	nfvdid	BQFmAAEBEC05lrTnKRdSx5wkgozdrZBgsJaVw1RU0mGhtdDNvgGJLZknFsPDkkbxMY0_n29PN_8QUC9ndqDBSM3hD7tfs9pxeuV-vqrTWtZ_CT1PYH9t3kOma0dJfYca5IFarkuw8IWrGo99eT9SuqhCZmCIez7W
+.netflix.com	TRUE	/	FALSE	1807651108	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+17%3A18%3A28+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1c3fa914-521e-4934-9fcd-e4fbf797b1b6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776114515280&AwaitingReconsent=false

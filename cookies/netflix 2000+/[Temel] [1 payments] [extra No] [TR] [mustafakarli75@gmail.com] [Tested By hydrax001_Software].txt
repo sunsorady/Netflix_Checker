@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bilgehan
+– Email: mustafakarli75@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Temmuz 2025
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 5077
+– Phone: +905324604840
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kerem
+– User GUID: 5FY7ACGHLJEO5EBYH6STHOPWE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811596969	nfvdid	BQFmAAEBEMKPru6sdOO8tZhdT9KcJcBgMbOA8m53SzvUGWOloYXXd-VMeH2KeuucRV_ylX_elqESH2qREJmB0HQ8rICxVAb5DGbk_MQZVm9WCq7DAYGwDoW2r0XvYcUt5_5ThUbDUVEwvjwIUkYORfuwBPfktVoV
+.netflix.com	TRUE	/	FALSE	1811639205	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+04%3A06%3A45+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=42568970-5e72-43ab-8cb3-7ca055a71107&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1777584669112&geolocation=TR%3B45
+.netflix.com	TRUE	/	TRUE	1811640711	NetflixId	ct%3DBgjHlOvcAxK2AyQcHESXHOZDe8D40kezg44XjyKg2jOE9JeMYttlVjS_xOqmbyrJACHdyniuc_IFa3k_z46g-zmLfU9kms-q6Losb1IYca_kZTr4Rga5DIqFW5DqjULXKWrVod-jEuK6dd3aQiHWICKk7gSjbVQsBG_mOxX7eE2wnKw3RvK0VvhrZ_xVLAhauvdj_Igvj5IvSUi_DEX4jgevyj3jAew0bg-qtr9vg3mW-sYNujn8eID0r18iDSyg6gHzIRU7oJ4Gc4KdhfGyLKanCUYxVuRhbKDkSBKcqULfEcKS5gbyxpiiPzIYRzrrfahw9U8zft3CJNCvMhKzYU7rP8hy5iUuKVNAgbwndLVlJhCpVMRiOD07r8SwtZTp-w1MzA2Ym3P5ck_7WvZeOD-hnnpe9tz9vUYhn8_nCune1l_r8bJDwnTbYK-_FlV9EQ0ZZCGPpKN0fhIVLNj6_A51KjgfDFGBwqWGVWJtwLqueyB0G8jE0wAYb38vbBMJaWr3qld3uQqXCwbsNt6gDZ3Dx6NsPFzQf9kN5ld_740BbLafTlJWVrDRS5uoCYMrkPBUhEzUx1cYa3FfdInWMhgGIg4KDDPWd_DjHPw580E-8g..%26ch%3DAQEAEAABABSK6BpR5ulFiz2oDB0JX_AUCiibdmU5SfM.%26v%3D3%26pg%3D5FY7ACGHLJEO5EBYH6STHOPWE4
+.netflix.com	TRUE	/	TRUE	1811640711	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQowAgHRBBZIxSiNEAEpmAVCJvwdwjBQbg.%26dt%3D1780104711478

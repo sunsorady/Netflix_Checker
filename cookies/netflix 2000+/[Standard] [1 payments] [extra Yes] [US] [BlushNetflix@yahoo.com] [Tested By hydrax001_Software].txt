@@ -1,0 +1,27 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Logan
+– Email: BlushNetflix@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: May 2012
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 5007
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dan
+– User GUID: TBUUC6WDYVBPNLQN4W67VU37KE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800856027	NetflixId	ct%3DBgjHlOvcAxLAA2WYW9NMtvlkGBRUUwMXcwMbZhiLH_y9L0LYAMqwVXkAl9Ttdj24XKjkbVn0LJHPCF6d2zivHZ3t86U5q46xMd1AqfRGE3luZekVzpch95R_2VPBnyT_fkJb9_tj3ijEUeRz9jYGVO6nZlciShTBpcIO8pxJpFKGCknY-Taf7B6NJyUY1eLjPTCe6_jJrdzQnQ8ZAW66y_z654jpJRRbpr900UA-aegUyOUIR4af24VRmYuV02Ul43n1_JjT9llyTOdptxSKBup7CNn2qGxlEAa1XYqh4ixMEdIM9UP-YgcQMtVPRsnuDv4mghcGdWlpS9g_1oWvbeSDNLxQ2tjqF2kmkXuGdyUlcmkb8XxsUuNWXUZt_Uc981c157x9giUw5W_oBMtHmNoMmve2Lm5ajpS2mw-A4DOoCC_XuVeJmXNNP_TigOv9yqVVxrucv5hWWltVk4GzaKXpcJ2q3kU82PvXLQK-n4Nkue2sZCITmxBeYJrPtJB4tSvvAHu7mTtTEFMqCilVbPoCEb3sHEcVAxEg4F8W3riDsh5tZz09eUUirB4EDLH1x-heWhBQcLI862yL5A8jQDurd6nvHja_JboYBiIOCgyme0KU_HeH1lTeFrA.%26ch%3DAQEAEAABABQBLKg7iLYTVjJtuPrywz9g3isguz2-mwE.%26v%3D3%26pg%3DTBUUC6WDYVBPNLQN4W67VU37KE

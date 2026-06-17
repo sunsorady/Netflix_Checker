@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kid
+– Email: jmy650304@yahoo.com.tw
+– Country: TW
+– Plan: 高級
+– Member Since: 2018年2月
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 0501
+– Phone: +6285723484009
+– Quality: UHD
+– Streams: 4
+– Price: $460
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jimmy
+– User GUID: TN5ZZSOBRRBXFCTZDWK4V5EQWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782813230	nfvdid	BQFmAAEBEHlvEt9eey2Ka8Yn_Be1xO5goICje1XQE5MWQo26tSdW9P2RhVX_NkvY73SUZHHde0-LtIzLMEklGGKddomVmQdiDszd0GFWNfV5yznkp6o2EgQyftLr7QoPG9hqSi-6hAWHTzRrpiR0HhJErx7hrPVK
+.netflix.com	TRUE	/	FALSE	1791107168	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+04+2025+17%3A46%3A08+GMT%2B0800+(%E5%8F%B0%E5%8C%97%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf9d33f6-63a1-4e9d-90ec-8860677f1b8f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796908917	NetflixId	ct%3DBgjHlOvcAxLkAxtTK-G8nGOoh3lmB6Ou76Gi0lV31jYOZum3s2tBHum7NfC_9sNTU-DJK_8O9ep-MiQG84l92berefK0XzOYJ7wdNqi3YVBIvXxsOfPe1gJlxAGHwFIjqdmEsJRwi0geuejp_eZDo6NlRhJhkOR38IGKOJkgFiKQka1OtlIK96YdY0kuDOmO1m6zARhZHARojbNca1qEYt9BfyFTKO36-0pZRTFJ4W3iqtecBTIPRMy0X9KnbbCjOFq5EvCcoUf-5Z6-GzQ0d6MWyBjC6oagBCiw9CvObxeOOwYZwxLVondC6KoPP_br-PZrnL06-4VrjCj76bGLlC6miK_zUbRnQ3qkwFA6mB6pMKp-AUOD1JZwJzQ8C_Ezk_feR6BHI73mdY4PifqnKR3-U_zO5H89mscqEcN15UGDq8-1pWzhk_BHqpdIjHsHOM6zzCl52lqqenPiwNN_4ya5FmOBzFV3jOsyZ6FozMDgDb6jMhlPe-yy3jEo-xuhz4Vx3zd0OPy18qmXvV84ZIXOjwFYFMkXc21edv9b7lcdkTnIffplp79JoOqZcWvCkOD0CECnxw1TlBNA6wtbI42fofUgyB0QJKAwUbOPB060Khzt_dC7kSz57OGMogi4s6SMO2p29yfyysB4BkYYBiIOCgwdvH1Hknp9YKk4lK0.%26ch%3DAQEAEAABABQ0WVdRBN6GKgk1xNt126xnJwrgPiNWY58.%26v%3D3%26pg%3DTN5ZZSOBRRBXFCTZDWK4V5EQWE
+.netflix.com	TRUE	/	TRUE	1796908917	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7U32HHURbrN4vqUMN7KWYngrq0Zo9onM.%26dt%3D1765372916542

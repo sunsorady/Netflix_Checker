@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LUONG VU NHU THUY
+– Email: luongvubaotran00@gmail.com
+– Country: VN
+– Plan: Cơ bản
+– Member Since: tháng 9 năm 2023
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 9496
+– Phone: +84845291919
+– Quality: HD720p
+– Streams: 1
+– Price: 114.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LUONG VU NHU THUY
+– User GUID: 2AZJ6VPP3JEPVHMG5LOVUTHHDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783982025	nfvdid	BQFmAAEBEGxCJKXV-w4C84o6Ub2I5gdgyGozEUxHgeUyvJetQUjxT8KSLzkiQPa0FddxxCYGHfs8wmccgtz7ascmJ2BRPSy0auYluVGGsJSUtOsDYV1NCQByIdsfYWGNDuUmyRhmnJ9MHKcI8bx8fNdXFkP2Wf96
+.netflix.com	TRUE	/	FALSE	1783982025	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+20+2024+18%3A36%3A57+GMT%2B0700+(GMT%2B07%3A00)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f7222a3-db26-4464-8e90-cd125a49dee8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1783982025	NetflixId	ct%3DBgjHlOvcAxLpA2mFXRZTtsSY1xASq4MqQ_cKbrVUxLrkR2URl7KozxBynmEwHHgQrA-QAHXq5MET4bRrDWfYJ3x2RT8wWzoo1BgFngwvBFjxSYiov3SlQRl6LIR3Jor55wfA3nezzarA96uDC_xXYDbVNzsyBwvRdobbgtXJsHLp4oGFxZVoR7-i7wXkL_RM8U2CfhQh_DvEKQdcRVrGszVTClhs959Sd14byxiN2P1vN6Jah9IUrPz3G8iP47xUQUS0IPHOcER1DhPXfAiYh7Xaw0tOH101yVFpUG4UGP222DiVscoXM-kzH8LuFMPxMVGokPpP58hw5D2R_ISaUx8TKLfVLb86e8JYP4WS1KbVtQJ1YMG6DhZjZw8VXQE-aVGgpwHHthI6Fy96T2OrTlHxGvvWQLCTA4EEbg5PKPhGtiOlQjEAD13pYc-hi21MbHnunU0YwEyXOfJ5GzdWgl5O-XQUPMKHgwx5V5qa9ousuwZtecEN6nCaRxx8pd6O32HSO8jRm_WTvz5jCqC1OFuKD-LZu06dTePzBkG3tBeZ-sBBgzphTJeGPXmLfutibiTuoG5E8Bjve0eZLqzjRXHU7iyaK79tdP6vwv2hAmLaKZuRCwIg8ZBSKj1yMVATgzcX6rSov3G2ndazoVR_5t5o3hgGIg4KDD0ayz7IKi-UnAumWQ..%26ch%3DAQEAEAABABT-AfaZDkzkwvptRvgIwHZY2Tm1TYsTa3k.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783982025	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQAazK7yKCLoMK_xOWBHjXGmCI4dafiQbI.%26dt%3D1736851025333

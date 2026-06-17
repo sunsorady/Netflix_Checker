@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 1312
+– Email: pcerovac@gmail.com
+– Country: HR
+– Plan: Premium
+– Member Since: October 2022
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 6003
+– Phone: +385981323517
+– Quality: UHD
+– Streams: 4
+– Price: EUR 12.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Random
+– User GUID: SIJDZQYLYND5NJTCTML7V5AZEA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEGB_HIWz2jO78LoBObMOal5goOKylNpJwjvq8EhScekE0HgAnWIVXBP-I4-cPoGAh-8LqvDhP2NLFW2inYqPiZ347WdZVFKxXcq0vsQ5IGllva1Vuwb4Cvy5TyWd6r07OI1PXAdfcK6IIzbEqjBAKUOK
+.netflix.com	TRUE	/	TRUE	1802462255	NetflixId	ct%3DBgjHlOvcAxLnA8IxzUJExeikG28ulz4QOjStApIHxATMJeUgUL3zHCrqJn6lb3jnSnPwQ2vxzeGduaSMurkWTaOT8vglDEuVDh4CUI1Uc8UyZE5veNoNVxs2THQGTXBwuBqMt2jNS4vChypIwm8JBN6DJIAQIBdxM9BZT4U14eJDREQy-C3bPqRfoOeAXy0XPpEDsp0TSfquFh-rDZrEl8x7wUzsYLD-emoqtB_hk7E9H2GSC6dapGN1JNz6Ml6PycA4-HQIo0lcy_nzTdihv-PHRdbAlM89dpzKfo5rM_qS3uWWRob1ngL1mL0Khp4eO3zNRe0wgb9CmgVWIBkhAHK23wHNXyfEjxeqLvtCVlubknTPcmzd6DBwCtYWaXeCPr4zFMZgG0hPd5fPwZobAt-nQXNyDGAO_rg1fI-EoVe8wsZLSIa9f9PMIv8B_1y_5F4tmMKVUdm_W4yVQyUmxebuqlgIaAcx0biAPoI3-3YTNS4qgieAolO65zVj_bIU1OANEOQWYSRb9mSOIbgNG6rQlbi0H8pBeGtk_56P05pxiLzBG0maXoWjB35Gyr8Jq0Ck41voC18lNZZNNyKV31IFquXciO_JQHf1ZgBCrixj1GV87xGaVAAfqR-v47ujgyU3U2mUmw6qC2AWb9NtdHsYBiIOCgxZbC5awtXJLahsv-U.%26ch%3DAQEAEAABABSfWLHHnAz_mAQiRuj-Y7BnRdcumCOaDco.%26v%3D3%26pg%3DSIJDZQYLYND5NJTCTML7V5AZEA
+.netflix.com	TRUE	/	TRUE	1802462255	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_e5h-kqHj2JeK4pumJTGyiv5iaotWK2Q.%26dt%3D1770926255044
+.netflix.com	TRUE	/	FALSE	1802463707	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+21%3A21%3A47+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd4fa671-2190-4980-b789-ad63e3c75fbd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HR%3B21&AwaitingReconsent=false

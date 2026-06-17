@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Donovan
+– Email: rudosan505@gmail.com
+– Country: MX
+– Plan: Standard with ads
+– Member Since: October 2025
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +527228373193
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Donovan
+– User GUID: 3TZP5VKJLRCVFB23LSKVDG54T4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806634065	nfvdid	BQFmAAEBEJr_n9J_tO8dsHR4ZtMfxFlgeOZJ_kwD5f6bC0KTqulnOmLo0W9tNWKt2Yw9qyZEWQAo3BAAxPyJ5K6mSB1JjAXzXxHKd0ZNEt8CBuealx9SG35GtAwsZbUWQIF3lleQ-3iCe2sQdUHTQqOBwWO0T51w
+.netflix.com	TRUE	/	FALSE	1807830586	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+19%3A09%3A46+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=62fad92d-7d9e-4839-b426-a92b23c2f9a2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775098065215&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807921415	NetflixId	ct%3DBgjHlOvcAxKOBJqG_DhJlcAh0jQgD1wJp4eSKPpwD0vOyNI6eARwb3qwvyMHNls9xJm16kVvkIdsNNqJVK9Lb3NP1j_Nkgqx6FmNJddKVEOfO7OXC5d9KlXRMa4MG7v692XXkYR7RBQGtC-WS8DInQAkpq6smTW9H7cxSM-e2va6i1KT07Xsmz30jAeuqWwJGb0kC8rsmFQHgZFseFLQB4czZzZNL7lfKhCxXyoct0eYG4IuovG1iA_GwyGpsLTkpu5uLcRKqN97egvm9L4uh0rgeHIAlBBEivyD9lc3pQ1FT6gCuVJHT-vKLLpECKrzaPQQJeMMH8a6E-i9ttbpGujZ50cDASJjdJKmhTmnlng6tFBQmGpPZFaDS67Ld4vAsEB9ei_xBY_Jzo-HhRZjVo--bVe0NwTxBBhJx-UkMG38auytFDLnhXQIYPMDT-9Irnyo5ZyNkH2jBIQxWQNolmJ26ZBxiMM61WjnMH3P3DAZsCiu3NdOM89LZtPapsBLGRN_Qf4JCzgEVq1HIVb3bHaPEmwA_h1LJMllr4Nxy4JrRl8WzjqOpuXhqBAo5zKQtf6IGcjetMgys-s7uCuqKld1ZqVJi7jedccUoCBP6rPrroiy-_uLCeQNA8r6UvvZoOSz_7k_HZUnauNbf5SpuVeupN2waXr98yNzj1YFLIGFxcvU7JSHTD7Se3mv8juJnMvaoYlySJAYBiIOCgwXF3zkz87uh7gCt4A.%26ch%3DAQEAEAABABTncrQVswMBRw6Gr-BtL7MvrZ67i_gCsuc.%26v%3D3%26pg%3D3TZP5VKJLRCVFB23LSKVDG54T4

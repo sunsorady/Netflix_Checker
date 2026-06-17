@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriela
+– Email: bartekcerazy@wp.pl
+– Country: PL
+– Plan: Premium
+– Member Since: August 2018
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 4106
+– Phone: +48606738971
+– Quality: UHD
+– Streams: 4
+– Price: 67 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gabriela
+– User GUID: OZI2OHSFHFBMLNWXT4H5GIGXUE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800900146	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKA6N0VorNy829pPF78kWGwBailzqThPDoeymU4VF6e9nqBBQzoDgoqI5fPQkeM42-j8xTp9Rg44kkwkeroenPWvaYfoGqutUwe4URt4f6Ohp0Fl5vDs6lb8IQ-A7ABPxR6gBbmxKM2colV48Tgk4Ku90IIO8DJtNpU0ax3bnQkHCOPnIyrKgg2Qr7fm4rve6xKSdz5lgkCcgHXiIon6-gT7FuxCPP1hvoH_OnhcN1zWsNBkx4zg0mkddeTrQ-XrgKwLzgnMlO8Wzw5jGB5S5knGwZdI6YWiHIXkvm_vIew7sEswtSGbmGyy0sFUNLCjC8HL9PL-4xJfqtzSOi1-NQj03wvgSaNIaPdzrblqwgqZaU50l5eLJN47HJPHJAxPPaYdnl_sFMzv9FTe18TBexcGR11br3JXJ0Bat4c_Ubs4qit742QnimdSb--zKuiafRq2tOYYKvlt1ZQ-AxyjcO1PS1xBXu1tqNv7XM5cf5eJ2zYrSZqPGkhCnaxjhWqRTdKOZ3oOyKu5mrrbMYBiIOCgx5Vb38oMhychMt4fM.%26pg%3DOZI2OHSFHFBMLNWXT4H5GIGXUE%26ch%3DAQEAEAABABQpbFTvsJrgNOqnglNKN4kkt2w9KTMlwGM.
+.netflix.com	TRUE	/	FALSE	1800900146	nfvdid	BQFmAAEBEF3LlAMHwCG--B_A0AX59uZgopxlTkYfzgjDYdKzRyskg4xpcVkFBKkW96HJpzHz62Rh-iBEfKdwGQ6ZZ9pibfXlII2RGD794oO8N43dD9wIAKeLvor4wjFEhD6uviaj4Pf5ULbsQcbqk_lLgOju-ZW9
+.netflix.com	TRUE	/	FALSE	1800904203	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+25+2026+20%3A10%3A03+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4ce22e25-ef75-4a1c-94fa-98a3de315cf0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1769364133944&geolocation=PL%3B14&AwaitingReconsent=false

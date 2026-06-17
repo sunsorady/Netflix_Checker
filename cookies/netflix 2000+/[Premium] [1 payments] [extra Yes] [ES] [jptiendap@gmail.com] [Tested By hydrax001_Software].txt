@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pablo
+– Email: jptiendap@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: Februari 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 0421
+– Phone: +34620780464
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pablo
+– User GUID: THP4ITBZMZCFZPB6JCZZKBWZG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806742722	nfvdid	BQFmAAEBECHquS8rI8emkiaHFTpvbTdgiw_7rGakNqIAh3wq3gzdroQDIDKyfvzWdOPMSaFDh0VsMXqBflTQrV-XzX-K95dT72f3oz2UP34jpIFywd81NdqM_H3g_1qEfvyv2Jz_iTAWLzxf-bdptp8C2Iia8eA3
+.netflix.com	TRUE	/	TRUE	1807024716	NetflixId	ct%3DBgjHlOvcAxL0A9mFQ76XzwvPDGEqoPngsnv-z3p_JoYnB4TMZ2GB03r8v-82Vv6sKD5Ic1WHvuW4l3UkY3rrSGcbHR8Ve-tlg01L3YF3jonsRZLiQHuwLfCIMy-Pz6oc_2gVY-imkDHq1EDsRkrUKBQ_GtFGivxmI9BhLo7fjIptKbEhpiz2SozGqjwl8cPB6ciwHU_Nu5kdTiQ-riMrsmGVz8QFmfhXLY85DzBl69SC1Qk_tjYrweG8dSvYFRldNOFdv2cGwgBxnk0roAfbecoVeJPEGJ-oV1XC_H6uEd3AMkLOr3x6fSm2q93A3QfrMhy-dnVwLp7cm1raMLckXvjhK31NIPXQcwzMjM7bCYbnmd7ikJ2O0lSSctBYaqwfLqyAYKtOWNI7YPLPrLe4hGWy_PKn1OYwhF7LHSaRXAIbMSqXRJi-1tHPk61IiGfAchhqDGGCnRYJpWdI2SOVrneLFtwwys70c4v1ePemnRp22dBrzkwTOeax1W2fMyArl768OiDxe61mH3wMJ71rhlWRs-Xel4RW7mfsmCIL-PxZ0aEH-TgCLj1woPcgLWTlnlScJhYYrx_m19ZLwvWofcDL0cS5peubdzUw6N4MU0aKUhRgqV10k41ce-nM2QUUfvTAnGBgab1BFXCQDC1xRQJHyEHO5C6h37cgnVXAGAYiDgoMmkMaq2i9uZF1A0R0%26ch%3DAQEAEAABABTqIdnolcqFoz6Mw8UHFu-FOp4x5N0wtCs.%26v%3D3%26pg%3DTHP4ITBZMZCFZPB6JCZZKBWZG4
+.netflix.com	TRUE	/	FALSE	1807024716	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+17%3A18%3A36+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd2f4347-f025-4dde-99fc-d1bc65a2496e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1775206496714&geolocation=ES%3BCT&AwaitingReconsent=false

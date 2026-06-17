@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabriel
+– Email: luizhenrique_ubari@hotmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: March 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 2090
+– Phone: +5511971190339
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luiz Henrique
+– User GUID: OA55B5YMAVGSXKHMK45YTGUOMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792315	nfvdid	BQFmAAEBECVYMqYGxERKXJlWxPh8_Y5ghzFj_2d3Ol0fp_WGfKQDCm2_xQ7ynXgsxWruWi07zwrIEnN5fFx8C8nTurZuc0DfUHCgrjT7tHUJu8E41IpTdpwm7f7JqTTdb12ffYxDUPTOxlwjwV8o_kkvZgFHu95D
+.netflix.com	TRUE	/	FALSE	1783792315	NetflixId	ct%3DBgjHlOvcAxLPAwd9Nn62-TIZX2wVHS7LAlLzxinuw-vLQKIwbFRqBAfs1xPHxZ0UeDlNkBNTwIr0gXzHNwNTJ46jKKjuyY85IJq-rmyChyIEcvCQ7Y0tQ8IvIHSzyXJ1h32txLlB5G8tWeP0VAqKttfU11fxt4moM9TvJAimHNUktJp7uFt5yAZqX_iGi82PN2TJM6dywjIPrNOB9vLg8DZZzLT0gId7NnZ1jhyflhcG_RFYitVDqpBjUdK-6i4C-H2zgfhRkm49_9ZTUIWLSW_SPHePfPEmjs8kE90QsBsjTqsoA-5wYBaqT7SK6DUr2u3vIEkfFnsuPQbQBJAVkyWmzQwrQga6zZbp0KcBZPLnphi89C1QD_EnN6B91rua9xPiQXd3U9NAu_RowPoYYdjq_zB6nuRSYvAvM6bkNGhxnYuWEoatn1fz77lT-zDWOKW5QwQIlobEwILNRvSeQ1-Djpa5Zom4KqJLjQvxkWquEnajYZ-7YmvNnT9r92DLH7GRkzL0hGrDpvfXZzRV4q2SgUyDOUBKCv7btsjCcr-XvwlIG1oj1HmIfrxyiEk-e-bACsaDKspA3PbNbWCWV2_pcGDUHg22QthdcuICprvoQUbZ7lrfDQAYBiIOCgx9UflkeliDOu40ByU.%26ch%3DAQEAEAABABQHiDgdl-gE6DTGM5YiRuFzqkL4oJrZF68.%26v%3D3%26pg%3DOA55B5YMAVGSXKHMK45YTGUOMY
+.netflix.com	TRUE	/	FALSE	1783792315	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShiu3E6kA9_gRREarl7OhVtwaohNW3uHk.%26dt%3D1776392098509
+.netflix.com	TRUE	/	FALSE	1783792315	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+23%3A37%3A03+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=82bf35e2-7793-43ac-a04e-52f8aca1f49d&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776190761024&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP

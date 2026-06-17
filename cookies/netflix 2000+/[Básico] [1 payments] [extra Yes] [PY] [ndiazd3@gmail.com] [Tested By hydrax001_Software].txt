@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Matías
+– Email: ndiazd3@gmail.com
+– Country: PY
+– Plan: Básico
+– Member Since: mayo de 2024
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 7427
+– Phone: +595981758615
+– Quality: HD720p
+– Streams: 1
+– Price: USD 3,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Noe
+– User GUID: 6XLGPSLXAND33LEH5Q2NK4B7VY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784056894	nfvdid	BQFmAAEBEASP4F-j82p_zIXdPG7eATNgDqFFIbthBQjeTGVPtl7d99mt81zQnom5lrub6WzSNBR23NcXLKCqz8GKr4Fg4QClDxN3AY7B3oxjy5mEapde9tKYruiNQ9KTEkm4A6YteFKrYqLwt3DAiD2pg-crfRAD
+.netflix.com	TRUE	/	TRUE	1784056894	NetflixId	ct%3DBgjHlOvcAxLfA5ynOWnsL8nF0PWlKDye1sqssZZyHyCCaZ7xie7sHOsY3MwHX3Hd5sR26muCfPdSp519ejRxzDeZx9A9Q7qiJytTIPjKtq4-7e0nIbz_2eWiupulx85E6LRzPEC1kQUFkpVi-lcxHSnU8DuaeMAEB4K-YVvI9Xf60MerrldRl1Uw5jEhZpEDFw9lz6CB-NbD7BXOfSPrKKTsK-hn9Kw0jMbI1UiVFsBZqo2BDjjSqDUaf9cwTvK33QQAfor3aRgQZTwoYU-bOcuMUqmG0PJb5fnt2Cg04IJtEGgAbOnozqpN1vGLeOl8Gg4CRe8irhHKkv73a8JVeZYngF9nbhEEsHMCj9qT3cFe8-3dzw5Aff7yMaJbI3iUAFXx_niwWstDBki-PqCQwYqA3CCIaMy7tGKAhGwcNh63j8DBmU6QFsZcPRivfhiFuAqODE98sLKMOWssq_R1fszE33gkI7xNd4zf5lm0ZgqTBtHxpMlCHBOb-WYjnShvItoVVdYCj3HwfWON2sWqrCdKU_5rjrzZSLB37kKYamaFfQvwggx_z9zdXmkWhulE1PI5-hbv4FbI9oXucM2_oG_yppy-OGyq8m0PzOoIZW2Y8YNjfEk6iA1sTnV1Eyk_UdI453LRbVK9GAYiDgoMNGCm47L-cOZa-gf4%26ch%3DAQEAEAABABQTCJ9eF5GEYP4Q3ANCiLdEO9kpYfmCgzQ.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1784056894	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+02+2025+12%3A21%3A22+GMT-0300+(hora+de+verano+de+Paraguay)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee8c1380-dbd9-42a7-800c-8d0afa6cdb8a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784056894	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhqazIXw8E1IKZ-6iDDMxh9Ewb5uHbG3I.%26dt%3D1740928878340

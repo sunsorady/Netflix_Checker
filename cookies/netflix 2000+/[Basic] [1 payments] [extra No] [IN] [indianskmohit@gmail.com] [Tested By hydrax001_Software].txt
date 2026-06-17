@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: indianskmohit
+– Email: indianskmohit@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-07-16
+– Payment: UPI
+– Card: N/A
+– Phone: +916378680479
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: indianskmohit
+– User GUID: I6CWGHZBZFECJJLPW2B3KQWDJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807427311	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRt8nrsP2uUpNYz8oQ33bT5hbUfSZLvtQ0.%26dt%3D1775891311360
+.netflix.com	TRUE	/	FALSE	1807427311	nfvdid	BQFmAAEBEK-tUm-00LILKLa5HAhiymhgOG_MDRhFm7x0sYCkoCzcenL0WtBsdFLFejgFUgaFeKHm3GVQe7HgTKtfQzG6ajrDfQswZhv2b3EwTHFDVuzprvw1msonN-EPXvOUx2yIsUtT5lvHIXSkGPIMHtnTgB-6
+.netflix.com	TRUE	/	FALSE	1807427374	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+11+2026+12%3A39%3A34+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75b2244e-f8d6-4cf9-bb8a-2984af3c1023&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807427311	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKqA7AUMMa1PQ55lUK5nsGkJt01ZuSdYLCGvLhbrYyPfiH8g2VoS6fKE7456M5DLiQ32AYvu-3axVFbWuS0ghzi2IJtElZ_NcnEXWtgS8aRIr2OFbb6S1GMwTDTwMovdm34BRqpou-Dq3rt4Zaz8qnEMcTaa9CaMCDp02p9COOSbLTmpB6XKdMfQ8GhfIlKTY63XM-PTIQeu_V_JvVtFNYjCPbDREx7suQKhgBsrjJro385bJbZpcUbecTEcTyq6GHNPh4J7xiFbLvXYjRQkMTPwXxY9vZ22vBIOAyTjAtVAyCMkl2RZpip7hscp5Oem9xsEYXM16yvbuya_aQ7WRLxQ410FGblow1exmi_XIkClGO7pun4GSFgijxbn49byulZNJ3dJlX71_o4QQWkMAyGey_xg4EuFz6Lr5ra-RJIC_WdhwNZVpb5dIgay96Z5zIEynuhFmS91C9AqCejqqBmnnLu3fz-X296UvMWsoXEx35igjUC2jpnks2UHk6YPC9z6AsRlyJGisgQhWgS308ZJnwJGTZksRBDbtSJria24U_h2goX9LRu-XOdYBgGIg4KDK5XhbwoXXmz2cwytA..%26pg%3DI6CWGHZBZFECJJLPW2B3KQWDJA%26ch%3DAQEAEAABABToSyxX8tAGu444hDi5Kyccb6Bep0Uxzlg.

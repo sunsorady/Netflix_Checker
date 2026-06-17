@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: triboscampos
+– Email: triboscampos@live.com
+– Country: FR
+– Plan: Standard with ads
+– Member Since: November 2021
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: triboscampos
+– User GUID: UEWMU7MLYFATPF6IKGAZ3SOKNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790503031	nfvdid	BQFmAAEBEIRdFm97o83RYC1BViDLyO1giO3OsGRbiwVbIxhJMwDz9AFenXwSYyf9LGYQvWqkTtjrGTE5NnlH7Et_RlV88jMK-OUjXgPsLzcQFzgwTmzHFCgLEiYg6JEFgnpZiqwCHObU1IrZ1NnNEwaLRLe4R1Xn
+.netflix.com	TRUE	/	FALSE	1794049584	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+07+2025+12%3A06%3A24+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58f44d77-d254-4cf0-b0a1-e0c4f36a97a0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1794049582	NetflixId	ct%3DBgjHlOvcAxL4A8crt6w0-RFc8wGeo-AebIx7joKhQNyQ_8VbjACoaKJUOiBs65v-kgW3qvT85ozlAmQDH8X-5IdAWkoMOMfOw04xdK0RLGg6_IhQJ5-ZLFFgQfyIHsRWwygN3tb8yjjIerep_IIhAB-Q-zZ7PX3uz1qN_f1kghaFfyRpxqvQ-RKiju7Wg_PYJCAFU8ErG7s7Js_yA-V_hlstCBePWoswE_DtVkYjc_8BbuePZ40-Ya8jqvgnueMkg2OA6Z1o7B8r3RXepE_uhSomNDq5ajIECqpTd-cwukgkXphP1hC4gFSq0G01F-8l5ACiPkPo_nIkNXHiiFT2RFqRWDIfDjjzo-Y1HUFj0fMMU_TwySw4OZfe1x-kY1EEdctE2TCMg2s47gXvC4deN-0DYrW3dYJv0BKXscjzp2G-5mNDiX-9ADPyXF704WndhBJQpQKbl0HlAXI-W_V2x074iLolTL1GWHDXW9cT0AzrzQqwZqqQD2hYnjlUHbpxTaWeNBeAm_dlYVAoKD5uoMP2l0ApWT1SM_LFgyNQhJvUCUN-rqwbef2DQVbI8YLjDShHu0PH4GQtDdQo4r0yhZ1jj339cfBcvo1fHKb0sQZMWNw6KkpYReIHRPeDreFAn8YMaK9adquhVlfci87RMntk9ufDBiMwVkqA-7ViWpwPKRgGIg4KDNYCWmtUPEaWxdMomg..%26ch%3DAQEAEAABABTPX8mIgk_JDquaDvi5jEs0C-s7oFIE9sU.%26v%3D3%26pg%3DUEWMU7MLYFATPF6IKGAZ3SOKNE
+.netflix.com	TRUE	/	TRUE	1794049582	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxMZTB9-J6fxg8BPJ2jHaNjsTFcsY25uc.%26dt%3D1762513582823

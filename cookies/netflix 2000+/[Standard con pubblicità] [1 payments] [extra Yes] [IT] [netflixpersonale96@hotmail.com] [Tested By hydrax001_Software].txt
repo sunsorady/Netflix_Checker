@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alessandro
+– Email: netflixpersonale96@hotmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2025
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 8162
+– Phone: +393333715472
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alessandro
+– User GUID: JBPK6EXE6ZFQTIO557DXDWULNY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798162133	nfvdid	BQFmAAEBEAPjDmIZ6fqvv4bSFwlC_dhgpZe7ruPOJrVuA6ZxfmIi25Q5IUGZW6lMLgWao0C1ObsFGuBWAYW2UcDXeCkI-NZhLESwI5MDEtJjQOL2bam9LpzaGloL10irod-2Xt38FRJcdzpoCicmmr8cqSRvD1v4
+.netflix.com	TRUE	/	TRUE	1804494332	NetflixId	ct%3DBgjHlOvcAxKRBEbJG4-RnWXpI2KURxy6zB5pq6K9lUDSNBfRirceSvnk9LaIwLHWPEikRe3fKAADnnYPN9rkABHYAuQjRkU1-YWW28S_T6i3l03B4LuGk5BHzV_jB0Jx1ktO-ZjOkH9G1fCSJGD-YDbFjjGDvOUk7blCHVatONgvzDLk8dIE-d_ZnTSxBf7QkbZ4jCyLo0lyvTA8VAEOyfNeSTFB4JZ_GDhFfP0ckDUCGzzgk72JP-baC838vStOBu6aHIrboUcLiotZJFpxiBJ0b3wy8_8XFA13xJ9w40B1fGKGc7d6WY7wuJsZKku32ZIQ45mdPFtpk7j1cB8W0-dQl46CBtVrBNv6I2DPypNykAkTdaH3BOH18r3HftxJnlcjFm00AJcrzeLFZsLBDTDBnn3FL1kq5lvTLzVjJ_CE0Xr_NSsIG9NQyzT84z6MjzpjW-kQaqfvBBvKEgeLqMWXIZmTyrrwB2Qk5LSIoie77yozCUdkalnAIX6V3EFivJ_z3GNl0jd7NobjbZRPVfesTfgv33LDNpA3i_AopFapR1K72NVnMTu-CMVqwC7ip48X9Ja4L4ZOvpPqOhlkHbw3Bb4QA86hSREFd8vv2DGRrTmTkih_xoIPW4TsSFuO8jEuH9lBb2eVH8ccCTMMNiygauO4J2zkgFdBOwTNFgKM4a09BF22SjOFSuWFk-WpbFmK5OSNGCZCGXsYBiIOCgzQ6IPqf-q7Zya4mcg.%26ch%3DAQEAEAABABQT2x0PNVCH9EBYrB-OxuU0qsq3Ji2KyRo.%26v%3D3%26pg%3DJBPK6EXE6ZFQTIO557DXDWULNY
+.netflix.com	TRUE	/	TRUE	1804494332	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABST2vw1QuCI11a1bBbwNNIevnaoizCgqb8.%26dt%3D1772958331192
+.netflix.com	TRUE	/	FALSE	1804514626	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+15%3A03%3A46+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f284e59b-416e-4519-8bc6-67e40a8f667d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B72

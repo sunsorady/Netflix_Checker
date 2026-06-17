@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bub
+– Email: jadestoner4@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: November 2024
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 4082
+– Phone: +447471113384
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jade
+– User GUID: 7ISZ22LSWNBGPMWV4HDTSCI5VE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805253383	nfvdid	BQFmAAEBEEkG8I7cYU-AEXnjXtx1mStgKOgxJHIJKh0r80gYLVs2l0vGsw_xr9gToo7HIgrozwaXuyBYYVrb6iOWa_F2CvofL3b6KUlwSF1zOsfa9PUVlGPS4zIeojThYawH0IUlNIAPx1AEQS6ppLYPKPnE_g46
+.netflix.com	TRUE	/	FALSE	1811393076	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+05%3A44%3A36+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88c360ee-b999-478b-88a5-7ece47f12ecf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1773717076581&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811537904	NetflixId	ct%3DBgjHlOvcAxKBBE4IzAaHTsVETrqyDyGSXvHiw9XqDknBGdmb5XAEN-w6fZt_pjbnN6va9WqzvcFtpt7LvZQCugGZ91abVzAVAK-G12v7HhzdpIk6ZnOkoZCCwSvXVlcyCOjfqep333q827lD9fut8sU3TWAZ4tCeAALkH4JzIMAemGNfYhG_I7Uaye5tLfTb88Rjn0Kvp2Vkpuah1XqKBfrsc5gvgGZsuVUdlgIcVdhqp9dyOXcpjUes4TpwS_BNPChHcz21ny7Ei3uiFWb6Bu-pCnC6ejx8Qq3-yqYlsarkn1ysxDHOZQS5iEjf7iE5475XQb8rIMK8cf8yEneFz1Q1-C3WmLx4GpbVA_UZiyuHoRKkhuyAvb2pDmwbMu2WHcTMW-qKwFZWBZSTObxvSTOKuMqc6u7YCjZ65MqgyPkyi6qzuLIdX76KwXwGmcDpuczhByDUMCdJTkPTaVdNOHJTdoGPJt4C31rOCUi_MyN3rCWSyT3khotII8Tj9ptuAjE4xFNmU0F9030wvSrxLAdFHTsFEEleV-_IxZA_UpRk7BYcl6speWUmIusVXGCHvnsLgBepKQONaBhQwA3oECEli_xhHQgFoout2TCr2A6q2UtzHJ95DtDaKDMmMQDH7yndenNI_Byi1EbK4bUxaOkJMBb_QrLPNf2Ak0KMfY85eiJ84sickcHwdRgGIg4KDCt75BomMknu1p4ERg..%26ch%3DAQEAEAABABR7ronJ75-4QabCUINdh78pYJU7rOQTlN8.%26v%3D3%26pg%3D7ISZ22LSWNBGPMWV4HDTSCI5VE

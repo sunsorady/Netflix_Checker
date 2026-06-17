@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Skyler Kojiro Higgins
+– Email: thistimeyoudie@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2010
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 3695
+– Phone: +19802029272
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Andrew
+– User GUID: HGXQTIXCSNBF5EUCNKPZBM6HE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783297835	nfvdid	BQFmAAEBEBZGQS07-psTvWt0xy9Bc1NgL3WEyB9LBHtmtRTEs2MKMw2IDgA8OsYHnuizrgEwaGENLW6F2fOmO4hyJEITLiOU0sgiCJ7IigMZjNVly7GhJSsuyUlreSd9s5wC1M3ZVDd9QIKBbPjtUZAWlReFJuq5
+.netflix.com	TRUE	/	TRUE	1802750949	NetflixId	ct%3DBgjHlOvcAxKaA-EBRtyQq8_2UflCQsFT2IKZszl-TYI2o9qgy5zZ8-m0-OmsBisAVycptQZNKk4za3-NZTgkseagFpXSf6wHB_67-37Fek1vtbu2ISdP_8OI8EpGT7AgT8U5WwbaCS-G8Mdku0awjh-LeRz1fESjI-3DZyEszgyWePT0064SDo35-ed-Qp-LTPuO87MsUbpE6om9SKwPDyhBz-jm_N1riBzCKKdHksSOEM-aHdzGuVev3s_BWyeArDaVlsrvyaPILJMmlGQQqlaqvphVb9CcsmvVClw46HbCL00z5fyjcm4FvUUZ7JDns7vAK5TMIHu23kFhcyN1T0n4nEv76EsWCtfRwTruehWK3jtNziZkxVc0UgDp-xPuDCpx0SmW5oSk4o4kOxFYLdfzZTBr8PC6CvtdXdhZY6cA2Somxi0L_PpE0tdQfrwg-6Ei63QEmQMro0z_kUE6fvHqfQV2g9R9tFooPI_Hk8lVBvOO01h43JAQ7pG0DXe5L2NQg-dQj6y4Fv6vkn6tX4isXwU2Z4VnPcLH7JSZ6SjGAFNFGAYiDgoMwCDcch796IRXVeo-%26ch%3DAQEAEAABABQouQfChXQTRjIJsRAhmZkmSS6lVcCXCMs.%26v%3D3%26pg%3DHGXQTIXCSNBF5EUCNKPZBM6HE4
+.netflix.com	TRUE	/	FALSE	1805148925	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+18%3A15%3A25+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5279a6a7-cd55-437b-aac9-9d996f90f3e0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771042063205&AwaitingReconsent=false

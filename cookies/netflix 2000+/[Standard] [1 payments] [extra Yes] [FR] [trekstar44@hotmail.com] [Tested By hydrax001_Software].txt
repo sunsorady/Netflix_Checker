@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alban
+– Email: trekstar44@hotmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: avril 2019
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 7621
+– Phone: +33662520755
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carl
+– User GUID: DFAFN7VUYNF5FON7J3KBZVAEII
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810927499	nfvdid	BQFmAAEBEJj859hB55illQyGfQYY6-dgJNXujlcTz16_D2QQ5YrdboCnHW0vcsQz7EtnBsNwtaQe3NJxyx-bWrouqptTkCYHPxRtRNaM9zZ9hW6y5mw-SXFRgJSu47stKh2bct-z7TmEugJH2UHghs71j369KzAW
+.netflix.com	TRUE	/	TRUE	1812103067	NetflixId	ct%3DBgjHlOvcAxKDBLgOpOz8E8gkko_M0XsaroQQqYDW6349V70mqaSPlAD4NXMQxR8of58Yu5GMiKFu56MsSz6c04NYgGOl93RecrP48KnC5fACpCFAaEhuhseTbBNRolpsJ4gqtUs7032FbsYPlpx56whncyjT8xQXIt2Vh2_RHmsUI2kTwyVO9aIEREs7-03IkiBmpnfpvowKnICJTvaeSRg7Kow_XNVgc2a1hJ8KqkMS5aCqzM3tt-NxX3_botZBYAwqPW3pv7etxHYTEaay-AO-oxE7ml7RZd8oERFyl8fVB81CHEnqO8MPpBNYOa_pRezdZckMYyOpUF8rXvq1GIrkaCiXBO6RbEBz2VRshbKNBduyBVd-Na18qkDSKv-lbGjtCNwjgGfI3HUwneL4UiJI8MWZSG6omWTDlEP7DoGeB2obIaAiHGJKRU_N7I86xlVt8i82vdn4gICTzziUkkbUr2i0mMTlyPqIwJ-9buG2UwwgxrzPMu4FRj7hDz2of1tooNEZF19Sxu3HVE98j7LbFPb3JlYD3dIMc3CAGLHl5i_aKFT5CTNowLQZOnFErKAKkVtrZvhrLPP7ORtSlkbfBjrENv60BDZMwn8Z97pI1IkZFb2T7-nGlny2EtPbQnlqZKnoyYsCKGzmwun_h6k7MbFC6LvD5R5V_Py451gGRwPw6nstMdtw60GWGAYiDgoMUqf6XQsM1xPYtNql%26ch%3DAQEAEAABABQ_m6-p5AbGtolC-zb5RlrMVdCXZSmx0ts.%26v%3D3%26pg%3DDFAFN7VUYNF5FON7J3KBZVAEII
+.netflix.com	TRUE	/	FALSE	1812103068	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+11%3A57%3A48+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fc37b29a-e70f-490a-a81d-a23cd26c8e37&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1779391488351&geolocation=FR%3BBRE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812103067	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRENQdjdg9V-orp_jqnXwakdzZHfUny_F4.%26dt%3D1780567066718

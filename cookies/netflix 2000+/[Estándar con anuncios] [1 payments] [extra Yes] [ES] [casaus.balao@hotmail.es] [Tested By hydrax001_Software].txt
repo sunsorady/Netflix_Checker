@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Antonio
+– Email: casaus.balao@hotmail.es
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2023
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: casaus.balao
+– User GUID: YVPRKEMXARBARHE6OB7IQSB7TY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804458141	nfvdid	BQFmAAEBEL2S8LuEf-tCNzPeJizgiStg7Xdohg5gim4RZHB5dm3ToaTAhKpsdV8_DpfTyfMw-s5DpdGwyJCYJyRX9kY1iLDXA5UufWJqNPPDZhVEck1C6Q1DgoIlCVQf6oDixYMZHTj5xug4LQLEpgTs6gGdHpUG
+.netflix.com	TRUE	/	FALSE	1805049246	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+19%3A34%3A06+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2e197bc5-5cfc-4a42-9a92-0bc62aee16b7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772922132426&AwaitingReconsent=false&intType=1&geolocation=ES%3BMU
+.netflix.com	TRUE	/	TRUE	1811598739	NetflixId	ct%3DBgjHlOvcAxKDBH-2pfJQHnQN67qBoGDqQjBo_TEM77_-zD0-tPNLxBH67n-4DxMqeJ8ggXTPQkGhikK58kLcdto4l-Lg17owJPu6z0yeColMhDjlZrqwCrAk4aZczK0C4WyjY8Hb6N3P46eRCcvXtJeh1fFPt5Gb1-mqJGBXkKCqNzlwXv81jh_HS1CPayPSy2C3il25e6VyposAd9FIzrkhiNup0s7oVT6mg-LnSuoLmc6eOpzor0cJg2o6llYKuTxCVSGhZ7I81AUOaGUPLPNhofyMLkPUzk3VVgFQ71-r6-mj1ZJDXgulz6nOiWu5gQpwF4elN9a1KIQYN0TI_XNmhXrt-CWONeW1EgtvpZfRdeGH4wjjCd7sCbPxfKVfQkcJYWi-gZyRKCyWmnnrd2F3TZDkKztMDO6wxsxOyFeZH2va0hACquin7lvf793_FVuRqbVNAyds1IX-844uihcrD9YNnoKl0EuvuYQYsMT2heMxqKxrxqYMiVa4zREnIJeV2-bg87NB4TtSn6uro_OJLWo-LqgwPAAHNSsXgYxuGhEccWRhzdtOjMzabMvo_OM33EgkfCPylyVhkPBz97k5OsnrTobvyxYZ6Qhq0wiS9baWi9FjmPKVEMt0H7XrCFCLu3sPI9EGlLjIgQy6BcuYToM2p0bSkSXD9kLc9WcSlu1PVASJs9h4wsduGAYiDgoMmORkX1A7l4DcQTDp%26ch%3DAQEAEAABABQi0hl2nlvsvQSYdiqz4jqte4MNNYsE2E8.%26v%3D3%26pg%3DYVPRKEMXARBARHE6OB7IQSB7TY

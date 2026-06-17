@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jarosław
+– Email: bambus1206@gmail.com
+– Country: PL
+– Plan: Podstawowy
+– Member Since: grudzień 2021
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 8368
+– Phone: +48609556289
+– Quality: HD720p
+– Streams: 1
+– Price: 37 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jarosław
+– User GUID: EZZCBWL4VZBJZH2BVDRB55MZR4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEHSrE6ICvQxz0SFfUnxH80BgYK8QjS2mfQYH3gJ1oo0BE4NkMuEXXbhyb_yXIij1mS_fGP7opRRsepDfX6plvJI_Tn45HuJHF8NuoYtlhapLnUMGNx-CWNPfyHLW-Kt4aN_81dPSRGi7BEOrNchgi0_G
+.netflix.com	TRUE	/	TRUE	1799957057	NetflixId	ct%3DBgjHlOvcAxL1A5IYi1PmSItZK0qY_MVcFg6zgFy65lQiEtJ61Nvvcm--yZGKTwmVKKRdhsClZvxwokKN3G35KJdaRY2j0Ge7vepwZQl4Q4UFxRQ9kiE_3Npw6dAt8EMwryV6K-Zzo30v_VVpxkT8d7jCwJLheofjeoNs7-47OigltneWDVdv19-4n2tYh8RULnKpmanyJs90zCCriJwoA1Q_avToJcbk1Ea1lwMBbqlaAAGyRxtehhnFqTmzW58BmkaV4SH22QT-mEHXSJ3TknsJZ5YEBTQ56VdvcE0gXigvmW4wVjJ3_DLUsnQ5PK4l54cKuKot6Pt3LfkENhKAniOZBoO4PcXCmRbC0y4uqT14juxV7q3auYCd80UP4M19l1Lbh2X6N-Dh93b36krSLoHCIey2hrxMgWqtnhy_XcCnDlyDCodGcUjbf1K-RsrspefqkAM55amjvi3Mb5QcWdAev9g4Or3c6DRG-uzo4d4HXxFsJ_7BfsEsDd9XRLWy98FMvuuWPnpxes_ATttkO44kSuiDhj5cuocd6tfBUfLuIOBccJe1AR7_3wwSWpKzEY1U7x-XeiSI0yxEc6YAHzKnjOucYngTyhDOxwP0bVXjz3F2FfRipWtTPIv4EEQZ16siRrPPzvfuZ7M63UdL_Pa_iczctshsUGlRJ3MtPxgGIg4KDNXjYDeMv_QdNchA4Q..%26ch%3DAQEAEAABABSMA5tRpUv2xRP8jYI5l_VeDvBDS4HYma8.%26v%3D3%26pg%3DEZZCBWL4VZBJZH2BVDRB55MZR4
+.netflix.com	TRUE	/	TRUE	1799957057	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOJx4nMOBa2DXVTtlhdLSisIur2A2DOdY.%26dt%3D1768421056949
+.netflix.com	TRUE	/	FALSE	1799957710	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+21%3A15%3A10+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b8e8635d-60ea-47c0-80bb-25c44a9be730&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B14

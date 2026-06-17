@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kids
+– Email: prv@bblech.de
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: August 2025
+– Next Billing: 2026-06-25
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +4917623740224
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Brian
+– User GUID: B3NCPLLLBRA7ZESNDBSPQWJ7E4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790269641	nfvdid	BQFmAAEBEFXogAc4kWRmZVl5nHtwJB9gUDcjKdcJgCxYwUkw2bHqgp6no56Y03jL2SJK57rj7l5gjdnJieHQIB4Q_BDjPxJ0wr3GDubFfmF_iauCiYbv8sUkJRoTUxWLmbrIpl0atPFASyWjQZ1I6iB6d0Z0083O
+.netflix.com	TRUE	/	TRUE	1806615245	NetflixId	ct%3DBgjHlOvcAxLIAwNR6zHK4GBd0On0QLsXb2efoHoju3_0h7yWV-NPvCdFlNGNswAPWc2SCTJPXpY7--keT2Dia1YN7mmuvDduvMhZnsPLgkibeH67HOCTKKlldZIi8GlBAc45AefUjUI3wXcQ1rrf-BplzK5lCSuKW98LqjMe9C0cIvq7CDDcIs2kjtl_jmAn7F4wHff3N0gLSXvKZHntreZikNj2wEKJrbQ_jDKzrxyl9d2MkQeomYYP3Lls9r_Q11blpsjmtNWyaFswbzljHrgm7A0VDQP73QDIY201RxPpY-J5A-Qs95uSd47Adv6GYD9pc9DvM-Fr-l7Bs5A_bGNt3SFe9nBujC4pz6MBmh2P5jOVTKM3zC3IeEpzp8AC5b-hPDYGbGz2qk1BcIQYE6BqZ9Xm6DzBLRB_P3sGPlh5QAwYzLiGVpCi7YPUEgC6FhSdJ9sXD-_mQVQBKUkP6F1AqfrmTtx4vrbv-uZUnO7g7nT8IVg4Uh6vwKL-49gI6GhAFpjjBOUkDt8mUjpUxtiqnPLvHvA8UGZGltzUpDtWJTfhDnFBFxFgdLg4pMneuZCSdGAOqkRORoiyftp7TOW7rA9RVRWDCh1dGwMgAv3qYxgGIg4KDNtbHVDCzyvSKc1C6A..%26ch%3DAQEAEAABABQV-VorjvOqAq9l8E3es-MrxUHbnxFJpCc.%26v%3D3%26pg%3DB3NCPLLLBRA7ZESNDBSPQWJ7E4
+.netflix.com	TRUE	/	FALSE	1806615245	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+23%3A34%3A05+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16865073-72df-412f-8805-20edeca23b67&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BBY&AwaitingReconsent=false&prevHadToken=0

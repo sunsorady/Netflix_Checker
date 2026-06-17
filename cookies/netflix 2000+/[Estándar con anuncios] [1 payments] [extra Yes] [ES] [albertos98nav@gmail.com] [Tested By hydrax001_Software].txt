@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alberto
+– Email: albertos98nav@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: noviembre de 2024
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 1472
+– Phone: +34634415495
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: alberto soler
+– User GUID: GGYPOYFSWRD6NALYXX2FXKAJEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807486321	nfvdid	BQFmAAEBEFxMj0ZdvhEOzgyERLbeN2Jg4n4sIBa5ARl5jrJdI-n2wfnOtXVH4bJrsYVd-jk5I__M5_e524Lb2InnhVtBo6ZB1ff4uiXF58I_o1ZfvlCwA29l9ZFbCb-Y4kyog4Hc271nrDpynYQMSPvqtVOA6h5D
+.netflix.com	TRUE	/	TRUE	1807486333	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA_yvlx_W6k4dRkFFPjtnrZyvb59gEzOSdZrBhCMmcQGxaNiUP_8t4EOdkdcu-KlX4Bq2qtI9q11fiZFCP8eVDHQSx40qgAZDrGdtnbh114CpJ2G4mX8ca0t-EB60KMkCoZEVsNIGZqG5pZnav35lraABJv-rmJqQo9xRZ39hBHH825vGWfMZ0EyshmC-RaaEa8s-eYTVwrLfcIdCSldDukZrUG86v93yJtJdghDtiBcoS5ZdqKLZNnydsRo7N3dPFEq_BIUVKlUVDnhC4KSyGIN8wp3tFMfXT0ym4o-PQ2_PURMwB88lvQbY3Fk0S4DxUw_KaQOzOs7cvSgwDfeS2HGm0rcexdgC6KdW2HQOu7cyvxMc1bgOA2esXk7B5NDDOzfjKW2KN7C87f0mJJL5uEGKuDusd94L74_fPTuAy_6okqXjnnkrEZiB6m6XthyJzrNthQoNY40EnaJsCSinsxo97TqzueQSRjlBPNBH2G-nFxwEEhf9tqT2Pp-m924tACYC7_1A26pi6reE66rTnDLLtSRN_IsYBiIOCgwQEBKYfaKcMy0m5MM.%26pg%3DGGYPOYFSWRD6NALYXX2FXKAJEI%26ch%3DAQEAEAABABRiX7W_uCJvYd2NoQM-3C-QrbMzPsQGJLU.
+.netflix.com	TRUE	/	FALSE	1807487500	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+01%3A51%3A40+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eaed7c1f-45de-4d27-b062-ac6335837f22&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1775950202993&geolocation=ES%3BAN&AwaitingReconsent=false

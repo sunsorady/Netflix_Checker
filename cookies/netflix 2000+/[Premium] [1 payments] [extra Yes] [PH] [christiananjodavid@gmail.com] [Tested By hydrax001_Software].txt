@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BARBIE✨️
+– Email: christiananjodavid@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-07-02
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639936477239
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BARBIE✨️
+– User GUID: 3J6P65N7J5EUFPG2GBXCTNCWPE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810656557	nfvdid	BQFmAAEBELUKe0S7Fw3tLBY3U9Ydr9FgnuIOCDdMd7aJfn6HraO_AVjVd0PatLHm06WNOSQnnAbn14gLFZwsZzuRA8o79cswKrjC3F9Qp1q_K_jK0t0XW9RN2DLlnqFqyeRU-iklRBcH8Ez_qktuSNSWUx2iwTVo
+.netflix.com	TRUE	/	FALSE	1811695530	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+00%3A45%3A30+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9fbb2629-54fe-425b-ade5-49f3d2065e9f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779120550540&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811699130	NetflixId	ct%3DBgjHlOvcAxKFBImxYM7MYYYgDY5R8hRhKhGl4cRl_Qyy1mwwPWaPW0oLR_eBrpCkq90s7GcPkuPGLYCh1oh50wIl-QL34zX73fO5jxuwqx4Y38Ibw7awgdVOfL_hUMS7Qw2_fB6P3ApbamR5PrBaTZ4C-6XhanFbo9DLYqD-OXDh3Qmh52bohg_v3fyzrz6zuv_Zq9-I7SbG0JvsA2HC9x-nzkYfsK3UXviyxDPf8-_HBHR3aKlZ79zMz2Vga6gYYAw3dxQrnoJCaEEYbkR74XJYiGJd9PQEPzLJB4N7ivu6jIVTrdyci5gtUwqZKrfzTnPY3Ogk7C8pMhBTzDW7IEzJPi4neLlrtANJMrCi3G8Kh2cd2EzZ-H5uUwotJyta4INzIiwaSWW9_GY3Y8pLvBBHBLYBO7qknpzj8HzowMEZahwd_RGS3Qx7aoLa_tShe8p-ftoNRizMjW06gVdkZ36qUeu4szkEOOAtbG_saLZqff4nXMB4pRNaebslA0MGtwAlvF1SmEo1-q25newbcbIkjXhbFyThlDDusHB3d5Pz8vpo5xEX9uzJBQtMvUBLzvnmL62YZ9qRnAmK4KLLhjUmVrvdiTuEdO6UCw18_kOhjcpdDZqcihZ7tDfAvq_DtAugsoUh_o5mAoOmu3dUPUepprYoRZfh93XdkfwHf6BGKIFLknJqn6MamH7NvZIYBiIOCgwiP217FikB4mgDJLw.%26ch%3DAQEAEAABABSW29flxSlxAkhGQ1UQT5nQitXTJOH5LGQ.%26v%3D3%26pg%3D3J6P65N7J5EUFPG2GBXCTNCWPE
+.netflix.com	TRUE	/	TRUE	1811699130	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsreYjZnPGzyZdMvB9jQsRtvcxoDV9pgE.%26dt%3D1780163129090

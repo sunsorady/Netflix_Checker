@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Capivara duda
+– Email: mariamanuela180105.rdp@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: junho de 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 1463
+– Phone: +5519996706620
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Capivara duda
+– User GUID: 5AOEAQ2N4JGENHBOMWGH6LVGPI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789231931	nfvdid	BQFmAAEBENTzESA6HDkF3luC88Xqx45gNHM6niWSkDD8M-ZQup30uCWaCR2yXJNE8haK2FaUTa0gn-PuSDepG1p3L80BrEn9h2TAi55XgUOl9yMD4Vz74Nd_QhSHhROqKFBbIX6cCQivZOlW4hflD4rbNxDKzjwH
+.netflix.com	TRUE	/	TRUE	1795562891	NetflixId	ct%3DBgjHlOvcAxKLBJQfrLgM4KIkj-t9Bdcb-MK5ssU_ApbsW6aqezqaxjCqfScrvEco2jMpH5CaFeZ7fEuF5YFWa1Z2K5WuOndlyoe498xKzsZ4xikQ2x0lobjIHVsXGNfI5yVd_10rH94seHjNDNM3IVzT5bUrguM_PLzbNSanMXOTLqlt7KRmENbt2gPhiq_eYm2sWAR_A4grINVuNSEPDMhMCL4opXwZLMdoFlXAhktEHK-JxlYyEP1wsLOhD-e73g0er4N7x-B9wsV-iYHzRkeBI_MfZ8xJEmbRN5Kasvih1PZK6QsKskcBdazTF1hnB3GqC_tWGxJr_BGkP5bLxQtW3bEt9-KMvBTaOczZrB3T0Zu1TmG_RfULtFUvOev6rYvuuDN_M7-cIF4PRHwuUbg370Hk9VmD-RBanlX7IevFSoz5VOkJ3I_H5ZcZ2PnihV5bSXm9Me6jbiOivuUM9j5E-7ORi_stvFJv1rOQYlrJyZH-3cdBaxks-eHfsylsoX2fIownwnEhz6XfnYiiihmnTl_O3tgjsK_30H8T1Y5PStwgXJsV9Po2rJX6W_u6BdwcHaY3O5WBIJePElWhhaAV4Me3KZoGDoi6c8XJ1uP6ZpOyqZwMW4bPTTNPV6E5HLeh1eSWRUhvSbcsBydT6aCAOcuqvZeabtRbGIHqcuFgvG-na_rz5Z1xoONJ2Td454AxPeEYBiIOCgxpXOJtVmmE0ygV8t0.%26ch%3DAQEAEAABABT9eDHR2d67NBXHYSAXpc6Lxszcu_izdq4.%26v%3D3%26pg%3D5AOEAQ2N4JGENHBOMWGH6LVGPI
+.netflix.com	TRUE	/	FALSE	1795562944	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+20%3A29%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=55123fd6-0a13-4705-aba4-f58d475bea32&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773629400759&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

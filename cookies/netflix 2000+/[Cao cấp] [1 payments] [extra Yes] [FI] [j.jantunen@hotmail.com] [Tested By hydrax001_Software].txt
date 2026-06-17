@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jjh
+– Email: j.jantunen@hotmail.com
+– Country: FI
+– Plan: Cao cấp
+– Member Since: tháng 1 năm 2018
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 0721
+– Phone: +358451395288
+– Quality: UHD
+– Streams: 4
+– Price: 17,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jasper
+– User GUID: 4WFWC3XZVJCVRE6YCOBJBH2BVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803998662	nfvdid	BQFmAAEBEF8Cx6ngMP8g0Vudhv-dQVNg7D5M9ry67hLLVyrM3fV5iraGqwnUBvVsPLD_LWQXVKU3b0arojlybV6CJmwaYff8DrXEKHYUDapxY4rltlLKN0vr_Y_Lpz1NFJ768ZMzbIfaBl1WH9C2bzopZeT-GN4Q
+.netflix.com	TRUE	/	FALSE	1803998770	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+16%3A46%3A10+GMT%2B0200+(It%C3%A4-Euroopan+normaaliaika)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=912d7749-60d7-4d0e-b2cb-b760b441d7b2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772462355524&geolocation=FI%3B18&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804062772	NetflixId	ct%3DBgjHlOvcAxKWAwvI0jRgTk5p0WX5m_YtsLGTpej7Sxz6kn48nVTvItNGkowiaVdDMccZWO6MPZpAdsOnqLxhgtI93mddqduhyEmmB2Fvh4fxqtfAp6bhDeJNonJxaRC2P0i5u3Dt4HNCHYRQ81cN2CXhUKndV5rP-3GlWZONLOLIIb3oZ6dhQ7no_vL7CazQd3CbyXwkEBaUCaHTiE8E3jVBsHTx_427qnRRVUntueePbm-abSwiPjQSye3FjxTp_TMErqX2V--y2imih2HDwRQeuok3NuQHGMWHB_4bzZuohuK_ABDweCM1s5NFM89lSQ-N9dhUjMdPLcmmKlJE4YNJ7kAPhdU6hAQR7-6rIeI0IOn9qy8EB-jRe5W4Qn_uYQ3nxr9gEEfFLDG_mItGBp5MAWlXWPfb6P29bTzffQrAjOfSJPO-bjf7c78RV52drUddwEWnGHyJmNqF59lA_J0thv4gUvjqj8zPgv9nDWIxMH0E7ZooQuR4fhXzrtiMht5PNylFaqRgSR27cFIhrUG7M0m7pz9izkayCCg5fFYYBiIOCgwNrR2bBtTfn5NNLHY.%26ch%3DAQEAEAABABQmtoa0WiUAhdRjSObYB9jsuFzfNVpCI1A.%26v%3D3%26pg%3D4WFWC3XZVJCVRE6YCOBJBH2BVU
+.netflix.com	TRUE	/	TRUE	1804062772	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTucRV6k1YkMVOtKF0Adn7aBhmnZl5kWS0.%26dt%3D1772526771858

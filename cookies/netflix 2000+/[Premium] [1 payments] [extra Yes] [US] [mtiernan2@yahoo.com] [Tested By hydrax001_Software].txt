@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lizzy
+– Email: mtiernan2@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2014
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0870
+– Phone: +18583424720
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: POD
+– User GUID: LJTNPZICX5A4TITXR4PTK3LYWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784350612	nfvdid	BQFmAAEBED8LAUlG1F-B5e2jToiNNaVg2UuI30NBcBC6Nr59KYXj59KkC3VjmnH4AQGyWKgh6Wgx5qYEorK7_gSocWWJ8LSbzjycqBQlXpoz4bKaGu_ZtO8r8S00QE8X-3mNRcQr0bwdpMRC5LOSRjWwU2AdvRCT
+.netflix.com	TRUE	/	TRUE	1799037339	NetflixId	ct%3DBgjHlOvcAxLaA3u8oua7YtEAofQQ-f5lPmBmG7uCbOIwWrW2f4e3K1IXX5zbo19zZ1IlERzlSfiH-AxRO13ih0FaujGkmS1L73obn0AvG5jKjnQd-Z24Yf6qBJfQ6Ab5KFE75xzgyxXhU2OqSj_cZCjy4WNlElJLfSnyjoGUOWRbZBMOvhXTcPCrZAi-mw9cwMbjValP6thGsIXnJsG8fXDMIdemr4dhFHDKBLQcJRor1ChDZY0Xw0XFIt5Sdjkiu4kBG5-wXIuOqKp4E8j8NDBSJ16WiQ8zuOhNWwvhXvaB9lue0Eq6apJt2HftJwSczCZMXi6bOzsuDaJjxr07mGaJyxGpIWL-TjVS1n3ZDAy6G_bu1HYtbijZeMITSJJayv8plxKOKuZidmibz_f5FzFssymfp-Zpix-tWNh3_RH6cqQB9ojB2hmROS2fPYagSs7cOt_oLXjX87kNwXs6-DxTp1J_jGZvl_tzlc4BuTnlm8xRQFrRQrCDHBTFXFsN2fmy17lVtO67tGpB69SzLXfSgoM5KRtvDBu7UGMF9xLj6FPc7991ut5C0qCZL6ZrKZyUHW6y8rX_SLZii1tWDLpo0ggDVsJTnOdkslyRezzOnl9WQw6zn5HLkeJjrT6d821DeBgGIg4KDFRfI2L-QJ-97HPthQ..%26ch%3DAQEAEAABABQKtiRe1wC39Hqtb4nnz87-U9A1rL4rJLw.%26v%3D3%26pg%3DLJTNPZICX5A4TITXR4PTK3LYWE
+.netflix.com	TRUE	/	FALSE	1799037342	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+20%3A35%3A42+GMT-0800+(Pacific+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a8f6047a-5c98-4661-8dee-1c5340790078&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

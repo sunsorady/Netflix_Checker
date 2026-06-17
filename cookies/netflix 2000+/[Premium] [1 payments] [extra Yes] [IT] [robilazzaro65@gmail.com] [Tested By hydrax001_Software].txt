@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nino bozo nabbo
+– Email: robilazzaro65@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: Juli 2020
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7745
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nicola
+– User GUID: BOQFJXOCV5F7FCPUFRUFI3KEZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789764625	nfvdid	BQFmAAEBEFwyNQ2ykzWBbbQhhwbbk_VgHfKPA6ZhbkUhmILGGlipDpfjslN9rt5JITcRKOobcL4TLd_YYNuzJNRoRH7nfdlGue9Cy9ANnO53avvxr-LyVfkieiV8Z-Z0P2v140brhKgZeo_mzibWnnrUqkTywv-x
+.netflix.com	TRUE	/	TRUE	1801680833	NetflixId	ct%3DBgjHlOvcAxLzA-FvZH1uBlxIKmx7fcB38WR89dKhR9zxwauop4z5B7bCbEm2S2QWWJwSHI8cwxlr7qx1Qk83FlOG1N9n2SPW9ITw94vO5YAoDxVZc8g4BJJTeW2mmYVWzVVKm7vduX0G799gjcv1kLU5aUvUBSLEpsofRsrzDmQ5TvqIYuIkFeRPo1bun3GxaRuuxXDbqvBPYh23VuuTL-u7HEDGrkuNV9GreDZrdpviKzxIoS2QS3NyEZELu8Cljdq2qTCFE4Yh66tKqAWPnQ33YIQ4eqjJbAZbuFdIxZ2vU1rHbg4_PJ0rBK6-Lhmk0DRw8NJiET7F-WYMp9WEUp-qLOIl_VzG8Z1vYq1WPKijszTL4wwEKBcthlXgue9_U3qOR_Gq1NNjrlXr__c_1WRSVPVQi-k5JRARUBoN68NUumAaOqV_WgrkL9233PKcD7ITOGIiVp0MBOmgiuFJ_u17WLwi7O0aInIBbyvZMxU4RiU4sU7d7hikARE9OfinoGIsIY4zlNfGKoAH0i-NQIbd3KfJ-cUgIZgyOyke7zFVsdxY63QX2MwY04x8gBgn-RBLWJL0gWPsM4COQSm1z9KFled_8UV5u_ERkDnLd5LHWdRBeXsf9GWTsOrqOXfDAXGBLiD5dIR_P_Sk3Nbe1BBYqas1AOJZvtiyajcYBiIOCgwxvBlpExYch86jL6E.%26ch%3DAQEAEAABABQo3sdKVxGK8nmjnLIcqBm1AxV2lMcm2mg.%26v%3D3%26pg%3DBOQFJXOCV5F7FCPUFRUFI3KEZ4
+.netflix.com	TRUE	/	FALSE	1801680834	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+19%3A53%3A54+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e43ae29-5ae5-47a9-8f81-03623146e181&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801680833	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQSq_K5MqXhR12B_DFUe-97ecQN2u5r6XQ.%26dt%3D1770144833334

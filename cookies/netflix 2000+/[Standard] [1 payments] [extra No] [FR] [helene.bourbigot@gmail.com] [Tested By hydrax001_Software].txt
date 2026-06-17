@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lino
+– Email: helene.bourbigot@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: août 2022
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: N/A
+– Phone: +33674657493
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: helene.bourbigot
+– User GUID: N3TKDRK35JHK3FI2MO6NCJUKCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810414450	nfvdid	BQFmAAEBECTdYj61hAIwlO44t9G1w65gJsM4XHolM1X4yhmcBtv8xU4ytpZDelPYpWvV4ovzuUNzyH5p0XVN-HXcOeEbaWF8SpvOZTqrgj9Kcg_gNMOB52xZNETF4n16eGtvKXGyCvOe4oj5Rpl2vk7vRP0px4z-
+.netflix.com	TRUE	/	TRUE	1811656781	NetflixId	ct%3DBgjHlOvcAxLfA5b0oVg3aTelu_zqNXELHxbZff7aAzFDRkx1nYabHdZzjVk8MDCesYDfMPrFbYa4aHHgfJVVoJ7sT7Xc6OVjPebYXZ_gudBX-qdjkXvEzx7FWN_amV-XaacfFcTADpa7WMW8u6UBWmcruyYnBXbgGcjXGSDHTcKsAgNt_K7e6YNONxeUAWDnN2dmRJzYescSHvhQFPK2ObjegolAF3eXP19N9WTICqqBU6pXkASwjuXeBrD4oU6EoYBkxvwby8JCgtvhW8_gUEGUhpNgMWju1c_6toGkMP-crL1aHJsWx3oCPzCki8q1tDdmNirqCHdLzO8wbVAH2Bpm4NNJV-d_NSPyAOKuylaAO3STToTErety1cEusTQdZJAc-bUxQLAKO3AD78XQamdD0RkAnrVjbfrdzXytPBoqkUqF2Yl2Ev30ypT5s95RNAbwuFU6GCdDyHxtDHRZPy-aGd4K_1r8eszrTm811SbsIn9D7Op1EbXyrnofFy8uSR1fCrQ3lYV0Un2UF895Mk9JlczgUCaYinrhowrgCKLAxCh1Wkdp0UCLVEgqoSt2DGbqhKOAim_rNU2DiIFdlQbHQom9hZuOm1Xq3bvrE1BaFX_QaAfSoSk4k81QTqy4pIf2DHqS6OLLGAYiDgoMt7tWtKGWnK5v6JUm%26ch%3DAQEAEAABABSLrVUt9i2DL-z3YyCYHKNkLYqdpVdVtYI.%26v%3D3%26pg%3DN3TKDRK35JHK3FI2MO6NCJUKCQ
+.netflix.com	TRUE	/	FALSE	1811656782	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+07%3A59%3A42+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8388c471-ab9e-47b7-a454-c1ab5776dc65&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&fclco=&intType=3&crTime=1778878447346&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1811656781	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9h92n9xX70Ttw4HIy8HILOa-fldJs6ug.%26dt%3D1780120780658

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ở
+– Email: mmm_rr_1998@yahoo.com
+– Country: JO
+– Plan: Premium
+– Member Since: November 2023
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 2847
+– Phone: +962797007630
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ở
+– User GUID: LY6SDCT2JBECDJHSTK3ASM6VQI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793113955	nfvdid	BQFmAAEBEBFFX91ap4uwvKqF2bDWgkFgnbTNUHrTAcOKoIiIrSZZfgz57fQLBWxpaytCH-WhkdNix2QXtSjT_7Tmc05mcx1Ifgr1X3u5XvxbKWdEUSUV29bk20-XthV2Qn9i2D_uApuRY4T0LkOIR3W0k_fMr_f0
+.netflix.com	TRUE	/	FALSE	1803937785	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+02+2026+00%3A49%3A45+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ac616bea-ed33-4d22-847e-97502cef9af5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804279922	NetflixId	ct%3DBgjHlOvcAxKoA8sZu3tYjioj26PK5N5GVKrUUYKJNPqUF3CUi8fkn9R0UtmNqeLcEWrgTYxQS7vkiNbtPe3zixn1qpvu6IizDDZK13-RlcTECnSkWwpApK4nJNO5PtblzKUbwGRYBn77YB_QkQsGUYizALD8T_WT5nb6G9gDJHW9L4c3nJENCZy6rgUjJC3I-rc4Ibb1wAxz88RtNbNiM-CODXzU_0tvgxkNJRFhg3ym4P_QmsYMBIPCPZMw37fEmqfXBcCJUe_RF9SOjfpB7vMi1m7E7A1C7SCWmnuDjw68g7xznOllL3J1FF_iM5kdX60ueR1blS2gnFU1m5bKo66cCS_YcPg3i46GPlC46XEMIf8gAmxXkRj_8bAVbgSRVyza5TlJPhtKUD439rafGyP3OhQeElipzyd5uX4Co2qpOX0YV9l9FHvu5Q8EJBXujtajsd_IqC1ONvtvVB7U53bEkmfXuGFS-mYWDyskLDp-jm0VjJoKgmlSTzID6nqzA4Dbla7xTUJypdRUOfOv2TwLy9NzekeTUmR20b0k95tIqTWRjMWA1RWXBRQgqY2OMwUYBiIOCgz9Yl6iSfFCkJEhMKE.%26ch%3DAQEAEAABABQWuZXt1-rEk6uB9AFAvK2GOOoohU_Siv4.%26v%3D3%26pg%3DLY6SDCT2JBECDJHSTK3ASM6VQI

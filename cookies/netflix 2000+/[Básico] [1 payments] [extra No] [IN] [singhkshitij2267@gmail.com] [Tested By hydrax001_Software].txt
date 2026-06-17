@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yami
+– Email: singhkshitij2267@gmail.com
+– Country: IN
+– Plan: Básico
+– Member Since: enero de 2025
+– Next Billing: 2026-07-10
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: INR 199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yami
+– User GUID: TVQGBDXR7ZE2RCNKBLQE62D66E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785434042	nfvdid	BQFmAAEBELkflOENJnUIjAVoxQiDYqhgZoiHZPwAtd9sapinbp764EmAuilPFvYhMFakaBx9wDZ6nPXTsl1ArpCo5CoCss6B1_Yd7biRCiNUth9VhKmrF_5oR0PrBDejxYPazak0BV0IBTdfXlnyrcWqrdO7Gpa0
+.netflix.com	TRUE	/	TRUE	1794386648	NetflixId	ct%3DBgjHlOvcAxKFBPbwtdN4LDbFs7H-N38kTrLAL7jh3xgZPQzsCfL58UauKondearofO-BJrl9u2u_8SSf7zDQQAlq6siXN5koZAMw02v8BqtFC2NwjvzBjO-fdBEvgMAiRuyoQIR72fTrrwE3FG5w2vsEinoqDOO3WvACvqhoPJaXDIvb7kcX3A5gixl51zYBuUZlBb4lYr-X86inBdkpsFcaNKOYU2xzWUoi_J-2VHwbFGphZKcnhhZtSnNn_ZV9JH_tJofmMWimtuWNYVBHlGsvTzqH3WAAj_BsgeCSA-vtFOFetgVKSuUl64vnXeKqYKQNqRcsjzhT_5DI0nHvMCxp_U0-RU-FF6_K2XdVQOC4rfzsB3CVKkb9slTnJ5i8NfXAqq8E-rQT99EtzFjiBtu30FGzxTZOP1Y_X_3d_xnmj2OIBVfMwFFvrCGaDWeIbvDYX1Z3Wb_9KtciD4vUNeMQPw1XU_SWO89gsycMAIPjklHoM7jbLFRBPlCXlastrk1ag68bA6IC7g3-YJPzl7NNXl6rdoVLzTBbXDxz02_53gkM_TKsLtrOvHoV9fPu0eNI5tfxtLOMwhwWTeN6rTf2FOmvyWoAucg06ARXcCWUOmtFQ-u3r5AZfXP3BgcTFmV-MtLM0VvvVyCk3SzXXy-8OdqBurjN1TxU7bYXPLt-e7F-TvmNvltAw_18XVEYBiIOCgzEttnUxegqEgkUL2c.%26ch%3DAQEAEAABABSJCu4iT78rvfZtS5l9cV0cYXh2GJsAivA.%26v%3D3%26pg%3DTVQGBDXR7ZE2RCNKBLQE62D66E
+.netflix.com	TRUE	/	TRUE	1794386648	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR3KiJvJrbFSQkt2L925pwZ-wl2npe14bs.%26dt%3D1778834649807

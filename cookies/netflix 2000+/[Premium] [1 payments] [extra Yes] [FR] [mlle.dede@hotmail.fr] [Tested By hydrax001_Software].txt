@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: VINSOY
+– Email: mlle.dede@hotmail.fr
+– Country: FR
+– Plan: Premium
+– Member Since: Nobyembre 2017
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 6514
+– Phone: +33662518038
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mlle.dede
+– User GUID: NR5YHJQJWZHONGYRLA7XTVZIWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798252265	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKOA-HRPbMvjWSzwdrcmJoCD7m44Wxf-dz1ZVsZoa_A-_l7tVjLOwNEkYAoRjb8M_S6RK9S6GSJRhsrxdbQjA61f7uJoveGHE9yDzzCAc9gmRTUD1udAnVeEwk7kkMHD0f5oq2Na91pwfA4BRcPAbl2T13sQhlIeosgWj8geOUNCHxoqzzq8k6rx82S2vHpQ3KDEnM1zouNFgpKQx-v65ZeHLitlEgnKiJ6eRB7BrHVxNeSPVp0RIKeYDJ49tlwcuCO0r5SHZaqfqyknMXxd6f1awGqOQBlNY3-N4XUHlA97kzsis82dyeDhrnoecuv9NpYL9HIfWtS8AhmB6bdSM-D8U08A9jK9OeowFc75OhYAE68tzoXK9RWJ9_OQt5EFWD2-mBIWCb_lQT5myFzOiGQRacfA0IqHSiGwemAsAW88n9z1XTSJHnV3Cezd_9Tkbb_nUIb1hmZkl5IYBNihQlAmg8FEsvTquSR1-ubeVs54CwqBgHQk7kKh4CCSQnLnXOq2YvZrui0rnC9EZ0P3ZYiGAYiDgoMIveV4X629jHmjFxs%26pg%3DNR5YHJQJWZHONGYRLA7XTVZIWE%26ch%3DAQEAEAABABTJXPL4epsj4qty5l-AcbmruorFp5kG0oA.
+.netflix.com	TRUE	/	FALSE	1798252267	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+26+2025+03%3A31%3A07+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=229f0b7f-f465-4d97-8c80-0c86e09edfab&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	TRUE	1798252265	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTsr3qsatp9P3DYSeoitrIDgVhKQYzJtk4.%26dt%3D1766716265697
+.netflix.com	TRUE	/	FALSE	1798252262	nfvdid	BQFmAAEBEMEKoCTfzV0Og7AkutUm_ldgkrXfiyZEyXuNkylxMKtcDyChOnr8EJzbs49Vtz_KhKD8w8YdNBxNJ6aMGAup2soijiGD5AU_xlOhQgLVC2jS0eogF-VCsPMdSnxImq2DWZ8-EcOI5Lg2EdBVywWFISAT

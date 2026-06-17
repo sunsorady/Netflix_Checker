@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arhan
+– Email: arhanambre007@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: June 2024
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 6819
+– Phone: +918007178442
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arhan
+– User GUID: 5E67JICKQVDY5A7OWTH6JLFGB4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812903141	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+13+2026+21%3A42%3A21+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a6615888-579c-4654-bd30-028b6dc750e7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781367122543&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1812903140	nfvdid	BQFmAAEBEA3b3AapreQXT59BGYQWzhNgP16Y3inQcY9VjHVGdVwEQ4lzRx7M60CjlHTDg2HiCHZTuR-5Opezht9Ridd4_bt5QpVtJXAtOG30_TidHskougmekBWINFdqMMqZI1XeoQD5CSikgEBm1Nb9hV_2AFeF
+.netflix.com	TRUE	/	TRUE	1812903144	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA9SrugirVe4wTFClcb645Kp9hq9K_sDjamm5_3yR5VUBMf_5027KE5GKdnI6-_SsY1vcW1Osk286h1P47_I-pQTiFkpj9V7pJoo4tv4bTlgVB4msdcSTBsdYlxTPTC9Bb6oJFsVLrIia3rS6AqvJENlzeqVgrSn3GarDExMtGtgtKESIk5k3TMmJn5zdUec9SB2PTpusLYwovSZ8-Tn9wcC2wU8tq4i_AJEakaiAOBksTXW7W8rGKiQ04BscGlfveJX-brnHsDtvEabkmhSR5TAlYrcM_5SNq0oDIswky0O5fMb-SAMjveP5ltdxzAgTig9islH0ek4NkWaMHTDm63y6RIdFoWegYM9-3EyHImW8gcnVDCdy2d7R5iedJ9zY2a1PbzM0531NIXFTHXKOHhDGA1JiWFdEW6hG4E9qkzKdBLZ1x_wp_UZoRHE1n4IujOfLnQXsPj3VEXTPTWU9yn_jacnUSVwSsmu9M_3DI5jZ1xB-MCrFMadh9U-3qqpd9JX4I08RQ6jVWDRRCQsAtMwDGAYiDgoMVoenMiyad8MykDT_%26pg%3D5E67JICKQVDY5A7OWTH6JLFGB4%26ch%3DAQEAEAABABRAaiN8O3ezxZ24CuXHrndcXjgRnHBvUo0.
+.netflix.com	TRUE	/	TRUE	1812903144	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSrOorpjYIF2JZliPe6ZebdbPx86BBtT1s.%26dt%3D1781367149232

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 채유
+– Email: lipeun009@gmail.com
+– Country: KR
+– Plan: Premium
+– Member Since: October 2021
+– Next Billing: 2026-07-17
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +821092119057
+– Quality: UHD
+– Streams: 4
+– Price: KRW 17,000
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: fahim
+– User GUID: IARHOPNRDRC25ARWOM36NZQZEQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799311646	nfvdid	BQFmAAEBEPemGhTXVABm7CO8Th9Z-iFgZUZWj2u95g44BeYZergDBCvyr1S-DbiRiGLWZlmHemWNbM2cjagNCERwOPSgKEZkjtrbrHuNhLpeD5R9wjcm5HD7MhALe-n0gXRLo9uR8ps2bmOV8pgMq4pw1qC8Olpc
+.netflix.com	TRUE	/	TRUE	1807880185	NetflixId	ct%3DBgjHlOvcAxKABPl8FLkVQG06UNMLGKivUPwhYlGu8H74NmCJXx31SUjZtZHqR5y6-bFLwV6mhWHxLb4gUQsAkIif769QaxNNIMQItGbhmy9L9ol0sWo7basdl-SrZIYBZGYymAMOAxhbof0W0QcqTzCWYyd2m3AsW4ElMKos2QJInStxXJDFu942TV72Tnt6BHgXrCBQb_FBnXnNdRYnJcJaH6ZLaVPXn9_eP2HKWjsNXKD2XozfN3C8NZ01OvEloMgQtFn8D-BPqOrwaoHo6hIpMq4QTrgks7u0TzkSfr0wr6WfXXSfz6_XUEa39REISagWFFaMp42DHHFFTGY429-TA6KoSzqSr-7rb3t2EyrgmKQ3SjsDfhUwqD9fwF6CCCDm0SDw0f1Z55H5G51OboKXUU7Vzt3fs06vKpHQANpmd8hoFUlcJZr0dp7iTi-xFhL2rFHQSMB2AMgvE3i85eSZOv5orAG_xnWC2dkr2PMgp1zeXq7BVr7z2I8qezCuxbu72X0iWJk0lErOnSC75OPs6Wi7wc5GhxJJP6r7SZlA5nSf1Ne7MH93zwuh4JQx0m9ZtFRP4d9_9HA317k-D59mF4isgpVF_w4rFLGu-T6p0pZbIjYorOMemN4452tkSIOhI4P90p_X5NUaguD5cAlhfh9Ju6uD1al9mchKL5EfwlbxlDOD5zvwGAYiDgoMP5mEiyW8yzXdmBU9%26ch%3DAQEAEAABABTusdh-AioZgwdyOuSK-81xmlCPXaA7JiQ.%26v%3D3%26pg%3DIARHOPNRDRC25ARWOM36NZQZEQ
+.netflix.com	TRUE	/	FALSE	1807880186	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+21%3A56%3A26+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c4c9e5d8-58cf-43af-9874-e0ce660d20f1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807880185	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRU2y6bweYtJlNRNZ71JImsclUJCwBhBYA.%26dt%3D1776344185046

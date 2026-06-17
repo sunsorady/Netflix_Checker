@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Benő
+– Email: burkuslillacsilla@gmail.com
+– Country: HU
+– Plan: Premium
+– Member Since: Januari 2020
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 4152
+– Phone: +36309322031
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Egon
+– User GUID: ZTPOGK7P5NFW5GOEC6BOZGYTHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEE8_Bw2UMT4qqPLjfUVg_2RgPVzX5E3TWMKXyCNqv15g3NJSYps_-fcOdDOIB_b3NrC1FbiyRePW8RL6jlPwv_nHMrEmd9qYfh7VJouvnoSYeaxdO7HotS4w28la5VSn54oeajRF9CwF82D4X-alDrJw
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+30+2025+00%3A07%3A55+GMT%2B0200+(k%C3%B6z%C3%A9p-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=137e83da-a786-467f-a7ca-141839d90d47&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=HU%3BPE
+.netflix.com	TRUE	/	TRUE	1802199831	NetflixId	ct%3DBgjHlOvcAxLoA__mvfiBtCwOTQGQZbMJyTOMfrvEcgeeCi2xWPkbGgcRtxyCkgrct9u-FqFGvmLbW9--DnXblfzGpAXrYeA-wsxfciMHaQa2MOd3cIMQJFlEH7DKmg0QWgN0bz6oMIWSqUaPeUMKHiDm_ATVdG0YLJ9G3xVDi6yhD5otZd5rqwmJxOMIl_dXY8-xJqwDMb597aJdqAfZ4lfZ-U3p4ixeu4m66uVrRV5wHsWZs-FYVn-w5WXApMDqFZ1JI6sjUJTuOto6UkxOOj8ZYeNu0dkkxKkEAtySScK2jnDEnVYfGvhlC7uaaYSr71HtEq95ZJt4CJhOubSqPHqt2GFnE6uHZeaA-m8JHlR5UweQzbTimzjBbo4WpLxUxIXidBWePfdhclh3PU18nAD6Iy_HGgMSktswaCWhNcZ318vDoB-CBkigi-sCd1auP_l4Wo8QHQGz08vsI-e7aKFptF7cXnTV6M4ZLWC2Ur2ZCZGs20kQ6YkvqZVzUrn8GJULgoc2ws79tUShLQZ27nEs1WkfUnwFO9T-2ICnFqY42zoBmzK95uUkiBZZc2f3JT8dLgfLKQ7fqTPV3msKk85-4FCqKEri6aEpkwdk0mLJbt3VAxaNRfwpDv0aqQd_Whtc09AInDlGljaQXKIdyQ2LGAYiDgoM5FzqnAPb6LHSiEF5%26ch%3DAQEAEAABABQwksxcARFSh56vE-1rGqx6Bi5gfOAc6Gw.%26v%3D3%26pg%3DZTPOGK7P5NFW5GOEC6BOZGYTHM
+.netflix.com	TRUE	/	TRUE	1802199831	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOpmqqMH5T6CV_qImB-MpauNpN_WhHgm0.%26dt%3D1770663834641

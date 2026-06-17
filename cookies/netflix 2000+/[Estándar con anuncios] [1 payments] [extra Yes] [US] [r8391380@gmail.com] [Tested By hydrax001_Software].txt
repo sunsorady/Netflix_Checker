@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Roberto Carlos
+– Email: r8391380@gmail.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2024
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 1892
+– Phone: +15024714813
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roberto Carlos
+– User GUID: NXRJEPPBBRC35FA2ZMU2S5W3GI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807635786	nfvdid	BQFmAAEBEKLc-J0b6iWECmxh2aJJisJgBCzwzFajQARTsRIZDM4Vd1Jlz1IYunniRfg4hXE-JxcqAyhkZidpwo_QQrWs3xm8QGoX-jmAk_Zq_kPBY0Jj4P45wntu_GUL-BJzWISGhWjDAAQkBvSVA8_7XdcNbBAY
+.netflix.com	TRUE	/	TRUE	1808064907	NetflixId	ct%3DBgjHlOvcAxL3Awrr07xA0jW9m1oheziVW3RHB2CJORGIrEXHEi9YHImzOmhXxY3xcmq_1YBBE2ampfTgebR5knYzU2loWT-YITys_jP7Dn_ra0AYNosBgTA36zpLrJMnGDestyEcEVOKi6pCmiTe_CliPwPqiBeJjnIpqKpvcoz-aE7Ia1QyiaQ74aUi8kAMlUsqdb8LmMVp00nBa0K0-fHwGe-AtBBG2qOdnlXtF3yYbLlYFbwD5CrIEYZ_Sj7DOxFxPGdzSW9hCukjYASVaGgdZGWoU8u6KoIppLa_ept5xmNPZDWF9TrK2n6cah5JvLVfstzayjbvTqWnbT6rN1r6RfpC-ow9bVLohRTLmYLqyfN-lvMHvmvsVqUcw6SELsRULmtYExrVpGHL5tWY2wTBnFb3C1eXhsOxHvNmygfl3hHps1qjYlpaWvO6SsyPq-mEug1DKJJC19YGHB7QT69Xgazzx64ws-cBOTfBl_QDr0AtMN5-QkxZPoJNb6hlvfSW7ayILEuKR5Xe-zJa_lP1fyydW7UBR478O4U03f_HJAe6yHul4iFAf4yFvBmedZiq2qUzsHWTdHZ3p5rpXpmavJbFkk4tSzW9xAn5Doy08y8TTV9lvR35d_HfH6idURUqojqfHKKY3FXd-RnmP_9EabY-1wfvPOg5HTadkmcVGAYiDgoMswIlficgWDZD05Mr%26ch%3DAQEAEAABABTeAEqzk_cpttgd7usvVxkGnUBH_7XINCA.%26v%3D3%26pg%3DNXRJEPPBBRC35FA2ZMU2S5W3GI
+.netflix.com	TRUE	/	FALSE	1808064911	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+12%3A15%3A11+GMT-0400+(hora+de+verano+oriental)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cbeadb24-25f7-4418-88e5-0058af97faf6&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775859361191&AwaitingReconsent=false

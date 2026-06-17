@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Matteo
+– Email: matteo.fenzetto@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: marzo 2025
+– Next Billing: 2026-06-20
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +393207816720
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Matteo
+– User GUID: LZ5NGJVQRRGZZCOC3ZJHFXS33M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEBq546iO_TwfpaEXzEqU8LxghSq50U5oGh5oRp5mTJytzLgFoqWjl8luHTBh4v64V6a6DI7GNhGeBrP_F1941XUnh7XdeOyyOHhGwbSVs_b1rOytiSJaKoEwFsD_IvF0m4_Q2Nt34YrcRegULjxI-vhh
+.netflix.com	TRUE	/	FALSE	1784151574	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+01+2025+01%3A06%3A06+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca8c4255-1694-4908-815b-590a0cfd34a6&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B45
+.netflix.com	TRUE	/	TRUE	1784151574	NetflixId	ct%3DBgjHlOvcAxLrAw1J43XR_yqs0RTdb_LqEwcAJgFV-k6frB5eidf015qtQ-uO6eHHGB14Tq232lMvBPJWu5eOm1RANdoCCrelEwOwWB-vVht2xApNQs5uMxBq_VAuyO6dwzOXySTxRNKNXQI_oYaCN6hDwTfmOuA0NZf6vVNYePEj1pt_HB-7P92MQVTIUT7cDvMIbk9OX61rO3xAoiQzbKb_Yr8JoHRceeQJmmilhx5t6YqB8Umyr_7_37pZdV5hVVkt9me71rTqcTfVSdAEnbqh2h3PKKkW_rYN5fXoxwKfOpqfZaFiprpUEoRHje2Yth66HOmmhsGQFSFAy8EnO-kr-Ea-Zrhyzf6PbE7a7BqXTndzJak1XgeuBkh6YpCkeEVZcu2b_hBoYmdosn6EIGC-2hnOWD3B3WHzsIIzH_69RCmZECeQeH6da2yGgEpEbwxDNTEVRY_Vz0eJRrFXts3IBz7mDjJfi2D6H0RoLcMKo_idLYofAxeVCHdIZueGQZ-grcm4Odpj06rQsMgonW7sYvCHDqfNcsxLLCoaKrexpD1tRPw5UT9qk3QgjQWhDNdL4rvga3RDph6ldDnTRhrcmGvThErgOQdZfjfoxYigj9wba192I9QjmBXqk0phXDkzz6X6mLvYmxZduBHLK2FtRt-tGAYiDgoMzh7Rp4c7tsNYVYg8%26ch%3DAQEAEAABABTMimSHpt-Awu0D7NblYp9JqJyAbCZ5714.%26v%3D3%26pg%3DLZ5NGJVQRRGZZCOC3ZJHFXS33M

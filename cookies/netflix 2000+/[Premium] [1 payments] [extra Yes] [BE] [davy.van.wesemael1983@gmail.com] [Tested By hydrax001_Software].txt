@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Happy
+– Email: davy.van.wesemael1983@gmail.com
+– Country: BE
+– Plan: Premium
+– Member Since: March 2017
+– Next Billing: 2026-07-10
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +32479565687
+– Quality: UHD
+– Streams: 4
+– Price: €21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Happy
+– User GUID: VWUSUEKACNG63IAV7JMKAORNZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807208907	nfvdid	BQFmAAEBEMwEfJc5yZ6Xtdjky5KcbVZg0tlC2jj5jzVm0SPnSdwAHVLPzy9aF6VmbCtV3LCTz9Fb-o-ssUO3SjmuPZzDRk83Q4kesIJEPm4EBhi4n-bnBNLFFAvFZaWJSDFYeMYyi_nrsw9kkmt5K49MKCjp1rBb
+.netflix.com	TRUE	/	FALSE	1807301364	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+22%3A09%3A24+GMT%2B0200+(Central+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc09cc66-d560-4077-8b51-463d90dfc212&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BE%3BVLG&AwaitingReconsent=false&prevHadToken=0&crTime=1775672828221
+.netflix.com	TRUE	/	TRUE	1807301363	NetflixId	ct%3DBgjHlOvcAxK7A9UA7ZKvpDXR81s0M8g_oFmJ44uTc1wliecHRKJIPwW96cZ25fwlgAnN9uZzVl-eJRz8NAuHrdwKVY_-jr58H76RtTkLSWA02TeRdiNMWwM01nK_qUE6hp5loPvitMyoSQpJQKTd8cyON59wGPnlrFeo3SdWe0FgStymFrfubuNMQ2tQRmqxIFeskgEb0d91h3eaOy4_or0GdBbvKh-5x3jBL3_R8MSDYvwu3HVIc2U8H7JFgC5ZnIDNZnJmogjwybf44e6gP8FSAEmdCieOJ8by6_qwCjNFoQuxsQ-3NlTaPuM3JbC5CUySMD9gXxYXJRLS0rtWAcLRDjSIP33suHUTmvFlmMtixexp9lb-Vi-nUqiSqsmr3A74TW7O2fuKYuWMun6lMgLMR2YTk4el_4wVjU9bvOEbu7sk_rv2i9a2YjAKyyofByRbTm3QuWjfKL8ehp-7zHBdQ1YHQ0v3vnRj0-ambkxRC1rbwDRoboSvuQ-TP-V2D-ycLu77X73soHcALS4uEb04s_r1ehMn_UmTUVKOseq8F03fB1Fd_vNLY6VvGKAjNwfaw0IvJdJAJWh4fuoP0B132dLsGAYiDgoMSo5TmvtRXsoRNp_3%26ch%3DAQEAEAABABSsfCXd5XH04_tlixfQO3YdjJ4pjFlWdZc.%26v%3D3%26pg%3DVWUSUEKACNG63IAV7JMKAORNZY

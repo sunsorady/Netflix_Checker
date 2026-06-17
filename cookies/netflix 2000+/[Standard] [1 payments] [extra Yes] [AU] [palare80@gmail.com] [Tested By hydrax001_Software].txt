@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 6Awl
+– Email: palare80@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: October 2022
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 0864
+– Phone: +61426119013
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Win
+– User GUID: FAZ6FQ2KQVCWBF2KWKZ3S2XDM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799428633	nfvdid	BQFmAAEBEHdzBlLMTFHGzHOjBDvzz7Ng0LYfhBG2QwNfRbXAhH3DACXNtYaEu834BJDNFAZSh5h-J_C1bWuQy2-3WWKwNFJqqTf_SCA6jtyu-GPIOTLdE1tSYHAFCAclEmmN5Fcisb8h4r8epbc0lk_R7ky3yXE3
+.netflix.com	TRUE	/	TRUE	1806734769	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA1jyOzyZPxHtyt5ypikkDATKVbyILcqohmj1SQSY7O-vlesVaUZVTsm1xS_t0fCuLVDyOOUpiSOLVLY2wyDfJsiagpjbJxupCg4XPtp1TzLVFucEnnjbUMUlpWA59NnaoVnhY8EYD8X53nu390qKuWnSwtOSl9ZpSwuH3j61mRx-X7dOTRfyqTK_Gxwbu8I9Mfkp20pR-Of2FQm35B3ttMD0iL_H4FRrcq6Iz4SQy-MJCUh7aKFCvyKnP93gWZMevVG7VIo1S38kL-YM9gCCwIlT5580MDln1MeAHmob8MR8Vr7-cRyD8sC1QUf1-6jVV1_5bMfmclnkwyv6Yz2pqk0s0G0whNulGVLuuLap-ZsxxKHPeI4oa064np4u28doGFC9u1Kk7H9mqvMN9AMZPwy1iZOG6WowECt2YNVtN_NOmaA1WDipElBOhupYqgOBGuYnd-BcwE618bwYpA0gwztiyvTBp3wfFSq_71YLS8ef33bxfboH8lj4NB_UUSywywPGcsvUCfC_hBV6PmWdKFwlGjbOqE1BQxgGIg4KDCBmp79UgT0G7aDiDg..%26pg%3DFAZ6FQ2KQVCWBF2KWKZ3S2XDM4%26ch%3DAQEAEAABABTaSl4CXBHOmEwCT7gVx3y0n-ARlMijJgg.
+.netflix.com	TRUE	/	FALSE	1806734771	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+14%3A46%3A11+GMT%2B0800+(Australian+Western+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f5194367-02ce-4d2f-9644-e65c36ae6194&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cristhian
+– Email: ingridhuamani12@gmail.com
+– Country: PE
+– Plan: Premium
+– Member Since: januar 2026
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7271
+– Phone: +51964028845
+– Quality: UHD
+– Streams: 4
+– Price: 52,90 PEN
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Meli
+– User GUID: 5OVNUWLDNJG5RBZWSYT6RFRAUE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1841106150	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+21%3A22%3A30+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=41711990-8095-48c6-ad59-459d1cadfbb2&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777906672800&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1841067022	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA8gdL4Z4g-7FGShW4y6JsA2EHw1-BUOqz85LAlLvMFXEssBmj9JARzc2gX4xhadqj3j5BFxgSX9ujjBbeLvFmSb-UvX8t5QpwLW6Wm_kfmDqYCTHPq471EqC-NnC6ChHeCqHatmyYROx3Ulba-KZ3gjmsVaoa2qEA8scP7FH_1tTzWy4KhQlh4WBDinHCncR15i6cFqUllMbx6xzxd4PlxZsrKchKFtJoYH4X5qyGUZz7O8ydJGBxjsTC8cLduCpg-tH5FAtri2Dj_-F9EYtWzZNqAASVRvOK8V-lKXKFKoK8JwdxPX0k50Wgx3oFSSAnnppL9TGCl9rPpKkwW_Oyky3G0hyYWX6BrLWPuBMowf11cdBa0NkCdn_Nyf35IbWhvgvdSAh3S9fKYhje2q6IGYHRzZyFqASY340GuL5wa-uyqyKiPRYnSTEtA0CA2HRAv2caIrR6JcMLAK4KFqo6baswu5kK4ZPCdZBdL_-40Ebp6rmwRRI7I0fT0jpHJ_3U-y26bzMES5WkjZ0tHnZwHUbRYU49zmWIam-SGVZGAYiDgoMA_m-63rPjclu93WS%26pg%3D5OVNUWLDNJG5RBZWSYT6RFRAUE%26ch%3DAQEAEAABABSZtOEvofasAUZsEOl1VuF57nBpGWZrrVs.
+.netflix.com	TRUE	/	TRUE	1841067022	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiK-MYKFzuRRc9X351GfpryDnT9Ev9c4g.%26dt%3D1777908622767
+.netflix.com	TRUE	/	FALSE	1841067016	nfvdid	BQFmAAEBEHYFYUGKOSTAOv9XDGzHY1RgoVn7PMxY9RDLmP1fg4UCwyIpxRknfEYT7I716mCf4LHkZZvQJJkRmiG3UqtobdXYS4lqe6HOg8fyQCaxZz7amQq4hH7lQPWT4IoAqSeiKiH63Uxa9dCB-K7UrLgeBxpv

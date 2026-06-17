@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mom
+– Email: 050683@walla.com
+– Country: IL
+– Plan: בסיסית
+– Member Since: אוגוסט 2020
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9459
+– Phone: +972542170501
+– Quality: HD720p
+– Streams: 1
+– Price: ‏32.90 ‏₪
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mom
+– User GUID: 3VO3C2BKUNAS7I52GJBEWHGB5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797844715	NetflixId	ct%3DBgjHlOvcAxKQAx3-IW5E4wcQVrzvNFkwXWaqk5pXHcBNkkQwAodfRJRZT7JArhBiPvT5xXaTNN4H-QoAZT5ZIqFsx4GUpgKGTX_Vax2KWZILgjW2xsB4b1SyxMsqsOyhIif0e6DJ8M8awkGwnxIMvQPc5yN_jpYF45PJrtU5bTZRV6MmkSm05Nem0QV68RJPCik6CsuuBwTF7FzFiZzVICsSA9XFHc31G_Ih8zRHsv1E5k_xTX2jpeEtrBPiOZABHgJ5-_g-CL_XLVwNxAZTxV1CJ2DtAv8Lea_yCbvJ2w19fXQAFWzBs4B7VBMl7mQ5lsoP5tSByskOyIux9pd8L1dedgbAplzjvOMXg3QOxyXzzOm1o79gO_CnPuGF6gFgyXEYP1_xa75TMWrbQeowxV7sFr9UhhaxANjm6nExYf1MNTI_gIkCGEOut70t3RiIxaKtR-IFwuIut5F3MlKrTOsk20WxK_vpLrWA2W58nD1T6MFah03S5ys7Rdr78iWrIX6BrxSLUqnneA_hG7x3w7fvKKVtyPw_VocYBiIOCgzYofqAXMtp2ii0vDA.%26ch%3DAQEAEAABABRSBWb__sm1Arvj_lO5-iVb2UkTyrwl5Kg.%26v%3D3%26pg%3D3VO3C2BKUNAS7I52GJBEWHGB5Q
+.netflix.com	TRUE	/	TRUE	1797844715	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQiHYX86fIkeqPFfq9PDw_v9iskud3oT2A.%26dt%3D1766308715710
+.netflix.com	TRUE	/	FALSE	1797844712	nfvdid	BQFmAAEBEJfLsElFVd4ADD4gaeKBy89gr1V6grxfCH0MzA8H44RFa-wlRg8M-iphrSxbDZjf1QCHnBPsrSHvx6gelJ8arjoJAD0mpKshfYrK8sbKcv7NCmloD-KVD3X7DZW1shPC2yJbmjzWTT1taApZRb49RXcN
+.netflix.com	TRUE	/	FALSE	1797885258	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+22%3A34%3A18+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=add43caa-f9e7-4650-b825-8fa2ab35c0a8&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

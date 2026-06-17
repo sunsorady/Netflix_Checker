@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 하마코뿔소
+– Email: sjpark3756@naver.com
+– Country: KR
+– Plan: 광고형 스탠다드
+– Member Since: 2024년 3월
+– Next Billing: N/A
+– Payment: NAVER_BILLED
+– Card: 1008
+– Phone: +821068553676
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 하마코뿔소
+– User GUID: 6F27WS57ONB5VDEG3LFCMBQMMU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807680511	nfvdid	BQFmAAEBEE8oH5C7HaGT4neItXeaaHdgBy5HmMgNGMDuUc9EWbRJny3z30ro-ZrTSMOaaz5xAWZZFYC22QjeebUXSIFZugY422kQf57oONoL4lAN8Vi0Elc8q2xW21Z6T1pFn6GL45Os1R5UdohBvogvGrG_0sAj
+.netflix.com	TRUE	/	FALSE	1810127771	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+22%3A16%3A11+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9743b374-c407-4884-aa34-a50b71599eab&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776144510914&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810367123	NetflixId	ct%3DBgjHlOvcAxKUBIDghAHw3ZDPHO7sNucGqr1zYuCxMQKIPFtomxM8Kcx7sM1zzXD0jW-BkPpru1_a5C2w-SBu2fJSN_UnqHtO3ok_H8OxSFw8mtNyHtK5o1L4pCEbHC0yGMY2pbmum7f5vgay2opRzYOTWDOaIWriRklApCbBbS0piaQwTrPgdfgSJAdRA352KePrpMkDrfcKXJEndpZBeuxT0wdqFnPYEKrZarezfFm7QSXEVu0ilGLpcECM_OeWwVr97MCfoWpBhIbFE2Pdfe1UVKIph6NMzIZek-TayZmyd4t2W5LkcGczHxw5ImbNcfAcbBrYsDz-JTtQI0PtVS8E-RfGoNSh8dNlslBLI7y7P5UAYpstq7UipOK_GT3Xr1G8FUXhR51UY84HaMvSL1fIgRf2eMVE-5jLTr6eTsqxClLQltTNRis00ANOfBa3oHKRe3ivtC5HTKfOurf-3yTOhnaVYKXDF_KdUOql5sRTBoaztDf4DtrmqFTrV9Oq1Ks56_2yqdWhnt2hrGtKqFd9WLxHcoOBx2KJrggsWwdVDlKPA1U-oQY3Gw3xQIkTdyJwzWz6UVTjdVOMbIQaJVuu-Nnd-0yaOM4bPQ5iirOC01kTzzoMKZYTjD-H1hUI4sg8TlbRdpLL-I5YN7mS-yPc_QE2kdJfmcIOhlRaOdo0DMMHP5QW8iQhdvxsqVGF8eenIw-ZdvA5G8ePZEgYBiIOCgyjH3DdYXKyA7cCMEY.%26ch%3DAQEAEAABABTE5rMe4OcP37LsM6jkuZeuRLAaleJLM6o.%26v%3D3%26pg%3D6F27WS57ONB5VDEG3LFCMBQMMU
+.netflix.com	TRUE	/	TRUE	1810367123	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSC2GkW1B2k5dUgbd5U_hqLZsOj4O2GJd0.%26dt%3D1778831120856

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hokus
+– Email: onamodse@gmail.com
+– Country: BW
+– Plan: Premium
+– Member Since: September 2023
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 1025
+– Phone: +26775051248
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: hokus
+– User GUID: F6PYEW65ORDQ5JM6SNM33ON4GM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793461729	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+31+2025+17%3A48%3A49+GMT%2B0200+(South+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f2ff1c4-2386-4015-86cb-b1519bcb10c4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793461726	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8-JVG5Vk6LvRwbzXyqzxrC2gj65_F40Y.%26dt%3D1761925726824
+.netflix.com	TRUE	/	TRUE	1793461726	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Ag2jIxQoYIW2kSFD2genPHKNsqu9McKFZ8rk-xCPiOmKbZyN30qE_rtpVdjgpPAJm4VezQBTwQ4YZuRWvIsedL4edeGmNC4P12OSdxeVZf8SKXiD8_qe5Jv-sUJby_GM6ZDEkBzDVYrCuFd3pEXlS3kpa9_bPcHboddyCOqA4_gPU7yD6BhcDYVadQC5gbP5_VTLTHZL2Fh9UPjD7Sk6BpG53sBfAAPqW7jbJE6isEp6E9nU85y-poHCe0wGVlXB6MLINSVvzGZP266eWQOzvI473-KKX14WBXA_lSAAe_xAPff40aJ20ADq-D-dy-Qp_HUKa1BZdRm7yjYpQdiYrse5g9z5BuRT2e8AwH4aTTtMPVG_HA3vCZXzVOwJJzcRzk8353guwLrk7EKEP3fy0UR2bXBwacFIERKU39WSbhICEKaJmssVVizaGhXKwiAX69TeDpmc6i5u1B7tbFxLPFhfzaV8HNjK-o-nDgzB6EyFfUT9Dj7cF9RF7lpPNN7LGAYiDgoMlwnkQzoCPy_zQHdz%26pg%3DF6PYEW65ORDQ5JM6SNM33ON4GM%26ch%3DAQEAEAABABSzT34Shqwgf1hGh_sskSHVIu53SBAZEnM.

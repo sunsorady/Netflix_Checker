@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Piotr
+– Email: o.korpanty@yahoo.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juillet 2025
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 3253
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Olivia
+– User GUID: QAOEYOQVCJFKFFJQZB5WCCUFIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787515935	nfvdid	BQFmAAEBEA96mCqYtLhX425xgSK9cG5gEWbd9jCe5hd70_ynqQbKk-5wsflo6MIlEoCGihdxMhRtn5fd4NzzPXJhucd7rGOU_E3hrm2a4dLx7LB0JrfxaRqucgdHPmPGxs9q2TElbS5C_44lcZISTXm8IKfHBTnA
+.netflix.com	TRUE	/	TRUE	1810205738	NetflixId	ct%3DBgjHlOvcAxKBBMC5rZxiFWwDzN-SEoUFR9uUW4kdE06AXyKPV4dm4v3OoiwSHbPpYf9RAW8jnXA102rklcLB6pTEPfUbiAf3H56Mka7S2MTGROHS75VA9q15_SIeoc79pRGZIXwoHvMSdXOHctYXdtY9kFWSi9sunIulKfTyRpv9InlTB6c5bv1siGAOdPM3kVzj-uB-TuepsnuQGlG0ZHeCKUmgCmEc3tukLHDl7M-rGHgWlxHITiCTieqD5r0zvlhpsGKKzs2qT8aorLzaNumsv7MRjOg1kRt3-1xeCy9Oya_mrNQ5TRRwVPtpTnSM1oM7TmDo8lbhV3OZhzBgz1k_CsiLCWBKj8GMXAm3gZ1nypo-Qf-gbc9x-NNl0RMXn8tMMH7TKS7i_ALBNAWZfKRaZ4QDfLgNLhLLPTVHHG2jrFSpBLmzLEKbG4bGYXrIeGW2XFLo5IGFB32bfCb-F1CBiQ4I-mjLz3N4HDKYd4xzlb4CDDg-0g1hNV1YYDOLSqSURDmgjIKXt4PCH0yHIXu0v1Mc3RysC7B9ZKpK220w3w3JO7ke6A9-nYfPUP7BPB8catgdMFtVG5Sz1Ok_LPiq6sAl6rOapxwIpXnpblrjbXPhbPepktoY3vC4cz0hHcjjLYGJ_i-T1EV0U_SSdtSe-jAQuOMbv7ttVqD4jq2iosyNc8yttvHKPRgGIg4KDM3D6g5qwxkexS6S0Q..%26ch%3DAQEAEAABABT9_zsceGkX3s1xisk1ike1RBM3gB_Xvdc.%26v%3D3%26pg%3DQAOEYOQVCJFKFFJQZB5WCCUFIM
+.netflix.com	TRUE	/	FALSE	1810205737	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+12%3A55%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=90c5bf89-f580-4ab8-b99e-8f96a792cdb7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810205738	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSr2XIHOT_CGHnIH5pIOxShm1SMHTZ9ne4.%26dt%3D1778669735717

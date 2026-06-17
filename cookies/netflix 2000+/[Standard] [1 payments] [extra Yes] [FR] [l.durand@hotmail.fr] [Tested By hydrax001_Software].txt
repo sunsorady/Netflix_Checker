@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Leslie
+– Email: l.durand@hotmail.fr
+– Country: FR
+– Plan: Standard
+– Member Since: March 2020
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 7855
+– Phone: +33613460838
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Leslie
+– User GUID: NOVFLXHD6JAGFKISIEBJLRCXZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790193060	nfvdid	BQFmAAEBEAYBjCu8flltB9X1YBMq8Zhg0hIfW8OAA_yNg3ZY9aygplpR4_riq14JV_RAIT72m0jIQz-16h7CtKSu3ZLfoA42w6mgA50iQ7zTEadNkLXNiKulYkD6CJYJsbYN9GNZUWuRPjsl0JxPOTwZqQElp9xe
+.netflix.com	TRUE	/	TRUE	1810839375	NetflixId	ct%3DBgjHlOvcAxKHBEWAyhw_nASouMsJ0hlrnpZ-BLv_pwngcHMl1VPtxP9IjyjTfPeI-KIVMX3FF4wgXj0eWdfU8p-O0o3GFQCLXzIbCKbLG1os3aOBVYBKJlv3le08mR9xVRtV9CXmknHDTzSLzRg1WvKMyO21HqZN9qWIV8yrpcIj9o5QDE9wVR9sgRSk9C6BUEE4K9VXJyxdlXttqadvUUzN9ajFy7yTD6ShD-ss69Jxvjy9wZl5xSSX5Isjr1bRMWWPaCx_8670xHU8YxtTgzr5yQvFtoxe1PX29j1gX--FD5DNRvhfVsIbG9fx4gNEDlPbuhDNcFWAoDx1LQWO_fR5d_KSokiIQkhhqG5HQZHacR4Xrann7pjzmuf5l6TEr2Ij0bX1NRMfdv6v_n6bDTLnDugDMoLn_tJ1dpu2wc7kW-XZQIQWYX1illro0TQJr8rNruPQINZ49ZvZPMhJ0upPfNfWN8NZyn9e3aDVd4tz1kdp_Kqsxph7E1T_LZ_ONm7355faC0aQ__Tig_lzZSJV1G1iNXr6hXBYbxhC7HUqih8VEAA7kIzKwEQV7S_iID8LAP4hlKqSnf8wdWZBcx-0hS5b8wEqq6MzH9J7VhbsD3caG5YxDlj-uORCxy-3VhXYEsHncvzcF5E56imwuWtKom8_jdCcWtzeeBfdqnATR6vbBjH8xEqDHq0UfSHKthgGIg4KDCjPoxirzU9yt3Z3Yg..%26ch%3DAQEAEAABABQ5K_HVUBbaleymAkbphXJXvePPZ1-lvYQ.%26v%3D3%26pg%3DNOVFLXHD6JAGFKISIEBJLRCXZ4
+.netflix.com	TRUE	/	FALSE	1810839376	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+20%3A56%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ef0b35ca-950b-4cb3-9994-76705a9e3505&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BPAC&isDntEnabled=0&prevHadToken=0

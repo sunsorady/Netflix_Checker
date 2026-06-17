@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nyls
+– Email: dalia.daoudii502@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: juin 2025
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33770295245
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dalhíya
+– User GUID: IS5TMERLJBC57N2ROL5NOW2KFE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791050055	nfvdid	BQFmAAEBEJozctkt7fcvKlxZ5YhqgIFgswiN7nrBuq-5MHxfttHotCKjC7ht7bh6hp_1Lki6mrfBCIFENQgHUqX7Ib82YQ2NFkL1ShY4OVp1TlbsHmFR-xXmRfKe-Q8Pr5jiN7_5vVF3mX-6Dbgf0wU0xFEgCFTi
+.netflix.com	TRUE	/	TRUE	1811758746	NetflixId	ct%3DBgjHlOvcAxKEBNrJC07RXfvLsSr051ahVk3Mi32lekFJdwS5cZVDsIbUH7tquFbFG-Ke0ZfOvNMdA3sVVl03sek0YaBrBW-9hr17KC-dQW0ScATezNUnmQ_lUYPKp9kr4uH9WSxhl3VKfyXGC-cMuycpN9trRLEs2PRX730xOKYHbriT-6ycNGUVHq2rEdwd_V4HitnyR_e0juNRwSdTxn7bt43cSZAJzR9lsyBEwFACWN6UB5PgyH9mXzsihOkLYR2RSeuiS6RKQWTrQIOCtbxv5ZxsYTLsnS16L1ERPNryJLSgJzxAd30zgCJl8thoUj3hquBnRHoTBjrT3nAzstZ_XpB2CppoIBe_Up0CbA8wVObYXL_KbOkIwVTQIihOuhws-mu6J8oJtaZyszS4TFnC-ck_dfoA0_lQSllnAzZYAGagBZXWXvu9YVSeoQf_p_X0sMzz6R4DXyVIRXwNGP_Zn0BqyeXrhuuJ8J0SXkKFtKxU7XLHH3CCAEKSVZS5n_-DQFAUeR7o4JWvkM90LvdogdRJK7dVZYBxb7-QsMglCmO87t604TUd8iYd1HQ6EOmi_UE3yBZ5Yzn6tJzo9pbsEJCqQRxZ2yHZfVLwoKVtlr8gAHjHsADAWY2knMUg83GbD9htvM2rLdQATSSRPCXZoioKDqxf3xYDPA6paz24i9c7mSG3mzHZED1dJhgGIg4KDDhhH0x-8Ohuz9jHDw..%26ch%3DAQEAEAABABRMt5hN_TutJBZu1GxH2ayE7vIlAyLXfaY.%26v%3D3%26pg%3DIS5TMERLJBC57N2ROL5NOW2KFE
+.netflix.com	TRUE	/	FALSE	1811771487	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+15%3A51%3A27+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&isIABGlobal=false&hosts=&consentId=e5757059-437f-4d4d-9092-b18161d6a22d&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&geolocation=ES%3BMD&isAnonUser=1&intType=2&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Koro
+– Email: d.ribera@live.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 8949
+– Phone: +34664638489
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Koro
+– User GUID: 47B73ZCIZJFZ3ER3XBGB7IJPUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1787317484	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AnaRWTsZCLYmritwbjt88rSm_3FiD9jiHPRo7hxQm4sq8MFaCvsI_gVgHBsGmegDPPgnQuRONYWMCEPeTEtlllwf5eJ1GwBCtJAWt7cERvffkr6197J13jMiBdrgdA5OX-No167ZR5cBE7oNMgN3c7jC1S-k34KReZ1ZKTyeHspFSJUex7A5gHMt1HBMnxBZn-VVZdDYXeUWpH0xSguxGHvXZ2ileHy3CLcpdA8aYAjF8ZUAa4nIO1XzeX1Eb1wx-FifqwV237th5qokzPC3ziM2Sd8ucCiOH0mejmiBvlkxIMcPCY7sp-tpzEWfQrHFczw_vVEIogbrv_aB5Mx6xgBhNbJp3WzSdrMnsfkjq94x8tSUz8HUzgyTm6g5P4ABVgIZIS_YjHh9svLgN9eDFIHp8w65JR6VeHT8jP9AlaHJYaRpGpZftSGx7UEQemDREpoN_k9AwaBl9btlEzvwPksOj-n92b37FPTeJxiwV8_WZjmN7LCrfeHQBHUYBiIOCgxZp02FHRRIisoqbsc.%26pg%3D47B73ZCIZJFZ3ER3XBGB7IJPUM%26ch%3DAQEAEAABABSMg-q2t3id5I6U2bCUqERWlCJ4z2kVq5s.
+.netflix.com	TRUE	/	TRUE	1787317484	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0-EUNdeHtUU1xS5jpNz2iIWuwrFm8CR0.%26dt%3D1755781482832
+.netflix.com	TRUE	/	FALSE	1787317484	nfvdid	BQFmAAEBEM-fz6m8QT35RnC5WGEK7B1g-_JLmEGCJLYrNTaopYYOBA4uNlrCqhx4jmVpRGj7lmLKAoET0xEidYXiFFDPnNiEtk1_4ikC-TqWid2xrBdpzhNkmjnfBHC3EnIVr9w1-lBgDNEaxo07C7CTUoHw2uhc
+.netflix.com	TRUE	/	FALSE	1787317530	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+21+2025+15%3A05%3A30+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8731946d-3499-4556-969f-b618b7f55a02&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BCL

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: S&J
+– Email: jhuenneshe@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: April 2026
+– Next Billing: 2026-06-21
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639270735789
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: S&J
+– User GUID: L5MNVDG7SFABHFI6VWJNTOHKSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812605031	nfvdid	BQFmAAEBEDZMBqG8Cwj4e1njDRsS6KZgkxd2HLrcVWgnTMHvXnymJDD9pU5JiV1WFQeJU-XpPmEdkbtwYJBKLnVKF5UffR_33bmGTULoCumzmsHx4WDqjfSSy0m8_qe94PHk0oNnkICWJcBs5-nqhh56LauM-EUW
+.netflix.com	TRUE	/	TRUE	1812635067	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2jBtfGo_guHNv61Sy_etCU9-ahfYNnkA.%26dt%3D1781264819377
+.netflix.com	TRUE	/	FALSE	1812800822	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+12+2026+19%3A47%3A02+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3ebdf437-89ab-4647-bba0-7aa2586eb8da&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812635067	NetflixId	ct%3DBgjHlOvcAxK4Ay5DLtuQu_Q6MS4N9lF4oMMx0tAeiZQrTDM7mHrNB1DzLpfhp4F0B6FwCF5Jh4ZADIWe7GGZ680aKJMXapsxsKVPFt9V7Fe_W1g0uAtuGUFTYO1TPpSZ7xfroa8y7ThJTzKmO341LcyQfc_3JjZlvmSR0K6ja-3Jz5y-TX8ZhVYuy8qks3lCP76FJp27RCsXpuDD1cFgpIyxshTkYUlMn1uuH-jG8jfOGgIJFZccC4poTpUM_TuUOTMSlfQ-t7C3rZ7ym_7RWzW41fal_pw49XsXU8whuuvQJAcGc9OD4UAsYcB4s1uMgH4pSk0yfwY9TF9Utbqs_VW8RjAnlA0g_-qOCowSJ0Fo_eSfB6z6aIQ12mUqUfpidt3kWWZKN-xT8_B_V7fL6pC17ikNlySk5L5x0xAwlqGRGurC6VkXcDzZ5uMrrqUkDBB4olrsrRX1tUGNpSLun-jDLbq4EucJYfYu3oBKD7bKFS_EnHIengrYSf8YXhNucSCgU69EtkSmx8O11OFgzyUXAEDS8wDsApksJ8dWNoZWZSCsFkPlVeUSw98NhyE6lPbkAJVSgDkq0L08xu8RKcmLGAYiDgoMSSDsZJ_063lR_-tS%26ch%3DAQEAEAABABS7b0g7vSnvdUMTYO4aFVv_XhyHPGxM_ks.%26v%3D3%26pg%3DL5MNVDG7SFABHFI6VWJNTOHKSU

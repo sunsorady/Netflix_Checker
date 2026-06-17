@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rahulgouda
+– Email: rahulgouda127@gmail.com
+– Country: IN
+– Plan: الأساسية
+– Member Since: مايو 2026
+– Next Billing: 2026-06-25
+– Payment: UPI
+– Card: N/A
+– Phone: +917008339928
+– Quality: HD720p
+– Streams: 1
+– Price: ‏199 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rahulgouda
+– User GUID: 5VZY6JQLXNBUFK7LF7R2TJ24Z4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1812883719	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS8givDUHtUZe2_b_J5iGiwFXQFdqqJSc4.%26dt%3D1781347719030
+.netflix.com	TRUE	/	FALSE	1812883716	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+13+2026+16%3A18%3A36+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=20fb9b6d-88bb-4dab-a769-3a32d08ad70f&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1812883715	nfvdid	BQFmAAEBEB5vwJHe8_ONzLomQDqtUu5gPUZAIrIFz3BpXEX10VwJhJFP-PmoWOael9tCsIYP2uMeu7LK-YucD4Otd7L2t6HTcvw0Qvu0_hUMzWQR4XQ7TpTc8qZ1GKvHqY1Rpfq4seMY61Gljv8zCohGK_58OXzq
+.netflix.com	TRUE	/	TRUE	1812883719	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA7JZfCxxXQHYfyi8aHtAp3ljf3cVne0n5ENeblkIsQdkhx0vQpFYxWy5F20K2IAnI70ONxuKJSlpg4SzBBe6gJGqIK9N5zg7xxNGrAK_7CjH9kg6DOX2bPChXpwNkeoBgO3nstcu38POLJPXj9sHNo97O4EDxXcPkWsnVidIThfrH7V6Mejh8K0EaWu5Q1sRhdKu7oDnP4i07ZK0m0TP_CZtDET0YFgbFkTfyLC_iV62_ywWMYOWhs-Z0yp4onsl8Bp1s5CrUFAzgNDB4A9YuXIOMiwIiHcqletf0qI1ZjG-8Wt73em64vLHmCJeiSwh-SUe53nzg3YSdtMgCXXwOtUjbHXbigOcJAOxC3XbVsen_8ATu-9dcJay8cMhtsXog2w-JssBb7dOhEKya0v8qax4q7r03i1qqYPtDxvnMCxNDakQclMLkdfN95gSzJhdzFAvE8igDvzK-CKV_FW46KsjxCqRTD8q-rdf5EakGPfJ6yhlE4wEQsJJq-4QJK7RQJsrHhElkiWwftwH96p_F6JLiWUWGAYiDgoM3oIpmwQwFbSgCFZK%26pg%3D5VZY6JQLXNBUFK7LF7R2TJ24Z4%26ch%3DAQEAEAABABRe1RxPSVoO0ajysc8BZIjdDD4ufLUYe20.

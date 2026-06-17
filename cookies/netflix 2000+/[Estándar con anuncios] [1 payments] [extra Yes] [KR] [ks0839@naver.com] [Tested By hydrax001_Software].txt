@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 아빠
+– Email: ks0839@naver.com
+– Country: KR
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 4403
+– Phone: +821066820839
+– Quality: HD
+– Streams: 2
+– Price: 7.000 KRW
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 송정원
+– User GUID: JLHJLS46SZCLLFPWWO7EL6RBU4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811942542	nfvdid	BQFmAAEBEIGqdIDjuBfXf9JUEt73EUtghEYVSwXmaekAQjgHrH8Msh1VmSH1tKhEhBzdt25HeWpDbNDHjzW-gXCBYjF6HKDqiMKD8IMosTOoDrgn8eusnXqqiCNk3AfJQbC5slbaKZi-qOtMo_X2qF2im_6KMzW0
+.netflix.com	TRUE	/	TRUE	1812002527	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA8VvfpoqkramkX0CKbcIgTbrSotYAOODIT_Nc5ZZ3534OKInLUAksSFZTobOdZoWFbenMxOL54V-OtXYM27fgo6oN0ULsN76-YP-RetziDlA1hsMLOL6vrfKyzDQ4N5ZCWufJJRTZU9sTJ1T8o3IztgjVr4U-32J5-_OaUrDWn_CI4jJHnAGa8QlEKxIC_IGGkjFNSf-1FRkdylGjt1fR5wG35C2raQziNvBWBOcLBxMiFZO8932dNCrc8kry-GBMyKV05IvsMggrs9MZPiGyZhKMAtRYn6xgCVvo89_IxJBuhNb4KuWDeIg7A8Sw0pWWnsY978N2wb6gGuspUujn_99gExUCZaRSKyxSpV6vwA9EVdkZW4gf-CX5626V1AsSqeTP0DH6gYwP6x7T0t3Iaof57UOgoxJihueOBkKjyP1ppLpxd2JchgzsC_loTA80yFS8Pn247eer29XJ-WKhHJUAyN9OIqIzNgEfZ9SZqZmbHWFNgpkwO8ClO2mUTv9_OwbTV7cLjmc8oTO2MDQFSjrOMSm8rMgOo6FGAYiDgoMJmU4Ti-rpvlFkWpx%26pg%3DJLHJLS46SZCLLFPWWO7EL6RBU4%26ch%3DAQEAEAABABQZDojj0U13QFRj-5wm2fJDqnnhL1AlXCY.
+.netflix.com	TRUE	/	FALSE	1812002528	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+15%3A02%3A08+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=513997ec-e85b-4db8-98da-c49c443bcce8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780406509567&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812002527	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRuI4wrQrkIIRnI9oALZbLqt8-TjjFbqXQ.%26dt%3D1780466527081

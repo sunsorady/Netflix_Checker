@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alexandros
+– Email: sotirelisdimitris@gmail.com
+– Country: GR
+– Plan: Αρχικό
+– Member Since: Απρίλιος 2026
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 4713
+– Phone: +306973206267
+– Quality: HD720p
+– Streams: 1
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dimitris
+– User GUID: 7CWITU5MH5E4ZGDKBAZOJUL4FU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810325326	nfvdid	BQFmAAEBEC1vWMuIyZoD2guyVJ2KTElg8HISAqDFRaMOLW5l1bLxGuk_5QF5dLwxlsg8h2ETLhVCB2nTSkc3EIK9SDyh2n5vVfXYu7wJn-8ibwiVwd2uU1LawjuVdy24Yyp2yhl2-N3-P2ouwWTp2ZhZ9vcUjcHw
+.netflix.com	TRUE	/	TRUE	1810325344	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA9FZsgnPxMtRqDQISyIWpaq8PbSG0sSbckrNeSu9kqOWTWXGqYhe16a5phOmUL1Ok5Jd8WQ-K6b28aXp9KlPt9dI7uGJN77A6MsMBJqcoCcE08hoW_p0Gx5lBnfDAKxrSgMMOQhjwcOdGM96k2oFlx532dkC0NP0b-l0s-aoAYiE6Qht9gv_RzF5PvD3BLDH9eUXUCh1i1uMJLK7VyKhr3QFju7str-0E6HNNY0KFQthjHlEKoG6eTetXlSF3UN1zmc_h_LQSgAweHYghsmZb8qw_WZrZhp_aY8IPOgzWT_488QE6UHJjJvRzgBzCnPl8kpCyCEmOHiW9jvZ6hykwaojJq1gkP0dS6EKxBaR8pmPAFvzviueffYKWO5XUJfCtIcD950blsUJGMXiZ5skhVhWIiLXcZ_x-ZOQJXAnqLi_QINYSAm8OeXZkpUtvIe-b8lDGtSTN3fPEQzhYfq8yzJqxqAiWxesdD0TFJqkLWrzMd8SbGyPa7okIFo1BWco23e9b_fWUXLbRIwJqmTDuOEEz1tPQVMRyYC-2HdBsPRSGAYiDgoMU-K5LvkligXoPzf4%26pg%3D7CWITU5MH5E4ZGDKBAZOJUL4FU%26ch%3DAQEAEAABABTpMth6X-YFGCFhTXKQS1oGEAwlckevKeA.
+.netflix.com	TRUE	/	FALSE	1810325346	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+23%3A09%3A06+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f5547da-994c-4e90-96bc-ada49af17531&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=GR%3BB&prevHadToken=0&AwaitingReconsent=false&isDntEnabled=0

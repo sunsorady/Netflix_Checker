@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bughra
+– Email: baghwen@gmail.com
+– Country: SE
+– Plan: Standard
+– Member Since: juni 2021
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 2071
+– Phone: +46736421245
+– Quality: HD
+– Streams: 2
+– Price: 149 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Qurban
+– User GUID: KRVTGSLTMBGLFLJKMOFW5DRUSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784391037	NetflixId	ct%3DBgjHlOvcAxLiAxzihl-S6FpfY3_uBQ6OK99s8r_JEwEDpp8Qqf2S-bggQulMgxt1ZsY38J5DFqLwFYWMYonoEq0RwTXSt_fDd4LEISFRPSFCozlahxchdw5a9fTb_w4RgSn_n5hdoxDQKJXfGh872gCwK5bKv0BKAqBCQq4ceb54lJ_3v4-iFR612oMXhyUkFGOhD3HuIbKS_AtEfdFAeT5cYjtdJXcDH5GKkpNgfZtx9frxryk5wK3UtyLCU_TtiTvFSKgDsXIGbryd1G7ktDEOQJzqSzVo1csnsarkKA7jP2yZT5k6qQEO0jYCEj62lmyOf7SDB5oS6mbrUmpAmCMvCezgHFEarOeoz9C_nvc3-Zj-PQn7J4j78DWGLhorEpkScR8l0EK-UJWSbu8vvUi_o83MSjU-em_XsdLqUOM70Yfm31hOdG8wUJhSyBZVJyWHYOWPCE1vtnIEmkvgQ3uDwHSH81DarWi4RJvPWKBXt147jiDlBu-ZwruifofqE0d6fwOlQzIf6pN7nqRHx6vXaeZ2-cSvV9JfdLpVe8k8uzQTn6ROUTGZ4YfZIXMYxJTAzfeDYCgH4AFnXWSG1jep32bYTH0_ZCUscWt1AjbAo5At3oQ0VVv33zMSw2r968AD0oWACqqnRuCFGAYiDgoMwEb5lxLawgQX4iFc%26ch%3DAQEAEAABABQ8cR6RUCY47gNh5i2qGZvfeFBG1gQcLv0.%26v%3D3%26pg%3DKRVTGSLTMBGLFLJKMOFW5DRUSA
+.netflix.com	TRUE	/	TRUE	1784391037	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRm7kiggRDnTUpYpKiuh1G0EV_Xm2FyXU8.%26dt%3D1752855036113

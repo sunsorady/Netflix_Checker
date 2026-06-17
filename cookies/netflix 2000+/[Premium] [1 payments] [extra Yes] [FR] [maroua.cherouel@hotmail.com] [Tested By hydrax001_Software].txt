@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: aziz
+– Email: maroua.cherouel@hotmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: mars 2023
+– Next Billing: 2026-06-26
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33781531583
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maroua
+– User GUID: QN6V5EDTWBFLTDPN5WAD3P3KJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEBgT3lwGiaDIVFTlj4qCc-dgx8HT-2GoKnP2RQSwr2LiHUu9zbw52neFQUzlPI2KC2oaZsbwch0zD6IoYXkVKiz878h9cflqNZt77v3LcuxpNM_Eva6QpVfACXnJ9a7H7UXw0om3Q_oWyTMcXSBndy4z
+.netflix.com	TRUE	/	FALSE	1799577272	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+11%3A34%3A32+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5cfb8668-127d-4c32-9155-59e2d8546cd6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BGES
+.netflix.com	TRUE	/	TRUE	1799580854	NetflixId	ct%3DBgjHlOvcAxLmA5_E8dYGYAnCRBRtfkXjtWkSHifPVJGYkK2qp9uH_CqIcym2qzJqro6NmsSkBioFu-W3HZCCAVB3R8X8gAFFDmvcRWzFqrXqI3sIU7jFUZktBXFBsVXi98GX7Ui2gr0t0TKxHK5Xg-mPHETv9j6lxP4GT7asz9ZxEOzIa82uoclEVJjxZ0M8pDV8EcO0fk4JK6Cf7NAeV48PrZkpj5SrHQN48BN4nS_3zjwm7WodOVSwfWybs4_JH4xxH9TiminuPCzzp7PYJDg-3zm70Ye1xraddmfWyU_kV8CUlJTsEAj2nMs1n6UtvqrXeXYtKKgqJCgiHzdx232BS_dAvVNm5-xu_s6c9iS7v4JBfKRERg7zH6dZxJrL1mNJhuDobcLtbd_kBtM-QK1m8woq6hBDkY6aGIpcfoRgD7kWtJOUrmUCObsoLmnsch2-bMtrevfuwCUtAf9MjBh1mGHkHCxRGMjrujLVW95pHpXUF52yNwrwdCiWvkdpJqZQFQ0QOn1yZ6Ll7PNolfYYZcZ7j8XyRR6jLprLX8UJ8LgVxIpIbeVFGp3Rx4YLSfvxnlbJYOrUW1iPO04E0rTgaNw1ViK74SpMNSlaOcXjYVh_4adGxKkEhLiDkebsuaD3J8qgYApxOSDOOknv4hgGIg4KDPVrzcQDS683eYUKCQ..%26ch%3DAQEAEAABABTYJNwMHAoU-Zk2dQWoUjB38Z2GlXRoQR4.%26v%3D3%26pg%3DQN6V5EDTWBFLTDPN5WAD3P3KJ4

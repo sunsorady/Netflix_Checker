@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: まみー
+– Email: hay.say.jump0622@gmail.com
+– Country: JP
+– Plan: Premium
+– Member Since: agosto de 2024
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5505
+– Phone: +819074929355
+– Quality: UHD
+– Streams: 4
+– Price: 2.290 JPY
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bill’s
+– User GUID: QGVQR4VS5FFLPNTCBPKDFJGUYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1834312966	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+18%3A22%3A46+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2ba115c7-581b-41e5-bf92-4d7ba29d9723&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771146646654&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1834312964	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9ArZX6b2ai4_giaGszL6tHvUYTuvJf59yO8QCMS9BYnkKWmYmrpuZouuGdvUfdmhns74AlV_xq2QLO18zLlMYm7VFXr0cQdrv3UEX6Ly3sfQ9F_3Pr3A-ES79xHuPYwkbWxjQMV3UHXSlJq30TKgHeIAFBn6H5380Ai25yeo40Ld3rvUWuwm-1-xJeZdheiIgjsEcKLhcGjOTdp0fptqvpRHylACYniCos6owODTo2GQNlykWo4KmkaU_TMR0L1uKEuDGZibUNEhGx8CtwwWY5BdWZoupWbvhW5SuTaAfjbKa3wrT38JR7jgErGu-ga9mgMdRx24ceSPA-p75vnkIYi33o0n9XBgYUkdt8Q2F09Rw9A6ov0LCytc3I8vuRXz1S5ok4KKBGMSBBYYRJcZklyDrlaURy78Q6FB2A9-YEBqhQvq9HnETOHDgxLQjf8ZVJD3Oste1ri5WjcQSrtaW7nkx4-nD8MguW0LTiaxdAoeBZr3Ih1P4OAqI9OBaDxgGIg4KDBs38XWE9YiEvZH-iA..%26pg%3DQGVQR4VS5FFLPNTCBPKDFJGUYA%26ch%3DAQEAEAABABRBvcAUWcyzZhc0R1mA6OFgSSsKAYwBuc8.
+.netflix.com	TRUE	/	TRUE	1834312964	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHOwAVHM8BEU7OEHgIJjXf6O24_CCuooY.%26dt%3D1771154565310
+.netflix.com	TRUE	/	FALSE	1834305906	nfvdid	BQFmAAEBEEOUpWBnj0p93WfU5llP2flgwkwu_477wg9QA8hEWh2Wt7CE_BKECp1njj6HF5dIsH7UfBoPINZBJ2LjA2AcwVIvZt12LsZucZHxokl57rM5FLzhNCqMiYmSlEiReorZtAubRtPVWVFaefuxJ_19LvNK

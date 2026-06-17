@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alfredo
+– Email: alf75mc@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: enero de 2025
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +525526886655
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alfredo
+– User GUID: NPJ4GF5A4RDDXEAVAEXYTH26NA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795650743	nfvdid	BQFmAAEBELpPSoTp4dwhzELoIayhUwVgiN29UiNCSVXjSxqC5eNRbUvM7EWliWNghEzuQktLCQmRusc9TYdMUZRqh-hQ6eglDLVaPd-F7cU5ZekoGq7PvAOWL55yNBDyINoBuCAeyvLP1RVeKsTLQvoPOPCBndUx
+.netflix.com	TRUE	/	TRUE	1812073195	NetflixId	ct%3DBgjHlOvcAxKFBNOzvIwutAymi_CjFa2V0rWDFqJF7HbWsQVrKJ0STY4duHD3GBWPquQwgR6MKYJ8bFfoEONQVg6I-tNGAVlQH4keaXlSRJjVs2_C4hnf28_yKt6EiSUTw3xVDh0soNJ5L5qef30owZkzSVCYm6FRXp6abZb80HQaL2av9Z8t8F_Idp_BT7o1Y8oA5k6UFO7PlxArCqjxRHosGMYvmqW5mSsMnZESFI_T1ogb9lh_l7wVsNlXkKi_Cb7iOxplPiD_usrr9vW_A6MawvP_HXI8drOXXUixmvWiWU2fAQ0RmIZIgiZjGbtUlwHxq4kJfBXeY2jeg6RT1VsCQNLj4UrDWtFvkEVahdZQ6wU9c0NJkaJxWApPxphnncQtCvVHJR3j4XZ_7vJ9egSGq59078YCJ8V7I5QVPVgil8H-hx6NRcFD9nPYKGXUseIdL5m7kg51AsVf-bv_BOdK90qLHvL_FUDOlBlBuj_bM7ql8TNiEN8Bz5Ob6zNxmHwoXDXJkaZR-vozkXEjsurBj_XDyyXjXSz4ef0Gi1PoO6yg-cCO2kRo0et9ixjtNqTMj3hm7mOvCedE2-yB6zdC1abQULQoq7X-2crleCxZ2sBv8SaLfSnTPJOLAYAGwfYzeZD8dUDoc5W2spFBKxEc85yEnVedXtp301Vhs1cc3w26nvU8P1pAfZW0vfsYBiIOCgy9T6D7315aSvHN0lw.%26ch%3DAQEAEAABABQvphRlMSHVaazQTweSmTFCSxopAnZUZcA.%26v%3D3%26pg%3DNPJ4GF5A4RDDXEAVAEXYTH26NA
+.netflix.com	TRUE	/	FALSE	1812073196	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+19%3A39%3A56+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c137216f-375f-467a-af2e-af87c06bee27&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BCMX&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ANNA
+– Email: jericcernada@gmail.com
+– Country: PH
+– Plan: Estándar
+– Member Since: marzo de 2026
+– Next Billing: 2026-07-10
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639652758983
+– Quality: HD
+– Streams: 2
+– Price: 449 ₱
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ANNA
+– User GUID: MRGU5LJUH5CDBPHGPJPON5G2BA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805530256	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA24l0tA2qAgc1RdcPWacSlKYAw84_S7bSF76Lny-9bTMNphnESJPVva6ECxli8Uf1nSbjIrfqU3LMec5QEYR4e6Y6TqGmt3MuRmRWRq00nSTPrE8p8sgWUl_UbNqFbbLRfOHi7avH4yezZgrQceg6qS9qYmqCWosXoy0WayYKAcsZfZDynPP9JbZCC20xr9xhpIPwCqyjb-gRfQAcieJ6aw8PNXUh2-0MWFZ1E7F0ipCJHbiS5b9-BsBXNV4H4R-56QOALlmfW8viAf_Cb80jJ2X0VLzBNSrU8yM7M2J7NgtM_bbb9Z1vALM5qoIWk67tPXuNMwdqdhhE04tLsTsffoTj0K8Jw82jRa9E-1EolOw9V1a9PSbmgDiQjc1Ne7i2RjOU6cyqjFgNGPesiI4aBrv9P3utqc2GnqXnnpTgF0SpgI9--_Tc0dPBalGUnklEcy9voRxPnbusSs1QuirueiFExXIweZVhjuPXL5I1xX1QuL7yC-nWJ5HuAniasHUf6lrCK4YBiIOCgzI7mpm4wpluJUy-dw.%26pg%3DMRGU5LJUH5CDBPHGPJPON5G2BA%26ch%3DAQEAEAABABQ1ms4GpJE8GaBHMD_FFMRHgUIP7ZG84l4.
+.netflix.com	TRUE	/	FALSE	1805530256	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+16%3A10%3A56+GMT%2B0800+(Philippine+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d473b453-86c1-49b4-adc6-f6c9f0c549a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773994173710&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805530256	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfLUvLrkg0OLQ70jGfO_HF58HDhZaDyWs.%26dt%3D1773994256985
+.netflix.com	TRUE	/	FALSE	1805530256	nfvdid	BQFmAAEBELZpmoT-o-TiJUJWT0knWyxg0Tm9sMAuqFwcBH7KRI9HmmWx1WKyO9fqzpUTwdibEmdP9EIJFzfwH8hjc4aVp4mbUQ7mXBvigrP-YmacqTkFLTJoFBabjGDojn9i7p1TYxxXKiW4rJfVtih9hbMXNCxa

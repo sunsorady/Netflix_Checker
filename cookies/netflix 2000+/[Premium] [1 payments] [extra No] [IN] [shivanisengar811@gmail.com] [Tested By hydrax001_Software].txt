@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shivanisengar811
+– Email: shivanisengar811@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: February 2026
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: +917678451598
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shivanisengar811
+– User GUID: REZTCPIKQNGOJBOHXMGTETI2XE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802623749	nfvdid	BQFmAAEBEN3Xx4-8pon5UxpqOPs2RAlg2egdT0l_WIUDzuq8UeOSvBO1IXCIs3GGvwAOVXeXDByxZK23q5JgzyeY33jt0Dz4v-IvOc28EQ3kzQMK7ozRTq2gyfqpMNwMLhE-z4gtGvQJcH4nqmQz--3hMerUQc-w
+.netflix.com	TRUE	/	TRUE	1803705929	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA8RuqC9QdadhDXFh3h5QAMpE5_PfKEEFSJog9jhYN2Xq3skBPaiGA1KHNgUiMVRpLN2rRRIXURCjbf03Ebg1dLuFwCniXMUxhImIoI4RQNa48dL6DGyHms7cpVwJBIKgLmG6xljimpu8oVQSelNhpBx5iORcMCIWDSe0o0O6i79WzMCtRNFEnmNJWrwROuSeSOMlgERwkMvIUlfIPwnB_9oDB1rsR19nxyXuusVgOAlY8EFPRJLvD4kaPuE5i96ojfWu5NWJ7qvbIdhs4DDAEZ7qr5T-jFZ-fGX3DEr6TyiwyZcKcaOsexfpS0zhrTyOO9JDzP9wfJoGrUZjxJfFu40rYp9gEQz03ApNkb5Fu36UseNcz7P8G4KIV-HMY7FneLb2f3MijstK-4vRaT2YMhP2AXTajE2wgM23HqNW_StvPxuZiyyx25DJtRgOOQ_EeJn0o2G2cSFcS9rpI0yarWPnp-XCQHdZ4S-fbKy4sJnYm2qSmB9ihWGVzyBai8WjSVcwGAYiDgoMtz8REt7UJi63Rpn6%26pg%3DREZTCPIKQNGOJBOHXMGTETI2XE%26ch%3DAQEAEAABABQVHwbo8Ts_l9R7HcVcpn7qYhNP6ymraS0.
+.netflix.com	TRUE	/	FALSE	1803705932	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+10%3A55%3A32+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=684c1ffa-ff89-42ba-a9e4-0ba8f29a473a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803705929	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3SbUEChn8hbDpAFK7Li4W-cLBfuXi5WE.%26dt%3D1772169963315

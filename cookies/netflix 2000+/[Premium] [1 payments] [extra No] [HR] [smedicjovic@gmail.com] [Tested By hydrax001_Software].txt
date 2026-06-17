@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kyori
+– Email: smedicjovic@gmail.com
+– Country: HR
+– Plan: Premium
+– Member Since: junio de 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 5030
+– Phone: +385989012575
+– Quality: UHD
+– Streams: 4
+– Price: EUR 12,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kyori
+– User GUID: QQVXELBQLRB6NKMGBV36WUGU4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEFeyF-hZt4tkBFa-XewOKShgjH28diQvDJrku9-hejHyf9oHPJWmAlecUGIJwikguycUgtl_l0Q-iR7hoEWZ4Due8zpO1jV0goxPRbVwxlo3A8Owm2gEqhZyLJsdqwckMgip9zVlP_ZGmzMioZ3380c7
+.netflix.com	TRUE	/	TRUE	1784151574	NetflixId	ct%3DBgjHlOvcAxLfAxhzt00A9GcyfH67KvS9g4UWg74r6iivSHT7kXVyxar9LiS-9Zkwz9p_M06-zNRvv8ze3NirPAiPSoR3SW5bNUWWjUnv5kzeNOH4mHDwUdi0XhvPskUa_Jx3CF1MqS5bxsR1g-kAx_6_kbEVKq1FRW6N7Ux1kaiCvjPeqznYGjQblo2sPbSKgg4xfzr6N6ytcPBlhAJPi6vq1n4Qg2b7W1AqO-P7DiNDwRUrclLhNcplCwCopXc9GJ4ljo_cV0PCb8vNCVFxSdoKT29iGYDtnn3jFRHDk20uMhsVbJFMz9eEQD0R7MNP8BXLQ-Wd609TURfmd1uWIfyF9-85-Rwt4M4xogsN90rm1BWFNnHpBN3FakaNk-Hn5N5OI-_oXuK4Ji57TU3hP5qD0bcJRGSqu8LiFUc4wspqTUiCL3VnzNxI2Nfq14yGBI-hVBikQL2Pvh0ZAHQZ23BQ9d8kGByo6yjpKDYsVHEA1QCazbtyitIvxBpowVYcrtvHAqkHV1f2ybWRrbhp4D6wswZdVwTMvsRTCemnmT4QJgv27PxQ14wueWGKch2DjKCgWp87AiHrTzBBWqH_b98M3GRPMWJMfS-zAd5hkkoZdq_oTXwjGp753g8-17t7LFdeGgGNHyQ1GAYiDgoMXJ-_n1uC6oACKPd6%26ch%3DAQEAEAABABR2iKGBf3wcK_4IS3qjRPDbGAacFZnzu98.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1784151574	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+27+2024+21%3A47%3A50+GMT%2B0100+(Central+European+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=914963f1-1dc7-425a-a512-546067d180d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=HR%3B21&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784151574	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsxDMNjuV4Xr8iP_yg7EfThpapOSZzgWQ.%26dt%3D1735332472923

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bonpogi
+– Email: joantabago@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: August 2023
+– Next Billing: 2026-06-29
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639777152215
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 対
+– User GUID: EDJFUL7X6BFS5MSJCMMMCKMTEY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810458887	NetflixId	ct%3DBgjHlOvcAxKBBOgZdOGiBNbtNw1jvu1xcHo2ku1hW28sRnFaDYS90fq37963a5j78jA6Z_gokfrXyE03OtcB9ozjYHtAFDbCAyRcsVEsGtawDj10iOcYPkpBG_Pt4ABDXkBdKSeUa0OTeH0zvs3IP8n7XRbx3sCa7lbZC9LLY72g1rsPBff5RvHHsNEIJ5ER8UVXOzn6Gu4t5GfNMFtwUkCRvWfyZds6_LUjb1ZV4LL2bJ4l88HOo5k27MiunETiibYj-1CfQIDAFDtTEWLkp7sWQrGnMDkg8LmsuSwXpjAKx6y-4t1E-_ON1QCsp0LKMtBGgbHuTx_jXXKsGjfdLXmKW-3ZCaMGt5ZIslXyMGkyhoXFdqNYFn2zt5CGXbQLUFAgx4gT6DA-2RxmgYtST1agpWxGMpEEYCqKQzOI2yVHhseYP1lkXrBE9ZzaSPA8LgjuxKdsHD_gq0CPPfkveJ80atNbDfFCnDnzWEfde9v6ggRpHjwEEfnUoUNMU3c6PM8cG4eJ2QFza-R0_Xekw9lTJCD_0HgnzzUb9B4vFteybgqT2ADqP3Rl0hjR-SMjBkNJcNXXyZDkWbwuqO2eu5UBeIG8yMRX5r0nrEUYYilmsXvpRb2DEBnJynjUTvXZOmIZFAq0RQF9d-6YMgvMmIkONx-wSdMk6UXl1AnwcpmUZ18J7CZERwX_IBgGIg4KDPLARhcjIG9URxdDbg..%26ch%3DAQEAEAABABSYJQu7q7wqtAY7dfeZtIcqAhSsurnWs8o.%26v%3D3%26pg%3DEDJFUL7X6BFS5MSJCMMMCKMTEY
+.netflix.com	TRUE	/	FALSE	1810458889	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+17%3A14%3A49+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=980930bc-623d-462d-8eed-fcdafcf8d7ab&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810458887	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJvMa1-LqnisLepRhuvKtKQyacTAfDDFw.%26dt%3D1778922886573
+.netflix.com	TRUE	/	FALSE	1810458887	nfvdid	BQFmAAEBEBhuBTZnpI7LABUimUjjHGFg3gJzVJGXzu-sHxfDg63iSgE8VEP8_3E3Vqn1Bh9IVeDUJScsY54rb15R-trbhLMQF_N1T2qtd8Zqrul8fozYWyHvOpBzEci3J8k6DS7mIA611KqC1fW85jsHKgn-nffK

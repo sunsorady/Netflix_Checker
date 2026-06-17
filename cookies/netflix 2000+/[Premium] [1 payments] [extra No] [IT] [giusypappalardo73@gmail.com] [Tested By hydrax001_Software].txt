@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cri
+– Email: giusypappalardo73@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: ottobre 2022
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luca
+– User GUID: G26YCD2BQ5EHXKDJE6KQYTSEKI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799853110	nfvdid	BQFmAAEBEJDFEmsKC4GuaqJSyGwyaT1gKIHyCVgd3n7iOYOwOn2fzd8O2jb1_3hLk2tfThNewNbt1qqruJ9Iq3daDE5h9ahiLsDBH-sXjkvPUj5CehgXHm9chQs8iaMK1jG1hhw44v7UTXlFCe76vqdXPlKFmlW5
+.netflix.com	TRUE	/	TRUE	1812231639	NetflixId	ct%3DBgjHlOvcAxL_A1uBPWykc3bGDfgzVCzvkCMTL4Gtxs6RzVSIeQhTBpeVxcT_gEdihYp4stV5C5R0kN_VvnV8eIN4pIIepr3k0XmxDuNj2rPF4G1Q2bMvQPw5bXfETLSW4wpwD9gfEvcK5eNk2KILB_0bWUEjRB5Z2gcbOgBZiOnOvhiZTmXWQ5dG987nwcSlvPeIfG7aNScbnwtcy2kiJz1YIKeYd63J4b7EtMwdOF_8NqjBqxcEQYIMrsX7DSxXFQX2G-0CiLK-3QvKp7sllV_KvmhRdjOt_Hwd7lpEsjxWBLA-KkaYxS4GVuimDjuVjGiczFZaeIkAEj1HqIOYtworS8kkCC_uv776GgKxXGQuWkTLCpk3lTEaMGoFNkWVgMsFq4CHSBu-WrybSxnkU1Wl1yzWJE7UtGwPmF403USpiqYz_QevicoZwNf5hDrsnJhCoONjGBBrIqGPSCb_TIy8ryeZCRKYF8C7AFntdinBwcqGc0cbT_oqe4g6E_lWhJ5vGcQw9ViIW9dyjXbqKI-okNiS3blD6UqEeMk741b25wEPshL52yRZgJzWQDUixzu5VivNwlu60MbmkyQCyf25df8m2ZpcJE5bGxBsUUuMmL4iOVSvRmEXWNZPHNNeUH7dEJy6ob4ONh1erYWGh6msvJj-bG4_PbMs_byevSxm1QLav8jEwoMYBiIOCgwgj6_0pX3lPBmjEPE.%26ch%3DAQEAEAABABSxnLwuLDqGZdHChxP7amRfi6kbeQcbo00.%26v%3D3%26pg%3DG26YCD2BQ5EHXKDJE6KQYTSEKI
+.netflix.com	TRUE	/	FALSE	1812232254	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+23%3A50%3A54+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6adf2ca3-60c8-41ff-aff6-3259c062bab8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B75&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

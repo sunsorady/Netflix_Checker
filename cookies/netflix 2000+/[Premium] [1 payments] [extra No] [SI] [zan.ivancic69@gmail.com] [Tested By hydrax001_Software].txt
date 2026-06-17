@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Žan
+– Email: zan.ivancic69@gmail.com
+– Country: SI
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 9910
+– Phone: +38670491224
+– Quality: UHD
+– Streams: 4
+– Price: €10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Žan
+– User GUID: SSUJG6UYZZEWJLM3TWJDZ3A6OI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787511613	nfvdid	BQFmAAEBEGt21WqbUN3eYYq5FuzjcwlgEItGdC11Q5Gd3SpZaE-Wdju5nUT0YYdSxwhvK4WVl2WCBuLpUB2624uKj7CyJuT7E8NgXfqO9BnRXHB6_do7FX9TBKYb7g1448HmysYgdISGJxPQ97MldE7nO-TiCA5e
+.netflix.com	TRUE	/	FALSE	1795084646	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+19+2025+11%3A37%3A26+GMT%2B0100+(Central+European+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ac94f896-e57e-401c-8af6-3fa79d521708&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SI%3B048&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795530793	NetflixId	ct%3DBgjHlOvcAxLeAxGtkFaD-KO-cSV8A2ESAwlfGv4nlXLiuRYs3nMOLp_CyLE80S9BKdOz0bx5AcmhPdK6H0sGJdj6E3NmNlKxPN0SPnIiry_Rg2njDqvBiy6yKa1TTzv1XVca9LJsYKKYaO3OQ2X7c4y0LJbL1RIEw92nPOSFqPi_4Euge6dBoLtdz04bnqwLVQnLF3T-bqsYh-I53hAsHO3YCKOfR6ES9T5qvn-UqyAho86TT71vzDh43Gt4hFDnIB-FH5EaosMalBkK6qB7Uhok8OX1FZDl_oIa_Gfmfsa6MKuWSiG6sSYUnxYnizPD6Mmj-SFItzVKG1lvQbWlWlBrFEr0h6p9AFTrMd4b21OWoQSG4l-BqhnR-x5CSRW-o_6LftpzNrbhfG2vF7Vby9-0lRPVgo4Ks8Xc0bx6wynNg6bDj1l4UkMkU-hIECfMxzLm0DoXKyYmt00kSHW5QtMKvfqpzaONf7F_cNubwblg8cEYOhgDWHxFYiQV7t2I30E31Q6YisqXIIs2OAOF44vwCm1f6d2eF_MOP0QDPmmYx-1TYFYOEwLfYXsK-Uhij_nQF7vQKzZTO31HeH4cJJ8DuoettLtfaYsCmz0JBPgIyHRiQPLb8OOA8n8gvjNrgWPzObSMaKoYBiIOCgzOEOZNXmlpOmZpFM0.%26ch%3DAQEAEAABABR9v99LF71SPSOraMHurFK67e7VtW9tZ0M.%26v%3D3%26pg%3DSSUJG6UYZZEWJLM3TWJDZ3A6OI

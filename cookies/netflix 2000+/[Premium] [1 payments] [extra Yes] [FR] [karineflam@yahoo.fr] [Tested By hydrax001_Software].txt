@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Samir2
+– Email: karineflam@yahoo.fr
+– Country: FR
+– Plan: Premium
+– Member Since: siječanj 2021.
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 1087
+– Phone: +33621740189
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Samir2
+– User GUID: MBLFHMR6RRCPFM7CSPUUFCINNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812108837	nfvdid	BQFmAAEBEJT50j82IHJRxxFDZMOlhUxgn1wpZszGAXCMYLb6i7Fx8Q-St6HveSgV_D05Zr3V8jhYE-oczil2e21d7CqBaOvismK-Z-Cn5YvELX0dN_kg--mcVZJ_P4z9_Fgj990Wt0NMZzjUOKIMcl_ahlR8D8d1
+.netflix.com	TRUE	/	TRUE	1812365464	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA5cfr8UCqd4S4CubF8G-ZQk5YaFcKKhtPUb5qyySAT_yOjQ5blYIsV8p7xwmayLXs5UKgdn_CrA6nosLl38OvDg0tW9YrZoCeUGoPUCmZpKbhNr1Kw5RzZVPgNKBvLT-ZI8OTFU38e1_QmpMtisP2_84JfnlJIGlb4cCJmvHn0dACHfXObV-aH3Zc4GUkJfCpq4Cz-gqMC6DlI9HVhE0EfHDGPdw5WPfXyLfCpky7wIcZ-suHUv247z0p-3dUZxghEyj9XNzL1bHXMe2QU0Vi6BpipAdtPVH0kb92JYhx43-jdLlZ26Lo7I82jfMk1TLU4TverNcsK_UNjg2h_TBEWKa1-lPcdasJKBdfY6J9xLesbO4OVBgqAjTPW4pcrvKxk450vL-YYMVI3oUMMOZ2blg4ZDQv-ZaASo8vfbV-INOwcMt3eMf0wr69UhUTFSBoWNfQSmoC2v0UGJptWdV-t_AiEVMuXNHMx9CtBlxXLFeFEwYoC51FSl-eP05Kbu5rOPHpuQ_iiJXdewLOQKX4g6d_pnIITAlmA9QCt8YBiIOCgwsW4OyK3dsIpleU3E.%26pg%3DMBLFHMR6RRCPFM7CSPUUFCINNQ%26ch%3DAQEAEAABABQtA5mePfIuAmHR_lZKTrrMsdYLqezVC_c.
+.netflix.com	TRUE	/	FALSE	1812365467	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+12%3A51%3A07+GMT%2B0200+(srednjoeuropsko+ljetno+vrijeme)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=2abadbfc-1af4-4e9f-aed4-2a224421c393&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812365464	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZC0U3wV9P6LCtPUnVCyJ6PnVVVHl7ZLc.%26dt%3D1780829464821

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marlon Vinicius Carvalho552
+– Email: marlonviniciuscarvalho552@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2026
+– Next Billing: 2026-07-14
+– Payment: DC
+– Card: 0006
+– Phone: +5589994593889
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marlon Vinicius Carvalho552
+– User GUID: LOVKH52P3ZENDFE53FGOPJZMSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803922861	nfvdid	BQFmAAEBEIDM_6dtfcX960TdG57X3htg--f2L6d3Sx5RBwPOehxVnXumP8cL0R7kW6gMqrpq7jxOWc9gf0se_o0wTMOatCL9AE2HCUTUc1NTDoWWDV_1YiNP6mwWtPSgBV-_V-q6Dt_33j0bMjK6HXGsj2fc9vx0
+.netflix.com	TRUE	/	TRUE	1808667615	NetflixId	ct%3DBgjHlOvcAxKVBMwyQXcMdNawZ25qzEWM_ntpjIuAOszMLvgR9BYzhWm5dMhcADWCYaoTceOvP-Q8mItfW3s1NrRxVUr0D1ZhZYR4xa2_QqrzZU8SBEzdbL1fgT2RMmhwOhrMWZKqg47xaN47R2dXo6iNhtqw6705w4meCQ_E5ka15zUHJKsTRuZn711_jUW2pHDNvCY22nQDz113rDd0f-CfuF7qacecTFm9E3C90IkrKbgrTXEqOFgqXtDyP8sL1-wvllwNBnvIc2CcSyzMCVvmxjKyMb5t8SCTc2uu5ryAi01pMI9Kvr0qNQBF0N4-I-5qN3jYcAmvnO_qME4LbFDM0yHH3ZFvLb1bUBJaSUVXs8TjWM3fugjXJnltEXyC3ySMQ0dOgb0hSL_qNZpp2SCTKSR5rnJ3SepS8fgIuWv-3bVf14HaK723gUOoyUoiyKmFB6AWJs4T7jEt9hP4Hpsk70ggkEspUm85GRwwAv0BNK0vAKkY55grO_PhOjiX5jCBoW3TDt6KyekH_VxAFMCNADVcxTxN9IAgOSotBy8hSBahYZgKn9VYYdj7bbfntSplffnYSS2oIdS8Od2VErNIglK2cozGoj4O9ioF1MEsFkYlQ4TUwQO17blEy-t-q3XkXMVwQVAoCkFfPhWGgrU7DJLlTq6wcJ331K3d80kXS62ZRKMaweKrJ9CKpOP6b0b0rlNy5nvK9T79lBQiGAYiDgoM_WReX6jOegYrevp3%26ch%3DAQEAEAABABSRk3I44PZzmoVszxDscOGnot5h-9YymOU.%26v%3D3%26pg%3DLOVKH52P3ZENDFE53FGOPJZMSA
+.netflix.com	TRUE	/	FALSE	1808667618	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+12%3A40%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff96afb5-2b31-4346-986d-0838670ae101&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPI&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808667615	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEe1CxcjnAuMm_v6WZJard01ncRwjU4eo.%26dt%3D1777131618976

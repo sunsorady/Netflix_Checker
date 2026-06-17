@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: M
+– Email: 24120200007@reva.edu.in
+– Country: IN
+– Plan: Basic
+– Member Since: January 2026
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 24120200007
+– User GUID: JL7GIZGG45DCRHIP3DEOFD4WKI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791533561	nfvdid	BQFmAAEBEPnlrog2_2l_GHdHXlbPSpRgryTcGIA7jZmF7X2yjBmRMGD0tNsmWE2PAYVEy70bIZ0uwQvfBtzmg8C_haU5tvrXoc93GX9PNVHetqZ7htRJwdIzmQ9hTC6pTX2Hv-KHx1ahnY49GP9Iuuc1HEJ3mn3h
+.netflix.com	TRUE	/	FALSE	1792602806	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+22%3A43%3A26+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=22f8e38b-c393-42fa-b417-9c9e4be743b8&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792737878	NetflixId	ct%3DBgjHlOvcAxKtA7opG4El_rqd5ik7vJ6GdMOglWguMNySgF0i6VqJuNmYpL1HO71nU1zf8XEfFnLBpyz7ocKEgWy7JoY8vl4AQL9nLn1pP9WrKBZ_qLUBk3GbTGjDHTb-dE4Qait9bfuvoPFltsTC6kd1VfFJiIMjyR_Mtey5L2K0aQVukbZKKiPgk54lIxjNm2zskIA5bZFIoYvLRvpWxIq7ni_B6okclQfdYBfvtl_BY2YYBAQxVrjQWp9GbluK0tQw1NaqGUGp87iNEV-A4lpzWYMCArZr1Jx8Jf51An08zxI4dN24FwDID4P7t_2ibfu-bJFnOAZFbAwtIMSR7i3yXuaaI3_JPPZ3QQ6rjo-H9EExT-zabPbAN_TaPiPUCuPZYK0emm5Sk73JxCHRqZdiuQtU1JNWAfBdLLOez7cMMshurPBciyWzOn4DooGYseFkcmgJMX7NrMnPdrva6GznBXb6EJUgsh_NkBIFVsg2ofdXCUsE_LtY3VYGZHqC-qzEkRRgAnKxMgnV9m3_DsBEMXPH4vNv7FHSfZRMHAG4mA-ovqn_u1zkxaUUz0nMNrQpbsVTIBgGIg4KDK0C0VQaVPik2daR8A..%26ch%3DAQEAEAABABTOGIGTsjIOnXhFgNwxjIA3lWh0TpgC_Tc.%26v%3D3%26pg%3DJL7GIZGG45DCRHIP3DEOFD4WKI
+.netflix.com	TRUE	/	TRUE	1792737878	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ25Vnn6-Z6Kg8tkOHz4V_KfTS0xMqxmak.%26dt%3D1777185878705

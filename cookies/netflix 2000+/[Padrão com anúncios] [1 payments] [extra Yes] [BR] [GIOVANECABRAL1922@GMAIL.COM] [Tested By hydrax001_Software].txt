@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giovane
+– Email: GIOVANECABRAL1922@GMAIL.COM
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: dezembro de 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 8824
+– Phone: +5531996506464
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Giovane
+– User GUID: KSTRJSIS2ZDYPPUZR2QCHD677U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796425010	nfvdid	BQFmAAEBEFo6Bfh3McsNPB9XLTmoLGhgztXBhaD27Cr0LuYQ8aZp_pDWo_XRuB4IykbVRmLymRZAY7MUAsTKunVYlj6soOwXuH3KU46NGmgkJc1TmkbFjCiPEhRnIo8PjL1aGHsJju-OTex6eMji-WgeGZEo4J0S
+.netflix.com	TRUE	/	TRUE	1808766837	NetflixId	ct%3DBgjHlOvcAxLBA6eCFyKO0PJeWjWgg9uhYHFPDkg3vIofYTKV2bkztB-RvCFm3TKBWr_tXRN8VZAbEMshA4z0QiSShlCumvMUcPqHRBEyYrQrWKwtmRmicKKLLiHa5u2SV-WYiMoKvFMtMUbhaI7YG_02rVmufy0y1Zf2-edby2LBrTzK4bbvAFbUtv_ZGH3IabaqbMIdpYWXfjXS0XPYkv1G6xGGpaQVTctP2iw72LRiR-0yLLYntgqG5DZy76ZMVixDMi4FWglYBhmFWKnzUgdzDPXlC-QBKZ-ykURbDQXGUIeGcJg8FNX5E_4_9G4kx12T0gJuUHZhh9FIDjHNBveJKzZ5oKRN-L6u03yTyNp2Mcp_nU7u8mFVSeSWcjVC-O6mrZ52whSHLGXbQmvWP5ypI5HDsC-gaRVCKDxq3Eifx5GqSdzrCehlRq7lwivyL0HFiA9jQvJkwtVUmZuEtWNHs22i6lsWF6_kYo-6rICY5AxhwK2DBRwHGt_nzl6ZSrfoWpxNc-C15VSa7zuMStl9F8ZngR_vdXlxQMWicXFeEWF7YXZuOa9lQn3aO0DQvx5vGV7xZBsWvxZkbRRRS8htL1NBWG1IRsMqGAYiDgoMJRRSVsA7QKnMdDS4%26ch%3DAQEAEAABABQ83IBoADcca0cDCBlJwIcWHvuMKnnEbE0.%26v%3D3%26pg%3DKSTRJSIS2ZDYPPUZR2QCHD677U
+.netflix.com	TRUE	/	FALSE	1808766836	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+16%3A13%3A56+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=725f6119-02d9-4fcc-9b92-c45c48e7aaa9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808766837	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYGvGVUY0_cCP8WgKDEWzekvCMN0Sv52o.%26dt%3D1777230826785

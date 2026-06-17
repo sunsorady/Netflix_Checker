@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paweł
+– Email: ippograbek@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: luty 2025
+– Next Billing: N/A
+– Payment: PLAY_BILLED
+– Card: 6697
+– Phone: +48793535325
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paweł
+– User GUID: MIVFGEUFVNCAJB6HNZS4I46R4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3771755124	nfvdid	BQFmAAEBEKNBM-mZAdJ0FA7pCbE5We5gMi8PJ-IVnhvBw2_yYrHVaNg1OFjzvW8ebMqLoqIESFsTepCXInk6VF-J8W0pmW7mbsZQhcIHx4HbjM57cJFSc6uBs8o0g7GESY2IDrW-vg7YOfMgWvc7Li79nWfWxR_R
+.netflix.com	TRUE	/	TRUE	1783623096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdFjvzISyXs439hHY7gdh7BbzV4ousYWE.%26dt%3D1768588431331
+.netflix.com	TRUE	/	TRUE	1783623096	NetflixId	ct%3DBgjHlOvcAxLuAw1j4eGIY4jhqOTPhLc7UDMc5OCcSWa64n9gstxT7WcFTp2OMC6kRK6z9ls9KzkNRjoISVEzyYKgXCHd99y_gak4FeXG4Rusr_hpwdQrJKg4aQTMrbcz3dFrp1NR_SPxCZD11X364cS5PGszExkNJpiXR9hA_3iUSF5ZXZwQi8wr64vKV1fDUn-eX9eBLj0yUWO-Pz6GbQCxfRolfUE3Z2t2pCmTiHesriM9PnsZwmiyeuFmC56hlKHikw1eodNMS1oHBx0MQEufV038XED5_ik-zAraLbLR26Vs4isx8lSN_0X9WVJOQmivIWxUa8FlD1Yvc7o8v9dwP69BoanssaN5gjwXgAL4OETuvRUVnGGwabIjAHUgRpnVePPQ9e9rpa_5AChKyiYYfT-AsoWwxFPFZLfvCPZh1KnjTv1qZuoLzndIhw326O4aDNNU9x-IfOw__SgF2Xn4tr7dGsEo5UKOr_OcYHucnMdxhbZfeK_fjWa3pUVBltINI6hQ7QFp9X0d1rhdxxUnxpsBh3imJzAm4ePe7wjECCOtmR_lirO4iFJmdf66SY-dKCbgiGV3inn5kgzdQaEgu2FSjJ1OfWp-OgRhVXggRLC4QOhC9Us1-LP4YEvVw6D5lHWEh6VcrRur9pQNmmnSpv99zO_cGAYiDgoMAOOEBKl9AxxgukdV%26ch%3DAQEAEAABABQqW_WaRrq1BPIqNuIFg-oI99lSTaOBbvA.%26v%3D3%26pg%3DMIVFGEUFVNCAJB6HNZS4I46R4A
+.netflix.com	TRUE	/	FALSE	1783623096	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+16+2026+19%3A33%3A52+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1472836b-4532-43f3-be93-95db14b8bcb4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false

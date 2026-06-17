@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: u can't c me
+– Email: alessiapredica@gmail.com
+– Country: IT
+– Plan: Standard with adverts
+– Member Since: June 2026
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 2619
+– Phone: +393889287434
+– Quality: HD
+– Streams: 2
+– Price: €6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lexi
+– User GUID: FOWEW3VQWVHUFDIBMBD57N4BCE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804799212	nfvdid	BQFmAAEBEBIkTThmTX3tVk7SYaHMyeZg6IRwE35HcBagz95p49w-LlKa5SdjdiKjC09wJDckmefQxzLk5gQ5m9Y8AhDWnH8FmxJoNHc4Kk4d03zIG0dfzLZV2kJEVJlB8lFrf4ZUdXDiXv2CJSjcRzL5rNpOJm7L
+.netflix.com	TRUE	/	FALSE	1808765977	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+20%3A59%3A37+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ea7f202-9183-45f2-ac10-9106c86f3099&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B25&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808765976	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdqJaUX3PpeiVXRhPhdXZU5nyAP3eym8w.%26dt%3D1777229976778
+.netflix.com	TRUE	/	TRUE	1808765976	NetflixId	ct%3DBgjHlOvcAxKMBFD92h3E6zyXF14lp2UNs1sJ8K0gKUUvQq-V0IeJeTm18OpYfUxkn5qaRB2j6aTZ945D2Yd65bJn81UOb-zUaqvtMoQAh2Np78lhbI-WnWlzq_kQ3Oy4R05HFc8S0CUX6Ms_oeMJyCXyaZrwHRkqm5UDi-gt7vynZE_ID30MfVJn-Fd9w5sISACJCGpHNno0U0xLeHbAAGKcRXJuESBy3YcevLnP41otvUudQdgQoNjdlUCga2Rg7DbnlE6FwA1mTEAlvFDT1nCSNEYbhvowvhRIyBmTj82UldPTGf8umc9gPaR-QgfRSJuOJFKj8PeohOgVIAqCZYC6roiJlJ0gT4Yl2TnuIKymJzfuV4kFQ9NAIMDaEXK7KYIHGqioAFsZ6BH_viW6bn3At3drDSz-2ej-aOTDvNoVb82UkcyCaHOYiPbzK9dU7XM3JEsUjNqcP1wbhUVwa3q1FOPG2IJDpyZVg6P8B8kzrCxTfXvrfaO_P20tsu5M2I9k1LnSgfJ3lFqjMx1np7U-maOhUZSfp0nHe-9zCt5-ZD6sMzMxL2updRX9NGZUhMIXMmZMovfrZAoctsAgyN23ozSWZWwwebQcghgSq86sz_bG7aclBnHTgkfyNQdDltbNNlW3roJR0cj7z3GM1NLhOiFB-FOyTsPIJR3oK95s88eQ2FQ4KUUIsUz-IWCMiBlt5I-MGAYiDgoMjDWTAxFlHMt5emme%26ch%3DAQEAEAABABSGVBVEgkBjt3N3WrNrneRne7Dh7iDT3_c.%26v%3D3%26pg%3DFOWEW3VQWVHUFDIBMBD57N4BCE

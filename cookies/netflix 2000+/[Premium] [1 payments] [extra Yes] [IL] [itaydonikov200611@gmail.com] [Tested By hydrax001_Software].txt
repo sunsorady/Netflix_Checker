@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Itay
+– Email: itaydonikov200611@gmail.com
+– Country: IL
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2225
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ₪69.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Itay
+– User GUID: M4HGS2MLXVHS7LBM25QWASOCPM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795781778	nfvdid	BQFmAAEBEFBy17b95FrpY8y1NXAaKXRgEo5JeHFM3Tb11Cika6MWmkYlLOTt8bhPsvJwwaXrAKgIyPk1VPbrHli3AGqDyEpe7FZM8h-VclVNVOLKVYzB92Ztoz8hDUs1ldQUI8vVLoc6qn9ouUxr48SqLEuLrVrn
+.netflix.com	TRUE	/	TRUE	1808577050	NetflixId	ct%3DBgjHlOvcAxKHBJNy9Tw6kQ6FfmuUAzfiOT1nu4m4KNyS_2a1YDFSbRkFjlBRKiCh_zTLYsEh67pOaV8vTruuB_56BbDGlPCMi1rCt3izsyqg5fZJoOhUBD97nSyfKRYYHPqm6fxN8sQL8wamn9Ihn0qVQjFu3XX_Udded9N28ZZB9S2_riZPp5phfTNFn4sygUOnS6oMq1Hn8MIgLbxyxQhYpmni-VZXzrfO7E_8MZTSCJR3i6BvdggzC_yvTN0GkKfy0PqfVREu9SZWlre8uUi9RhxjE2F3-JPk094y_CP9jIjaJnB4lH6KdkzrOpeBrL5KBXQ44fcFwJ_-R-nVPBnrLvxrs1xORKcqst0Owx02fRW1C4bTr5QAU3wwq6n2oCObLo2avO6A30bxdGmj3pj7hQpqP7diSOtVI0q6d2CpoXX14Nyzwu30aYCoCreKGkj9Y-GpIDqgb6MTCRYi_6uej65JZhahXYSWItpkas1FtjUOZkU-mIww87YxqJKSqgDZ9q-BiivTGF4d-qHG1ymt3IqlsvFfNI0FV3AQLCVFFEshkpUfHIRmLosrEk8a-keZL5rnqSAJKot97n_rbkP2bUU2Lv1iwsd8yxfoNc82IfvvZQPzoGBGJYANcRdkteHUymn4H09cwCTEdZs_Lj6zT9nZJfyzK5MmO5QG0sDjl5SBE8TECZkKMQcdBLxcfRgGIg4KDIFo9cLzNNlzl-3F7w..%26ch%3DAQEAEAABABQLILgH1LzrYYzuZiHf48A_seMRBBZ19n8.%26v%3D3%26pg%3DM4HGS2MLXVHS7LBM25QWASOCPM
+.netflix.com	TRUE	/	TRUE	1808577050	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7oZPyBnAVOO5Eu7fQToHYZYEoxEZ5N8A.%26dt%3D1777041049669
+.netflix.com	TRUE	/	FALSE	1808602054	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+00%3A27%3A34+GMT%2B0300+(Israel+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2913abd-fb15-436c-942a-2cfff9c179c6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

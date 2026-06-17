@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hectorin
+– Email: htagsprocesos@gmail.com
+– Country: PE
+– Plan: Tiêu chuẩn
+– Member Since: tháng 7 năm 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 5885
+– Phone: +51997498142
+– Quality: HD
+– Streams: 2
+– Price: 40,90 PEN
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: marilin baylon
+– User GUID: TUO2GVOBMRCCFJ3U5PUQQLNT5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806032892	nfvdid	BQFmAAEBEJHAon4p3yunLB33X_59rA9glxksZLfPwGzP5mUJ2rHCFuoXdenA7SjjVuVAuvoazdPMXl4RXqJ5pAYkaWT0ehK8eGJkaa9iDkAmbZyJVqPtkUbv1I_-PFgmJSIS2ZY1tOEroNnnhHJHwsAhzlrDJ9h9
+.netflix.com	TRUE	/	TRUE	1807672587	NetflixId	ct%3DBgjHlOvcAxKCBMVjudPifUr7oI9xm2ZHUWt-dGhoj9mCLN_zZ-bFrEplzIPyXLmb95dywPQgDwk5sMiQ0FlfLKjym6zPOVNowxnrovyqayVZU25isZ9_pVYBpoaDyevtv7zIhwpizuZR2U_t0rCryHJ1dgclTV-08NfbEDV_kI23f6cxxpAwj7rRaLLvY6KDFJM0yqVBoZjMH_95i5IE5m1q1qiZiBXFiMTyYVoz-uQSDjgIu0FcKELyMZWMOoBWAQ1qRbaMaM11gynjlnvcXaz07utazZlRh33QFVEIpRN1b6wsPsNwH-LTBED_hNsVbfEyIp_n5cb8b_HznclPlOdyELgFTR-QwD5z3-jDfxeBgTPJuCkQP5A1ProsF2cWCPcl2kCcasuY90KMFSjJFzshwsZv-V0OEpbz6tIkNfxb74K-9LkB0nFQiMMIj1i16ZavO9_DPOMZKxYlWeSLE0LpwcmXetS-Dds3GkW4vd5H14WNUY8mW6iEpshgqzQzrgtwLz76XrtWPi29269ET_z4i9yPHVUWs8nrVbasMpZMbpJ0Ozwr_nMMmBGOa84KKFFxv0grNpsqfeIWmS7pbeH83WRh07i1fkE7SqeZjBSBoa8DCfJIeb3Xmru37YBHAX6Tj6o3XtoOc0ktf7GWw2Rcpm08ExFNOBclmQ6zFvTW009rcy4J1Qntbi0YBiIOCgxQj0v7tcd3stnZ3Lo.%26ch%3DAQEAEAABABQBtMoJ_3jHdhbR4uub0mMQLHek90lT1NY.%26v%3D3%26pg%3DTUO2GVOBMRCCFJ3U5PUQQLNT5Q
+.netflix.com	TRUE	/	FALSE	1807672590	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+22%3A16%3A30+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=89631b3a-800a-42ec-be33-ab54d0d0e8e1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774496829560&AwaitingReconsent=false

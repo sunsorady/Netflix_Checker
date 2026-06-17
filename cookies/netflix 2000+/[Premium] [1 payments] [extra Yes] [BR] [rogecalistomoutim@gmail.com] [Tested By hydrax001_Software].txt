@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Meu príncipe lindo
+– Email: rogecalistomoutim@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: janeiro de 2026
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 3364
+– Phone: +5531985187323
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Meu príncipe lindo
+– User GUID: KU7JSRCAJJCBBHIWSUZCIET2C4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809878756	nfvdid	BQFmAAEBEGLnQTHn40zK5W1BhKlH3E5gU2uhALZTrnYyu1Q50GTE6Ry8o9BU9pCryPXt_XMYh6sImF0-Wmr10_IyG9YJAN12CpgQRogKuwndK-A2mkQE2D6dKcPJXcVKENAyBKTjS0D-R8j7lqlokmU1U2rnxPtN
+.netflix.com	TRUE	/	TRUE	1809879258	NetflixId	v%3D3%26ct%3DBgjHlOvcAxK-A1zHPmCNCV0HGuauX8OyUj75eme-7xjCjUKuAaDE6P2Iduyg4lEWnRxkPhDVOWsoNF2NquALrq_x8bT9mGN5Hy8JgYSSl0m_SE9Su0d2Fgutn_CQdAdvRKE07jkKrQ1ixLmT-QlcJJVtqmdCZK2IDbWox6X6KIbwUYI0-Oc3rwDNfob-hM4BMjHxPyfnmgMjUZz2zjMDmiO1M1oTLbclc7n5nLoX2BykFB1Z4JOx_AM4IC1ebyYjgGe94EiqiYQg6dSOawsxjtBWOlSFMsIuOtdcl3jnHvYwwAaLtAiUmaLy3fGgflb1XZRZs8qsDDwIGJtoNCeFG8DygZ-RGnUwmrWvXPPF0S2A2SgEmbb9hDusMNTgby3DwuyQmXKv2qpXqBNG89JPK3oh4yRSdYUP2i1FYIq5clwMFEkOJl2bPZHX9owOgWe-OhloHGGk_8rI9CXZyue28JI6lD0JuhbiG4Dl0Ed1zskfm2bZ7RFeOaAcJvBp6EilbOCG3fjTNnqHsmCIuRRias5yPB_iNueBkVtnGU4-cGfufnZ0DmFLt_G-McK5mRu4pGPEv6k5qEj19EZgqF8u1SrNXDZKzExUGAYiDgoMcZjuNJrCEBfPAMMF%26pg%3DKU7JSRCAJJCBBHIWSUZCIET2C4%26ch%3DAQEAEAABABR0wdZ9nQzbU82yoJdOwogRfP7abgPoDao.
+.netflix.com	TRUE	/	TRUE	1809879258	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRO858SC-qP9S9Nd5QkmaAExKWyucdIY_o.%26dt%3D1778343257644
+.netflix.com	TRUE	/	FALSE	1809879391	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+13%3A16%3A31+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=798badad-7847-4608-b59b-cd3cd38987f6&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778342770648&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG

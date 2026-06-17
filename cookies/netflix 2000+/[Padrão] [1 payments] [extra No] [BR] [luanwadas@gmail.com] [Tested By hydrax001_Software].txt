@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: INFANTIL
+– Email: luanwadas@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: março de 2025
+– Next Billing: 2026-06-20
+– Payment: DC
+– Card: 9570
+– Phone: +5566999293930
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Wesley
+– User GUID: RL45TBLYMBH3LJJ37XYKM2ZOVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789088646	nfvdid	BQFmAAEBEPJETgPrQbeMpIGm_vH1411gELLa0O3_nxpJIsAPdm1i3UYke4QYH-G2pGrijJWcJw7BdAS32nEkPgbO071ecE6Y8BRysOQtRmmrOQyw87vGYbNN-CaUdvqKoUFYQw1jNfVOHrxRlZklw9S4dDTgKmj6
+.netflix.com	TRUE	/	TRUE	1810070208	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA9WvLGVFYsA2fUiPLvEOqMp0dwP_8wz8mCSllVoHwTahYKbHdZcVpoB_zvoerakXdripp4UanO3E9pIKEWXcHjmxabucrVSTWX-VODd3j2QENmPVGnJgTbnGeTQT1cQMa3A8-jap7urnqPXE-Mhm3z1_zJzyy8YUIR_1i-89WPsKqEAqdBRxa0yJfp6xYcUIlt4BA4brUwed0swYX08AhROsqKJJXB0sbeNKKZqgNCuzStbC3uD1F-7f_W3Ek9zes61T7MLVWo8YBrTygCXjoWNVAEnXeAo8LP1HHamZ-GeGfz9uHSu9KWrDGRmLGNQjRFT9JdO4L3_Awx-uvx5uXIhWM4NtDUIMHLeK2RIOm6OEbaVPKN30xWm0iKGuu9AwTQrfJ71lU3bM12qdA69qogpQBCdAVsqmvnQqIuQqzKXA2lsKkxrkLTgULr3SMv2rJZGjgsjH1qYB9KXyEjkXOZStI9J1Cts0DfMq9iUCf3Wr4jSzZG-kJuaIcbkPEW0Uue-cYlV6bhbyr5HcRnHp8gc_zjcFNMScDrr2ZbcYBiIOCgz6dxF7b7tS4y0GRms.%26pg%3DRL45TBLYMBH3LJJ37XYKM2ZOVY%26ch%3DAQEAEAABABT-80cNZ2_s1I5kexnYOW6C7e0RxDf0IzY.
+.netflix.com	TRUE	/	TRUE	1810070208	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTszub1FEk8khqQRyWQ00E1vw5PKhN0yiw.%26dt%3D1778534207911
+.netflix.com	TRUE	/	FALSE	1810078537	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+19%3A35%3A37+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae4358bf-6e37-4152-9312-d19a93c989d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shiv2
+– Email: nitashabhattacharjee@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: August 2022
+– Next Billing: 2026-07-09
+– Payment: UPI
+– Card: N/A
+– Phone: +917387380118
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shiv2
+– User GUID: 7VKMD3GRTNCFVGS7M7ZIKK4VDM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782126690	nfvdid	BQFmAAEBEOH76BVlptFy02by3crFF19gWhYcyKIhccgiYpXwcoq1tqPTKbxGO3cSx2CK1wjZ74IoqztJbJzRDPSlXA4yWKAfTCgEo--O4JxkOkE4kIxlX3sdMT3I9is2U7v66U10aGi5CQq6voMBvEKY8UEUZDB-
+.netflix.com	TRUE	/	FALSE	1799249906	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+06+2026+21%3A08%3A26+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d653c5ea-81f7-47a1-afe7-900c626fd10b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799249909	NetflixId	ct%3DBgjHlOvcAxLkA2IIE2XA1F9xc4F7B079x8JNAh0jrtS8rXY3SbPwSCca3YwLIiQDXA7WCMqD7vpjpudWiul6Q8K-rHkHVemRIExEzz5QXCQ1fRQiHZjes59acA8SpFSJaFdfCXp07-n7x8IFbbLlY3QpjQjqKlV5scLiSAXqUl6a7VVxfc12BcEQXbB1dbTPEzC9AnAcRpxsidK-2xTPCknmAHx5ekgfJlsygcxaWqkfIu8ttX7aDUF4FpC_VGdF3wRPU_EOEFAxvPft7S02nwHqOJstKD6VfKnMSbOPJ-V-QmA-8-J9yhPLRAMflF71q3s6H_1NEV_bgf5YHqMX5sHkN6-ykB7qpwp46E4TD95tmJ6uVCyBQvy6ycrHkBEXS8R6zwleiy47FyWHM2jWekEvMb17RGY4wXvh0YOPnhvMTup55JV8LAXfrup9YiC8FCKPgKOZl5R1BY7o2dji9UjTad5tRdNuaNnjeCwc7FechUAEfQMtB7SQ_wqHmPRXlI0DDc4JQ_QimbCz63hhHZIwC8jyBGHkBPbLqkuKnxWPWK7CUTOQI-Df8vyDgUi35TfyxbjCYijyFdeAa9BvsCB0K1YwuxS3nMok1kzPiDQ3k5rwiMMT5HqBaSvLsQ3SfQPodwZtgvloUjk86LwYBiIOCgw_4FqRAVxrpkKWq4k.%26ch%3DAQEAEAABABRnfI9DqO5U18l2GnMFrvX1dtYw8uBwGpw.%26v%3D3%26pg%3D7VKMD3GRTNCFVGS7M7ZIKK4VDM

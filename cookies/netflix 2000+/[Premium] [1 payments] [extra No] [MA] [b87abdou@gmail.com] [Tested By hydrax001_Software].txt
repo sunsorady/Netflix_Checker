@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sarah
+– Email: b87abdou@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: diciembre de 2023
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 7747
+– Phone: +212661414292
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abdessamad
+– User GUID: 4QKYUW2PXZGCFCHWYE4TXDDIT4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788550278	nfvdid	BQFmAAEBEGj_0oLnjSFFHJMYR415N_dgT9Kiv9D9QLUtGBZLds2maXQYOY89IbIOVs50EMEp6cvxlxqPuFTRPoTeR07--h_cwNtNZxuZuINfLlyEy9z_HZ6EOeUUA45Lo4kDi8kZt58S1quVEHRhXXtGQg0Jhpj9
+.netflix.com	TRUE	/	TRUE	1792362725	NetflixId	ct%3DBgjHlOvcAxLmA5pmTzJlZ5wlVwsUEX7JoFPGlpvv7SoV2rr7G8DmKrnMNC_ZDKS6Z7J9Ym5SvVzLD0H6T_G-sBA3q9uZ83-vqMmtfDExbVOeX3-OJnBQK9sAXrPeAo1-YNa4c83kYk0lShYYHYkVJ2yuAIdhKJnJpiTxV3a6jpkuSxAsGbHbwe4r4DeKaHF77NDPrPsI5Sa_r6bOUUNKL6brTjPkmLZsTxHR174ejcs-_qyFrsDe7fHFSyBM2-kjd2ufK2syI-STcdkZ2wSzG__wTFhIDIT68qVVk5j2laToFUq0CMzWRLocScV7507qIRKmH8lInSVuHwPl2_wqyIvyiu0CBszNs2XiJ7Q7B-Xy0eFd5ln0I657K0pndELqOkrApkiUr2qN4_9UoXuftubOVW2vE0v-49-MOA9HJPUkNtY1sflpBHK3IzeCxQ8fdr9XRY0trjIcy9DJ38RiIThY6WvuyWlikmmh3a3xIP3qU_AC06ddycVeBnenwhlPyK0MRIqBDx_FipbU1VsU1oF_9jQz8M_nm7dZAFvvEpnqpOBk_yCYbaHErBvKOIEDfu-ZBwo7o6EsXIjtvzrfqz3olDgLVJ4gMp8P7Hj-RHZ7-fCKowKfswD6Vngeqd3lQwNkNw7YMUDWcVAIvjk3QhgGIg4KDD-XihXieMuUXCpGHw..%26ch%3DAQEAEAABABSdqLGvn0FWCz_tUbhlvXWeqCX-sxqp3oE.%26v%3D3%26pg%3D4QKYUW2PXZGCFCHWYE4TXDDIT4
+.netflix.com	TRUE	/	FALSE	1792362773	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+19+2025+00%3A32%3A53+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6475415f-1af1-489a-b5bb-1030a3d44dcd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BPAC&AwaitingReconsent=false

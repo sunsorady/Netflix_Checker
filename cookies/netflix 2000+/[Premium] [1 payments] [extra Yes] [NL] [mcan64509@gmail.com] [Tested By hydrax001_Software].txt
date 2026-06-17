@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: M C
+– Email: mcan64509@gmail.com
+– Country: NL
+– Plan: Premium
+– Member Since: Ocak 2024
+– Next Billing: 2026-06-27
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31611203509
+– Quality: UHD
+– Streams: 4
+– Price: EUR 20,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: M C
+– User GUID: UKQBV6TQHVFMTGV25FDWP2MNBU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802015833	nfvdid	BQFmAAEBEI4pSOY3M3vocqO_02NvHK5gwXy2mwDNcU-v_khw3sySYf5pYCvlMbee9veKmLftZw_x0MTlKf6prkR_jEei6CVXYfkTAaTkrUY8K2SPV2tewfGwdS4COgnWAXwtxIDIReWvdThU1sBjIYgiG7JaOz8z
+.netflix.com	TRUE	/	FALSE	1805835007	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+21%3A50%3A07+GMT%2B0100+(Orta+Avrupa+Standart+Saati)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6422e637-cf85-4de7-b764-29d234fa44a4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770479831400&geolocation=NL%3BUT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807009181	NetflixId	ct%3DBgjHlOvcAxL9AzeFz7hwiyQf6dKd6DL8eI0ueYULDG82WulGMRGVmMYFheyTExOzsjM2nIwEcSjtUlEtZeVa3a0-XU_IvHPn7WBq6Rm1pCQiKBfD1CY8OpjXqER8sOLLUOLj7o1kD9S5Y4Nagzsqv8emjQr_Ft4HaX1BxH6osj0_VUBULa7NvZ5glxKoDHnw67IgfT3f1csbSnq-7rnWauW7L56jTaJg1hERpfvnnEKByoGUIzdh69qWR-bIJYiKXl1uUDsDd55cOjhuzeKRL77ZffH5o5tMaWKN7SjlMk5pqttjbNShjNRFcBLDSw_ubgDSsEAaNVnrYCiLWmbfr2UTtEpmPD95GEwRuxpygGGhAz0iqwfpKkahiXDbUdYdrzE4NlMtawsnN1f-2iSTzbQG_YYLljhP51LQrqidhDRR4XEjajxj14S5g9sAEwl-QNqh-weMYUbcQJuxuudwpKobchLuM1eHDLZem44NEIiAp1eb7VCuNtBwPhvADN3NsQcaq9XHiq4q61mDEHPrUVdJB6NiSem0w0ErfPawxRa6jBU_MpZViTDJfx2VUbzjG3gkeacm2EzKojiJiJ37lFyJNaGtchWLGESEP569NSrPVpX0i2D7EScBcM0Ss0RQ_1IXee8BNouzMp5whjuFM-6UHyD3zOAW6LBraPto0ks4WkLScdYsGAYiDgoMYVuvwvL0mQ26yBwi%26ch%3DAQEAEAABABT3lvWDyh2JUnGCZz560abLIPXoy8wonOg.%26v%3D3%26pg%3DUKQBV6TQHVFMTGV25FDWP2MNBU

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jb
+– Email: shyamboriya94@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2024
+– Next Billing: 2026-07-09
+– Payment: UPI
+– Card: N/A
+– Phone: +919624358859
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: shyamboriya94
+– User GUID: KC35AWYQLBCKBIVQVQOVBORH3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808732037	nfvdid	BQFmAAEBECJmAQTDfxpp0mtS6UI-HO1gjhOS-YTWg0ZrnJ994J3PZhFb84da24ATckD9bwFraH2Y17rK2IJlLNK79YIz4sxpUbHUYTqUaeS7iGN4udVYKbtJFM3bVlo6MKSY0qNzOxhiwSi8TVBiHbQBhm9BPz68
+.netflix.com	TRUE	/	TRUE	1810451953	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA3olzRL6Bv3Se-XdIuE2yt9gvVmRkjE7pnx7CzdI7LUq1IrTSVOFOWWBcMEl9yJf8U4jRm2qQpdtYq4C3WWWzWtiTYio-8XhGvbB3AC9fq2NzY6_mqih6mo-L_yYlV-7nhN-WlqzpkaELdSaW2d7bLcrGAkHS13g2jIc_8CT0ssU_Rmbk9p5-D3acjxpfkQBDkM8DfcCRqb8-5DTa14E1TYaKqU0VgFUcM1cUGpOXQoLYNGkmFogPrNrIQ-Hzh3pJWQIjPXAqCN2rnRXgnoqYJ5WfEzos8eXW80QBW9p2EYAQzhJdcmf-iSdlQmaMJCdHZ7xWCRRxBZHj11qnkABcOeo8LjTmCnXbLf2pWFaXTEEDaKHq4XGCRn2WxCk86wxU3yD3pjfHs55Wzvwj7mOsuby7OKcuSHInzfPyLUs4WXVPqJ8KC-Rz-yjD9_YTmkQnJxiC0923Bsu747Rmx-Tpik1piJ9KGiYyiO8LZQqH4bARM0AN5gCJ3qnQuWbZ2L8eBaX5v7buVtGge68rsE0iGXM9jmcP3AYBiIOCgyGMBxSx9KMt8qIxu8.%26pg%3DKC35AWYQLBCKBIVQVQOVBORH3A%26ch%3DAQEAEAABABRz3vuBCS4d9YuhH-bW6GoH6qrJ0H2ur1w.
+.netflix.com	TRUE	/	FALSE	1810451956	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+12%3A49%3A16+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=15bb6c4c-2101-43ca-818c-9844f682ee37&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810451953	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT-hpmJAAEUZMiVeTgHnrHywoAZ7IgPEuo.%26dt%3D1778915955087

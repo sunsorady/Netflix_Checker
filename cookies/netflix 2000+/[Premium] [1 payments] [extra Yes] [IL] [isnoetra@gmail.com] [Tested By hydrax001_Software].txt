@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anakin
+– Email: isnoetra@gmail.com
+– Country: IL
+– Plan: Premium
+– Member Since: novembre 2021
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 1654
+– Phone: +972523830968
+– Quality: UHD
+– Streams: 4
+– Price: 69,90 ILS
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Orim
+– User GUID: K2KG2T3F7ZDZRJTG2B2FAKVLSM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795367078	NetflixId	ct%3DBgjHlOvcAxKABEbvDr8Nzaq2_yW80-0pcfyVA-a7AnmngsLGorESen7DEs_2Tc1KPIfNKfRQ9764RF3u1GKVj1y9ViMqmi8T_kTLQM1daqetSutpwbZDLmFMfts8kx-t2X4v6QC1IklJWennnkGwhpzzNblpaImwGiZoUuuWTEqGJjutWHTVGkXY3iyaIPlH5NExcbHeplsNrfciRPaiEFs09DNHH4LJlNv9nytqWUMHb2WAQgcQhIzW65x9IGpTCbXedU_RHITLOHcrQqg0JUt4ntnSQGzAyY_DX-OFUhjstwYq1n0ZiVZMVzNGiF7grbDFf4D80fhM9dbaEr1RfoYCly3TMhdlyC9g60P_WykZIeG5zkv3udIt_mtwdhQFZ7DStvCEUnGWyrqggJX6TT0rSKduK-tqSuGhezFkuCfTINL-OuztQHLoL5oXBJflOAn-XEs1QjXzO2piAnz242GK3Sgw9K4_37a9IRWiaiY1BBEPiqaIPVCDuuHWB9xk1fvkFsabBar__z4emjgZcVD-gvTrkYRrxEKcqnAT3W2eYBOrD4ozZN-mYTTcRHuuu_h3IVQD-9Gm1DZV03s2iHoxgD62rENkmwKoH9pGN_9Rt8gFWj1JnkzXcicVNlUA1_hXq5s3q98aa-u8zEcXXkaOWi59VzGfqr4l1i5g2gIEpoDry0aqqLWBGAYiDgoMVVGr6DHxNBasCDTz%26ch%3DAQEAEAABABTmpdWfZccPO4dU_hRPFzuRxcNCyEveqFI.%26v%3D3%26pg%3DK2KG2T3F7ZDZRJTG2B2FAKVLSM
+.netflix.com	TRUE	/	FALSE	1795367080	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+22+2025+19%3A04%3A40+GMT%2B0200+(heure+normale+d%E2%80%99Isra%C3%ABl)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b3adc6b-94a1-41e8-be75-056b56b0d53d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795367078	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcjmDw-a7dZ_9F9TmIplAnz5KaC3ctAnk.%26dt%3D1763831138773
+.netflix.com	TRUE	/	FALSE	1795367078	nfvdid	BQFmAAEBEO6xUEnVONhZcYzjmWY5whdgE6PQ1DclwX6Tcftivdma0VZvg9S7k2Y5ibKPls9tEjTaC-tOAIz2gcOve9WDqFkXHcULzaXOlYjcQcQNJKs9xBnKKqEIsZWGpVONmDZ3JSVxUyPACfzblDUjzN4V0Uo7

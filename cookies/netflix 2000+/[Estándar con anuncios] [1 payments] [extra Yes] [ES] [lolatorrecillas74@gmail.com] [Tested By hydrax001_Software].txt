@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: El wey
+– Email: lolatorrecillas74@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: junio de 2023
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 5114
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: María Dolores
+– User GUID: JQM5GG5K5JCBLGM6BDZX7LJTQQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809185009	nfvdid	BQFmAAEBEB5r027DVZ7aKRctmfldSoxg8ZyjC-Vuu-abeX8vTqVnQBe3l9kJM_jQkU7E6PtbIEfaGOylNcR2hzjHFw-t1xtyCYNgqMr93sG_9wSpS1oaEY3vcv3ut2uYAL8fDAQSKOewf4Hphb-kEa2Xd0Ff3aNa
+.netflix.com	TRUE	/	TRUE	1811831449	NetflixId	ct%3DBgjHlOvcAxKCBE54A1SdvxBiaBSmjbLgE8ht_93MqXqpkfXruFE4fZDVzmCyMBkv03ZxGm_BQxWIb28MsZvbP6mvOB-ynZo6WMQmox7MJsX0Lva0QPecuy6M10j5FzPjPCajIgLDWXNCqB0UAYCN1sXN6joBGofY8DIv82EmDDq2zWiHv_wIuMlheQb9EfbkmDxTmuIxEYAHBkrgOxva8zgvArPW3TPkSXJF_kyBnh8VxhnsSXKw4dN0S6XIDJOQpsm4ZOElPkIzGLWP7dRqTmMDXolfzhaBqlNLDfwvDNgykTPNl_khE-3P7IO9Gu_xyJqHo4lGGCYW0peHNFDaDmQaUcUyTcACJM39bRo87SQ8b7qwZubH8bQzU9wKAPy2Fo3s1lFHfyh860dNKhqO1ntXfi_Ypa55USqHq-mr3Heb49sCbZDMht4DcTq8Edhb6KUyL8g4a4jnX9-Jy-DBS4HeozA0c4PxOCpRgYL0Ia37PN9ZRtw7QZeN-zfzml6CgnBilX0j62KmV_p5e8_5PBW-6YiOtdsjoHwbnD68FHhGjhmeSKhhRo3Paz39U72VCo1VTGIG7-aLw8mSh_Zec2_7Q3-AOcQxpw428riGxfD-G3DyzUi9lK1SVLOmsUAz-owEjX8B6RsSzTIs7ltkCs5cWxGMATTapgXZvfDEDEuzEsLX3XlmPqnVLPEYBiIOCgxd6I46vHhvW-DJabI.%26ch%3DAQEAEAABABSjMt4yMcw6yXvjiPAidv-dwv6uMAh5W7k.%26v%3D3%26pg%3DJQM5GG5K5JCBLGM6BDZX7LJTQQ
+.netflix.com	TRUE	/	FALSE	1811831450	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+08%3A30%3A50+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=08db7112-f079-4dec-8590-340c9ef3b25a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1777296175545&geolocation=ES%3BMU

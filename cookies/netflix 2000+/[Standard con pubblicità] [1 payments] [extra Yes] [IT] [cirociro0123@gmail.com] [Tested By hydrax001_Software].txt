@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ?VITTOrio¿@[€}
+– Email: cirociro0123@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: agosto 2021
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 1407
+– Phone: +393405205346
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ?VITTOrio¿@[€}
+– User GUID: YFZBD3Q7PVCJ5OLU2Z2NHBEIMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804768272	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA2pevTTAKwlqXAfM7TDX9Vw1248c_qK-86ILonmqx4y9QIEjXcijM5atNOZEg75g_G86xjFsLWGFhSFVmZknoEH6IaJfX_oUhnPDGExW_7_CouxnxVCnronHWtRSwmkyDvYvSZ6kwB46qc1DZLnQMNpTekUezu-nDSOhbi-3e45iq9n1msSgkBY4V0_KK18RcxWLYGkUSILE0xsmz-AtyFiyDMEncQ9CPrTdjWY9-d4dL23yJNG6LV57OOu6IPw4_3JsTpm8bunbHos_UxlsxgLsejSmA0nBiL-YYbC8dmgKy6PrtqZ2Nyt5Cq-NOsQ4mRb92HYsA0cKcJmpg6sdszmHmsHC9OgskVoE3wroFmJ2yLJS-p0-aQTi0BYEPQkDnefkFb4UvOIpxUc7RaMyC9rq0ED6WDxKtXs0qHJz21pJk2uuYk_2is_X-AgJPDjqJQxTiwDK6ZJtMkoD9Gnuypuvla1XfQXkr5YsG9BE-72OZfw0J2KAbap6uoht7tEyy7c6uPAiwT0ftg1jgaNlXxldG3wYBiIOCgzDt-zbkifqBmpn7gI.%26pg%3DYFZBD3Q7PVCJ5OLU2Z2NHBEIMQ%26ch%3DAQEAEAABABRI6yH1c-__HXirTDqsOZ_2eKbM8koZwj8.
+.netflix.com	TRUE	/	FALSE	1804768273	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+13%3A31%3A13+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=626c2f17-d1b8-4b1f-8acb-243c9b56115f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1773232170584&geolocation=IT%3B72
+.netflix.com	TRUE	/	FALSE	1804768272	nfvdid	BQFmAAEBEFI5P5MJc6gzg3zRaqv-sTVgKU73BzGCBCe50gNEoW330W_z_S6dUp7dQX_hih-Nymjq2HnkNTzqqIFdYL4mTRaJMQdily3ma1Q0T_xd2KrXNOTswYNvHtMG-Pmf66jrEIh5RTFC_R-4hb8ES_Ewv4x7

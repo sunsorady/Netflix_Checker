@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: zaiiiiiiiiiiiiiiiiiiiiiiiiiii
+– Email: logithashwa1228@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: March 2026
+– Next Billing: 2026-07-08
+– Payment: UPI
+– Card: N/A
+– Phone: +919360209939
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ashwa
+– User GUID: JTXAV4CWQ5AOZHMXSGC4LF5XA4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783056509	nfvdid	BQFmAAEBEEXGhgWktIdXI0UlWs9qX9pgQigfUVQ-Wlo1L_m0b7HolIzphOqelWyIXZKsixMGGjPs7EIJIJwzUbShSXUfs8ceIbPVDEnM6IqLV0ex6LyCoNpDaSTR0PwK_Db3we_w6Jy1-MAPP6WV7FEOJWdrNfBa
+.netflix.com	TRUE	/	TRUE	1783056509	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKA9Ejl_JNgEpFVYDKQn8ipnMCx86P9cZDYlLsj3L95RDfyaEoblmOKXtEeTS8yTZIvkCdFRtBsWJobBKqCppg1JpyfjCXx2SyjcJ56s7X6zukROgESqfdnV4Vbt_zn06jfyjYEOlfYDr3DTgg1NHlLjnoHtjoOFFWf_IqeO51xii_41wk-32LmqRXCCYoO9GIZGFbDqyUNrs-v1fH_4O4uPB6Bz4vfZM-HrAf90tEBJr7rOEfQwbq5qMSL8u24P7hw0oQVJDCY66fjS29omlAHbUvG84DBBBS_WN7VnAT3qEYj7mmYmv8avnvcJ2DnEFZXw74JMbxSH4056leklmWiZM-slfxzG1nL68WopiB4QBxIT1lknC2wykhpag_6wWf4jv2lIjQam8eR6TpYEluQzHNHm5pJMhOVl58B2P0YJ5FnGKWfjrdumZjBb2v48c6fQFMomYCDLt749P0BHHw6ynkylbnpwzaCd02JFtGILAsCQOLAi4mtuUFhDASVvx9sO9dDHzS6cNd_VMYBiIOCgw6eRTRbkrvWeV_uB4.%26ch%3DAQEAEAABABRBPznRO9mShRn-YHeFVQiank1mtnhgPCU.
+.netflix.com	TRUE	/	FALSE	1783056509	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+25+2025+20%3A53%3A53+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=088ff588-8e80-4975-beaa-4affaa82e434&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783056509	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWzjKs8CeMx-UP_xkeHgF_mMEM75AgiSM.%26dt%3D1748186630036

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Greg
+– Email: agula1982@hotmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: November 2025
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: agula1982
+– User GUID: 6J2V5DWLQBBBHO7CX4QQTDNL6U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802008066	nfvdid	BQFmAAEBEBJi0nNtItU9StMhfZsQ-sZgCuGI90uhumlC8BUzCcO5oDKv68E0qn3eSe_u2yCZBaIS8wJFHcECl8OLeDYsu8NIWfIkXSO-CegdQshgv2ZSh5h_Gg1Hy38gVykLu4MU3PffOozBW_BEfD3Jumk4c0Tc
+.netflix.com	TRUE	/	TRUE	1805711640	NetflixId	ct%3DBgjHlOvcAxKwA3hcngPlO4fBPia9YDk1HUzF72vtuubsboAcYXChakRx_xBlPr-gB06t3-IdIVCVmR1onZfutdmF6VhmSAlgCJkZ9QXSlq2NCl8XJpPA6_ny3S7EWZBk6BsvGfOkhgvtlhik-mW1jvzDohSJGSwwCluyS3RiGgsU_hKsAwzU8CiqrJCk_UTXpTbLePfX3t4q60zB3fCIfHI6pH_jefVMvlBlgwUxzEApfM-UGhvFKnq3x2MGd5NTVKFEpkiCKSTokOpQud0X9pLt6_LLiqUetYuSb_r7DvsDn_L3cA0n7gsAtFe_E-ccNfPoxRJklp4ReJsHEoB4j3ag2ZQ19G0g7sQrfD5FYEdLJL-9KmwRaJnBabyRiScfEQuVHydqjtQlYtkpfrOicPfjdVmuzzLBbUBdHvdqZhoE9-zumJ54XRlzULzMghlHuXNz1bealv97PkonCoGWv6kmHuuk-ddInAFBM4N6BjNSCNc9mxzboVil2lssgrkFPLdT__Xj68xp0pz8-p0CDX_iwKhDabQHJpeq8UtGs4pGP0oxVINO5FG09ZkEibbqqMZmXNqSVc59rBgGIg4KDEGk8PA6Aw8ry3zMog..%26ch%3DAQEAEAABABQvr_1ZUY-MS54ApEk4cfbTgC34Uksn_lA.%26v%3D3%26pg%3D6J2V5DWLQBBBHO7CX4QQTDNL6U
+.netflix.com	TRUE	/	FALSE	1805711641	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+10%3A34%3A01+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6360022a-45d8-4ff9-8f39-bd4f90ca1de9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1770471939067&geolocation=GB%3BENG

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JAG
+– Email: kush.bhardwaj23@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 8036
+– Phone: +918588083113
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: JAG
+– User GUID: 7HUBG6JXPVDCBFFK3KNNF6RJYY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784234220	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKA7jMTvcwioVX_O3cIFd426nE5BM621koG1-L1vZq45Sdo15k33Nej9wWHViiSdYFiQZjqCHeRm7AlYNGDy7d_Wsx2ltLaIpaDJIP5QVeHWS3sw8FP7OyHzGfMhVaZmSJ9jl0b70zd-dBw9WsxcqiYooHc-rrHHTzgSJibM0ivC3MeFYTPbZCuWiSDcBGSxbSOS8z-IX3TpJAKU4Wx7sGxBaBNO6PIuXysqvX-69oIJTHiPR9CshV3xsFazswyglCXX_KDntOud09dFC8M76ylNeCSqNSTzSclpu6oeNDihIM8Oz8x6FZEAztgYlt4gtqg2740BV6yC5ZmAZhA5CQbQwwe9d6TgkKcurzU8Pi6ArPIQZ-1zSydqvncgmwNetq147ECh1cMvasdQbXefFAkTyWXP5dwUucXt_QL2DmVYf1X0UO6muYPLxFs7JnuFJhvX6gTsjLeSOGtE2_KqVpIN1XSG7U4Jr7P5QelA2GgPAvt6_t2CxBzdttsRe9DxbDrvENZXgGPttNAlQYBiIOCgyeNgDGgSMVnAd7kwE.%26ch%3DAQEAEAABABTFMlDPeBkMhZW_doavJgpu4TkoAtBUvSc.
+.netflix.com	TRUE	/	FALSE	1784234220	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+04+2025+13%3A14%3A18+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e0223e9-885c-4a3c-8f71-1a7cc34801e6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784234220	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTTvH24TYze3A1ohzclEOYgltFIpbdkO80.%26dt%3D1746344657094
+.netflix.com	TRUE	/	FALSE	1784234220	nfvdid	BQFmAAEBECvcDsex3dtT3leDfjdxdbZgD-iPcwchX_wJm7KaRKN7URUPzJiaclQxFHm8zja_2phqik5VApXzFTrrO763NkGjeZ80Ruv65csnjUMlaOfdISrw1--VnR80FvNIxpCo9lfLpKpIqqKOSJ714PV9I-67

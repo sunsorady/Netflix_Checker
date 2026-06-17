@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nunizz
+– Email: myungnid00l@gmail.com
+– Country: TH
+– Plan: พื้นฐาน
+– Member Since: พฤษภาคม 2567
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 4060
+– Phone: +66944840220
+– Quality: HD720p
+– Streams: 1
+– Price: 169 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nunizz
+– User GUID: KT4W3BEH3RFP5F2CIOGRJCE33A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEPRlIISenbyfHqJMrrReUQ1gWKgglQZ8uiViga8JzIigbXJ9v344IaGPiVoKd9ihIGYOXwtHfYuf_nMxAgdBmIyvb8hrU77o_c9MIJJUNcP_PXrRkct-eyUgWEZFS9sGFC1wo2IxovpfVasErySHVHpE
+.netflix.com	TRUE	/	TRUE	1798520058	NetflixId	ct%3DBgjHlOvcAxLjA1bssOtdSCRzOJKxdsWcaznFqvJ1XQEiCwSUtMLyit1mH04-DINk660Tz97969iZISsynSEGx_U6p_TXJ8r4XIqd05BHecKiPSclNcW76ZbPcJ3BEyAir5EmNHUjfnrKYN8PXMTPDVzXUoEGJKUcnrEkNIqlSnUzscknaFJG-fKeDAcbZe-mTqhq_ZbX5LsTmrkKeWUWrMJGScG3GNip8_5n2ymWsmZxkiqhevCHeXSFplEnuVUyFF7sslR--28GUxqgWrfOHaE3dbqWDPMsA9prsddGmJDXX5NNPCDLc1o62cniTsDo2Si9AbXwMR3TVoyq557OjoLXyFMfjnnQ9302sXLM77whLx6q7PmZTUWwiS-WcBqk2l_uDsHDmTfbWDI8GApLcXNVP6tqexqnM0WXe5rvGntgeQZc2c5ay10d1xdPUhY5Ty0tDx1mfajeDb0SpvWGSxuOQT14IAIlmiCOLpk7wkPR6cbQn5B2JRjWyQAluaYSlLDNEl8Zz249Wxni9yl8M1iW1H6-g9_KtjcKmBmHkqyMVUXXNwp-DgNybJoWRQ_6p0ePT5Z9xbI6S3InMs54S5NolHLTA9MB-q4NhRo3MuypLn1oj5kAMjj1jRtBCTv8MUPS0dTpGNkOJKTPVhgGIg4KDOMxSdtt3RZ0lHXkWg..%26ch%3DAQEAEAABABRv3QSJAQpnC3GC80mIWKfDknYeZ_S3Td8.%26v%3D3%26pg%3DKT4W3BEH3RFP5F2CIOGRJCE33A
+.netflix.com	TRUE	/	TRUE	1798520058	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR6hs4oKyrYWoolD8pQv4rzYofSJJUKGVI.%26dt%3D1766984057744
+.netflix.com	TRUE	/	FALSE	1798520710	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+29+2025+12%3A05%3A10+GMT%2B0700+(Indochina+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e497ec9-872b-4169-88e7-7ff50c7b8e6a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hermelindo
+– Email: santiagohermes1986@gmail.com
+– Country: PT
+– Plan: المميزة
+– Member Since: فبراير 2023
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 2273
+– Phone: +351932474010
+– Quality: UHD
+– Streams: 4
+– Price: ‏17.99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jessica$
+– User GUID: PETXDR3ACZHZ3FMIRD4C7W6GCY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795464056	nfvdid	BQFmAAEBECBeFKbHxxl-osGB31zEq9Jg8NP5X1CA6xd1CUhF1QZkwh1pQA9CInLFnQ8npmUDsYl2kbJKxXts_oCJAPyAu3vqkNKntJIU5Y4syJR2yU6KkW2CGXUdfe4Dt6qti7hSaLPbfaiQpDkyu_zjcoWQzjzv
+.netflix.com	TRUE	/	TRUE	1795817815	NetflixId	ct%3DBgjHlOvcAxLNA7y6vlVSS-8Y7BlrwzPOvMQbgizyaWP_cNqJAByowm-01gABdXOfTo4xIZ-_bSs0i5aPpy9sJlt90SnQexN2rRaFneqX_m1IeJPqV2o3Be9luQSlD7X6VLlRUWIbt5eE18qHQ0vdtyrTGNwhxAa9un7XZ6QlSemf9vzTPiPiYdjkpP_qGNsHRhcIFU5bAMXJq38QEK5GSHRqiJG9ZkyixbEIifm1uPRvm6yKQB64iZaIQfMKaklNx-DVmtf4optQ787nCAFVEwp-4JH03EbMs7gnUfhzTkgZPHw6A5U_YEbs0mFp_m0c-qBn_86vWeEywdFKViyaa4lNbmEjwXzEQfGCfBVmF-mLM8zuwtsIchwrWVN05U248tt4WCOmhIx_hvJC42kWXFse9PS3nDvHfWG47OZzUuwvT4wuiMfkjQdLM3z5B7dv86KoGvGKQ71ssWdBfjB2Sj1u59qyOTYt7WzkBqTVU7Np0ykZUWZPvHzHfeKGOZ95iH-nrrmQIqwOoM_ubXNLnKT2b6cNB6l9v7Ptmpjg60zbQODK_pr8uZvyjQeMYyAKH-UxEPvF6MHNf6xxckB_nNzqFm7-3fCpyUK8Q8wPFaKKz0yk9qDuGAYiDgoMy52tqs6TJuL2qvyx%26ch%3DAQEAEAABABSw2TWwAN7Vokg6U6jz_B_sJTcIjRCNnSM.%26v%3D3%26pg%3DPETXDR3ACZHZ3FMIRD4C7W6GCY
+.netflix.com	TRUE	/	TRUE	1795817815	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7gVXzeFLzhprculUZCRzcgqxae-S7oKU.%26dt%3D1764281815505
+.netflix.com	TRUE	/	FALSE	1795819228	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+22%3A40%3A28+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=097800ee-7772-4c4e-9073-2c34112a5137&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=PT%3B11

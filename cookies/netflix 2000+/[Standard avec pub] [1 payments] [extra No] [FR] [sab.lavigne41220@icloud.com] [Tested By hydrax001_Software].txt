@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Elvin
+– Email: sab.lavigne41220@icloud.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2024
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33671667979
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sab.lavigne41220
+– User GUID: QCC3I7WJWZCQFB2RPM3JFIKCUI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809182340	nfvdid	BQFmAAEBEDyt0OUHNG3J9t4qC8iAmatgEGhkr_cv_iCcTiytRohyybLVe3nZIU0bJqA7nm86j4YJToioC6yp5Gjlz-M5Oe7wnP_TUegz6Whi0r36HM-9WTqe-rU4xDfuZbH10cpaINUuhSkdQkg_-0KK1R6nupPZ
+.netflix.com	TRUE	/	FALSE	1809543657	NetflixId	ct%3DBgjHlOvcAxKvAxcuVFOVSxu0QKqhzfMuDn3qhA6zutKrFn1R1qyxh9vPxpn5q8wo5gb7mwYgkekOCRh4i_nTSMMjHPAenYF_i0t4jsGxFPL4G-PsRxsj4L0IWrp9WPFtL3Uyer0bjTiGB3HgMQ7po6Vb3YWc4YUHAphuWy3cGP7GKLvqjRq76EDvJbJjdthg_MNyNScXWw84IlZKzWNk3ZrZE6NLNu5K_jer85Vetju09WmlcUhfyODFPCDw6AUBfRLfuB2MWWiKmbiDvAfDNr47mJZktFdxkkD2COdkt8n-iqp6oH7wzF1mkRNKeaSfTDMCxybasGhmZINfkDj_ZjDQOLy9ABkZZXlb_b33IUydH8juGLDt3kIuOg-xjhLe4-OlmWQw_FZSdF21y5ir6R3E4i6uEA1oVMVKElxRQde0gJScQL9yCW2xQkUjudPPR6c4eFkswRDeUrCc7pywQMIYAYRWGRvaGoMHNmPbLpx7f-KETNaUBf8b-o2cdoVm1Z5x3DCIhAYKyKLl9jz5Vlr1oWZpLCNPuJs8kaxRdaH6Z7kj_ZouDyIiNgErkXob4Npu4_vMclxZGAYiDgoM0og-b0xEQeZQL0yt%26ch%3DAQEAEAABABQ5u_f_Ll_V0zPkgIJm6vynlXOj81aXn0s.%26v%3D3%26pg%3DQCC3I7WJWZCQFB2RPM3JFIKCUI
+.netflix.com	TRUE	/	FALSE	1809543659	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+21%3A00%3A59+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=44a7a8a8-e5b6-4e6b-955f-520179fadd78&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1777646176427&geolocation=FR%3BCVL
+.netflix.com	TRUE	/	FALSE	1809543657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQM-IE8Qm5Z_7Ia7hQbyUuy_6NcRN_vy9k.%26dt%3D1778007657553

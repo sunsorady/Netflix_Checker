@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yepes Liz
+– Email: rilizarc@gmail.com
+– Country: CO
+– Plan: Premium
+– Member Since: juni 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8381
+– Phone: +573114943770
+– Quality: UHD
+– Streams: 4
+– Price: COP 44.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Casa
+– User GUID: SDHZAM4IH5G2BOGLEM6EEYDN24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782225371	nfvdid	BQFmAAEBENzE88-ESd9CGBIc1knBsBJgPnPQMWPDPsaSPUhZ26cLJBy6tl2ntnCLKqZJ--vJX6Vka4-_g_Y1Tpjbaf4RSlHuLsHugYdnsRJ9bUTdVk7gaMtJJm4N_TB8ddn--nSZLod6z9lZQgZRXpy0rR89IeUF
+.netflix.com	TRUE	/	TRUE	1811653158	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA8jiGJ3VKM8Zl9WK1V3slnMnA0mc5UUJ4ipeO3F54YerHx2CmyKTJZGFjnYLRok1CeSKaVLclNowuOdSPlIEGvOVLWMcameC3oFnmEM-1jjuH6AQivQpJ7Q0m-bEyoRZjG5qy8RitNdAT9a2U_kMqV9W-zHLkHLAfWtSdBG8LFZbXTmUKWtCTldBFKb3D7QvGF_EJNTl2VBUToapdZO0yYckT5M9ec_J5XGj7qQ921h1TZubnL98tX5BZ7fEd9Im9AxTjhMqJKMxWyyl11mJm_jBI9-mh_LA7BsJdQGSVTYYK2zvOZENf9aFIbnp7qBesGprCa8J7YGaZXcCsRH2w4UJww_6rYQEGjGHInk9qXgsBlMM7OIS8nGNQiR5TxyzQgnZRVu1PR7TMmj7xFFjQXBdWE_SsLF69-UP91_HYqRMNsFDDiR2ZvcWfTq71GXM2IXDKDGo5uPKARdgoMz6ZrI9nInPam8FMHb_nLvykMkSxoMBoRksmkFMdvwbKqKURq79kJzJM1g03RjsryUwtSZo9TzCtIKP3Osqc-lWGAYiDgoM5k3EkbK55ra3P5U8%26pg%3DSDHZAM4IH5G2BOGLEM6EEYDN24%26ch%3DAQEAEAABABT31rqPiyFpl2OAmOLYWQDa-00VwtZR1fk.
+.netflix.com	TRUE	/	FALSE	1811653759	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+00%3A09%3A19+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e65d4aa4-2108-4588-b9ef-c75db7647aef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

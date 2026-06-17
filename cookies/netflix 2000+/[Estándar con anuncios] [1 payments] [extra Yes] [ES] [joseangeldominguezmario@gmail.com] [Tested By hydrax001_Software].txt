@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juan Manuel
+– Email: joseangeldominguezmario@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: abril de 2021
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mariño
+– User GUID: F5X6C3FLQRBW7CVEKHUIYLI2MY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799617808	nfvdid	BQFmAAEBEHNQcxmNBe5Bl1KG2YaVx7dgMFIo-JgxfLq0Pob60SprPcDZ9he0Iy0W6V7mqFMelz-rEpVQeaFbD48mQi0LEeqoMpkJs_LFLq6BNiPWz5AHCHWTkXAMdIFwW0RNNRo9BdUilYxmZVYtnlePaxqAvfJC
+.netflix.com	TRUE	/	TRUE	1811340329	NetflixId	ct%3DBgjHlOvcAxLrAwtwM4OQS9l5cGuZaZhn-lc909ulJpjUniBKG4usYHsD2AeZmseOs8vNzB33XdYAEKQJOYmZjbUCt8ibi14L4EVF5x0BIpgF8BUHbd7TNunBsRhf0_khAW20c6rZ7hBVhNQkTdLcUk9eyVXLoiVCtVsfMaTByMvQZipgO01BoZLCz8sM811xmoLnXSzRyGrl9OOpATUBRxpV8ATBZ6NJcJkBPDuLD5_C-BMcNTOMkYvMRVmaelneZJlHcKogNi4Po8CdLw6XdS1hQtneN8geOh0x3GdLKE4M1kKrJ1YDr2MAr3T65HBUvbE5Wi532iHmTJ0RKE7QCYi_bg-tu7uvcTkoxvvSEsb2dyuqeGQhIbBsN7MaXVf6XtM6bcfFlKzMYq2s5SDSP7wRnAl7YyE8lt3CUTSpHxaebhiplDGpDsdenM5YyskUc4bTrMkkun5axjP2vcmbSravIdJQ1hCqJMe7o3su6w22unesZZlU2K7nPxifJYCimUB_iTsxtUXuOmAJG7lH8k5qLv03cBRyzQwrAKoFeRNDFmBi6hqg_CIwI6rVkDTUuN6xgyxrrvA2Y2LJQSpaXYwKHAtCDlENDsY4B8LjoXdEyVA-IqmNCeelNt45mR6scHQapifw-OWQbWGYxGm_dEqcL9sPGAYiDgoMd86_ViIJ4hJaIjJ2%26ch%3DAQEAEAABABQdSutEpS5UwE518fWE1z1NWcwraROYFZI.%26v%3D3%26pg%3DF5X6C3FLQRBW7CVEKHUIYLI2MY
+.netflix.com	TRUE	/	FALSE	1811340330	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+16%3A05%3A30+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f60bf6f5-d5b2-42ca-b4de-9d4b3069b2f3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1779804330899&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0&fclco=&intType=2
+.netflix.com	TRUE	/	TRUE	1811340329	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKDqUgZtJ2pgygoR_dOMJSPvuG776U9g0.%26dt%3D1779804325335

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: David
+– Email: echarter@hotmail.com
+– Country: TT
+– Plan: Premium
+– Member Since: September 2018
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 9989
+– Phone: +18683490012
+– Quality: UHD
+– Streams: 4
+– Price: US$19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Enoch
+– User GUID: L64KIBYGKZDN5KXVFPRW5TVRWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790948224	nfvdid	BQFmAAEBEEMNvv9K6mgT1pDU4P1sVwNgtJ73oSujZ_uD4xpzpT7N1MxIBJkagl_Z3Lbe4YclQGyk0gp8ErRK2oHPSTER4V2PVShYgftiXpqkraciuZzKTVsE7dkNAyvcUM7RUdk2eQRRhwWeGJnLk5E8IyrCbHPt
+.netflix.com	TRUE	/	TRUE	1795957252	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA7ECdZFZthrPLdp8wIgYe5mlMEFpr3sVpr2cDhCfEiQ8O6J-EPY7ehyZsA39XjGjmu8Lc620s3xueF8fwmllLA4ayjq1GpHWTu-SIRN36K_QSUv7W4xOClXTWJ7qoCZo-caU-hjXYS2jmTh322-KFCMEruqkj92opgXMLM42lKdwPV96_iRpjID3QgmILg9JlDYMoUdUx9j7swg6TwFGMoEfrazFe_fEbmfhHmbTl4PLhPOxiFTVVieasagMaQFeqgtX02LnyJoDF7hiOtq6ImulCINYfC2PBTOhDWcqGGm3Ved9N7HnACrNZv1L8ARw6NDxH1wlWW6Tb3tQkoR_pHZN9ekwEmfJDdhjBC8UZg436xaiJ0b0BjJyrnlcmiv5pFbfThm89UjYazl05VuY7P0atWPZ4uFfFM3jPlB2C49zRc8_2p9UlsUqFZ2M-lX1ushvU_iDjD4HtcDcWcPa0aV6iwVOoQjbVpqK2wJjCX6X3PCWrV4ugq2nFxKpd8P52cXcNIT6EBv3vaGa-K0kcgJTGAYiDgoMVYDSwcJdmpOdDlp4%26pg%3DL64KIBYGKZDN5KXVFPRW5TVRWI%26ch%3DAQEAEAABABTutGdQYGKIjH2Jz_QUCxbcU3Tea_bxLhw.

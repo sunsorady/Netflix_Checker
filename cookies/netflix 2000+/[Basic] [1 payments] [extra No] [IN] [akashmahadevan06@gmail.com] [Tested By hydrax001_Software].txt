@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Akash
+– Email: akashmahadevan06@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: December 2023
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: +917200530723
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: akashmahadevan06
+– User GUID: AMOHY2TRHJHIBEPVZZGFRTAJL4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807350872	nfvdid	BQFmAAEBEJgNKJBbFmnCzJcyCw0kWy5gM1sMfW2wrWW98CznIHOnFvoz7RIAYC-qN8Y2goY0UkKob1ev0bL37OB_zzZfcBBbbsDJ29K9ZQeZdEA6yt277Tm-U_IFIpgzQSCrFAyOIL4okHGYLeXRq3ToX1G84Q5E
+.netflix.com	TRUE	/	FALSE	1808561827	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+15%3A47%3A07+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=569f326d-a66a-4482-b35e-724f82a69efc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808657561	NetflixId	ct%3DBgjHlOvcAxKzA-f8_MZkHwWHk3FQYWDgmMAoywdy5jCrRQWhFDPJ3eq_CJIz84COAVpe95C-0ZIdE0m336t_lQHF-5Y7bgaWYRm1BlAZg-z49g0Vzw_5uU0tSq1jgQYr26gCeA-J6AGPcqn2QQN4_7gyU--ivl-bnOf0XzxW1KYMtwI_5hjyKPgp7ixWSzb0qFTAiE_vBwt66N1ZB2CL5-7eY5ZLiUydSb0-PF9zvKe6dpzAU0vSC1kcjp5ZUvjSKiwU4TFM5WiC-oJD4rY7esbaLYPCoQg6hDwvVTy5cWFmE14GFxfKWpiG_Ysn8NN4WHlf1FeNHlvUfnhfMGLO-M4MF4z3Bx1WSQD4mfsIqirnsmeZN3PqpjDKNoL0eGzQIQP7GkUW9RVAyCKamIrrenCKBXrEWg_6CoMrYFq8OLWAe1JwP0EFTQsREdGgGcB9uGQ3Q7xi2FhdWXdX2ePQBKiLMYkAUaqDx6hmUBdSzpWQ0JDlDrrYiilPyeAD3rzNPsW4NAdxuFryw6Nz-hEfzixGPwaRMYBLNmoVbDXzvLcdcYed63ZAHiHDe8MHSA76zisOwGDW5uUgNR-mKBgGIg4KDOc-gwDwUgfq_uF6Hg..%26ch%3DAQEAEAABABQ3jkoJ45hQwr4G__gnaC4E3-e5u65XUfI.%26v%3D3%26pg%3DAMOHY2TRHJHIBEPVZZGFRTAJL4
+.netflix.com	TRUE	/	TRUE	1808657561	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLMB5iQSPn9j_8L0tlHTZ9iMj1M-HmwRo.%26dt%3D1777121561395

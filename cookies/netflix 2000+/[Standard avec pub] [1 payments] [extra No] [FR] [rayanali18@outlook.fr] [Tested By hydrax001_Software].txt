@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ismail
+– Email: rayanali18@outlook.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2025
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: 6766
+– Phone: +33744107763
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rayan
+– User GUID: KCV3MEFDSVCLFLOTR4KMYMAHR4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808866848	nfvdid	BQFmAAEBEImbe3qZDH_ONfcWY6vJTR5gYia7qK4e1530dyhVOzpEnQoKM4ZtAHivab0rsXTEEiceBqmV8_mzT2e0RZlqoBkz8XGmyHlUTFT98yM1WjGOfpeS58DxeLGS9XmE4QCJ0e0ijE159xO3jiWMUjlMzT_-
+.netflix.com	TRUE	/	FALSE	1810770015	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+01%3A40%3A15+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9b3dafb-cf1b-43c5-a011-3e21ac39e130&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1775941558645&geolocation=FR%3BIDF&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1811251100	NetflixId	ct%3DBgjHlOvcAxKCBMdH-0n-oYF4dp3VhiqRjrc-krnSmf531NGSsHdRDrPvpo2iDICljIsLgEJO2e6sNWXTZizoi2mSR4tgNRldeOzFGL0mluVQLwW9YfWK4aHVuIfVj3RLf26zBZULVh8el9Khg7R_z6Gw8cy77vA4cJBQdyVFjoeKCnkexhyhTd5flvgfaytzX5KIVGdbO3-jnFl4w8-nHsjcoG4W6jU2_HAsungper5gmSLmO9HJECbZR27RsNm2f_hAYCezs6BkPOXJT5UJ-ECSta6uGt6-eUtTbdsovB44jHEyNeNYFCBvDTA8C3t1taqEzWc0LBBRrplthU3A9Uzc5yHrqFwOnNlPWyUFmD5rFj59TreExIv77cBKZukY7ozllzudLZLxCbWpjYHq-5RCItJL_zcgbd3WSxqKAEOLO-bNHNdLbGV4YqATwph1pRLE-0bF8pLx6DDjk1glEnzZp7UaiFP7R-6WVyqDjKKEflspbaiAHb4QxGtOY_Na34ERCDZbu6rx4zmcu6XQcryMZFcyIc5tF8d77QZhyqMX5OYD_8lxFU4V48L9WKmBgERjL8Sz_r1sNTc1imcsJ0XSOMC-6c-QgqQBU_Aw4dA3cmifMv_LjUKz8rXMV1R0ODeeHmo47SYU3O-iqnE1EyyUr9uHoSnBLFNSpYweFBkTGh7sAMt6pt5j8Y4YBiIOCgxy2Z2zqEcPmMvhTNE.%26ch%3DAQEAEAABABTtjWDc1uEgA1Tfp-G9unvSL77iY-7qako.%26v%3D3%26pg%3DKCV3MEFDSVCLFLOTR4KMYMAHR4
+.netflix.com	TRUE	/	FALSE	1811251100	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuvy-Eq56QsXnTqD7HnrPf8AKCectu2VQ.%26dt%3D1779715108317

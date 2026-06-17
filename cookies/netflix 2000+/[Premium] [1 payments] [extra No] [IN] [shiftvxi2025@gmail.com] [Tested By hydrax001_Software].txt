@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: error
+– Email: shiftvxi2025@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: January 2025
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: INR 649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: error
+– User GUID: PPBPA2N4XRELRPMSSL6CLIHOIA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810616732	nfvdid	BQFmAAEBEKCYL69MDYRb7lxKCSFfDN1g2tB7Xn2w-a8q82PgR6ZZKxE-lHWuT75Gafe6YMMYCfprD1-uuYUjskHa0o2cYT1YUILDWjUKeuD5ANoRHIpZvD0QqH_c8w8KZWDrXRLy0i5DaLuDTVRZq-u4283fRjnQ
+.netflix.com	TRUE	/	TRUE	1810876013	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA_YWz9bL80iOVqIhm7_WQn37jQOrfl_hy1FEmYLGHZF0TMPF2aRulC0-drE-X5LjgSYku8g91UM3iEA78UwmEZbZFm9fC_a7Yl_yYUTjpDE7FssZXwVHKZ4BHL0tZxUYX8Q9OmkDHakLvhPz0lS6FcteaGeXu8CIV1wzpK2cxMkQd30rRMCCyiSj6tY4ALHEalj1hTtR3KfMDD7o09K2TjILGiWDlWrxRzb3fbo6BovsxniTyOYdSP5GUmFIdMpjYmJusKn5WP0CVdH8FSERecNEaLrOUAWVX0SZ6_qEY15842s1z6ZFePFFqwlj27_yaVNbjBNjgy-GJRGdrHbAXiDO5y9WLw2ONVtFAeMy9RT-GUk_O6NXU-Tr-rQDX8IAf6gYBom6Q4QuMm6uX9iQEGh1WSMdvjmmPYyXcFJJZlL6cMxFs4vZ1Ns3E6k7vImAN-JQVIsM3_FVOJAR9b3o7CsXx1_y_qy3c-BFXr2aaA14nc2HtQcuCg-rGKtUC4tW2vG3kAbj0zp0FuKQscB8xBuhp7LU0V4ISjOHGAYiDgoMLEgwnFuA1Cf9mRoz%26pg%3DPPBPA2N4XRELRPMSSL6CLIHOIA%26ch%3DAQEAEAABABToZPEmlXi1vC-lxyRXLLRRF80EU1zXOtQ.
+.netflix.com	TRUE	/	FALSE	1810876014	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+10%3A36%3A54+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea52e7df-a6c0-4436-ad02-6dca3f3c2718&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810876013	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRVdXnOTPGN_9UZuuy6SX__qPlnkOVHyFM.%26dt%3D1779340002703

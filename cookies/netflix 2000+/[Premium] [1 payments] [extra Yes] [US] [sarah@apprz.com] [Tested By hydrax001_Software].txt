@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sarah
+– Email: sarah@apprz.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2012
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 3205
+– Phone: +13034826315
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sarah
+– User GUID: PEWKG4T7HBFXBI5FGTMPZVU3TI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807839473	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA-3zoYbgNxPfIF6LkEATjYX6BY0Dczwtj5-p4n-V-pWOgoE_FXIqJb_yy0m9F6PI-qZm-vMO2LmvACykHA3jF4hdBwULMtmsKIrFlNy5ebJzq0QnR1hQW7i0wk-v82xLTgiL1-SCD6wrad6G7z54VLkXmf_NB2m0yk10OBRG7SdcLPp6UXhAKVLX0CLZU8yJC-NRzbDQglZHM1FBwv0yZSwt5Api3X4_3ImwySHvrIWrnWn2mKubQZmQN-Ros5XDVyIEdPtChk3K1TQWtQ8CzqN3oD9AZ_DoXmhpDlZhPMZarBzSkF4H0agsey7qCzG85qWn7gQJITbs8t5IAljI0oc7FVkzzotfs9TOJH8GQz26YCVENCa-u-yLg0HJsEK5SkmcAYAQBsd3hp4W-dGJXq8iuUitLLlrUlR_IK9dJJfm-Nv-7wL9MDS4_gXOkZarxp22JSdFEZePXSWauv21UBX3MC8oC86BDDC_pQpHWDt78rptvFGcZuF07smV2L5Em8uFBv-9HlQg4CU_rD5DeWORFrpHgE6xapiYuOgOOH4_7tQZMhgGIg4KDOXkNw6pRaUFfKXyag..%26pg%3DPEWKG4T7HBFXBI5FGTMPZVU3TI%26ch%3DAQEAEAABABQsd6FiEtQODff-Tv9WURKbOrsNrCeQcXU.
+.netflix.com	TRUE	/	FALSE	1807839451	nfvdid	BQFmAAEBEOodmAcCwNSQjTLugPPio-Rg4_CMMmavki8K69ud4RIP_KEHKSwl59BNw1tmEVczDuraXPx9XNi0Z8_Vjb473cI4vvF5cpQwsYv-7mLsCKZmmQJiPD9hRnVvHmrec6VFC2feDs0KwfkTzq_Bnh4Fiyor
+.netflix.com	TRUE	/	FALSE	1807839513	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+19%3A38%3A33+GMT-0600+(Mountain+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4b86c53f-11bb-47e1-a4a5-329806ebd35f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

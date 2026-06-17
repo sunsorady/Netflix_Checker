@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dee
+– Email: larells@hotmail.com
+– Country: AU
+– Plan: Standard with ads
+– Member Since: March 2025
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1069
+– Phone: +61405018586
+– Quality: HD
+– Streams: 2
+– Price: $9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dee
+– User GUID: YQVAGZADGJEMNENDW5YQNNT7XM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789119099	nfvdid	BQFmAAEBEFbjLUn77fIyS8QUlHDrkrhguxFPDpss8Af7gd6ePvsT2IAHunBcfEsDFZ67Dh3B-d27DaXDIiNtMh8-j3NkxpKqGrosQ1HIX-pOB6gDwb5Jjwy2jno8emg47rWBKQpBWk8L4CBpOL8HhKR8T6wMUD2I
+.netflix.com	TRUE	/	TRUE	1807519477	NetflixId	ct%3DBgjHlOvcAxLSAxfzpmAdbj_j5xVzDTr8agkqmv_aFrEwgxNpK9DMKSNxujX9Y0P4A4iTC1yzPQHfp6v-4YYIAKgSjkw4NWAVIpsv_bWGxnX3KfHK66IH5iytbAYBcpvpaT5mHXl4g2HnVTn49FdFKsy0YdRq9PfpRZQkTucb21UYQXoLCGJMQOqfIcgYUG0ZB6cBleWv1KYjy772X10lfjBNiG2exiB_jN_jCzt5X7BLNMqoY6ojOwlha_mUz8qQG8X1p3mhjpz7INygY63swcw70BD06vhff0UdKWF5betj2Ak772AXHduTA9r1kI_MlD_tvVPTDqswg9aAvp_7O1f5nczPa-m9qDYCPdRHhq4tRh05r0eYxgUN9-sQl6CCeT1AHa_80IstYpnyrDA0vU0IJf_63Omx9U0tcsYUFTIE9ePWBJPztgot8MludZYpqDbWAhmAgI9zWQlT7v1lP0XgqWgzP5sV1J2HYZpNZOQi7mrJzW_BeY1_4CLih4rinNhyKAhSIzQ9Mvb9NARYUGqO52gQpT_0uiEh0afbl5C4fbrsU8IIrxdbZN0zHA6kKfI8D06ZiKsf1XJnGpbx5S8M6zuJW0r08TpVyJakuTVp8Mmias0igE6Y03EYBiIOCgzU8QupA_9fW2zWJqk.%26ch%3DAQEAEAABABQOcGFIShQRo8EuJCbmTRRwckfQFDW6xh4.%26v%3D3%26pg%3DYQVAGZADGJEMNENDW5YQNNT7XM
+.netflix.com	TRUE	/	FALSE	1807519477	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+18%3A44%3A37+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=1ec1bd31-68aa-4baf-889d-e31fa0e5433a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

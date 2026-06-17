@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jimena
+– Email: damena70@gmail.com
+– Country: ES
+– Plan: Standard
+– Member Since: August 2024
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 4985
+– Phone: +34659685509
+– Quality: HD
+– Streams: 2
+– Price: EUR 14.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maria Isabel Salas
+– User GUID: IY3XJ22DYRCJPOMG463XVHFEPI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551685	nfvdid	BQFmAAEBEHdHKHmM33xEW_r7v58ePAhgRh4lqqLNqASJbAdEvYP_Nw4OU6YvDPMqE1Of3SbOW-sjq0VVnOxX0NxrCqVDIGVPoOGBji9iECsdSChCESzFGdrY8olL_bVpoeGZAovO07hvnXmp7SXTymUTt3RQ18fm
+.netflix.com	TRUE	/	TRUE	1783551685	NetflixId	ct%3DBgjHlOvcAxKOA9FBYMJo5Tdi2ZBgJXDAZHma_rhnkAv66vInKVzRkXFwZFYjGxOP05ddVWqAJBJ9iEEPFRv8Aj78KHgQxDxEoxN78eqL8Px9iMM0KtQZGtzcUtTL66gTPfkGERj1ppMQKYJ7EnHP9oxGlOBXru71gnKjiA08UqKJJarZLg7OcVfJJHygli5q2xjSy3oUb3wb3A0X2fUKquUrn-sNjrEbr7w0bBhyvCDTubdl5Yac_YnGAwj6RkYKYUhiTYy9c7-L5CLT5xNIEu9pdOCLlY4LgcHyPAjZIslqyO3lIqriDhrDJMuhrCGOgByLXDKcQOVAE0hgRWJl04DdW9mFGUOIxp3I0tBnU1sQvsg0n_Wg6CPUjH2JzGtHTs7wBPQmkv51ymwU8YsoGxrRHfubCkJgCcsN1KZ-syUqOPYvpzwG97rOxUyL2AKlH0qC8SbOT36_a0WgIPiO1K8V34eMCnwgN5cPd1qHgS2bJB1tFlvzEfVqk1OWMk-T32zHBBxXslgTsKsdh87fJ-FI1MWy7h6mGAYiDgoMHQ2LKguD33Mo7KFI%26ch%3DAQEAEAABABSY-IXXw1Sr6YgqP9fUmuutSBSfX64KmqM.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783551685	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+15+2024+16%3A36%3A23+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5e61fa49-444a-4041-bdca-0501d6e82324&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BMD&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783551685	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQee8MWKO998ncvOuKvNTettPT_4hR7oxY.%26dt%3D1729002979285

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Youssef
+– Email: yousef_2003@hotmail.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juillet 2019
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: 1272
+– Phone: +33608137667
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maman
+– User GUID: I3FR5EOMIVDNXMMI6TWLK42ESM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEH-PEaEXXE0CuQNC4g85J_xgmiQHyDUFsPDqO6uStMCPn2-QSFV0myc7OlzcxyAAulQKJ_XEPCP8QQRsx57ZAugI0qQo3mZ9YEbM1VlSW_rBIKvRUGzGgLrHR8Mchs-EtByFNxAMQCftGVCtGg-XtaUv
+.netflix.com	TRUE	/	TRUE	1783963511	NetflixId	ct%3DBgjHlOvcAxLoA5ulTcjjclaiKTAAJTDN5DeF_p3zc1puyQre1iPF4VWibsmBj6xLSMknQ3Xs5yWgtvRBAUo10NyO46RehPCMI8jRURNQ6R2PfhbJDYLXtAiZlFVukzzMf15un__7LmOyniProcW5x-7pyXe_JZFoMzYtD15q192PnuUuJTAWj2ojGYiTvy6CHfE3oQXKYByjqUaDeD3HbA_plYJsS2MhaR4s4e8hn9dSnCH3Z_sjIb1Ej2zD8l9Mz2bxgVJNSZ4_G2z_blkHuFZbqgaRY8efmWekDUFrdkSNBH0xZLXeulIYcpCs6y4w_IBWe8zebbGzcXIlfNVwmfbTeoDtF-1J-inJIl3ayqO0Ka4s1Z-2G_59PwKYA5z2rxZKkLDmqfUOdbSTm3e2glsjiZ1WD-rBTMupJVeNXhiV0rIx9qizkA146Ijk9d86CH269fyWBAYOY1UngmLv0ttcfkm2VrdQE8SeGDS006afiVk0eeM1zJogqIPdPIauJNvV8AAzL1MXZCTVNlgjrKs141yWuTUsvP8THNeJyhHbdK5QEJ9g6uSkd_WSBgOLJsoR_1xSt_-hlFKj2pJE4JVTKvi2C4n03v8YNR_IRS9F4ockEfnpEhQSL71Sx5IIizjXV2N1ZVrRn2w3VsLlY38CGAYiDgoMnZYdDkjfGPNUmJlN%26ch%3DAQEAEAABABSc7ZWc0YwXX_qxmbBDZ0mvFe0BUtIMuiw.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783963511	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgVkczYUWt4rjMtqfv5UGvWGP2VnPqHgo.%26dt%3D1725624528641
+.netflix.com	TRUE	/	FALSE	1783963511	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+06+2024+19%3A29%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202407.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=a9757c7e-b2ad-4b7f-8875-ecb780ce167b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BBFC&AwaitingReconsent=false

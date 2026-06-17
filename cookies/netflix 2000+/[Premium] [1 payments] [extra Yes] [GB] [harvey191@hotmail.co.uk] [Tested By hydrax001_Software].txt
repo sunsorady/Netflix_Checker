@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kobey
+– Email: harvey191@hotmail.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: December 2019
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 5241
+– Phone: +447947932428
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lara
+– User GUID: S2ROLHFOQZABZLBROXJINNGS24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797531159	nfvdid	BQFmAAEBEFUW-GKixIfT_HphO_PUkwBg2Gc13eS7DTUqz6a0lSkidx4gtf1FaO8v1w4RFf4Pc9ilpIZzg8HQqxNs1ZHU4th5hR_qKg-a3eaQQOuN9fvX42_sZhnvkpLGuofxmJmtwcBxaP-_BFD2kVfGxZGomjBf
+.netflix.com	TRUE	/	FALSE	1806834245	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+11%3A24%3A05+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f3d3bc74-e3c6-4990-a808-0ff186e34743&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806878242	NetflixId	ct%3DBgjHlOvcAxKFBMZP4SfQSKX3996hxGFoaoS7fW6sMZkZYRWjMurcSu6FMFUxlmMD7IxNnQwZkB1vph3vXn4xo7mrJjVCGwDodvieWgpngtSxTSZvMAnj5SDQsQZ2ypxfJg1NvDvqL4D3ze0Ae8K8YIMfmxMBnMXCmsFwTfQbJ4lVQyrC2CckOiAZF_Kmel8FozNSbePz-kYZ_Oe1rf3O6XFekLqTaCgJ2QLKoJxeJMi8r4bVZF44MrypVpqTk_e3UESWBs60TrzVH3ukJTdGeWIBRTBIwa23x5AZuFrhsq6aMdntBbRsKcu1vuU05FpU3Q6juz3BsagbjtzZt4BmQrpLmtEnpnWGcdDVINLvZfGVOU_CKv_FLMqSZQCBWzJI8PKJAsFT-h8Ebo9rI-wZKqEmpDGHho4IMbanlTPfL11oimx5by4PeuUZHr2ooK_9J2auSAzCAfeN9kqLNt13CKjm_hzeiG_rjRYSKCecj4u5_SzklowtmehO51qwhl6VZgjy0F5ct-sNc0LgOSAqoGihqgFvSQsnoK8_0CbV2RFs-aticAubX3vycaDgMnr5oy-yQJwnzYjoP9ziKo0AmlK1AGYvDlOzNC_tHMvuXSN33Mi0h4R3tlTT1lnnRIejykqDf-1D-e3iIkZrA8gjYXIAjXUeCzwnjqqp9QLLQBSFxqjo69eU79uNLadCUhEYBiIOCgzRZQ9qGvylZrghozY.%26ch%3DAQEAEAABABSLTbNvb-VT2DL2iQ4t7BZMfLm4AbRVDHI.%26v%3D3%26pg%3DS2ROLHFOQZABZLBROXJINNGS24
+.netflix.com	TRUE	/	TRUE	1806878242	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnkGm7C6PqKcb7nvpRY38pcklvscnv8hg.%26dt%3D1775342242593

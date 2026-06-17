@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hello
+– Email: npetravic@sbcglobal.net
+– Country: US
+– Plan: Standard
+– Member Since: July 2016
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 2017
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Norma
+– User GUID: RIYOHCY3FZAX7K43QPQQGVVOIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808084567	nfvdid	BQFmAAEBEGAgO2kMA1Bq8rUPrgxNBkZgr-_XNEiLp2JBttqFa5yhcEf-OYFjSL-3THqyiL9F5CBBA7yj2wm5XVQFi9yni2vNwV03X4Fi3QUkpxm0ijfijr562TjG2yTxq9eA0bvif8Y9wuPbkrWkxcZyoZQm5MDN
+.netflix.com	TRUE	/	FALSE	1809979179	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+15%3A59%3A39+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a0fb87f-6b2c-4d01-ba48-c556d37373e7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810111046	NetflixId	ct%3DBgjHlOvcAxL3A8Aom15MomOvTwzJ42xuM93EWKIFTahf80TBT37OSZcyXpOohiDWbjHCza9lzKzCPk9AeOVw9sBhyrIRNu5Yfsutp6dRZC9Atg4FnQdSgqWUzusUAwphcEk7sfnkHl40xYHbYg7SYA8IPb9_zwgSZswEHSrUVybM6pTHOWNQQF1iVZ7mYPLMJbmhN-fPJIY84ejhKZ4-lVuDuJqUoSMwv6xhOqe7r9Comu90lQ1NO5AWojhaX2QN7IY9NMOaQVgELAPFA0LJnQPb0MKGH_pclWO6-FzZqbLAmQqPooeNs_dirozoiVEiFSEAc97uBLRbkbBDxfThfG_05kX617ExuYgU0MbBuNLwWnfrFEX3Uoudcs1XMSipKddo-V_KmyImmxtytOCVM_PLoGRASGJDb2uDjJbGnocopbSKU1Vf26WZmrHB8VG4AIKF9v2Jl994qpMXlWLjz8p8PlTtXRP45x-FEz67QUqoy-elllcbkXbupr8RI6joXqlvLbxYR4Py00bdJrV8Zs8ODC-1EGCcUyUnZqZmrc8JmgtvzKQA1ShqWTEYe1c6Nhj4bC_l2C2LUD7EDzbjj4oMQDvTGIHc1R29fMGT1VJuJNcqYK1UNFRxpkYruoZFIZ79P_Hj7fT70B2oM1R4kqcjgpqqauWxaGPXkalKJoYCGAYiDgoME1WnN83fPD9-ODlo%26ch%3DAQEAEAABABRjlw-3Vi8W3Vkp3NY9I7mWErhpulIj_kg.%26v%3D3%26pg%3DRIYOHCY3FZAX7K43QPQQGVVOIQ

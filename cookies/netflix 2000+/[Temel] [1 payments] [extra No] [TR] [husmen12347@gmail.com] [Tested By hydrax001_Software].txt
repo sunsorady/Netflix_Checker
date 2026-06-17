@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hüseyin
+– Email: husmen12347@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Mayıs 2026
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8616
+– Phone: +905465331304
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hüseyin
+– User GUID: RCR67KURYFAK3NLJFDDCN7GSPA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801164092	nfvdid	BQFmAAEBELHq_cRLNPi_4-bHvbUQov9g7GSX7aL9Wvy14e69XnrPIQMCmisUIgJctsGykkUeWtM0RsMXMIGui_3-Pe-vOC0nIdBgB_TkWnP7lAxvei_sIVxZSWdLKL-48POWow8SsIkhkuaoc_fTwixDQPtt7OE_
+.netflix.com	TRUE	/	TRUE	1812020092	NetflixId	ct%3DBgjHlOvcAxKyAzeTo2r1VdVIk9-AKVceb3rXAgV1lahN22Gqu_ULHhfATzqCJnqPuacmsGt2ZebA22z20ndEKDRRlgWAq1FeFzHgLLQ_Urnf55QRiqAWQhh887A9V9htzRE6ofgI-bV3_a1BX-dA69mr1yx08W9yj3ahV6hmzxhwwqjBpYNuGZ_XadWnMUk2d5_5IKnFyBwzDZsI3-Td-caU57ZC5CmJYlCDboUMpCwiHMAxmhld0vXl0NiPtyOCezyoUV4E4CGSykVST0pMP7_UdMzsTiyLTE6SWZGQ89gXUb7jLu1aRGtvXsxgb_SEHuChamd7d5-RaJ9OsCPP4p-cyh74XBK046VXZRxqlLi_iNrTR6Qv7P_F_6GnWtD8gDNApBzy5hSdBE7K1XgbtyItxhb389gJC2fzIUDKUxdVApDv1S_x1-hIt1AwyAa1_Ak0kcOM-sFG9ryrE5VptAw2mvaCaz9XDQinOaVLPRJJY0cWtlsREWQz7zl0Bgz5NO3I6iMfCUzE9Tl1_MwqzbXKkaMjTDkhZyaB9YjuRN6Ad5W6wFCoewzm9YOKJ_tpQfNbsAT4fvnV_ziMGAYiDgoMfvnbbSvI0VX8IODi%26ch%3DAQEAEAABABTcuKbyV8BK1U3396y0A3WgA8PieI-XsZ0.%26v%3D3%26pg%3DRCR67KURYFAK3NLJFDDCN7GSPA
+.netflix.com	TRUE	/	FALSE	1812020095	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+13%3A54%3A55+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d94278b-5062-4176-b9fa-1ea9ff2f7525&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B35&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucas
+– Email: berangere.estrader.30@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: mai 2022
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 7509
+– Phone: +33642200735
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Berangere
+– User GUID: P366KSJGI5BELE4ZLSKCW66Y3E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800524094	nfvdid	BQFmAAEBEN2cwYXaPbWZfcnWt8USlMZgY8voxAExfydx2zHjqdwlEQUpATC7QcQOt6Nv3Coi6ZUt-gJrZzOL2gqOU0db1lZUY-Qp0BSw3S96AIg0N0xSa2gGoweRqZQK5NnqsCcR217swmifjVGLV0XZOQqTfZVY
+.netflix.com	TRUE	/	TRUE	1807348395	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAwwIq2-FX23YE7TjHzobeRn7YPI2hU_5RahH8TwBYYn0Eqy3BYiWfR2bqZvCF4Aey97zIVRM3fg54EZQFbAQE0XqoJwC82kiyOHCqciuk-GWeHXLACroK9CN5QLk2-xoh3dMN5agrsNTObBd294eAfu6EzhLRZYftUxAXDq9jvPlnBMJG-3iYRmUtyDuFckZ1ssPFkFO9pDNv4R1Hk2YuntoWnGNa99sdR1VOHmKNAhIf8GEi-7NIvFKjld0Z3HpY0bD2hWdwDucp4W3eeKXBDFeUO8dcZ8zdZOHi2d7C5d5Tndu7nJGhWDg4VhYJ8TcvU0rafkkM51M8KTaoOPfxAzHlp_cxEw2U8_fHzVVJIJ4yqSnLEKB3c3KkUaGQCZ_ikcOaZPLws4gkQJFFrPoDIvTwLdIu4Xz_-Xcltw-6jTmau6XD8l8dOoSQ02V__usjyxZi9TN_QD_dzrcuCDWDilw5Q7LlcEB4284TbMB95KDQF5qNvtQxgncRnRYf0J_iS9D5U_vsj3euXVY9oRw3xn1y0ToJ2FLfs80XxgGIg4KDDWqoTEWCkQ5Lg9NOw..%26pg%3DP366KSJGI5BELE4ZLSKCW66Y3E%26ch%3DAQEAEAABABQoB2wAFdNN38CDaBZ7YpXgPLwPRxHvjjQ.
+.netflix.com	TRUE	/	FALSE	1807350295	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+11%3A44%3A55+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86ff7a66-eb58-40c4-80f3-0526cdc5c121&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1768988086932&geolocation=FR%3BIDF&prevHadToken=0

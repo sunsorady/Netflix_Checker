@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Current
+– Email: dbarnett001@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2011
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2110
+– Phone: +17605741366
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Current
+– User GUID: 6HEGOW766FDWPPR3RICX3ZKTEY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791057059	nfvdid	BQFmAAEBEBGuuJIHZ4MUJCBhLhx4UAdgRYRZZslaFP4qLcXvgYcaqVVx73SiLePeih59etvJUGsc6juvLJwo8xaY2XRNcGIA5TO2v7PmRntQjb3eVJsxGGDVxDIgFJz2JPCnnwaAjZBbntDn6aa-C-mpQmNQyr8x
+.netflix.com	TRUE	/	TRUE	1801201423	NetflixId	ct%3DBgjHlOvcAxLVA58RDjIZJqD0q2BJsCS6tWY3AfHdrRB1xm7_mAfHp9arMU-_bWTGX6MD_o6JZbE_GFhQVsExsM7WsEoQdUsChQLLKX_4SH-Fa3B4ZZ40XPc7dBo_W1Q7SIdfaVZa2ojxkHwRzzdxSWRwrmr-CAlzeMtTp1fDTcEczl_RCjDRXWLsZXMuqCMDatlsB8XgXddw8CcismLCTmvkn5TpfSXrVvQ4q8rlZ4-U9FoDttEpUgmdEkyHi5YAtq_wQBGtOx6gnoAhO5gtA0zJyeFnqB3TFvmyjVav1i7-u2KperY1Bd2ZCj_UVLwirUP5Tie3NwqEi7kFkhDKgPqlQnzOQKkQOD27kpAcqkdMehpb-L4yMMWFZZdXGzjXrggb-Y_ArLy7BPjCeXtktnyVmYeRMhXu4iRDpO3WUhFU7nXAyxQn8qNdk12tCKfv1So1BvumNyipF-ejtgNInQHMQ4vmYwGcVOZnoAVMyAySI22Z-_-SgbAU6MtSMQriPXNHD_wh2nQAI9eAeepTtvh4e92j461ctST6S_CBKlVO_ijbKOxOShBC_JaSd3u9Q-din1MrOx9Nz9XThjO1a0TQUNHsNWA6oS88us2q-125Er8w07JmCFhDztB1OXQYBiIOCgyctsHtR7Wh_tfXWLo.%26ch%3DAQEAEAABABQ2Xnie2nvsyZJYWM0bVDf8LhYK19j2WO8.%26v%3D3%26pg%3D6HEGOW766FDWPPR3RICX3ZKTEY
+.netflix.com	TRUE	/	FALSE	1801201425	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+28+2026+21%3A43%3A45+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c5a3388-9e9e-45d3-9412-0ca33104305e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

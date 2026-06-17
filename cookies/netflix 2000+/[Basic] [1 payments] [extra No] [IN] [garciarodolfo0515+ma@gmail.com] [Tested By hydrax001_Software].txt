@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: garciarodolfo0515+ma
+– Email: garciarodolfo0515+ma@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2026
+– Next Billing: 2026-06-29
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: garciarodolfo0515+ma
+– User GUID: UVNKXREQNVFK5NE55G25JX5J4Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803625748	nfvdid	BQFmAAEBENJ7tF4vXc4PPlUVvjRc0dFgQguAvRuhbzuKD7MvM4MCf27cxEQybtkltQDHO0_84KW_eKxEBK5gO3_g5hX0d0oYPGmEEYwlvrAN-NRk73Z7Sadv5QBkX38JRJdIqf3Yy405Da_7wrBdOZeu6yaqWJ9t
+.netflix.com	TRUE	/	FALSE	1810628893	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+13%3A58%3A13+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&isIABGlobal=false&browserGpcFlag=0&hosts=&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&consentId=dc9a2628-796d-401c-907b-e345d8940890&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810628890	NetflixId	ct%3DBgjHlOvcAxK3A1ucnu5A4WJj-hANUhfimI4IMMIvBii73slX6dbLQloVtUwYj-D5Ko3z25k4XqnaSILQSjoofNEwC0uVPN-UWQ8AhtR4lXXfzGIe5GSWZy-eOFbR3Tnr3zPxsfuZdcGH6HraZYgrclRQETMlXWLmkYEaYGPnqe04fXG_LKYgFtJ-cQLOmKH_XpZJ6qsSmWeRpC6aF3ipL28mou5JxNP1f1hrooO94gOX7a2v1KxkmLa6caeere81ok8KI5mwZN6ZUdfatWivL6KtHt0GqxVdXKt2wFSW4XoCWwo-QDsX03svuzWV2Bz8TNDBng6dER2Sax3y7cqhSGd_kNLa25kCdcf5IMIxlxXsYC2-Q2_1pXaL0yb6RxMLtDWs27ZLKkfgq6ZxFHzKVKdwzPCyHR0ypZPqUkyfHm2CVixqhFluWHNiARIxYpDwk8_-bdNFBM4HLSizBWbkL-d0RGtYxxYP_DQeE4_sThDe0Zz280UmxmMZjOytJHRZtchoim3CChvJeSlkBlnIrJH92mNTibFSijRmyhZWlf5bFRLU0d4yUESVq3DZFUasSM7IfpWKcVZzJjQfBYYvPZ8YBiIOCgxI8t8Byv7Rig1WfgA.%26ch%3DAQEAEAABABTx1v1Q-H2LO5dd-aAO5nYry890tEEfVYU.%26v%3D3%26pg%3DUVNKXREQNVFK5NE55G25JX5J4Y
+.netflix.com	TRUE	/	TRUE	1810628890	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTD8JloXxZ0O8FW90-G7LBC_T-tFYDdSOg.%26dt%3D1779093763806

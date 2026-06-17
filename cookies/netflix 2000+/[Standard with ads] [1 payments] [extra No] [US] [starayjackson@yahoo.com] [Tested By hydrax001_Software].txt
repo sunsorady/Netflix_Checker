@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kenleigh
+– Email: starayjackson@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: September 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 2137
+– Phone: +18593673624
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mom
+– User GUID: GPIRMTX67VAOHFZWMS6OIANQGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794774605	nfvdid	BQFmAAEBEAvVj2_-PRKzJR9zMSkeqdpg4Bfv05B5BuiQNdpAfTGaNe9ImoBjelzi7OvtTLFJEyiong_5ml4jqf84uHjzA2FQUkJrmuGm_F5vmbgdzoV-2tD7UcALLjH3HH94wi6U-00Fisq28dje5fZV3fFHtGl7
+.netflix.com	TRUE	/	TRUE	1796690430	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Ag8RG7JGLM3Io63nAe9Vbi1_aH5cQDO2ZlBm2Uhs8H3pWBVE1W-4IP-hHXVh-tfZk8MmtkkQ75ToZUonWOcnT8LrwbelyT1HLjNnbEL4Gtu_naxjIE3qb5G7qGXp8ffiY5xQ6ohQBkhoqv0sN0q-wC5zgGlpmrzWY0E4oQfwwNWjaqthTUiVBYnvBpqnOpsHGQi1Mja-oFpIo1TVXeMP4UdkEo8fXuwJ4utsG6vQIs6JXRrmAG2gyudDdLFOdyYpe-dqiW0V5pViFRE5uJCj2fiYtKOUQTBBbQRWiqdf37aQA8qw-FJHAx37b_inqMtNgciiwhpOmny4XRKydQ8vqOmRuubd9X0ECBjpqa7sIl_kD1d8ejDZg9ybHJbhsxJwXjZsk5gXXr0u1HnMK5hBGElPZqSs19bjL8QBHpHulMfJHGCewdUZdgUcFbB7Vr8YZUf970Uu3xjqxtN_Vp-6dwaEu_cbuLFk0B6UlcxHvFmXHFIiaY-2bIF92n6iYRgGIg4KDNxSQM1ky0s_9MsnVg..%26pg%3DGPIRMTX67VAOHFZWMS6OIANQGM%26ch%3DAQEAEAABABQa1bzlCWe27qUjTXQOl_vq0eXH6WYEWa0.
+.netflix.com	TRUE	/	FALSE	1796690433	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+16%3A40%3A33+GMT-0800+(Pacific+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=197f6138-6a26-4939-a4aa-4f0f7fe12bd6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

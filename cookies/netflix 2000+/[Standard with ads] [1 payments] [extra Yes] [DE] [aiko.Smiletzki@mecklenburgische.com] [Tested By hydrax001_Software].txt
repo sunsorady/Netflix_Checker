@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Opa Dieter
+– Email: aiko.Smiletzki@mecklenburgische.com
+– Country: DE
+– Plan: Standard with ads
+– Member Since: August 2024
+– Next Billing: 2026-07-13
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491735275008
+– Quality: HD
+– Streams: 2
+– Price: €4.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aiko
+– User GUID: WDMDZTBRFRABDGE5CC7JTIWWFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782150480	nfvdid	BQFmAAEBEKrRIwMdATHgFrLE4RBTP2xgeq0RuM15tEeds84GF8C21DFWqB4uqaXW_D1pCnyBbzbi46l-pDccxbAqF2hmJoXdx_D9zn9LBN9jU0cmRpIJWTbut2GsH5hfEg1ZrqXd_mIZJ-dLm6SGJrk9831Q7yN1
+.netflix.com	TRUE	/	FALSE	1794249627	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+09+2025+19%3A40%3A27+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2edf597d-4f6d-4f4d-97a2-5e0b45b57882&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BSN
+.netflix.com	TRUE	/	TRUE	1795584554	NetflixId	ct%3DBgjHlOvcAxLtAyPO5oLvFQKTMSUmcYChbIi6fvN4EPlTihv_ocetSHDvqX5OLiaJOalkYfsCdbtIGu1WWyJybFpgyHNVeQU3Qlsg2TccbwIK0OGDMbPwDUlw5Hh20lotxxBB5tOztYMoQAPlYidMf4v0-ig9R_uYaQU8rK3RoKLUpsE_blNzmjvNRFUu3qUZTZGH4giK_4N8DY8-lY1ocU94L80Amu95kwDfPxIMmQIAk-O-5XPLCINLMTvYzj8D30ZudlSexCwtrnPrZ9yixk2Egq48ImZqFp3-QpJ67ci8AbYhWX4LCkZv2dmpV43l_FucafypjoNY0KQ9JjlNMj4AYfKD3BjB6EzNMF4aZda5c7RMh2jDtULddH7Kw2tybfJ1of88_V7iIw5xf1WkthTxH_W4vsD6wFnrV6qKo4xGuDgixlH50CCy-0H2sAPAjrpvGbgdBLEg1gMd2ZBgZDP47xMF6q0Ruhurr0_6Wj7iJSq1YVXaFPkm-qweNQEtKfy4mLZRJ6v3ElL0fowgPLzShbkTYutnvS3OM-x7JDmqRm7ArYyWAzhrosZhGewLScaMJgpF2dfXisXlacyZ-lYEl0VulCU6hXfrK6d1jgrl6sXvopYFByf3Z0-g2pEHJUtryvHx27b6XDdWRxcQSylCyzxQC8oYBiIOCgxCswGHrCCAZkTBK_c.%26ch%3DAQEAEAABABRBifByWwPx9epiJynzHqMso5W9vr5oENk.%26v%3D3%26pg%3DWDMDZTBRFRABDGE5CC7JTIWWFM
+.netflix.com	TRUE	/	TRUE	1795584554	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRjkaUs503gbL8UcprD54HU4hh0akAiKvE.%26dt%3D1764048554216

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: medico1821
+– Email: medico1821@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: February 2025
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: +18132977643
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: medico1821
+– User GUID: POSX46IZ5FEFDL2LQAA264U6NI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805759574	nfvdid	BQFmAAEBEHa665CgFSrDvh7QAd2mG3RgVcfdoBEd4DNexAfYF1kR9AXouSUXyMkee6Yi4uUhagpej8DQRGa0cHyjpUjPTTqkJBkLGSpb64AGzdNhxBlpzzaxMnQiw7Zb7ZXxe9Dty1Z0OAp7euoS0ohIN-Hw-WON
+.netflix.com	TRUE	/	TRUE	1810690093	NetflixId	ct%3DBgjHlOvcAxKDBBECFpoJzwCZ-8o_r2CQAF1k5sAhgSY75ws9lK1nDe0OrldqKpB0CpIuIRRMb8LfzlzQETjRlMw3ihwQyWG3KAQedmWqTNyPVIDahxLUahVIevEBIIIWX18-U8M7bghxLA0ZP8k-ijuaD6Hi8ETMGiBeQlsC4_sxYI9bHEFySLQuEXHZiWzbk8N-QfU85MA2F6YMXc9bHfEslAt94vxTa3g9DN4LpqFN3tYdqsb5FE7Ya2Gv9UqqOdPMva0775HfC4Cee_hnyx2W74lLR4eSnSvScVvyezZh7qs-MlGczza_dfwB47SaPHXUF2WnAKgdFljCPbs5V2Z5whdqEelH9nl1KJENcMD1pZ8cmr8OAENBKQhXqbh-SyujhZDHcjWZpEpasw-i67AKAucSOG-eR3IvmEx7PQrbPBqstGZd_Htd-qDuPxSX0pDYbyEarscJWTgj3vlSbMEyG3TEWW3P_FSnm6x8DIsIVZkPMEcDmPLSAb6cp7CoBdIiSA5_5oV7pVKKzewwj_atNDiaG7aSYu6SPRw5etdiXSC-r2ZgowaW7ejrmViRt_4QeBg7AsfWH8TD9dkGZ9JZ2B--TzSBx3zBL5w5Jh_gXOBth17kOlIaX_R9hHv08YVedFR_vRjS1Wa7YYBKI6GCXSdtjg3oKn771yNwiuhh6cqNgACh-7XS_YI9GAYiDgoMuB1dIiDEuRGicm13%26ch%3DAQEAEAABABQUXSJHsUQHIoduB4jL1RCVxBE0JLkSReQ.%26v%3D3%26pg%3DPOSX46IZ5FEFDL2LQAA264U6NI
+.netflix.com	TRUE	/	TRUE	1810690093	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTl2u6TQmVBTBoFZiCIfPhEcIIpWRMhNnc.%26dt%3D1779154092048
+.netflix.com	TRUE	/	FALSE	1810690258	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+20%3A30%3A58+GMT-0500+(hora+de+verano+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9e6cbf6-d85f-48ef-ab25-03a0eaec03ef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774223535971&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

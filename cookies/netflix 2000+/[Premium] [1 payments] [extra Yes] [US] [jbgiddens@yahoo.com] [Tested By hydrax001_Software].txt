@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Grant
+– Email: jbgiddens@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2015
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 3600
+– Phone: +12146877689
+– Quality: UHD
+– Streams: 4
+– Price: US$26,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: J B
+– User GUID: IEX6K3J5YJBRLIVXIACQGPHT5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783889341	NetflixId	ct%3DBgjHlOvcAxKjA6_Fqi8Yk5CvbpWiDS9hC0Vm_Qs1hFaKZhMYkDeLAWPpGhzixvedJakdpjV40Ujcy31NK1wfUeELrtfyrTQPokrkXhecXS0EVnSLYVnYWkLE7c47Z0ETm18QvwiD8HUPthBjaBcOH2cfVJIBTTlhGXC4i_Z6ZNig-qmE4-EpGqQ5tJkHGjUM7l-ni62xj8xB9llhm6MKPKFtUbqPm32OLw-_9YlMAti1kzIcoAuns66Scof9M8ZVj5uQPNfFCeELtPkAFXCSXU3l51vec5xWLg2NBAGiXAerAz5gEqCJvP-LXw1hhkg0tbU2uqpfYZf7VEICuUeNAHtq5XPS32AMZutYNsBV06JNLtQgLmTDIHBuBdlazjwrBv2smB9DTGKFRnK453XqbTZUUGpyEj1zkrPU3umH--voC-Zc6NIJ1uLrpVwPwKGgquDMB2XMygx7IHyj6kYUkPAPy29b8bQO0lDF4yZPLYHTZ-oRk0GKpShi54N5kx__FoQSklJ37DkpYNnDISYAJ5819yRcGNngj11kN2HdbmvR-KYw3DWTOmucUjTWGAYiDgoMhNxWIkpohjRIYLZX%26ch%3DAQEAEAABABQ272BRAgag3dY2_anzxse58wagj5H0Yjc.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783889341	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_VeMBRlGEBUgw1hnidjy8g35eA0gfBRs.%26dt%3D1748829058098

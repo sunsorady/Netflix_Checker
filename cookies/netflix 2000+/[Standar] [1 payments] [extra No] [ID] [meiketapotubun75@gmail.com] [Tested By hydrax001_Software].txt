@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PUnya Akuuuuu
+– Email: meiketapotubun75@gmail.com
+– Country: ID
+– Plan: Standar
+– Member Since: Desember 2025
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6282197782432
+– Quality: HD
+– Streams: 2
+– Price: Rp120.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PUnya Akuuuuu
+– User GUID: UZMJPMK5CRHNFEQH52GFQFPP7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803788995	nfvdid	BQFmAAEBEN11hVfDe1ypObM44TlBh8tgvoVjMq_Boic82dc08iQJs1lNBNCpT9rSSTWRKydvqmmqSI0jGUQTkZJ2cP7SH2cuQfFBxU3UwmI3_cm3yw8xExK5C0Ym6F0Jonmp6uVtRYvgWCXI2cHfpK97R_tssQWd
+.netflix.com	TRUE	/	FALSE	1809591465	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+01%3A17%3A45+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e6b26bb2-c5a7-46d8-a284-7952287b7fd9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772252757352&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809652215	NetflixId	ct%3DBgjHlOvcAxKHBItIeYXIgjgYLkRDoBAREnJVZ6GSPJ9afqk1iN2v3ahhMFBrnBXgn1zu7gBqs4gGU8-3HPJXt8G4e3zQ6tGEnQCfPVJhBDf4h_opmjhcHKm06LNl15DdtXREdR40jLhaBf-9m-eOwwztV9xmHo2OejpHqkwcNwz6Lp6pV6SvE0GLmbzr1w0DRd3NBFnx5Vw89fDXe1HFnl42vk-O-_i-bz_kZXDLrfP1xwAef0cX1um_TBL2cyGk231clstoWAai8G8omdAaIAFhJHhq0wmF4KtgnJR1lRWhDPt5-p_ApGE5ipRECA0KaAgkY-MPc5ZYz-hK82U95Fwsm2z1R1bHNt8Z2gStePM0Kn1FnWohK0se8-nmD69YOb7mcqkvcGjFRoa83gY3Xr8G1GwvZj_Fbyx0ybVElHdW7L8Kc2glVFj73C_gs5JFheetyj0Ym7Y5mm79hJG5YpkI_aAp12jqCWbxNdWnHkPnOAlJEXZSCP-aXDq9_Mic5l6RUqq_J4zbvG-KRxo15seKlhqcFK8AJQU2KK-l28fm4Aloo4zMUiMlBmp2zR9S7hNmQQXkphhUeRl4hl7gvEdgEIx6PiZp0lDY_hfm2CgnlWPndjxLsrCEj8nTieiiGszVVD7bTzp7agG427awrI4GRc8bIqN4YddrU7B4JuO6EIT-ANqOTCKW2qHGjyILdxgGIg4KDGmtnlHvR5Trvk_bYw..%26ch%3DAQEAEAABABT8-aacKqWR5AvujBEyc4CLeNSbpT-nhuI.%26v%3D3%26pg%3DUZMJPMK5CRHNFEQH52GFQFPP7A
+.netflix.com	TRUE	/	TRUE	1809652214	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJBOyG0oHhQ-lGBmHYdzhm-w9TT1JQFUk.%26dt%3D1778116214680

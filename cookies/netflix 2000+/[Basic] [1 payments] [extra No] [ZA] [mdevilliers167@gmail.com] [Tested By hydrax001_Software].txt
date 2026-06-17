@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mamma
+– Email: mdevilliers167@gmail.com
+– Country: ZA
+– Plan: Basic
+– Member Since: December 2025
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 6150
+– Phone: +27810410782
+– Quality: HD720p
+– Streams: 1
+– Price: R 99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: M&J
+– User GUID: B47ZPR74QRB7VARRH3ACHVDM6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801501855	nfvdid	BQFmAAEBEMfhAW3UhbWsMgk7DLP8O1FgW3BtLpKy_Ih-CXTAAWPdy6cQoANpe6cAB83a1ZFXaD0fKkAJEm4jTsaa1QBJyki63jgpxEtzpX32AKSesIjX8ZwebAmgXgjooiA-A-wn1TnHa5Q4GWFOuRbu00mYOAvQ
+.netflix.com	TRUE	/	TRUE	1808923900	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA7YSWGQ78gS6fluxio6Vxuow4iSxrXqm1L1UUZUEs1zv0-duFUqogfw8sONUsBGimipeM6-8o2kNokCWJfxfyxUexTshOxdrrHPUgKab_AG6uwrxpcAiGDXyXrjwOyzbaYw3Zwaws8mwXbTDAGfFc0mEe7mVKyroXIB7S6AM-1yYYVxZuRRtmN1Avonas7NsJCvWlAHM0SQY2UdKzqn-mGQSK_AsseKMNGUTz2mfoEMWi4rhI5fXZ48aP_uOlkgMKQtAPaQE0K9TzqfeachhoG6t8dxhTISXf408pyZ0r1LVkdO1m47x5H7JZ3u_1ScSCsu_NhWR6ENl3sVRaZUa1UtQo71Nqi4V-scJr7XOaWjwGjEgQdB7g1PHcT5Nk6rGKXsyXMppHLRlK7LEe5hmQNUhNRrDTKgglQ5Jd74PP6eUa6lWa94AtrcId_kOXIfQz9_Mq2sh5scQCxuR0NM4JfUXJYE5huOAbUvasTJfLi_HzV6gYj2Q9257ixTHnkvjuGn4KrNRE0t6UXXcv4Jgyw0KFDkg5dsYBiIOCgxAj-p9PN1yNVMhT0Q.%26pg%3DB47ZPR74QRB7VARRH3ACHVDM6M%26ch%3DAQEAEAABABSZFKcmqEvKD7BfnZHL3Qp_2txylqEZ0YA.
+.netflix.com	TRUE	/	FALSE	1808923902	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+16%3A51%3A42+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b9782fd-653e-4707-bc67-67164dc02421&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

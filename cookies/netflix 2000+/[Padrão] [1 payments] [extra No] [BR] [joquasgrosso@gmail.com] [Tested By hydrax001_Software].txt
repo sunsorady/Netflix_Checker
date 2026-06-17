@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Infantil
+– Email: joquasgrosso@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: janeiro de 2026
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 4729
+– Phone: +5548984970080
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: simone
+– User GUID: 5YM5HOYXY5DIFJ6HSNG53ZSAVQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798848404	nfvdid	BQFmAAEBEN7-DmB2RuC8WZ6fVL6o0bBgeZkQ8HxYykRjj6LbKKbLp9_51-4-pMXydiRGpBXOWTn4rcalbYIHG5NWnEM0yUiTj3d270Y6vwNq1Jxlph_tSHzx_0ors106qX9XS5MU0n8NWg0D_oIELFyIBlT95PDT
+.netflix.com	TRUE	/	TRUE	1812415017	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA0N0d-xf8yzUjc82ZU8CS6G7P_sBcwMeYT2RkZ87J4_wVq2Ur0vFkmqQxDEser6LG23yEf5UY_JsWww20ld-onUc0MVEeNN-dku3lviv8Umx98MGAKafI-Y6_MGDb0SyXjiED4T6HrWX_onbEuvIPshm07Z1HeaK7PXCw-ftbQG96RJzcsBrrqCfy-Rg1dJA87rvzrvbVuDYqajbZhb7lwWbHjdDFt4lNfzqOwOGD0rEAjlxSDFyPWSeBHMnzIJPfUjTJfOm1lYXy7x4sotjIE-8yRKfeg_72JjA-Eb0MTciJoNz2_HExv7cDvB436THHIKQ4NN2XYzHVgyhOq6pqeY6ylfDeU-awbynWr74KKzWYhzbdrTQFJsrWpB43UfI6reNS9uQQuJ-aOk8VINJk--5aVcoB0v5mt1NYjK_uveEiyCMUj8V3LdHMg0_Nnr1HBf_Jv0tOzcjcf_KmdHRzI_IqroU3ivPVfhhXW1aCJ_4ms9vrL9H2SDzMwvitpiuZXpw2soVpCQvN-zs4JKOcTp1enxJt263dRgGIg4KDHaoK9bo_hJ5JwScfA..%26pg%3D5YM5HOYXY5DIFJ6HSNG53ZSAVQ%26ch%3DAQEAEAABABScX6JqsDs-yeToA_G7JyZwXbbmF_HicLM.
+.netflix.com	TRUE	/	FALSE	1812431050	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+02%3A04%3A10+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f464bceb-ae4f-4192-bbe2-92d3fd98d3b4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

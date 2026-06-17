@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: antonioalvarezromay79
+– Email: antonioalvarezromay79@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: julio de 2020
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: N/A
+– Phone: +34610152790
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: antonioalvarezromay79
+– User GUID: W4X6NKTDCFHI7KHLFCF46WSFKA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804665983	nfvdid	BQFmAAEBEBte-Ukt3bNOjk2TpRYvmiZgTXJy-oLYojYIREz17-7njwxVxIyYu4OAbXMsqOUwYXYN0L2VaNQ7ipC4xbi2lnJAWh2BALVnGCe-alEpGhP2t93AayokN0DrOhgVwqu1fUR8WoRcT3QaTmyHhFJ253iN
+.netflix.com	TRUE	/	TRUE	1805355942	NetflixId	ct%3DBgjHlOvcAxKaBGxuu2d_o14vLzx1zgjQ913EF3YprvuMAaTooDFr0WdO9ktpyeaME24nijIaufv1xyKyf9dbpsB7-i1i0jQvlF8h46SOJofrCMko3ybV6UsFuDxHcf2dFPheuTvPk-tLV8QGpkX8KNIt7raFPt6IfrK69Piyop9Mo47Lha1DPVrFE7mRmEIyo2CNLChzk9secqsZks1mFBgNWRShfHF6-j9ecu6mhW4N4ZAc72hoGMcRy_MSjb2zZgVg0dWg5IVnXlDUY0J4Dnv7FtBuf2OTWk3S9RXBQnCnJWCkybz1TQA7rQtRAMCZz5xmd-xnwylbk-gvmvwawoDEIQ09mzTiC4wKyXRHOCzGgf-6qKgOcww3CpgAAYQQpKpadXXs3fuEiImsplRXT2H-gxJixQYBOE-14g7jx0ZS4ozV0zG09xMzPEVSNgelF87iUMM7DhI3vTfvUmjTTQPAQnYElCHN9Ob03znqhsVS1dibEBYdEUj2tPVKcaintM2jbJs_vKysoKkw5eCeInLpC0v0ejAbfDmQm_j6NFELJa9-pZF277lmTSCj-ksB7UC_zRw5sNOBAPCbICrzjJyQ8PVGNT-QsLS_IVJnDQEi2f9ZSRaA00cIIOqpQ1XYKwEAX7-o3kwd6leOss4sISM7YTcyvjh5N0J-aRHk14rpB-O7_kzTvFL9GpAd7sKJO-wQv1CQ7tcg7vtQg20uVnFemecYBiIOCgxSvuNE7BFFreYA-Cw.%26ch%3DAQEAEAABABQoDFyn9TiW44ghet3xk8NsplKO4xcUbqo.%26v%3D3%26pg%3DW4X6NKTDCFHI7KHLFCF46WSFKA
+.netflix.com	TRUE	/	FALSE	1805355943	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+08%3A45%3A43+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=61529fd3-8ed0-446a-a5d6-9457ce9697cd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1773129970959&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1805355942	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIiWwX-fxT81ovG7RTHI0DKuHrforBN7E.%26dt%3D1773819943093

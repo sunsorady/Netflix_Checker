@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fyahpokemon
+– Email: rastafari29.jsr@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: diciembre de 2024
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 2745
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fyahpokemon
+– User GUID: GPG7VWBUNVDAREMNSA5E43OJGU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797391318	nfvdid	BQFmAAEBEN54DkW3j6Be2DVBVOC6J8ZgJRn7csCKuRh6Uf-ipRWbJ3Sc8zbeafVR3wHkrelR2vVmIE5XBVW_KDu_9f4qem4IMpGZNRpuwebkMMsoirtVwYIKxcG5yCTiq8Z_Dv0Fs2tLf7wMwVXi4d_R2nti1JHr
+.netflix.com	TRUE	/	TRUE	1811418296	NetflixId	ct%3DBgjHlOvcAxKQBOqd4tIoIiA1F7-8ot5Ge-ZS-o18ATnOry5m_vIsRot3ab8GN-aTvqMoNAftz6BSsJSrzXv3HMdgAi8r14UdKdIMroPU4vTI8d_ChOest-vdmWnkFO3uo9E4WK7xjZ6RZUwcJ9llnmpXqMhzVQYqdyuGi5h6uwhQ_AJxggEhVd6ZOW-5hVnP2ap7jTcVpEZdG5EOApy_VGygwbZqw1K5URA7q_Giek2yxcx1fWJSbbZmEkJT-cxpxI21tYtupQV4UZxFBwpZCg5vGnkoxXSMweD7Lt0W0uyS7i3Wye0ymqA_fTug1oM51MNvic4wcWZmgBMWaVbpLjguX7lE6VeAopNa5xSJC10xIQxEcRko2kxLAdP9zr8xyUn8zAnuPuAapDDpCbuiKyF00TDRlFg-zUSNR081bFt80odLVZfxzJ9Qcwfjd9Tr_L_tjWPl_9QOzr9A1IgEA5oePOsco64StQERie1asL7snghU_FYAT4FxcQpFC_c6L-pZxVxOPE2G4sKJlY6u9EbyIfr3bDv2j3c4WeT8A67OmsqwjlQPpucRfUx3SgyWilGFk5WuzlOM0Gx9ch-BAUKQ7Y81WkHnbsAon_c2rWaryNrTXpgm35033WsE3E8KTkoOt9zHIOcgbUGJHdJdXa9DLaWJZk1GXGWdVOVkgRWZEdhSnDJHb0oBS_HA4LqgBWLhwH11I76bNBgGIg4KDLDZvBwfVi30W2zzaA..%26ch%3DAQEAEAABABRCnsU2AKIkwHzH0RLGdLuJGXi8WzuDT6I.%26v%3D3%26pg%3DGPG7VWBUNVDAREMNSA5E43OJGU
+.netflix.com	TRUE	/	FALSE	1811418298	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+13%3A44%3A58+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e504b270-7992-47f7-b761-3cb762683d1b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=ES%3BNC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

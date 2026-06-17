@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: landonbush189
+– Email: landonbush189@icloud.com
+– Country: US
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-20
+– Payment: N/A
+– Card: N/A
+– Phone: +16814392750
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: landonbush189
+– User GUID: VMCTH2TVKRCBFCGHL56U6ZQI3U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801869725	nfvdid	BQFmAAEBELi1jn3C5EU_1ylsVRSzXMBg2sI0YxH7yhqyMnSP4CYzjyVWJAa3WrphHnFMxiClarMvuiGwa-s0uxfunTVCZXbaZdKkCDT2JJgzqoJ1C-Kb3U5OI99NEvO1hPRXw4DdCGovOXAjMn3xVPbqFYpnNYyC
+.netflix.com	TRUE	/	TRUE	1806611536	NetflixId	ct%3DBgjHlOvcAxKHBLcFddlJeAbDYA7I-ZOdm3M7q0lvT_nHN-SHlvd9LAKFV-BW6z5ssU2S7ndYLG4cqpw6IPyY8fvYgYwRKUEE7AJjbs60b85v5iQjtPSM4Wtwkr16CQflo3j-cYoYQESIflBeaO1bq1_qUHuKG9cb1rHQOgvgL7Mi69SI6jhnU6u3mOELpOLBtFOvs8k_EBprjcByTbK-XsymjqWhulxpvCR97iXaH_tQb5aM6F_llHqmP4hd9RsOcGcXruuJLB8ZEmeH_wKrB6Hiu3N20zh5y_bxshuQWDPJ2FFX5qnGT79Rws98Qx00AtDES60MPFDs8rRzZHxY06bk-XzPj0iP3FLRp7dflACGodGFZBPznGmSI1z-i2Jb2EtXWnfQRc6nuQIw2EiAcROjPdaBmGefTnRb6jkj3izSGWiVMe3I0oANbtIhQu2HvMfr10q6SwJKQnkaRWIp3QS85tqYZK5YH6szK-W-6-Rpyf1FbTdmldpaKTm0ZZ-SEg8si6udbcvdBmUyGJoveyAWHc3VsmVnJtakKmoxM6IhtQVWcWuCEktjok4NafmWqqU_-iD255NRSqmrCxApbb2lL1WqBqg8Uzlrv6GNHYy8GYzIpYysP46sc027rObUSq6i89Eehq2Jc5JSR6zai3gUqnvMyp9P0u2t71D1fMKfetKllL2Jy9msy4yxV80UJxgGIg4KDH9G2Eg2SuS4q-Fz5g..%26ch%3DAQEAEAABABQdKiVYlXhTmm-hOnecluwUndgw2F4IqXE.%26v%3D3%26pg%3DVMCTH2TVKRCBFCGHL56U6ZQI3U
+.netflix.com	TRUE	/	FALSE	1806611538	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+16%3A32%3A18+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=32e609d3-bae4-4340-a490-361f9efec327&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806611536	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSm26xVcy_lr8gdBrVZ5hOl16LL-sFQ0_k.%26dt%3D1775075536520

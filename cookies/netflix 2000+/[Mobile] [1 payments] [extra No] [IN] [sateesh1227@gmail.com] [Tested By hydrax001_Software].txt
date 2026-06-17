@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sateesh
+– Email: sateesh1227@gmail.com
+– Country: IN
+– Plan: Mobile
+– Member Since: October 2020
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: SD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sateesh
+– User GUID: V2H4XQBDWBBCHC3KHUC4I6WJIA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811339663	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+19%3A24%3A23+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c4d5e76a-73b7-476f-abe3-8ca07ef6e7dd&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779803495655&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811339661	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA7ERtn-2712lC5u6Mx49nAflR6TftCGAlMbl5EQrZrppttanOanUYyV2gi5JGo3uDTlVyPpqXcUik0ZtqDbIcrkbDEa1a66GKub9jk0gj1Gapfrq_3AY3atZop6L9PUYrQTte12gXiofsJGOe3tum0hkdXrlTkhN2iL1MCrXjaWRiWD5kgd-oeEAAYJeDZKE64hohUICyzEct-XQA_n6huHYANAGsBSJGwso-OF2zDszK9JqKv-ys7Dw-wkxhA9lFnk2uV-F9OOCD6EG5DaGxey3V-lfMjk8Z_WT_HR5AERudlPkYcm-3kJGys5NsKdHAXtTTFfrSPt8hRIkFJhxHS1TJhVWrMiMAHgHKc0RPHfd6xKheYrfyjrahh_FKuhqV3wVUblo1LHkVXPwclY8uhRj8bIZx9hmd6F-JFyYOZ_H2AfaggU33WLqX-sEqccKS7TcIKJG048TynG-mCTxICfHGAJRyUt28Q9FcmZzvgpZkn41IuS8zA7C9aJh37sOT6cbNS2qEPd1Of46yU9mjyKYZkOnqRM8HMoKNl8womrrB4AYBiIOCgyLb5u5Al0uTZs-f40.%26pg%3DV2H4XQBDWBBCHC3KHUC4I6WJIA%26ch%3DAQEAEAABABTDagWPEsA4-xgCNYJGdLwUief-MaP990Y.
+.netflix.com	TRUE	/	FALSE	1811339661	nfvdid	BQFmAAEBEPg6gaOaMpwLQPkOJ8RkIpdgcCbrvIyeq_bw_0I3EXRmYiFlOEJf8AKmN59jtIShsYO-sl9Xnv4AsrvYcMEsxCd3hLIluhZqIYYsm3qlU0FiXdFJlIj35h6si8-Lj57MRc6IRjO40U5HyobXLPY8Nqhm

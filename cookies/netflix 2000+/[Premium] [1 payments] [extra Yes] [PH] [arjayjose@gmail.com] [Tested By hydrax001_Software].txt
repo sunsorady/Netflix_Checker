@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Office
+– Email: arjayjose@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: March 2017
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 6005
+– Phone: +639175688308
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Home
+– User GUID: WC7I72FRERG3XECNKD44HUVDZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790913251	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AuGnzlHF4n5ZN_-JZyUKjqQRunEYcLDOUVlseItrZev4BYi8x0MqYXZnTZN4DrObZX7Je4arHNe8BkdjskwjPm8-02U7FczQiXlgVUxulY7h4feTDcfRpIS6iob8kH47tTq_X6fHpXLX7JSgWhN7st_BrK7ZpF3xORK5nTyTZcvnANIA2FNg_jkqARMTxLuNnF4Xr7EVmfUXrQcbfOyDZ6lZYOuu5nZo3OZrjjXnvZhEVC14zxhH9shiwrtUJ9L866oJYvp_ekK4JTXeQZzDjxfj6aCRw67kZujualX-dwJSERgCQyP2Xom9XkSWIyP97OE3t-bOuOmbRZpZ0X2eWP3mcAfe1maq_jxTJIE2lOSh1GDx2C_Y_nQ2BVBSonksUAYCtVPbBTU5IrJ2ZcIgZ5Uz9KbQhta_N2BZeuEwaPRh-iJKjWidmJkgMOh8H3KkM5fArb7CRSoDRhluU6lBS2UaCvFTLbfh_WKxugfs0gD4U-KlDNRtGAYiDgoMV1h8tb0wBWY_JfoQ%26pg%3DWC7I72FRERG3XECNKD44HUVDZA%26ch%3DAQEAEAABABT2dyfLjf-WDbxdBz6FEYM9pP7uvG3OamA.
+.netflix.com	TRUE	/	FALSE	1790913252	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+02+2025+11%3A54%3A12+GMT%2B0800+(China+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a267392-4860-4659-9adc-15167c9dc8d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1790913251	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRb-Oc7OAbDn3PRizb5A8ix1_IiQdCl-nk.%26dt%3D1759377250046

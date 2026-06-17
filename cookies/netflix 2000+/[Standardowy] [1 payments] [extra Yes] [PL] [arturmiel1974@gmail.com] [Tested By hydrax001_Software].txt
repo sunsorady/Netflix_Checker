@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jakub
+– Email: arturmiel1974@gmail.com
+– Country: PL
+– Plan: Standardowy
+– Member Since: październik 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 7339
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Artur
+– User GUID: X7GYSM7OOFG6PO4PP2BR4VU2CA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791887495	nfvdid	BQFmAAEBEGogHRdAVeadP9M2yf0MLOVgHtYDwbsLnxU45nPR1pzOCXKA5kGO-rtzoowr9GXitfOK9YsleFS5DzkcHTZqnP9CJpiHwgG9zvNHYa_xg6M2yw93P-Cf9af9ECGa2qyU6L4MMJLSzzCxmwsQChP6TDtM
+.netflix.com	TRUE	/	TRUE	1811833012	NetflixId	ct%3DBgjHlOvcAxL_A-cktU6PIHb9EifcFKdLS1ncHFI5aBgSHHRY6LjQ9G57QABbU-uUI-SVpzQ1S2fdBanw1mDSMN1mXUmB4liX1w73D1JPqRTLHgIHzjkKbZh-NCpVf8pYQFRzm4Zm_hwWg7r3BbyZCz4ists1gbNyuV1L6474qKabnMGFk0rzJHMMkjEWvWSYHGAMUytWfcOxvZBOzrh_OQ0Lj8_Xj6AVGR-UoRuCpAo0oRdlADXMZ2HsPgVCXeW8HtZeSbv8TGJdiBpQJQzw-wCIJX_0O7JBrO11z7pXNHtrOR6rn1l-T2aJpQh2uU0PXtGUniXRd7mGeJnwEnDfYxpjvFWFmrnxKJ9bvUnUhJ8M4ArgcxtyheTOEh-HD1uaBj95nLqNCPo00Dep1NexsPydrt8YQ-cIrdQ-P_sBbx_O_JwURyApQu82xYBv8kKYhmWtFScoRcidIjWd2HWqseYQ6aVy08MNSNsfkLs0gdE5wOwVa7QUUmHymxezglyeeq7J6WXh_LTBB4h1WrWcHmyG6JY8vvuIdkuBM_gu_Ij2vtIgm6ljbBkzLtQwERjdGlULhxAkmoeunX-u7Pw4cVgURW5r54wNXpaLtvKtn79DSwk0QbZJ_5DP7LDZoSZHD08VWYyX8DEFG8bfEwmryWk8mcwPusFh0AaWN6yZIMI86_GOLeurlioYBiIOCgytdtJmrwYlTAi9wPo.%26ch%3DAQEAEAABABQQGHCdcuUlpPZwhIBGOnrKhXVp7hzqyO4.%26v%3D3%26pg%3DX7GYSM7OOFG6PO4PP2BR4VU2CA
+.netflix.com	TRUE	/	TRUE	1811833012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBl41DPLSKz6vNlwRJUSlf6uzbBqwCIWk.%26dt%3D1780297008605
+.netflix.com	TRUE	/	FALSE	1811836236	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+09%3A50%3A36+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8e1a1609-b442-4ffb-ac34-79b96d6cc573&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778606457405

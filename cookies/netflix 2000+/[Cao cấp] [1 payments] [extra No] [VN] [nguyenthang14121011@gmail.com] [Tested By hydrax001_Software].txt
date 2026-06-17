@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 173 HOÀNG HOA THÁM
+– Email: nguyenthang14121011@gmail.com
+– Country: VN
+– Plan: Cao cấp
+– Member Since: tháng 10 năm 2025
+– Next Billing: 2026-07-16
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84832206200
+– Quality: UHD
+– Streams: 4
+– Price: 273.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 173 HOÀNG HOA THÁM
+– User GUID: 5FSPWM3MIRGCRJMIH3OHLUKDDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793730037	nfvdid	BQFmAAEBEAKooSiAL8B6b-aW22Foq0pghvPSZ7ELx7JK3SThGFG3cIwsii6AZ-2BA6pQ-Dq96tkSJt2Z7UI_Lp0T824NJWleIMdqgZWrhkaSiUpGwjgo43XEvEWH3Dhe67ZPtNDCpJIvrujR7GivIK8wo2uatsNd
+.netflix.com	TRUE	/	FALSE	1796302273	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+03+2025+19%3A51%3A13+GMT%2B0700+(Indochina+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7575481-a6d5-4d42-a812-a08e53f3b63d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796302273	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRCGz0qa0YEd_fot9RnWK-gPQN8J9K5wLY.%26dt%3D1764766273509
+.netflix.com	TRUE	/	TRUE	1796302273	NetflixId	ct%3DBgjHlOvcAxLEA3oMz-8HEuT91UleFaEezJK4F0FDUfkulmNtSrZVHuqITRop0NECZk1lr0_xLoFfxxnXORFqE9hq_crUVhq-2cqi2Ekl9fSg8UKY_rJ4hCa9rzQpQto8QKnkod4wm4S7ozibIuQxITGVfh6EaG4thdLXg5EsCO9iXoFGv7uPmYjIRYUronpPQc7Wv02kqNREIyVVJA-gWb77t3tM6xlAB9390A3OpL57Iicvdfi8_fqhGpEZnv8MdMpQmSmRPHoxIamtLowGba-D6ShHf4PVjyryQigyOYrKe54fqYI8f9t-nZapbwVUDRWNzveWNkYt1_nOuzwctQjQQvaRBOLHPITb95vyNxNHZFDPRcpjZBWXyStVxGvMCz_vwj5ouRPjTO86CVrva3DqzFvtZGJkyWBjI4Ke_J9YrA8pW1UOwTnB6yAbghadJ_uBX58Sl8K9IvtE4ApRzZiEtI9ttOIelz3jYU_i80_D9lqLDNyqA-BjvjsZErQ0-VvV-WaD-AgilH81cwbxXgdnOGzaKhs_SujYB0PmYmsd2A7dqoUy669D1W3Y2YoEDTp5mKLZJMflAP_V3S3RD1FVa8ft-TOOxg8Nj5YPGAYiDgoMlUzudte6vyGVZcxl%26ch%3DAQEAEAABABR5r8zHszxGpaB3OTxnBTJ30FtObIinh9Q.%26v%3D3%26pg%3D5FSPWM3MIRGCRJMIH3OHLUKDDU

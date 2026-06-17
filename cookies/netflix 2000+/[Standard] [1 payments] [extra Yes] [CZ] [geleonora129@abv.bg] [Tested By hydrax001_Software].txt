@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: .
+– Email: geleonora129@abv.bg
+– Country: CZ
+– Plan: Standard
+– Member Since: February 2022
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 4228
+– Phone: +420732181487
+– Quality: HD
+– Streams: 2
+– Price: 339 Kč
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eleonora
+– User GUID: 52IRJBHSSVGPZDVKRH5TFXBIDE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1792365838	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4Akazg8xofqKcPiRvEs19A6O7jF_4SftKVgwC06NAc4iOle-olwKRp_QfrMgAs1PjvXHyqwHJWWN7YcxdtG_QjS2HiuKbIJjRkSuSDYXgBFTX9PZsCxkW5nCp1eV8_A4mg8gsB4KnQhKSagILyWJbek97QDe6zPYb77tWFFRK3Yvf19C_zt84JRaDUlkw3WsQeMMe9GLgVHdQiR3rxvZ8wW39NbEsBfPcDUG0gKu83ZCSMm41ovQEgpWGAasuUkzxMA21_qNDvm8SX_F-USvVWMY2OJ-_-Zi38OIUyUgm-PVyu8CyUkJXSbDgm3yfGKAAfIs2p5K7UHMYEbOuuOCzpLpOndJx2BUjvHbrf7zWQ75MriJwYF8NM8ocYjP3f_kAoC5fvzLSWDBlv6alJ3Y9zastsQp47YK0_68rO8GOVa7me_ToSIuXCkEG1CtEoqO4qwp3_9qBNVNn48n5q-4n_E4eGK65ukZc-PDmx9sfrgpAvE1sqqws16MYBiIOCgyqyfvviaJKbIx4Uyo.%26pg%3D52IRJBHSSVGPZDVKRH5TFXBIDE%26ch%3DAQEAEAABABQ-Z5MMlDmbCmb9xg5sqntyiEZ0qV-c80w.
+.netflix.com	TRUE	/	TRUE	1792365838	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOwdy4821O6-90u0darxn6LeX_CkmQv1s.%26dt%3D1760829838917
+.netflix.com	TRUE	/	FALSE	1792365836	nfvdid	BQFmAAEBEFsXISng3MfEF3yHMYlsJttgTSSh3JpFL9ftiwhxaV2TMaQN2hV3bXZGt1gwCbXQh45KBoIdXxxCkLp3CnqoZvbTbbGqUL0bsfeURFolbnaSlYvJ4_JlGcTosB8TMywCl6nSOrL1nngrFa4UWvqe4wQ3
+.netflix.com	TRUE	/	FALSE	1792366080	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+19+2025+02%3A28%3A00+GMT%2B0300+(Eastern+European+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5b4bf43-5d5c-4ad1-bab2-d275da898a52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BG%3B22

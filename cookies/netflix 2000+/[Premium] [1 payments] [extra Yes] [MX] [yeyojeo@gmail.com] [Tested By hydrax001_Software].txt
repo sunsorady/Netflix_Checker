@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lazz
+– Email: yeyojeo@gmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: agosto de 2023
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 7318
+– Phone: +526648073955
+– Quality: UHD
+– Streams: 4
+– Price: $369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Noe
+– User GUID: HGMVBIKP5RFAJAYZXBFYAVFZOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806409205	nfvdid	BQFmAAEBEGVfG8v5b0m7TUdNjwnn3GBgPgCKoIgO2ieU_x1LAWSU59F2txJw2QtMepcgqcS-6Gf8IR_lCZmkM4LdqUbLozL5hqOfBDgNakc1ynQxXn7f6uH_ybp72_D59pmCcej1MyHQDSUrcE-qpaR7nsigMcrH
+.netflix.com	TRUE	/	TRUE	1808578385	NetflixId	ct%3DBgjHlOvcAxLIA7I91d1InjJx0Jg7TqOgfFQ3yxR34JTXkRhgGwJcONXwtpoS3gL8m3_pAI4A9kT-aupU_ENF-LoYNeztK1EsEvVck1j-for-RcY3eoGwPu8X58fGRZp4RLdCgALbQz6tn_BlDCMt5uoKH-n8DDIqAg_UJObwv6_RNpXbsAr29dSq645qRyeFeb4Fh2T05gFsGZGZXjtIPQ34zMAXnuCB4ivD6ftawObdSVkGx_vkIVvmDhIHoBhbkCSDHU4td5Xs8MP_wDgw41Nk_fXPEA27oe3ONdTRoOpO4ZDoRk17Te9dJMJlcruNYiVXRA6lVR40cigcPoCZwOP4l6fuI1Ywki0sRMfpBy0a9R6ZNhrBu25E32jJq57r36FXMS2eto4BiPmbgDwGiPR3EW26EvkyYL3tU1Fy0OY0rFkHc7zgX5M_iA9-N4W2lHWQ-O8uU63fLPalnO_AA9BeEaxNqR50D13Ga7xkjo2YlRxIjP6-JY1Hto6z6HgSe_SD5chappSqFRcVNR8JDi7qjGVeLKwGSxh2iuRuV-jS_hxWx7b69XgurdEqphDmrUafvbJ9lDMXquMcyP3Zx1V6s_pAHgK78Ce9BnHJCaSvtBgGIg4KDIHtpzHXMqFyujdOGQ..%26ch%3DAQEAEAABABQggtg54W8jg4KRm5b97TlxZSm3Lx4yFHQ.%26v%3D3%26pg%3DHGMVBIKP5RFAJAYZXBFYAVFZOE
+.netflix.com	TRUE	/	FALSE	1808578393	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+07%3A53%3A13+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9e423280-46aa-4635-ad62-c1e19435859f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1777042393470&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	TRUE	1808578385	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbWkYYWrryjbazw2MvRhnf1V2LsC0ZImo.%26dt%3D1777042384650

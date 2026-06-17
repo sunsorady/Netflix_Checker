@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Angelica
+– Email: andjelaneskovic19@icloud.com
+– Country: HR
+– Plan: Premium
+– Member Since: January 2026
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 9084
+– Phone: +385992070862
+– Quality: UHD
+– Streams: 4
+– Price: EUR 12.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: andjelaneskovic19
+– User GUID: VXRQOP5ZAJHDJKUUCHLADX73Y4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800477545	nfvdid	BQFmAAEBEISttRCPx0zm0gR_J-u2fOpgs3OwHRcl2AftBGuQBkAHmvHIOweUnqRCVkF-8p7l2AhtrD01rufA84lA9kmH8A-REGWAERh_4UIHHrusRdFExHBeXUg03UgSns2BqrhpFfk2uVkn0cMoiODGYImec7al
+.netflix.com	TRUE	/	TRUE	1801604500	NetflixId	ct%3DBgjHlOvcAxLpA9xNruYW1JSRv37W_1EhCxH-s6qIsT6oIuLDGqY5RApxomUYGIr-D1A-YvD6hFbzjDYvhBGKYIZF-WwnIATIBpZBJKaXDcwJ2cbr49AbXRDgqnwajZMCZhd0khlTC_JFFt7AOddOB4sXNwLe8dL4YX5k-E1_fvC-D5C6IADyGxHYXaWK4H0uBVKzBwNi52hauAUdDpsW6UEqYaRoc-UHQCOq-mD-kwX71wVZahAjYpQRhcbfHhQdxe63Suq5WkG5pXYcQR9VLigGQMwh87KVv4IEVG24c6PdLEx07CLtp0vZeXnchzQoCk4ILCT-3SCRIvGAREfNkped2IsbPzusvIsHqTR-uWWNMrzu9ufUHeiOhsDj1EY-0Dl4Kgwou41aYhbV8JlC_Y2Af-s_dTfwZW10naotfu4trSITErYVtBFNtWX5NLMwyF0xdYF8BxxVcI76r9hg_XUkEeS39ec9LUUTfJZavg--jNEfIxb9Zx16ZofLpseixjNQs-j9MSPfHZ4SlQlZzb4CrOWVBtD8eMxJZyRWjAeu5pCSl1RXcVqadZW1ZOgmxcOPRgwy188U-dUnPo8sYRZ-vNbT5RTgcGBRYu8s3PIur3PI_VfexhMSnkrjcdCZ9UR5I2oRN10VJJY7ffCQ7eLuPRgGIg4KDCjSXJqtVVSIVFSS_Q..%26ch%3DAQEAEAABABTmfoQFCtq5EnTu2f_-dpHiLEGp0RAu6mI.%26v%3D3%26pg%3DVXRQOP5ZAJHDJKUUCHLADX73Y4
+.netflix.com	TRUE	/	FALSE	1801604502	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+02+2026+22%3A41%3A42+GMT%2B0100+(Srednjeevropsko+standardno+vreme)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a17a9af0-adab-44e9-b557-0bb1109d257c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768941511696&geolocation=HR%3B08&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801604500	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpwcmkTtkh1cXv51eDkH2VOpkU_Ks7NkU.%26dt%3D1770068500432

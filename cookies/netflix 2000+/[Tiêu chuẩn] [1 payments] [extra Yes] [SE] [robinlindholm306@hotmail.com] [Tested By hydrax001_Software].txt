@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Robin
+– Email: robinlindholm306@hotmail.com
+– Country: SE
+– Plan: Tiêu chuẩn
+– Member Since: tháng 10 năm 2024
+– Next Billing: N/A
+– Payment: TELIA_BILLED
+– Card: N/A
+– Phone: +46738111391
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Robin
+– User GUID: QKU6KEIK4FE4JI6UCXX2SQLKCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3941205273	nfvdid	BQFmAAEBEBsM8L_ZxCWeVHRo4K7bCTNg4fehF9Bdj-TMDHpCHmdQLJnkAh_p_tktL3AXWbZNed4WpdldrBtkpcMX244ckTMVVzSpGhkh3CLAZnpTc8pGNPx8xXPEy0cVqOVQBbMdd2VX-vIjz_hJktG818f7_gOK
+.netflix.com	TRUE	/	TRUE	4214033958	NetflixId	ct%3DBgjHlOvcAxKhAw1qwoSTEu2vwn4rPohClU4JLaZbcalj6yYf-ZLGxHccwJBONpm52OMn7gurcuRRKjJx9MlToOWy-6PMjonH50eZ9biC0lFMAnjh5qv1gIe6lYVxhiu5TvLRgZuooF8dRZ8Y2Rtv6Lhv42KBQKgCxImIVFZa9ZvBhuprNTGQIC_SIoJvYh132V0w-pdDS5rkO6TfAndFw8S_3SYliB0R8LW8Zc8mAgNiDwGC6YqHN7a9i_u84J5xtJjjLeDN6bLBJ3rg0i8dNHbb5crnGG1bgriSEVflSlgF5-OVRDIrv7QLxGoIi1PRLLJ5Us-3W5vCGIZM0WB9534992fJuNorHikMj3jKyvGp5_TRC_sM_U5NOCD6DcrpTE3ERM-0JbeiuU-9Jf54QxFCPzT7TzK1apj5tLNZY9otanhBO_gXcA6dbi9EXk6NMwo1a-0XixdjOSWmFtuzIc2NU-h4BytOEDagi7GqVPk4DZRZXTtk5sR5qQHiz0TIOTVW4ENzHKpWrGh65xdq2yylQx7QM2jv2OFzObH6DHTRZKELQyDW8_QYwBgGIg4KDB6OVZWyr4S3uNWazw..%26ch%3DAQEAEAABABSBeBCL9yTyzhvOvup9q5_nMhLBhzy0b0c.%26v%3D3%26pg%3DQKU6KEIK4FE4JI6UCXX2SQLKCQ
+.netflix.com	TRUE	/	FALSE	4214034272	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+16%3A59%3A24+GMT%2B0100+(centraleuropeisk+normaltid)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=926e90d7-1e3b-4aee-bbed-13d290f4cda2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=SE%3BAC

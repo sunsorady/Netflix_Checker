@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucas
+– Email: renatatibaldi13@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: junho de 2013
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 1807
+– Phone: +5511961975298
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Renata
+– User GUID: XIEUL6NTQRH57KULN5A5HQZE7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811980396	nfvdid	BQFmAAEBENwpeSoQCgpsahFjda7WCw1gKPfNaqKVdI6nouoRah5aX_ZsDl2VX1CEKGPjxdsaMV1BDKNqUFjXyMkObogedt4uLbcFZWKLrh7w2S1oWRO4rq6Pmm0N3GLz1ILq7evJeXvFCnhoxbDaZVyyTfGWnJtT
+.netflix.com	TRUE	/	TRUE	1811980396	NetflixId	ct%3DBgjHlOvcAxLhAzf2H2Wvw5iwlvHBO7iwoy3HnfNinJCaz9XeQgwKTI3_48xL32DKCN78BYGXDsYlnxJO4OZPVlFBb7Pp1t3i7pbw6BjHv00p3Ec6zidqUIszFhauxTt_6aH79oPVKtY4TmLtzXbdIlNrieegYuInNVD1qCUj4xeI43FdnJ4D4A8IJJ5N58CsEiAXj1HFhXOcClgbYZGbFITG7s1-RtH_mkTuvBasFPIE09EcdKy1O0lc0QjyyuR1iZJk2xn0lHKz-rzYXHVqPm5Hge-BTRW1yx9bdw0HVyNjcP_HmnLUEeEU4rkI92ajPzNMoZy3zNSxgNQm8Byr04b3w_PF0L6AxhK44H0k3p9IvA8CjKLhBcXr4PFgsQMF0jBxpTX9QIuJPfTDGSkRRzXSqV3nDoo89IXDYovVdmagsILGC10MDSXeMATBsS4CEtIjjHvo9IEbKLjvM5TXT1tUS0ukF61Iki5tXcwbxMbeaLy7b-63SujY-KeJKjSQ3YgHmMAhR1p__CfFQUt_gHAckxbObRcDfcY3JaDhufD5FgE81y4xYBhP9tTIl2nJ-8smQjDGL-IfvEYMLVZQ1qPmC7uZVVFeSR7czTlXkwgEeFAG7Jmazv7CF80cBR3QfsrECbkjw_POxxQYBiIOCgx1qDEXCybIreVYbug.%26ch%3DAQEAEAABABT_EiJt-dNEbWHCrzXSVhsrB9gAgRFgUQE.%26v%3D3

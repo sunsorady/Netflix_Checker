@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jay
+– Email: jay.pato@hotmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: October 2016
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 6996
+– Phone: +61434384972
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jay
+– User GUID: OJMNBSUKA5GIPGDWQUXPNIHWXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804927357	nfvdid	BQFmAAEBEE4y4kCer_hFCCxZGe4OIfdgBfL3py-oo2IaoSIARiaDVSQgw-a0ujEXDjdfEIMtrdmKfDlqBVDvgH206icbrfT-ptvaPozmuOCSGvTpvqINJz0WMgBMtsUjjpx0YxM96LC8AUP6F3-V8EvxFdsOG6N1
+.netflix.com	TRUE	/	TRUE	1810118563	NetflixId	ct%3DBgjHlOvcAxKIBDEVjs0YvRCs7l_Ew2U9YsI8FlNPTlxg94FyLcL982mxlhw-Og6xdd_Ck1-etwUaG5Sc3eysLQEnWbRbH6RqQLqLERBJ_q3ksbAIAmmErcfM6ynId4n4FHMfVO31IPGeWgMvub_RBuqbrvQxxNniPL9RdhT7HyaULeeJ9X8s5PY9kbBHFPMr66exS5bCDPlM5cR9hpVMsppltICG3yERRGaCY2kSBTxCbDTnG7TfFecfxQuviN2hfoNyyNatYmdL01hsNRMoqFbvuSre1-xq_rqg7Tozw1YdE45XxOAamm4WcnEWBrgZJVdi1ckRfeNKCIaej-7KwHskWTN6VznvrwQ8P3b8Zs3D9nf_kcLI-QJsnmdzoWhiMRtoUq7DIgaEbIBZMVZR3J6GMBb4mcr8BgyJZvdthmZOg0oRpAnBUdRky9rU3yCpN0N_wRE8N4ID8yYj8HIwN3Gn7ci_2WBROsjWW-SHB7DY3CwrjT5zrzbT72QWyeNC2bgiY0DkJli764OBRIyuf7riAmplpCrqz8nLXPpLpkzdQk8PQCyo1rMyA47R0j5kIgqKP7gRfw8F1wSptCN6JqMfm6UaK-FZpGpibUeFyzDSn2xkjScLMTlzlx5vH7gIW7kL_pDxiXZLPsPtQFWTz4iaC0JbCG4dwCA27inFQL5vOA9w4suGXbHPVB4gizjDK1kYBiIOCgzLUtDIHGFHGjnSZjg.%26ch%3DAQEAEAABABRIupwdOjaab_cHml3YgkDq3FZZCyXhCmc.%26v%3D3%26pg%3DOJMNBSUKA5GIPGDWQUXPNIHWXY
+.netflix.com	TRUE	/	FALSE	1810118565	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+20%3A42%3A45+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b8a4ecf3-154c-464a-9bce-d8d129e764a8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

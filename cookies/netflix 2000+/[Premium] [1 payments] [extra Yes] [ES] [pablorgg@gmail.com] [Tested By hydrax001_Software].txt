@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Daniel Boom
+– Email: pablorgg@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: 3613
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pablo
+– User GUID: RROERMHMXZGPVJPC7RDDTX5HMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800787747	nfvdid	BQFmAAEBEEPpMw61jmiu7e4sl-lzQphgKIAk9V8ONOTo_lTJ_6XgFcvnybv5PqWsRzxFGfYLxth_n51U2MGiyIjcPD0fl-8crGWb0baAEJhhKAcniYouoWh_lNez04-TqkrKaz5X7ojURE_4Ktu68Trs4FJHT7am
+.netflix.com	TRUE	/	TRUE	1806594949	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhAzVowbJMvBzimMXZef3HzvRG7NFaRLvzwu4rInO-HKE6_8GSNEj6spXdOrzrVCsz8-WIzKwnYWZ7gUfEcn7drBUItCTYDSAzp-dqR9o8fkt1jN0sv5hzJA9Q1jNDuYtZg3CJDV0pfrbycvz6O5orRVMLn8uAfRf08k3Tmf8d1AKYXmQvsRdY00swfY0OBh6pOp-t9qrOV_yYhgU-a9fMxPWZNvpYZ8Zatiw_kiPFvUA4BxM31Uol270DJiEwuqkv6cTFzc7fXXXckJBktJjTM6A1QBCfyZNMPKRi39LaxtF1W1cHwgwrWHw-WwDC6ZH2UygosfsmdYdPBHPkuSbeWourqYOuR7NVX5MyJ_1iwmXNkOWolaeskA7pcohbUmuTjvIX2NcWCdqJH5GpkFUVXW7kIvoQK3l4j-F6oBkkXrKaOkEtYlJjB4RjMk2ubR8Rx6-tuEjX6rE2gJTu9UZvyYRfsKuLRdE0krNUzYBTwbyiARCXoB7afByiPjUa-0q77MVHG9sezb1a1ZQqIGOQdNiIc484m01hd4mugYezVn3vbhgGIg4KDGD-8yViOOfpNj_JYw..%26pg%3DRROERMHMXZGPVJPC7RDDTX5HMI%26ch%3DAQEAEAABABRUbSEMYN5AI2j69DlkUQN7YApW31BFCQQ.
+.netflix.com	TRUE	/	TRUE	1806594949	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWuAOttFhIggEEYVYkhEKBnO7Tc2mQByM.%26dt%3D1775058947571
+.netflix.com	TRUE	/	FALSE	1806595225	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+18%3A00%3A25+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=36fb56bc-0df7-428a-b812-0ad48aa167ee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=ES%3BMD&prevHadToken=0

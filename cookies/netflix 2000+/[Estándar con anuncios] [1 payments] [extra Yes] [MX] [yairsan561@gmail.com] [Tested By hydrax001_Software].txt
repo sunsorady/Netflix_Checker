@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Angel
+– Email: yairsan561@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2025
+– Next Billing: N/A
+– Payment: MEGACABLE_PI_BILLED
+– Card: N/A
+– Phone: +522261155895
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Angel
+– User GUID: HX2YY6DKTFFUZK3VDYAVMGZFII
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798515803	nfvdid	BQFmAAEBEB6RRo7HCBx7TSDL-iWwXuRgcU-RFtXb-0U5IjHGnwhlVji17-Hq7Z14Ljnwu3aR9gSo5tLP8AjmsQ6Kdb8dmZr-yM3duC0EtlLLW45EgMrJCbTUAYXRbiojwGAmlTJ09xtJOUwbrWXyLjZU6_7uFuah
+.netflix.com	TRUE	/	TRUE	1811873461	NetflixId	ct%3DBgjHlOvcAxKRBJA8TWOvZBCuyPT_opP-BWmmBKwSlXQOCPpbN2JEey1ho8zpUgfgNH205JzzZ3nnwkSC-mBxhgIHH9IW0i9jXMbVDMyylYUO7m-ODICJ1zy3CcwwGhWrP50FI3DVPtGvg1gaafvqHFrVSHwAxtoHEC_H6z46ATAnuqbzdqSi-ZH4ssTyeaSFmOo2WPT6Vi_-gfOoi-wkGkld1tE7OjYC0a-giItisslgdyYokEsV718a5_UYILOS_EEnvO4spwu-jo7o-wMZsquzBCuolzi6QmBAfjXRbCS-L6B1CFBw4CR8xiVJgZPR7_XIqyKQx9ktmfJIOV--Q2hSoB_fhst6gdsg80pnyoI1fBb2oaI6DNcZ4y5mYc4JsAJt3IQmt7IH6KkQY1IDtnKh1fuWsYUWdxkttnBOzCYaJ6IYCfnt8axjDAF_ydpMM1ctMMj9KPeNsuUzQ9B1oFPF5_2PzIz1xUr6mffeM1FFt_c_jD_I5VDKLAr2qagSuXUEkR-4mxDiJmEuVc4rorvMuDOiKZD5uAiDCUvkiEcWwhxK5MKZu8nab0bwIYvKZzELJTyuPKQJnXkAabp3ryOxp1rE-lHxiGGNDk2ndv0Toj7zfkK4goA1kXaP9iF-ol26iO-KQecunIEqMJxbFIOLYCWtmhENrI6OrmTJwFB-j69liSACkjR32RwJ_HtkK-NcV4dw4sMU-BkYBiIOCgx7D2EiZ0UDnR1-K90.%26ch%3DAQEAEAABABS9OpakNgpHoEpnaNt6jSzJxODMndpRghM.%26v%3D3%26pg%3DHX2YY6DKTFFUZK3VDYAVMGZFII
+.netflix.com	TRUE	/	FALSE	1811895231	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+18%3A13%3A51+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0ccaf09f-448f-4249-9776-54d79f71c0a5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BVER&prevHadToken=0&isDntEnabled=0

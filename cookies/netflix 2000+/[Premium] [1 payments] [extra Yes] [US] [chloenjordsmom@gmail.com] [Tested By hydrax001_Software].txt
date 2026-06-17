@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rebecca
+– Email: chloenjordsmom@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: August 2015
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4333
+– Phone: +15868508128
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rebecca
+– User GUID: 7RWJYGZNE5AY7BIDDN7FQGT35E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEHsJKQz43XuRInIyAtq4xZRgWR0DxMcm_G93gjpL4xkr5Vv2ZOpTQO6sAtX3GxFvz-ZmCMWBNZEf5EJppGDoEXAFOfaeI9u0dzNZ1xGSykTPnZFPoXlBpIgC_PCHpEc3ra6VVm9govsCzJ4bmnP4U_oM
+.netflix.com	TRUE	/	TRUE	1783280368	NetflixId	ct%3DBgjHlOvcAxLqA22qj3875c5Itz9Q5OqlJs7n9Mims3UnmkD34KuL7GtsxypmN2uoDonwXFwK3PcSxMIvHCepX_zqAx5aSabHpFZg3Gl1EIP7ajD8W07fQoogrYK_XZlsmxQf3jBB18F1cxoJC4QIViLoyWGWAZd64Yu4IHyflR63MroEx-hLcnXyUw2E55gn_tDkluGkFpbk6Lp04M9rA90AHET6WnHoUAn_8ToeBTAkMPgBh_8xGLynQRZU3ySjUjAXYj9gKknPqTICLyXJeyGz2c_tejEJkyksb60gY2zZ5GOH6kdx3ezPamdkEo1Kso58G6efWWvyCDQkuLxkTHOhY3BVj0Jt7k0QBMJNWCM2eMI2kLVPiGZR8x4CM4k_QY4fLKX2zcFASiFfTIydh_PIXBu-x7NPCsWNE_Umv_vnLUOcKwas1IUhslXAn2QfK6YpbAsYWnz0QP1FUbL4zgjXDv7-YEfwZIcn4KI-6UGOAOXrzcOkutii5UbkHFq8SUMyrKRVoefwcrRWOVTaKp05doFGVxzE42_huhMMlZhYAYgpMDjHRRp03GLtd3mNRcvPivGUR2EmHRCQ3LpSl4-zz5B7BBgFoUPanntGuV40ab_Ch_oH_Fr2__7LhEkckIw9Cgc594espmXjS4Bz9f7prRAYBiIOCgyvg1LcZK-OHUKwkgk.%26ch%3DAQEAEAABABSV9kE0XnA8joyGQd3ZJsBSIz3GUttd2m8.%26v%3D3%26pg%3D7RWJYGZNE5AY7BIDDN7FQGT35E
+.netflix.com	TRUE	/	FALSE	1783280369	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+05+2025+15%3A39%3A29+GMT-0400+(Eastern+Daylight+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db50f932-bbc9-473a-b042-7540c36010f3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isAnonUser=1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sebastián
+– Email: lizravagodebracho@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: December 2025
+– Next Billing: N/A
+– Payment: LOWI_ES_BILLED
+– Card: 0233
+– Phone: +34604382819
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mamá
+– User GUID: Q7QPTKI2WZC7PA5ACDA5Y2SJ7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783966136	nfvdid	BQFmAAEBEP86V_n8CKjasmHtBmqrH_JgJuwwl2cX75JPjfScfTSzro3A9CjD4FoY87FD1oWE5YqY3WXZwqRrfF68QeQt5XEA6BFQmvQR-cKL_GGWrC4Fv4mKVhZySEvnZPS4WbLqIRKibHgR-jX5mtM5bA5bD1H2
+.netflix.com	TRUE	/	TRUE	1808226358	NetflixId	ct%3DBgjHlOvcAxKIBPQjEZleGshbNwpdsk0V7K-Zjn-d0SsLiZhtfromoWc0AjWNqSgWKd8RqnQZi2o842MUMQSUanYhM7lWHj4OcvAe7I5CAQg56wBvxul5spHstUlFxGApj2dqn1zPBE_RUbaQI5iCWhKwSkFfMSZ5nldmyJ8Q3vTGgSAwOG0Z2Y6T55i7Xn4Z2VSvfDuaSFXRo199wOWWO59rexGdPEs6QE0kdoBUnS6g8L06NUQa_zX1nKRrrzuP7TbJ_BscZ_MT_v9vToIh6dRx-ax2yeXPcZlxEDQ4xRWdqgGhPJ4aTkvJtNVTW1ZlGKZDraTVVE09TiPvsfxaZylZ7WmX2zqYBC6ClIm9GmmprbgbCA5YqCsXl3MvQkz7_6uAbdch_FcMp4vQ4yChPjZ2xG9sxL5eH0UIkkS8_yEeaAvEA8JZLMYzIixdy75J0Rr0ckUzgfvIufcMTDawK_qQa7exf512z_qZOaRwvW8NfZ0_lrJnmv9kaFC3aEg-dzbnGBZMgu2shFupzk5odiLNfn7DL92hJuYevw-C3q1BF5KJ_J4Xb--7BhJxFcKxaK3D5h6p4d9tKwiRfGRLIfJsJArLPniXlFVZ1b6yXvZ3O6AsCaDd_QTPMAoabqFrJsVhYm2KjzeltqAhpvh3ZLCdijUj3ijVOC8HiEAQs7vdWA1UvfibIjeWTCSLIQZfWKAYBiIOCgzwwOZuWzbX-wlwoDs.%26ch%3DAQEAEAABABSKnYoPG13bDMluMOAqncZQgJPXSTDHuJI.%26v%3D3%26pg%3DQ7QPTKI2WZC7PA5ACDA5Y2SJ7Q
+.netflix.com	TRUE	/	TRUE	1808226358	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1lAJuqYKgsCRRgoNak5VGqSU5UT1Jca0.%26dt%3D1776690358436
+.netflix.com	TRUE	/	FALSE	1808233814	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+17%3A10%3A14+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=087d69da-7900-4813-97bd-5a50c65d2c4b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BVC&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 2
+– Email: wadacafa1204@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: diciembre de 2019
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 4264
+– Phone: +18296864967
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 2
+– User GUID: SGQGIZH6NRA5NHBPD36M7MBTW4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795329196	nfvdid	BQFmAAEBEEn3al9gy9r47ufASbbhdAdgZNI4LK9ukATw_-QDCuqbb-ujLQfF1ILFkLN-ad8OlUNSpyIA3ZCN_maSBZBMX7Rp8R2j58T6M963TTrRZ_4ZuHLNm5MZ8Jn3Z_EfnRWjufmA1ZckmecWHWacWeFOvh-T
+.netflix.com	TRUE	/	FALSE	1795808658	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+15%3A44%3A18+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a25e3f3f-ef49-4e60-abc4-f306f46f55d8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795808619	NetflixId	ct%3DBgjHlOvcAxLrA7BYCwhivfHY2WuB_WrzCD1tI2weBFb99yBod9gMqLjVufv2irUeZn86-LesKhrXiEJAiG8KCEDVXlQXeAdidmJdWvEHC2_4COt7i-nurRQpfMa71M-_cDbnPAbykzVuGLV2Zup6NlcmRZfpqND02DRMa-pHtK-OtMEJDL_jZVzaa9FAu0lUi9-Lpf9OI9X07vW69yLkTGTLtKT26y7GNc1vY-JDBcay0g3g-akYCI28vpX-9bmHmGYpyg7Ri4eb1G2qayU2Km56Ka1uXh93YGnNL-6bogeCgIQMxJn6qkFS9x9nhsFjQc1JX0aZydEGIVqcs1IRyi6Q8lcvgxXyYttDFjteqVWRXpUkBlm-a4oRud6pJEOpBqorNb9SkEvO2ppmhDOuRSLYChjxlNFou0Uy7LpuzphLt8lXfKzd2zMRdWsHUQHRGv37WtNY-OoltKLeKGFIEH9E7ofK5i-hGtjuFqnzPM_3KOcj2mHgl1N8ORO4yMC8EQ1bV5U9YYLES63_4572be7jtnbX6E2I0M1qSdq6WYQhgLt-9UirQ66Fx8n4jhrgNt-AzefNivbhSbyGbOT1xfkJvvlqf7GSo9ZMspH4y4Id-9xzAI5ShOLm3N1g82RL9J5ug0TY4PXRGUKIo_rjbCerE9dmGAYiDgoMEf4bPoH7Aj_wvcxJ%26ch%3DAQEAEAABABTNLerFkyrWE1z5GDve0yggcgJ1__Uz8X4.%26v%3D3%26pg%3DSGQGIZH6NRA5NHBPD36M7MBTW4

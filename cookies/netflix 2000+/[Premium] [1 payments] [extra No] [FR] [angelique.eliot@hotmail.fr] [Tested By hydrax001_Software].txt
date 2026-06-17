@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Max
+– Email: angelique.eliot@hotmail.fr
+– Country: FR
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 1896
+– Phone: +33606436240
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Glass
+– User GUID: Z4TZECSF7ZA7NPN7BLZ46YNKZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEHslAFu5azp7O_ggQYZdssRgf_a5reaGPyRN31MJ5MeKAWWtzB7LXMymgjkRNFLWTveBcB8H-xd1mKSy1NwXXzF6hgkSEByprK1090E3EQqJeE9uiTNuTLHM9THoMulN9BETKJeyUleffjx1AADx0HBG
+.netflix.com	TRUE	/	FALSE	1808145950	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+16%3A45%3A50+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83b21c0b-b495-49c9-af53-d06a7e561f03&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BNOR&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808415699	NetflixId	ct%3DBgjHlOvcAxK8A2vwQA9nPLbX8vMu2Z7MMXoxnh9iW14BxYvZ3OIMxRNvvzc1AkaWvW8qkPPbljkz8gjmVrJTVxYv-bTgeC5eXn5u70NWg10GxwDCn2H9zpmYdyQLy79INTitUeyp-NWC0UtV5D6D1ZAlUZuVkDoh554MtJ5rtHDE3XSgv8DlT5Eed04wQX9aUYKWaafQvWK7Jf1_TaJTiBm5iyL6QHs7Ny7H9MyofRUWJJkOxKPxedpFItkERm8tooWOTpD-GgJXlLk6NdvfOwCnwb3CZYZdb7QXo24E8G8YtshcmDvESLHQUUXkCFDXBSXoXdNuu36E8Bag9suX8SKiK9L9g4bkiK-ENAAtdFlMsZ5fM91RWRaAWxqKXPmA90MC_5yv8J2e1pFN6MGZ7Kbtaic3VZPCTmUy80qX4ruYlL5TXn6DHDx_yORuvxidQFkAZwjKP0YPgsuoYtvNC6qk49Qhz9O0HHR9zK446KmEvMQtqSCSBzJcJPiFpb2e8RwhLesDoLyeNdhrHMRINtnR1VYU05SllGfp1IDwMeERlJAqSbrUIkcfQfkKCNwuIAy469wkIV4fBafOrEOkhcts26cJIBgGIg4KDBWpbgD4JzcfUgMmag..%26ch%3DAQEAEAABABQC4-n_jTAc57UgUGG3H8LCYNH_maAEEMg.%26v%3D3%26pg%3DZ4TZECSF7ZA7NPN7BLZ46YNKZA

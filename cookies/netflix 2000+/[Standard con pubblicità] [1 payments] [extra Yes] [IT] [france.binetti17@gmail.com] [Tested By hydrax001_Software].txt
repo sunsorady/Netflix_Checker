@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Martina❤️
+– Email: france.binetti17@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: ottobre 2024
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 2056
+– Phone: +393487159580
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Francesco
+– User GUID: HKDRNIN45ZDAHIUTCHJIIS2LGI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793446578	nfvdid	BQFmAAEBEJsxEBXTznvhm2JGZ7xuIRVgcyQnrhzOC8I04tAScYvkF2LCRxt8ITU-w7eFONQeTl0meYAujo1O6ScQ4mr7poF9hGulGE_UHNxDkBKbu3IX_J8lxfPYLNxxs7K_vk7Rdf2js1f1-EclNHjddtNTeEUU
+.netflix.com	TRUE	/	TRUE	1808942900	NetflixId	ct%3DBgjHlOvcAxKLBDcl1eHuhKIwh-OzmuM7FY8sPuDcgHsrmLiGLbZj_3qcqfV4lb88vXIoZ96vSEJDl795NiWZJ6vcZYFz8mN9MrDZwNZ_m9fYhJz0VQPLnxcn6E71LxWRncM-3tXADmaLcSS2OpQh8E_eOZGF0CSn-wRyu_xPNq_4IZTNMBB05Zym8PydHE9xHa0rx_QbipT5Rsizr1mj3bZobqyPyI7UAHFFhWkJXkrCD8ieQXIDBfwhYGwoL2lFl0VWUEtmRSKiNSYjuteu-wB_XC4gCZB8sSwRYkLW6cwuEsqNPoWHxNxe-X0Qhzjx8Yax1UlfMW1vAHErsFgHqH1ixtJvgEST2UJW-C0eam-2vCfgvu9GU7vevGa2d0TZ03tLSrTh0rKnPMI8gwX9gi9CSLSQHqtKWYzW2UgxH5_-RvNQiIHke-ucSgWHnIqNT-7qxMuNgTQsLT3FGDFE3Vqt07bBAj4mGwO2_o3kBQnBTPz2rZ2zs_qlioR6PZnPIhzQmqpUz10NGRHRFEssfq00koY-i6wUSXRKZTSJuC6CkvOlLhsJvqSKpgla3JXj406lGPeF743aqcbb1fiUXjMXpKPNF44F4XdKAZEknK_t7eU89MRqCYZQGDa6zGhvQ1qra6KLSBMRfgR8XHlZX4W2-DqnZ7bgf-SeDb19kEeeZLj_k5vc4cxHNHXsPw04MsfuoRkYBiIOCgzhshM8Inq9KlxUkQM.%26ch%3DAQEAEAABABTnZcN2yo88aidUQmzJ8FF0roeIjaMJh-g.%26v%3D3%26pg%3DHKDRNIN45ZDAHIUTCHJIIS2LGI
+.netflix.com	TRUE	/	FALSE	1808942901	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+22%3A08%3A21+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea396e3c-00ca-433d-8614-8862bf9e46cf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B75&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808942900	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQVkHkvssSumQ8uKBq4R5LEyGUVA1A07Io.%26dt%3D1777406898403

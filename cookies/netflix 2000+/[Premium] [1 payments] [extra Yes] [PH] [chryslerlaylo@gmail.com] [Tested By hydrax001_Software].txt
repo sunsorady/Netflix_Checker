@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chrysler Laylo
+– Email: chryslerlaylo@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: N/A
+– Payment: PLDT_BILLED
+– Card: N/A
+– Phone: +639454530942
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chrysler Laylo
+– User GUID: CUVUZQC2RBFSLHAFKYGOZII6WQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808736697	nfvdid	BQFmAAEBEL9qNgTh34EP1TceXS71ZKNgH5jYuAo2QohbcWF8upr0HZFhsxHUFNr-xSnVmmoDOYOUW0jKJOashqUJH4Jsba2FBP9HnxqFtnqOP8uo72OBqHap6-masr6TvTBwGeiCQcKRNbCavnbDK21_tz_LWtAM
+.netflix.com	TRUE	/	TRUE	1809947959	NetflixId	ct%3DBgjHlOvcAxKTBDHe1eGFSwrFd1lE-FMIIYS6-BScClFneTySFG3vuDp4Upup9OukhpMv8Bl06VzI3cxHTJJjrSdgU6kvmz6BxBN0tlYNkjE1j_ujK41qJOM6Oj9TDeLSEqjL03ltlsiUbuvuxqX42u1s7moB8G7lVlizSNx_bv7hXjADUqhOS4vDHi7SFYfA5nEOXGWtqmeKVQpnIhPSqBA0Hz0dVdkUt_VNf9wLU4L8EvEoL3gJKOZs3ClidCo-PRldNpyKwe2F-iTn6cL7nLrT41CFb7lq39i7rKQq7cWuK5Umt-JWnKFylK7AGbf_byDsQLHT1GFfszGSxqf2iPFvbSB6gUtYRC0LzNHBRcZZ4WnMtgjn9IlyguS2wQGdLj8qvkW3qADgDV-6G5y59JUEZJYfkcFcL_exbcSXKXr90_1oIQ-nzdIOCEChAm3CkrCUBCvfZuVPGPuShJBBPrJGDc7H72qFlSmWd0xkKfwy8wOvb5lA16mJ9F6NoNsgjIyly4Fu0y6ZXbm98fDehWRd3GwX8pweH-RSFWnhAqQFP-N7QbVnSzVpfV-4x62fG22nmLH27x3Nq57sBAjoWtLLqVj444-GZEideJG5i6CFzetFHRcyfpgdKDOLYnpt96ZMkzuiEYvRpiyS8Qj-K-mCHD9uckezWTMu48_g2E2RnrRRNwQPDuUQaRYhTo0fmNEthOCW4tERgLoKohgGIg4KDOjBBVPAIy-72quiwg..%26ch%3DAQEAEAABABTXz-pM5f-A1VWMSF_SldqkmnK9yUz6yqw.%26v%3D3%26pg%3DCUVUZQC2RBFSLHAFKYGOZII6WQ
+.netflix.com	TRUE	/	FALSE	1809947960	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+19%3A19%3A20+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=373c78d8-312e-442a-a361-755176ee4a5e&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809947959	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIU8d4Uw8Cm35kMuudDW0gWeFWy4OPCaY.%26dt%3D1778411963204

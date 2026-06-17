@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Murilo
+– Email: marcelo.moreira@petrobras.com.br
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2015
+– Next Billing: 2026-07-15
+– Payment: DC
+– Card: 6710
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marcelo
+– User GUID: G2S4AEQP55HXFOGKJKC2XG3I3Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1779751327	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2Atsn9J1oRdxqq0NFWQuOg6K58GyUwIqXWe-fsE5QstVLOWXTHY9UhhMCN2IkCtD9h0_1LGF62LbyGnztImBafmlBE24Q_CN9UxYZeISlkgxARlXNVFi6cEeXEgow7Zs3AokJQYHQQtFOSeX9Vt7CDdSZ-Ss1v0Z5oEE2a7T4UABhz5vPq_LIxMODEVCCof8xiwES5HzzxL7nFy2kK40PZ4Zy2E_WIqYvTvAFJEVZQKMVOxbVU7tRbkm18RJigD-3U5_0aLi1QA80-DF3wLyH0ddxgqJCdLVWh1hyeqzhNQDO4Mx7ZAKMSTmYGBgxr6nc_btDIz3y2Vdm7vBG92h7acBvKLvd4mJwusGUIwJVVYXMSaEmuC3hlScqDTw9eI6alYauIFOFFxI1EIKng72J8KMVVhGm1LmOiBRfA3wH67FQYsQbi2Zh7gVFcV72yZgzRhV8QnHiHT2DGZJHpBybuteom3e7t1mfGzL_ZH6du0NG8e2L0jaOGAYiDgoMY87nIDnjintpRmMF%26ch%3DAQEAEAABABRuWqj1wbXmCyqSo-yjq5JMZaqJIbn-rX8.
+.netflix.com	TRUE	/	TRUE	1779751327	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLNii9FRyPhEqUtgpWMOWvLBLueNcRfvE.%26dt%3D1748215410810
+.netflix.com	TRUE	/	FALSE	1779751324	nfvdid	BQFmAAEBEPQF7eHnbEeGcfEV4Vj-fH5gLgc39hSRGK2UFH_iLgAPgoul7IMpeJPx11cZ4dBkq4YgO-zjAvPta1vatZdzGlvhfpWO4gG6qMZX7QXe0q2d4V9IykLRgHJjl2H_zTe5ccnUJAi704L_h1lbYMCktHTR
+.netflix.com	TRUE	/	FALSE	1779751538	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+25+2025+20%3A25%3A38+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2f3d2c46-f442-418f-af9c-905be33cf870&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false

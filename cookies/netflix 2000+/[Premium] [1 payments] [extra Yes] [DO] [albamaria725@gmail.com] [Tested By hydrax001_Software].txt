@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Josué Y Emanuel
+– Email: albamaria725@gmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: August 2022
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 2116
+– Phone: +18299744750
+– Quality: UHD
+– Streams: 4
+– Price: USD 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alba María
+– User GUID: SNMGJKSVYBCUTDDC2NU4YH5VGE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786471269	nfvdid	BQFmAAEBEKNMqXaWu1dGq9AOukCI3edgwRtDI3C00j_AuJ9AH1-MeeXSqjx8k4S3XMg_BJXrj3SfZ8HQgIhUSaWtU27e9huZVxAfD6rd_AMNHe_HMRSe6B062_8Z9LjKieNJA_8hhIgnwYQSe-SeLmNhGx11I1yM
+.netflix.com	TRUE	/	TRUE	1812905248	NetflixId	ct%3DBgjHlOvcAxKPBAub1E5x8eSTrBdkS4y2RHGrXHNay-CWADtksvVF8wNJsQw5c8uCmCMCFUjQpBmQFIjcIMfEJIblqkhb3bt_KVpiboD4I7tFONac6mzbhzAGjLlXn2bXJ-WRxIrNMJ7i-YKm_xHMVzypHmHQhPpGgEQstrA65DrNcmgnK-pLUlEOYESMtgoDm6keSSug-6LvF73s0O59_wnDfgetbyrrkgr7mTYEuaJKf_jcGr2PUJX2LIcUBm7_ml_yJRN9Vzz_ficy3dP82iiIV8v99RdxJrTvgcEm5DSawBVi989No0gkI8A1WPpIN39VxhYJDAYecKAuCeOZRNR6q2Hnplx7ASeav09oncnQJmawHjLs6XZpqciI2b4EoYARn_L5M8Kvt2TSkIbyEWZN-ON3ecrH4huzz5jlsgjZ2AuD-K4ehyRinpQGK6s2OFwMgEGqT_GJ5BunE0BWHkDXX1mFicB4XyvChcoX8DaSGtE0iM8EOn9VmDzH9LARzvBnF09RyAMTnI9a3leyymIn_DBOXiIKPxq84RltkHc8JRGr01VmKQoBjpUIBarkiCK-UZF9WNetS7EB9Nkg5RJvM8rsOmTo2_RoxCbjK3DQDnLRgoWB9XpmeRto9eLiar6nYFVTPVAnyhTp_Bm-vFc10KkapN1lltpIIHkHE0PfarUDt08SzDJ7GzDtmHZrw16b5r10G1z3GAYiDgoMCt7NcaRb2ulcXb3y%26ch%3DAQEAEAABABQ2frFg-TSWxB2SxRch6kGYTF---kjOlbk.%26v%3D3%26pg%3DSNMGJKSVYBCUTDDC2NU4YH5VGE
+.netflix.com	TRUE	/	FALSE	1812905274	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+13+2026+12%3A47%3A54+GMT-0400+(Cuba+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ea5cb22-3ea9-4c63-80f6-10d09b7a361c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812905248	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTR-KzBNNk8i0-y5IJ5OzzItgoNVCcGf2A.%26dt%3D1781369249568

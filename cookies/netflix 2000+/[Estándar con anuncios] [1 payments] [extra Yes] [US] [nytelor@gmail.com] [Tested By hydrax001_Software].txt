@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kong
+– Email: nytelor@gmail.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: noviembre de 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6565
+– Phone: +17152714686
+– Quality: HD
+– Streams: 2
+– Price: $8,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kong
+– User GUID: BWVP3ERPFRGEZH33CSPKCHDBFQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804008668	nfvdid	BQFmAAEBEF1-spiGpRUPWMmlHD_z7xFgUeWyvMKl42LEpbOCKEgWZdMs68ny9ddvZ8SCYHLvYAhkFZtGT_1-gKuThgPqT8nOvvSPKmQUodH95J-yfrP5g_wIfSrgKCQfqi61B6rvdsrJU-DyvicnrMZ3AHb8UytV
+.netflix.com	TRUE	/	TRUE	1809204191	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGEOtu8qQy9ZBR5bYxrLfmNnxVrHMm_Nw.%26dt%3D1777668192395
+.netflix.com	TRUE	/	TRUE	1809204191	NetflixId	ct%3DBgjHlOvcAxKyAx6R8saGx-C24xjkqdc1RhmzYkqmIeShkiPfLJeanqFoX7QsuRqYwstrHH2A5mwJIPyZDCZGUB4kAc3vtnNmeNMKtT9e9oCzkRxW3q5ZutSEBNuD34ItZn1ZlY-GvADeK5JVFmHVuqVyRj3_erAQsyt9vdDl11faB831QaUhWtetmQ5AYlihr7Qq82xdjw-pprB5KvkEMdMi3EL6ycpYOnJP3rfmgYSccH26C4stPhSogRYL7xNExjnOTX-T9bHjV6dpHvU4UQWdqx0ni7HLflo-Qgj8COf1EJOm1yPT_Bi3Ba0Lxo4WWF-Cz2B5R1rJuXW-foV20cGI8lTyCQ7d2HmVrbfAmV7dOJG6Hqdmksb3Au8SLBCqg86wgEknMnLxV-9fWfcCytIbrabdW6v5U0WljdOVSnxUG5rPHqJBSj322W5-hchR5iv3xj6gLYbqGmRRkBgL8olVAU6deTh21Kk8Hm9Ba3TMdWTELknaCWJ6lOUWiYKZgnVfp6wfuFSVEp4KnFfy5jgcUq7IG0NMRdXi45hw_UHfOD3aVEOojWc5rZfed53xFIr-XylFzAYj5S_1GAYiDgoMUYDT1vabOfJxgEL5%26ch%3DAQEAEAABABTdKYQJxwNGOH1D3ihy2S-Wnt-VAqLGNQo.%26v%3D3%26pg%3DBWVP3ERPFRGEZH33CSPKCHDBFQ
+.netflix.com	TRUE	/	FALSE	1809220509	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+20%3A15%3A09+GMT-0500+(Central+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9646922a-925e-4987-85b9-46a1556bd2f6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

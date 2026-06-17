@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: donceraskite
+– Email: donceraskite@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: May 2025
+– Next Billing: 2026-07-07
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639171359597
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: donceraskite
+– User GUID: TXRNMKQUUFEVLNVRAJ7ZXDPVZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEGeCFLHDLJfLVMaRcKzuHbVgJTX2068gxLB7NxCPyWtMFWoJ-e3RtsPWaLZQznZDMTO-13zOnzFpHcIVv3l4iGaYmu7qoRq8hiiW09yTjnD_oqrCb6xNN1uq10hMiqjtmyacHV9Pp7oxeYJHBXv7gyO_
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+25+2025+04%3A40%3A23+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0eacbc23-e607-4552-8a7b-fa5200096059&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1791861753	NetflixId	ct%3DBgjHlOvcAxLkA5FyyrWLdyCQjm4MmihLkO75S3EhDmjMahe_5zO4UhkPO9mH_aN3XW3dz2wkeDSdIolc0UVJQujbrRHskOX3_nJ2e3iCYul-dScSWS59xkWNM5_24nDdLDY32Fm2UukJ50Rpg9Zkl-zjA5yyNJU8DmquLZAv2KZQVbCaIuBByJplRy2BiTX5nKQ-1wWb6TnQgh-MDKvzOYSZssNh3z6AQGL2y_TbyaEEUJOrijwzW4I6aZ5R5Z8zdtyBBeACiavTjyHzrUvW9IXIMp7yHLN5Ekcr2ITEp-jhuOjLPb-yOmpXBsEV3Gj5o_KbzqO0urlpDho3LfTU8NC-O_BkUzJDGMI71Jp5vqtTldL3vU0NT9mfenRW-AEXyUwu_x_VqHj2cbWnfdZ5M3UcOKEVjvaYKMDSxDk1bknev_k9ZM1TIccAb74dhawlXdIspUekHR8rnEdIwqCvslCJew8YyUjQreOH_a2dS_f9GZxOppWjg9c-N306tNtE43RSJN-q3UobLZqK5Ie4zNtCIipqSPhkbSYVEojQLupvADTmvlTR6vScpAFJbJJRIhOWh66h-Hmf9HZImMYi3z-QiHOxycRS6izcrM_4exDkmWELC0kcfq9YYLuK6n8Q4spQW0NkFv5Zd2NmV_MYBiIOCgxXCf9ArvQqN9Y5StY.%26ch%3DAQEAEAABABTLY4jJ19YNgWVf4pSLdWkuEenA8jLnXUw.%26v%3D3%26pg%3DTXRNMKQUUFEVLNVRAJ7ZXDPVZQ
+.netflix.com	TRUE	/	TRUE	1791861753	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkzsiFpnL82y24MeJLleJRWjzBRDiI-p4.%26dt%3D1760325752515

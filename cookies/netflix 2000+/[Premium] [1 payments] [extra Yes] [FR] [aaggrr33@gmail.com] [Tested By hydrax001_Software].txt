@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Théo
+– Email: aaggrr33@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: octobre 2021
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 7553
+– Phone: +33611826786
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Xz
+– User GUID: XCUDT7435VFODETN7R6DJNUJMA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810647623	nfvdid	BQFmAAEBEJiWtOfBoQGXtvcf4THhsj5gY_3Hphvy_k3wtyHHD-XvYTea84tE8jBcApNsY1nvcv5J7HqTlhwPfNUNUdVJVV6VXt_5zy0EnvAL2pme-tRz7J89fsy8vd-IE5hl-Uy5KYiLAzoRXBib7-Xoh4sjKKJo
+.netflix.com	TRUE	/	TRUE	1810729575	NetflixId	ct%3DBgjHlOvcAxK1A3bld06jsCj4bNFfqJcbE_pFc1J6or6_dl8-PG9_yderTm3Ss18qKIO_bdOYtjlaWyaHubc2hAbks2IOgE-K5HfUvt3Fju7IhkOEymngaptWtnbmXXhdtnS7w05MZ_6MGq0nQNFP7yp_2VLfYXuu5xrpamXCSzI_bRaIBZG6nWWtYz9TrJ1mvDFX5LvsOkHVAfjWRzwRsKmf7JaN58zUqZz4Qzc3bBLA4urNEseN7fdPyykYJaLXnkXxwABN505Cng1x6JgjAY0bXmWesBhkS78zNgAzYfsOv3li--BDaWWvqE1NeKyyuo0cfZh5yQNijYzdAQx5tSEc62r-RAJ78DxYtQxARHkinR0d2Y-CONv7sUmYQ3Axm9ehqEfAjI7HU0M-TZ5OJ5W2cBzCEG5bqO1tnj7hspVnedikOcjBYWm-B8qgm_xx05ojJBuaUO_YDFcDFVAekmbwJfDeBdEs0TWrKcdcOZkvberH7bgr1gPvCv6SZrEpsF9bI6kr1hS0qlBNnybv4t6YBMx8a81uN8rE2XEo_E52rRYv_6frayero3MXqYoep925n2eQ8EOsIScbNHmTGAYiDgoMbTae5lg70bc4GQYS%26ch%3DAQEAEAABABQu_3vY6wuUNf_wsfHT89i4l1NMRnbJh38.%26v%3D3%26pg%3DXCUDT7435VFODETN7R6DJNUJMA
+.netflix.com	TRUE	/	FALSE	1810729575	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+14%3A26%3A15+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=794108b4-853d-4d84-9df3-41e2c5460151&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1779111628461&AwaitingReconsent=false&fclco=&intType=3&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	TRUE	1810729575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHZTdFHWzatAnoOGrJHp1n9l706khBvQA.%26dt%3D1779193575496

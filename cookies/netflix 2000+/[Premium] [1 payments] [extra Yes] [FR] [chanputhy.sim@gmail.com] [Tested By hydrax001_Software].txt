@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francois
+– Email: chanputhy.sim@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: octobre 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 2149
+– Phone: +33775762457
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chan Puthy
+– User GUID: AKLXEU6DDRARHCVDKV6HEKOIBE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797361596	nfvdid	BQFmAAEBEAzCju5an4DGHttfsHMaYV9g9q2UZK4vRd2vB9_ftLLaEJeqIkbH5LCHwPtZDJrmKP-FtcjthaGgpn-0jTqK1VUyzRCVVEw0wVcTCH123R5UgsHAZSyTQFxF8BA6u__CkoX1ZQrQ5SJspUQb7570i5no
+.netflix.com	TRUE	/	TRUE	1810142378	NetflixId	ct%3DBgjHlOvcAxKEBM4ar1kj6jT95G3Y-B7hQllkL6W02DTnerbbuTwF5S7p4U5IK0zuwVrX87ZTDeDthBHblw3bHqxgxW0jCY39syOQpngZ2iyYsRhucMqMze304l7d2kjI3Ljie_se5jyFNMoQ6worZrbXtYMw1dZxbnGYlCUb9x3FRE1QVmMl6IE_MJUlmNzMJTz9aSQJmuezdJKHHX6rsqKjk_tup71KrF-NBSZnNVcv1AXHPvMLoI1RBUYG4xhNEnIOouBUivuZMuoLv7inlDTNDd6g3Q1-hk9CAfA18RkTatHHhGRaquCwvgBY9qnwNGVOnDCmAngZYO4uMvRgyQQfm8VQXPXNNfPOz-cgLkbnBr9jOfol8lMAEQ-A2FLm5KQp_P3aGrER5D4QvshXZ_HaFUlmT_ktV8r87XpbjiCCFUr0cZWUyKrv19XwPaw88wSpauC5DWXYk2eih_aUfx5LHHyx4UjTdJx5teyM6qA7SzTm0O_85Ye-UUOmZMTDrEMQ9DUjBelSgrH1NUhHcCaN1azdYOUxWhu2aMRX1YODE-2gnbluuNAYZr0bFwxdZDyVKWipl3pS9C6o8fNZkGcO4ZmdzBWIvGl8ILFYw8Bcwmve9oFgtPsh7L9ABR7Xi-dkhXgmb5G8MV8gvVEjh1lrmBrZlVfP-dm5WJg8kEJ6kdZule4Qqd_1asr67BgGIg4KDPEC9H3RxiIdWasvlA..%26ch%3DAQEAEAABABT_MbAW8UYmQSPcimUhMLitCg3GPSub_lg.%26v%3D3%26pg%3DAKLXEU6DDRARHCVDKV6HEKOIBE
+.netflix.com	TRUE	/	FALSE	1810142379	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+19%3A19%3A39+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a1b5d8c6-df0a-4d94-a5e7-9fb2be8d052b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810142378	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_GPiHS_mjv9fYZEDlajbknSHf_JstUpI.%26dt%3D1778606384222

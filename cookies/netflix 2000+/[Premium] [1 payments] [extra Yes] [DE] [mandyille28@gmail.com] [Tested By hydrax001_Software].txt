@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kiki
+– Email: mandyille28@gmail.com
+– Country: DE
+– Plan: Premium
+– Member Since: Februar 2026
+– Next Billing: 2026-07-06
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mandy
+– User GUID: KXD4YCRWBFBQFCDEC47Y3E6WJE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810410043	nfvdid	BQFmAAEBEBFd_BlLGQt5mX-IBuC5SJBggNzZ5WW_I6KRcDDkKMMGx_dSRUPsFcNl3zY9vQ7FuYr7bsi95NR05xIHi9W4U4_qV48AWW_kLYKLezQBzNRfl--3LHl1temuf3HAkb3ZurDsHKg_aZq1GzN6uCs6MzCQ
+.netflix.com	TRUE	/	TRUE	1811866967	NetflixId	ct%3DBgjHlOvcAxL-AysbvqKT2f2hka69nYbJIY7GtN0upqhfYKuEfwMJ-Zh5LdLo4WX44fyRu1Nlo-HgmddpQz2PxyXz74iVM4klqs2MSQedQZLJBcENnvBxCQl-3vl6my5laFEvYVQ1eEP9y4EPw_2F8gTf8Zn3bcfjAskyB8bLypn33ZfY__IeGFdr8oNZwQLpi8OSdVW7qA2S3c_vo9imj1AdLm-JfgJF5B7NSWvBRTO2gtyNGwGyhjkHcLVwQ5qZG3vGcOOO_IWG7auQXRqX6DbQIyi_PqhW45DCSFICMt_TmiS8p1u4NVkjK3jDfimErRD4ruAM49GNYr4HEzVt7lY_RhokweM0Cam2mAYHzaeEORoPaxQo6QGJ9HWNbKWrjf9mGZsMVJNEQXT0i2FLIOCPT7_Y7Z4nBZevec0lM14TqLkatq98sMI1wG4Ct9EVYwtEabvvl8c76NNBd8YC8M05PKxEkVeSQvWMYQ8JLaicjNqyfFdu88rFxS_sjJnbn_1477fRyD0GcVyxK5c6wivgN1Z8WylIh6ShMFDF6pruLErCNge8UV43HCzg2nX2pPAdkCDkcPvNGecb5eoQwcI22KPHndAC_dLYPWv2unO9V821t_g4e26M14QlNzlrOp3KMBiXrZ5Zavwqu5RTUaoZg0gF4Pz5mz0COk9VLcl_gkDUt4wlQxgGIg4KDPdho1cBi7BtZ0DVCw..%26ch%3DAQEAEAABABQMITwW9Bt4EWEDJ9YAj4r3nmCXhyN8kiI.%26v%3D3%26pg%3DKXD4YCRWBFBQFCDEC47Y3E6WJE
+.netflix.com	TRUE	/	FALSE	1811883903	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+23%3A05%3A03+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=79d7217c-1e06-4bda-b5a2-2bc490f07ffa&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1778655571154&geolocation=DE%3BTH&AwaitingReconsent=false

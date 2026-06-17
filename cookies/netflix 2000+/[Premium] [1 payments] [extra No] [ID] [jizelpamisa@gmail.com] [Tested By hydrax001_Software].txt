@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arianne
+– Email: jizelpamisa@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-07-02
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jizel
+– User GUID: SWHCFMOOXFGNRK5X3KSTF2DPOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234220	nfvdid	BQFmAAEBEDiFcePewdJfLC7CoT-vqSBgVdz7PAuR1nU74Jpxj4fc82eGIyEwJUQIGtDxpzeP1C6ukGIFFFYKfe7LzO4AxO7_4EvjhSJyM94cUQWQYXnWXVPZFVXITksSt89-AmzCEsDdiNonr4hGeUnlt7cwhcsp
+.netflix.com	TRUE	/	TRUE	1809588334	NetflixId	ct%3DBgjHlOvcAxLPAy6bzSgNDL-NCmo0BuJ1Ty7QSIYGKINk-Q1TXllOWRrk2plSzdvgEWxAORCHhevzAd3pS6ikUzkN52nQG77-lgLGEy6adsVL5SuVk68N1zI__psZTUuKIw1Wy1BgW8fr3hmlvHXmr-ai0FmtN0v0hDnAc1fCu7sDdmeuvsoKo9zHTSNeyKK9SbXXJWFCowQNyqMLXET6SgTgwV_IzLd88LkmshVEs809WPA4daeHVGgk_6F6LnwnmBOBF_moMVUqsQfri0IKmpjgkWs4qbovTN55D2HY1EA8QcDXmojAXNwEQGpbvWYqhGbexvi8DWvrHO31Slyn6zfLqQpTW5RZ9_9JbhU6DWIKby1JwIYHadZ5EfV6PbNfXzo7jQzRq6oosGVTr5NskFq64cwFhCE6-MJApm-hdWvzoRQhuPAKTbz9nVmqZHTr8x6RG8fEnMYYkq_-cCPZ_RRPYzhV7TibCBcN8MYwh18KoD5QzVK_VqwC4gg3JEZA5i7LwvHtPMQUl1L5iwB9FSbQVCESAOTFpJsgYBj3_ogFnW52czKQSeZwET1ClDjVopbhihhujaa851Qwh6KDlbw5hK30_ECdcbVH0HS7Rj_QhklVV3yiHBgYBiIOCgzm__SYYLRMU1ORSh8.%26ch%3DAQEAEAABABS-eXBYLGvBZ4UPMve0i01C7QXMoETjgkg.%26v%3D3%26pg%3DSWHCFMOOXFGNRK5X3KSTF2DPOQ
+.netflix.com	TRUE	/	FALSE	1809588338	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+15%3A25%3A38+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=061579bc-3e18-4907-8db8-bf97ed65bfa4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

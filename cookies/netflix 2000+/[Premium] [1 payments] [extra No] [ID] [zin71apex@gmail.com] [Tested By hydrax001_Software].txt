@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: papa izky
+– Email: zin71apex@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: August 2024
+– Next Billing: 2026-07-11
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +6282122511758
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: papa izky
+– User GUID: QCTQE7I5RNAQJLIKKT6YWC6M5E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799360671	nfvdid	BQFmAAEBEHr7m_gZODtRB6itPAKhr5NgcHTexfCjmzSVz135TNqCurJCBjX0vYe1lohg4A2ABOpU9KFvk1sBShuW78-BvNYvne74Fxt0cvRIfT8bkSqaho1r2hDYos5qPeN1iOMxf-CcW3E9C4ZxMUZIIety_Utb
+.netflix.com	TRUE	/	TRUE	1805954877	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAy4bdxAeWr4OhPvei9EIGFe8hqMWhoVsvD9I107SK3AgCjUlzrMIeg_nFUhoCGFMdM_t_ahtk3NAZFIew0KficoP7XFUO6Ckf_zJkqPRT5Fkj0UhoKJood3eeFEPucsv6y99EO4PYiOcipUAQ9J4gF6bURCF3IopYyhL4-Q9tK32GqT7nPe3EqVTQyzRa2PRUJpJIw6EmjZ3CTdFPjVoqshKb05MHyISLOuLPgA0HLdbedBZ3UvQrUoXNV7253igfF0slrdY-dXwxCjNIvJsGqoiFu337xtJXB1U5PNG-gL6fMLcIqQmSucqP254HYeTGs0ycn0PNvJtu2x6uREqba25Ya_fsSC8W9E0csbdet_ZWLb4_oUKdsjjQXH_7uNomzJ_q-U6Oe4FhrXP3Ej3oxUYS9Yqp_tzNFX0loobJ_CzLm9t6gPd2XgLkIg1va9MaKroND3Cpaua8N0bRIgLE2bX9ucQpic7eHlb5jE6-aGNxpTn2XXd3FeCV0makIBl76BL7-AZbR-1DjaGpVEUWDoTYFkjhCVWhHg8GAYiDgoMEbWSIonhLs2yjxO-%26pg%3DQCTQE7I5RNAQJLIKKT6YWC6M5E%26ch%3DAQEAEAABABTgWdb5O0dfw3_kBTy9PAY_RAeRMCPOF6w.
+.netflix.com	TRUE	/	FALSE	1805954880	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+13%3A08%3A00+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=26c9ce8e-3c4a-4b1e-8370-ad8438ad5902&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805954877	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQN1rFD-3o5dcdVzsXlzkJz_2NEaU7lrjA.%26dt%3D1774418876775

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ynight
+– Email: ortizjose172@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2024
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 8263
+– Phone: +16027036337
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ynight
+– User GUID: 4FWL575MQNHOTJXOPOJLN4JL5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796064622	nfvdid	BQFmAAEBEJlWVKMQ_jtETYm8Pgq3yL1gSec_pidAFrujRgEii7gT1HyNI5ZodWceNQOouKmxSis4NDiZGsUHQRPnqRbTwVdy5ITGFGRHc2Rs9T5Vn2u_7E6EukHaEeA09QTgwZOknk_3nSIXUejXtzGw3g45dtTL
+.netflix.com	TRUE	/	TRUE	1809302739	NetflixId	ct%3DBgjHlOvcAxKEBOziR5aRRk83UCUor-BdMMzNuTYocfbp0MevYPOk3HZ4eWkD1xMiYNNhW2MmGcUL1W7EmhT83unEvbyJvGwpBS5Dh0lylp67Wax3PWLHKhpC7gdq8-0a-kuPduLg6Z02614pLsjVwnZz621rNkK6GMxAqrj85jzHQJSSOJNAwRI5w-EawGtg9p8GSkIgHFgq-QR0uv0IQrlWpzVMXUgjPXUCk7VWh6J65VVCRhxParuMx_NO-mM9_qeBARvXOZhWZfavkdGPgbkC0Dfj59CyhUrdFuBq4IgogEMVUxTnmWwKs-u27qzbP5I8YA30Jw0tbar2FNqU-_4y3H34Ht9t8HjDKMS2rsSiCT4DKtI1UJMfSJKtJq52eA-zkHJXcWBUPl8F-h47Ek1_zW40NJvSUY16ftNvR2d5O_XsHWDse2wJfxtah82aUZSFEsNVwoB76iA7oLt1ymDwVTZ6aoF5PoLh3UEuvSNZl7X3FPSyir7q7nVZSUKAtQu9cS4N0G-bflxuFlgvvjoBrLwURwjsAu-Gldg37H4ICzmF9SbZDq6jd7Kc1_egxfcvo-MzBfVnhhbwRjHKo2szbpZk7JQoanDJYC2H6llstti5P2Vkq-8SlaUe6qBCyQC5WEtRBeUmU_J9ineu6N-z7tL0C556m63Q3h4H05bYwVdMcAxSN1AXrjf5khgGIg4KDPsyhFJUYliX2zO1WA..%26ch%3DAQEAEAABABRb0Gv2dPnJwV6FHxOfBwAKM_AqYRKBUFU.%26v%3D3%26pg%3D4FWL575MQNHOTJXOPOJLN4JL5Q
+.netflix.com	TRUE	/	FALSE	1809302741	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+17%3A05%3A41+GMT-0700+(Mountain+Standard+Time)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=9f139339-2e28-4a94-b540-712e3f3cbba4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&isDntEnabled=0&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Natan
+– Email: ivanovvioletta7@gmail.com
+– Country: PL
+– Plan: Standardowy
+– Member Since: listopad 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 8142
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Violetta
+– User GUID: PC4QBGFDRVBC5I3RFFUNTQIRF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793523302	nfvdid	BQFmAAEBEHK0OqvtJVY1UkYqIW91cu1g7dijkIoj6nIdBgD-l7SQhoUddq--apSmnkj-YSCUMdfA1oovo6RLlo_YbEyE7PKvC4-4VoEAxKIE9jZDPiUH8qnsp_Dnc-Sr79DpaieT1O8iA8GCCvofP_H_WEmzOM9N
+.netflix.com	TRUE	/	TRUE	1801209877	NetflixId	ct%3DBgjHlOvcAxLmA6tlVTWIia5S7SMPe5646qSDXNDeEakMcgxUsRgEZi4QiuTVuO8HFXTKLgCEEYAOtZcTaSSp3TCzpjo_hMSePrK2MTkzEMy6mUaabrrZT2o0oSajMbyMTdJ0yDkM4MEArP_9cvg_DUVq-gELD8QeXoizucumcZhQag7OxZxrEre5rXAPYBHXqQMOshLtIy9v6vLNGELa7BFz3sQG-G1yOgzA2ABAze-wNlhw_YxJO74Jek056_SDq9hRY5rezMOeKJ67XUQXG52PWaeJneY9T5RgXcCV6P44hEmdzUNqVSbaS2VbbuBq9RNao5qo8Ba0ZwHAS-TX6ZjHWFB21pjQ15b-tACxu6NQRyO1BUSt9OpLxwiSj1Rkl1_s9t1Fx6P3zKYtZkVaNA6z20tv2MTV-N_lyaZGW1v26m5VO2h97VUU2O2jpQbQV9OxZ_-splTi4vNfDusFwDODbuHD8oKEnIT8l1TI3LeMjv6xW6lAbDnFvBhRi7LwCWP-G0OuIPOyznLkhSTZxRjgyZ4m9BldssVnQ1VfF4oMF98CYAW_HDHMCtyGfHBVXqMUxZ5gIHZpxGU1PiPMiFwi2nJx1-4hXk9h9cCmcTq2nxVCLVax3hmAfV6fdSmvzAVD6qzjZh0428fGKAMZrhgGIg4KDMPe53-EmfAXEr1lWg..%26ch%3DAQEAEAABABQk0jazW9AfUDabVMDpfEvtgBtOAwNO7rU.%26v%3D3%26pg%3DPC4QBGFDRVBC5I3RFFUNTQIRF4
+.netflix.com	TRUE	/	FALSE	1801209878	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+29+2026+09%3A04%3A38+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=710238bd-d287-42bc-a4f2-90442fdf1859&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=PL%3B14&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801209877	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHJjHUkcIOSOfiP9xiuWSCcQrSFgs7-AE.%26dt%3D1769674057373

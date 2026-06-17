@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: #108va7
+– Email: aurvelamaranto94@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: June 2026
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 0769
+– Phone: +639368948028
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: aurvel
+– User GUID: 6OIOAAEHQ5EDJJW5ZOXT7KA43Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1782368065	NetflixId	ct%3DBgjHlOvcAxLjA3nzAtOpkTLB7PUKu96PzhFDv45_PICVkc60l7dZxyNYrzNSJqA4CSeo9pvWQPK4-kM2dj4_5yQl2Sv-DzjheC4a6ULwun4CZ7cAtzDicwjuaqaXw7lQcqfQiScX7g-PRX9DaqPzEGEAAmhFUDLNJG_Ce7gJ9tUTygZuiHtxQw1BDG-KTRydDucZ1180l75W-d0taw-zpp0yPlLGxahctBLILc9JZWze0ITxgVOHLXuUtwlmC_iSOO7b0jO2_jGd0wEqKn7eo9BG0Q8XK9rVIdB4slJLqp0Llk9UnxvFbppRr-kf9m6FT7nMjkuaRq5SPb8KsnVtOQ1okTY2ZgnFd943F0UCycChnjoU-bfcfG0Jq1yATBBrwU0Xp4aY3QZKtu2ET63oECKZEzeHBKbt3CiKXG1ycZMTGGqJCep4a1q5Chc8Q-mc12cVx6a2Xq-KM-86UymHe6mhCZGPLDX3RvXrz0lk0U9SyE9VvnazlW4kxG7EUNpjhOxfJ1n3qtq8roN1mPtAPjeYwcn_HMQf_XrteUjYqehDvDlo-u3OcbaRX9bytH68T_pfDx7rYtilpKTfPNi50cDy1s-z0w7tbIKPHjpdlorpFeoMrD07JLCnm5Vdym-dQ-5EESXOg-uT2kJiFRgGIg4KDD0RvRiNZrSQxwGl8A..%26ch%3DAQEAEAABABQZDqdXABVmQbHXBwCsFFltpZ__cPeq494.%26v%3D3%26pg%3D6OIOAAEHQ5EDJJW5ZOXT7KA43Y
+.netflix.com	TRUE	/	FALSE	1782368079	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+25+2025+14%3A14%3A39+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de92310e-9c96-41ea-bad1-9740d155bf1b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1782368065	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKSkXH5M0_Uhz6p1IGD7AFYpCGmu9G1e4.%26dt%3D1750832066113

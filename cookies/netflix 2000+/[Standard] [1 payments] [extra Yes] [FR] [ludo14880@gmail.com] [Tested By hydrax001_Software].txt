@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Karma
+– Email: ludo14880@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: janvier 2019
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 4672
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ludo
+– User GUID: 7OJU7RP3IFCRJEOZ7KIPKPKVJE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783503551	nfvdid	BQFmAAEBEEd84pYXnZDY7JefEcqJfbBgpwKrwnpmO6h9mIuYX4MzC9DDhn2aLWWrZds6immm5NZ06wYpx2eDXRdAZUHNIBUeoCoD3weqctE1wnbQRh9mohPMJThfytFVh08VvRAMOcaZFvWMgm0YWukQs6yETwpL
+.netflix.com	TRUE	/	TRUE	1791456855	NetflixId	ct%3DBgjHlOvcAxLoA5iwG0bgLwA6uuGw0lWl4n2lk1CmNMKmQLZmd-Z5sWnDQBeOM_be5uSvk-AeIoDutlHxO7f70_FrTYG9NnkSycxE-SqvnkuCbvVqfKwBw1QiK9tYswGn3HILpln9C6C1YTv1iPEyc7NSG59t4-9MQh0l3uRjvgMCD-J6p0VIyo7-ak6vMfB6HQX86xe8LxFE0nGlf1kbyed1QZTxZ72_8UHYxumUk19rVea9wmAvD4Y_FZbO8CV5wgGy-GtOGE1cxnqEis80Z2V-n0Job2hW_FQfh6ti8AVOOePvmCiPau78yLXqFjwNSlW3AxyNnqX5OQ6aVif4RrRIfrhRF9a-f4b3-r_lK4oz7EP3qsduXimb3y1alcf6Cm3_fKZufMm4Y8ZLIoqoVitTDGEGPXBQ5__gYgwFJNe8VjNgI_sVxpYkC8U2r-9iL09rgJOm-qZWbiUrsd4zonQUobNasOAgWqf7WdTZlouXt3DLnmlK3d8kGuXpAcMdKo49Ch_B7F493Kl1CiVyBW_JKRvl8ZY-SdT8g-IN5rjeNmEvMO4p1NLWnp9kTVldRFDBv1A0RuOVS25BFemusiSTzmxMXeMjW5zYSfMvZZG3FWWed6ii6007ZCiM3228Lr5R3ticYgEYUH02K7MMLggwGAYiDgoMh1LWChX5eUdc3wK3%26ch%3DAQEAEAABABSuWSzi4VMwj070Asl9SaJsO5vwQEZdFzM.%26v%3D3%26pg%3D7OJU7RP3IFCRJEOZ7KIPKPKVJE
+.netflix.com	TRUE	/	FALSE	1791456856	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+08+2025+12%3A54%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6380ca18-9c2c-4973-9c38-08fdd6149131&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BNOR&AwaitingReconsent=false

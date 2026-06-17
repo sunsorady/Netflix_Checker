@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Talia
+– Email: thomas_m_@live.nl
+– Country: DE
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-07-04
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +4917670375811
+– Quality: UHD
+– Streams: 4
+– Price: €19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Talia
+– User GUID: W6XWCNUMFZHZXLZDIUUUZDKDAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBEFL19OMHryine9OGDBb4vdpgwil_O-iSN28UnlGq3XVFqDxNJmUHiWyD9Jn6qqzzQhpiuFTsGUx3G_4zkvkOR-RMgXyIL0p1eUwbTI7eKRO3lwge59Y-FiHaMYNLMUi-U4QLVvZ9btXSxP_APxx8RunE
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSA1oa1p8Y4mhBEztCm9H1r-iZBYsBWmO0.%26dt%3D1759607577923
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxKPA0IkVOh6J8ohXA31Ee4uLNGz546wjzRfZ2cfGBImXhk9eJD9Arhw_4oa0ooQwoI0C1XHo53713axVqHLJAS6-VhAlI4ZZCV8ZojUFKZbshwqFeMdbgVSQanFpvauoaN3SZAhXM9GK1LJY9lNioH6Jxd0eJG2BWXy3pBICeOEAuDXPwjC6DNThYmvHvcYYFkZv3F-IhjiX7tSqO15BZfi4Fj4uD5Pwro8tXwNXeCWkagT2na8H3sG2-Ay8VaUfoTH3iS03RsD96efBlwpMQdoMeiCsabd39-r05Kzzy9B0d4FRarbzO5Zm8y1t3Wxnr3x5BcR6v_fqdEaAeKT7K-0p5PpYVyPLL2ucHyjafv3OqPMG2Kkes4w-UEknEB3BcmjX0vshiKPRWBsZ3p3zIVng9LerMZclwnozKr1GXv7t10XMhku951Bbj_OAn1jtEFNA3ToVaJuxwRu6zhwoHx_PiNYBQXkTfvAfx3bCnD8l1HUbYMmk8FZ3h2kFLAARawTKlYUdSPVxpU7U3ydzm339BgGIg4KDJ5AKPYimBV8y2z1aQ..%26ch%3DAQEAEAABABQEt7JvsNRhnKXTMGpGOXWh3TKjD2u6EW8.%26v%3D3%26pg%3DW6XWCNUMFZHZXLZDIUUUZDKDAI
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+04+2025+21%3A53%3A03+GMT%2B0200+(Central+European+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=548fbe58-3720-4a3c-98bc-77420e6fe045&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BBY

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hyden
+– Email: ctmathiane9@gmail.com
+– Country: ZA
+– Plan: Cơ bản
+– Member Since: tháng 12 năm 2024
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 0617
+– Phone: +27738440960
+– Quality: HD720p
+– Streams: 1
+– Price: 99 ZAR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cynthia
+– User GUID: 7PDQTXJ4DVHFHOYVP7BLTGKJRQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803879340	nfvdid	BQFmAAEBEDBMxxlMOwkBdSSNDgl5vKRg2THEpy0tcuFg5_suMMHfuHd564vO5kpadOohZ0vfVwp_yGY2XaU6guoAITvvJj7spZpUfotN49e9LQ5i2YjWuBSDdOBmIWynCpPZTLyWXPR5gwRmvVO5Xmf23ByXZXjF
+.netflix.com	TRUE	/	TRUE	1805908609	NetflixId	ct%3DBgjHlOvcAxKGBDNskr0WLjwN82-ATb9R9WpH4eH241lTdrb0N5PvI_mPNyupJqxQNxf-fiVU9mnUNjxlYSEBEWgvYcaHv04fY53ZKwj4BeivqcVNqijJKS7Jx4IbQDD9zhUMf_G92sXolumKstsx8XusONY-Gfsra_rTwvfyM-yWQ3PzFj5KO6_8N2TGKiZmWwOOqu9Z0H4xjhNzYlsMYf1umP6Fort7zHc3NVBZ4MlUNIzUizbhJ6omj-5X83jh2Fr7LFeJL0GgmFGyYJsUZHAz9TAyaS6okfMmhplCqPcymDylMCLDMZrF9Jik_lS7fE97lfY4HW5iySIdVCqL5CZ2O2JYXmro6SQjZrvx6hpQzmW1DftU67zIPTOz0zAbmkCaY39A0dVY4n-WHh4u6FDwhmF6pfVQcSuY4wWo2bNz0YwYQfKGO6TzuW4ccNczmourMXntAEv_uJpT1EWYXjK8CdYV7F_xZN4xoCSkBbiqVYpivR_4bkjo6yP1bcgis45v_48tXlKO--Ap-p8wMIHmaWDHWTNQRQkJoHcPmTKOvqrkfRLhVZE7XlDULFmwi4hKxj003igY0G5MTFe4-ZFSLCcnbL36fXLO_0kt5giKl7bQPcUB7fi0ccYl40QXUvc00bNOFFUi3c735naE-OPLfprRkfeaR_WPHvUe0pbA3HCxgsWgpW20MJPzwqPhGAYiDgoMEt5OKpW5sybgcSjS%26ch%3DAQEAEAABABR8RU5ZfAY00dFOjLKJ3dBWpdfPYSVSasg.%26v%3D3%26pg%3D7PDQTXJ4DVHFHOYVP7BLTGKJRQ
+.netflix.com	TRUE	/	TRUE	1805908609	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTto9bkG3FXXtVDMe5esUqsd6gnQakOXC4.%26dt%3D1774372611303
+.netflix.com	TRUE	/	FALSE	1805908660	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+19%3A17%3A40+GMT%2B0200+(South+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b7322ecc-300d-4f86-b9fd-af653cbaa395&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

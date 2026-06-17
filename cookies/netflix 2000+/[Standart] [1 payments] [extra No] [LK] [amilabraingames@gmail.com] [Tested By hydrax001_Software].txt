@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amila
+– Email: amilabraingames@gmail.com
+– Country: LK
+– Plan: Standart
+– Member Since: Ağustos 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 2700
+– Phone: +94701814520
+– Quality: HD
+– Streams: 2
+– Price: USD 7,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amila
+– User GUID: ED74F6PF3RCL5HY6P7UF44CWXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810569750	nfvdid	BQFmAAEBEMyIFRIKBq0gBfLmkvEBd4ZgSiKkLkT_3Cw6Vq6E_mP7jIf1gC6tHztD1JpDsM32jP383DA5rjTuG8WweL6uIVMCdwQv7UPZeZdngAUY9TVOda6sK0tu4MGfhb19yzU4D9FFkb16vYlZKqjbt6H_mo1O
+.netflix.com	TRUE	/	TRUE	1812448205	NetflixId	ct%3DBgjHlOvcAxKqAypsd1hJDceeTjyLAjFX56WeVqJSR6-1Hw7K23VttrYflUaZmJmLENIY39hJnjY45VPYwookxC_th3CZQr9r1BVl5at7RmFNAbKCtuHzNdHmrlyDkdUuwAIoUwHFQjRxFN2MsEvkyQLa9dySsdLxNR1ZmnsTkFPp-2LW-5OHwlPQ0XOZaM83eeF4LVko8GBoJbAljGiUT2Xg2kiFqkjcZhfS9gcpumNEexUzanJ4UR-fVpO6SAe53Nd_bhw73NInvwhg5WjENJSVNJ7R8pWlVO5MPSzeHJlaHdrnr_axB6NrkoqHLKqiNbcg_0lCsdFiUJ7v2_gNlPvl4Ce6zoIkG4SovNMb-NEMH75ilAnnj_0ju-uUig-PN9xG-g_33__WABw9jeajlKSjp2OfzUKE17NESkfoPrJXqXEyoWfLJCELqVETuQfDgfbwxLzoqxRTEv7kQVganxRGLJYGwZ04S2y1yKMKLBUnZK3v9daKMD4lE5yy1bJXBlXyWQE0E-djBtDUAjxyKEROqay-QNAhIgu--HYibcOsoq9TiR6dO8FEX-rCZ-ydy1mS_RgGIg4KDDFiMpaXaiVauDN-Tw..%26ch%3DAQEAEAABABTAXDUu8v0j0Ybqeu0JzGCINUZIBDzwfhc.%26v%3D3%26pg%3DED74F6PF3RCL5HY6P7UF44CWXY
+.netflix.com	TRUE	/	TRUE	1812448205	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-DaeY_qUjyYjsTORMnvP7vjHCILvaePs.%26dt%3D1780912000510
+.netflix.com	TRUE	/	FALSE	1812450695	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+16%3A01%3A35+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8811e51d-859b-44e4-99d6-d4896649f019&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779033750132&AwaitingReconsent=false

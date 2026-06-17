@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Markus_haas
+– Email: Markus_haas@aol.de
+– Country: DE
+– Plan: Standard-Abo mit Werbung
+– Member Since: August 2025
+– Next Billing: 2026-07-17
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +491713397693
+– Quality: HD
+– Streams: 2
+– Price: 4,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Markus_haas
+– User GUID: CSD6EJQEJJBNXJHUNTLZP74DVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799869011	nfvdid	BQFmAAEBEA6-9Wtr8UD_oiPUfd0H0ihgMh2pu0o7pTz16B_Ozz8rbIzm09IwRDDGcsGV8-Kal92fX8ulH1MVruiIkCEAnx0kP67jb8hZoE6XewArIuXOfQ9nTld1_tjgECbZ4A20Uwl5A_iR2idY6aKFtK7F7emj
+.netflix.com	TRUE	/	TRUE	1800293578	NetflixId	ct%3DBgjHlOvcAxLXAxLPCe4Zya-Qxvsf1G5IJVedl3MK85dYxcXA1zXyCUQwLHAv9ok20vg8f-RUXxmk2BhY4PzZ_B4NnaOa-hhe6oQFhY3onJyCqXlYTXnvNRY5I_8roCgEcPgrhyUCszGotb0WEmi5BC9xWERN8336XAGq5fPI_z89lKGxlNb6BZZU6Q2MMhPJK3JEo_nv-Zi2XPh_f6rpmONA7d4FhvhTM-fE6XrCymNFLzGl4zOA6MEVPiTwyyuRNByRZAP1td9zHiC7CEbaFuAX54XMbnMqicEF4ZrRASMZNhMgKQRLjk5AJNB_2aRyUkLHeO9mzB77Evwt6kOtq1SAccVtIsQuBEzRJez4KVgw5EPSB7CB3CjQKCuKZ_V0ei_kTx8Er39tNwc7OntA-Pf-znTTwMg-Y7q9FvhHzW4a-U38ZqruARNF8VjjnA5Aosuk3N0yIaYZ5OopqurQ56jT0VnOBTddrg7NEF3cLksfSeN1rkGpUopWW0x0X1UVbI-04NM_-0Z1RVlcG0Q3bdW1TzM60TC1FrR1fBBnihnNhKPQMQ3cJuUq-L1mkxPFXlSeuevqyaCJkct2alTi-2zIJcnXNCtIT2WpV5ppI4MfqqaI5LUX24L2uMIVRweEaRgGIg4KDL_mhY973eTDalemeQ..%26ch%3DAQEAEAABABSYDxB4hx7krWx3sgDWn0tM1CF3p3qw1hg.%26v%3D3%26pg%3DCSD6EJQEJJBNXJHUNTLZP74DVU
+.netflix.com	TRUE	/	FALSE	1800293579	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+18+2026+18%3A32%3A59+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d69cc860-0473-4dae-8ac6-c641be034563&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768332967516&geolocation=DE%3BBY&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800293578	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQXPvqvLdcrI6GYxN3zkBl0owmuJv-9Ap0.%26dt%3D1768757578775

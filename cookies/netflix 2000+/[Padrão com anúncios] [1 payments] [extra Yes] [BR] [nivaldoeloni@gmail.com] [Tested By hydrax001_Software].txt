@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Murilo & Suellen
+– Email: nivaldoeloni@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 1859
+– Phone: +5546999722551
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nivaldo Schlickmann
+– User GUID: DN5VRAWGZZH2VBNP5YMWLUSQ2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798563113	nfvdid	BQFmAAEBELgEZw4kJzcib_4OMIjuILZgU-Dv0ytPCX7envngXP1U7Z6ciRTieh6fItOuguOJwfO0yF1xC9zrDhmuMjM8BSRvYoImMtZ72xnRhdYB6Qn5wMZYToRvrHh0LIXJwK0cvVbHKTMI1QHYiIZxBzAcTn2V
+.netflix.com	TRUE	/	TRUE	1799024006	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYDxHUOawMV7QHvm7-Dw9zU-svUCAXxeI.%26dt%3D1767488006349
+.netflix.com	TRUE	/	TRUE	1799024006	NetflixId	ct%3DBgjHlOvcAxK7A63cA1oxZA6OuoO2Pi620a5nvEe40qLBkqbQHiTB_MA4R6k3IG60-76LlFJWI0xe8c_nXhrCVsG3nYu9RIsbCUrNUqb9EyX23C8w4eCUkt_YVHtVANr5_n-7lcahP6u3CgN_WinxRqJp-dvvLVvUqlYz9-OH5CpHPBB1kvA681QLxFIwTECCtm-xFmLY-RyIJ0MSVQyoECKc6kloxQPpZR9eSUmIow1aDYfMgT5aY35ZEdLbgq4Mer5N4EdOrJ4E_D2CM7LgQkkWEifcTNp0ZdlHbGIJwcXOsh142NmddRnwsefyqWGWqNd2CI-GhtToypIM54ZaGWAzci3do9drPqv_VFZE24o51spf-M6NWSGIH5Z4cMPHGevd83G6sy5pYCy0StOkc2gS6zqBPJ-5z-_8QKwTh4dvWLzM3t5tyH296b3NRW7cJ1xl6rj7Dr1hnb9VrZ4kH4Ea_A843KUB42lReXZchKQjP0BZY0mzAFPT2xIo4Ho-ufItNstyWQ5_k6NNAKnPnZlLyqois2vFJ2_To5dAVK4eLbDIc_0hUGbgBwwMkNscMU0JGW2-eRgflYOa2eJkDXJW4xvzGAYiDgoM2LhUGExX30hJB8vJ%26ch%3DAQEAEAABABTNR7S2Saj1oxS01cYdEO0YGkiTqzbZC1g.%26v%3D3%26pg%3DDN5VRAWGZZH2VBNP5YMWLUSQ2E
+.netflix.com	TRUE	/	FALSE	1799024007	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+21%3A53%3A27+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=856d81a0-3362-4486-885a-bd48fc4d039f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPR&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: P2
+– Email: mittaltank1516@gmail.com
+– Country: IN
+– Plan: Básico
+– Member Since: agosto de 2024
+– Next Billing: 2026-07-07
+– Payment: UPI
+– Card: N/A
+– Phone: +918888916838
+– Quality: HD720p
+– Streams: 1
+– Price: 199 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: P1
+– User GUID: LNU7BFSJ5FBZTMMDIGZH52R5BI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787071036	nfvdid	BQFmAAEBEPhB5Zl--vt58y2nbtzxq6JgNItKmVE6d8-jVFCi5MHdpWDJwCvSmKIUJx094-rsrusHEBYKdRxIGp28fmClbDi6zNM00BzWxb4nS9LJ32Q-whz4jJ4oEA6Di-EmeBp-MhD6oy51ZKGkzGF28LM82uM4
+.netflix.com	TRUE	/	TRUE	1808758000	NetflixId	ct%3DBgjHlOvcAxLoA2iTjlfMahN9ZJzCG7IgLTLRxKA6pSBt4_xAYM-eroAm3BVzc-0Pk6Dc4zQG0HxPSWMhHuo_M5Dqdepsh8rHF6k7789oQBiNpX9BuwB6CBp2P4Gl2UFhNr3ugpdmVw3NsyB1YeU50SJ_I_4tAG9zbWzVt77XywEzrE7JpUtenz8Xn94gFzBe-xoMkhdrladd5Oq-Twte8iOnadcpQnVh4K2G720c4ltBxXhxUK16haHFgT1HwNhlPAURXGnBwk_e4kP_l6c-TDB3iq4jsQQty98pvXJY1MdM3AEDw6sEQbTja29vNBTpziG0j5QwjHXjGqpmeSGHJzkd8s27NcGXU30NHOSXxECMKU_6GCmafOO8i7FI0v6LTzr9dB3YgNMTYxvWdZCJCGrr2f5ELQYuoQDNthozgqlT3-L9XB2delufY8-DKdjs3tCF9iHNqFDHrwQF66yZBuSV45UHsWsVyCJ1m2DjReFfLJXt4BBdCE9la6PAj7Fm70OeXq8qfwqExY0JDUTklVzrcsWh4U8_9DzdOrJpuB78OUkUPJu-X7qDKLr-ommU9rQaHYu8-4ijbzKcc_kbGKkRwZ_oDLbAozKlJcKOeZ5Z_0VNxPA4nRhG-TmK0zMyYJG7Tvffbz5krihYZwNOcWyHGAYiDgoMveYczTAP3NzCyOQq%26ch%3DAQEAEAABABT55Og_ZRTxDcXYR8fDpW3nfe6g6j3-iD8.%26v%3D3%26pg%3DLNU7BFSJ5FBZTMMDIGZH52R5BI
+.netflix.com	TRUE	/	FALSE	1808758006	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+22%3A16%3A46+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1a4e091-a5ba-4ae3-9b5e-1125f3d92a99&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808758000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSN_c87_bqUiuuwQITyBgfXLtWe_ostBvw.%26dt%3D1777222000994

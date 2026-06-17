@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: geoffrey
+– Email: lerouxgeoffrey@hotmail.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: février 2025
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 9417
+– Phone: +33658273948
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: geoffrey
+– User GUID: QTLRKGKS2NHTTMPDOBULKUKSW4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	2588441118	nfvdid	BQFmAAEBEOoIPzJtb_ZGPlZaehvi9yFgiE46PWJQWTgeUmhgU2DF3ZZdc3EZIOmJifY_aACWNEIFIyIFHBp-rQVYZX1iEJFP-ZzSa-blL0m1KMZ-ayZxZAJmAAbdItXULV8mJj4R92v_cQJelYoLFS_5D0-1j3yu
+.netflix.com	TRUE	/	TRUE	2687713858	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTQeywOm6-Zddp8gUM4qL2semrQ2GxIwQ.%26dt%3D1770743010365
+.netflix.com	TRUE	/	TRUE	2687713858	NetflixId	ct%3DBgjHlOvcAxLiA9Ccb6MrzxJZuUxpepE7mTysNtlUiB52y_HTaZoOdDlW0OGFRLkN6lVgrQPsKbzb3szV2Mv1Ehb32ESkR2HnDU1xEC_jkqBKFvN_HwgSIyLNR9KxmrUoQsJTypQ9mlti0_Nyfz5M7RMB4tMU4SNXOyg6VC1HwefOpTKlO0kbUL_9h7VgfDNfHSscacxaCqLvYq5bQcH_c70gh91k2ijYDTreGVJv7erG6er7sONx02GQ34yxxopwX5ig32p7-yVs6ApdFk09Lnd7WfgJ1HvBrSbYaVRI0H7j18tk5muZ3rSb8JxIdxijMyaVlXRdnFCBtH-VswQDz0fJIWzb-NBzhwIlCtlryf5NqIz4nLY3dEnNNKFYeQ5bwvkSwwgv4NwqgxKc_mv8dZjZx1BwWSkBOoQ_MlNXECZpGnasnrerOvzewoi7uHti-pH5s-13u2tCpTm1DDcqQxP0V86P2y3db6yoa0OxfdoZPbwpFn62maqmncA3M1UNeDKU_a4i6MsPpJ6m098jNWFHNqu4vBpfUwhf2abGyGCM5EQOy3AX9NCA1xOaHjTYVO8wVxZ8R3JCaOQtetciome-oHLr5iGzjEnTXlUmXXoEx6vPr-jLpkpx-KBM4OWfVnARNU2ZcGclulIdGAYiDgoMYKCIWp1WQCRVjIGw%26ch%3DAQEAEAABABSOFrSSVQETK5Av6uAxW0grQ_7nZuuKmSc.%26v%3D3%26pg%3DQTLRKGKS2NHTTMPDOBULKUKSW4
+.netflix.com	TRUE	/	FALSE	2688027976	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+18%3A08%3A45+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=461cc093-404b-4bcc-bf7a-92dde269f069&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BHDF&AwaitingReconsent=false

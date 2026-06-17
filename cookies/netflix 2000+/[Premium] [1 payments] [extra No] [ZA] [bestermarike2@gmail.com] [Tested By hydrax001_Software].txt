@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marike
+– Email: bestermarike2@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: February 2023
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 0028
+– Phone: +27845153618
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marike
+– User GUID: LD5VGDTYYVD53HU6SWTGGXVOJU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783982024	nfvdid	BQFmAAEBEMXC2boiUnmKeQu8gCQaobpgBPPsnapjRKwragI2Djsdph9yg29HCnHrM7T8jY6yW02f22ri1dpHxFg9_rdkiYQcQopn9taWB1YhpI_bHOnXxUFp-sEPPskHR3iy_mkGqBWAUeC7Z1X7IgzGGmVYjIk-
+.netflix.com	TRUE	/	FALSE	1783982024	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+14+2024+10%3A40%3A04+GMT%2B0200+(South+Africa+Standard+Time)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ca1b7ee-7d6d-43c4-b91e-740830e04c94&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783982024	NetflixId	ct%3DBgjHlOvcAxLnA2dumAT86impjviuO9Tf3UlwgRRa1yclutVTGXolh3So6tTNongJU5eGLTEQ39pI5Na1uX3mahEx1LJkED1Aa-jtKYxxaLXy-fOybm8PQI7FvgTbQ1sUUS4j8hxX9UZh5_2DhO3JH_31T_rYdEUGOt59ZqyL_HgIHIR3vZ1VK4BDxIn7p_Gi4ABcMOFmRcwISYxp2xlxaQQUNy-n2vCRxhCbfX33-JjQ3cyivCLvl_BRNY9K3jx3N37_t-xe1PPXZb0dW1qT9RCEqypaE_toeuZPY71aVWy4M4KCIH-PljLr712AyQL3HzPFHnrQ-moKS46_gz6vTNNBd3E0PgZjbmhQPptj3dPdc1mX3JcmMful4XhxuBvS-xGosAKz0kk_GJ5hapA6A7CnIbL2c63FPcZUrNBH01vnCXifRlw_iyzWxw7-G9ZAExu9gyVFD13H9CGgWCWvMK3rCR2jUDRdaC2qY0d-YguHKNb3JBVjNT3NoLWnt_wMqtywCl2R_zs6zuZS5paeB4lZYlTBeBqAuO500WfpzHCchJoGtZ6yRoJrHnZcZk2zj3pt0ufcaiebDGNh5EgiBYclfOtSdzIZMIqlR-swzNp9Obldhv9z9CGkTAn5eDf20cr0UepcnkJt5UOX7kNbr1wYBiIOCgw1Xx8wU9V1YniyrrQ.%26ch%3DAQEAEAABABRjE9E69P3fj2bLOUR3iDDiXtIFdbnx_yI.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783982024	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlMNzQAGrW1UXomglC0NbVcDjUbUiwdX8.%26dt%3D1739293537393

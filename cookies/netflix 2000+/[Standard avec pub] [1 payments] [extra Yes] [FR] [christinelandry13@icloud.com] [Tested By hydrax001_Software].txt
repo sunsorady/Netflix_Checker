@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mon fils
+– Email: christinelandry13@icloud.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: mars 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 5200
+– Phone: +33635466996
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Camilleri
+– User GUID: BJIMA6LQZ5CYNKRRKMMSXOBX74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803928170	nfvdid	BQFmAAEBEP3DfjNtOo85vytuEXNNCylgc5Zk9iURJWmGz0S5PaswjQ6ECnGYPcPjyX1MjKVH9xXdjfzCWzRhT7bWI7x2Spdr85SGXx5CrBp7kCytRgt7CnYbQPw7EBPG4YI3S7LItPDtqUcBocFL8HTs_q4iRC_n
+.netflix.com	TRUE	/	TRUE	1810547207	NetflixId	ct%3DBgjHlOvcAxKEBO-w6ciIUGGN4adVMrtVOwgobF-6LxGn6FI84i9yD0kqag7TsolmP2iLjEbJ2Y7Q7gS697EZwCyOCI0k1PDAXSS9JzVLKbGnw1AeZ9RGyIO_NkCqAs2mPKPqHRbtciK5ihJJSIp4lBM25frKORj7Cft-JkQaZaDGKZOuDr9hi9XsBKqhwJnJ-ie3YLroIEdeR6i-ge2wL1v-Akh-JDyy27ySIxtFR1QpNj16VElxyaAsL7CFD6KGqvEQIDj2UnV1l0AK5LmRBEtWAnZMYoCgq-GVTfyrkiuIJF2pp-xWVBnTe7dDs84Rlc5tzjNH2J4-GdJsM7iVuXge7Yf5joEi0Lkio9lKmMyG2cbmL7fGIsygK6prnBw02G5YNsm7TDIBXVxqyXxHq8pL61cmLgfXfiXQDHBo9ttQ1T5I62IxpkEMAVNfS-lX1U4pAX6ea_LdcdA27kkhxefTVyUVDqelNnBFbGVxQIYaJup3kCbzLOfnUaGLRWlBTwLMHls34wo7uXKb9FSI1TQGgheLCeM-29SSpfaf-K00l9igNB-LAvMw9RwmWfkiqDW1Xomw9LRor6Wt1SUdf2uNx3TVspDjwedQiy7d45V-5w_oyF2p7tJD84jjRdejpuAD0L8MHj7meMSgq_7TWVNE4veSjE6d-0_ZZjzDviiyh6UlUhuY50MkRkIXhBgGIg4KDG5hxy_pXzZhVTuX6g..%26ch%3DAQEAEAABABTgSf26UgyA2iwdUMze9K-G1erkHwAnzUU.%26v%3D3%26pg%3DBJIMA6LQZ5CYNKRRKMMSXOBX74
+.netflix.com	TRUE	/	FALSE	1810547208	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+11%3A46%3A48+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=882e3471-9524-4693-971d-20633bd908ed&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BPAC&prevHadToken=0&isDntEnabled=0

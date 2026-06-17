@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arthurminebr_
+– Email: alissonbr130@gmail.com
+– Country: BR
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2025
+– Next Billing: 2026-07-01
+– Payment: DC
+– Card: 5912
+– Phone: +5574999624471
+– Quality: HD
+– Streams: 2
+– Price: R$20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alisson
+– User GUID: DDOKNCFECJEVZAQCTCQ2CBRSME
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810864653	nfvdid	BQFmAAEBEB85z42unhU8mM-P-ekI_ENg_2addtT0ZlOQzBh59MkjZ6gzJ8uh87m6k0hq0ua4--8PH--e1ABopvu8iceh5zxa6O0ejibdRr31d30AVMNZAbUiXJ-hFYoSBMgHoy_YivvI6UDbNcEN-vJkdNEKyguT
+.netflix.com	TRUE	/	TRUE	1810999953	NetflixId	ct%3DBgjHlOvcAxLQA89fVH-qhpU2HzQgPP0oZxu6W9pcjS6p1E8HFet0U0c1FeJ9OG7e79zSLlg8XwQtMn5v00T1eub-NKBWtZXOsTIPLqxdSnsIsFRaN7ITO-oHVlDU7CdjvdbKO0i8X_QHeahpHoCIKEItsYK9vA6E0Wfu9NSuycLDqqpsmCeeCxyt-T1eFKqM5dm2Ft1VBClrs-0DTVl5eGIReku_2dcVrm-d8qrTOQW_wx6HpcmvzUqnb1vkKukPWJZZqnOoOMVPsVPwgsVmdG7CxGBSj5pSHSmbwa7IBA42KpcIKQtGmTosSZscoTav2QDeLUlaWzohAzPIDErTyzD6UVXQr4nD3R6VrjhiZHCfZM2IPYP4nksGi0-xUYSf0RCYsSn9edpzNS4coZ2hFADCorvTn3ThMMSJCJN5uUZ9casXqRhVyF2dYmTKmw0cCFbjnKpJ8xgnQwy8xizQTaE108ra-OuTMnNR_SgSzOZ6SUIJWT26uHp4qUmgO7vIQCJXVVBf2h-ot1swwqkmQEde0J1DyI5VTRBQEpUDYsp-GGF6XbQl1yoHbW0H4NM3dwOv0kmPfSbQ30Ixub5ZuVLLmquotOxY4vUK2iRmZo0gz4ZYbQozetqGGAYiDgoMKrYIuHMeEIE9esTZ%26ch%3DAQEAEAABABQzyfzItmwtLIMzz26JXkSw_QP9b6a_YVk.%26v%3D3%26pg%3DDDOKNCFECJEVZAQCTCQ2CBRSME
+.netflix.com	TRUE	/	TRUE	1810999953	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYHQiT9E-SOrYUJbv4lMINellIs5mCqNs.%26dt%3D1779463953214
+.netflix.com	TRUE	/	FALSE	1811030192	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+20%3A56%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=60d0a6ca-5262-4329-ade8-896554ca28ab&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779328646883&geolocation=BR%3BBA&AwaitingReconsent=false

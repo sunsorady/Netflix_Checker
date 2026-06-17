@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Oscar
+– Email: oscard8807@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: January 2022
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 2280
+– Phone: +34722161098
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oscar
+– User GUID: SIVAPTFKXZBGLGDWKXOXMVJL7A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1786981896	NetflixId	ct%3DBgjHlOvcAxLsA3Q68Y6xBT_i_y4e1EWOj7-dQmQjOym-dr0ESF0EtUBYSbIMUZmSgizLPsTnE6p6L68FNN93yYRogZnr7Im7PlY85llx8Hm60UzKCWdZJ9IWQuW9YAWlKrxuqmzad6dVKOmyBxmZ9Mow-sKz7fJGwMJ5YRPjqBI4r5TTF-EMF1hrOC_IFiQPeZfsXOLMRmU5reTMGVHD6aCzaf2tC0VfDUso5CCXfQB8R2T6dKFCBIo1eAA0RK4swY64PS1VSz0DjFof6EipZNY-e3rRrrDXltTsMVb8psDmBwERLxzAkl-CrK3rgIVERMNVKXVDz8hcbEiDNKHPNB2PDYP0jZx9DPstfYnXFXizaHWow9b4LXEFYmbVnVP2BzQlxqhJDLIAU-D0pDLTZAdMi6wRijclS81V6OuY5Y5Jmrz4QIuL0oubu-UUjMvzWT1aG_Iy5FGoRlPQQAJgNpFimKBuGOI2lxgdLIwawMMShEruUYFZbnd1HajuN2fGP_4b14bkGXOYqAOETqLDimog2GAf2M3bZPXPCfEdblMxx1sdpe0D_RUx7nmKjH2u4M3VNVJwMVqGUTDSboxk-g497BgxqFaGBt7wLOgvKvm33bhw0053skrGFA4LKOiCf7ak-cpIPZxbyAYLlUS83TMCURwGYxgGIg4KDJobTDpP00EmU6RcnQ..%26ch%3DAQEAEAABABQbm5tmQluGM-sKhTbjtk-n0IQh2p5w1dY.%26v%3D3%26pg%3DSIVAPTFKXZBGLGDWKXOXMVJL7A
+.netflix.com	TRUE	/	FALSE	1786981897	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+17+2025+17%3A51%3A37+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202506.1.0&isIABGlobal=false&hosts=&consentId=0c6a2809-77c8-4528-a058-6eaf5589efd8&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3BCT&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1

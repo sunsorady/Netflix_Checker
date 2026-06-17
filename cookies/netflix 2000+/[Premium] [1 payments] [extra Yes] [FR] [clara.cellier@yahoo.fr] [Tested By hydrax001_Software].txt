@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sylvain
+– Email: clara.cellier@yahoo.fr
+– Country: FR
+– Plan: Premium
+– Member Since: octobre 2014
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 6208
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clara
+– User GUID: ZXCU7BAWSJEANFBWRUFXHGIRIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805148730	nfvdid	BQFmAAEBEFbl6yS8uiPx-J09W-K-km1glB3TLUKSYarHZ7QftxSg_VugVOnGE2RdJG9qniYtOGdLyfaE6CHRZsRdyfcpz0BEKq1nJ2Ey5Kq63MM5Ph7OlUZPfUChCBIhAdn4touleOu4_CwDR_RYuhoMtUMiXQci
+.netflix.com	TRUE	/	TRUE	1810222363	NetflixId	ct%3DBgjHlOvcAxLnA7Uytm-slLb5pHUFppNlywIXBa_Itw-adTAk31V-pOq1EuOG5ogkK_XXGmBY9QwrRa-5VM3H0kqzuRj-CAkEVHstP0n9DWFfk68b0nZBBUHpjfHr7AZTFn4zYSxt__vpK-OVpvynrvbW7HVkR367lt22L74JDWLVB_D-9rMFF2Vu0h6b14ppRzfwMLy1WeyZWHDz6p4g1_VLjkDpWUF8cqe4awgc5Qhn7oESnUNETKMKBndnDcqF62WkcfVBvYbdy-4BzDOxCpg7r4EO_OWk9NPX7SwkxuF18MneSETPKQE96a4Q6VDJaC-JDXdXdZCn-KhlerR-yRhWX2nXy4yRpuw-PwfiA5DSbEBVAFW8u681rtAuztd3LoAJjUBWE5KTXTZ9gBCp6O0R0H14vDCFivWvkUDLSz707RjY5mmvY0l_H4keSZ6ZD9pmu9ow16_gUhSe3h4sFfPGy8PxC-neFYwKeMoH_Kee-2Qe5iZJ79EnAbdsmmznE3hAUr0rynFX9F7r_f6L8rKF0wF7bdnFW59FTNNZ15BtzsKHO--HSsuHy0pTKnmsVs_ltYaUt1-S6ty20kM3Ym5QIo8um8NBoYrLKI9CMxHRr0kqOuxA0JyDtzENi4Pe_G3theky_VPuJN6TR6CqLVoYBiIOCgx8akBaW-Z0JY5-aBk.%26ch%3DAQEAEAABABSISU8q7KpTSvJLwz5wnYvMwVsQwmkMGks.%26v%3D3%26pg%3DZXCU7BAWSJEANFBWRUFXHGIRIE
+.netflix.com	TRUE	/	FALSE	1810222367	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+17%3A32%3A47+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ddab3e3-25dc-49ef-8fb5-ba8231008edb&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BNAQ&AwaitingReconsent=false&crTime=1773612736344&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810222363	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ_zdcickPox8Mm0L9BrNdll0M4JhQE08A.%26dt%3D1778686363472

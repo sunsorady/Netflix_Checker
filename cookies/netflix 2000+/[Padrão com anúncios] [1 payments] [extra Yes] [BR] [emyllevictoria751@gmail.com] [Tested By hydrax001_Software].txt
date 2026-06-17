@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mega
+– Email: emyllevictoria751@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: dezembro de 2024
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 7318
+– Phone: +5511912780189
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Emylle
+– User GUID: STZITKQJHRHTXLLOWZSJ34IMY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790444077	nfvdid	BQFmAAEBELkCmvjPsCM9KmeKSssN-ztgVu0OQ7RKgWmSXuIhq92VkqwayIk9nDB8XEnLe9Iaf2ogRKJlyFLhUZEk9EuJbKBvQo9eI8YWqHQbW45R0ls6Gfb2uesmlroHZj3HSVMCtzL_cl56wjsjYHm9JpcPqh9_
+.netflix.com	TRUE	/	FALSE	1794747414	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+09%3A56%3A54+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b034d54d-0035-4a8f-97aa-5dc00b2e1288&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794790624	NetflixId	ct%3DBgjHlOvcAxLlA1LTP9KuSWN1ktWxcOHwshcM04SkOuIdyZFDMAk_aPCAiuxAXdZQFDoTDOa1OIFXJ4QiKhYQmQkhFG_NbYSSgz5mYSvfkvuAEuUZOAHGQTw2kWtbR3FSC542R6ffxMgSldyHyuZo9N-ABsVCmQBpOHbUsdHZ_8cFwpoveoaaVtywZT9LKu8qpurfHRQ8Qcr0bkFOclNFx2FouCv3BETTRwZ6fmYnF8wDBvwoHa4dkGjFx5AFRdEsRRQdURCtiVbxG7oo8T5nIKkrK1pL25BDfNGvgr5i7ZsO-XB17U1Q9NeXt0kV2pvCZnhRmFFtNfLWZ49NZoqZpADATr8sO58Hw6bpufBXfd3T2MXieYQ5UDh0tuTaBvWq8tyiefTr55FCsaWh6RdnNgQPmzj5sBQ8nTn4QoUtjQF_7TDjv-HkbXJZyELn8HBOXkM5W5UCMTfcyY35Ao-WGZPLEDibpUc0yHdfpJxF5Ojbq3Hmo5HrWymCkK51k4d_8yvkPLDvLIcAjuKBvdIIY0w3TlalaQzGNMccvNQ2c8TgDyq6PvtMMdT5sTZQyhRRmnG4cj86XrnjzQeL-wbyt3kNJ0SyU-3VLsWIS9gc3_S4ISC86tASMhJeYLSzthosf-xJv0Ilr7aGM722QSmpGAYiDgoMAPGfQCniENwFw6Cb%26ch%3DAQEAEAABABSXQEe5z5juNkWDEkDZ4clkvOwLmr2mABw.%26v%3D3%26pg%3DSTZITKQJHRHTXLLOWZSJ34IMY4
+.netflix.com	TRUE	/	TRUE	1794790624	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRc-Fw283WQP1IJavOjbYAmMTOFwgG1gUw.%26dt%3D1763243823418

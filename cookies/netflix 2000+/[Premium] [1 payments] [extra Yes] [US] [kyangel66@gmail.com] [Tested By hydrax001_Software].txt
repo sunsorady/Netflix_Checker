@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kids
+– Email: kyangel66@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2018
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5732
+– Phone: +12704858230
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tina Marie
+– User GUID: DK2XVRLTPRG2HPNM2UGA345B2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1779365755	nfvdid	BQFmAAEBEBSnNdWqAf3JiFAD-Iq_dWtg-BgcGmNwyRiktM4sGbLN6biw8BUbucK7mzyxzmydLvpQdxnQq2m5MqCh2YVIi4NC2W6GuBRhtpaKxP6rrCSDFOJOTnyzxUQYK7Qkac2EBWWdcllaRgBKeYyC4_BJKOB7
+.netflix.com	TRUE	/	TRUE	1796478869	NetflixId	ct%3DBgjHlOvcAxLdA30mhRnU-UnC-RAQw7UWNr24xFGbVpgK7h7yFaufLvAgFTUiXpq0iFKAO7h1xmS1cvlLv6-8PpiqWTrUT9Kef6pbvPKnMWFnwtYqEG9SCnJ7J1HXmlTJ35osfDTKPEBQMo1bPe9eZTJVIFQb2bWjU5q_Li66M1x_RKE3-fC9h57NOdbBWPCusbs-BPT74ySYlA9xR3hcgNeNqm5UKx-F9DQMYoNbx9ctqbu52iKSrTHuMEzaJHDkLW5HYUpFZn5QZCqHR7uR0688u0IhAbRlD7Cw48UGwYQVtKM0cm0R0_HOhIYlKyDz_lq2w4B3p1ZkVh7mNY1rLG8zMS7eXBEmRp_-K4WHqzUCDkdL8L0mK-Hef-keGjcYQpClaQDNXJcWH_sNp646y5U3IV4nDmygwP8Pp7acvLAH60ZHBRiJSr_Kz_ZjsLwoPdWOCpzromH71HUDpGDmKMr3mocMUWkmgHYegEdFVSebd_Mv3eId6Hzq_VuPIeRG9mtAhTzkCtgtUPqw9QTiRx7ctO4zr61ZqkBULxxnFRtPgyFXWGulU-JwHyRIrUulhbbTuIS6MjVDkV7vmHInxE5p8fVSzIJyl1R1ThjROxJ7tyNY3Twvg_QUlE4kug6bLsmMtYUTLxgGIg4KDGq4EH91YADf57nw7A..%26ch%3DAQEAEAABABQW2hkxjC_IVzPS3jCCaQKfGriscNuIO9s.%26v%3D3%26pg%3DDK2XVRLTPRG2HPNM2UGA345B2E
+.netflix.com	TRUE	/	FALSE	1796478870	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+05+2025+07%3A54%3A30+GMT-0600+(Central+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=039dea06-ff8d-41c9-b64b-c1ca24e6856c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796478869	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxy9UGYgTzHdl_Kb-YgtC2yKrbUrsszlU.%26dt%3D1764942868731

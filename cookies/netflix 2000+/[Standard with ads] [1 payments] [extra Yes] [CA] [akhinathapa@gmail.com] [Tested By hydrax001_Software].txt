@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ashim
+– Email: akhinathapa@gmail.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 7303
+– Phone: +16478291419
+– Quality: HD
+– Streams: 2
+– Price: CA$7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: akhina
+– User GUID: ED3MQBFI3NDNRMPNDF2CCD2EUY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811680222	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA_9iNt7sWdwIAMWA5dGW_7uaRopnT2vofcz8sSUz0Gd6Wv2ikpIDQFPnymu2IcORvR3n0NDhRImSM_aB256mjsEbx07jlCQE2Wt1Blb86P_JFE5iuZolPqmFoRomo7yXrcpBI3SN4A95MCO8rsUl1Wt4WxCuPC3NZvVnTHn-cifq67hPwCIngvD88eiCiJitjyBU2hfBb1PKuvq1jSXVb1xUQQBSy1ZngS654krc8fhkQvPXnH73JXG7_iODGfu4tc7TzPl6e4mW3fgmIRvhdFauwDOITqZ8MXDyFepr66e9zt-8TvifqFDTbB3zR0-tKEEF9A-_NYmSRIj5ECYVhFcdQQkD0jbXhY05DB3CqNepItusUebiwbcIwoOPJWZ-LmCuUgAIuthtL-ym1n_kVAfxP6KdiiaImhzbaKHPKQzdNhz3n4brRlcvgaMAjay4RZ8xTMQwF6VRipteSp_dohzw1wO9A5m8QJhBmzCo0WnnVxLH2cfJw9Juj6AITBPgfCkDYZsXcvqCk8wu1ZiIA53FVh1FGAYiDgoMiykWvCKRAi5vlBR_%26pg%3DED3MQBFI3NDNRMPNDF2CCD2EUY%26ch%3DAQEAEAABABQKNovKuXWVJCbyL2rMFenIKGkEXItPC5k.
+.netflix.com	TRUE	/	FALSE	1811680224	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+18%3A15%3A24+GMT%2B0545+(Nepal+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=aa5bace0-cbdb-4a67-8283-3f5ea212cf17&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1811680216	nfvdid	BQFmAAEBEDWn4QQ4lXtEPiCa7sArVQ1gmKXgFaB475oHHj-tXpnLfudCwbA29tQnkNqorUl1am6lYBiaNf_fSpwQATzDtYvTZitGoOFRYnJtgRob0HuezrrhOfxJH3KULRCQBiLsAk_btix2vUe5xzjj1oesqsJU

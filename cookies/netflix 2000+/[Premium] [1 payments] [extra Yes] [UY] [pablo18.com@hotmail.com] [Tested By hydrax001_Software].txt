@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: piliiiii
+– Email: pablo18.com@hotmail.com
+– Country: UY
+– Plan: Premium
+– Member Since: diciembre de 2024
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 4466
+– Phone: +59892190194
+– Quality: UHD
+– Streams: 4
+– Price: US$ 21,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PABLOOO!!!!!!!
+– User GUID: 334AX3BJLVBS7CP3WJKNWLZEDQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810073027	NetflixId	ct%3DBgjHlOvcAxKCBOlha9MG4qZWv62NFm8DaYQ0UKlW9f6WyX257Cq9ehcS9x724er6o9bWJCWPY1wn5FczuZf8mLeZveUrDIdcJVDJ0BMPjKAx8ggAjd1bBrgGlPoRvxTBA7KYi9Qs4SVFcLX1hyz6XE76y8njw6F68xshFzu0Zfo70TPgCiStZgzCqFVcX1gRetIMJeAaotVzFGK899E_Poz8g2m9E8lzyT_lIxqDLFd-v083IJA2oF_otb9Amw0pERzWLnRsqVxgowTkjlKwLDMCTLjFfwRqax0GFdxLCofwYxxMu-CuAonyiP09NuG6m8nkEqbw7Cn4Jd-cUPurIGfH2qgVK4iE5sPZhQbQuQoKxQJLnerAzUINrOefPxjAJYthUBQe-O5z6yjC5CozzSPowccjVAHO86eWJ9wVPY1jBRJErVUxb5zQVhL_K7d4m2v-ap2f4uA1LSo1loQG-uaQgG9a4cVF1WbRD1w-4YLgGcX9tA7bJe8ygSDDdmgLo_1ieMRJotPyXKXpf6gvLj9kA0afc01Ol_A7aXouhTOKRYaomPL4ePMy22S_EpcfXLPTagcpwrD3k5z5K4W2R4OcnvfP8kUlY-u83ypfOw78Pk_Y15wajYFxVHRM6Fk33iwt4xy9Hgz1nJ5_0g39L6Sl3INeGIKA_TqUmmlYXTAzaqGKSxRuEAkqOgMYBiIOCgwnlHRfL99iJtB9LbY.%26ch%3DAQEAEAABABT3kmOx0nVrHeZ7INEsVfEFZgDgOv4JoI8.%26v%3D3%26pg%3D334AX3BJLVBS7CP3WJKNWLZEDQ
+.netflix.com	TRUE	/	FALSE	1810073023	nfvdid	BQFmAAEBEBpiG5gWkBOh0Cl31j8TsidgUIeUEUu1VxLCijPGzF6ORmiW8tPQVVgsmuHPiIxFZuDgXLW5ILtIUqHg1ZXBUXUCqh9V5-VODNyEnMXHCV85jNe0dUpuOiM259tvMpVNm4hZ3i6eN5KGxWJwi2NioSaN
+.netflix.com	TRUE	/	FALSE	1810073495	OptanonConsent	isIABGlobal=false&datestamp=Mon+May+11+2026+19%3A11%3A35+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.1.0&consentId=ea033dba-1d2b-450e-9400-f566009252cf&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=UY%3BCA&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&isDntEnabled=0&prevHadToken=0

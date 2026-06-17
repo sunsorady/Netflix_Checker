@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Owen
+– Email: sugiarto_jimmy@yahoo.com
+– Country: ID
+– Plan: Premium
+– Member Since: January 2020
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 2631
+– Phone: +6281310356562
+– Quality: UHD
+– Streams: 4
+– Price: IDR 186,000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jimmy
+– User GUID: UT6LLV7PWZEDVINW3VG4IRHSCI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805601304	nfvdid	BQFmAAEBEHQYfpc5HopMuTcodm2M7jJgqK6jS3x5Xa-nYuhcELF4fx1X2CVqtxIfa4mYXNHuy8VXyyNqCPsuQ0P6h5uj1ba5GRRarvip3UXQZTwRJE4QXhaw2Uv6as66IV7zELIya6n1v4iznknPg4APXRe6k9NW
+.netflix.com	TRUE	/	TRUE	1809661587	NetflixId	ct%3DBgjHlOvcAxL-A9D0KonfyB0fBLnYbGxICioX0Pt7N7EDzTUY9FVGCbEt6vXzKR40I-PDaLI7Z89087UComIAF16hjmHiDxOJ60ZNsvf1xv3ZV5xXksHcX1R1P1NkDIjUuJsjY2-Q7KhegowibGPufpDxSje6cxDk_ZkSP0LUgg3vo9L174ANw0KChlub25oN4aqacaHhZzXeZ57BdnZab1T_GNMv6QhM-nnSSosINEH5z5mz0PHYqS8-Dfo2YZEnAapMylcIFqFn2m8rdHADcGDcZPvox4xlTzQMvhW5JOCbvzEDY4-O7ODPfTi6Y5Dk_gn79koR_4obr8pBK-5yx7jLWlZ0RLw85kNof4lm_qG3XqqgrlB-AZMqcOzhsgWxwJ-vYSI69zH_c8RH8x8wrLT24NXnF_mef4gw-6jE5ANZ4Nzvq2873fK1A19VCV-NnRB5kVYkG5H-TH8gDsXfKS-QvAMdmc-TsG82s-Ob6r83cagjiMyXz02CymdYDlEI70ROcwYqQpVKT7kob1SNuzptWS7gT8SN6jvELRLNGjE32aERpas6KhB9eqx9gZ9R7nMY1pORgrrKdzLvJWaxwuWx9_dKj_sZNGU91TTaSFer7J0eKX3bqAE-ztOER8eyZcCX7VWfe8DFI0lgWw3Z6jeROBW0peUuiBJ3VJ42sTaExbWaCWIKyRgGIg4KDJ6P-sUj2FpiCg41gQ..%26ch%3DAQEAEAABABQQ3pZaNw1yh5CobyKYqEX1DQKb2rmdMbY.%26v%3D3%26pg%3DUT6LLV7PWZEDVINW3VG4IRHSCI
+.netflix.com	TRUE	/	FALSE	1809661588	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+20%3A46%3A28+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=84f86066-6a70-452d-9d8e-10e7c02ca2e1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

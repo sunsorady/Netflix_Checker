@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: HO DAC LUAN
+– Email: luanhodac@gmail.com
+– Country: VN
+– Plan: Cao cấp
+– Member Since: tháng 6 năm 2024
+– Next Billing: 2026-07-08
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84917240384
+– Quality: UHD
+– Streams: 4
+– Price: 273.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: HO DAC LUAN
+– User GUID: G7GLAO75URFBJJ3LAFANMSPL3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782653223	nfvdid	BQFmAAEBEI7ikR4QSZ4KCzCQ6vej8zJgjvAYbI21IoSV_nJfnUyCA4RnOpNbNLETd58NYDul_S-NKuYiTq-blXBADd7GN-X-TS2vDukFwMKbl9vEAqPKkblO1GLJm6013Fj3FvOnMa1fyBK-dCDIk21NtZbie1Ju
+.netflix.com	TRUE	/	TRUE	1805725640	NetflixId	ct%3DBgjHlOvcAxKQBLGaCELg-Qly-6RtvqsvgvcJ47u5G5W8ykSR0eNIrLzI9Ez4J4pS2mPI7WMkowJEV-DpHeloCKu1qby_z46Ql1wSzTS1LfE0DG8n7ijQz41XGAC3czmhR6MRfpTcAo6XvJ-VsNs1IdojYQ10OzkTM09rmRCPVBnMLk8RSZ1ynGNXMfwn2ZhnB2DJn__QKjw2kVLiVIFLTMLXXDJzlkvqcyLrArY--xSGR7TCo1S8-h-lfUrPzHwLIjRIpsB35oe16tJsMrpPcqXwT555JMqBmyHTzcDsm3viZ_38oLsHcvHvtPO2y4ZL0PlFqbjKIkd9UqzMJctWNcNrXouMrq2Cn08CASZ0bUNZxj9B4VyLfAChJSoKpntAa7xjDSRksqGWysgC2VBK7iSW4I_qX-r_oBNsnd3KbiQMktCwquxr1lNSJwDgheFDc2M50PXzIqc1fIRDqarkOVvJ-JLY0EDyoFn4bq34379iO3A8iD_4RFoqHfr0WSKWqq-R3zYXLH2w8V_a0P2m65Q-UdcVzT5uaM7shWezwBVLBOtsjzmYf4VT7oK5jaeJXpoXcJmbhASbg5YX8DgQhXon1HkoXzA3XGJTWG5EWdmqk2VMkEkwdXk9lO0_Cb19RmmiZcEC3GDY0pOn5v9J00oAqMBvhEG2xiZjv8AEzzT5MaO3fb6ZXyASa2nr1p1n2YJLQhC4S1SoSRgGIg4KDKrs99_TmMEtblh08g..%26ch%3DAQEAEAABABR1ogrJOXPwNNuaxj98MM5wfqY0Ue_8fMs.%26v%3D3%26pg%3DG7GLAO75URFBJJ3LAFANMSPL3A
+.netflix.com	TRUE	/	FALSE	1805725642	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+21%3A27%3A22+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=840234e7-0ec2-4cf4-ae5e-efc6b86ec5e2&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

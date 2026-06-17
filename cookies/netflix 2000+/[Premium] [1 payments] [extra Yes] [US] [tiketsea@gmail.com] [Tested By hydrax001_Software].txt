@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mario
+– Email: tiketsea@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: November 2021
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: USD 26,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mario
+– User GUID: 2NUYO2PMURD5VPFA2IXTC4XPZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809421018	nfvdid	BQFmAAEBEP0M8rIrSsXSnS96m-QABolguAeLApqzQRf0vcw2KgLG4natTB6_fL3q4pebb8AE0gPln2eCUhrVLwlzCtVuQkg2-5Bcsyij2gySHQgmBpuCAjB_fCYpdiockqaVNNdDpLyW11GQjCXhTw47fHx37x0m
+.netflix.com	TRUE	/	TRUE	1810011354	NetflixId	ct%3DBgjHlOvcAxKMBDqzIVhKDFvLy-0IFgAydG5DFMX9Z-qnkVL1cYpGw5b4wjbs-r0MeEQn9i6NTLmRpMrG2im84c3k0NUhIGfoiIY_U-qQ0g0Gqo3qx0KcgeKY6MNfvjkqjKrlraygkON1ZGXAqLiUi1QUZhbB2Tn2FaVpcBnPxz3XXwx5-sDulAcOZy9XUa_2zNayOX86_dfp-EcVX3_mqrQbkr5SAWeYcsCz2l5j40AUDz-p8AaAEbHBvqHK7MdscuccBEvyOfMMcGz8n35pjUag4t63dFdSre20jmwtVOQv8lc9BhfHh6YBaiKs1YYc9gnHYffugsrwvRFONL1G-tSDtczULPVyGx6ZUjuh5OfaCZGTXAZNHgXtTzg2ejrACbaBDDUbDYADZv5jXxoD7QvT7AoYtctNNk3ehe1cfuCyjgW62YU-FVrdr-4tow4QLETZDDqWZ-bvG6Ujqm6bRVePvSU2j0DTnWE8247nnvxessoQXT7ysrZjcX4EN4IqWX4A3Vk0XofK3IvvdzZ2KfXqgIehqlnv8Wah3V2P6s0MkZhkRqCFl46L8PUgAGIzu7K21Vb6tCBvC7Xiv0KmFFa6tEgMJjrTdpNvkcw5Vp-XMzeTpzbIly5iUz30ffdhbSlnXJKbsMOz-VH83KHtfVP4aErZWEyEFEWqR7Vr7i4O6np41KI2H0o7jqFAU2opH1IPG-CVGAYiDgoMApJHdlOERbMPIMvP%26ch%3DAQEAEAABABRVQ-lORLflwhIu9lwAb3dTMjxOG7IaWC4.%26v%3D3%26pg%3D2NUYO2PMURD5VPFA2IXTC4XPZ4
+.netflix.com	TRUE	/	FALSE	1810033564	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+18%3A06%3A04+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0cd93121-ef5d-4db6-84a1-6bc450ec5456&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

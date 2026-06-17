@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sandra
+– Email: sanderkaxd16@gmail.com
+– Country: NL
+– Plan: Standard
+– Member Since: December 2024
+– Next Billing: 2026-06-24
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31645516879
+– Quality: HD
+– Streams: 2
+– Price: €15.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sandra
+– User GUID: APT6ZRW3X5D2ZJA5NX5KRALY2M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791144123	nfvdid	BQFmAAEBEGxrp6n8aZO_Ouq3jT7Efs1gW4ZwgN5GqnlCgXXACNoZb_RkFgJTtjxdSfGap9agxN5Ndq551rZDlo5NwEfqz055CZJFpn7K-caxdw7CCmKJAOMUYssPz_q_lnU3mNgkAaLboe3WbzsTBVsKcdgxrXz0
+.netflix.com	TRUE	/	FALSE	1792359111	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+18+2025+23%3A31%3A51+GMT%2B0200+(Midden-Europese+zomertijd)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=02995538-406e-4edc-91bb-a9169c8a5522&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BNH&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1792408842	NetflixId	ct%3DBgjHlOvcAxLYA9JD4SB4QK_8HRdE60EZBDYxwJNqIt6-CzlkWquPssww5mOTo_ZAJVT5o48ArCFqv9dx7IWdNAFu4LlINOmCHk0w4XJahkRsiukh-yZMARNpovbokAtwFuXnn2aRWE-uTu16nUWBFvZRpbwjGlZE6KNZzHAhm2iJvuNwhpPRJQaaVo9OP9BlGOXZJpTj924pF26lEtRlRwOX53X4ZAr07wYcyoVVyeJ1V5KH7ki3gVFD9Iwps60zX_KV5bBpSCzHEaWCYenw5cejljxUXat_HEE-SN5zDlV1PRmgVd8cJcPyuZueZLdwSpPmXBIsv4n5ovjaHjQT5z6VISq5Udf4MDvMo3Ur7BQ0eL1JgEKX4CXrkx05NQCAyBCdHBXeu92t9XM0ObsYvkztdi4LuNT2Bgrkfu_GuoZuEYvXNcMfOhFhra-MCfEbkpag256mXF8dReH5K0PFq3t5Vw5JI1pCghlhUMW7OJieHnkVbi5Hpv35H5jKSS3xqtKDRRmqwa9QvVAV6XMa-H9vJzng2aVU_ri3R49HmVLbBxbGKZAT0REhzmKzB1PggGujRlMspvNXRjfeucQHQJOguDw931PkM3ffduoJYE7BjM6PMVysX5PSmH37iXsOJbgYBiIOCgxhdrAbYXfpFFKC5Z8.%26ch%3DAQEAEAABABTgUOJdZOUqmj6aB4O44K7yITfg1EdgXgk.%26v%3D3%26pg%3DAPT6ZRW3X5D2ZJA5NX5KRALY2M

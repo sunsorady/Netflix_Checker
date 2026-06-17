@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: md.okotaka
+– Email: md.okotaka@gmail.com
+– Country: JP
+– Plan: Standard
+– Member Since: May 2026
+– Next Billing: 2026-06-26
+– Payment: DCB
+– Card: N/A
+– Phone: +818069968250
+– Quality: HD
+– Streams: 2
+– Price: JPY 1,590
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: md.okotaka
+– User GUID: SBPKIU5H2BEQBCIEBDSBVLGS5E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811302643	nfvdid	BQFmAAEBEJweYhNWBAu9mCNm-R8WMMxg0BIMGJKaxh1eyj-mgHtk4qO_tC8pXmkGX0MDrYs2EU4M5WG9t-NDgomiomPNSidxWstxjRsWrq7UxqlGcBpiKRHLXJR0tVCh57l6xQ8BudpKrWmYWD_T5HN_UVJVeol0
+.netflix.com	TRUE	/	TRUE	1812164890	NetflixId	ct%3DBgjHlOvcAxKRBLUNzOohC0HJYa5R7f_m-CST_lTep0O7z0usUTomr0Jsg6TWQnN_x4zrd2l60lvVQjnlT-IKvW6WnsMfUkcdJdYq_HMExCXGmjxtEwQnLpg4SSY5ZOG4ruG_ofJicoEQK_3jjs7CbgeZk0C4EvZXMd1tQuRJsdzINfdRtl4BuA9F1GKbOB-pNpooQ_bNEkxuH2ecgHqQ_q5WN_EgfWPyWglpHoBjUAzR5GKjkchodr9BOGn2nr_T7kkUBfkvIYG7fFff2vPMqTkjL05WMBTKXs2XhF1GGFtjwcsBUk9kwiXNyPMhnjDydTp8mUJD3U3gJG0X069EndW8pUUahWy2CCGw_9Fc3kHNBzzElhgO66Z1ZdU6iLCFgRLnvJAJw3RoH6Zneojx2U1cTHA3XGFbhI83D-EhCGKgZKWX37ZaWhof-It8phT7esq2oodk59UoOsQEHzPZPvY9zcb5uucNfJjTOLR7rLOdAjXqY5X4fE7ovp-Eq1MLQhgg8fgOX6MyPjCMANlcmew1j42mWLG4wy9pGp3_JsIsL9x0uxPVrl7ly2e3rGQDa58g4AQ5HDKmxVR4Df2KHJPuLhiRHo5t2dZhw6J0jjygaa91X65YkGOaNY9cU5Br6Nfzr57by2eSCdwsG3dI8asMIzQX3cOYIe6esa5DxCHDkj7Fa1FEpL5KmMNaJX1_nskcCPQfM6w5xLoYBiIOCgw-rSkvQSDJfFktHjg.%26ch%3DAQEAEAABABSwpm7D3Nm52z64VGdQZyOobdY6NwAfseo.%26v%3D3%26pg%3DSBPKIU5H2BEQBCIEBDSBVLGS5E
+.netflix.com	TRUE	/	FALSE	1812164892	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+12%3A08%3A12+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=305fe7f0-1254-4f5d-83a3-06c470dd8a6d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779766541356&AwaitingReconsent=false

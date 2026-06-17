@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mohammad
+– Email: alsulaiman2007@gmail.com
+– Country: SA
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 1594
+– Phone: +966591483082
+– Quality: UHD
+– Streams: 4
+– Price: SAR 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mohammad
+– User GUID: K74JUR2MFJCLJL4JS7V4BCK23A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807350379	nfvdid	BQFmAAEBEOZBd4EUahuBwxmAK-XmJPZgaWhxV4PBLyOaIvfgmvL22R5tWmt-3F6J3EL_MrgIKYgSC7879QYzpxy33SFzImneS2BZyPydvlFMPiJvpwhveslLA_WOZe88jTIoLfzh9HZtg8zPIljekPZEIS1x3M7w
+.netflix.com	TRUE	/	FALSE	1812012991	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+11%3A56%3A31+GMT%2B0300+(Arabian+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=94a68408-a0f0-477b-aed0-2210f12cac2c&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812113588	NetflixId	ct%3DBgjHlOvcAxKLBARzWZg79X7rE-AiAWmFSRJx_T62M4BYNl_n5uqohjHR87QrX3NsREbN7kLXz9XsbQFxjufBlcDJjLpCsb69mG-R0vXYweIrkB-eJW8ygkM7KfMZ9O40pQ67xZhfaYoCzB7jFqBp-Xj2eG1mRcaMu7qFavchExsq_iah8YybuewCYnw-JTU_gO-uWf7K5A2PDGly4qCrC-wjVtZNVlaVQTproXyuJ1lQQH8FQ4Q4CWSqkeKZN_V86evZuz_Jikc8Dw5ESljong4x9WelGczb_H_oCNyxZbpXxLbXWOjz4Mu4WH8Na0VTipA8iT1C_tfTxuyQ0PmGhBQpX0xh_FoWMjhuPtzAuA483mbCcP71ALbNaz6Lvl-2FTkQ7jAqDg6Vp0Mght_MwiXGJTLiDqBd-oj1X0STKmb13DbWcpKU79xI6TXZaxU2Ps1o2WcvBYL-4aLYvbzmWRZ2HtzxdelOhqt8jXWfWp-PlyqdA32pbW8YS6N-MLio0Byy1NN6jkGVlx3cYg_k8JD3IT35u9UR3XJpMLVJUT8gXTmkQ5Oo_MK2NGlK5vMlR1U6Zhcb9hc8Vhy14n2G7uGHpYqRO3vl4_wzmssgXzv9pGfBqSAMBtsBAKh8bEvMq4aGjXZtSAqoxIYMiBpRgcDQrCREvcYWwvvYstCOSN0mGbYztNdEfSYyFx0y6DD2W0_5dI0YBiIOCgy3t2MMwUPdzN0gKjQ.%26ch%3DAQEAEAABABTZ9Z8KUHkIULO7FG72aVEXayMmajM4srI.%26v%3D3%26pg%3DK74JUR2MFJCLJL4JS7V4BCK23A

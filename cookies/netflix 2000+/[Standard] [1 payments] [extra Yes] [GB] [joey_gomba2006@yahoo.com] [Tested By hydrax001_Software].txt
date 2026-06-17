@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Joey
+– Email: joey_gomba2006@yahoo.com
+– Country: GB
+– Plan: Standard
+– Member Since: June 2019
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 9620
+– Phone: +447538125768
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dad
+– User GUID: SYAYNI5OGVD5HINBOFCODJPBZY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797892232	nfvdid	BQFmAAEBEGEa9sNeZXUebS2aaqoU4X5g9I3GgFnd92cUFhh9buELHkU9htmEn203LVk5wafWbLlJvIjpD7mbIePySJnt4ntMNYaXXJcML2gAStP6zv5xkr4i1bUNyDR7iAAwCUP2f_txR275nTTY7-TYgvPxlXYE
+.netflix.com	TRUE	/	TRUE	1809722493	NetflixId	ct%3DBgjHlOvcAxKCBC4gxAeO3_nKU5VSj-X3iblp0s4bVuTU3tuwUWyhPzoQ3FDufjdY8V7H9e_o9tAksrIqynwPACj5Qaaf5xrkFrWqo3En_MKOld1hMliRlm7eO8koWsJ7KrdpxItPz1RwOSeCYsBsFdChSyRnmNIaQqUTn8BfG1VNwW4lemTFpV__1wRo7dWCq7Fka1z8U8sfxBxYbX7R5Dj9vzbGhMdLjulA3Q63hoJqdpt8xEAJmmkMI8ixKrm_GKoSIN9KZsGYqSjxyHtafzGPzu9lVw-9PJOOa1UNyh-MulzmKUHf2SbdRjC2WZPHQDi5NkUDaGvB2E2plAW6LNu6kK_-ZfJjN0hED_g5BbgdtHeQl2l61kdFm4_naBrAcLoKtrS3XMRrybrfdoRV9c1y237p0sb-xHBFH1cmzjVXOIktaT8CuGoYbhTD4gLPbGlTktg3eGV3eHtgK3kYaDA-3_yVW6VzxYQ96XOX0ZVCVKeXYvUOyt7zIBZr9tMYVWs-PbTeWUGCPY9-VHcm8kUzTtIaxMXiFLx4CN7sw21qJNZDxNj8CJwz6ckJdEoZTjWZYe7jXF_Wocqep3n6YyvOpOTfIidOD9RvxT2T7UmePZL7PB718o02xhycCJvi6yCVbPipxdJ53mAuKqNYEEHL0Le-yGfF_819D-Q-QpGmMGdKofvSQStnki0YBiIOCgx9gYuet3SJas8wFhQ.%26ch%3DAQEAEAABABSCAkjsAhn6WjnkfHUiBc53ZUJpbplfl38.%26v%3D3%26pg%3DSYAYNI5OGVD5HINBOFCODJPBZY
+.netflix.com	TRUE	/	FALSE	1809722492	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+21%3A41%3A32+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f37ad3fe-abc9-4a0f-bfcc-b1c0a650a48a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BSCT&isDntEnabled=0&prevHadToken=0

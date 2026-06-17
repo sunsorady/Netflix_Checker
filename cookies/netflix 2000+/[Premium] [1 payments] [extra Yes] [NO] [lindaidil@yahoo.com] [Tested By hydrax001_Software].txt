@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: I✩S₊˚.⋆A☾⋆⁺K₊✧
+– Email: lindaidil@yahoo.com
+– Country: NO
+– Plan: Premium
+– Member Since: mai 2024
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 3418
+– Phone: +4796842755
+– Quality: UHD
+– Streams: 4
+– Price: 189 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Linda
+– User GUID: 7JC6LCXXMZGMVOBFND735IUTRI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEAAVfvJaF-sDXULWXe8XnKZgZk1WxGcMY7ElinjvYQY61fNPOsY9E7aOWdraIRii8_k7yx6ikz7VCmnFVlWeflQONUeDuvvOBh1ZprVeI4iuHeZolFRtB5g84G71Jb7JoKaPxIIZQWRbzidl1NTEXKEi
+.netflix.com	TRUE	/	TRUE	1783551686	NetflixId	ct%3DBgjHlOvcAxL3Aydv9ehOZJ_xyk04SZS4RsbmhM5ieU_cAiorsdvgewIWDOdTHuEezSJy9WQQJnU5t6BUvw-JiStFciH641pWyoJR9lQBozS7iisAszKH8mRtpKzLezHa_koaKDBfkzdzVZ2MTkE1LocRF5O7IaXCOsnBFb-VxDnlyd9bsZK_1vK2emzujEI3StD3misoFNbpsyIwDQ0bOTEfZGBgQlTn6me_9P8lDPq_V4pzrAmn_a82pMLEuRc82jum0S3XO2tkaLu75DpQq01YUuzpTbxk80zKfjmh17udylzKqN7rtSp4CqM8TPJuG4rjwGbKOOn9VJkP7zHaOm0xm41kaESyR-m-tSlrwzTY2nDJXfM9h0xTd7JBPT4QbWZj-vUOx7i4VSWzf5VpXcEvZ61lQJn1wRBfCYfx3w6UNl2Wsy2HpwZLBmZXpr1NJD6PrGgl9TUrHr_Ax62uVRA38XGapqB5-erIhY5CUliglxxqSkbaR2ds2-7LJ30rDJzqdJcLETkgJqSzVQtXLhak3JQDvtLlHP48XIkAXrlFwJMwvPh9QzHEahtic78g0aFyyn8KT4zkenZyO_ovazb7-zaXvJ4ELS3ot6kp7krtgNAgWY1zzVBb0tvZjkhqPSo4-_0csbbdkCHFdg8WykYPNkE7i8_B0iXUFICwf2viGAYiDgoMQrWbSKCLwj-DOP07%26ch%3DAQEAEAABABSX__le2_ClQlqvM96wvPCVIoXwl6_-ciE.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+13+2025+10%3A07%3A16+GMT%2B0200+(sentraleuropeisk+sommertid)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=2c703526-fef2-45b2-85b9-026b5892e002&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&geolocation=NO%3B42&browserGpcFlag=0&isAnonUser=1&intType=2
+.netflix.com	TRUE	/	TRUE	1783551686	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFgQRhVcIqOxNAvnK925aIrmekqI2dN78.%26dt%3D1747123632317

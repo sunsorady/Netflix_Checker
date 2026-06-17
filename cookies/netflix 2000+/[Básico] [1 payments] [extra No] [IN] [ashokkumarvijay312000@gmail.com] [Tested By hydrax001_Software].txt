@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ashokkumarvijay312000
+– Email: ashokkumarvijay312000@gmail.com
+– Country: IN
+– Plan: Básico
+– Member Since: junio de 2026
+– Next Billing: 2026-07-13
+– Payment: UPI
+– Card: N/A
+– Phone: +919741115694
+– Quality: HD720p
+– Streams: 1
+– Price: 199 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ashokkumarvijay312000
+– User GUID: 2QC4YLFCYFHSBPZQOQZR3TTXFE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812900519	nfvdid	BQFmAAEBEP83o9xid6NS9H8cC78XEEhgJ87JcrYgBrCIfP-C0WkI_piPIRncTjMPgIlxdBJs0ZvxY6mPhKPHDtqEKe_VvypH1ARjlN4O03m5aQ_ZCwjCneuT1gtzK8srlzm3XUzHtCs6tReyz0QbzDtPvzgat77-
+.netflix.com	TRUE	/	TRUE	1812956275	NetflixId	ct%3DBgjHlOvcAxLIAyjHl86DKXUEEXxsynl0E7J5_g6FcwP2xP8_18xeKGY9H-BpuJ2o9AjVex57qve-bLr72cbA4UcOhMn_lhi0EVBl-AGq7wmn_gO_AS5D9bkzpe-y5qA-Mmep3WC8H5tHtHomdZaEl7Nm4N7GB5IKquoO40_uLGTaSITywN9Rub1tge-ySMhp5XyvSRLhFV5s8fbksaq6THurfFgTlj9L4SICaeVAUJDbNwdS_wNyrtvc1EtuMyBYflVMB4u0wSunVuipRXXplPv0M5Afbxkp-b6N3C1BsW8O1b3eF6_xRIeh_M5vXOM3RmK5QnICQj4ML7TfT82iL9xkbpla5h3lqHagHg4QroHts-BEXu0oWFNdwnpKk9CVpVztc26r9v6hZw5hzA18H7w6AbtexJZIV25s5jrCIOmGMiPgBEtM0dsF7ZjjsuVePzO-r2iy5Vik0doyW1z4b1RlWZrV4-XcIMnJM-6RhxybjHh27arhx45lSULCjvUypwKbgAlSuZTomWTx7a1FbuC75YcdlzFufbadXwaa0jB-ivY4aHbxpFkiZEZxa62oE-0qc-Z07sSkHetd5zh-YxKIzuCWInOJ5vM5ha6ntW0VeBgGIg4KDE9lHNxYiAHqRyovOA..%26ch%3DAQEAEAABABRBeIzHBMPjlcl0fM1HpY048VbocYvEK5o.%26v%3D3%26pg%3D2QC4YLFCYFHSBPZQOQZR3TTXFE
+.netflix.com	TRUE	/	TRUE	1812956275	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQx2wyKLdnQyOQhMfYAbY59AL5onywr3Zs.%26dt%3D1781420275811
+.netflix.com	TRUE	/	FALSE	1812956273	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+12%3A27%3A53+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=635782a1-6193-4a3e-87a6-90016d8e66de&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781364519539&AwaitingReconsent=false

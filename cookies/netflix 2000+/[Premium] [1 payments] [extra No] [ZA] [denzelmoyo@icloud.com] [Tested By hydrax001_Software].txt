@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sipho
+– Email: denzelmoyo@icloud.com
+– Country: ZA
+– Plan: Premium
+– Member Since: October 2025
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 4786
+– Phone: +27628723919
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: UJJAL
+– User GUID: QDAKHHTAGNCHBJTTODT3A6KRDM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804706740	nfvdid	BQFmAAEBEC8E1JMdl67xMFlPWhxvix5gu3pmaysCofXgyTryRnsb0YcwoUVaxUJZe1_sHzmRVVuMZ-9J37k4ZpKn8FVrqTlYymRSvU2UYDHQDbcQ_DRWn2vnpnIhKZFvCTs9hAIgLYQq3wCHtjs7UwLL1i50AGp8
+.netflix.com	TRUE	/	TRUE	1807029467	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA3SYJ4tRY4oGCXZ4WJfPChNCVfkJl9K7Mjk4pLMsJMCT00D7TD8C3W36JqzO2ZSC5wq6snKOMDK8y-qVKfrIbya8C5CO4-1Xs-_pTYFBNNPl7H8-QTsY9ZWBeGPbJT_oDXB2zUYEVDiAoK5M8GMMLdKgRIeOMIE3Gv_zNW27vJpbvotMD4mL_0dpdVwBsn12LghwYCrYk44CkeLRLUyaFnMDvzap_HGKcrreNhXVvX3s4v7n6MHjlUYr6eTdDtE5SNnuclfuMEKFS-trDhqN9TdbrOHfXqNBVa1FE77E-s9XkPvn_vUTbA13-zraVbB6pBIBYc9eb9sOPq_iJdUlxUm_lA-AKBeg-xRb2-phJl9wJlWOricLdQfizSOymumOrDGu80XNiTmUSRccpIzZTTiLN7kKpHK7jwIZKgLv2IxSKt42VcT0uLzV5BtN0GToRFl6A25kL1FaVLedFLDmcDJC9jtiBXuOegwYSR9owZWUVsJ_K8pD2hp0TH56qcNj8ENJCZcBO1mXTBNj49yXEorikzXWcYqiflcYBiIOCgzo87WZBsvG0BMCmH8.%26pg%3DQDAKHHTAGNCHBJTTODT3A6KRDM%26ch%3DAQEAEAABABQw1Ls6jyi47HUD4c0tAigIA0DH4LrmTaQ.
+.netflix.com	TRUE	/	FALSE	1807029474	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+18%3A37%3A54+GMT%2B0200+(Central+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6c46f6a7-ff66-4a91-98fc-0c0ce9559e87&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773170740275&prevHadToken=0

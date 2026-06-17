@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: The best one
+– Email: bigpinkproductions@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: February 2019
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 1400
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oscar
+– User GUID: 7ZKAUC3WTFFLLJOB3WNUXW2IRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808186535	nfvdid	BQFmAAEBEHqbfEr3I0TFpRMBUX_9dbxgY_G8MhcFaFdp5qAX1B0RnsiRn7UEE1NjFIoNS1EpjsAKPJinVEWuDNyai9eKvbzkat85Xm6wVLhlN9TOCUK2gR-RPK4bgeT2ig5GA8D9G9L1lHkIiGEfNJmE1lD4XB6y
+.netflix.com	TRUE	/	TRUE	1809362081	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-uXZCpUt9xuO1bHQ6ZoWg2HlWjxEAYo0.%26dt%3D1777826080127
+.netflix.com	TRUE	/	TRUE	1809362081	NetflixId	ct%3DBgjHlOvcAxKKBBnnmxGT_Q_AmTyoOtboJX9LagrTwz0DACpjorxycZaCicWdtUSWn6a2wmvVgZ6sBPEThvYPFxGAoUpbI25hOFqE4TqDN5xstI_PRQTPLDxw_PN292Es5OLxMtLWpJ8JrCwcnCH8TQNlrf-xGj9lhiI1Ql0MSWFnYSD_OGdkWRDLAOAJaAK-McueWY1h6KGx3o_zaIjX5Lw6tLtOdvhu1NNQvLU3Z1HYf22D-5ctQA7dWKZTM5ulboxlzgLIpSr6zmQr_q4JKd6Bdytr8jSnpxR4rZ48v8_a52-2jC4LOyQwLhHK6AbZS1blQd3g5QaXXrWrWzXgkfs8frqOzu5QPS7wIJsKV84yyGk_e0f7LBeq9JrjsqyxH6KS2g97gOrezwnaZZaAfccAf1MjxuwS34-wV6trn8KB183mWIK6So_v4G-GahZ1zyYvpw1fPyHGkNBmgh3SZnnMS6gr0LuFQGUS2IgN92pgHkGbKFO2CKRl7NuDSkG4VmmJZprStJ_BO-MVeqF5DvLetfBLILEC4xpHqdTfTi4kNaAr968D8gYopUbGIqPN9nyXwmPi3PQbtSvqB-h1nPwXSD4BJ1-8pkr5qsTFBNTM51FzAVLhw0DbjlX0cWwGk2jWGM7OBqvgyZh86lu8DsatH9eWpI0Nrul2eA_GI6aLkDzTpslqG5fCXiK34q6ck0gM0BgGIg4KDJzaIkdRG2eEW9uLwQ..%26ch%3DAQEAEAABABQuYme1NjunX5El1DlCoqvWg9ZlLcnHdSc.%26v%3D3%26pg%3D7ZKAUC3WTFFLLJOB3WNUXW2IRE
+.netflix.com	TRUE	/	FALSE	1809385414	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+00%3A03%3A34+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=817b5df6-7760-4c85-8d42-e24fbba6c4a7&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1776650524318&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&isDntEnabled=0

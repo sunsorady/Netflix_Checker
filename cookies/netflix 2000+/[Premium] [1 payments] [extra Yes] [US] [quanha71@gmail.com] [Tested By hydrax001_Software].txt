@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bao
+– Email: quanha71@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: June 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 7522
+– Phone: +15707099349
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bao
+– User GUID: FHWY5G3TJVDYVEITIKDZ7A2QHQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795816124	nfvdid	BQFmAAEBEMJgrKgPfLZuSD9EQ0GjGVVggh7BZhbzUHjDB0_KemZrc0BfcQV9VhrC3-alwO7LMiDrELly0XycQ71faOjb2M5DT0n2RESWH0o1bcMSaPITXtyWi5uErSOq4ybcmYKEbOT8w2x1cNaef2m3-MPoahxT
+.netflix.com	TRUE	/	FALSE	1802124716	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+17%3A11%3A56+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f673dd7c-1005-4f4a-9d84-7c47a3620881&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802666800	NetflixId	ct%3DBgjHlOvcAxLtA1mo_tWB2RaksR5IS_kDYIKo1uBT005DjTl4Z24fVfa-3U496XJ-emh2R6DjldMXpLxG4mXqdCzDsjrJPCAygMUJk-n-XhK3b3xgX6rRvzuPFwA6qfGyb0UYDriCdcxZICU546YHrqd0xcYWAJ4V8CUX0ANYODA8W1bjipYvZw8j1WIKzgAenN3PA92YBFWv8nRgKumcb4L6d09ENcLeP8Xn_19mrOY-WWMhTi22kj9tEFsOZ5KBaq1YIz2VHuEAVYsmX4rlKo6k4d_BsCD4J_-88pK03H2-SuQLJmdyd7E_oBWJfJ-6nMiijJWSeVVxaDmfG66grUU6IcyVPbYxwuIoXBcHrvV1VWqzUwHndTH6HEU7P19GFCvPAeNS92Qtd5c2Gm-77AM2E3tekcpR0QsLVv-_pXJYYkI7pK077MywS0X6rIQn9ZEPEpKKU1jLbyJF2-Y-tZYYPq0gzUf2Hvha0grvQpAoPiVPNmF-ECK0Ii56OlqEnU5b5jKQBFOIdQ6NXr6pdDmwv7RWIq9Cv0Df_6-wKexC7boXNm3ay6u0XLaTZLRk7VYI-bwmCBdjXAe9PnoqowILinqr0RpXEDjpMaipAE-NhiZFBktqGZUJbdK8qhEcTyEMXGF9wPM4QpYt-xFjR0P9PIeBoSsYBiIOCgxnTu2kmHQ2iySSnwU.%26ch%3DAQEAEAABABT5uT4Xd1kX2U1JcFoCdbz-OS4N-R1mKlw.%26v%3D3%26pg%3DFHWY5G3TJVDYVEITIKDZ7A2QHQ

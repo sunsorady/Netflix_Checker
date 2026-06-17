@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Iago
+– Email: enrique.calveteperez@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: octubre de 2025
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: enrique.calveteperez
+– User GUID: D2VUOXM57JHC7OLODGGNKEUAFM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791050300	nfvdid	BQFmAAEBEN2J3nJXzW2iqEeiSHtuZQVgNeuOpp-KP0W5lBPzH6fKRcgvxmPzENEt6Zj2LwR_PkeWMTniuYkUASZMg-SbAZrDfl_PcXLZkUIRo-CcYoFYL7hajdIr56f4neAQ5AENX21UEiizvKJnWhReAwB3HmYS
+.netflix.com	TRUE	/	TRUE	1803081871	NetflixId	ct%3DBgjHlOvcAxLlA8NBnludglNeUMSS1qTptlOv41_Mg2TLphs8eWaAA9ArP8XU4sHMQ2ij5coViMNfd1BrwMGbV3UYy8WCKgt2uW_P3ZugXcag2ydxcFXyerlJ18loCJOGRjMcgNWQTM-PIWIdU9VuYM9q2RPkhd5SjsITqS_9z5KMd-cAXTuy4DwhZCHbZ2oxCqOWR8eylXe5F5Lflsj7RW7AWG0o13svE-VUo7vhAwOqlFwLR81_vYE61ZwxjkV8MaGaw5SbYJ-XC8q50ZOL1vEwvk8FYYZevjXrKbaAR8l9LBQf0w7yNH934sST3dqnP_oTcef5V69kbYmNtrEFXLF15CaDIDO-xBDuQ0kwVqN9eXAgjxNJu3upmUY7ccvUHNqrrXonAgtps7hrgQ9ZYjSzerCIrurAxAqw71Ic5Yorfjmq5PTVR3saPpnlzp9X3HWptlyPsjDKvfzX8_Oosgj3JysEGeCypPNkx45rHKMUp9PCrm_JM6AaLPxCet5nj_YqfHeLe25lAPrlwkhOio8iHiy8aESbe9bxGi_91t4zyZgXX3r47F0T-1_OLEoF8Lyh3cq7ZgUboyoP6Q6Sy9aVs8KH_z08dSpcYwX2y4Af386LqlXzLkka6Lvi-ucYymr9kTHTzyR6yUAOZRFUGAYiDgoMaq7oOfvTVNnI9xgo%26ch%3DAQEAEAABABTFhb6c_-RihD1pvyccMNJwzYA8EepoqZg.%26v%3D3%26pg%3DD2VUOXM57JHC7OLODGGNKEUAFM
+.netflix.com	TRUE	/	FALSE	1803081871	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+20+2026+01%3A04%3A31+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a94f503f-a846-45dd-9818-4524e1401880&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1769185373860&geolocation=ES%3BGA

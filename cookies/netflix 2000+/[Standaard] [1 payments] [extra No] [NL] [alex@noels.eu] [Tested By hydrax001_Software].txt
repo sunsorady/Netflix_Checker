@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paul_Noels
+– Email: alex@noels.eu
+– Country: NL
+– Plan: Standaard
+– Member Since: mei 2014
+– Next Billing: N/A
+– Payment: ITUNES
+– Card: N/A
+– Phone: +31610014448
+– Quality: HD
+– Streams: 2
+– Price: € 15,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: a.noels
+– User GUID: KRV2G32LVNFVPBFKDPRHPHKU3Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794778256	nfvdid	BQFmAAEBEIYrScvyMm_M6ZC6Qm3_eCRgc924sWUjXSskGaxDbsg4IkNdAF1WEx8lhwfrUZzc6qDxvRGPRhkMCUd8t4D1xvRjckWbTw61dypNmiyklzIgBxOuMJDA0bU4T0AUV6KIdZneudAnADhq-_I8NQBmIMI5
+.netflix.com	TRUE	/	TRUE	1810039491	NetflixId	ct%3DBgjHlOvcAxKKBIyLDeCCQgujYEUIWN26rdxuHjdwMQ_3xOB44mhRTjeeM1awoJya2Nd9wOtZ2Q7yQyrZedZYRIIqWimcP9syUAx6CDuvikv4-aymJE9RBTdsV1VC7r5lS9Rki4BvMb8N17NKVQ_udH0HllcGkPvgoMGtvqP4DTy_HyLEhtjyi8dWAA--809UuxCUQ2cOpa0Bhf2s_Q0o3kxiPtvEYO4nnNZbJS0tWDZq3h9_H3B7Y_HFSSNp5uPuBdztVD2NsFQB3eZqaifOjNLDYoyn3Z3xGk_32vMawvur6gSJP9c_Ai2I9PLm9hNCg2IuP9ZxnZyQpmVUzhFdpbmbCElhLIcotjYX-ju2CHqIqeaWLaTz4dM0nFFJcUVnrcHhSKvAamf0k28JToDiKe54ltiNVaMjPhNzAAofIJfHjS18m-hw0GNVUSLpZIWxcs62_YoHyMeMDYzYuAQdnAuId1weOdRmavMnHdFWxK0yNntoQaWoK6YEPcHIIqil3g5NZ4iiVUtymrOc2HfCsVaCbqpccbIuyA7x4R8qd16G9G1uGr3iwk7mBB-68W6l3gmQJ2QwZUxP5yuIyu75ruwe1B7sRBUTTRuZFqjRZk1j7uCQonbsct7p9GjfxcjxaOWP-UL2EoiK3lQMrur00hoglgSTrTn0_7X_Uu-FUiotPYtYRz9mgAvGiCOTbyFFbZGpdhgGIg4KDBj9dPDNw8yBbcqqTg..%26ch%3DAQEAEAABABTRZa9N25bgVfTwIQ5SyJ1PsfY_CRnnUxY.%26v%3D3%26pg%3DKRV2G32LVNFVPBFKDPRHPHKU3Q
+.netflix.com	TRUE	/	FALSE	1810039496	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+14%3A44%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca0ff045-eb29-4ddd-95f8-e429be7920bf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=NL%3BLI&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

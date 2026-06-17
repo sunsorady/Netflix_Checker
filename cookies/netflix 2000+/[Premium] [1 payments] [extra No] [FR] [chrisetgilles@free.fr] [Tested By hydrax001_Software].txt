@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Thebloodtag
+– Email: chrisetgilles@free.fr
+– Country: FR
+– Plan: Premium
+– Member Since: février 2019
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: chrisetgilles
+– User GUID: ZLNDZ3RJWRGIFKBQN2CUGKL5SI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802873202	nfvdid	BQFmAAEBEMt0bUYxG-mHcg-eGs7Tq1Fg9yTSlWW6I_2vZmHW9O02GoYVgNb45KCsmGg3iYvrKX050Rl7lDOgRYx0X00R_x6BxFIOv7fZkToDoeGstZBJpLbLkI-HJy_0_RAf-OBedckWglQsj9uS1DDiG_Bii40z
+.netflix.com	TRUE	/	TRUE	1804519250	NetflixId	ct%3DBgjHlOvcAxLWAxKHE0ufIIHyL5wux5FQO24fSzxnc1t7ViQyVA8EeMOhMKCOMFFSHRuJMl36_y7jVuYxrJNVgQkdx7hrRwGGtuJZw6Mo2ZveabTmEcv-G-SXVC15SatctIuupoxxWDAvNR63Kru23ZTkEzsXKJSVFbTDoer6l7A7xaA2-L6pTJIRAloSg1qzMUUYjl_fMD3hAPqYSusPZQN2SkWuj1_Zcg2QIushvQFXncGmhN4L2bb83MC9nE3E02fNcvwtePDr34ldPoNH55E9m1npxVbUrqZlMLdE61_4Kpupi6XftQNvIhCFMYVY37RAxaW-dowxXK1UAfOql0AQmKsL8hH8wZGXZQ_ahZh6H6S98BPkU31Z2YC3zTP00GBqk7G0pCWQc1GYXRlD8uB__Yp8mC2PWUl_PIx198qqXGjfW-zRBfaiGG-WbjdEK2gplh_0gmX5l5CNbr7vL2e-Ep2HRDahKV_TpPR1mZfKy3L5Hs9A2fYtrQZymHz7s0VMYTDLLrI6fIYi4mjR4sO3SkEg_dmpOaOFkpzh8bfKYzOANeIoY59_gpd-pI-_FtLDvFvVR0COrPOd3c2XfvnkS6Z2iVdVUt5Y17Sden_jRmcJFfVNl6Ueg61LgJMQGAYiDgoMEFJbbPcdSHQ9TqRj%26ch%3DAQEAEAABABRTaRPX1KfWqFuKOpwHfoUV_tmlR_esDv4.%26v%3D3%26pg%3DZLNDZ3RJWRGIFKBQN2CUGKL5SI
+.netflix.com	TRUE	/	FALSE	1804519251	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+16%3A20%3A51+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1765f77f-81d9-460c-8dc9-67f9998417b4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1771336849310&geolocation=FR%3BARA
+.netflix.com	TRUE	/	TRUE	1804519250	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRjACRsVpwjg-dAJWPc72fU_8oK2tyB6wc.%26dt%3D1772983250509

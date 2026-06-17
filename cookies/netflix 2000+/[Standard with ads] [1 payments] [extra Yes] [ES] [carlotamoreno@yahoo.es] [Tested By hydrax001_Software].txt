@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pedrito
+– Email: carlotamoreno@yahoo.es
+– Country: ES
+– Plan: Standard with ads
+– Member Since: December 2025
+– Next Billing: N/A
+– Payment: O2_SPAIN_BILLED
+– Card: N/A
+– Phone: +34629306717
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: carlotamoreno
+– User GUID: OE4UVD3HXVCQ3IKIXM5UNML2K4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805744263	nfvdid	BQFmAAEBEIcNGg1-SZdgoYAKakDCjoZgzxVfriJRC0w_44UX0GVZ-xRV_dPeSlgtY4lhGoEIxm8UusYYYCfm0slMV0hY-f6ad9ocbC8LzGJQ0Qw1680svwfH8slVSRxki1OaEIWYfq_42PRDpNzLxfIJwKc30N-R
+.netflix.com	TRUE	/	TRUE	1811872878	NetflixId	ct%3DBgjHlOvcAxKBBGvSDPvYUOdi2Q2ftry-jR3dWIkRjSrjkuWF3WAdD9p3KFVjPC2ZwHZ3pkH1KU_KLi2URBzhj44769eQlup_DYJfd2dWsOfIwIyekYwkOLwGBSz0IXGolIoSKji9rYevcRChIDHEFXWO0Fk23OctvQXzXpYmcGyL8JfvCJ8mJCm2xNgWbVWYUJP0S9mta-l4Ekb_HekUgNSq2n9HejQf9v_aicVDn_QCPbufPvlZj2XNgqEdqsvelv7ShKVUDdSm9FJaKuISONeiMquM4PRR-xzWWf6HZJfjndlNSTE2vLjHJaXQ29dfurQlSdEicFWCByn080OGOtEC-x4oz9I8Dx3CQusd30uHYKmtqATsNiupF8GfrCEvaBG07LMLwCgWndfDjsWZK1bH3rRTL0KZHovJU4dypbKK7zoCOA2vc-DcTuOxzJQtThsiAk5JdjOm83vs0TOzGpBkcoxGzcxDLkIeoGcJXVGnkCbNFlYgQly1PQmDD0NBT2SGFt2qmrPtZHuCxLD7JI2m5mD6GUCDDHKNXiZ9eXUZOXwDdkpxKG-DTxsnzApIE0pVlCDIumfLm8tDyBLYORXeMM6ieEfVrYX8l1ERmGQ-Ndpwo69oQenvGEdIJyhrzaJiRv7CV8TQZ2rco1euXcwgK3H03br83yf5ccEwqXDCqAf2diwJTdtmLxgGIg4KDCJQxwe4qoeVKzKkdQ..%26ch%3DAQEAEAABABTTOEwZ_A--lG0c8dIVXt_HD0S_-Tq1Vwo.%26v%3D3%26pg%3DOE4UVD3HXVCQ3IKIXM5UNML2K4
+.netflix.com	TRUE	/	FALSE	1811872879	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+20%3A01%3A19+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ead375f-50e2-45a9-922f-4c23ef804b13&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1774207683135&geolocation=ES%3BMD&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

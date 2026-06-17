@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: charlie
+– Email: sarah.hubaut59@orange.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: mars 2025
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 9334
+– Phone: +33645615996
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sarah
+– User GUID: JYOY3QHREVD6TOY7Y4L74K55QU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806351478	nfvdid	BQFmAAEBEHL_IaDCR3_wa2EgCwTSgtZgyfvmNx-g5wQ-_YcXpUw9oqsI0ekQU6MmtoV4zmJk3lUyWJZbT7E6d3EHhcmTB7WD9MPnP7r6Chu_c8mhw2-roSmjkWWm8xV0qydaQNo-F1S9USyjA3nepmy4tSuywQUP
+.netflix.com	TRUE	/	TRUE	1812376318	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdU70B5DGrGW84q0xLVs61iEKAP-WjGto.%26dt%3D1780840317530
+.netflix.com	TRUE	/	TRUE	1812376318	NetflixId	ct%3DBgjHlOvcAxKFBO5pf0GGy5g9QsLjsDsZz0Ju63nul1F9zVHFBfBg_hDCwm2whNoRDnQ8WOjX5GJs3329MUNJjMZSUik3vEC0vZ8HS0H8tzsYrFn-_hiNY7x7lBasI3hHU_xz80Z39GMRpIo0pfmLIn6q1AOwmIKcYhMnd--dUsU525UH3CeyJMWOmSC954mCop3VLH0_HvmPkMuF9bbnEYUqJwZ-3dRhqLUUsQ-agjV42hZdaK7AnZNE4UVKjwMMZ5KX3JF93XJ8WaXqdM8i5B0pZ2pqPlraHfG2qmzsX1RGO7uSYQPLdGhhhmeGC4S3l51LiMIw7GW8t5SuvTMqBy65JnVSGWO2l9X7_6cKrIdel-o5c7IzWluCo0BP9_gj0hKJx1Q7LhwmtYmp1bW1kXCh6GD_TB1SkOqJKw8ON8JZLNGLwYUteO8FjfETxYJRXTpkHLjIRaB9GJDhxs4Zi8wjoPwwOTClxX9QWNfY3rZdKRLjedTK2aGLLYELju4aFxUZX0wZuWiPg3tTMrW1ePHedFv7scA7eV_QRmAc4zMC8zXnXpI-YaePZosSpFeGSCksGt4TQWUvZx_iFhyCl__yy9a2DEHJzcUMleEqGFcpuhbBpC5NxzcFcv9riTLmUDxYhDeWpCDs7QpkJenpJUFdKcn6dnY8IyKQrTcCNYvClQLAI7vt-KtH1AEk7QcYBiIOCgxNNdEoaGpKJuRmCeU.%26ch%3DAQEAEAABABQN74D-_7_RaoUBDmbQGbBNewATjLzjnq8.%26v%3D3%26pg%3DJYOY3QHREVD6TOY7Y4L74K55QU
+.netflix.com	TRUE	/	FALSE	1812393076	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+20%3A31%3A16+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=24deb9b5-45be-4a75-9ba5-fb0970b96420&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1774815419901&AwaitingReconsent=false&intType=3&geolocation=FR%3BHDF&isDntEnabled=0

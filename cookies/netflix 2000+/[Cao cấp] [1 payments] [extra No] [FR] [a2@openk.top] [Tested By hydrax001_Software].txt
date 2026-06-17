@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Goat
+– Email: a2@openk.top
+– Country: FR
+– Plan: Cao cấp
+– Member Since: tháng 3 năm 2024
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Goat
+– User GUID: Z3YNX2SI4RGX5J3SKJZJQSVG4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800953985	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA3sB8c939e0szOo01sfO1Z0XTTbnJlg2MPcCC15hA8EY_8gVJSZ8V7X6VM_KYU6syQE2THb6lq6xeMhCRqxPMQ-pIlCRJq6n_xW3ns6G3Ig_RHR_H0gV1MEkwzUiXSLjX3pwIWNi2Lf-AA73Cp08D--CGsKOgXtEH4azkOzeuqn4B8QKC--NajO-uEqDs-BxzjBnt8bzFymGCMcZkYR58TLZzRxVZbPExY6y8hThILVxT8zrd3xkzoSFpWtRu_4gtr-PMcKuC45EWv-0L_IBKaDF_W38fmMEORzZm-F1ty9TFG8358hY1L04uEhKK8TUgoEkCHF78vlzL-DmHj7t_jv2rwh7pfGuIhTnrO0kQhL_xErVnCHM3CKrEd4Q_CQt6Mvq6P-7uO0t_3TWpCFHslr8V72Kivs5GuljCpUbSyOCSJSQRc09m2SdnUPhEda7DM1-WAl4tYOxCX0nNHrKP-3ASVaFmOMcjP6Oc25l5Ut4Q-pElcA2TpdHvKyD3i9NomITWCmQFB2WlAAsYkVJAbHhGAYiDgoMrOQe4IjaBJ2t8sbT%26pg%3DZ3YNX2SI4RGX5J3SKJZJQSVG4A%26ch%3DAQEAEAABABSyp0HoHNYG5xNUTMNHUYkNQ5-xTFPRGqk.
+.netflix.com	TRUE	/	FALSE	1800953986	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+15%3A59%3A46+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d8794dc-52cf-49f6-a595-647a8d3a846c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769417964641&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800953985	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZChuHUckzbOdwZCtJFi_YAtP9cxteK4g.%26dt%3D1769417952744
+.netflix.com	TRUE	/	FALSE	1800953985	nfvdid	BQFmAAEBENveXaUsQbrTBDkXJolO-0dgdrwz86amMREeq0kUm0s4kCeMUEuTgfVV_q776nRSS8Jt_8b1OyXfDKNpvWPeDhU3IkWqNVCOMuKoY-hu9cuEpUxxhCY-XSabvOldF_U35yx-yKb--vSvDF_qZny6XGQ7

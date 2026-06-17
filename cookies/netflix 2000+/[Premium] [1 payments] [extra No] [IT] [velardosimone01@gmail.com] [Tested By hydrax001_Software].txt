@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Simone
+– Email: velardosimone01@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: May 2022
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: 4139
+– Phone: +393891251591
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Simone
+– User GUID: OUMJGLIQIJBXTO4FQTTVV3HT74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795301190	NetflixId	ct%3DBgjHlOvcAxLuA6aiEkvsXa9Qw6g0FUl_Vkpiqh_tjcCO9Enu4-RyKS4pPi7YyJSoXGLnHMUh9CbNYc8OULSjgIXR9tAjzM_nz2_WsonPMvLAz5ew0xfa-s3qDYPmMK9Lf6gxW_v8MIl9tZYQNp6SjjkMTtAAKtB2nLUnliuyy_f79e7T6pD-65G8LJMSw44Ucb0RdejcZEfpyoPXzg-FHL_FkISBP7flXWPsOX-mhQyeuBweK6MNyM6gibTqFT6f1jvm-iuWwOxbA9SvHd0SQ7MdE_z3DJKF7bhIuHFXR9BymAx8s2THER8YID1-euSeaXLKYge96gjfkXZoYy6v-oacm6NVNUDkyDigO9cKf0hDtYbPs_bz9XZvioHJO_k4sUh-a_AwBp0aI1zCBjFyXqrv7V4XC9lHDiRcxGwYCwuqE7BX93jq58p-JPC2F49H1AL7mEWjI1u44UyI9nXOeVpCPbJHVA1809FTLnDI3lXIDqt83AcZTyaehfgvJ30NQ1X7Vl7Y6bCrcbOXsASpHeKCTk5-MgwfRE6Lceq8Mj8bTjEjhWOb-BywCPZe1syB9k9Mblnnwtnaly1mz5vM43VjtBlSMcIbnhJhLMktqbdbqP5yWOI_doJsG_ddKWZJHJnnPNletrAvulfhuFS41I4gR9e4ygPfGAYiDgoMZyzlKUHV_cvuyYxW%26ch%3DAQEAEAABABTVx9c020ASTHttdAxzPBXv8N1jlMQmo8I.%26v%3D3%26pg%3DOUMJGLIQIJBXTO4FQTTVV3HT74
+.netflix.com	TRUE	/	FALSE	1795301192	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+21+2025+23%3A46%3A32+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5c40e829-5c89-4fac-94c2-f7f4d223bbe4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B75
+.netflix.com	TRUE	/	TRUE	1795301190	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTaNleePRjKqqfG1d97zxd5TwsbM_zvdww.%26dt%3D1763765192084

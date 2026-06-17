@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marwan
+– Email: hmbinjaad@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: September 2025
+– Next Billing: 2026-07-09
+– Payment: UPI
+– Card: N/A
+– Phone: +918530443887
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marwan
+– User GUID: HEWDG5VOLBH3NIIENZLN4XVPLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793136255	nfvdid	BQFmAAEBECo7WOxpsWl5Ehc_HOxAmONgKm3Cx5Np9BqmhjmE-cpMrZSoEFQn7HAH-NaRxZ7GZwQzNM84XU6OYFcL1nfMg11X9DeN_R9FtLoktxI8ao5FPARXmpxJABKEeZiDl1jXH6aGGpVhHyxyXUE9hSF34TFE
+.netflix.com	TRUE	/	TRUE	1793401019	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0uYZZwEok5O3NavRp89BkiwSXUIJZZEM.%26dt%3D1777849018442
+.netflix.com	TRUE	/	TRUE	1793401019	NetflixId	ct%3DBgjHlOvcAxLBA4W17sQttasBPPhWfK14EqYjybktr7MdmPOTkpJoA1tTzC-ymT9FvYylYJbFURopZLGcQAnDkbeVcnS0WwIsKcZdVyLAi708c7ILuccsFmbP3vGY54EgPQWRuK4UWvuKWkT48kqGpcLXTe2o7rMIam8Qv9n2UGMXN9pGpsW4Ohbk6sk88LLiResv8e2XC-VpJ3pQes2mlhMPl0CfGfRZ6hpd7bsPVV0aBJ1gTPSwkNc888gQOxukRf33TsAeLDl0nKr9GoUb5fJFkZhFNx8GPFsKCm13wVVwueQunNT2LeArohnWKfTMPObAnRKoGhlyUfO9gOgfWypOpKW1IIbDuInsPoqtGNjDELmoiPcNdeKINeGBsyvjVVg09rOV56yW0w4kxs99XKt5ANXZ18niWpnSa4re1_u0eAyLe-kleFbrWDNVvyndBsSAPo1_EwNvC1diYbMhyC8MQ68sXD7hpJsQUlGJg0JMTiDKXZSFsMPT3SzshR4WF037SssobgfEBEds_l-OyR8Yyh8VasDbSs1DJhrut9PJKkPeQe5U4jSuUvCgnMeNNYLFdLUk_lUv9K0Wa3AEci1p2rE9Vtwe_0IOGAYiDgoMS_wSodOo5HoksFw2%26ch%3DAQEAEAABABSnT4YduC9rAkNQHo1U0dIcWWvjd0QjmOE.%26v%3D3%26pg%3DHEWDG5VOLBH3NIIENZLN4XVPLE

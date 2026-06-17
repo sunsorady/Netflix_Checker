@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Loui
+– Email: altousloui@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: November 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 6021
+– Phone: +14782136882
+– Quality: HD
+– Streams: 2
+– Price: USD 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Loui
+– User GUID: YJFBNHVQINCLLOCX7VRHIWB7ZE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783648803	nfvdid	BQFmAAEBEG1j73KgNLqfka3vbIEu7RJgG_TmzhrbFbNMEbPbDv0vWCbzhiLqFUaPlktqAGQOw-mgKJvwTGVkXdXiQBsyUflOUfFQkusqmKPLg49WeyJWZnpQlc81UBHF5tMJfdkRCh_9X_IJGkVp_S6zZdbzg0BM
+.netflix.com	TRUE	/	TRUE	1804868093	NetflixId	ct%3DBgjHlOvcAxKLBDV2fh2xyisbmkkyo6RcEXCUk6up-ohKupNh5t_YdLAc6uJcPm9RiIdIN2BtNha_0s-ZlSAy4b8Iat15Ek5cCu7G7OME9EaXyldKf29Cr2-PkHIPRdVIJn9xiYsHQAQMoP-934ZUgOawJOOcSN4INbUOeVFwm0nWpqiCBoD4e_RMqSmRv2AdwQ9_jW1SSbVmYhKsyEHcYQRCrucO6e1QGjyRpbUUcu3ztQA3opuVkvlWCzyy8VYylyYB-S0a9MGjLlWyybIJeMxDvDcJa3VXkkp_bq9H1K7CfauOtpplqmh4GL_leN5fqT2W3Q7HkWUPr1UdWcl54L_KpJ3PUeCPqpk7dUdCNHXo4lzxSVKaf5iP_ItLwJvHY9rfmyl59Dwn93v5FSVY_Mcnaikgdl_skCpBK_gVqAisaZFNb9lvGrml0sqxvwzKX49ODcmujUsSZh3dawetvrRQ3bQVr6DIwHDiDPUdMEi9TVTGhSUDp-HeYUWgAsdZxxE4aeWJocNoSSmqc8Wxy21alGYVcfj2iwj-7orTvVkM6UZy_RTIUZmqPMZhkaNnqgpAPoQFisxz4StkLt7VuYi-HaG21hEbr8w02MRuduleUGDdIcLpsgfC1kn_ECBBcorNeoPZwliQ5wU1iowxMOcw_fMKvkTYWs2QF7IyP_YOiFpj8II8TBhE-4RthFHnM1U-vK0YBiIOCgxrF7uoLEJyoyJBxhE.%26ch%3DAQEAEAABABSRpsgrdCK9GPrcjdBf2wcXcYARh3nNLfI.%26v%3D3%26pg%3DYJFBNHVQINCLLOCX7VRHIWB7ZE
+.netflix.com	TRUE	/	FALSE	1804868097	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+12+2026+12%3A14%3A57+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=674d3934-c589-4a8c-a9af-a23c8c8d9019&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

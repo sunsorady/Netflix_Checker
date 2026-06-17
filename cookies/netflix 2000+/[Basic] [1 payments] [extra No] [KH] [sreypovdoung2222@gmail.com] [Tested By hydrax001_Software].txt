@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DOUNGSREYPOV
+– Email: sreypovdoung2222@gmail.com
+– Country: KH
+– Plan: Basic
+– Member Since: July 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 0950
+– Phone: +85510937356
+– Quality: HD720p
+– Streams: 1
+– Price: US$3.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DOUNGSREYPOV
+– User GUID: SH3DB6N57VDLPEPGA5JZ7ZYAMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811348058	nfvdid	BQFmAAEBELRb1FvZL_VwFWRA8YmDuGZgzl51T7Xb0bMOaAHiI5gQVYmPZ0PfPgMtSaaftzAUn9ryRLO5nu_qK73mJKruSao4DuWMB9rWZ16Q_hWrBq1lDEHKAuoNCBPHnsvFQpoL5fTsqy7-j3WMcgVDS86vokrX
+.netflix.com	TRUE	/	TRUE	1811825917	NetflixId	ct%3DBgjHlOvcAxK_AxXiH4giEhCpmgORdSg0PRRNq38Y4AnXYEGjWunweoPVLrTXxlJz9PD4vLsnmY6KkwD_SZgTchAuu89hjK628RPron7cr7yWTdrq5CDxF9DAAVR1aG75LXFyEczxVAw4eV-EaE1_9LNXHc4zy9lE6o-oQ7gJnIv1oBgvNxla4Dl-BoNOqJlXUCprZhpaaZUGRWZnWFPg15_rkn2CZ93pz2G2w4L9eslMK4Lsx8rFP6_ilEG-gnvA-XJTfJ_HqgznJ8kRZQwevgZLqvdKSXMpbI1l9XTnwUJVB3pClVuLHY_99XXyc1PRkxbNpL5CGNhfNh8JzKi8Y100TCstDSHVlup5sS9auhpVrhVrShSIXWSOb7cBnvFm26QhOUWjRGEAxMkQQ0ob4og42pjYBh3Qf4-pGncIR-rcP7fPE9rQxGut9iNLZthn9p93nldAed_BYpbei2jK313HzTcZQShtYxAnwtdEb-6aNRAG-as_dZHr7TSRMgNQhFx_RBF_Sc7Com6mnHB7GGq3Nh3KZZQ9C9__DmcCget57KUXhZ6o4yWn7SVhejYejhjG2gtzUQO_EluD04q7PGuw0i5CKssGSBgGIg4KDClw0R9GfD70oEd4ZA..%26ch%3DAQEAEAABABQ3Vy7GNb8fAUbogypctqNsddZ6TUkP0JM.%26v%3D3%26pg%3DSH3DB6N57VDLPEPGA5JZ7ZYAMQ
+.netflix.com	TRUE	/	FALSE	1811825938	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+11%3A58%3A58+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ca4dbf2e-8c7f-4bf7-b73f-e2861ce389a7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1779811964315&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

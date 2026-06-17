@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sam
+– Email: sammykamundia@icloud.com
+– Country: KE
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 8853
+– Phone: +254716618372
+– Quality: HD
+– Streams: 2
+– Price: Ksh 700
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sam
+– User GUID: IQJDZHXAIZGV5L2RGZIAETS3P4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800379115	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA4N5wUgqwg9skbs8-i9AxFMv-lLCaKWnWxGiEoTKoBGpbKQN18dPtZhuaLmHRNZgisKle_cEliWkwhM3ObqtXOf5TBe9N-m5Qhp9q-kAGTcF6JLM2xNpP44jMjWne8NPaSIqj9zXlZzmXM9tenNfVgDxOdR1KQm5jZ51owxGK7LrQbhFnyxZXpq2bkzkurSq7SOpa8JpG_oDG9mxjr7vGY7Qw3Dd2Mln_w_apDL7K1Rs5QZRhYxcwReM-bdnKi3aCzwoVLDzpq8FHGq2o558KeiZDDp2_GvguXZdauHwRiRUiA_YM0bFGyJ2x1O1bgPC8TmMabhRX_Y8X5CHathN-MLD1SNtsHeuLCj-M_aBMWV9NQpMAkcTqLlDAlVI6Msr4xSKRMZUO2wGYkm4KHla4SUWhLLmom2dVpPxkoQvRHRZpzhPOM-ypRzYX7xnRqpowRlMds0A7U9F2ofpWx7y7GCsp7eQoz7jKiXA2gkq5XaVs4bKz2jgbWRE-61tFRp3kiz5zP407H0YBiIOCgwq5Fzyc7_TRapaZgs.%26pg%3DIQJDZHXAIZGV5L2RGZIAETS3P4%26ch%3DAQEAEAABABRPX1ZKzAygCPouinyb8hIPRN0fiGrDTZg.
+.netflix.com	TRUE	/	FALSE	1800379115	nfvdid	BQFmAAEBEK8Y2B5BIfDw9HICS4dCPwpgbhwkImhwTT-7Hu1tHRimp92kzjOxkkkAVXvTEnb6-Gj7WrEO3Dr7Kv_9JXET0YInYhbyA1UmaSN3FWL1OizpJTLW2XNsM6RmqcGR8v8CTLXpoRug2inEqOUNVGAZa9dq
+.netflix.com	TRUE	/	FALSE	1800379952	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+19+2026+20%3A32%3A32+GMT%2B0300+(East+Africa+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ddbb55ca-85ef-4326-b66b-1c48a717995d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

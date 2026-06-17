@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hassanjoky50
+– Email: hassanjoky50@gmail.com
+– Country: EG
+– Plan: Premium
+– Member Since: Juni 2026
+– Next Billing: 2026-07-13
+– Payment: N/A
+– Card: N/A
+– Phone: +201144669100
+– Quality: UHD
+– Streams: 4
+– Price: EGP 240
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: hassanjoky50
+– User GUID: RR7WEBJTTZFBXDBLPARBAWPFQM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796518332	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA_3kco3lhHPIKl9t8kYOtVUzJQFQUnmkCYCMrVGEL_RO1lBpBkaWsZBLnSsdWaLint8QE-NFfxMBtImwHNMstkxSt6WtZYnlskqkZjTsmqNFgilAXFuOe23H75BXj5Fh3p4IWoGRoLwBvOd3uHRyiGkoZQQaJggLTSYcLM-QMoXyhUwlYgP5ZFNT2KlqAQq6anYd6XfgTcoY3-rr6JZoGvCzSkzoeZ7Z-9mqyVcVirXrjzzyr7eIzbt9jG6jNeKIg_mf1tnmfj5OmwhS9w2xmguuFYDPXwldh_BdYk6xrqeIESZyni235CjjNieDze1xNhHsRDOhanV5PAOvjo858TlkxcbHylGg4yHbDQdNEg0RvRNzV5jXFYOwHuZZMyeDpGMq08kEZ1VyeLsjSHf7snh97XABu1N8hNOsCuFvv-6WeIHetth1Y5D0IyhMKv-SRHea1gRnl2kUIzwyBAe1HwlEYUvLYaQ9c0bA00msRGzyfxqQhKfcpPtYjtAODRyDprRShNDDdy_9zjC0WxszMx-piUMd0x1OTmHKX0YYBiIOCgzb2Wv4OeojhTBuqBo.%26pg%3DRR7WEBJTTZFBXDBLPARBAWPFQM%26ch%3DAQEAEAABABTG_R6OafPgQkVuWM0k6iys9ef6pPgoXjk.
+.netflix.com	TRUE	/	FALSE	1796518336	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+06+2025+02%3A52%3A16+GMT%2B0200+(Eastern+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ca87f22-cc54-44dc-8f60-6ed094e29744&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Faccount%2Ftravel%2Fverify%3Fnftoken%3DBgi0suvcAxKjAYfp+iFArhontCorpaKunV0veYujAJU7SJbDBhSdrd1zRrUqisT9GYSeuv5%2FZDspzezgufdBuArhontCorpUlYEDWNb0n2ObIrrcJ0bintSWkkiKjXp3ebeJVF4DZNhGH4VS3qq%2FWcOA2FMEJQukHu23kkhHLwg7rw8Wnfac9un52EZgrfE0FRfy7aYFxYxvPYPj2lDwwYBiIOCgxWkLQaZieW9xCiLtA%3D%26messageGuid%3D9d7206b3-95b5-44a5-9fe8-ce1cc31dd93b&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	FALSE	1796518332	nfvdid	BQFmAAEBEJeTwtlWi7v2-fizSG1R5txg0wei-n9ebY42bDJmkzfALCkbpgmX-SDR746_DS4hpcuhHrgb2PEti8NpPqcAnqsOQMjMUZrwrVGY-SOaj_X7mFYXZoQ_RHFNeY2CgdS17oaf6BN-Fs9iEwSLlLDqAihK

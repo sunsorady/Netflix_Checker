@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mudolo2012
+– Email: mudolo2012@gmail.com
+– Country: ZM
+– Plan: Basic
+– Member Since: June 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 7104
+– Phone: +260977698618
+– Quality: HD720p
+– Streams: 1
+– Price: $3.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mudolo2012
+– User GUID: O4CVALKHXVAUXIMKJGA52ZK7WY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805036603	nfvdid	BQFmAAEBEOdWJMRKxpBdZF_dUTr6Ol9gdV8v7Vq5GX9Px61MKo9xE2pOXKOjskz0TY1vBdXSC1WBYSk5cRC_2h3X9o9XstQ31y6nsPSaIpw4BeypOXIFNgkz8gRfR6OuHWf5OBmSH-qPO2J0UVdohKIt-4HBEg4f
+.netflix.com	TRUE	/	TRUE	1805561758	NetflixId	ct%3DBgjHlOvcAxLRA63XztXLdynCeiY8IO63Tyz-f4G98e4U-NTslh0kEILw2FOktqOILuWd21mA0xG5aNRPnRo3zGhqRg6TmCVgEo1_ELkwQV6Fre_m4kDCjOB-41RXEm4mdx66--Nj6TSJLcN_NHSEuUKiyWKlIUq8ZW8HedQf4fa9Z3sc_jDEt0r2sQTF_6zIeQ7JODl3qgllXYDM70_OUK8zPLJM819uu6fTda2DTGhMM4qIiiNrpsSDCOMmV2UihTF8gHpnu5cPJx4Jf_eHdlKqTVAf5hfE2Cb7Glje7XYYErTLFpErBhIL18F5nmbqjLMiEFDoFbghBbomL7ZdRONf_JzfvbKR-sUDDKemwVjVCvN5T77-8THLpTbtNnOv25GeQL_BPMA56UZWPNKzA8It20Qo3HXos8wEG778G7hbeMh_gsTDpnR_6_8eP1TRodS7mcHoFwtE3_fTuccaBO33x8T1wpzrN4PjhIxuXl2ChJ0BCpZdqqHEENZVb3aDZlzGMfRxhgb1hPwZcroP92RZ5Al1KuB89MR4sTVSk4-h7nERHhPNusfkhwM1VRJYQamb6L6ySXhJ9uT6zSRBcJxMtOPI1OxjXyev1xddG7ZDxUkSrpBsIC2C9RgGIg4KDE4WP4Ty1gA3g1FxJQ..%26ch%3DAQEAEAABABQd6319RmVAbOjSDya2-5Rh5MyXCARco7c.%26v%3D3%26pg%3DO4CVALKHXVAUXIMKJGA52ZK7WY
+.netflix.com	TRUE	/	FALSE	1805561770	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+18%3A56%3A10+GMT%2B0200+(Central+Africa+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3fe5c31-5fe2-4027-b04f-58a4b4eb987a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769104909869&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805561758	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKUOY5rdZoweW_OqqaCbQ0kTOxX_8n7L8.%26dt%3D1774025758320

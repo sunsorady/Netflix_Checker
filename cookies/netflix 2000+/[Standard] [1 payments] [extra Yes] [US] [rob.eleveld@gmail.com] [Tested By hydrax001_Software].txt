@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bobyb
+– Email: rob.eleveld@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: February 2014
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 7245
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Robert
+– User GUID: Q3DPRTWTXFAVDDLUBT6CUGNWMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782368655	nfvdid	BQFmAAEBEPi4be86oIfAtzeId4wh6qBgtHwIRD6oGqVBUaxkvgsgZT9N1cXBbl8VHp6cu61vyf-3CXlHTdQHZuZIwOnCsP3gqGK-evEBSEhTB-jb4KHhd8RtLpZLiv9UA81lLRrpeK82NZjGRXM0IFMPIw9Z_wGK
+.netflix.com	TRUE	/	TRUE	1787050011	NetflixId	ct%3DBgjHlOvcAxLeAz6MlZqVYXbdGj_6Hz_d-k7DDbzfGyvCzK8ad7aCKyAzqQqyUUOk75KgmF8_ZzBq3uw73_xBt6nn2VZEmlvWqxuN3ER8MJR81VMug-FlmiMxAAR8MJMTElrCOkWEG0vWO0eC1SeMdDuiGvAwLZBGpO_6CgX25b3PIhcWtGYBw2AK6Y4HGyYOj3lb5eVOrdfeitGToqn4AvaRIvFcOX5b_TQ4kYIDvwya_v_ynm-E6XR-pgWq42hxmHlDPZckuDBNyBj6jre_DvU2JgvA-SQni91sLP32VoUMKt-MLdKGARNYFVQOtOLrGMj9lh6TNLTkeOFlbOYb3BJ2uIH1eSVyScKxzDXkrYgAmFdN5ZSuSQ7UMZDZ6lFOsZSccSBvmDmz9G6xcW3M7qvJZL4AaRgOh26By-zk-KSIhPzjDrChYAyak275auouvutn7xA5U2hKdsQZ7fBocMtox_RSDiS7B6OBNAmiNf53DHOuYvOpq5imk9RBL8CIyXxKi3BW-0guiPh9b2WbKz8d0b0jTW0B7etTibNug2nlNtQG0NrxBsR30q9AUcmhkUzihwQsd2RF5tKNXlmqd3_L_eMtb7BLiRwtJpKIN_AkzUALcqxUvMt4StcXonOu-XYLqzP55rwYBiIOCgwfXtdbnARk3vLVrFI.%26ch%3DAQEAEAABABR1qS2hG_MgFlInv56Qum7rsaUebX6ZFZQ.%26v%3D3%26pg%3DQ3DPRTWTXFAVDDLUBT6CUGNWMI

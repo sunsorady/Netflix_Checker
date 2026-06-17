@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eshaal
+– Email: seemanaz732@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: October 2024
+– Next Billing: 2026-07-16
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eshaal
+– User GUID: CXGXVUQSKBEBJCKZSJFQ4CBZY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783525352	nfvdid	BQFmAAEBEN8NrbMv3_6llEfJQGlkRaFg5vAY45FIZ1yMHwd5h8JPMuPtxydtME1L0ihzYW6kPZ_W5cE1ih-3DUHxNGK1zz1NrLwCtLIXjOZ4XGr7uOxsnBo3odsS91IGDwau4MUB0t7VNzZZLxTQiD00RfS6C650
+.netflix.com	TRUE	/	TRUE	1808483706	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAwilh-Nh7InrFBF_V4CgNIM3V1wB_78pDhdJ_NSR9xW7MrZUv3pA1ULZ3BUFqGQSvbgaieqFMAxsULgpKT3RNkqZWnW34tcjkeWbUmHkckkHTqFfONY1Y-CKzG62gpUoHdXgai2-RFiL2fRfsRxaUhRQeht0WuVURoeZyboJc6KYjsjryniJ0LTutEF_YGC23aWMpX5RzjRWLjyBp5XpHxg5Vp7TEH7YZhhYgA93HKW5OaEVF1ims_a962MD3CtNjqjC-Rr4NPY8ROAQ7-4-sA1h0eAPUgcqv37d2bgf4bJfHynZgz6Uk3Io4Wg26jEHNediE3u2kDgyo4oNful0SDi0oyw_xarYagWIAgstJ_bjb4AE-WR4UCjHqkddMDmYfF1PjxeqHNbLzavGLLCAvfhu_0LClXgCmmmaS_MUmTKSwhICKneUixHSl7dHPEk3_yXPSrcgym5oc0kZAhKoKtAd2Nduew1xVUAYDDkE4YOOiIkdPAfXUhm6waXI_W_h8lmyVyMPJDX4fSb7Pz6Gc6ct-qahMxgGIg4KDGfHm8VCjfQFoNkIUA..%26pg%3DCXGXVUQSKBEBJCKZSJFQ4CBZY4%26ch%3DAQEAEAABABRtATQYFx9Mn5pv1M_1DDmPh8WS2mJf2U4.
+.netflix.com	TRUE	/	TRUE	1808483706	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRd1Jcoxq1yZtKb0nYe7DygoC-tX1qSASs.%26dt%3D1776947706392
+.netflix.com	TRUE	/	FALSE	1808519595	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+04%3A03%3A15+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b42f36c-f50a-481f-99e7-d4f637259f3f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IN%3BDL&prevHadToken=0

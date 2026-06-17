@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carol
+– Email: pilargarciacuartero@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: Januari 2019
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 2133
+– Phone: +34666384444
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ernesto
+– User GUID: 3JD3JMK4N5DBFOFGHCDNMVEF2Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804862320	nfvdid	BQFmAAEBEFrJBmsWpJ4mRAbCaRo9uchgJAjnd_Vve8GP_2Rj6EgpymBih2riPhi3lA5-88JO1PgPSH-XgN2fpYPeBJI6IFfxG_ozLe_t0DiFQNQdF36eLWjECzFMGiswiMsXbbsng8VGJGq2giXyE9EykG3bJCx8
+.netflix.com	TRUE	/	TRUE	1811347148	NetflixId	ct%3DBgjHlOvcAxKBBEi_yRSzMBKhC_qwcSlZRkGJjZfZbBzEbUoy__SPhIVrIYGLy328Dd4GBwN6XLIc8iggU0l0dmipQR2Ny1rvVehbJ5xpNa_PMS_cGh8KwBXhK3q8u0hT9jeqUXdIFK-onqdRxky8_zStkeUlxxEceaJ_b-_w6DDwvuN4pKpT2cKWMHfd-lhpyAm-8_A7A73kNIgYcYR5QW4rZ5Rp9xamLnSszDvUYtTU30-S3ImvoLKlB587qBhMlBCmHFpceLsUsTKRIz8eINJMWjl3_uYJQJAHfEuucMo9okceu33XbT2yqHdEtszSf3U9CIAkPOpD2W7Hr-bXJzffE40m_1PZLb6wNBW4vIsIOW9Jx-i2MiwPg27O7rSWkzgS8yZ8uMY27HpGI_PmjK-oVr7Kphf3zrlgxoUFzba78k4dChkaYvXwZ9ZaFFNkLi02Fh1_ogc5Z6DChhpqUE59GvbRGx2OvfE_eG1OOPd8rP7Vtu7XjKFNpLOIILZ38BNfYVavWRU-0WWH6mDQzfMkYBxNPN0v5eYlPvHDFbQ8ILYq9fMujYYaNFowwLuwTg0jZo_FCZMWkP4zvGu6AOV2RDIYjdEThf0akKwWFMQ5CxLzozRaGA0sRfcVFRtwmUm5CgSvdlXDbTxVjFoZ3R-KJTsMZk6rbCN2UfI0UCfWDa8KiZisbjA15RgGIg4KDHdToR3KNyZlufby2w..%26ch%3DAQEAEAABABSQIKKyC_3v2uKiZhuJDIVqKMzUhv11bpg.%26v%3D3%26pg%3D3JD3JMK4N5DBFOFGHCDNMVEF2Q
+.netflix.com	TRUE	/	FALSE	1811347148	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+17%3A59%3A08+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e36fe708-b3c2-4aba-ab18-585bed2e8bc0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771683667437&intType=1&geolocation=ES%3BVC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811347148	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSWfSpK8XlXIPJTU25bnEqFWD7GhEIaX2o.%26dt%3D1779811148059

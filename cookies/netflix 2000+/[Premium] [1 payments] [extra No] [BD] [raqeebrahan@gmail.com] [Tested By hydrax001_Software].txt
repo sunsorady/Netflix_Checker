@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arman
+– Email: raqeebrahan@gmail.com
+– Country: BD
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 0996
+– Phone: +8801309289919
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rahan
+– User GUID: NDQSL4MTWNDRXDQUZ7NHFFYPWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808121621	nfvdid	BQFmAAEBEOjEg3Jrp4bvqgdvKK7wGP9gCdJVlsMyLWiAgzu04carisAgSVvOso7w4mS___lCiO_QQMxC1d1KSwRP3unEt50yO9_oLoKvP3Gsn4Kk8ZSQkxc7lc6ExcIBagojSUh9gBkcUH3pP1U37OKS0jN_Ymv8
+.netflix.com	TRUE	/	TRUE	1810452870	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA_7y2mqU9d9bGy5AhQhBsV75ZobbJnm2Vj6vhKy__a4Ra2A9QhYkbviVp2yjGWlm3x1-heBVtUSwIoB7u3CepzOFtYxBgizhj0AfmxuIDZKpaETgKy3mnPZu4R4LL4QDXuTrODu9t7vDp_khK6bnIzaaUD-DkyrPDFA6Vzw-J8PkuLLAZiLRReyx-lp35wqR5OgHW8NyQaxw4p-4hIN5OpI5oZG8casEWduNrshhqk2G-NK_vBX5AL8Mlv1AI5hTFzeuJjoxka0UWeuZ4UHuPND8kFDfQWJ-Qi2hO5OclNLrGWNJMUvCdkqSYeNpgR5W1ndudVodqeRRkG-bb6WYVFu8JG504z9tr87ER3Ylu4FNaAmkLjS8kt_AgHf0c6jBNrqJ3RarT8z_jsEn-4qv99j_fuPOvL0O1M8KZkfkiQVxAL3hJtZ82lWVt1dce4_qE2lcYZ4uV1nllD-dOlVIFzgKDgAm3sx_GDxoR_PmWmzGm7OxCFNQPk6aH0exICZhKtyMe7_gOXgEhe1blZbNeHx1KWMvwcuGLqcYBiIOCgyoMe17PdxkW78jZqE.%26pg%3DNDQSL4MTWNDRXDQUZ7NHFFYPWY%26ch%3DAQEAEAABABQqcu_1r3m_1fJKGCtZmcav7mDf3aZW_V0.
+.netflix.com	TRUE	/	FALSE	1810452872	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+13%3A34%3A32+GMT%2B0600+(Bangladesh+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fea9ee65-d65d-472a-9d5e-9f9e456d90fd&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776585620829&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810452870	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQplsK91qgNJqx4uc_6skPFFfZZa4daPlY.%26dt%3D1778916869786

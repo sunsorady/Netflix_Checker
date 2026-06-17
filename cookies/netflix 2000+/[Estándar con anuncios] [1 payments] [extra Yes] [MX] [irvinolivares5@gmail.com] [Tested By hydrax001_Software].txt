@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jix
+– Email: irvinolivares5@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0299
+– Phone: +529843095782
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jix
+– User GUID: OXFHJPCQRBEQNM2M467EPHDL2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811490347	nfvdid	BQFmAAEBEGkGFtMhk_MDZiEtnAOs8QFgy7qw6GMZ_ALOzM9XxYSBywTkqurfAzayfZFbROnAe-MJGRLeIvRqgZs5EsLkRO-EpxXIMooNhVx2h7ZeHLIfRpIpSxPBrTIIskkjUoFnRflg-M2QcBhU8ypiGGDvsmuj
+.netflix.com	TRUE	/	TRUE	1811490382	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSuToca9GOgmwt3BrjOKsn9J43o52U_83Q.%26dt%3D1779954382916
+.netflix.com	TRUE	/	TRUE	1811490382	NetflixId	v%3D3%26ct%3DBgjHlOvcAxK7A4gx8wqyWy8ln2CDeV-_ILRYiSiB-YYnpqG-gFEOJF4YS1x4MaIIXZrtv7LEM74H-KGUF63NV6lI20Ei1Vb4pmQ8XRxJilM73IhiZJtwpqENOK9XsxkagjbFunJdb6iPYe1IWjQIilM8H6juPNGHC_PKvJ70GgH-mKesyEPoP6vueG47WaGujF7mxHme4CWK3zAX3LVSjw6RhlrGRPEEYa1GgPHvAFwBU771f46yVdDIZHacfM7c_uVeLmZzZHz4zyvyv-sTVHsDJ_PzNFpw9hHqtbd5tF5qzSOur8ltHcEciaRwioOpUn61y32j9mvX1FJbbAnFrvsAC6x2KF0WHzltXpAHgt33rGEVgOQucDEcfQf8NUN_FHhVX05S04aKhGt5KREeoLAVS08BN4GxYMTGIzQukYALLSyOsYlI5UA4-q19W-XFsaiBxp66mo-h2Ophd_2KNuXtaHDkCqa9Ex1nVUB9FmLaaV0uv7zHTCIFkbXFOvC5488jYHDyrtL7lFYERVoUjFtK5LYvHXm6SyRSTpw-zKl-j1TwFf-0XunVXggN-D9AfrCchKUHlzfHSlD99CCcewGr5nJ5GAYiDgoMToHGSVvsgk4hMwfb%26pg%3DOXFHJPCQRBEQNM2M467EPHDL2E%26ch%3DAQEAEAABABTjHpJaijMmp8YVsy7V7vVvb9war4KkOIQ.
+.netflix.com	TRUE	/	FALSE	1811492525	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+03%3A22%3A05+GMT-0500+(hora+est%C3%A1ndar+oriental)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=d7e350fa-d0b6-4bba-854d-e7da541d730b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1779951296264&geolocation=MX%3BROO

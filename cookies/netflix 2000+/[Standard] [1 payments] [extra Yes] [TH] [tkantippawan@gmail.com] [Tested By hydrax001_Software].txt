@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: dededome
+– Email: tkantippawan@gmail.com
+– Country: TH
+– Plan: Standard
+– Member Since: August 2021
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 6119
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: THB 349
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Thachanan
+– User GUID: DOD2SVKPHBG5VPHKJMEG6FRI2I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796569780	nfvdid	BQFmAAEBEFr31CKDK0fSQFRpLjNRJ_Rgczvy9Vf4iPhLpJHx2utIC7CVtIhxeKsv0jn9QQGrA70g5ld5h_Fhs7Y_PRO5WxIQ32YsG8umquJBDwIELHJ9FrjeritVQv5VU5_6_qe9aGGIVrHlAnEyIFfFEBNNDFVc
+.netflix.com	TRUE	/	TRUE	1796647343	NetflixId	ct%3DBgjHlOvcAxKZA8cA7uaF9-l0sMZfN_IJ3SfJrbvA9bpy0xwYF2LXWZMAogAmWnYPL_yyq54EcUCG_Qgq59jz3Px1qpABpu_ZHd5pjFXuZmqI0Cf1gzBaAw9c5jl-0okUNiNlsfzcxZq3r1LGxqmJV4eIiANR5QCvWwxK0UNFdOi5s8HdeFh3pamdTrj53OhWzJ7nMhzxuUv9hyFUUxX_Wh1MMpOI3yleysKXL9Q0xeKhw3Jiq-2aT7UyA-IZhdA2jO4qjEjA4GV12ui819JZfHCLNiOzGTaeFpkZpwtat5IZTyhax7obQgSWwRiiOuPkA09xkEpUjzNVq5UIAG_fLH0m33UTv81IZ4Opsr0eeUdt0MWb3UUmtl4g48jNKM1Wcg5Y94fbqkmh5RmfHy-kxNQdWUkqZZzind0MVgXpJ8CjpefUaHPNawmupR2eMn6fkq6WU44zTk3tmvr81KlXPH5d9dtEdVF4oZouFXm1dVuEUE9tLQGZGqLSV3CMkPx9SQSF9r2IwFkdTIsfr_KY0h4TxIiPktwvWdpESwc7ikBvpRYYBiIOCgwa6-A7v8XF3i8drPU.%26ch%3DAQEAEAABABSeX2fidX8DySLUDcsBgBSbK53koUIWEu8.%26v%3D3%26pg%3DDOD2SVKPHBG5VPHKJMEG6FRI2I
+.netflix.com	TRUE	/	FALSE	1796647341	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+19%3A42%3A21+GMT%2B0700+(Indochina+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec78b2cf-19c5-47e4-945d-978582bf65fd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796647343	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScFb96hZaiWe2DPfvcJ5Mr81il9jDklgY.%26dt%3D1765111341622

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucas
+– Email: matheusbahia112@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: dezembro de 2025
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 3916
+– Phone: +5571991633524
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Matheus Martins Santos
+– User GUID: I5BP2FJV7FDN7OYISSHYGCPTDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803236512	nfvdid	BQFmAAEBEBQC2cD6RHi6jibNauSYTodgN3t6bdc9kyhR4Kzgqt3kdm5bY0TSp93rJFtIzhEaeRPqwvji2gnhEfelX9-9iHOWggLC7h-KV0P5MeVcDHsKgrJdAkRu59TqI0VhMqXniK65TeOYiqrJ01Gy4mV0fFow
+.netflix.com	TRUE	/	TRUE	1809116062	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA_XRjmorXMKmHPZbhZFfXGQXTYhc-JQYVL-1ZCV3tbwaO0aLIjXNW5Ao5H_ZP7Q8iUWuwgrVgQLDqz0Hda9Pvjc0KUHLbrGUGXx0cT8QDg9-mpx-olHnGqB9YqMbUhhdwyjBGkCTJNzHoFktGQSZQKPuEZUSMSwhxzS307K_ubxN5rHHUJSFrGRGm1ZpnRIcOUztyjuGoxcodGZcJaMDLndaiaB7YfPPSGudNFrZskWDEuBv6uPBSMqXo-oJntlEhE-bzPlDBtWhsE31z4UK0EAtrZuf0qVvZ0A6abvnNFqbJ74bkIUHuULfZBnfKKQaSvZc1d07vZCmw30dZ4pr40bfOhjvYEabunxQPXOtEzisNQy-TzEFEUTWJvtayEALywwR-6Ey2-bzafNfh7iF4G327pSjbMqPhie5C5TVHsRzDVjD10Z-eIV9LQ6vay4Ahncpyl8o9KiNSUwQNg1_nuLaieCryWno2ESNzzh4rXHi2ISASk36rjlOW4DpgYiRULfVf_gvN1B26dvV7SX6TMHRUsRFGAYiDgoMmNCWyNbLK5-REivR%26pg%3DI5BP2FJV7FDN7OYISSHYGCPTDU%26ch%3DAQEAEAABABQfQVfeV8CYm5luNrIQssJWSPkXEFpWThg.
+.netflix.com	TRUE	/	FALSE	1809116065	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+17%3A14%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d4eb332-9d34-49d8-9d2f-dd7f1c91e8e9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771700408048&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809116062	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSLjLOmjsdFrEzu6lRG_xIvLHWBwm75mw.%26dt%3D1777580063690

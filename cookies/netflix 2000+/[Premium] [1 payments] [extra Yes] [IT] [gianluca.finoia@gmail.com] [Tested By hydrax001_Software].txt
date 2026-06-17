@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Leo
+– Email: gianluca.finoia@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: maggio 2020
+– Next Billing: 2026-07-05
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393347300850
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gianluca
+– User GUID: 52MQCF5IAZHWRMBSEL5UNAYTKA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781640436	nfvdid	BQFmAAEBEB7SiTFT9oksiLR9aucVDvFgykojvDwii6rX-6AcJVOwMHm7wIYiikh64cf5gvuj4WCtrwmVb9nCt9MnhATnqlbQUZKckZIjfSIz9xlc5DLiJ2z7N7Cp5LP-nUUdTJTQqPg4nDs0fqUMGnmDbkNNx2vp
+.netflix.com	TRUE	/	TRUE	1793904042	NetflixId	ct%3DBgjHlOvcAxLmAwzx7PLdN9XUhkOfM3sIxqULGtfgh_ROCTeUroy-a-yAQQJdqFHNQKq2wqitwH4uhUCHcilo2AMIHl1ElqfazYgzHEhjsRkNKTzoMwmSSDd4sMw0naPauFy0rwtIJ8SQqCuKlOVQc8oKrWZZEJOI5rITW3cIiZmryCPTbbNNDsqQ-v3Sn6ISltFNMamqwlqPwasND753m0hpBQmvi6Lrjmkv6F61vuLcseEaIdNnzDAwZ80sm4GpJQn3QwqS9AMO3UPyu_9wGmA2yq821AsuqB2nOnykz9ctnUwq85jctD6QSWi76dY7kzGq4C-VMrCgs-vvXjYmQchav2Uxc0m6kdQhhN368-v0ezJiFuSN77xjPv0iueOr_KQwh4d7pltVyYI-ZOW_0IN5IcUI51WgbsHNRwPvI02uyaUAToxTMot49CuJi59JyBjeozYQ8Ng1Rsq5ritGUp3sEk1i2Jj5yc_DH8NQY3zQyPYTrHFBXgEa4ZF3-eBLJAwVEhtKOAo96ABZvvNLO_xLitgjp5fClaT5nxZv_4WSrC79vsLqGfsGIDfI5a7-aSVHryMXSgYcxTUhWAvaSh229ftoRc5Qxvwvifo3TiCpp4-iRA82XsD50fLHwtpK1cSCRyzezppuHnLvfZOL5xgGIg4KDNJh4aLDwxXFuj546A..%26ch%3DAQEAEAABABR4khNrIJSyNoKA9NEinkBR4VsjPXNVYKw.%26v%3D3%26pg%3D52MQCF5IAZHWRMBSEL5UNAYTKA
+.netflix.com	TRUE	/	FALSE	1793904063	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+05+2025+19%3A41%3A03+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=025339e5-7293-4721-921d-af2c9588acec&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B42
+.netflix.com	TRUE	/	TRUE	1793904042	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRy2D_HHhJzaryi00C4SOI8D-X6bAG2GNw.%26dt%3D1762368042113

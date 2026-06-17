@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sonu
+– Email: rushikesh.pandilwad@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: July 2025
+– Next Billing: 2026-07-17
+– Payment: UPI
+– Card: N/A
+– Phone: +918796412013
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rushi
+– User GUID: RXCHG6GN45BX3GUIBC2PI3VR4Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808902888	nfvdid	BQFmAAEBEGsxtpSAUjLvJW8eYEgG4u1g71LYUFNX14_KcfcqyQWbioQIrT6oAyLMoQ-IL_YwgYk8eLCh3xcKQzKosvB9lx1hoGIA2RWTPcqmbS_TNykcwTJDsF_f__5qqOB7coTQlWf-hm1GzWYr9Fs-CtBbnj8X
+.netflix.com	TRUE	/	TRUE	1809237681	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA43TiUW2VQ0ds8lWdW-jphYzztox8luWRTK5ISMIuTw_I6s52ucZGxCCM_9PAMKupGTSZnERbHBSudEJjelWynzmJkIkJk-2Q1xGnDINGxPRxP5h9YIzUjiK4QxaCJrsqll00Tp_MEAYB-edIAXexcTcd4XR3rA_FGo2vr4ZVHynWg_ds-FQKcZJUBTnEzbDLOc759hKTS-F1xtjMCyhgR3kow9bRcisAClNb5-hYmRBFszWiH4VxjxpbBTG1h4T4FBoOmqKiwfG7lqY6sLKKYZwxuQwN6jUxZgK3TOD2u9r53UYOSdqu2s839KV0Kx_Z9fKOXbO6l1xXiYMevpS7-uMOvKuieDHIrsgiaevXE73ciVoqP-EzHMHR4TM3JlViceo_ZbzWNysK3SmsMyVSxy6iLgu7hmpEglTR5nsw1aHkxKt_4GVZYUpJho2Q_tVXXU45XCd5kG-OmKuKA4t25ZHMOtvS3DIkf4WKgVPiSrogZoQrRhtn9F00oDgarzW-8AgHzXqWPCiAJmNFE_4GSL35cvthYbsZxgGIg4KDFsBGUeFwYvv3JW7dQ..%26pg%3DRXCHG6GN45BX3GUIBC2PI3VR4Q%26ch%3DAQEAEAABABTqRfxXF8eAAMpi-8GfLeDAv1KCFlOXzS4.
+.netflix.com	TRUE	/	FALSE	1809237682	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+11%3A31%3A22+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e6b0c3b1-1215-4b3e-8c35-44c034324156&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777366888729&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809237681	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_hK5XDToCMhxa88EQ47qQmqD7d0paqeQ.%26dt%3D1777701687156

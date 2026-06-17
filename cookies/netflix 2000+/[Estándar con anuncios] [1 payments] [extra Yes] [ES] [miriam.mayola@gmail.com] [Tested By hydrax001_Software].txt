@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Enric
+– Email: miriam.mayola@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2017
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 0014
+– Phone: +34675188554
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Miriam & Met
+– User GUID: 4ZCY74T7EJAWLFYUT4EGROGXXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800388048	nfvdid	BQFmAAEBEPbh1QRYuqkMzJJzaNRx-6VgGKkl6E_vuZjlY2tnVF40tu5XkdfMCBYcWRAQHHE7PLaiKcuHUuoUOP7TlKoF8CWryFVJFi03DpMXMX_CD6BYOk_8PyUJjzqfxMBa3TRIxvqNuZiSZdaigHdWD2wpsl4j
+.netflix.com	TRUE	/	TRUE	1806922277	NetflixId	ct%3DBgjHlOvcAxKFBI-Ks2iqvLfoVlnjtffa6jYrdZdaGNO4xVtlxHTdwZsqK7c7ux5C3SMJM4usH-rSiDMAnZHj8bFiJa0baQ3ItbSUynOgA9QvHrNZyXb4QxR9gf_RxAwYnOabLeJ5YEN00mSmvdVsvhsML-Oi4wphRLieDgNaUghrLW-p1aEuOh4MvwpO0b2KcOldR4lhzZchIq4PFjOoeqc2QsKzR-xn15q9oEoVIfLeSJOiW7xZGiBiszclA31h_oThg5mEQ_3LNTYrrdcDlJGoyf8uAgKtB1PWNGft3nQxpVExOA7Y1baWpBPfR62P7lW4mNRcPSahKEDrzasCYhzZSPuCWHWxmJ5PlHvN7kWzm7ZXiY8R-m5YplYAQVJps-_QEmDhlyEwB0yLkzotG1dHlp8b3tmFM0tu8p7U9CdaTNRKJv1Vnunc0T2ymxZjzgKNYfvS1j_Gb-ttXVN_CMsYCi1AVm_MPlqSV0tG0HPTlgSgVCabw9kZWvCBZx2n8eaXVVcT0cDUYMj_HDBFe7sNaxeEe7KYK-YHtyIIJmpF0vT90t3-_AOSqgUo1txiuMGwlim884pi_v809xvFIKj5HnEQvlBonh1m_k3bevgYzbk-xfTQNu040UJv6gY1LCQFBEcrVntkaXt1TXneknsSV8cJjidmhDpPDekdybW3-y3YRM-Xryj6VCMYIM0YBiIOCgzn7sAN-CrEyjeOcdk.%26ch%3DAQEAEAABABTDckmNXR_pUz7GWoEHBSuoxsbHZZIvkg0.%26v%3D3%26pg%3D4ZCY74T7EJAWLFYUT4EGROGXXI
+.netflix.com	TRUE	/	FALSE	1806922278	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+12%3A51%3A18+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b1233494-933c-47ce-937b-f0456839651a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1768839061624&geolocation=ES%3BCT&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806922277	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRho-EYnyOQP3O4jbVbUB5pkRBWZrvdYGY.%26dt%3D1775386277607

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aya
+– Email: jacksiyabulela@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: July 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 6417
+– Phone: +27849745857
+– Quality: UHD
+– Streams: 4
+– Price: ZAR 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dad
+– User GUID: MADCP3XGQRGWJGUN243DX46P5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792098431	nfvdid	BQFmAAEBEBneX-Nk9lp7TEomF9eV4UBgetxIPlYjxVEY_5XaSsODJtEwhqML7LJEtUOCyBYgdzmrxP5IFoz9mgFDZYHSdJE68ibngt7fZA5VWkYVQXKk7EObuv9fPoG6dW8N1NbAkR0u1u9X66rhba17JTFt_JMH
+.netflix.com	TRUE	/	TRUE	1808161416	NetflixId	ct%3DBgjHlOvcAxL9A8UamY_vRfCDKBIlquX41yCYrhl3CFkfXpPtzSRW1m8dbFTCZaAfdMw6w8c8EeD8w-LcniVV3DmKHoVyFu0ZiYjT1afqf_fBFjBPnnGWy7JXucQNBKpKVf0eiFuVy6ccxOj_DS-J-TqIBvdXTn6JDbsVaFDYOFNFV6T-7MVhDV4N48SezdZR36v1mvdRUXwD5y5drcVV6Yw43jTPYhMMJsPce0Yu2T7WgqOx_2Dh99A3QJGrrqPLv5RopgAT5gKk446Ia-aGo7JwuoyZ2hZ2hTW76alxjMFut5tz8HBRFNvIzAYDjJTPLo4n7o9junvBaBNqjFxnjoJPfTUsrZTKJvgOxye62A5e-yyc6Bb8BYsEmrYj8k2M438On15N5-qvdpNSoW4833mG3hNjBCPYog1QhJMKgFKUo2kGQ-Q6KTvT-7bm62COLV_paOEtvzBuy8j1Xy0VpH4XJH3fPT5O53317QmUZZj4v6aNoZcIEL5x3aGwzpsVnB9pv_h1y_QS6w5-xEftLxQU60awpLOzt0-Kcen3UIPbVecq9bspFvdlZ8DZKQFKjp1-W6nZf1lYqgvK0tds6oYgRb9OQr_7w--KqWo1I7lamnqiiMnm5Lmw3hJs2PlRIGfikmQBEse5_QIiqPL7I6lVqzeSjQn-k0IU31XEcfBF1NB1vu72GAYiDgoMNHnM3q3L3GX2iZEP%26ch%3DAQEAEAABABTTHp-CQwn22409CAVQBcnQ3o3y7StSWBU.%26v%3D3%26pg%3DMADCP3XGQRGWJGUN243DX46P5Y
+.netflix.com	TRUE	/	FALSE	1808161421	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+21%3A03%3A41+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d7253e02-4898-451a-8dc6-8c9e854e264c&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808161416	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbyt-Qr6TJkZioowpAloPW8F7GfBYnQ-0.%26dt%3D1776625415440

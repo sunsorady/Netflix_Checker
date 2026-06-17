@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: coulibaly aboubakary constant
+– Email: aboubaconstant1234@gmail.com
+– Country: CI
+– Plan: Standard
+– Member Since: décembre 2025
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 1436
+– Phone: +2250778666779
+– Quality: HD
+– Streams: 2
+– Price: 7,99 $US
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: coulibaly aboubakary constant
+– User GUID: AD4SKYENIVFFDM3KEVP5XBXCAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801571336	nfvdid	BQFmAAEBEHM-4IN2i-5S8SrzNO9TyN1gk1Y3eyv4FSxKrLQ6OKiUhcnE6FhuxQ0dgC2So7iJ-Sxl4x4ZwPqUmgT-FiJa4E7bbnZGBHO3sIruCipajI0aYDCL6lPXNdYN9wPuOI8-NPLePH0EFBlPvaPCR12-Lg68
+.netflix.com	TRUE	/	FALSE	1805110835	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+12%3A40%3A35+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e05265ec-be73-4844-84eb-7dcb552edac7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770035336145&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805110834	NetflixId	ct%3DBgjHlOvcAxLYA7n6a_hPD-WN3v12wNvIh6U8F3ki9geCyYBVcIivdqr9TzwTjZ_Uq50EZ6CC1sxewE48MjeSJfdMI68Ou7UbfZVYX_T39yEAL45KIKCal0Fmnlbgn-kWaX6uyMYr7pMyF3FwFBMAz_51gUTtEi-UNRQxNzQJIhRWjPeU6ftLU70wZUnauEb3tfkbBP3wH4OFq22mbFV_ZOzPpu5FdABhkpN2NxL_CzGTbF5pbO_MnwKQJ6TUDcQi4MaNLTt2l1sf7wukpXFEh8C0m5YnveibhD0razQYeeSYuUcOuzD4V81F8CnsZ-6ndj7SZS2HI_r9f8HXRQz6iUzkvlfgm9z80yhjsjqGe86le1dgKw4fu3flfWEXXHCtp0FUEbSh6YnZgL35ycz3M3unUv8HN4uCmo4-8XM0b_FyAlZuGBO3hURfw5uLHGdOey8ITX9GjpoE6GoqZSov6suE6uYMWh7Vmbmk7NM_DMWWW0JXfruXLWNnholiE-Ms69WwdrFR56Pv1cVwTXO8NIntzl9zmu7N5u3gJJMDijEkNehwN-t2gaQRLJ1gzcL06UUQ3ikHsZIzxOVdVpnBZbevIwnSiEwhz7MCMwXLVOyEdBl350jvrpQvXw1XgA9eQLoYBiIOCgxhBoJdw294WZ5efi4.%26ch%3DAQEAEAABABQZ5bWOd7W8SGz0bOXgYOBwsyWKXJndico.%26v%3D3%26pg%3DAD4SKYENIVFFDM3KEVP5XBXCAM

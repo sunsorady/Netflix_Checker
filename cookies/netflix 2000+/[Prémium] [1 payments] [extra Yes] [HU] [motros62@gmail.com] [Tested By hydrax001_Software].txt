@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: József
+– Email: motros62@gmail.com
+– Country: HU
+– Plan: Prémium
+– Member Since: 2019. november
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 9309
+– Phone: +36204329006
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: József
+– User GUID: KRPMJIHL4FGJBDTMISBFUGC7V4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789752003	nfvdid	BQFmAAEBEKjcrQqYyXC5ku2lWh6bQdtg9IYOF8_4enT-QoJylARZixxaZ19G5F6ZZSis81NQ4k0LXczrY_ARpviuLMjdPdVwXKQNYf8yefbqipsENQQEDgbZY63CQ04NDOU6yPSawVuDNUaD0oNkSBBOHCRmSTa0
+.netflix.com	TRUE	/	TRUE	1797858532	NetflixId	ct%3DBgjHlOvcAxK7Ay4sU0mbUU6bVdDmlUExZ3R-m64OI1KPUMHJ7uDi4J5Fcge-M9MAsk8yB5tbwm-MVMR6paG4dr_ZPvr1au6TEjbxIjTmVxdSwRF5tQrysM6Bf6CxAWnjSteKazPIJ9mknAGKtSw80pMa1TDhUTdd-qo5iYrnQlEgKOZeOI9giAU-XBU6EJbxsapUWcSzx2DPQWImpLXzdLwS2cbP4jq5hMTAMz1Dd6mRKlr-797LtuYkQfqPrlrNXL4WF9oLykhyA07bcBxqZUl8XVpv8DcXHHZhcUODMyxv8YxddrDI_J6WVjPufTAJKh4l1Ip4ssqXtxOi8DxTM9j5MIbqb7HFsAiOwepNT3PmAdcbXOHcGYvlQmgNy8aQ1rm7FTtoSRgXHwieM55-cgu3_jhh1ia08Htn1AYRtOF96L6hI5KMKWExwzOSaR3eg-Cjae9PG9HowZ2ULm5HNBzdKeBlL2MMmqwU3_fhdDdkalXDto3_8xs2d1OwHhZGWgsS8vJQdkA1UjHWHbaidRrU9b4mQX89-d3uWr-21uVuISsqS7vSC6GuKf_YnrZR2LV4Os2pbQDQ5zEDB3-e0cIFw9fYGAYiDgoMKetOU6Ut1SqJl5aW%26ch%3DAQEAEAABABQTBhtLGbm-xzBGovj0zuYs1UeAIGjXehw.%26v%3D3%26pg%3DKRPMJIHL4FGJBDTMISBFUGC7V4
+.netflix.com	TRUE	/	TRUE	1797858532	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsRMNVJ2cUYlPDdzg0DdsPB-HmgWHruG4.%26dt%3D1766322531666
+.netflix.com	TRUE	/	FALSE	1797858563	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+14%3A09%3A23+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1dd9065b-2010-43f1-a74c-285c626b0090&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HU%3BJN&AwaitingReconsent=false

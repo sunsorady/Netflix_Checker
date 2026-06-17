@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jorge
+– Email: j.solano23@outlook.es
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: octubre de 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 4520
+– Phone: +16614507550
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jorge
+– User GUID: 5PUCH5LMFFHNLKXVB4I5F2DFXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797211638	nfvdid	BQFmAAEBEOZlPrSZsnyCfLwrZiNzf0dg1kfHMqXuq_1pyA2t7P8PAS4_NBZP3sTotWTrq4Z9nncr4wOSaS5PSmZyvEWH8EAs_Wlp0jCPrpsMdNMLuaXLTlLFy-SZTikJ0oVk3hUJkyj83ueDB8NH8j3ka8KbsXRa
+.netflix.com	TRUE	/	FALSE	1809382814	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+15%3A20%3A14+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e1027fc-9eaa-446b-93ff-e6acf8eeb079&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810508462	NetflixId	ct%3DBgjHlOvcAxL3A8-6DM5ZV7bvT_CUX_tddF6YuX2hs3qUMfOjZJVSpR67UvrNtJy8XfQ690GrR-v-9aWIS-jZmrMJ01IE0SmEbMr6tHRKUwn8FRsG5n0U_rVXWFAOv6mD05K5zVLirv17L_LSw94fCnM8azwaEztgzEtydVXiEW4USYysBVrvSyrrfhMAjP1rpjsEKzG-BTTwIJcLp1sLvhFSQE0cQuRYUZD_yllehEq_R4rhzMyG4bE56GzJQF3xhInd5Ym_WT82w3B7oKMw2nHP9KHnb5FLpcdKtJCx-AxSvPjFyrP77UJNxafC47ikv5UdRb21CnbqWV4z_q-1LXTbm4WSY8AZvWq5tYESQUSiifJF8GTzJfOys-Cyn3jIuEePRAlSFwhFiinKTmGHmQlx_ee_amiBafekdWXomHVvOByxc8fBLvY9qzPVE8EtXexDhdU23keVOdZWtySDLG9Pz0zV_iRUJpyrn2Vs5wk6xig3-yQcvz_HAwWOT9n-7d8hMvMVFWpWSuJq5sLB860C5p-Jdc9rprIHPaO_h6cBJRhP1cPjzpv5971Yb1hPz0BHqgmk3AbeHFrkhS1CP4bgFVyy7lNmT0ZJ6W2KS859pUtMcOUtxH8DyMWn5D3xQW1AfQ3ltKfn_YHRPXerI2K1u19A5fsRp0voyMZQ6p0bGAYiDgoME2IbOWytaLbJlNSm%26ch%3DAQEAEAABABRnobBEPspTEskHqtx5Tkb2N5UzIm2TCuQ.%26v%3D3%26pg%3D5PUCH5LMFFHNLKXVB4I5F2DFXI

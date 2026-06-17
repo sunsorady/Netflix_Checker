@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mj
+– Email: temarkham6@gmail.com
+– Country: ZA
+– Plan: Standard
+– Member Since: April 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 3454
+– Phone: +27737585043
+– Quality: HD
+– Streams: 2
+– Price: R 179
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: T E
+– User GUID: 7QGOE56HPNELVIJSGWJHHZL2G4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786221059	nfvdid	BQFmAAEBECqiYbIKssUmFYzogzB43xxg1yOFQ7d3qi9cG_JnE0O08Yjhdmw00iHpYg8sKPuu4sVjn4JlOKX47Q-nSRtzFkX1g_iUB2vevnSgJspfXRfH-mDKdzt5QqH2fdtoEPzvA0jcbMPcgT8zJ5Cq-sWbRrNG
+.netflix.com	TRUE	/	TRUE	1810625523	NetflixId	ct%3DBgjHlOvcAxKuA7ctpjsiEZQdfFihddE4q2ECUB2u-xR6rTSZhu7v0j-Z_r4arjRfXaqmRW5fxtjPBElyosBMvy8LBQPJ0lgYqZv_Fo3UYvYKPkIipMOQiHmsYq3jxA1cq1dlBSpshkOb1XGH0THPJGfEUa-nnC2KEyHq4zU1ArPZzI_GQJt6a9bZfIkaKuW8V8-qwkGT_fzU1-dJRy-dA3f9HJM93LAfXBoZY4zvFW8T_k1VeFhp6zk04LL-t_lfvmy5cRlWtoqzBgLCCdtUSeGyzVuOwJFLnVqUSlLwYAvT8NfyjkOA_xN-VJDe7HZ1qnyu7K5GFo8p-dOOGNDiSX80534ku8r0yK3fLpw6eM3FsRMbrq5U0raN2CRHhNWHU154M6UB-g3QhxCnY5ywS2KEotlXo_V_IKkF_SSrrMK3tDn3Hr2mO0A4XtVOYNTIbe9SktQ95Q71Jn2aIya1F63HOciHz6wQR4lnO_mzXdZPuuwanG5_uDsNWRWbAMzcBdwnyKbwrg-wzyUIHUWhE_b2qnR6zVQwMEPFehDi17BkFn7x-xWBwUQpny_PT14iMiDnXTxrRLkYBiIOCgxPbTFMZd6PLeCfzrw.%26ch%3DAQEAEAABABRk-LN06zDJL-BwghWhEixxc9LFnd4dEgQ.%26v%3D3%26pg%3D7QGOE56HPNELVIJSGWJHHZL2G4
+.netflix.com	TRUE	/	FALSE	1810625525	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+09%3A32%3A05+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec37f2b6-f554-4d36-878b-0639e9536965&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

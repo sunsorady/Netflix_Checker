@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sammy
+– Email: abs-h@hotmail.co.uk
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: December 2021
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 6579
+– Phone: +447701028313
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abid
+– User GUID: JWUNWRF7KBHDHLBVK4BN6VSSWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEAroW2yilNmhcGjNfkCZWJJgt1Qk3lfqw6alyqE-3XAZuTvWJtrJso0uIpyoZ8KdVwmDMfi81bpktbrNbze3lDm_Mm6Jj-BvAD3Ui3STCJtERPs5Umx8KmVxnHdqfiY0mr4EnJVKa6kVUGLMT7_JTJKI
+.netflix.com	TRUE	/	TRUE	1789686273	NetflixId	ct%3DBgjHlOvcAxLhAxe5DzVs4zSmDF0rk6Mg9P8Tj4sFIwKwCQh3YUIyLhW59Wxllzu_MiYVnLsMYGCBtr9471PeZBDcxid5HhKlJJG9ZtE9BS4JJ7d6uQEqetU78QET85h0k2jigiR6CXeTLAPMMlfAGa6zOlf2ynMxF__gJAWNbVXXwT4xoiqYhmQYdHDCUPaWz4ODJ5AHsa_CSaTDV0DdphVGs9bQFKlLm1LVjkxO-yqWM8cAzDszD39HS-EutfC7_NFKb30hPIONOfm4NzRaL5SYckM6q-x1jvp6hJi3_3zDQeyS1o4mKN2aUa5wvOtNL4z8TgtD2avs5VVCLF2uKrvtkxCwqIArPmngjvISpGSMiRgmBBZtc7guScLlRxGUkqU1flJc7Kdd2Cn57cMNUQljX7-Gm-8cGC5uHTXNEHNv8tGX4gYvgqgbo_VRqrBh7XDNO57uJf0og6qgu-f5wyRNinwxDa7lznvbkvEBEl-B6zQHo-Cyz5K8LxiFjCkvkh8kFhuenuqKjxj62iLwlLZ5NLOFYKBWJvOEtAHEBT5Uc4VfXXSn7nvmATV1KqV9IDtiw1Uw8yggT8_d47FK3MYflx8oyyVUVMaxEqXqOM1lJ0JiAbQ48sUoCXdIrw-BmTIP8UwaYFn9dUwYBiIOCgxL9L9Dmie1b_HlRqI.%26ch%3DAQEAEAABABR_dfFfP47_FU24Yt7ZgBDz8gxEmAsoRuQ.%26v%3D3%26pg%3DJWUNWRF7KBHDHLBVK4BN6VSSWE
+.netflix.com	TRUE	/	FALSE	1789686277	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+18+2025+00%3A04%3A37+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d913db2-186a-4de4-b3c5-6bb067def4bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false

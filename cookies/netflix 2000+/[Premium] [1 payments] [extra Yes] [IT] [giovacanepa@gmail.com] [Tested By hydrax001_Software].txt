@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gerardo
+– Email: giovacanepa@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: settembre 2017
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 9922
+– Phone: +393358098810
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: giovacanepa
+– User GUID: 7HLKOK6VIJFVZNIBOVIFFCKJJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784575027	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Asy47ln6yTuXi-3UrlzDae7rZtQJOjUOZ4bb_Gb8CmiqigP6OhilQh132KI0ZtcKw9pbUA6IRrfjbpVJ95IVwHM5c-NYnxScv4YgW2z7YPfSNc54Ua8qCkGWbdVSPRmxM-qGnpCtFoa8_s2CSCXsq563jPUqv3GR3K6MQkm-mjljBDYy7HHmjttZPSOPWU4G3DzUK1G8devfWLc-yZzUS-R7C_g9Iu3XPZDyb-Uv9sao5ynXTIDWfsMsxRX7FRc-K8K1PjnYU2f-0XfY3I0KugNfNcn5KfcMn4FHF5akymBxMnGWJ7A3N0tC9C7_uuJe9FG377yaNQ9a3jvO7gOzwCiT6q7Zmxf61B80nCHPVCrI_pTHzZ-f3IA-Mx4QpCpJI6AIkDaDvWTZSAXd-KtO6CSmqzXYusIt-17_S-dp-6aUPBgIEhKy_G3u0v_OEMT8ugXxXtufU0tU8NFszzUnIDcaOxn9nsndn_3Rgxb5Fhm2Sp6aKpyBBE5LvQ_w8RgGIg4KDCepvxhONZkFD9xd7g..%26pg%3D7HLKOK6VIJFVZNIBOVIFFCKJJI%26ch%3DAQEAEAABABS_gK6wu_y-ZiJileXILdZ8O2Byc2a0U7c.
+.netflix.com	TRUE	/	TRUE	1784575027	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlgeE2MUJbHZLWtvEhb9O7W8zCEeHzO58.%26dt%3D1753039027744
+.netflix.com	TRUE	/	FALSE	1784575012	nfvdid	BQFmAAEBEJsBEMwCBKq-exvsd9SF7B1g2ntweGeybv3dmnlecWuU2greWiKfDPi_TcL5hSD62Efpk8v1TFmCh-iMW3X_U-bfaMPPiJqmFuetRxC48kUp7OXaiEWbmr_V8xTTkAgYZlJoO3BRa42ZkEBbD1J5CtbT
+.netflix.com	TRUE	/	FALSE	1784579148	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+20+2025+22%3A25%3A48+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c72451c7-9309-4238-a6bb-f99ea9469ac5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B25&AwaitingReconsent=false

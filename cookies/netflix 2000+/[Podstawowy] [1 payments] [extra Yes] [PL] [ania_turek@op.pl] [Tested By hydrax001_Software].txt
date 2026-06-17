@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Piotrus
+– Email: ania_turek@op.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: styczeń 2020
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 0566
+– Phone: +48509595649
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anna
+– User GUID: BXZ2ZB5FCNCPJKCX2CDAUPKE4Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802380307	nfvdid	BQFmAAEBEEozFXOoo0-lg0YLICAejPlgg-iz-cAnLmagI9DR3vpnX6RtB-plFlmjJplr30hYFtjq0FnCAaHX_Y9R7nJoYkenUqTCXAF38kW2sAlnqt4m6VlcUDDhRCd9omRHwPVr3cIJiOVgkBXRRRG-wRAIuJhN
+.netflix.com	TRUE	/	TRUE	1810298136	NetflixId	ct%3DBgjHlOvcAxKHBBW2V8zOo1eyNUiluzJnoBGHs8fa6RDpHKaQrCtLWXiduDOiws89xEgQ3K_vQ2hjXPuP2xz3WqdktSp8zp5Q7-5HVmxnrd5ImIQoY7b7MvejGF3Ps2NDxE1bu2bJQf7VhvybA-hoVJJjXFAyf14vJWmH3foE4ORu3J-aFjNWRoB4MwZvfXqL5ymCukMPSzIOsDYGum0Ot-Advm4fQeEeAcliQi_7fStKmEUlyhz8hmeAb4U-tabEovq0-8cXPOn8T6UV0mnMHlsWnmhl1vu2pYjDsqP9MrW65wqRbEoNTAFznNBcgtK-i-xUEW6Iqug_Ux6E3FCzKBb6fN25IDFcYvqEKTtUtlWhRejK5f6AKsQdj7GfOapJqZM4vFGjQzymLupHbcygxN2GCNRAxQcCSm496x3IDa9uaEDYT2T8j5mWEu9Kvn1imzz2qEONPIhmr41QwQssVK42isvVQPXLbdV6fSAuSLlpm0QlIRmT6bmykDh7v-3fl6spPE2TfbMj2Q1DNAHprmsGHvoCNNSdQ9BCrGCHWJIZgl88OPlO7SQulOyRAG6MRf0zeeyCcwuSVsDKdMdYEMEXBA3Sj3H8uheot_yMuZwhcDIO6NBSETW4dizCiG7M3kwix7hSBJtRSC19aUYh6apNvKuT7l2lMhAXjdhztaaienM22w6AICXJlHM-0Yu3NxgGIg4KDKVhpspNyGZDF25lTw..%26ch%3DAQEAEAABABRhxdGBJ2cjJmP7Nl8nkleDE6wbEI1WVnw.%26v%3D3%26pg%3DBXZ2ZB5FCNCPJKCX2CDAUPKE4Q
+.netflix.com	TRUE	/	FALSE	1810298138	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+14%3A35%3A38+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4407edf2-c270-4be1-a857-d6bda9d8721f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770844178719&geolocation=PL%3B14&prevHadToken=0&isDntEnabled=0

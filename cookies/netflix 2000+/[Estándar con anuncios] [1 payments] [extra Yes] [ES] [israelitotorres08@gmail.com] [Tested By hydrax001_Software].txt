@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: isratorreess_7
+– Email: israelitotorres08@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: abril de 2024
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 1231
+– Phone: +34621231686
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: isratorreess_7
+– User GUID: 4N3JE36NZFEOHAEGSY7LMWBNPI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785364210	nfvdid	BQFmAAEBEL1mo-eSki7bAOarroyCA1NgQREPoTiGZEot6fBU-5RylXQ3noRIeCgjsLCAgnXxGfLtzyuqJfgfsI4RVyaSieTnCSvIfH5gVTDfDIw5qdwHc4_xPXU_OWqtomaTnZS1Df_eAnHP4edg0CZUHp-JiL0M
+.netflix.com	TRUE	/	FALSE	1786998043	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+17+2025+22%3A20%3A43+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf2fe0d2-6783-4899-842d-7fec5001ec4d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=ES%3BAN&AwaitingReconsent=false&intType=1
+.netflix.com	TRUE	/	TRUE	1791200544	NetflixId	ct%3DBgjHlOvcAxL0A7NvgZqadphhNmtrysHgQFiE956_fydQO4IdvN32arFVadCKcIfMr35Ddy_owZ7N4djGbAH5GVDXfCgFeBsqMVklC96VnUmqvdSPtVwIQjKf6i3KSot6TMzpBi7XA5cEpIS_p4VzsNdIFkr6flC_g8CGnrqV6kZMiSpJlcTI2LWJ4vrgsvpyOoIF4ifKT_JXUQDxy8XiOt9QdQAdPs678Y-jIQxvnsff4cl6BKsEinDH9RyD9SChIWL1ySJrdvkt-UzNlOY_FP8SJuEn4oEEUsYyTU_vM8rgct7L4v4oSw06pMitPnn3U1RqOPwS0wa4Zap_W8ciYVBjIR-cvgwVgOnjW1E9iPds3D43kHQM0gPi34xHHU2zxHWXBGJ9GlMBNziBjadEuG42Twcz34FQm85Ye608slg6gKUs-9OUYvlhJsW0EEjFGdj2QB5jMrJUV6-Ebe93DAwzLfBGI4UyUaJlJt5pta5OP6zTssp8ADf7E5_tLSRlYFyMCDD6gcLUYziHDb1TaXam-a9COWDqfyQv4DS3chMJCeiOqA_0ThySw9I9Z2y2IvRWxJjiM0sjwjwHRyLATm0KCwRFJD7BBSJS-ZU4MuVxfZObNDemMcmHdLUQo81seBn04F62ZLBYY8gBi-XygrM8NSTQ1otEqCbTglFoGAYiDgoMTAYlDVYXyxeFNmDQ%26ch%3DAQEAEAABABQRYngdJgk_s6JHlCYbQ7Give6p30whRnk.%26v%3D3%26pg%3D4N3JE36NZFEOHAEGSY7LMWBNPI
+.netflix.com	TRUE	/	TRUE	1791200544	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIsZTVdLPEFiqAlowPmqz29hipkSdWZK8.%26dt%3D1759664544928

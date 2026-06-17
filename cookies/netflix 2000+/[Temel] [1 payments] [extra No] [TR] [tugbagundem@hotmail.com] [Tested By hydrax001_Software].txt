@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emir
+– Email: tugbagundem@hotmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Ocak 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 3569
+– Phone: +905356410301
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tuğba
+– User GUID: SGPBWUDVLVEZFMOMFPAQVHWDIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786150295	nfvdid	BQFmAAEBEBP-Hz9W2geAFqDPrvOiSv5gfx9NXZpWcCuBOnJck-XfGbKfPrFl6NDT9EjFiSuJTIJcM-8PbN25YJw_fF5FQcol5PPuWk4popnGFw_ODUk7HmAREfzgISeHy-WeBPJLQMHMewmsAHkUb0-aMdTIXIow
+.netflix.com	TRUE	/	FALSE	1809629156	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+21%3A45%3A56+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25009273-20c6-4557-88cd-2025bbdbc987&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811489850	NetflixId	ct%3DBgjHlOvcAxKCBP-QRU-zWz84wThF_Rs6h3EVGMJziz0dLCGLZ6a6pXz-Lug355EZN9clEPtT-w2nuvyZ8sVKmX96yQ71SHyEWsLkyoNigCqvIXf_iTdELyTzYb3rLKEj8ztmQJyWsM60F5sX_FOwhiHg3FwqTHBlX4X3B0sT098UTwh11u0jr6J0Nns8CyINzLtdoEyq87mLzurK70bI6yHA3U0bRRPw6cCCuqmcLAhleRGq8bJGaVgkGECzM10fqsD6aonQs9qZaM-MkvN6dEUgksDktzyW2ecC_KMzfB_ZY5x1iExJdZh9NPH-Qdan3XK_XsB0sy7un0kzVUzj8AjTtv3vxNuM-aa-_vOVebDOklvKRtp32Jzaa97mRjOna3TLiypTkdfdqTcEqPua6bvl1xAqYvIlPHCLztSsuSGFOwSUWlInAKHU6jNoLD25JTISa4QzPJQGXSmQr8KF_tG84o7_qD4og4Vxw2RMVaSW7moDek8B_Sj_bZFgVX8iurisqVd87mfKr5zk3YR5Xu9ozlf1SOxNtMZWjO7Qj5x9vebxJ1u3Oi25C6_fIWf0_1fMfcBF5AS8CQL8onwyw_OjjoSMSfE6wWG2Rl4ElLxacar_Kcj5KXazjqMRCCWKI6odyuSEyYFQButyaFiY0MJXDJhnxaSWIRCMRYH5UhDqUT7QKhxyzp9dv_cYBiIOCgwKjNYZfcs49CGlsBM.%26ch%3DAQEAEAABABRjlzIIsN_54PWzkSUUy3YWAVBuvcElKCg.%26v%3D3%26pg%3DSGPBWUDVLVEZFMOMFPAQVHWDIE

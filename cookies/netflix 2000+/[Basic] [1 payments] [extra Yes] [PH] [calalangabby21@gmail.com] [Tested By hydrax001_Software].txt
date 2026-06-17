@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: John
+– Email: calalangabby21@gmail.com
+– Country: PH
+– Plan: Basic
+– Member Since: September 2023
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 1668
+– Phone: +639454135329
+– Quality: HD720p
+– Streams: 1
+– Price: ₱279
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ate
+– User GUID: ZH5G27KVEFFEZCPCDDY74Y4S4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811390319	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA81kMaNyveys_hjP6EKun1__VNrsbQ5jmjUh7J2RuHEj2TCVKkK5GgJ2nShUTu5yEg0XWXjbkhrQjqajFzkVBzcSH96EIBMzN7eTOUZ1cpFrlGh59au3_cK5zUGI80MzRKhZ5QWhTAUZshNNlOlbHBCrFEDVkLWrrBUvyUaha9b4i_hvwUwV-Rs7Iud5zAvWkz0Y1IdNgB9O9G9_hQ-AwJlHUx0EJaToWWeggvn3wLbYUmGjScxUEzkrk1f_aLGY88nJo3stRuq1JNnYx0Fb58vKSSprIcrggNjsWqNsw8btaC--bGjL1yD2WnAgjHsJcD0cQJ-1os6OM8M7aWXTI3XUcWLMoC8TdTvtgpUdTeW1Rluv2oYjp89jOiZs7GOwQwNfMij3MPejV49mYkkOtFDOv5AUYXZNzF2g9rop_U7pbt1YOUu9sz_9wbPi6I6jQ3pQQh5pDWO5SSZ2_Yvr0aqT3SxqQrej9CzWKg3Oe-YqZIC_wYLoQFPkDPC62Ts6WDiOW9qiA52F46NH6CLAGj2cGVcr7HZrfxgGIg4KDAb-SPUmcd7VK66fZg..%26pg%3DZH5G27KVEFFEZCPCDDY74Y4S4A%26ch%3DAQEAEAABABRnKsxNUg3O9yeyCEDU8EJA3oWNm70LIDQ.
+.netflix.com	TRUE	/	TRUE	1811390319	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3EPofTY-N_SLcGi2woXq7wC3YfveKpkU.%26dt%3D1779854319300
+.netflix.com	TRUE	/	FALSE	1811390308	nfvdid	BQFmAAEBEBMB1nCvaKz2PbbKJPIXmbpgEJdnonFHYJCoz_oJ32QTLyO76cyEWOatZImzHGM8Xheut_qanqlNvHqKrxIYH26ShBsOu6FgoDbb9oHvH-njQA1VVNQMPYo_MJrs--26qNt6Hy33JoAdtheub_6tGgTd
+.netflix.com	TRUE	/	FALSE	1811390389	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+11%3A59%3A49+GMT%2B0800+(Singapore+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=035fa272-0d66-4852-ac14-ad408589fe55&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

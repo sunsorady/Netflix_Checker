@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mouanad
+– Email: nvputten6@gmail.com
+– Country: NL
+– Plan: Premium
+– Member Since: novembre 2025
+– Next Billing: 2026-06-22
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31684501773
+– Quality: UHD
+– Streams: 4
+– Price: 20,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abdulahad
+– User GUID: CIIISCOD3BB2VPBKUOUKDKILPA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234220	nfvdid	BQFmAAEBEEHMqMEgDAkYHrxVkd7a461g4RavrolCMRMZ-hsvoljs9fM_ZuBnPQ05rzqbMPYdR2AR8mNQid-TrQG-zKHWDthUEzuBAz5Y-NzTVVp4XFDJ3Dkc2UyXX5DpASTBnEK9SOygIX-6lZoMe9fO12faSoMN
+.netflix.com	TRUE	/	FALSE	1803322082	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+19%3A48%3A02+GMT%2B0100+(Midden-Europese+standaardtijd)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09789bfe-8464-4208-85a4-f2911182c1f6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=NL%3BFL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804064652	NetflixId	ct%3DBgjHlOvcAxLmA3up2abpGVdchrBdXU8TA9nSSZrDV-rxSfNelh9DWgHrCRiwT_u0SRfFQDFU6cVxoQiVWSX__xjfgbwzaj-d_rR8BInCimeN7xa7IHh05fnh3zZgQLF-x64RGSAFzyInFhToJ7FuAk4rZwxUNivELpDRUiagF7lFIzVuVki-b3Uv8JMbTXjTNvJPM7oDDzuDlCrQU9vwnaxDBP9F5dsDQJmVh2vaSd8hvYylLA7TyOONFWL_XJF_BVoT4J453ImAuUm3YZ5zKrCsUgPkkx9iHgnLimPnZpSFKhlLM2ThigsTgPB44jt-zAeST1SatLbqJFZYW9fwRC0ODuoh1yadhbd9Gl6JIuCexVi1K-XWIu0QqM5B09elZlNCI4eK6klsdEGZ2FtSdXYFCsktYi2VVtEBarO-u8WK7SyaZ3Dqvm2OTdoNFtC6W3HjA_lEo9uZL9B4nqlyAGSdxHiI8Or-Ao1diDr2xLId1HQXTS3z51Hu9eyl4l0RdHAVggR50Vimxh8RS3XFANB0K7kqfZRmoAz9fdelslTisi12Q6-k7lF3xWJhffcvngKVgd63JPl3XNODqSRUOyKVn9PQ596u8k5XUz_2uWlsNj8xxVtGH4BiFS_-iMyJBcTXGWyXEMOlBO3msERCzRgGIg4KDK7hUYN5zk0x5xtpQg..%26ch%3DAQEAEAABABRykusxbRA3PbHVluTfVfJYGo610Cf2K1M.%26v%3D3%26pg%3DCIIISCOD3BB2VPBKUOUKDKILPA

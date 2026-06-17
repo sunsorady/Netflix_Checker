@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marvin
+– Email: bernhardtjan75@googlemail.com
+– Country: DE
+– Plan: Standard
+– Member Since: November 2018
+– Next Billing: N/A
+– Payment: SKY_GERMANY_BILLED
+– Card: N/A
+– Phone: +491782403408
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jan
+– User GUID: 5U4OHQJ5HNCOHEF2MM6AAGBOAU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785059771	nfvdid	BQFmAAEBEDyyyK6GyGeF6eOqsypGRhJgTGZ5pSWvbK-aCPp-V878VdN7vkKun0_1n2ItzK4f61r_99GNCAnBghuKU8roP4WQ815GBuhwhqzVnUSwXElt2NliQkm-iQ57GO6L3DxyW6HI9-xN1JFDecb15iWXO82j
+.netflix.com	TRUE	/	FALSE	1799566367	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+08%3A32%3A47+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb5a7dd0-fdc1-455c-8ed0-e37ac718fff3&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BNW
+.netflix.com	TRUE	/	TRUE	1799567849	NetflixId	ct%3DBgjHlOvcAxLsA8OPSd6fJP3mLXyApKs1APmCy23mDDjX0Ycq0VPY7Gnc7JuaDMnUOEUHEyRllNN0AV2ooW-XjhGZw223jiCB7OnUdoEzFY9Kg0CSS-we8xeqvoFEBt3i8sIz5iYdommMYdkvdR3djyGY071UFPOOvUDU4DWnDweSXTnC2hTSOaGhkxXuL475lTgbRDc0rbUn6C21ZB_DOalbQLNwD__pAIGrX8q-BOLFQ5F_evz-oqhhZhA_Ina4BLFjBuVE3S58Wlm4SCWGfz36IcSvoSf7s8ToOxzxjrPb15t-WOTAxNRp-6EfFeBq-rCkE6hwTFGOXRTQcR-E9Kzi59kOyxYhpw078_AJiGMdOyhAysI_FUxi3SPP9uhVQBHT2RUvzD0GKxaDpKxWq1g1iuLJRWksAe9_PZkT7Y3iOpXZzWB3l7oKi-vDXPLENRfMz1MD-1Fs7hX6fYAkyZ7AqhI8VEujRoBlOcqk05h4bdW0ctYuMUbTp-pjPZvP7QJ5IQpIM0nZEioRzultf4ztNcoEwFwSlnnQUjcByfvJQT9iWrlQA2nC4PKYU3XFxxsa6bj9qkW09Ve-pCCklvHpWQu9iFWxQUtyUJ-0UE-Z_hvJHiOumtglARSSTDNTECUjLYYBfMkn-14LdF81VBqRXxh5pxgGIg4KDP1sb45oc2GTsv9aXA..%26ch%3DAQEAEAABABTeAhiOuIow95379dvMohisbMjWs_6i82A.%26v%3D3%26pg%3D5U4OHQJ5HNCOHEF2MM6AAGBOAU
+.netflix.com	TRUE	/	TRUE	1799567849	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGfhQ7fTcx5mdisR7Tj1QYD6xBzWPjmKk.%26dt%3D1768031854570

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mischa
+– Email: m.wermker@gmail.com
+– Country: DE
+– Plan: Cao cấp
+– Member Since: tháng 10 năm 2021
+– Next Billing: 2026-07-09
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mischa
+– User GUID: 5OGNC3TH4FGNZBTCY6Y74AF3AY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789946455	nfvdid	BQFmAAEBEB-SkE-X2fE5A_ZYKs08WVpglvk0i7Ot7WTheSCZ_sfOZoaI102j6O9XXkleDvzgkTayuQ9C_wCgACKlLrsvc7e7nqGjq3eF6WsL6pvSN3f9NEsA_HH3S8g8HjID1xGuSBthHortIFgv7NOMJ4vFnaPQ
+.netflix.com	TRUE	/	TRUE	1811956073	NetflixId	ct%3DBgjHlOvcAxKOBNLiVQtv2enlrMXYTpH5zDtYrybTAqdn_cpIsrbxSm7tP2X9X1i59E7u4JwTRy3lwBGlwdfKua3eYYOBNy15ntbEQsIObMhQ5FtlMD8gzfnHhXM9n6VaW3EAIlXLeM5tZ0PG63OfZGU_6vtf50VD72-ywkm822gM7AaICjd8vT1x-o0U8kbEGjUxD75EKKJ69F5m-Mgc8qUmhm-u-6V8Qht2-O5ys1-fkAvXsclVIopbh3_NZ-9cnRUcn2ZHmwikMt81bb8Hc3A4J5uth8pjTnTmOMuIMpMM2qbhgF2BdCNuhsmqUsPDSrqli0j4hSX2-iHzZL-KxHn48eiS7AqUU5d5AUhqeOFpftnCP4Cn2MzHEDM30BfwA8kPnCGL5LHFC4rYzw6xLdS27hwQmj-L3BJwNfIKQsJWG9rSjn4RSenjz3RmQVoi785_2wxARe8Jzizo7zBkqIrENoOBTfReV9Wm7wCTzoCjBO6BzSfzmiaXA0wC_5F5wxpabkP5YXDBORsryG9Mwc8Gdg-meMLm-KiWjxiRJBMDc7rANCpf_K-iMnFiz48J2HXq4qK1t-hAAkbd41EC1qLLbyS3RDk1wJsJuXxTRq0ZZZgHs49G8VQHa2jcoYaoLX54lyvi7gR-DKNDeNxeSPeXJWOwBu0Dx9E-j_ZzMWYDBy2FoczFUwcZOvUqiOSZC3uoa-9uj6sYBiIOCgwSao3NZADqEYgKy_c.%26ch%3DAQEAEAABABRJH3VQMZZ20PoKkK1F4IoBYZDKU9Oxv5Y.%26v%3D3%26pg%3D5OGNC3TH4FGNZBTCY6Y74AF3AY
+.netflix.com	TRUE	/	FALSE	1811956074	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+19%3A07%3A54+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=23dbbbb2-1783-4a36-82af-237a35f1a50c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=DE%3BSH&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811956073	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkdBSwsPHuFwNknFQdeOuWS9Vu4sazlxk.%26dt%3D1780420073489

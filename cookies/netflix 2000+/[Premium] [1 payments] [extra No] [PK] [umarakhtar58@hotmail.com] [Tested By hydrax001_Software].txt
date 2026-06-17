@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arslan Gujjar
+– Email: umarakhtar58@hotmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: June 2022
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 7040
+– Phone: +923218414677
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Umar
+– User GUID: JBLC2G2ZONCRPK2RLDZLKUUHVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807767106	nfvdid	BQFmAAEBEODUqxZF33MvQ4-XjMB1q71gqiZYV80xB1BCR3UpPqqriM0632j73BnQqDHjxuQepFsEq0q-Azf03hXyoU7c5vmfS_ON2Lkp9I-wDg1SZx6VByxiAvgAnA6zJE8tSNN-ZxqGsJkE45OWwr3VO8rfzMY_
+.netflix.com	TRUE	/	TRUE	1808679641	NetflixId	ct%3DBgjHlOvcAxKLBJ0BmAf0PtHM1q9d7hax1Ff5FIrrZHAb7qJX7RuoNtaaW3F6oZ0IHFkYcGth5WjWcRy57S3rAOV5q4rSaGTuDc65vlgIUpPWoPVskpzKMXfIlymAFS9rThaDUVgGzATlND8gxhDhH_Fuv_5zgqKniuwAQbZQkkbo14gK7sgpQ3h1KMU6_L0qicrgxQU4G2ZKlot-13PE1HMlc3W4HDOvYF_ol_6XTAuXqd6ZpLhCH2l4KlyJJRTxgKzVBpP1Yq8u4CpjaNtcHJpZLFpVSNRqG1vjnVrsPsUeGBNY2xGhslMZvX-JX4UqmRtCybMbIwkhuNQt6RMNeNr0eMlDaztgZ2g_YLCs61Mjf2A8JJOHaaPGYXeZif8iUzHuljbKUuggqkZlxWhh__2Q1iQKk4q6Oyf9VN285NiiLYGicAQM-QZZRemUZ_z2gZP6_4WeSUyzLQzZTAq1_clMvmREfDDooKSSNktC3xBcl24xQoaxBJNJat58p76btWFBlw87mj1tHGSXzVnIEoYLrC-wIHUQPGFWl47aETn0Q-gmB3XOtOD2t99zEwf_VNdeu5zJpsmp7Z6KSPFc4Oymr5yTWtKR42iNIucg5Ptyu9DG3iUHftg8ci9ipE5h7Id8C-FDiH0qeQnAO3iUXiCNto2a3kkfd5pF0t2BwKYFCeOl7OnhB-aEASWXV0aBGwopYWYYBiIOCgw3boyTexL2mYR9X6A.%26ch%3DAQEAEAABABRS_W66_8HqUMsM0TO2NyQfpnXoJF7qkug.%26v%3D3%26pg%3DJBLC2G2ZONCRPK2RLDZLKUUHVY
+.netflix.com	TRUE	/	FALSE	1808679646	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+00%3A00%3A46+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5a747477-59f5-4edc-9c51-e25f0db01d85&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0&isDntEnabled=0

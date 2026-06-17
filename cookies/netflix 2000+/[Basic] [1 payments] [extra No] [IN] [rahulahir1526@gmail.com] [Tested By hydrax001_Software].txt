@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: rahulahir1526
+– Email: rahulahir1526@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: 2026-06-25
+– Payment: UPI
+– Card: N/A
+– Phone: +919638754228
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: rahulahir1526
+– User GUID: HELS7JKP2FHX7MLJ263DTI3RDQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1812114035	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA7i1W_F4zZyS2F4LA0-noIEYzj-ybIuihbDBPMLsBElHOnpL4Fy9u7_nO9PmfXpRn97p5J1cVWgaHy_DQKKv1fawPB-TV46rYG9nzde195Wx2nePqsjaUE0eBl982HAm1jfpoi3b0MoEnFdP0PAY6GG7mgh8qdDR-vzmx31nWrCYzaA2t0osMYt2cg1DzAi-UA0sIajbiQ4MRfOrUFJZp26Q9XHZCG-yDlXxx0xsl1tUyt6nUgppVYhJM7NvdE7hTIYM3AMCtT1_9j73PnO2QMP74DlZxBLCVQrY-TnwDRw4GKWRG_p2931HtMHufmIm7TOFmqTC2tGMGwYTB1DMUtfTNp1Rf90r5kf6YkbKhlfQDAvg0LhMaLK9d-DU8gei_NWo9OvRGiFY1xqnFs_ae7paLtd9-xMve-u1N8fvDjfOwL4luN23nvMnEcOJ3puxmtBc8fYe1PUwSF_-iJ_kta0QcJJHmlFHeGH1BVHv_jKQuIA9XHdur9wynEXZkTSYIIJv5kVB8ydmiD8i6pGdD9tOOUTuvL7LmlI2HrpKda78vhgGIg4KDH8eM48mp8KYVFqDsw..%26pg%3DHELS7JKP2FHX7MLJ263DTI3RDQ%26ch%3DAQEAEAABABQBYBPXICBTn3VbiHHBmTCzeM9SI7lXsU0.
+.netflix.com	TRUE	/	TRUE	1812114035	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABST0XGDMmybSsRRhAtQPhORYnHML04xc78.%26dt%3D1780578039583
+.netflix.com	TRUE	/	FALSE	1812116994	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+19%3A19%3A54+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=778a9f3c-b403-4f85-9678-e24fd63deff5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780578031499&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1812114031	nfvdid	BQFmAAEBEMxbH0V8MOU9PJ_bSNr559VgezYdT8OebeqrkqWMG9fUz18p6-Uyt4-hfpRFRHhl1g0in3bH9pxlg97Oy8dnztvCHtJYDXsNBAPgjjykMEjUelDmEn6-s7gDZQgKNhdZ2icQ0m7dXzf7EqeLbTYO2IGk

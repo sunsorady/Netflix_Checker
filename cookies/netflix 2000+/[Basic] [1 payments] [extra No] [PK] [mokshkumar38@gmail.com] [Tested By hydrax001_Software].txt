@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ivy
+– Email: mokshkumar38@gmail.com
+– Country: PK
+– Plan: Basic
+– Member Since: October 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 8008
+– Phone: +923225320192
+– Quality: HD720p
+– Streams: 1
+– Price: PKR 450
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ivy
+– User GUID: 3GYGYS67IBFJ5MCDLN6KJ3A3MM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790105827	nfvdid	BQFmAAEBEG0qpH5Mb5WwK-d2YPwL9TBgJ9AeRGSDSuIB09pev4_EbDAHmnpYFMUA9a26dtcl5KrfNHSbxa92ZFdYlYinCx2_fT5Sx7wFRcbYwdiQZKZWCWcAv0aiOjS790VHsXxf2w4j1QVtHoYAxvgbT5zCJjo1
+.netflix.com	TRUE	/	TRUE	1810934667	NetflixId	ct%3DBgjHlOvcAxLMAzaZhJ8c3GGe_-tHjcM4H-LKxwIR9tHUmlfSU6tw1eUWXLofNEhN-KCCjV-2Gy33wYeq6m2nStSA2PfA0i265DqP6h_bdEcwJ7ViVZoktgHcRbJ5m97ToR3p8HQbzuOq5AF_IX1a5gsUuDHT9gp25Cmgwn8hGQpHYB_bf1cvuE9wKGaTKdKLwjpTFSt9yZJ7dTvozRuv_YlzGqdxt09D7SuLNLPkT67i8ZBT5ytSWapggvkaGcISnJATBGYJghypPmjN5MTa89nUpta1p9oARcrFFVzr9WbTC6lGkhDXRBOeoyMhbVw7n0NrGa2Pcr7RBseRNGAp_cqM0_Vdm41wbWumDqSk3fzDFC3SFmTKJo8zXbsDclPafOpjhXIc5U2fPdjc_NryAMgcUshzzfISRvOhdHdkfy3CMnFSc9oefDt-zchLodCBjOQv1xq7Xkd24fzX4r18Asmk2Kqa39DkTcQ3NVbsbxfpf5y832jlw11jpIYs3uM9GZ-AwM_Hgaj0HLlG3UgxLEgRcWKPxF4xk5PH97CDoOgL2DsLizGa7rjbCtPH2Dia1dK32zhe2nT95lp3cPMd_64s4M0skqd9uQl3onTYtt39WTQnOf8YBiIOCgw4Z4KmxRHtlO6FYqw.%26ch%3DAQEAEAABABQLcotkAzzc7Fs5UXDJwWF7_w5CmEVN6N4.%26v%3D3%26pg%3D3GYGYS67IBFJ5MCDLN6KJ3A3MM
+.netflix.com	TRUE	/	FALSE	1810934672	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+02%3A24%3A32+GMT%2B0500+(Pakistan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bd569c87-aa88-4668-8a03-f5dfb889d85f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

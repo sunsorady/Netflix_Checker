@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Creativejoe
+– Email: raqelm007@hotmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: March 2015
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 8731
+– Phone: +447920498060
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Racheal
+– User GUID: DI4SHA4IWZCALJYQDWTEIA4R4Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806045651	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA3QjXSoNoCGSm_coIhANBsrPpUZreogrXEwPwVVCIOscO3uOuAjVHilbE-Z6VTAacpIAtNQ5qg5lM75kZss74IQPgZ4uSOHLPnLs2-DA2qEhLh-3M6nbXLgNjDgKYH-pW97ub_XogntYqqxHuhIormXs4BkNnTaW8git0z8LQpEClThc62Ioa4kZDwNnM86WNWzhymbGjc3D9eSWUszINKWt3ix129mB4lZ3cFlNgYdrSI_cOtghKhkUPuipvz_lWgkcPhZtq_93wQ99OYzabhlXgbZCX01LLydENa6yV_84RBJEka0g2izDbS5fJtFfeHohasITtJnfqLq8h_UGPTGGMoBXxie5b3s3tzrkiguexk4fnOm0RpXZuqXObmrLWsB3YMlcOD55pjTpoUi5P23UJSa3_oGPvb3P-G2OwIJbLHFXeznbeq6Tu-aWI_fn6P6LvPP-KT02NZYt607_OmY39ECvBLD4YtA07fIYvF-4LLHAm87XuM-npkDIXyTovkUiVgBJptkqVOTwz_rr2AywqjTszgwQeQfjztuqmY0YBiIOCgweV4PMOpow9EMB6aU.%26pg%3DDI4SHA4IWZCALJYQDWTEIA4R4Y%26ch%3DAQEAEAABABTevmPOLtjKlfAeI4TegcA8AxDaBCshp84.
+.netflix.com	TRUE	/	FALSE	1806045666	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+07%3A21%3A06+GMT%2B0000+(Greenwich+Mean+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ef165a8-c5b3-46f5-b54f-779fd8a4b7b9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774462489459&geolocation=GB%3BENG&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1806045651	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1U03upj42k72AZF_Py8q4Xj7_SCp2osI.%26dt%3D1774509651522
+.netflix.com	TRUE	/	FALSE	1806045640	nfvdid	BQFmAAEBEJwwBWewQqcFG_nBK5CzFalg6PwDSRsJcNiM7vvqPlc6cKpAcLQPsVVerH6lB2mo57croVrkaxPrbKhYAAvaiDrlCGJIcSH83oNuNdNXBdg_aEZcVaLrzrNVjsTeFJtYLnfBYu7KCwaiGGWmrI8BWQVT

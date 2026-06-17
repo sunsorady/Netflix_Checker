@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kojo
+– Email: toffanpatricia@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: July 2016
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 5280
+– Phone: +19143103958
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Patricia
+– User GUID: 4YJCAECOW5HTJDE2OYXH5WTCK4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEAYWXN1aQlq2QI2GvR7zjIhgrnRBnGzonBFLMAddNMVAdEXfZDoUB1dSvKHxtVS7mT2lYNQbS7-tzJCprB16VlN8WtTjpQwHICrugifbATLIUCN0KENLosqBXAs5ZK2ztsr9JjjvCk73Ct0rwMYGB3-q
+.netflix.com	TRUE	/	FALSE	1799717811	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+11+2026+20%3A36%3A51+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6f7fff9-ea28-42e8-b821-d1e66d41770f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810329693	NetflixId	ct%3DBgjHlOvcAxKABPhFhw6-MpVM_gZ8ZzOWC2gTEzQfxmkYMQDESb60So1N3kx4kS47XkWLBfFFWpnPh0I1sWcrlSXxZ95NCXwBU1jFATg8fvRy5e9GaTmHihgJGQsKC5b74i-GudzAfZDtK-gBZUZ6WFbSCW2YNTN0g1VMETU9B0Dx1O1OFer5evgOItihV7gkrVpu_Wth51Pwsdec2q_RiZzEhOaRcBdZ0-hGAOJgqYcOfCq-22kgAQuPoL67vKaVqc7cZ4u85kBQuk-lBJBsRbI52Aloi0B1wd_yUzF1YHd8PLzcS4-UnARzqg3WteZ_m-OE0gqNjX0EQ1fFdW4slo6Fpze5ZfdA3neiH_NJg4KhAyH2WTvbE2an31DrXGV9cnPLZa-OIBYyEvy2OKI4Ja9NA3ewMf4lG_8lMzLBtYv2Iq1XS-uLn1k_vn0AtjdwHbZzmLZN-YXwNKsbdX93xtQn6qa4ldwPKz8wOO-bd_dgCwkdJ7iJMyq2Q49dT7D3TfhebJHqXJNgBxboFLj8_h-02VFJoR1e43VZJcKRsJJml_65kIOd8IrVJ14mSzofadPoxcz68zyCvFSIKKJJJvy7S7mQC4nSjFR7AzVNfXBo8BicKK0Mzj3KQm1eNHtjZD8fUp7jdFPm8oCSe5NiQuJLDqdi49TSnaZFOdIsm0W8qyHoh1FEn8hJGAYiDgoMaYPToAdMMpxPLK8F%26ch%3DAQEAEAABABR6WzWt_r_Wfp4YQAJSj6R-YwIADwJC550.%26v%3D3%26pg%3D4YJCAECOW5HTJDE2OYXH5WTCK4

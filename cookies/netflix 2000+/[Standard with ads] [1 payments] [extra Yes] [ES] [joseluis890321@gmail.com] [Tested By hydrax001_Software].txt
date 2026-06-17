@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: joseluis890321
+– Email: joseluis890321@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: December 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 3230
+– Phone: +34613389894
+– Quality: HD
+– Streams: 2
+– Price: €8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: joseluis890321
+– User GUID: BCARDIJIF5BFTITGYZCCNSXWNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796757103	nfvdid	BQFmAAEBEOdr__MDzqhlp9LbhvzUxudg0exTBIAEYMKt9fUoSD_JM9Oy1zAYju_Ov5CkTe3r7V54x0P0xopEttXrxV9qr93Cqup_awpeOPzcvjNqZg1j_4DUvaDW0KWMAlYWZyowDW6AFbEZTdeNH9tFhC8mdO0Q
+.netflix.com	TRUE	/	FALSE	1797007419	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+17%3A43%3A39+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d9c1c46-dcca-4492-ade0-32c2ac390c21&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797180223	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZ-ydLLp6Zk2xgHkgFPA4Qla2GTxuWFOg.%26dt%3D1765644224987
+.netflix.com	TRUE	/	TRUE	1797180223	NetflixId	ct%3DBgjHlOvcAxLUA2eJkHEUUYomu7L70MZ2-aUJ681hcdi5JUt3UhF5EsXI07PRiJ2kGmcyjHVy-UODR4zcua0ewYTreyCHORsRmw4yBfEbR-UP74xp2Yzei35TQtrEbVQpdXctlVo8KnL159XqsuS6zMP0M6ZqyhY3mq9mguuPcY62ErFVp1M3A7bkjGNMYWiL8Zkbxd6lpetjOpfOngU5mxrJYTj0RlS21pEB7KjK8HiXPXxVGD9I4irasq28g1JlfroH-SKE2nqoq6Z2iW6ibpyURiM8iIK5XBCHgJ3DEOgHuOsIk8a_gxRPn9fe7A9mxhcRrfmd9CFw_Tvhs6OMdutXolRPjHcVmTPlrNJdwlEbU7CwMEdXJVdoQ17ZGGldsLV34TOMmPzuwwbgUUgmPK6Vf0Nii7hcen2GHcsYUvlb6CBmazEJjRe8E1b8NaGB20O9p4BDJ9QGST-rzWCOKzZx2kCEg2zCjTlK2H31KzK-2zOvzoGKYtFt-W2thyxX5_CMYDK4g-bZ5ftD30w3c3K3n9t6FilBmFbUxkJa7t1wEMwMRt2B3qyhJzHprafrvPHrYD-Yp0ek9sr5f8e9WpMDYUWb-0oCkzFZSUsKb5jfQNwpfYMVEnxtGvtstBgGIg4KDOa87wkioK4C8Dl_hA..%26ch%3DAQEAEAABABScoifzpR7pql4vAYtDkjLDuPfrCc7UyhQ.%26v%3D3%26pg%3DBCARDIJIF5BFTITGYZCCNSXWNE

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Martha
+– Email: gabrielsusanibar14@hotmail.com
+– Country: PE
+– Plan: Premium
+– Member Since: marzo de 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 9439
+– Phone: +51983579025
+– Quality: UHD
+– Streams: 4
+– Price: S/ 52.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Gabriel
+– User GUID: EU4C7T6STRAXFPD5JKAUILKTIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791987777	nfvdid	BQFmAAEBEJgdQ3yK5vwi6wilDurVSM1gBv7T-KLlNruZawtiYP8Jlooegn5UGy0FMnmlOT-iH_raypriBOFFSOD47yTEDg-oJYLvP8gDmgXmdVodZsoZMNZWx9f15omsWDDZ-JUlyyZqa2almeTGVQ__42boOo0_
+.netflix.com	TRUE	/	TRUE	1793808183	NetflixId	ct%3DBgjHlOvcAxKXAyquTFWcgBEYCoxo1gc5y5Fd8GPxs3nSSk7nlNXHW-688yoTfjyq-RvQRPWDZ_YnMHhBcD21t0NPFcCmVKFZDkuX8W3tDNP8yG5MAKM_FwV7WR7VZL63RMkohs1Q9vd14Oo9biL6MBs2XU5gABP8vf4bTrFPFKLr0Y-pmtDIrvWVUScLCxNTH5yMESCklj8W0P7SEfOY2XwMoHfuAio7qKkv6e6E5p0EbEfXetchOSJLKmMnMXD2jXLDmToj3d5BHtVGGQKEuLaH-LM4D5Ug4PJgAUsXOdncyZNFRCt1_FA2bWfwTLvWHgsPCNoBzJYcqtcWqy8clS_58y-G58eBLrvTcCV7ACcVi7zmqftzSippZm3yUkBiMCxDrEBNrhiW80oG8k-RuWe6AAzFYfybAvdnpq2oPIYKnDZXBmOGwyEY-TXv0VQe_hwHNRYq9cZCl6PydS0_L4ZAyPqVgWIcPD9b-iq-vy-AY3NVwjGVb4bkYctqQGEZkQhJ2UNJ90yys_QwG2XqSV8ty7d6aZDywyuWQA_A4sJjGAYiDgoMnYvtxJf1Yv5sFU0h%26ch%3DAQEAEAABABTr2ktz--1NkTyhSWmTylah0N_sb-tK5TY.%26v%3D3%26pg%3DEU4C7T6STRAXFPD5JKAUILKTIU
+.netflix.com	TRUE	/	FALSE	1793808268	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+04+2025+11%3A04%3A28+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=48123e88-c239-4b7c-996f-f3580da6fde3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

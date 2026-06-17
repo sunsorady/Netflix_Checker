@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Papone puzzone
+– Email: maxcef@libero.it
+– Country: IT
+– Plan: Premium
+– Member Since: July 2016
+– Next Billing: 2026-06-22
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393491793433
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papone puzzone
+– User GUID: 33WAKCPEVBCKVIC6W73SNIYRTU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796216283	nfvdid	BQFmAAEBEAE-z12x9EZ8SAjUsYHNIQdgWMWkmCtzxTZ9QsCjuX_27lmsGas_poJIKBopRf4Gl27V7QDvuMWh1qybTu01JhA314a3DihJuAZ3VQm0JsVw9W3Y0mvPgQkpDAqNWllKFE35dkfNokhMMaqVz3iMUu9c
+.netflix.com	TRUE	/	TRUE	1796216283	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfREFd9flq70JVatUiTDoe6cDE0JgA40I.%26dt%3D1764680283380
+.netflix.com	TRUE	/	TRUE	1796216283	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKQA0M4T3fMRrC85gDIyuHk49_POJeXHlLKv8mlWiBgRzw7xftX9mjLBMblXyvKKkoJYTX-rbQarsrk8wXfygiK-E2qZRATSIRWDFJtoGZSSchxEDGQUTkDFkdzTxMSPNOaMDGL0V_mJ-Mt7_Jb5BydTkBhVrn4kp7wYk2U7zCqy7Mo7j5G7AtYy19o_tWBvojVAEpHlDCopVjwDo5lOFm4DUNIBDHNDbgSp9dyDy-1kOVAdGDSIhDSdhmXfG2KldYIIzQ4euzXmcyzdQ2criIbMrit4GY_Uas0NcS0hd1w4XZMd7m6Tj0kvYFmnL2pGjXZf2PAOmLkP7OWTacdVbIXTisYDuLcT3Ms9Xy9o6QYNVv3v0NJhD0_ueIsWaJ75JedMSiu_aAqgT-enBv9motlsfJrv2dYdoi9_AA43RDDNmP8b_BWdu6P-LgqeB9zr_zRPPLotqO21j1uEn3kjlazeYz1U-Pqz09BxX2-wPviZo6e-keLLFFnXIeX9bsQ5jpTPgcjI1behumtFniCelODEqwYBiIOCgxBBgbL1SHEsgm3PF8.%26pg%3D33WAKCPEVBCKVIC6W73SNIYRTU%26ch%3DAQEAEAABABRLm6JmkaKPT13QHhLMPC4vSbcZa16ScGM.
+.netflix.com	TRUE	/	FALSE	1796216284	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+02+2025+13%3A58%3A04+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=def0deb4-cfd1-45f9-9b02-6537f5479a11&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B34&AwaitingReconsent=false

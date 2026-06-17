@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jim bara jim
+– Email: heddadortea@gmail.com
+– Country: SE
+– Plan: Standard
+– Member Since: November 2018
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 8117
+– Phone: +46704439050
+– Quality: HD
+– Streams: 2
+– Price: 149 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hedda
+– User GUID: XEAY622TOJHXFFHAGF32OSSNVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793982935	nfvdid	BQFmAAEBEAutO3TI_sW6ANu5NMCrniBg0_HbsXg_a1F1V7PproGqw_lHEBNQnQHGB4gvI9IcLbOF-UCvou_MV-Ynipg1B8_jhF64LvxXFp7XKygfohMkCumFPVZr9q1ksMzhrD7t-vqI5RmgyLIBhtD0AMWoIRkT
+.netflix.com	TRUE	/	TRUE	1802791458	NetflixId	ct%3DBgjHlOvcAxLvA-Ujr85q6gxYbB3L7jpf5wyq4jwRB65SiBF6YDdDJp3iM4H90kXdnLx1otdqhCWJIj8iKAiXRteOB2yjk1R0TUnRWNi9WNFESPvNgbOtcB7rLjFVueWIsRcJC_qzQXsm2zOZ0NUmZ4d5Rmcsih8s1GXlCPOxZRrj1D_1wAwgFL0b25pDFqqfJo0Fcn3WdCkKpNRC39qFQjHcUKWupHlUEKFGcqkzAv46-I01w_7eoLcq9jgCSPsoMTd5w_sPiJaG0hAryv9_Gg02tTpkRpPfzzmwc93QmAwNJPi88Yk1beOk80PWYhd3wxXp7wnt2EOIOYuL8neR8sATSIwMfXVf2JUXqJqRmVsHchessZKRK8VREF7UrZC3DFNpdf0jj5ODJEe588S2CFUESAX3NPWB2ob3CdIj78fPFBDqJSVp1d8BoPmjHN1L5EjJGGdEvUhrBI-kvjb5b7TOZaVxJyt81qMbi5UB0SvBTcfbvtNLtMZg80u0kuGWRRxGv8le8PrTF0VY9dP7m44Zrj2p74jA1uruUOhD5xBm7sIXfZvpmvv6u71dHnDDfyHMxfisCATRz86gh2DfmI824N5GZd5H01i0CZW3hmmeplHp6ScPXCfcnWvDV1CzvQQ8YM07mKc6e3OCPzItkk8NNBhCMTtISBgGIg4KDAAM6Ev4LSqRCoSYgA..%26ch%3DAQEAEAABABQVVFYPLwKTXpBPbtef4BL6hL2q0AmoN3A.%26v%3D3%26pg%3DXEAY622TOJHXFFHAGF32OSSNVY
+.netflix.com	TRUE	/	FALSE	1802791459	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+16%3A24%3A19+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6b9d1d1-3d8d-4ccd-b9a5-da167e2ed0fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=SE%3BE
+.netflix.com	TRUE	/	TRUE	1802791458	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoB32cm5EyyP6Ph5QANIFPa5OLVptRVpI.%26dt%3D1771255459770

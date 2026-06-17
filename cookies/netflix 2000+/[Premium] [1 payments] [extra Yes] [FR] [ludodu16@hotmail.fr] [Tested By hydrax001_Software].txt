@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Piyush
+– Email: ludodu16@hotmail.fr
+– Country: FR
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 7644
+– Phone: +33658678634
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Piyush
+– User GUID: TQKEVQ6QSBCQHAR67NJYDREJIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798286123	nfvdid	BQFmAAEBEKAOTmKRvJ-dBH-gMN4sT3BgF5kZs8Z0q90DhhA5vvLuW5fun9pCb7eTAsh9GN1fWOFXZrhwDgr7GY5pe4Pbihxxke_2yf_aq0ADIicn1Y8Ii1-OyzzkCWJP3v4zK1wrcNmc0MntR0OTWB-C5RqiqB5j
+.netflix.com	TRUE	/	TRUE	1800554954	NetflixId	ct%3DBgjHlOvcAxLsA9ocxvtRIalk3h7OVm4FcDBHXBw-a-hdkDryw5fazjQOdAg7P-ibiaq3wvf6uxJXsZD_WA0drbgamrOQTDlMHtKEprB3U6OBCL0aVTJVuWfmnAkrVbt_JVENEYFj854JLQfvU-D1AGqW0t7NiKKqsfwIzvKJA4vVokWROGX9QB_NB3UvY-W09_dn8wObyKyIESaZOtRqH6ctbkYE4xllXlzaHrf9A-2w2EyDtxOxnArntz3FFCLXczjxgwHsAAG-ttOezN03Re7W3rma9m6nT8cjhaiu4SiWUgk_A26d9rObkPhzn6ONme8PyIkYTu_GrSCJxwa9e0J54DsV3nc9CP1uX56DZM8O0Uroa4-jAviBwidK2G07BpAldSsGqNR6EuKXXqo6p8S5zTTwCaTHxSaiD3ESEVAnrvuKU7SLKHKR60uWQKgWGLV9OJlGtDJbPbKw08-P-BsoNb6A2Tki5kZfSsnXdeTF0YzSNNzErfs9_p1CoHhQn1Zwos7uHyvWXuW0lrIfN5YLRFqQNPGfsrzzC32zzoDX7CWpxee0nuEWbJeJ7UKknvRTMiHREoDjvES8by-j1ts7MTNRxxKQLJXrpU8SJOyq61leXN2H9styqc3nPL5KmPRhc_NZ5V1yZ66CxrtYH6PaXf2wnBgGIg4KDKJjs7T9_OyTDEfOxA..%26ch%3DAQEAEAABABTYrKHO_4RRkTGiPCIvpPKh_6xEkqWXoP4.%26v%3D3%26pg%3DTQKEVQ6QSBCQHAR67NJYDREJIU
+.netflix.com	TRUE	/	FALSE	1800554957	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+19%3A09%3A17+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=962df862-0218-4e50-930d-87b323bf71ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BNAQ
+.netflix.com	TRUE	/	TRUE	1800554954	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXX1cgytMGI_FX73nv5byn3ImYVbxrKaw.%26dt%3D1769018852316

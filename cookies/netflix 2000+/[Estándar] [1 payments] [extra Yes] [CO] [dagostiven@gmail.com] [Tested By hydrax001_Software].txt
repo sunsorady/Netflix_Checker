@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: TATO
+– Email: dagostiven@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: septiembre de 2024
+– Next Billing: 2026-06-29
+– Payment: GIFT
+– Card: 5044
+– Phone: +573150518952
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: TATO
+– User GUID: M5WQBOUAZJFXNG2GTR5SPNIGVA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797850851	nfvdid	BQFmAAEBEJdAPvp5SpS-HFS_hvnWxLFgC7khIT2TX8RTKnexgCIcnJsMyWwxUG-AGRPMeIfgL11D9znV2_EgtUNlKSLJnJ-zcMS6qX9MCyUKw4qBVsnwQVcm6K0kBggUZ12XJzXOb83-D3Vq0-F9szed6h4kgSh_
+.netflix.com	TRUE	/	TRUE	1809260485	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYAw1Vqk2XJR66QraAsIJ_rCTiSUt6UHXP92FJi5zHOd7ePbY-btkJgYxlSSqLRl_zTHDK9qf4RZ-8bYGPDKqOfQfHS4M915ev7AFltZMQkrXNdUkXbWDQaVIE-X3koQ0Xc0WBx_p8Iqdqh6Wv3HOloQBnaaUk07xfyotTUtd5kyS8o6CMffiKYH2EuDV5blTDT1RYkBq__r1z0x0WsqYXUmNAAf2UJOLtzgjsHyefs0-u4dQAeaGxpJesTja8nNzbsp5zIXJuxi1aJiSD-qOUr4Nql0qQNteRCf7aLr1R1EjnhZjczE18bvyHXVjgHx9vPRhXjPVBpoGbhYA1ViMx6Xp14DzDaIufll1l4EU1I1TXMdtxJXrn68VsH4q2OPxy0-NuXEk3_XfNcGNutsZG0NC0mfoM9ofNMlt-9_XRNyifUUAJydW8i8kbP9fuA0YXzFKwNdz7DjgBZQDIBA-DaGRFAxLDNQNVb1diHxQzvWYQLohzRRzXCcxxyIn4L_GBZ9Ji0TS0NQ3QG-1-TyKzF31tu3ay9-j9ChgGIg4KDCWHLnC3bRL6gOxnMg..%26pg%3DM5WQBOUAZJFXNG2GTR5SPNIGVA%26ch%3DAQEAEAABABTQsFsYnmc4H48YtuE_TY_CN_TWT6J8xDI.
+.netflix.com	TRUE	/	FALSE	1809260486	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+07%3A21%3A26+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6d9caf17-4ed1-4542-ac4b-0cbf5734b288&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809260485	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIRuIAB98s-PZPwVKloUaXjqIb9SpqEhw.%26dt%3D1777724485155

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giuseppe
+– Email: giuseppepalazzo022@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: August 2019
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6750
+– Phone: +393801877791
+– Quality: HD
+– Streams: 2
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Giuseppe
+– User GUID: CAWFPBG54VGT5LXCAS2F6IQAJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795565858	nfvdid	BQFmAAEBEPsSpFRdVBQjz_nTME3JkM5gVfFf1YQ6Ks8rsekXPBaN3reokHXxT1dVEKzGHuNm5H2SEHsnFZbTdMDoYBuI1uOYkQ3nh7jyXQJ9SORNimL0CDFbmmR1spvapADI_XmUGyj0QLNPp5x0-Xp2wIYkRrrd
+.netflix.com	TRUE	/	TRUE	1799495550	NetflixId	ct%3DBgjHlOvcAxLyA9zZeVMzUzvLLombu6H6-ZwDd0UaE4Kgfw1XyzVOKi5gs4IUNWoxIavm7U1Gxk9wXru5XQvD79aSigeDi-GfvKdtFflnzOsPxFKwn3jk678Cz8IoCCYX1hZreGSACGRYLjCc0ExTgSGgeiwT7IAQol9m5o7r3gvf7kECYN4qGuICLzcAa95F41pdIWUukF7tMCxNAvZAy_wh1O8O_yQFmzXuMkdMJ2PtjTn50nKNYYFVDR9w-U5MDVFKw68kbvA54q_yf3rjMybPArDDVDiw05UdRUqnmc6-fmzwywIff2-iGQPw7axKguUrlH3MaTVN2I1BrStcrJGIDZK40TBWN9LnVmGCVOOydJGrOmPFBEOy0083WsFiYS0rI5sBnRV8pNXQxEmxXYq58dAN2qVKcDWhDfLHYoi1LKKF6HRQ00kL1cRMF0T8-9lde4kAkQ4P2kA4aVEHuNfY9fecF8cg3bR63vfZ_Ay58avK_LRnLLi1xhW6lI_2iXkwlNW3dxdemE_ni6sU6bQe0TJeiw4fqfV6gijrO4s9v-Tfr79B6hMGUPWFmw2tmuLvS2Vj9IhjsUAv2Wl2wWVg0CJdq9b1z7t7gcrwOKCUmrB466Cf-dV1c_s20-vME18AYKcteqO8ChYJanon0rrk_BocJPtjge2r-xgGIg4KDEd-bxDcWAvI3-FFgA..%26ch%3DAQEAEAABABStm1U5-5eNeGl0j_PY8k90UVpcSnWtMSw.%26v%3D3%26pg%3DCAWFPBG54VGT5LXCAS2F6IQAJI
+.netflix.com	TRUE	/	FALSE	1799495551	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+12%3A52%3A31+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9826be2d-b178-40c2-9310-8bdc4ced11e9&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=IT%3B25

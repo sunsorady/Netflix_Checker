@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sena
+– Email: serdar7565.ser@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Mayıs 2026
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 5773
+– Phone: +905392287575
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Serdar
+– User GUID: YIRJXRCGNFGHLEG2JVEEAZXEKM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1794489019	NetflixId	ct%3DBgjHlOvcAxLlA53NfEIS7ef-T2v9zpctprfn6j5Cfxz2Vw1Y155k768Skp9NkQB8KvfV85YefsRfaimLtZ_XBYDbbTrYRB0d7hfYpkRkRdL2ufiBWvMHvQFrJtQ7KIz7KwRtew9pmZu5VMZjx0D_aOXpMTs2Vw8qvNJc_jdouoTnYCcAjHr-BKxfEvr4zA8258EygIFMwvs4lWOhGISXsm70s50CKIM1ENlU6vjx8_dza3E5aNdKtuxecDbfQHIyddW8yaCws7mi4n2XB8BctWp1OZdsbyyTV7jFB-F8umXUWEs-RuIO43G1tE3o-2BIjYyBP9idd_GxqhwuzE_vo1jUg0nrwv5Qb4rYVhCkWADmIM9Zw_Ax5adFAsGCEQBP85l5LSgm9bVI4TUXwi5t5aiXgEPOA5XdqlvkILXFAV1qyVLkw5AVlSUylnY7LpP0Lm839QqVBpMyrhFQbJa_STxe171tmHA4ebFOTW__CPm_TaJJqZjwBuvwuVsL4mq-7fLSAwKskg8nKyZMDA3OR4lmRA2TEXyTfxen9WPWBEuAHZa1lgpIjM5xecIokeZA8eLk5q2kKVV_DomLdmNOk3xnjBuOAdzLN9PhlJW3psNrWjoqK6fdE57ActCxNmmRAfKnDyP8NdIjxcpgaXIMGAYiDgoMOdSg39rRWrReZcGH%26ch%3DAQEAEAABABQy-0qsRXuTmMIlgDfCpx7Pa5b7B9mS0Ik.%26v%3D3%26pg%3DYIRJXRCGNFGHLEG2JVEEAZXEKM
+.netflix.com	TRUE	/	FALSE	1794489022	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+12+2025+16%3A10%3A22+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=135019cc-4887-4e36-9409-1d33da075349&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B06
+.netflix.com	TRUE	/	TRUE	1794489019	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRCXxPqRAOl8XCxkW3rnbD_jP5q9WmLF88.%26dt%3D1762953019958
+.netflix.com	TRUE	/	FALSE	1794489020	nfvdid	BQFmAAEBEP0e8fN7l0tGIZUGS_c813lglqQpSd2mQAiQzF-P9_2yojaRHqWbLzQGVtHhmcdQQQ6aOe5TUNO03tZ1YT_YKCqHruQP8JG73v7G_2fUWJxywJbsUd_lkIXWLaIERZz3Y3TC4iQ4gkHxi6FL1VCFWCpl

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sean
+– Email: pamelalawson548@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2022
+– Next Billing: 2026-06-21
+– Payment: COMCAST
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pam
+– User GUID: KGYQAMZVDNA6XIA4JP2WSOKEG4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798770066	nfvdid	BQFmAAEBENLMfhvHhukp2miYzAooBJtg5QWahG5uS2j7TATZe1WyODMYoUBAQirYstk5XFHbzmBVUSWpH8khP33HARWPIvWO0tappLNzZ6kgGb7NPhjx-tmYtrjjcMj3r4rMxvfhaIwy0apkD6NVZ5hE6W_g66Wf
+.netflix.com	TRUE	/	TRUE	1808160610	NetflixId	ct%3DBgjHlOvcAxKCBMUfoAaN8tbD6l4BTAb74BOyWzwyRsjCu7ryzFt3AhzDVxO1nC0e8C4Vg_TeYUsXbuLvq0QITzmdzrT1XsimFT514kHFqrSevMCkC8PtvOOkNAGqdS5nzHRdkOKU_P6e_wdwzyEm9k2RJHrDz1ADQ46jLTSykZxrrFSC5g5Lv0OfntMXUc_s9DEKIOpD0ZEp2sAzRf2ZZu9-usmHwKllAzT_wuGl8hLcLvJwIhLiPxctNTfQPOaCNqWmSJyzAz_fAtW10gp_COVtn2ifIMRsRpPuDSXEQ62Iz3j0HSWogEF8ZRRWzoydQzbg6I2s98Ku7aSJyQFb_4MpylnaQM4gN51_TpZZvNNhFOpJ3awp9O7XuAfYb7kPwzdP-fWX-XKfOL3SxhbJoTOwnCFR7nWy24b5IFYkNDmYdG9jPmJ_KdS9Xn8JjJ5m7p46ipmGEKxC2RsKzJ21wcsCivn6wVpQm8TAVSE9bH15D95KBp3BLbyGSD5gcjK5ZiN1hqLYGlX7ytxTLMWq8zQhZ5DYxVrZoZ4I1Zr782UrDUagVZrj89oiRpeK933d7AMVMbHyptjomGudXCpf1DTS6926_wpdqinXAnxlvKyGhrQFUIBvMqRJEUC2sSyNPFLAGYbZY1qyjWTNZOwcBSM-bWncofXoe7K6ZC6QQgcXRTvF-iVCObS8bHgYBiIOCgw9wSc4fqB-tTbCXJo.%26ch%3DAQEAEAABABR4t2FVsTnmYolPK1nh1Axunjx4kYFdU9A.%26v%3D3%26pg%3DKGYQAMZVDNA6XIA4JP2WSOKEG4

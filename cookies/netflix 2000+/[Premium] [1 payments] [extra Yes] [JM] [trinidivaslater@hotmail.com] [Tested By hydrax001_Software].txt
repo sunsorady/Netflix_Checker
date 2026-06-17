@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Daniel
+– Email: trinidivaslater@hotmail.com
+– Country: JM
+– Plan: Premium
+– Member Since: March 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 2024
+– Phone: +14952012
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Josanne
+– User GUID: YWEZHSLHUNBMFJTDKPRAGPLDOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798049527	nfvdid	BQFmAAEBEGjNAw54TjFKic_mcQAdZFRgTBy1yCFzDdbs8Yp0Oz7bHZvneAkUdUV_05eeX8QTl3w2e32urjD1Mv_0Y-zhtOCYK8mCY7IMiUfVGi171cvNwiVQlirKjc6aKRVdPbQpJpnj2ZSpxTyxz8YkMCgcSwLI
+.netflix.com	TRUE	/	FALSE	1799012618	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+17%3A43%3A38+GMT-0400+(Atlantic+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9725c97-387c-461c-be0b-f5d462e57c0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1799144236	NetflixId	ct%3DBgjHlOvcAxLnA0oj9fT01eFIifu3SC1mBal_afjsO8ySGlaClbhyl-o_eL3owMowdyNNfFQoAOWF7TMYwYhHjuBQcVryQQKQK99G0x_6LUVZWmzyCzMF3yaGlU41DQ8gIaQm8mUAVhNNlxD-ZV-gz7XdEpC8XBBXMAQ3vXrCVWcI_wJXdf7x4HomSRCu2y1wxfh_Tw1sRFqnUgaWbyiy0i3YvD2hOA8vVrHK7dLC6uKV99hWu06M7OZnvrM0UkUnOLMlamqqgxPJkBNfqHI4dJdzEe0w8Ge2dNCmsj0XN93W5TZl71dx8IozL3gvA239wkS-v_9o1f3fwlDbUYMJ_zUULgkSbPJRfw6COq1qow-iGFrQQ36sBBR4tJDHb5h3hZfmchTUy3OeCKQonXipY-s7qaRv9Xe4JvYoJveCVQyA6lI_DY_3c4rrz9w7M2ar03sM33peI57pwdAsNv-RuM7eBuVGmJdbAD2jO_yplprrpkwo9i2qMpOL9t8tK9bq5ncxE32PL1gzFBqq3uhTgM6AU4JtsL2v6EsXA_LGDtARhB0vCscU8LHgkGhoKHTP5W_Xg28fjTx4nx_74zqePWifJnQb4UFv_ZcnY-UIo37-ON_EOMIswLkJTBEilj67tRM0UFvJqYSyD4X9afA5JTQYBiIOCgwQ2woOYKcZnMRGQj8.%26ch%3DAQEAEAABABQUUV_3A8uLf1meimRqcrL9ZnIq46F0wq0.%26v%3D3%26pg%3DYWEZHSLHUNBMFJTDKPRAGPLDOI
+.netflix.com	TRUE	/	FALSE	1799144236	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXGr5tRZM5GLf3VGT0A-5Ei4YH-8S0VJY.%26dt%3D1767608236916

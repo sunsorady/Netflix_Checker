@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amanulqn
+– Email: Amanulqn@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: Juni 2026
+– Next Billing: 2026-07-10
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amanulqn
+– User GUID: Z3FIKRKCSFHO3AWFTBSVFGGAII
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807403698	nfvdid	BQFmAAEBEHNKKK_DpI_THxMUC-1qMqRga4H-qzSepAogTDdKSW3MntvqKrPb6oc_lrc9OFdhepDenhFGTJEal4fBjNFmdt4s73STX6h6P_oYufGvV2UgO4an_bZ5AUtRK0TS0GyLvXWjLOUs8mLB7eDOiiqLKkcY
+.netflix.com	TRUE	/	TRUE	1808907400	NetflixId	ct%3DBgjHlOvcAxLPA-3jVdLOziUyMYqCSr7L6hQ-G-kU1BTaf5fWI_ugwhwmxdAHmkV7FCXTK-6PDY99X9-JOfWSekqcIKbeGiMjL2w5EJ5WeLvrbb7IIHf-xyqwWd27asCDivbLzDghBGPplZvREvEFNWy01RSjRROPbMQIYe3VPONV4_90pO8rXHdldsmCa7xzx0YUxdV0XGKIvFhILOggjbuxv1RKyxx5f8IQ0OjAPQjZCmU2YHsgkkDj-2MWH25XsrIQzwg6pZmapLp5RxeYArnWJVA6YBBqnrDwV7RQ-bztMXMaHb02V95LWjDvDEvzb1xwYWr0A6VEzMQx_5DQz0i29xXLnVtKl_ZguWjyVU91HvOnVpjSqvIRdWcYb3UJs6_FzBsqOsc5meAN9a4RMrhTo1DyIVH_n2jCmLPzYfM9YwHpVKllQlBX3LaNxbuKDIbVYReVbo0DBZmygFCgRUtib2-QvdPx4x0ill2smxPzKnQszeNLlueJqDUHGjeZhzH5grlcGy2WGwZxq3xkl0KaxGUk8nfbwS-2D7cJ-xX4Htz7hY_EPq95lkj5XVPzDhHHiexqTbHUAqTmGxmo9CMr9G_nPnB0KF7qI9Bzbil5HTzz6hHcRuYYBiIOCgyxrJx7NwKHXB11u74.%26ch%3DAQEAEAABABQB12e5zspvsGmoM99PJigBqWsUp804KSg.%26v%3D3%26pg%3DZ3FIKRKCSFHO3AWFTBSVFGGAII
+.netflix.com	TRUE	/	FALSE	1808907402	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+18%3A16%3A42+GMT%2B0800+(Singapore+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f5eda1ca-d804-4d04-a649-3f8051fe2895&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775867630707&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808907400	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1J3Jqr74sfeayLB23225TQ9k2qOspve8.%26dt%3D1777371406626

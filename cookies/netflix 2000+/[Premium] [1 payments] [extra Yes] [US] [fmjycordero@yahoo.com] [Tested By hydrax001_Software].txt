@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gian
+– Email: fmjycordero@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2013
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 2076
+– Phone: +18328678430
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: madz
+– User GUID: 6RNDOWXDWFHSBK7GCOHOGDHU7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEIC9hhtz-kY0WeGzchnS5u1gzLiF14jUdI5glWWHdahYeDh6Ks2Lo0a0n3sLPB_UTonfqnwWsYLPKop4kVzJxQ_q0Rc4W6RwMbk3VD8GRMXLljxdiaZqJ7wSX1LJEpM1d4jLmlaaNX8TnJxjyoKrt8wT
+.netflix.com	TRUE	/	TRUE	1802511717	NetflixId	ct%3DBgjHlOvcAxLdAyLqshoDvGo6NfkguApdpJnx0hzY2XECiUAxdDvOeqgBWJr1eiY6SqTPssKHOlOHHu7IZBVOLS8T6flOcPQWWedZvpM7r60Cmnu0A2C_PvH3Jm-Uu-lDvPWyXIAjcdt33Oe9N6QTtwiq8fvMcWXXhzyLB4A96vUNiSmU06qdnOJ55X3KTRGiGLsZI6s1sy_-CtgVd4gGlJ1J4zsLtOd2LB6EPhkp86sdRV6s94jKqG_fDlSnsce1fyIPGAqHDIwFpqYjVadBmRfQFwDO2abZtPMvSIV3fx4KL7JQnG1_UxlG_HQK4fHBvarAPZkdmU1UnnzwZjxy6U1AQNlt2q5Q8uLA7WGMtKW2PTFQrvB7JrbEOmq-6n0BZ_lDLvgS08zB-1jv2HWeDVjKLnPz4cDhoacPZOGX3EBDuQbJSXedaG45qRu397moOoWBDN5F4jhfD6x_9aBo3Hau8IDixIQLC3l4vUkfcmEttUZjANdfN5coozGZf3dXQf3PQldEkcSk6oJgk5keprdeDBLMhPAmO9IzmbySDoFqtIzabusQWjStsuyKp4o6DTGFFlI286nZVibdE55NwJPUf72dKyCC1sSLY9Af527zyaeizNuGUOvqwD-kxnlFikp4he1VIRgGIg4KDAgJk-AIhbhxER8r4w..%26ch%3DAQEAEAABABSbhRn3BK-SGMVj6eRMyRdWHeGwKTY5l5s.%26v%3D3%26pg%3D6RNDOWXDWFHSBK7GCOHOGDHU7Q
+.netflix.com	TRUE	/	FALSE	1802511924	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+16%3A45%3A24+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28bafbc7-505f-4f8e-afa0-f5a0092cc731&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

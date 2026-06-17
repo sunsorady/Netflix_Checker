@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LUV304LEDUAN
+– Email: Nht09092001@gmail.com
+– Country: VN
+– Plan: Cao cấp
+– Member Since: tháng 8 năm 2025
+– Next Billing: 2026-06-25
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84967544958
+– Quality: UHD
+– Streams: 4
+– Price: 273.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LUV304LEDUAN
+– User GUID: JEUT53UDCBE2BMRYXJIP7JU3UM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797866861	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA0nN_D9SDiHdRUL35XRcWnbx49SZ4jul7rhNxkgvY5DnxmVY0shn18oS2DJDdC_2fuvDudXlK-ilj6JWxrbnekDbMxS_2zs5EkqjoULxVB087nKimSoIDp44fbjgRXAslaasvaG-ke7HCiC5gJTsKvINFP-oRFgYmb4bIPCsXUb2_Be9qVqa4CxdRFrJSVn6H0hrnEExIXiIHXP_QZSYnZMxRZti5KZYuiCiLRbFvrxs5Gjv0C5KZhQLNnj9bkYLpABba41ypCcGz_MXPsfEn3QNS__-eLjTIKT1oZrXTVFyfYcKYGts_omJ8SoUf5UfQ6JEtYsVKSI5b5VlQNdn_DWTpqYE8xKSCZDXT2HrX27Fv8-q7Fz_Vywqueqz4jnKVou7f-ZKsB0_7Ji_Th_1EUcsYnSQZgXVMpBqn1C21Irzru1eqcZZRVbA_KPhMktDL-MTE7hMM02TcUOK8wYrNXvHFNbKlQfCABmvonTnV30ccTFJ54by7cZYzEXTvyxhl6JJgSPa64SxGAYiDgoMD9yf475MzVwfX_jv%26pg%3DJEUT53UDCBE2BMRYXJIP7JU3UM%26ch%3DAQEAEAABABTquM7AJiBIvT78sFJ1_Z4NSnmm1GWNv10.
+.netflix.com	TRUE	/	FALSE	1797866863	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+22%3A27%3A43+GMT%2B0700+(Indochina+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f8d89b7-1ac7-4223-8fb0-22a83fd04208&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797866861	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmCTIlAvLEaGGOxz6MBaHtz5DG03-7HB4.%26dt%3D1766330861673
+.netflix.com	TRUE	/	FALSE	1797866861	nfvdid	BQFmAAEBEPyK2gFLKDS7Hd_CJGAw_LNgcgxdesBwm8OKuOb3eCsFz9aZTNrdP52Ik7q0ORNgEoH5I68mu_BN3O6MRwoloYHS2hzuzI8HeNnUwuzd9NL2Eqk-X4BlyXlaHzZDppkjgKM2Oq71I2IRy4BbpbWf-RVT

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mimmy
+– Email: halima.hmouni@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: giugno 2025
+– Next Billing: N/A
+– Payment: TELECOMITALIA_V2_BILLED
+– Card: N/A
+– Phone: +393496862789
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: halima.hmouni
+– User GUID: LBFM3WWRHFDNVK74BXJU7U5KTM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787913795	nfvdid	BQFmAAEBENmUXUHqxA9l-GKFh_8_d6Rg0YQO42JEKXJdhUEkaSz2-kIENN8raKjIWA2aLUyUr_EGZmmwXz75wmU4PYBvqtTVxANL5BsACNzddGM1G5nsU0xPh9ihftz_RADn_N5KQD3BHSOqZyuEJixzdsePjpuP
+.netflix.com	TRUE	/	TRUE	1801853646	NetflixId	ct%3DBgjHlOvcAxLKA0nK9U_j2-JcWSSp8i_D6I2T8hnUlk1yw01pGLqFSXgAwS-osvL91XnAVvw7M5tnRwPJqwpE1j88Ct4F6p08gKoSoaQZ_iKZFl9SSdB7X6QU_Dy57u88m0WDXaLp7DVuecludXJq2ujhWODzqwAB2uFFHf52VsNAh-6fSpwpO5siWnaKvlVfqRNwX-OAzPMpOXosBiC2hDRUwYFdJD2II_T1v2EedatIq3Ipgob1_weg0YmzWaEV73OchgjvrAEztJC6f3CAVWkHMtAA9POOTxpkXl_wtLto7e_n-TGcBBYmAXMaw2w3zBq4y136egBvBlhIyw-4LsTB1HFsB9suKVnD3pwon28xQv-gr7n-KPnbDBokPt9AsHNm2DKbhc1zNfR_ZpTOTITaL_AGR6DWin_FhEf4z0j84BfsSErcK_sd6e-oBedgtRAaKCKiPQR3LmWe2A_924j1LizHy2rh-n_jN0xwqvC4v8Gv-027BwuRpMUpXWvEQuA3i_tbGgPoW0zaKnabLnsSu7j9bIAGbxQinMvY8aOrccfHZ81dFSe2GzVJmn7DAs8HfVNnu8YogsZaZH9XN-4EePvnVsVpZLlRdnxi0Gh1qXW4GAYiDgoMk6IVoj4CGje8JUgx%26ch%3DAQEAEAABABQaNkZv6OxjNYA9QtyhLwGU-EhB5zo-6sg.%26v%3D3%26pg%3DLBFM3WWRHFDNVK74BXJU7U5KTM
+.netflix.com	TRUE	/	FALSE	1801853645	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+05+2026+19%3A54%3A05+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0f53b1e-af9a-444d-8acb-6b5a229e12f0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801853646	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnorObfVffc55eoz6a3vp0imIlbHPbbvc.%26dt%3D1770317646661

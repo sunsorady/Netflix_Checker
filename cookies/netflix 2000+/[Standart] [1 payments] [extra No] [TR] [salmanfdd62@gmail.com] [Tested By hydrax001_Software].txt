@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 190 numara dinozor ayağı
+– Email: salmanfdd62@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Eylül 2022
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 3258
+– Phone: +905077035520
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yılmaz
+– User GUID: LX4VFEQ2TVFYBBFGZIBZ2PRIOU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804441338	nfvdid	BQFmAAEBELq5467XFPbf0YuXwpdM_BBgvt8ywNtnqyOw74UeVH4LgXFFLYE_Mv3CDFQbwd-nw13koz14lUqnHG7vwiPRodJpf_EDREmoX4tld8O26oCLttBaSg7-7lMmcjzVgMOe3EpHZ0gKd5yg_R2_rEsArlLC
+.netflix.com	TRUE	/	FALSE	1804441914	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+20%3A51%3A54+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=93623524-6528-451b-8288-0724ef6e7e96&interactionCount=6&isAnonUser=1&landingPath=NotLandingPage&crTime=1772905321908&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=TR%3B34
+.netflix.com	TRUE	/	TRUE	1804441374	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA8XnFsjdjc7bFGen90rt7yBS3w_7Z17KKj5hUUw0mCWv6Dr5sxvwqIgLfQeh51Vdsg36kn4VHZem6aQIZQ1uRqdd9o_ImdtLSZJFc1xFO7wWvEZ2ZG2yana0zWKdKH-w0KKShQ3i7wmPqrXDx0vJwsOW67QKHfAcop-YPiEjhOdnS9A4rRopcsP3wOSaJJz_5MBHaLj3zqG6-a27h6RImh2_Gs7hPoOIGnV6kXh8DwRZRmDgQw-7vQkUHeJ-EVcdPpoIrCYb81mHuXJTMIdbl5usHldu851zpC3cmCJYh6Y4kSxKugcaluGgWw9k7yEuUylvSbBk5B-EPlhs5ubovtjXH99d4yuG90pcl_mHW9YnURUcxaGZaMdLtxyxPsrg_oRw9EYHOOYoh0MCYcdQtFqfwmgBVzEKGZ22Ve-eTIgbrQ-Ei90PdyQY_VZE9V8osMjrFuzjEFTeXASDgCWrtERFQMkn7MRzXyH8XzocCHGPyNvsolM9_HuRLDa-y_q2wgqPUgYYBiIOCgxHukNo6Lr5ii6zVPk.%26pg%3DLX4VFEQ2TVFYBBFGZIBZ2PRIOU%26ch%3DAQEAEAABABSZZv8RJ8cUhr_PJo3Cwjy_beZbF_MrwL8.

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JANUSHA
+– Email: chamaranuwan65@gmail.com
+– Country: JP
+– Plan: Standard with ads
+– Member Since: January 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 1196
+– Phone: +818096420824
+– Quality: HD
+– Streams: 2
+– Price: ¥890
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nuwan
+– User GUID: ICBH53KITZBMDNW27BKTGCZ2PY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808739643	nfvdid	BQFmAAEBEGj1JdIGhBiWOy_IDYJXCcxgfRhV5Oca29Uo4YEV35C6GLS9BDvGIEJIjRp5lQaNO0-CrnHFWSaB1ayriIdupIh03h57pOdVB7-EgI0H4YnOMcK0G8T02TPG8sLyxHfOEh9gqPEL6z8f15JpSx8IwO1S
+.netflix.com	TRUE	/	TRUE	1810688740	NetflixId	ct%3DBgjHlOvcAxLPA_FJZCjbazZALSZ2wQUe08i_q7wiAMt5Kv0zwaJfrpKkSaIuPA12mNkulZprrWjpyhSihjUpvtP2rE4k9UFQJEto9nTeEOpHUsiH2PwRVjWK72HlFFA0VV9OhoSMYAS4CGnHGniqDUxLLGmdL-FS7gfhxXS_CdnVvX3neatqghshZOlK4HQdnyeEYCrUz0Thk2AFI8dA3UBQfkbdkNr5PXpEn6v4An8CKQeXEhhAznWCoynSq5SFruPtg21vto1nk8SRWW3wVttbmkZhUmJrPR0-Q1hO8kRzMcNX1QNXcHixE_Hb8rfsIUd20zOUd6fh8deaZIGc-9Lbq6bSnm6jkae0dyASAJJp4kldUhnf9o9jm_MhFfYPVjyIvgVnIQcH_Q_jejYOTLCFiNjSLNZV10FqExLQlCxruBEvDjF4ksQRijNXBSi75hqrcg-zmUOMZlUMnRp5CA1tygrKqag6QdBfPTwx_xExRs22wUtQzUhyb0qI_O7-NiubktXJZt9Qt0vvTXMepd8LLQV11CEizWZNN_smoR8eTIhoHdBzVrLSUWdXHM3AFkzdK25yyNnMcT_PuPz2ZR7MSjnqz3X1B9jzluoPsdTO3fJ1L8bshGMYBiIOCgxYEo2AVCDLJM5UQNg.%26ch%3DAQEAEAABABQlRpoVILVedNc7C8p5FMHvQRwySxzVFkU.%26v%3D3%26pg%3DICBH53KITZBMDNW27BKTGCZ2PY
+.netflix.com	TRUE	/	FALSE	1810688741	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+10%3A05%3A41+GMT%2B0900+(Japan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3f4f8096-1cf6-4593-8ffb-60a1a57dc8e9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777203643602&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810688740	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQw838nLMqHOdn_l0nxZL32-xXqOQlQ4LM.%26dt%3D1779152740707

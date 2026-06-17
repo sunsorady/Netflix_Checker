@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aliha
+– Email: deathwitch7474@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 6810
+– Phone: +923072900954
+– Quality: UHD
+– Streams: 4
+– Price: PKR 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aliha
+– User GUID: 2BW57PRN4VE7TJNLT3FVJIUKKU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808205411	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA984L5cyVH7V-orNpSv2KJO-uHQ9K96H33VtNkkaDXwWBN2tu6XxFu6QGQwvUe47ZTaSgPbHx-RxR159oMrFdqsrdMn1kIGDox4anChYhqlo1puJnMtljhSOLsw9JstKM3RXkNAqxtIVmADgdnA5T_-sC3eZCQs7CyvjigZG-gr-How__J0UaOS1Er6-zIQEtTo6_i5bv6iKfsjWUHgd6gMenKOyXRVUQLbQYA55ARpoquKIkYCxmNpKlQ2iNulQxP5wd2RCublhnKNl7CU8zFnWg_EtrWVLeVuDVqKDiq2ZTS08xkfczc1tU9Bq3ZBWK4H67_eVrl4SMd7RxAK9iAfYdS_OFe9TPLObUmvRHwbguyG9SJQVMFO21zOl5WIZyU6oeUBRgaUS3Z6Erwl5ZytJdqZr80Rd1PHCNPcq2AoKsTN0XiRpx-SmpbDtwX82KKH3zz9txri_7LzdR82KMxoXQFZdJ6jOxASDF-6LqRWLnkZ5M_b4IONkwLkPKIdUAM5MICHgG5Ih5MTvaqdEwdptoSkQ2o9VvzbzfIm0BBgGIg4KDA0Kb3ZlFISsfNB2mg..%26pg%3D2BW57PRN4VE7TJNLT3FVJIUKKU%26ch%3DAQEAEAABABSn2ljACpVJ8tP6aIdRh5Nk_ZPYilkejPA.
+.netflix.com	TRUE	/	FALSE	1808205413	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+12%3A16%3A53+GMT%2B0500+(Pakistan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4395acfd-e6d6-40bd-8309-a7cda86e18d4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776669411064&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1808205411	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSI2tAP68UNvtBaP9BqNGfNAl5cUJPIWXw.%26dt%3D1776669410793
+.netflix.com	TRUE	/	FALSE	1808205411	nfvdid	BQFmAAEBEA2gN2XAW8OtAFRDqqe7azdgA8GnoeVuZOCerAaKwxdaibXhi_t9k6tk-ZMpEjC2i6aUJ5kv8lZObWMBXWNw2CE-e9TumfUsPUEE4em-ZlTDLGpRtJeTf2aaUFhfcEo0POSI1wp-ipAK8taezPHVzbva

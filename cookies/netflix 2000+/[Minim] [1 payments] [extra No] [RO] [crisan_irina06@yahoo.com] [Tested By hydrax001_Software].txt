@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tudor
+– Email: crisan_irina06@yahoo.com
+– Country: RO
+– Plan: Minim
+– Member Since: octombrie 2024
+– Next Billing: 2026-07-16
+– Payment: ORANGE_ROMANIA
+– Card: N/A
+– Phone: +40759439774
+– Quality: HD720p
+– Streams: 1
+– Price: 5,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: crisan_irina06
+– User GUID: IKPWYRBYGZB2PBNUD5ENB7Y2ZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803557912	nfvdid	BQFmAAEBEBDGiN_4oa_6Gzsn1mUG0Q9gu4KEvvIdSW18qyri1bpYcYRVI8EwtdjrxTAovt4Qed6DagI8wV3HvaBzzhaFlzsAF9lQmJNnA151naoi2fXRiaNlkqSzhhcvUrZMo6PIuFIANTEZ-TSM_lvwuMWJq6O7
+.netflix.com	TRUE	/	TRUE	1804605181	NetflixId	ct%3DBgjHlOvcAxKDBMwdoWpqgYLTkIIJzi8jmEGbX7gVKkBNhoD4DJmGONDcB4suHlcy9S9UI_SwXtm46OypkXAUeJE4uix2yaZCNUr_CBab2QOaOCis6YXlcBSMniHAs7_WwMB3UJwP6yKq84EWzFT3mu8VZn4YAFAcsS3DPX6WqR0silOqn33_pusLhhnscQERtUsZ0dLaa9UYqsmrVcYfXJ9rV_eoV2r60cleVOSYqUNxM7PiUZdRl5664392LBOZQTurYLSHSssjxGmM4QokDfdVAlrmi_S0_ja-Bu5Z3so5aiId4xJo3EJ0SCLhiudk1DssvuzzOfekBufhjFmGrB15zX9_38wJc0yoTyqBgmab-penVNtPPCBCvXI1t8u_0OZyO84-da7P3aQAcV8Z9MYeDX9kfgR557PnztXs-IEqOfSfXY7EbRvuwEhhJox0pJRlR4-xjJgL7muRdtPfiDMe22b_sfbUUZKFhkjIUZ-JAw8AwLTnKDOUQtclyGZodvj4y_sRtQhSWuGwmbLEjl-P5fnj62LJckZpVe19wiHAQfF3J550kl_uTIq9BacNdemE4UZL6332Vz7lkKSE4JAqe0Hz_oxCvMMwsk1FHmpmReY_f5I0o0-4OR6FRNK0keGeXU8Fi1j8Y1DrirJGi84qOE23NeCgGj1Fw9r7Q2vteaNrDkfDqW8j2aLEGAYiDgoMvkCodbUnt3mNsXf5%26ch%3DAQEAEAABABQo-8airoi-iXOwK7dW2wEge3u16O-1EB0.%26v%3D3%26pg%3DIKPWYRBYGZB2PBNUD5ENB7Y2ZQ
+.netflix.com	TRUE	/	FALSE	1804605181	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+17%3A13%3A01+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6d8e667d-c236-49be-94f6-3d66988a1e71&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772021891673&geolocation=RO%3BAB&AwaitingReconsent=false

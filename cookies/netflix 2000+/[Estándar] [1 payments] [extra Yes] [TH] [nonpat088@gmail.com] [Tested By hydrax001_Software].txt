@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: nonpat088
+– Email: nonpat088@gmail.com
+– Country: TH
+– Plan: Estándar
+– Member Since: diciembre de 2024
+– Next Billing: 2026-06-26
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +66803692801
+– Quality: HD
+– Streams: 2
+– Price: THB 349
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nonpat088
+– User GUID: YN6PURJ2GBBI7MAOP442H6VGWM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796902573	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA7FnZ9l4ea48AYFwVTspJ6okCGJ049-80vihXM7JdBPEWY0Qac3_KVkHtJTJMNE8uM_B0p8NxBbXYRyyC9dwzpklYDYcPLB6eFE4U7X4VzUhIppHwvK72Wx0U7b7zlb4KQ9IxLNkqauPO2V_Cu8EcF9BchE4K38DeK8sd563ubMJbj64wzkIcHLXJ_ZQNLbE1moMiquMSp3mi0kVHwQVfiEP_ia1xEoRdGrv3KXdlCOCvSVXUc0IEpTPRL-zcY6QTRflyOPC3xiWbXpZjk3xTWnhQq5oRw9LvetZiF6yUqCqQRb5_A2PJzeEHPw7wmK13Yskj79qR1lBAJ9wOuAte2QMmotsQP1thTNP0IuyMv4s_J6lV4dlKpbfS9b7dQ6bxWqa0jtvUzE0L4fN-DEqD4UPiZSFh6zKCUCNpnB43mhPYBSA2mFnvDQ9tUlsRMlS5WpoQlwuG9b0U4kJkX05-qdxM4Hl2tsS4zRLCnySmo7rfLlq0FpTQDXGI_Ei_FOKvC2dpZsxI1zI9xgGIg4KDAafUPNahjjY7Svnsg..%26pg%3DYN6PURJ2GBBI7MAOP442H6VGWM%26ch%3DAQEAEAABABQcFd7ykNMJMMzdbIR0AXwoeDpzxzEu_N0.
+.netflix.com	TRUE	/	FALSE	1796902573	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTk_wVdN0YREI7V6fa99gnbooRkGTPwVhI.%26dt%3D1765366574346

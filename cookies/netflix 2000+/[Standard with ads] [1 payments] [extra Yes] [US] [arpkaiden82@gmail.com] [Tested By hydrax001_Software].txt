@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kaiden
+– Email: arpkaiden82@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: May 2025
+– Next Billing: 2026-06-30
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +13528072933
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aubrey
+– User GUID: C63EZP3VOJFTXK5NUSEOJWK5CE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEHsOByE5WGv5nSRV4xAxwoxgwZVd-5LakWDyiCbHQOYfYlJO8fUOm3QTp-fgGFLk3tPukFyuX5ccETWJLK6PlgK0Y1OAupm4FbgnvYKoEyyMUmwXWEQdNAInGXWKmen_ciX2vzv-qa4Dz5Rk3hYPd-Oy
+.netflix.com	TRUE	/	FALSE	1791163552	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+04+2025+21%3A25%3A52+GMT-0400+(Eastern+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1206729-be2d-49c2-aa30-3afcb8d79f2d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1791158667	NetflixId	ct%3DBgjHlOvcAxLbAy2OaExraD14EbKDJFCJLC5MXTRQ6EF4P_Vhghydmw8f-Ed4li73T6WxN-pcitEot36WHp5tNvXKQFBYedzSosv5d_SCm-dzpiSftlNCMRBTTDYoM4QSfkiyKDFth5NgfpNzMT3cfbMcL7ji2YwuH1qU3YVK-KBC470S764fUlPRgyY0p9gkfQgDyjLLFfK_BBZ4IkwtAR0v1bQCth9NSTBHHVZbATqbZ8taJ0csFdRz9Zt9N-DoIg9MFueAF-3JB8m_zG6cT36-BnitvgJOEXNS6SEkg_6E5aq6N1-ANHt_x77B74z68ZSA4Olbv-d7rRogLzY803kZSGACi6HtEeAJ52gUw09XES44q3z1cfrnmxTQzCQjMUREtK_w7hCZFJ9EYncbkniuFlRDWcpGIopX9a1R9rYIaihU9OIB4-ybg5OJ6jH2xMVM9tjzeAOXSUvKn9qhoVdZ2YfaP93RFuF_yQh6uHVnMm52KejwdIg9skbW8k09S-d53oISvkxezeYf3TUh2NC5QQ9pwnyiAxN-MwlCW0g367DmhwKIxBrVa-f9z8b8JDfzIoqZfAeEWLr7N-2x03h199PXwv5OOMRqvly0YpQZuzq5y1Gc7W0bIYOG5oUXRNI5HgYYBiIOCgxJZhj_rTzika1l9DQ.%26ch%3DAQEAEAABABQe8MFmssNckAyNqFrCnVHa5OYQtw_T_gc.%26v%3D3%26pg%3DC63EZP3VOJFTXK5NUSEOJWK5CE
+.netflix.com	TRUE	/	TRUE	1791158667	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKu8fZPCFImOB3f4P4j1YIA4f2swvkWDQ.%26dt%3D1759622666293

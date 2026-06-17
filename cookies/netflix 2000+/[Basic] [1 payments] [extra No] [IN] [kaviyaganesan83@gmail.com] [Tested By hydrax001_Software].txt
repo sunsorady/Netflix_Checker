@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kaviyaganesan83
+– Email: kaviyaganesan83@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: June 2025
+– Next Billing: 2026-07-14
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kaviyaganesan83
+– User GUID: 4XM6CRJ2E5CN5J5EICZOCELFXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800637301	nfvdid	BQFmAAEBELEPcz96zF3HtyqjZn3BHU1gMDgtwklIRuZugi7AKLgO7g6lNTYKzFdIUmDq59QT8MKMsh7ee-M_QDmK8KAE53WhXu2sAaDuN4pBoHqc4E-8WO6YzEgCm_gamm1nDkP64dPqMcPdej5oOD16rVDI4qwt
+.netflix.com	TRUE	/	TRUE	1812963677	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA0_U-279ymiTwGGmY2WXcOVi39-0emPaEvYzEOAmSGvuNvwA5dS_9rFIDUkgzM-fUS-v9j4LkA9FRVMIJtB-qvO6us3as9Llt6x6RNG2PJFkGEMFqBM-fy8EccqzPz53WV3QKiClhq2Wn7pBsJJH8m47N5jWT1wi03UbTx_Jh1SnyncSZ3r1-BvNQDZdyxHMYIhuqQkSC-TSc07qsMb9qpg6p9pJ8ISX26a8dpSbOpvfMiL172WGFttl6pPSj7w1ZNDnkLIYrRI7bJmrw2_6WhLKq5XJJZcdjasE7tfhO4WJOISFV9Qt2YT9-juBZUu5TJY2MBDn-HcAqJ9i_UA3hZ3ze5wtcB07Zy-Bl5mcwqPpNir1AiS0DjCn4cedMPdoMOoeY1xyuA223wsL1wvfoqyB-ZhfX2fZvL7PWGKXNF93DaYr9x6IyskE7rsoXCOS1Dcu5Af0MeuuTSfo_k8BtMQZp3FQ8xVkhDOT071oQJN2i7vg82hvorz2_I9hyahuTOKR46aH5nHgOtCOGi3OxL4qqEY1kX6r-Q6MlhibeJVmGxbCGAYiDgoMOnQMuFpizCQ6phJp%26pg%3D4XM6CRJ2E5CN5J5EICZOCELFXY%26ch%3DAQEAEAABABTEhq3XgfHCKbNG7E1uIx_J0gMgy_b4G5s.
+.netflix.com	TRUE	/	TRUE	1812963677	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSCEpYTGNwHvoZBkriiqIRscMpMRy2kOwE.%26dt%3D1781427676987
+.netflix.com	TRUE	/	FALSE	1812964375	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+14%3A42%3A55+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3244dcea-1932-4bd9-ad0a-643636a01759&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

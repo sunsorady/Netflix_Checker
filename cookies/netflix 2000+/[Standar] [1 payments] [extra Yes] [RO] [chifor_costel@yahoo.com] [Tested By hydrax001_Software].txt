@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ROBERTO
+– Email: chifor_costel@yahoo.com
+– Country: RO
+– Plan: Standar
+– Member Since: Desember 2023
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 4833
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: EUR 10,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ROBERTO, Ann
+– User GUID: S37CHHDLPRH6JBE7JGUQYPEO7I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796081869	nfvdid	BQFmAAEBELZt009-GAciYDLF1vUJhmdg2JrYF5gI4n7C5xF_lwpZoTphaZ1VM1nGDpaMjQ0Qah-Fc7zNl4yDdvbGCqd8IHwHpPZfKkBCzbSIN1Gqk4TQ-6zP9RrLjmPbGEsWKIra0MFBTaKYKJlJ8qcO26GiC_G2
+.netflix.com	TRUE	/	TRUE	1799877847	NetflixId	ct%3DBgjHlOvcAxLtA9vlQSq3Ntu3cp7J8y-cfQ5WPvFxSLo-ZMz2Fq6akBoeYpcRgsZgJWwqObpXC9iu-aD3qLpR63v3aaB83R93ICxVQu93Tvu-gppPmjA0g3wPXwFy86SElD_8vQ_Eym752PapgV41kdRecjlO2zrrknJZF0ClVf6EYiwEumpmIhIyACqG-XaIsE8gVYLPILPdpsgJmPg0A8bgks9Rn1cLJG0N6P7jQgVl6U8L-6Fqn919SI_f_0q1OshVLVGcyXDgRs0LoBWiJbyKbbm0Y-nQGQ2a7vZGeGNEFXFotvJjG0nAq2R0QuCSZDNdjaOyuMdacIf35fhCtStC3v0atZu-OJvjlkwBLEEzsAU1f2UsfyGQTxCZkHQXs6CJML9cBjLSyrBlRlrvNCEMrxGMbpGDe9qavmNhuxkUVxg0wspyJ6WnmZCpVLeIyNEDgcZPRgxdmGSoAuQ0GliVc4TjBlhZ8R2tljFBHD3tbysw-vY5v4t87mmd-uCTz6Mz3PLbhOhZS3Xgp3-2dQZ6UW8p-K-ttPe3h_N5HOwjW2-E95Z0fZfvaCuuc6T-iajZpBGfyQDItZaXmnQT65tI6R5B8HmUQV2D4WA-1L0ZDAUg0oIUoFDtiqr6BOZoJsq4Q-HO-k74-Al5b4ISov4Aov7K9KEYBiIOCgzbKKjTkkLCjZ6rFI0.%26ch%3DAQEAEAABABQ7lL9TMv2XMiL3qljg807pY3QFz3bso6c.%26v%3D3%26pg%3DS37CHHDLPRH6JBE7JGUQYPEO7I
+.netflix.com	TRUE	/	FALSE	1799877849	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+00%3A04%3A09+GMT%2B0200+(Eastern+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6bbde0b4-48b3-431a-891f-103abba9004f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BVS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799877847	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPRfLleBnp2JGdHejDHxKz97Cc2T6JHUg.%26dt%3D1768341846965

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: olivia
+– Email: estella.guerrera@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: settembre 2022
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 0996
+– Phone: +393384585073
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: estella
+– User GUID: SEE4NKDYJJFZLIC374UOY6EUPM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEII-G6hhR29W8zB-mkkjEMxgTLq2upOtg25LWA1xGsFxbTnleBpI-foK-w0a56WOEvVhL3gGK97kw5EIiPXqtlh9P9NU-GHNB3uinflWFdvhAJ0-vGcbc-BNPd-Nf9db01ZUKIrXK5oumUczN_7DccvY
+.netflix.com	TRUE	/	FALSE	1802546983	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+13+2026+20%3A29%3A43+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a81e5d99-b20b-4f93-ad46-f1dc664ec0bd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B45&AwaitingReconsent=false&crTime=1769287034207
+.netflix.com	TRUE	/	TRUE	1803319108	NetflixId	ct%3DBgjHlOvcAxLpA9BNV65HEVGNvHLcV8kvptnVX_veYrRkJLF2XqSYT5FXXXFguh-7pRDFJukPkEV0p6U1nDAo5wBV8XUtXD1M928FNFMnmNNkYMBE746PiO1ylFNYjTyOFwzAcU0JxaGEUsjWrOovl2v-SQ23qjKIzh1T4BzeUVtZDIpn_2KwoLkyIut9DPHYS5aIA9cdg-rblUh6XeAR8fXX-ZCNtXqoT-8KdEUvIrQlg-3dFHqvqmHUNIxHOK7xxG1TmhFf04MOdlC5ggWrMrYSuPTmXsEoGMwgLqMySnHE-VAE_f96-LfRPzUxvNXidjWDRaMs-b3tE6AHJAwo2UWQaQTNR_wVm4t8o0yrHR9hoLXLkMHQfPWV4tpZSHXeZLRW7OMOFOq8RFvZ93Rn66uCGFO-TjD0qDXdQkiPPcjS61ay0P8Jog1aBKONkdbY_nKXQhpoF4Q-zm5pYn9QYxuswuKFLuXLFRWlmy-Tioh6iMr1QVUZKA2yW3-qtOiENo6ws0X1TGo8esUaCwx5mjX5QA32PIzDy_lLno_VB6iIdFOJIryVynAXV-qJINmMB6EnCc8RK-AGkxYDoAr-tJx_tFkgOvp3js7P1zo8aepim0oWHdrKo7k0wUgs-lf4Kq2uqc5l3FmTV3KdTCX73grVLhgGIg4KDGCdXWDZyWXW_rYLGQ..%26ch%3DAQEAEAABABTPY0l0Nz3TLMT75XXu1b61JGCBABK_ZH0.%26v%3D3%26pg%3DSEE4NKDYJJFZLIC374UOY6EUPM

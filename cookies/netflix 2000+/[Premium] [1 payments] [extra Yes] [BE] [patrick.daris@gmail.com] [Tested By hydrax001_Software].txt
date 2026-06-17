@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pat
+– Email: patrick.daris@gmail.com
+– Country: BE
+– Plan: Premium
+– Member Since: Maret 2015
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 5535
+– Phone: +32493850989
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Patrick
+– User GUID: DU2NINSINBGO3E54ZPAZXL42SY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBECd6058q2VL6xMweSskzWctglk0CsuCwpG8zZz8NQkeSvNw7EJHHD3lXjo5QLkla0-OlSIIHet_QGltemMS37Vmnx8FMb7R2fLZgi0oA-z73emnCYmZUArvOVFJ7GVIzFlYeywurt4_TKLuAT4d-jSgt
+.netflix.com	TRUE	/	FALSE	2611582976	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+20%3A54%3A40+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0c878148-f5ae-490f-80fb-e51e2002e9e6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=BE%3BBRU&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	2688213234	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTROjloQqJIxzQrbVOC5HKKVW3kyGz5e18.%26dt%3D1770743510496
+.netflix.com	TRUE	/	TRUE	2688213235	NetflixId	ct%3DBgjHlOvcAxLmA0yhdCrWFctPYHMqHWGhhIi945p867fAKiHipFzNQRXSdGWoMdC2yDT_Cy435p3z35v2-1GghRqu8IE6VTI4m8xB77efPSIuAdOHKyIcfTQRsCF19uiugVY_lUN0DvrWHDbLlgMtSlubQ6IWq-_Aw6u_nhq9nXAELc7mqnIVJ2F9PZAvrOxJ7IVhGRIRbQUxJdSecn6LO4zdpVfkrSbtEfGFNWs8zjCohGE41A-HbK8pF10OsUWXJv-8O_VzQWN6kmGjwREpwE5BGOCLKNEHnBgDEhPu7QH_A5WFRv7KAmTRasL52is_V5iNigNnadnVlzJm0VoQOyNQp_YxM0DPsQzA8o_oq9roRv6DpXvC78CmvR-HmpXkWcQ015aTfVR6IISPjTgy8xqpDU6dF8E9bmOLulvuetf4MACqSZmMKH3-KDak5QxmcowPRb7GSOqca-0uLh9zfDTeFBIqmIIjpyqMD5yQu5xwprOprwPGd_YaRbsKy1AkUiu4UUtvrZYslQp99ATlcjvBrfppjBCW4MxAMVO34QVoV2Q3ldvLtN9hjTqKfdanqJDbRpMCgH9UBosJlsbp-PISGYNK94o873gSzMBsSfba92tNlq0YN8HRs5zrDniOaP2rs6QpCANxpF2aPMgOjxgGIg4KDP5kMLrc1quJpXHR8w..%26ch%3DAQEAEAABABRB3I_RQxC1OHM_XcU2xmynCuYrindTHwQ.%26v%3D3%26pg%3DDU2NINSINBGO3E54ZPAZXL42SY

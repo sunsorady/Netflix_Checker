@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chase
+– Email: rescfrmn@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: April 2015
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 2171
+– Phone: +15014283222
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dennis
+– User GUID: 7BZVCCUPBNC2PAXJRO2DE6TW3M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808363106	nfvdid	BQFmAAEBEEsYpueNPTF6w3UxNdj4McZgPZW07alfW6w1iVLtc7tGHrwwNfg4u59gJ4gTIFDt1G7g9HKBkQCJpT1BPKyUHpFTOkLxzN5DO8x6QzhxrLTjPnBLO8O0w--DyefS-D5bEngCJ4wDs0H1llABw77gaaGG
+.netflix.com	TRUE	/	TRUE	1808363111	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKSA7cPHzcHMV4C1QmS3aLObVwHoYn4WD4ftYuFTZTvtJIxee-tclBt3yYrfWRG9cl7QK_Sp0RankqDI6-IZjxHl4r5mAC2bJ3l5relugIBdQ9LqvkFURGIH8i2HUS4aAW7-L_nLBco4piQw-M7ytKZaXtc706ZVHRuRCfGn4svhEwtU54ix9-0E57YT-10J0PsAonPlUuZg10ez8P5f8jn7-cRaZzpJo1GTFrmSRMJwttlwkk4ChscLMxplB7qc2ACzJohXBgPTZSyxYi5CC3yZx_ExTPX4aruSYWjSBC2GhTogPq2ai8ba4sfBXFZldBvM8X2DSk0gDM9aR9sT_VVP5phNfmNCX1TlV_Q2BcoAKzXTKqK2ILSIV7ZmA3FK3NXGMi_Y_G8muvDDUQPa241wRMpHJZGaWHDFnH905EfUhZdlML8MVlseY2nTAkJpFzaDwC_x7FE6M3Vy6n_yTvzaefDfwQqpUtcGZE5p3LB_MZzDgpKhXMJuGP46uTGWazoyoD1tRCCQ5xe4vRb8cNpa_K1YBgGIg4KDK4hgsdd1eWtcSUTjQ..%26pg%3D7BZVCCUPBNC2PAXJRO2DE6TW3M%26ch%3DAQEAEAABABQBQdd0_MoyrAgTssK6EpRy6D7r8luLTWw.
+.netflix.com	TRUE	/	FALSE	1808363113	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+22%3A05%3A13+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13333e79-b129-410d-9ee8-84fd507c9c60&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JekJek
+– Email: dimkabel21@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: June 2024
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 3755
+– Phone: +639454250601
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sarah
+– User GUID: T3KDPLUTRNB23KSJJZLJHR6KVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807586129	nfvdid	BQFmAAEBEAmBIs0-OrgsGvDHFKwjSfBgvA1Irz_6VWqLeDmWMiuBTNpWJIScKebf-3SVdYxc1YcWSKFyhR73_7MgGYK6wsg1ZfnZWWPbw8dU8n58kFvroSfbaGX6SrKz1yzTLNYlTZ1PPNOCF2GG7h9nSO_IMABy
+.netflix.com	TRUE	/	TRUE	1810126310	NetflixId	ct%3DBgjHlOvcAxKABMc-7Z6OVlv-NYBK2bQgO__ghDJoekv2o3rWcSNnQRT8hXKVhv_z-Ql8i9YgnjW8V84KWT0jqQOmlyb3IBi--dG5hhuG7lMHYGntC_bX7N59rzT9V1qQcfQWsnzVGw-QM31Lrp4bRWh5Uozs8U9yH4WfYVzt8poDh1F9iGhYOogRd7Fp0m2RnkBGeHwkZxLzKDgIqgcNhX5jCRoUf1gEs2bDmX_mXMDfUzfa6uTyM_bN43lWBWW72GMGzPbMZ_ArAD8HfqBAyw0n23nlLOZxXAJH74bI8tZu4NHSXkw8D5oTmGotzAxUtmhGobaILTmLCTVd4SIii1TMVNtcJxNW3zMTMR2t5hxb2ltTU3cyhZUJNb2ryD8R1KTyHQg6YqK_t_GfIO7GFcWRqLfqCks9A392oQQQI2VxhrjkZeutDGiBlvRAo_KhCvCOKCOTLFAvAMFxYMvEULUv4UR-Yft6kmVuhG_K7MZiaChbLJ7-q6aBN3ZcqNvjDB6tDcy-u80ZzNWuRx6YivYFEAGRHIlTysOMJ3kG6w-SQT-cg7iWrmE2O9JBp-cXpBx-ZgKfhoHC7Ui4WJkSGxwg50cjG4krwRvqV6NYNSg6dtiGC1it4fbYIXiw9IL38NI9P1vLhOqnHs9nmke7Kon2NteFOwTjKohK3vL9oSoD7oql2K1V2tHHGAYiDgoMta9WWVtOxzJ7IGyU%26ch%3DAQEAEAABABTomto7Buh-1tnGtSk5BPrK6PO3JJUZVSA.%26v%3D3%26pg%3DT3KDPLUTRNB23KSJJZLJHR6KVM
+.netflix.com	TRUE	/	FALSE	1810126313	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+20%3A51%3A53+GMT%2B0800+(China+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e101d91-8b22-4e5c-b66e-c21ec245c5a4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776049876597&AwaitingReconsent=false&isDntEnabled=0

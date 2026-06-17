@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amine
+– Email: hicham@nafhi.ca
+– Country: CA
+– Plan: Standard with ads
+– Member Since: May 2025
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: CA$7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hicham
+– User GUID: NRJ7DSRDZRELDLBE3GQPQFHWQI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801013297	nfvdid	BQFmAAEBENQbme933h7aiGCDM9lVAchgaAP82-WY37R2-U9Bn6fJsJYO-e4bb_IP5mtDgRshai83NuQxKFYPrOKvhWORs3UBbHILc051iKKGUK1LZM2v8sgdCtZa586eLdZxJsEwwDam_CwQPYwx0ZCDPSYicAgh
+.netflix.com	TRUE	/	TRUE	1809729926	NetflixId	ct%3DBgjHlOvcAxKDBEJYndpkPZJiBH33p9vKdJnmOKOPU5nSX-9ZqyA0nKw9wDZOjYvt29U6larfvUEMYNWKY6wgNEpu3b4PkLVsnQD5fjtlocPRPePWzaOjB2d82T8az4ysFeJr2muT6yLUNNFm_ZH55DdKw5ZUwrrRnpLeKCbXzycsW8HuBXvp93FplZPWpwOZqYgf5HafDPEwc6zdW9PHUZ_8P1ITTfl_Ygq6wuTZjg0kVM6IFZpFzubDQDElExX9Q0rezBdYxc4Ee8eRVCsLH0q2R2jql9qZI8rL_iebXRuQj_wzNPC5vzuDz_bB6-IUIKZwFnegknjaTG5dyobzVjVHnq7clc2hJnPElBVfZkyMPqJu3rCDi_oY137sndIjM2c0-8Q9bfMBWHDjYsoyHpYZIJyDVhIpz17qBJ6ms4pKmh9jFsac_iJkcrbkUyOiOxSY3yNiGIgLyFb-AOwSKDJs2Wuujv1m-aB8_-sFDCGa41om1_oAluN0tHIJMrJWViF4dwJJFVHJ2Bk9bXBcmBT-4j-o-6DB66Rgug7nIidD2kKSk5HZAMqEegIPGd4EzIDCfNNHqGPXfEYtl7qSGlsXtPJ6WDgRTT8s-VkGp-0ixWm-_N3AevWXX74_vszHayUgh4cL30OliM61SnLTGdhNMEhN5_HFLqkggHL36yaZ6pMp9MQYYd_IouzyGAYiDgoM95hcJpOmqXQIVTOg%26ch%3DAQEAEAABABRIhVh89nNUqIG3sWLkJFbRHmFu4fe75VQ.%26v%3D3%26pg%3DNRJ7DSRDZRELDLBE3GQPQFHWQI
+.netflix.com	TRUE	/	FALSE	1809729935	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+18%3A45%3A35+GMT-0400+(heure+d%E2%80%99%C3%A9t%C3%A9+de+l%E2%80%99Est+nord-am%C3%A9ricain)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=94bc0f36-01d3-497e-8916-953833d9be25&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BQC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

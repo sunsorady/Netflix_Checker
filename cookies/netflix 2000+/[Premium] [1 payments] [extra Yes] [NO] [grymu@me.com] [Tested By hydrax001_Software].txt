@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mikael
+– Email: grymu@me.com
+– Country: NO
+– Plan: Premium
+– Member Since: November 2016
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 5412
+– Phone: +4793025677
+– Quality: UHD
+– Streams: 4
+– Price: NOK 189
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mikael
+– User GUID: 6FXHHJLKG5D6HBD23BFWN56SLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804861286	nfvdid	BQFmAAEBEGEfMHVJ_2Ptc-Op14z79_lgnLdh63-pBsWWhtx4zG0XNLpCtuoHWytoX6zqTehtg-mz2fV2LLIHUd1P5LER-vbfn67GItK1PGFXxLfoDAKhPGxmzxZEVoOJtPj9aGmP6nblOGID5hNFM1UAhwAn4wLY
+.netflix.com	TRUE	/	TRUE	1810637803	NetflixId	ct%3DBgjHlOvcAxLZAxBOPVLt_gGZ_U8QroHvmJt7Gm_y8cpuzrxn0eKCROsOJv1y1SSVwyv-fjMpbbBp0qWsRjojzKUuBrGMDV5K0voypYSBRedk1w7U1TW3G2u7Y1kh1yL5XojemsrqGT2OsYxnKPjW1B8fIF_j7LazTCdJ5l0NBW9Pc-j5mqPeEG9DTnPjFLJjeLIeG3wB70V6aqrqpqpN6N6CjdSyCC69lAQbH08jdktq6_NLr_9AdbRDm9yrg_w9HHAhoTwg0NyyMRcgRvmq5tZcnNd3THY5NnGUYFfZVMrHhko9YNh7McQTCv9ztlyTA06nnaFpYruw8PBSoB9aKamxCtBIm9s3mFVn-bDxq-_YvPY3d1FH3HtZ6a2diAMWFJqDBC-oUUHO6qs4jjfVwo04K790ZoNttUcxzTQZnxfeOA41F5D6nw6f1XbdnUim86cU-OhjZjFfCs2lpGQqo-U0sR70971xTzhJeIoRaRKTChOSGVPC7h6LXmv32DOIikNw3Hca7DnB5u3mzon8YLj2DhdCzNfefOk1GjViuvRXFk-r9_hl-T6zSEkHEglTrtkRaBRT2iysPFABGZX-9x7zvs80uoptZ6lIe9AgCttI2PE9GfRJTUmiv1JgMBaQyi8aGAYiDgoMZVNrommrUaASHWn2%26ch%3DAQEAEAABABQat0S8XFMQIC14sx8KWxY8zQc0H5JZRII.%26v%3D3%26pg%3D6FXHHJLKG5D6HBD23BFWN56SLY
+.netflix.com	TRUE	/	TRUE	1810637803	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5eoKGT_YVt3A76v5OVX-MSunFMmlcdf4.%26dt%3D1779101803553
+.netflix.com	TRUE	/	FALSE	1810637804	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+12%3A56%3A44+GMT%2B0200+(sentraleuropeisk+sommertid)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cabf47e4-2526-4054-9a31-1d256ef9ecd5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1773325156169&AwaitingReconsent=false&intType=3&geolocation=NO%3B03&isDntEnabled=0&prevHadToken=0

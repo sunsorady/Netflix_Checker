@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Powerr Net
+– Email: Surlepontdavignon22@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: November 2019
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 3795
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: httx
+– User GUID: 4QOKFPS62JCJLCJL3G6XWQDRA4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802873222	nfvdid	BQFmAAEBENtuLSEyzOnpk9gWZi-Zb5VgRksZWRzlCCiECVJAxUl4Krm3zNGgThe3PRAuGj-YnBhv7J4tmEVfrimRXirbhpAfG4ucr2Wd0Hw5mHvShvrnVYthL01M7-VDSBeVPBSsBGQdKDf6j-pOplmNmRO4FbP0
+.netflix.com	TRUE	/	TRUE	1804090668	NetflixId	ct%3DBgjHlOvcAxLtA0ge0NWk-tjkqfulEQkot-OyFr-WjopqqkwyhAc709AWzipRdltBj0CeS1_NXNPfEmcwU8wpekUKxiXEPz5K9f_fndAGszBEvq0zQzihOL54y0s6dxODO2ftv4enY_NVr-hJFymyf0omnSYss9ePJIq776fYPfX3_6fTr8U2BP4X_kXsq-_ow-mpjm4p12aNHBaZb_RtyM8Ivbsi4u1dG4a5mSXFmV4PQ1fpN4RfnnL4NRgIdqtaBaOB0Dw4NrKmo7twTMCm4PH9NMqN1Zl_CJiDN1NSlD2iDfloyu6eEdAy1hA8F8BjTlS7JuGebmGt9U9QUXr0_dbJK5VVROtbJE00rWdZOgMYtZ7HeewSM9M6Vk67ml7UcmYWQrL8LemiieCaTYE9-ZacO3bi-Ac5-Va6B5xZAWBnCN-HdQB4kKWVSA6I5VNZe0wjUMyaHNvxc1Fq7Rc9Ymh5MxMJ4FvGqd6uxC2dE2z1eVSinCNR1wBoNv6EmJfCXM-KNkMO53qLAsN8EE9cM1iPAXOkfMiRmjGMfIeU-EAEAaB76bJ5OeHPLwk6tCD0OUSsfdtUYcUanWUNmd_RngZvQic97lFomwvg59W_9iRgGpNlzBIBiZ8qyvKAxBdIYhZsHWjX54UQpwxAdVeK146B0F8GH0cYBiIOCgwhfSlhMyv7smKyRnU.%26ch%3DAQEAEAABABQEeM6ZnMF17BmaOP87Rik_Y5BlN7R7048.%26v%3D3%26pg%3D4QOKFPS62JCJLCJL3G6XWQDRA4
+.netflix.com	TRUE	/	FALSE	1804090671	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+16%3A17%3A51+GMT%2B0000+(GMT)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fdc654f0-6a4d-4226-b21f-f46f94ba11c1&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

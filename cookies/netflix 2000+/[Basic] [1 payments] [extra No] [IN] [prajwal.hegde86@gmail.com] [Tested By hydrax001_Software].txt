@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Prajwal Hegde
+– Email: prajwal.hegde86@gmail.com
+– Country: IN
+– Plan: Basic
+– Member Since: February 2023
+– Next Billing: 2026-07-15
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: ₹199
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Prajwal Hegde
+– User GUID: CAE7CFVS35D45NOBHFLGVQJTSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785506688	nfvdid	BQFmAAEBEKUeJNLD6LHX6fIRMJEzRadgb_4p7nVgzkqMhKRUA2BC1NqEHTwpM02l1H3ywoRjNe8VJsp7iBHCXoj5-PfmgExyQN2eX-5cdIW8RDskUsRR7fF7JH6Crrp4EHKAEsakH_UP2UvhTMIRK9q-NKaDHmZl
+.netflix.com	TRUE	/	TRUE	1808465637	NetflixId	ct%3DBgjHlOvcAxKJBPbxDRzFeR7LdVJAtojFWQL4nofzeS0EtkCgQPPeWj1iKrcI1zP_4myfLml0vt4gTBrXihR4fawALvv_0UU4FMD1i_C23ujbdq6ltyggiMuwEYPZCD2oqua1hEik8S6KsgNqPIifPd2hxSggGOGfkslIWrFJvLOukNb7l_2836Zxi7TlTS5Mk-Z0JVtP7HLroDZmxy-7HL3JgQEmfxJNQMGm8-irX2Gv8rqGbR6jqM80gEM-fmTNzAR2fl8P2Hhrmz1Ub7zaWsEqzt-rk3u68slTOVDt0zK2T1nSx0VN4dfK09ImIiNy9WrIXN5U1aHYyF4Ykmpg3jd1yWpspao8oJ1yMW8Cm9FIyB4gJKEeN_1KqGTSDkebcQSqGhwHY5hgfKDOoPzKiwo1D8BidsC8vWERDFZqjqNkQkFquOc-PgOP_vtOY7rxVzH-P3K0H1twvXoiNBopBephjxdt8l6Oeby9Q0czCdKWTSGGkoKlnNecH3tQmx2poL5eZ6sKYI5qCG-Q_uhZpWU0a4xxs4fVMqhH_wbuOhYtviigDYk-AWYyFEt-v_dNLC6v-WT_MGKUW9bHAkOqC_ie9ouWcIUSNeuY0PB_0P7z1QGz6DZ9Xgt_dwpGtHwOyVadQISLZzu9TBZlS3qmAmYcbu-4wE7v4Mf6F8G1Q6cvSZN1G4dUlGncAh3xlVP2oXevGAYiDgoM6SDW2SIIGuK1ogMo%26ch%3DAQEAEAABABRHCpe25c15_rkBgRlSmbvwzbLXtDvuQk0.%26v%3D3%26pg%3DCAE7CFVS35D45NOBHFLGVQJTSE
+.netflix.com	TRUE	/	TRUE	1808465637	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTTxBBrCmudy_sQVXNcFCQfyuMLrb2I9Cg.%26dt%3D1776929636977
+.netflix.com	TRUE	/	FALSE	1808497306	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+21%3A51%3A46+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=eb5b963f-5ea7-4855-a411-d5441ef7e424&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1&geolocation=IN%3BKA&prevHadToken=0

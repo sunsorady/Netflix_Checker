@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: bobo
+– Email: anthony.mbanefo@ymail.com
+– Country: NG
+– Plan: Premium
+– Member Since: June 2024
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 9888
+– Phone: +2348132568129
+– Quality: UHD
+– Streams: 4
+– Price: NGN 8,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ebuks
+– User GUID: QEZM7M2IJZGMZED4QG4KZAZEH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788719497	nfvdid	BQFmAAEBEAFDB6SZ1U8mVNzHqY1zTFpgjz95W0KMule6YWWi9Lspb8Oys1k_HoWSbivC5718gegq9S1w3cMFLgh1v8VEQmKrSc42YVAT6tGJWdQXOsesc_W9ez58NVC-xWi7ebHdr6oOsBkHxbNDwoYz3cQF04nr
+.netflix.com	TRUE	/	TRUE	1810504255	NetflixId	ct%3DBgjHlOvcAxKBBKDcscmd7eb9RoRLFlOPwCqaSa6H0MOis8FXRKHoRMdEBmLjmMzm8UMcjuzAg8xwWg8aBe00wpF5xo6lycNArtXzMkvI6hG5w-35aDjV7l2wuM-1nAdZiJhJ6jetsY99hYCvV3LubEMGSVyG6yynEsfZlb0jca2_sR4jF6WhGzGXght-2900FYox0hi6_H4n2lkLw0SkUPmnbOkISczHtyAhpijmFpdH_lEU2CaOImLOn6OeUJrqxKiyQWqwVIHbuayEGyo4ggz-W21tzDSyZW22nqrd6ItS61Pd5O8AflhWoQ-_iiJvmy-81FqZbg82BOo1D7t9zAKX4oYZJcwh-2ktDcolSojtt1R4NQEPZLTGskPqaHrDRvlJvYe2kyLmGXysyBSRaRnLBFuXR3p-DJNkvG3zKQsZvn3uaf945QtoA63BO7ZEITv92TI2fced-F09nSNNrlMzX9cfEYSkW-Ep1N7lju0Op_uboy0NsLu3kDukA_31713YOuA_uIB6VbdQvn_W4CpqjLBnS4T0lg9WZe-grZ0apz7rz5WwF8Vj1RA6H1BdFOTU9O9q5apQOmKoAxF53Ses1VWBlVofwameiOqx9t3__tmpWWRysAzCTTLKlmJH0RvlcuZfYDhquox_POkREEyj8eUFHGy06_WXPBC1A_iEbCoFJ6piTASmFBgGIg4KDDCRYIf9BllyYRDmRA..%26ch%3DAQEAEAABABQJsgfSrdlEI8GHSEitvWwb0F-RIWQ2xIA.%26v%3D3%26pg%3DQEZM7M2IJZGMZED4QG4KZAZEH4
+.netflix.com	TRUE	/	FALSE	1810504450	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+22%3A54%3A10+GMT%2B0100+(West+Africa+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e53e1cfc-a729-407b-9d24-eef90d23b88d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emz
+– Email: hvienp01@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: November 2025
+– Next Billing: 2026-07-09
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639124765572
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MiCh
+– User GUID: D6DICAJVWJCSPOJME7MBKL7XDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794190674	nfvdid	BQFmAAEBEDGgIPtsUdR26Sncys9lxlxgfPGTfVFIRTSCSNpMwP0_L0cXldY_AyHuV5LVxhw6_MYzPYKidorWaubDxcHoP7-GQetCY4KUHnSNihjUIkxOlGEHKenG1bYZVtdxjWPXzbhe2q32PjNoHvIzuP7Thd_d
+.netflix.com	TRUE	/	TRUE	1812636189	NetflixId	ct%3DBgjHlOvcAxKxA-UvgyCEO9L13ziwm9xUHVMouXQ_TkaFSXH_5KYY6Jv3LyiENg1NWu1sHFKgzHlfBt87xGCa70oVkeX3HH4DLe-L8sJuYVds4DvOXhGKOj4BFdyoOSH8XsDdNSnwrD2DKu-A7ybT-MhxTYAUTOn5BLEyKB_4pzbQEIt5W7UYhkr3xhBF5m509JIjrtfUL1mPHnwNw9ohA5Mr5Y7lkOyeoSxnfAP8Vvao9t15iW9rIHXwNV1NNnvkOAOK3F7S7PBsIFKeBOxdTFF3CZnsA-PnmdcTdeWF7IcuZdC8qZQ9U549KOdjkshrNqOvhxYDpXd283eV6r1nj1pWiIyBBt14h2WL01tH7G8DZ9Wdyk7XI89rInvnaZ0KdU40kNoiCuIc4UhHQKXGIjg24OKZ8pmr8fD6FYZUMlKmxFbDktAiXxEvGa8-7cEjtnaVlXXlELQBHhLoNtAd7g4kA0Vt0PPjAAkirf7fZO6vXADENr3J3kastSbevaPu5k3wp2vskY4EYOWi3nl34hTeejHXd5_mAnwlvgo3gNinK1r8LOFoh1NrcBypQRHGvtMaOwAX3Me_kJYYBiIOCgzmyF-rpu9iMdKiPLA.%26ch%3DAQEAEAABABT4oh6U76wkM7OXkjBQqU7u47oKNNRyQhk.%26v%3D3%26pg%3DD6DICAJVWJCSPOJME7MBKL7XDU
+.netflix.com	TRUE	/	FALSE	1812636282	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+10+2026+22%3A04%3A42+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.2.0&isIABGlobal=false&hosts=&consentId=d5d4cb90-2ec7-46ed-91e8-4114df69020f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0&isDntEnabled=0

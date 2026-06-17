@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mark
+– Email: marknomark1234@gmail.com
+– Country: EG
+– Plan: Basic
+– Member Since: November 2024
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 3187
+– Phone: +201283171862
+– Quality: HD720p
+– Streams: 1
+– Price: EGP 100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mark
+– User GUID: M3URCSBJHNFI5BOSMAGPZLLCBA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806740285	nfvdid	BQFmAAEBEOPlyHAbk8WiBBDe7ruD3ZZgfNCGFYmBGT0P7W6vasb0lYPSarWb2bH-iTcgMAHC8aD9qLuYZCJrZrWhciAuOyYs7qByuss_kQRhG84DcFqkuUTksxaSVacfHcx-8QfEs1YuKYddmNtG4q_xOP8hxuZo
+.netflix.com	TRUE	/	TRUE	1811619702	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAwqL4mkciytT7ldyef9sDFJIWIhrupwhZ7VY7Wt9D3XR651-kZL3k3FG-ZQYkUjokW9Pje8EcF5GZa-rF_r0vFvdGA2zD2rAWcxBi9OBicXJR_nBL9mXQ1WyfI_AaRjUbwKsKsayMrepNQ4yEpiGUD66NYISfJkreNLPUoxC_PEhdOPB33oQiY41Y74z3emekNTtcmqJfCm_-IYDpaIp3zaV7XG8MjqLe0t_Dfm3jNjKvJGBUV0kZH8xYdXTcvQQzJwOnbdhCMJsD9cOA9My4yXA5294TEonsH1G07JiurxemuuXi6lKKySla2CiMreU1DDh0vByCkzub93AoqYPit6c8yK-5hjsIe7X6hrRQoJh7ppznlu6ziKBWEayKDYsDxylo7FuMSV22vF0gPjhzDQ-bfV2j8cY_mTYT59-Rjkd61fRILoh57JLeMQwWRtmVd86XRfSfVippNkmsbPf6zDjQfp3HD5MyrnUV7QQHNzME_aMYiZFbGQwVfzPsIcfVymRz8g4SEL2ZQmRxnz8mLfjiaezhsn4Wf7MlvmhGAYiDgoM8nhof-CcBMZqyXLt%26pg%3DM3URCSBJHNFI5BOSMAGPZLLCBA%26ch%3DAQEAEAABABTRPCPqsFkmSyTRq-SFPpSacyXXZx-dqos.
+.netflix.com	TRUE	/	FALSE	1811619996	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+22%3A46%3A36+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=64b765ac-75f5-414d-8cef-66d3c08ba1dd&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780083699252&AwaitingReconsent=false

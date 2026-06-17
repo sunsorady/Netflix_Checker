@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Boris
+– Email: b.jaligot@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2015
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 6955
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Karl
+– User GUID: BNN3ACJSFRB7RIC5X7ONO2UWKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804922425	nfvdid	BQFmAAEBEJqe9uI4DH6w9UprSjOGvNlgRYMx3vDHZ5ODcDNuDzfMMZv1HJLbD44w6Q3HO_pNpCNBRh3mKirVNwQ3gNHZ_s2up4Qb-TSt4HjLnIqnR0egjfAyCVY6j_mPNBgJvIEhRt2fkY0kdtyKb8ZNOUZA8Tmy
+.netflix.com	TRUE	/	TRUE	1804922428	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AjbbodVPxsCGjuwUbU7nI2EDgZHImDtE9XWzZAdKFRSGKoEEeONJPbnsBFuTivd6mh0ouxVWWim2s-XbP1QgGZ09nPj9ChxA468YzQo2J33rq9MYCpBvPOX-GmV4nwfwmMpLrfZFGU-FM7x2RQS8jUnJpwTtlBzihbQOt5eC6HqS-akMRo2Y1v-viHesp2bIAH-AB2MfVQs0RCt3y5l6prwCCEjlSSvttbxvRH6ZMn9IkDm_cbpWbpNCua5hxruHFwTs6eWGyUA-qVJ5eb6W0kLPG5hjaZ1RI6aYptyM9FyNI1JIzdnRCXmv-aCTKWSEMBY5aFLjrwchLlvPoX6Nt82NeAng83MXVrqkgnmVfk04v-bGAenu1nmcF7q4Wljh0C81PFestm-CtyV_DaJaj47F0Z7wvL0vIA9gazwgOwnsLCdXv2AnPCBLL0XQh4AoMta_x_ZilQCu9Vd71P2jVlxGRK83TJp-8bq13f1NON0VXYaOFmK7Dj1WSSl8KOoYBiIOCgxCbTYTiF03nUWsxIc.%26pg%3DBNN3ACJSFRB7RIC5X7ONO2UWKQ%26ch%3DAQEAEAABABS5FQSC6aqMJRvsEyTSiFb8eb6OQP6Q7k0.
+.netflix.com	TRUE	/	FALSE	1804922430	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+08%3A20%3A30+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e6d3253-bb5b-401c-a827-953e7af23703&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BARA

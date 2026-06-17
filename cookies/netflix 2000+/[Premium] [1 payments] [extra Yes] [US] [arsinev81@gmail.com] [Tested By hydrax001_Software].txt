@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dylan
+– Email: arsinev81@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: May 2019
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 3286
+– Phone: +17347575968
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vanessa
+– User GUID: BMGIQ7R4BVGXFOKVOR7G7LJWTU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1792899307	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AkcyvxlDtqMlXlX0f2I99B4tQ4mRbAkNlc7xLV91AR6siVeOrqtGSl0OyoInw6Vu6c26TuytWaSFdJNu5Rilhi8fYLSWAZ5MK883meBUw4dpi9vVe16gqKfUr0O6puAs8Maa2mvXH8L0i_CKvInuDHz7zg52_vrgzQSC0EOrBIbMCO-78XLrONsmXYHV_QW0hdx3i0MQWLHb7PoOlmooNIf0zaU7ffOeI4qzMNCE6vIaFBpzb75wj1r0cu6CHJ1-XuS5DUvkHylvtZwxVUI6cofLQb-xgG0BsltffPo1y59XHWkbTgG87Hzfb7ubgKtRBZskafZFAL_LxF1R7Jp7EGhmVDqrjOcc6OZbZnYvV2Umo_qynor_MB8aQTpnUR3ijimpQC8Ig_vaqb9ZNlNfckmH3htvB9EIpClsdTcoPvDiHDC5Af5EWD73i9P2r0h0K_c6ApKb1WJ5KlwAifoqoAbVSzAJd4Z9f36-lN4nyJ2joJNSRat-ETNiswF7GAYiDgoMvfXQsUZNgVpbonPZ%26pg%3DBMGIQ7R4BVGXFOKVOR7G7LJWTU%26ch%3DAQEAEAABABQ0fFi9Y_Tka-DgZLzUMtRpYMd3fvIUa8M.
+.netflix.com	TRUE	/	FALSE	1792899308	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+24+2025+23%3A35%3A08+GMT-0400+(Eastern+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a3afa54b-caeb-459b-846f-e7afd2ee0829&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1792899301	nfvdid	BQFmAAEBEC33HDFTOOCx3RgPHCOCNMFgHtgbYpf0bGBQmbY8M4DNTRkXx-s3vq2yxWFdYtQSz3rgA5B4G4ju_IQKEvYkRP3xd_xvphq-vy_kJTEWp3MkT8LnjxXT_qXCa1dgEy-qDpZUp62TcX3wlTKqE9sgfaRa

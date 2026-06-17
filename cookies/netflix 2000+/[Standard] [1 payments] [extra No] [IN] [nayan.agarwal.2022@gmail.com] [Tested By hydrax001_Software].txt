@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Naman
+– Email: nayan.agarwal.2022@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: April 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 1123
+– Phone: +919695443461
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nayan
+– User GUID: GW7GPDQ6NNDAHMASVN6SDGVI6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807359789	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6l26h6pM7EK0UckgSmZSnz26Xqq0X8aM.%26dt%3D1775823788736
+.netflix.com	TRUE	/	FALSE	1807295758	nfvdid	BQFmAAEBEKc9WFTPgWhkFVEemPtqq8pgzqNoBnik7UmYl4beHIfhJjmcvJvaWHJSGRKcNiWB67Yff2xH23Ztx03h7fsf5sydOLpD345cGonpynqbuxU8mj4lYWaq-2LV28NtFXK_92zjRpg-s5Z2qe-im27G4-1Y
+.netflix.com	TRUE	/	FALSE	1807296171	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+00%3A12%3A51+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5dd973a6-8ea5-4cfb-a808-d6f497113bb7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775759758586&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807359789	NetflixId	ct%3DBgjHlOvcAxKzAzFwrQwpHVampB2fs5amQyLnoMIfDzcrcn9NmYvtyTsJ3QhXW4x5A1as00mvMSO7SiyXbI1xS1f6viK0mWbIqBPpPVpWR_sOoGg6Q8Qk6D5Qm5pJfu1cBcFy7pggnFJTKO-mC0I-G3g9b3V9KVJ5GUGt4Bqm-vcr0SXrUToOayGu8MAm9c9a8bdnSUk8Yb2d0pGrREPGo4NWRFpOmJyX3k4jcfYgPUJcqu6vnDjFk1JRxtN2zPf8NHWZ65u3AjfLiYDSpBTB5G4CQbEzvDiYJjvT7jR8QeP1RkHGq1NqxNrhTs-OykUWoIzZU1NYdhFSmgSMzNMt661OOdEaZrUSNi9ryi85rXHYdeHgyS51ssnC7SY_vgGChYbXSRpJygxbMnRgR7afoBm-gmdyNWZwofxXzpRCQ2Jk1x3gjiQEcMveMzOQbOpsGb3jtNI2AbM3dbIgDGrXgdMxcsF9ZXGaq86pcG-kHkQg6SJvBRMFknZSDvSDntuaWXehJsm5Ck-ecSKr_pLyxmlJcQDCsaAoVuOaYOV_lM-0C3zlZijhUOASpQLLi6qgihXA2oDvVVGQe7Qz_hgGIg4KDIUMQxdcfP5BsDKx9A..%26ch%3DAQEAEAABABR0sxwqqE-MxkiBS3T6r_ALVKI0INknyPE.%26v%3D3%26pg%3DGW7GPDQ6NNDAHMASVN6SDGVI6A

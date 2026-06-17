@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lulu^_^
+– Email: virginie.lepinay41@gmail.com
+– Country: FR
+– Plan: Standaard
+– Member Since: oktober 2024
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: N/A
+– Phone: +33689040058
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: virginie.lepinay41
+– User GUID: QQWB65F3ORHBLLCKYA345XAL3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1787750701	nfvdid	BQFmAAEBEDFBvf6uyiWrI-H2N257gAlg1aNhzGHkCGVPGBKdJrnG4i0RLOmHlvVRgRiAPDhWlQ9oGGBm8l0KtNlQd75Kr0hiO0dcTr_6BQmSKFFJCxfs_6ZEt_8wPg6ZYGBhFxfX94xGox05a83GC3P-_5g5Hmyr
+.netflix.com	TRUE	/	TRUE	1806309537	NetflixId	ct%3DBgjHlOvcAxKFBHkgHS8rC0nAh1kFHMZqevyplafT-jwM7gI5YkkJMghukSXFgBWdV2-9uaVG-km8YI7Kx89jmjrVDjwg4FgO0DHuzVAFwVnjuZw-aidH9UR68gqEFZ7ljSJcY5FrHpB4HZLtlofma2ze11gEDmuzdbWKtLzjtBFcV04iZWfiWEU0rpU4CwEUyQqBkITy5wxx1lxTgBfTYOlqcINAw6nw2iM0pvBdEUx7wBmi4L3FGPHQldPzl538YMssjfb5kBSm4XRK28biojvhBZYoZf-aLhIg9kKPsc1ecqSQ6nuS1d1SEf4Lh83lOfN_Y7Ye8GfNATD-JW5DhvcoiDoaC79EPeJ4zWP7GOF8CMSRqUWjQbAAooS0IPVBkgB69hVHsNAakObh92BMFbNf7F0ra7IcYFRD58BtWwY-ZP0iRE5QdZzZ3rf_H7VOkIpv1K6tXFnmrF69vibyh3iMemtcj8DZOcNsrUycP8Yf2dHe3JlSLyP6-fMK35LFuNAuDEq8aGG3JLjdHoCCxTyuSxBMVgGTn5A37TxsHQT2n7wOHnwl8V7qTdr3QOy6BX1LlY5fMK8PXfxAI4zN-g_t42nM19G28q3hZZiBSEnv7BDC8GlMwZaTWL-rPHTCViQe635au-M-1UzsAHgpsxz-jAxbC16KRqRpxbFkxYZF-H88-_FMjkXi55UVgQ8YBiIOCgzPjcy0YWP6Jt1g-E4.%26ch%3DAQEAEAABABS_v4opG5F8SsNa5sA4eAqFPse3PYMlag8.%26v%3D3%26pg%3DQQWB65F3ORHBLLCKYA345XAL3A
+.netflix.com	TRUE	/	FALSE	1806309537	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+10%3A38%3A57+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e626320e-f781-4f1f-9c61-0541676a3276&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806309537	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQz_uvwuTxm75MqUJVDSCkkKna4gt76H_g.%26dt%3D1774773537321

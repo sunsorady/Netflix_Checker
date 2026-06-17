@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abood
+– Email: togesa_vobo90@camz.fun
+– Country: PL
+– Plan: Premium
+– Member Since: luty 2023
+– Next Billing: 2026-07-16
+– Payment: VECTRA
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: E
+– User GUID: Z2LC76FPNVDZVBHEXGQA2Y5PUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809651970	nfvdid	BQFmAAEBEMUIFYhcasvKG8I60CfH9F9gh1-tlBtjM56fvkhdLrxbPoPz9be5AQ8V1LBaHZ0OMzp1tDB3f1R0LeczlIGlfssimGB78bEJmtvmH4kQGV1essgXu2YC8SUKuYhk6EhHpNvSQQT7x6NsB3mMD3F0H2o0
+.netflix.com	TRUE	/	TRUE	1811041017	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA62laRYKn3k3oypShOOVDRakIRdS4Q6q5to8V7ern_PMSHTCKfHqDIWq64IADnYkiBTNFopQ1QJE2PvnevJyKWJNHnWXG6DS8Q83VxJa9SltU3gVOH3RMZBbxneHI1Zd2RD0NDj94YxqvW2X2igQFOa_8YVPxCrDglYSsgqxOGpqlo47_5YlwztoZWTgh3jxHxUFfAM6JypS4-g6sw_sDkyICWFlrf7BJ1jNP5mO-YBEt2xeoI5jAzAD95bAzOmyKFGKjmxMQ1fqDyQs_OTKjJqqql1KpyqpQwXTRtYruHwe0ye_iCGu3ACh16C8UV2EZfMzToYUh0loCUn8rzyt0IjUoZ0Luixg4Pd4DfFRAw6f9D409OEOeP7eW_P-GiEi6xECK_23SKTdeK7FmzP5R1DQJsO8Fa0nVNznZ595XOBZ2G6gVkWgQZYjjHFSAYHeQzkn9Wd1jh6WObcqNaUHMf5F1dIJThzLvso1fxtePd_lXOb_e3VL3g765JqD4IkS8XMH5h8efBZu-u5Xo3IR_nSG1aRFtQBhVeWSHRgGIg4KDNmfVvtiAqGMRdA3ZQ..%26pg%3DZ2LC76FPNVDZVBHEXGQA2Y5PUM%26ch%3DAQEAEAABABRd03jhyqS-j1B1nStALSw-0eQLeY5Vuj4.
+.netflix.com	TRUE	/	FALSE	1811041019	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+05%3A56%3A59+GMT%2B0300+(%D8%A7%D9%84%D8%AA%D9%88%D9%82%D9%8A%D8%AA+%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A+%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2142d068-d158-4f7a-a185-9ab2071f5fbe&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776646950433&AwaitingReconsent=false&isDntEnabled=0

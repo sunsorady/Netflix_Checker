@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Wallah
+– Email: fanny.anaya81140@gmail.com
+– Country: FR
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2024
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: VF
+– User GUID: FRAO4F6B7FCFXKBUQGBLJB6RAI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792000564	nfvdid	BQFmAAEBEERjKssyKm0uxUyfrbHyHNJgjKl0DA2xZS9u7YFMYbBTZUDeFWY7-bY3aXjel4ELcKEJuQoZXS8ofHoGnREeo7jvJK0qo4eYcV16L4y2zsku8WTLbi9ppC6u8kWFwwc3Wy141hMZKXiN_6iLHSqeSxSb
+.netflix.com	TRUE	/	FALSE	1798648668	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+17%3A37%3A48+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fed64d0b-cbee-412d-9bff-e8c818e2c0c5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3B&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798901173	NetflixId	ct%3DBgjHlOvcAxLjA6YtiAqhXW7W6yZl_gt0Ev0b07iwjFFTPoxWWYv52mePk6fArjrCIstNRKSDr40l7p7eRtDRZHm2KGXAmVmS7ZX2OzvWt0oLnhhSgdw5J1YNDRVrfrE9WVxQZM8zs5StFTnAwP5ccm4YNw9PTy1XXZfi4EaFMyRbn7NNjd1PrrPqW4gvSqoEeiCDn41EQOQMCtRnn9YC9hR6SUmHcgi0gAMsvs0XjuoufPkb56EbTWoy3TFFkpc-jA37bu8HzCktE6UjkDl-t7u2AH_L15OkEk3jVOxa1E6UNfF-JG3csHlKX9c_HHoG3eVfRLQcrvuJ4dY8W5tXaK8NnfAmg7PKmJnfL_SEMcj9_qpmtDePe5Oe99NSRRaMwv62l0CJUMsDwtr_tWrg5-vHuy8hDGpCXTOVyVFEmxtq_2g0R8h7uCwHWYDqbBVHFv8rZWILYNbazHQSPwKKnkr0X-LqbulB-wgGD2FU5fN8ePb1LJsnFF2iquxJZNAE3WAStj2c6Vg6pywyDfcnBL87olj9HB9QX5tRzh_hKAkBAlrYUWn4Juo3FrsrunGeDTcfsVIqGWE9jIIsZ9nzpeO5zJcNPeKY0aEOQKAbOiQ-vITcCNYYcXm_ly4PAhnAtplvUSQJvCN20dpY9RgGIg4KDEnAWbcoBDQwpTbRwg..%26ch%3DAQEAEAABABQ8fiwrqzIF0jMVBce-RcQoXrEnuN-TGyo.%26v%3D3%26pg%3DFRAO4F6B7FCFXKBUQGBLJB6RAI
+.netflix.com	TRUE	/	TRUE	1798901173	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT934SWGJ4Tfc3fIIDzQEtYw6D8B7boHI4.%26dt%3D1767365173768

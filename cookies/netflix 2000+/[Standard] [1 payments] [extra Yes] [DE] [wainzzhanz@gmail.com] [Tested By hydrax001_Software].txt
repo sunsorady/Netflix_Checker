@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Wainzz
+– Email: wainzzhanz@gmail.com
+– Country: DE
+– Plan: Standard
+– Member Since: April 2023
+– Next Billing: 2026-06-28
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +4917645922930
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Wainzz
+– User GUID: OJB67GFLK5FHVAXGV7DQIWZMLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805050539	nfvdid	BQFmAAEBEKPH4m3IRLbPFuZIdS0BOCdgjfuU8tOy_1DXXe0eqOqGIIcP9ThRFQmuqEJ1P86deUUoGi90gv8wIzq6nWGB7Jgx1Xw9e4imJugWol5zClvBFiwQ12bIKLo6QsmWd0JCZJ3b5kH7S76KKJCiod0qe9qd
+.netflix.com	TRUE	/	TRUE	1811031303	NetflixId	ct%3DBgjHlOvcAxKGBLUrud0frvdQHHKKArO-Kj_vBKvKphRiuC0Zd8-bpp2lWTfjueJ30QPM233Knj-MYOD82Ecs6NvEEwAGrNfi8YJ0WfR2q6bsaW1XYF2SWaNpkVcbeRmsikzljO0iCB3weVTDuqh3VGS6YdHp3vwyctMLirUj3rOV-dBC8U4ogF5XeYcC-4XJKaWKaGD9RrLUBOqxFc0TEhxMzw3WoonyHUR2F4uGggMq4h-lN0mt1ZPTmvvFipbrbZLfEkkmXrgixtIwZ8fJMV1RiwCIBCw9Q94lXW55KELfgrbb6equntuIqaiNnclax0SJaaLRM3VSfCxYVqbXJkH9fNi3zgvBElofPZvgH-8bMetmdtzIPnZgvBQT1PMdlj9nlViTql0Fz3VXrJdy9IVSK3hyMexiftE7JjCiwByycF0axthX98Zr_sDz4zaRU4IA-F8D3Jn8KVyYls6Bfih-XakGT4d_wcG6FSziMVufXU-1NoKy0Ml5VqYNCuML3T-R2fyFMHQUfYjH848ib2kvuXmB_10YinOeg20sbcljdvFG3N1uRxf454nAM0Bba4vKLLRFxBnHuHxQalgfrAT-hOhujf2qJZYOv7waIuwtceyoaqmgNaom7vQroF8BHY56_Vr9dM0o0BC8-t2NOCREZe4upjYtdUp6oVOegZNF-cG8zXKFF6FjOot6LMI8GAYiDgoM5ut8jc4b6jCoGcp_%26ch%3DAQEAEAABABTsyG9RSN8TazxPH1QCApvbGOJTF1PmLKc.%26v%3D3%26pg%3DOJB67GFLK5FHVAXGV7DQIWZMLM
+.netflix.com	TRUE	/	FALSE	1811031304	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+02%3A15%3A04+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08c54e82-11cc-4ce9-b2f1-97b778abddea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&crTime=1773514524141&geolocation=DE%3BTH&prevHadToken=0&isDntEnabled=0

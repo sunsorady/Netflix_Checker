@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Panoritsa
+– Email: melpomenev@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: August 2014
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 5034
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Melpomene
+– User GUID: G4WO5EBEC5H67GQKYQEENVJCLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790803638	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+30+2025+15%3A27%3A18+GMT-0600+(Mountain+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7907d70-3a52-45a5-a4cf-dd39e23cc03f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1793392571	NetflixId	ct%3DBgjHlOvcAxLqA0ofPIB3b-fzmZzuwl9EHERJTvX1v_Mj9Asyh8eyNKddTuHyujwcBwg4ijilnzgmxeF--XZWjTmwp7EcuozqmeOtTnHAyuhpIolx8Y3kekpZhnlgdMbb4QHWvAlGVtadektGm7Ix49J529LnAJIh8tQMUvT0zDviyjP0_qsJ47NITS-bJEqCdiS_5N2_vNQz7LiebSbEEBLB-S38OTu_HhaJxluonbTjb9udRAVz6wm2gRsfSCcJyW9Arqjd_7lRhJTIvp1nb63rkG5F0w4zmvmUAo8BrjTfUxp_16Y1MFhd1Lw5O_7qQL_IwTdvBNFecFudnW5ClG_-swYdWk_3XLn4DHx1B_iZ_Nh4GdbhWLJiCdBaox1gb1jUT1VBYQyCRHbOt19NCe1nirS0OMG6qimuOB4zdaLG7j3u3nnd4KjdCBtT7lxw9MnT7y4zRaLVWpSRXDAx2Fj-HC93cql3YX0oRb60wMAQaMy6WrVryhyG500oNrsXsinuKCUd5qurg6TM1n4_sM6fWZMVc4d6FdjwL768GhCzuzGz-9tWnJhL0D0fKzt3aJuEpq27DFWsWYa-xUoeTcRXDth6e6woTKR0DPd68kkJgcxWXm0qP5w1HmUaYhGrerU518Fm9r_AEKSVb5dUJoSA3yAYBiIOCgzDfMrKRc5NxoIIM_c.%26ch%3DAQEAEAABABQpnFxW7_pDlPhqLsVV_87rU3d6UpOJWsc.%26v%3D3%26pg%3DG4WO5EBEC5H67GQKYQEENVJCLY
+.netflix.com	TRUE	/	FALSE	1793392571	nfvdid	BQFmAAEBEHHgV0xAkbZl5wd_jG7SwXBgbgVznhnw-nAAVzU6QqnwbyHRs3GAM3uH57g-ohl4OeeAIpANVFMsckVf-hiIc_RsYZUMGiJQwdTV0cuxNKgyPMkb94G-EvUbqjX8V4XjoylOih-1R5a208b7zzP4KGqT

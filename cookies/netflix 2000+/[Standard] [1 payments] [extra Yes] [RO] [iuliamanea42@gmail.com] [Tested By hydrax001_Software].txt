@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: andrei
+– Email: iuliamanea42@gmail.com
+– Country: RO
+– Plan: Standard
+– Member Since: februarie 2026
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 0598
+– Phone: +40723010289
+– Quality: HD
+– Streams: 2
+– Price: 10,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oulia
+– User GUID: TIBVL3AAWJBYPODYIMCEB5J2W4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810496314	nfvdid	BQFmAAEBEFQbyKjPHhkJztuXY77F9WNgJz6mapz4U9LQiPfnfMeqVWcOZL4p3sWLRwFDmDq-IG2QKECug9IUkeOf2jRUMHfugVYKYxF11NGLXn607xTGm4dD-uE35vApZnP9igrXPn7-QH-I_NmritcJ32yBiqpI
+.netflix.com	TRUE	/	TRUE	1811796605	NetflixId	ct%3DBgjHlOvcAxLkA5vODt1NDTmeHhYXOab5G1tT5d23PU7samh3pLZiM820RNRI4CR2DRZscVTJIyQxgKnE0Ug1KXdchXa-yn36xoLBSRrAkpgS-b8OxONYW-KfIxBs1zW-jKuyR8siSim1QKuZBe5OEsDqzsERFrh8UuuRkuuaKMzN-aRLEjcE045VDUOsTra9T_GnKoTmAK_YCGgZNuI5nOqupl76NBUHhLIHU4oPMU7sdKtS8uUp3rAiaZUKvnnuXmq9WPJRqi2p3_k72phuA5ufmgUh2WKmHtNaWC8iQgz89s6YPGDaccJSu8rxi9vYRIbYLLrgml-n3DQbNUHEX3vZA3yIG4UyvDQWzPQllbP-dpW5EoxbcnGjlE73-6Li3zMld3Z2KhI6HAtEKnw8Jz6hiisQmuVxj7CVGDQwGTdGxrQY9yqXIqnqy8oOLPXcrPV79sEymYekc-XU3sr9KXKwoFASytYJH1X7P8EYijR9sWUxPwHiyatnSLQAgWa293ooDs93w_RMYwyKf9U8aQrjUq9avt7yVm96GFVkabW6lvuYGd19vD5cHCaNTxBFh3zuKoMBqDbdLkw4pgp6bodg_CnhLSC2m2ClzZ0hC0gZoUZPD0gYq0ukxQ1kQzp7wNRNH5tAeIvDtJABZmYYBiIOCgxpHtyp3ePYuhXugKQ.%26ch%3DAQEAEAABABSuDSq821YBgmDQ-ODzvTnz2R5KGqH7XOk.%26v%3D3%26pg%3DTIBVL3AAWJBYPODYIMCEB5J2W4
+.netflix.com	TRUE	/	FALSE	1811796605	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+13%3A50%3A05+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ee9494d8-0cd7-4e34-a39d-d711fb430cc9&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1778960275022&geolocation=RO%3BGR&AwaitingReconsent=false

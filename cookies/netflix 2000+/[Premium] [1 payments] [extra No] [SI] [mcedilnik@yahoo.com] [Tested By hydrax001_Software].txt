@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mcedilnik
+– Email: mcedilnik@yahoo.com
+– Country: SI
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 8381
+– Phone: +38631306888
+– Quality: UHD
+– Streams: 4
+– Price: €10.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mcedilnik
+– User GUID: O62ATYJQKVHEROI52CCI7PMYSU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798581546	nfvdid	BQFmAAEBEP9IQ3uXdY7FHavxaMkAgchgNI2mlhMZw4riuScYEF1THJOldNZkjJ7fo2MiGJUPznFM64FOPJmhqCMt6MWpJoU0SPqH_j23qKDl1tOBXCw96p6r_VClGBCldM1VE8R1MIcs8d3DghcNlcJU-8w_5Hqp
+.netflix.com	TRUE	/	TRUE	1798922984	NetflixId	ct%3DBgjHlOvcAxLZAzX4vHIa-TQM0qUleqou0HNhPmZO6fB4QaSUrDJk_XZ5weG1-lrdKRUUY1AeEalh4bfZeV-M7Rc24Jh6zdPAw15jpEUwWt4KpQyCanr9_dfkTvcCL1_qcJauY1nhp8cBflOHmuV-bAf7iCYy6VoUJe49a-BOq8mze9fmXJOXXV2g7DInmn8YADc4eCWuG1BLuYHNvlf0f-14PzEqWC_IDL1IdZp2Xaftcr_wXJNL90twC8EiRM3FTHmTPXn8jYQjxEyVXogC8QSfpF0tfrup8Sgd3psccFNsqfBXiWYbXsfIZ0z__IrA8VMdqLeO_EdsWWtsvzmmelgqiKY-BR8CwcgF5nseNhINv5a2EziKm5TnLjVPNs1jTXBcXt06LQZwZYGgUhp6kSHne1BRdkQ1hyvrHqHY0IJrQv5pJjY9u64-4q9CXeG1ws3C26nRUtvFvYPR-UbMhZJb7Rvzl6EaoF5c36iTb2B4S40cxtG0ovvE5xg_6CfpaQEAt1eU2VIsEFGZETjLeBZgKuCgWFSrw8H_0dLcNQfW7kgA1RhQoJwQrDjtVvE0lLEaq8XNb48b5nv5Xvw805OeQzhpN9ndwqEN15mRaRobsBvgGQFgnpB6nyTARTsBdCMLGAYiDgoMRr42IEaPPFmROKQl%26ch%3DAQEAEAABABRHXKa_rbNp_zYEdkcR1KIsaM7qSUez-Zo.%26v%3D3%26pg%3DO62ATYJQKVHEROI52CCI7PMYSU
+.netflix.com	TRUE	/	FALSE	1798922983	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+21%3A49%3A43+GMT%2B0100+(Srednjeevropski+standardni+%C4%8Das)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2af0143c-1257-4ec0-b7d8-ad994fcc7a1a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=SI%3B061&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798922984	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQM_jxtnkNFsTsODTb3eJukpsJrSLcXSao.%26dt%3D1767386983899

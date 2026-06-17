@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kemo
+– Email: cakacisena@gmail.com
+– Country: DE
+– Plan: Paket Standar dengan iklan
+– Member Since: Mei 2025
+– Next Billing: 2026-06-30
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491779826136
+– Quality: HD
+– Streams: 2
+– Price: EUR 4,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nilüfer
+– User GUID: MJU65RHV3JGHDJTZFJQ2TWEKV4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806786618	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AtAe9nElsex6Bn2iYTWNfsbZdIxdfPFIdCe9Cb5LbSbHzudi5FTp6WlcawNrurld5-InOHQzal3rmX_skcYW-K0rExCKYF3AK0neZ1mwmB-hwbNuD-ftC6RXes5qNeJLS86Aek6Lh5pyLz0v_aN7dRouP2VLh55FlyHPxQfcmkHP6hd8XBGWvzX70YnUijCzTCWV-TyqN3G1gp1nSeMtl-pD9nlp0mtYb9b3wsGjlIrUcoDmZ7TIxCQ6RyuIAjTpSlr-8ybLRtCZsZU7fGnyqaGhdUwyOPiSH87U1OVY1YgUECLx3Wv3g5WhxSlmWubH75gXi5jv649r1LybVD-jZrhjnm69IwkBjsaZx_aS64yXxPIFXTEwuJp5NkI1wH3uHWyNWf_B6pq2VJs5lIlYHXIPVaMmTQmC2zxW6Izdd-Xi3CS_9W-vWqOpthT7aOye05rJVHlpoJvd8gSRbZTJ_POxZ7mfqSm4vASXNT0rlmsPHnMkzras3ELQMzvTJBgGIg4KDL-_h1Q5kis3sTy4zA..%26pg%3DMJU65RHV3JGHDJTZFJQ2TWEKV4%26ch%3DAQEAEAABABRr6zixhaCOlHUKIqz1K0auyKZeaAgcMLs.
+.netflix.com	TRUE	/	FALSE	1806786611	nfvdid	BQFmAAEBEEzIO4mij8p9mpLRTcS_DqlgqaDIKC03Znk_AF6Q6F8S2r6AklC8pRNnQiTCIJRSHcL0Z6i1fMhErXiwANi5L5GIqRimkf1hnSYhSdJyfWWk1RUOp6rTWAddITqK07zeynBxBRDbKW9d_usnjSbX1ZUK
+.netflix.com	TRUE	/	FALSE	1806790407	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+00%3A13%3A27+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9d82839-cae1-4927-a72d-ccd99356728a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775250571598&geolocation=DE%3BHE&AwaitingReconsent=false

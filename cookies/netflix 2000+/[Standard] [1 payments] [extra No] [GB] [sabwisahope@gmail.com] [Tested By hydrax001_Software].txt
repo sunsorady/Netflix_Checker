@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kids
+– Email: sabwisahope@gmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: December 2023
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 3127
+– Phone: +447412792165
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MISS President
+– User GUID: CVUX4J262FHBRK72YBFSWDMP3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784467180	NetflixId	ct%3DBgjHlOvcAxKOA4xTdzp6A-Gdlol5icjHcjwp-ZnNPbbGvH21VEcikGsNZh5puir_tQgcktsPiZQOdHXyEiYNMhhQV5NQRUciI7KrhNtyXkoCKgpDv1Smylpy5rMJWAF6oAmBGx7cqYRoVzUZdzK5WZ_Zr4ZwZIv4OgGm_DO2INDp2VemeaugDvv8wTHmviNeojBV0hnVfUIeh3jS85JCpy7nc14PQstWi6aYSJVKiBpwMlSULYUhBhMbkoKhOKpwwDUUeRyJt4Ut6y7Ktf6LnqSA3qcl_8n7xpIoRjt0HK0SBWwUgu5-lHS_ESe2pVA68SCn135xFrQIUUNK4Dt2jSutizSlMuVOBTMoYQ4r3t4HNopucH98rLy1BNrgC75ShD5bwIt_wqzcKps80aRWXqdVsaoSI9ECmWF5caZd-7Tose8TH2exuHW_OK3KMcItQxfsd8pVs_XL6MvLFb_L6C13tGKypdFiUoI-q8Dk9J3rfyeKzgksA0lLuAOKsBmSTRP_00f5jjCEW6tH9hqOHQ0U6-oVYsTlGAYiDgoMKW2gl6sI-Aek5Zrw%26ch%3DAQEAEAABABRAZ4QP04O4JJICim4J0T9vY7Vd32_QhwA.%26v%3D3%26pg%3DCVUX4J262FHBRK72YBFSWDMP3I
+.netflix.com	TRUE	/	TRUE	1784467180	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR16c7taahdDpuX1hDElxdqAq3Up-fIrBo.%26dt%3D1752931179515
+.netflix.com	TRUE	/	FALSE	1784485520	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+19+2025+19%3A25%3A20+GMT%2B0100+(British+Summer+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9314db66-5f1c-4642-b853-98141772af2b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false

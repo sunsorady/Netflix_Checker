@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arthur
+– Email: carlacfernandes.souza@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: junho de 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 2847
+– Phone: +5579999880748
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carla
+– User GUID: BUAKUJMOFZFA5FHDYLYUPMSWOA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798944044	nfvdid	BQFmAAEBEKUz7OeG2QMwdf-J8bG1jBxgQP2IpXQMl_RP8i7hQQV5yEZnEmYDWKZGtUuWcIoxFXvx6kxJb_br4BJeW9RmT9GGEkOpBevxga3dqaMXWO4lkH4tTi5QwUvnDwdVyPFKa-L-pGP05ZktXekk_NaweMBr
+.netflix.com	TRUE	/	TRUE	1812040551	NetflixId	ct%3DBgjHlOvcAxKABOeMJjgdNaqv4z6g8S8_0cYt060Q8fLCL0PYCKAoe1vhpFEF8E9vv1Ykty-vruiNnLpK-_67WamvwEQ5YFVDHsr1L1oQ-h-j1EiBfSUAMmBEDuKvLVelG-E1RAn2hiESP1ikIkUtXJUM5dwfURRKMV-da2YJe4hq92DZeTwcc9j4wtN9BGWTDJoP5soAb_D8HxR8WrSVBocMBuit6xtdS62f72HTrVIFPdU1yjQ8pRBPImNySVmjteXTnKgPb-LzNAcVVXD326n9EWFRCIz_4yFQqJ5PqIhgZpeaZZlFNUaCs8ShXfZee6hTCy4TkcnIf8bJeYplExmGpe_IRDDBjbpnPd27NXuvWxsrbh7CXzifDY1YY-u_m_9HgScKSXt1Zjyw2bk-DAIo2MiQ3kGKJEPCsUakQvt75hNzXKVDYV0AuHUp7Nt0EFT3petHxLMdTZ9BpUo7fR0Y5ZX-lFM8xWtbmromYwbIihTNoSFJTLs2fDS5uCgHHT-_-_jHTciMf2wcgSGtPD2HiPjoj4ahg3jeRCqZ_bE2DzNX_5MlotgLb62Rl0bI2jtW29Emdfc9yrwwoVnfIUvZq4wLyU58k0iGF25KmJZRPldIvu61_XYpGxUcmXpBPZgYf2n1DBeqZZrgDEFA-CvHT7ITTCmy8LMeDxgDT4Lc8bEgcYN9fyXgGAYiDgoMD8rOyEB0RcMbaqg2%26ch%3DAQEAEAABABTBZED0S1gXT8xlXRtvVUpv6WUDE7Of7EQ.%26v%3D3%26pg%3DBUAKUJMOFZFA5FHDYLYUPMSWOA
+.netflix.com	TRUE	/	FALSE	1812069742	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+21%3A42%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f87d0046-9024-4f97-bbec-f9741f8cf03c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSE&prevHadToken=0&isDntEnabled=0

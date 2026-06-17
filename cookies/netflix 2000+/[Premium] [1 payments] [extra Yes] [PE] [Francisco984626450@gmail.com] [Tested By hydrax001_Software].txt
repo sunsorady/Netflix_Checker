@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francisco
+– Email: Francisco984626450@gmail.com
+– Country: PE
+– Plan: Premium
+– Member Since: mayo de 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 9443
+– Phone: +51917542916
+– Quality: UHD
+– Streams: 4
+– Price: PEN 52.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Francisco
+– User GUID: 6H6WBMWAERAO7LLEEKVXEWSUOA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788935661	nfvdid	BQFmAAEBEFTEb6rk0oOuct3GL_-cmHJgFUhO8VOH1_88tW0PYtrM5nX27cs3OOyjA1tTKKRsyDoxIaZltQfJPvQh9-3sqYjgENBk41ZbMb2tLD4V_U6gXC79AWWThSTMKQ64gdGxI_aI9-qWzwydysXg_9ZmAqV9
+.netflix.com	TRUE	/	FALSE	1810446512	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+00%3A48%3A32+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fbeac07e-5699-4ef4-95b0-5f49732c574b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810448806	NetflixId	ct%3DBgjHlOvcAxKHBC9d7KnjZEUqFNYCD_REeCwQMtE0K7_kI5XLIBhp_uHuD55qCljDE-ETGvCm_j8HLZcYvOaEkmp64vDfLS1twz8KXA4oiDfnBximgwBCKap3NfTM12KJzXbrBE1yPIG-t5_97XNoAIiTfzqjhVzf_F7rmcN6mmYsrpWTRYXO_zRldm0BaSh0fI__VccldE90HV6zQbu3w0Nt41DgumUNfAWFnXJg3Bd5iNQPUTYFdDnb-yV0ClT8adAp0hHvfZj6dI2oihNrerlOT_JB4CB6MfJrzpfXB3-_zaQ3wcDD1Ih2A2YsrE_4wMtG3VEA8QVpkT0xL6-8vHPmnmFwlCR_kvQg7tqKdTX1AqIwenh7hvuXasN3-pbCjUm-TFLpDT2uzbtUqrOpPbkPV9lLn2PLo29Npi5wBeVkfrJi_5b8itQWRMggbIZ2uhLEWzjYID7G6TXqN-L9LLGpY6gqpi1n3FGgTE4bGN4dzqdamN9QVgZddYIsDQDAIQU4xg6-TDq2ASGNNbRS3kpr_TT5TasoN-vSsg8IK8eEj01GwvOkcjIsaxaWkA1UcI869DFmiMyJO9WQRKY17m8Vjtk-sx74cjPdBJGFErZ7R-DXp_Vc6G6iA_8UL23VQAbVz5s7KKiKIDqiG3nz84CKsrqbOTrOXcE5c6DkEb8_CYVraHGBKq5FZe82-H8daxgGIg4KDANQPcQi5AGt9ReN_w..%26ch%3DAQEAEAABABT4mIgWO9FkO5QfJ3Lz3lK4n6H-JHZfsBM.%26v%3D3%26pg%3D6H6WBMWAERAO7LLEEKVXEWSUOA
+.netflix.com	TRUE	/	TRUE	1810448806	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQQBd6PTK3fPNgOaWN5LQI25JNHffVA_Ws.%26dt%3D1778912760937

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Duda e joão
+– Email: fabiocorrealopes@hotmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: setembro de 2015
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 0937
+– Phone: +554791170673
+– Quality: UHD
+– Streams: 4
+– Price: R$ 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Fabio Jose:3
+– User GUID: 2YSLWGEQHNFWJK4WMGEHSFQWD4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807796467	NetflixId	ct%3DBgjHlOvcAxKKBAM6UqjN4OCPeT1zeNMLqJxjjHNLq9fSCPbA0ETbl7WnSfupY_IqwomIjZXuO6qz5L4juZIPOWQxFYFZxWxexlasLeUS68YlAiE4FG60I87qbmBOcR00XodRCdXyA0My6cJj6Of5kgbyc-mi9Ll4YX1fCyNBo1txOC_08DGl6hbXqRkL5tm_3qlDVU9PMx3y7UcPwHAsLCcStt7BNPhBrLhIKnUZO5WFamoXb4nNGMlzTsfLR9cXHGHBy3u8OX0z17BHziyIytSsxc4SHE_5bVUwA0q9VeLmkNsMq0RditNeJ9VcN6l7BiCNatFcGnLr_LBXC9H21WhNEpd2uuI2daPMIQRSI5XejydwZH5YBnq7-9o8ZIVzhzIqmDprI7GrrJ2Lyrw8JLTsd6w0fKgndCb47xKwm1ZNz2Phd-zkTpexM-m9RbMkOsSOAjrqYOeUEYljUq6oxUiEI1O06T7wPosYfzQIrjFRy60VjMmGAcPBDVmjffBDPUngMVjzGA0NSBOsou4HuwS-q5A8fYjb7JrIBIFy0_O5xb-XAqhEsQ5bTE4MiA7O6gdVtbRa_olWaYsOOO_UA8xb47cCOD05y5OwDsHXFY83xgskvXS_x6ZLCwznZKs97IOivFECZ5L4JoHanVu9OLZDkwMfEkH2c9D4u1Eziy1BU3h6m1TZ8eReN7Z0-9Vut_1WIhgGIg4KDH-8KjfYdh_htCG7gw..%26ch%3DAQEAEAABABRqtj9yZ5EBi08UhF1XofT_5ylAfZo6AYA.%26v%3D3%26pg%3D2YSLWGEQHNFWJK4WMGEHSFQWD4
+.netflix.com	TRUE	/	FALSE	1807825242	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+18%3A40%3A42+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8bf1f112-e22e-4111-bbf4-45dfd74d9a4a&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=6&geolocation=BR%3BSC&prevHadToken=0&crTime=1774988572185

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dalla
+– Email: a81.salem@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: Januari 2024
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 9082
+– Phone: +393277807171
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Taha
+– User GUID: O4CLOAE2YFEYLMEIUQKB5OMQCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+20+2025+12%3A38%3A35+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=a7e3a522-2abb-43ae-b388-17aa49b4d437&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=IT%3B25&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1784151574	NetflixId	ct%3DBgjHlOvcAxLhA4fSkvKoiZDYVkW-_PwnaOEYYenY9pRGGNKZUAZ6wsvsfZLYJyKphdNikCgAvpQBHGGaRozc_DivOuKFAbJXUZZemJoHlmmYzudknI7DzCdoxO2PBdvSX9iwy2RYm22D_CgopBHCebXD-9V5N__Dc0BYRyIfJnw7vf3OMT4A1Lm_utUOxCfs6o5MdkOcHOEAVzGr0IGmnKEm7ypHEpFeX42BkvKVh4Y2YLhDZIVJCkps7aFywok9pX9H0odFl4-eaJnVmzw9HSjNPGKV0cvNAsS5rCoW4GD6qr4zoYPxm04hG0CrPxwuEvQ6-mbnn20mXWfmL_jwjwoItT-DikprNRMLnPsWXNU7s30k9DZQApm7eWid4Hy91aFSVU0Z0RlAE0RZa35b931S2j9oHt3XhfPUtBcJj5KP5CUdwD5vz_tdRJfOWQnQNUOFs-AoNKz2M7P42W8gjPfzhzATTz1pB4W03xA-Yp0Odof8D0akSRTnTmqXSgdPWFtqolmtXYZ50I5Ifr0K5eUbfoJg1cGrMcXokEuPUdwdPjbCZ_lgWmeFDLS4O-0cWH78_7eScCwGSv49h55Gdux1CMmv1_ry3wnFtZ-V3WvI7mNfkfyEwHPpeUodohU5YSBDs0EjwFE3iDcYBiIOCgzOx5_Svfup1SGO-Z8.%26ch%3DAQEAEAABABQC8Pe1cr3o4dk-Zxb-3ECEjoWpXYp9H7k.%26v%3D3%26pg%3DO4CLOAE2YFEYLMEIUQKB5OMQCQ
+.netflix.com	TRUE	/	TRUE	1784151574	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_SOWu39mAbd7l5va36Gx32OmGae6WcKQ.%26dt%3D1749826506040

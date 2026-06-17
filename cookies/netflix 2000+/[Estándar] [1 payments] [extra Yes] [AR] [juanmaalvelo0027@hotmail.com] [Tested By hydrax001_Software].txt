@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Juanes(☞ ͡° ͜ʖ ͡°)☞
+– Email: juanmaalvelo0027@hotmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: marzo de 2020
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 4536
+– Phone: +542616100345
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Juanes(☞ ͡° ͜ʖ ͡°)☞
+– User GUID: NHHXVRQUDFFN7CJR2RJ4GXZYM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799119030	nfvdid	BQFmAAEBEHHxQfRV_VVQnm7dxQrpStBgPUwBNFUwK31q89h47RMm-Kt28fd2LNht4aIRQWhb8imCsqYk163FASGfg5vBE2i_xhDNb8aeJ1uTNFkQoFw_bIcl1XxxJ075MiQnnpmOZEZiDTOUqsQYVmrVt-8anrVD
+.netflix.com	TRUE	/	TRUE	1809143879	NetflixId	ct%3DBgjHlOvcAxKXBGHdCGK4Cf147AIG7I-OleyNX0qsL8lEB5GSqgDJ7Y1Fzu8S6RJk101uxg7_G7KTMPwKh3f4J_73Ndzq8rfd3-HBkOV72vgIHXoH79P5VTgbL7RPv7TFSOnAgHuXDBCVol8jA3rpUPtayIRauYCk6y0lZTQPd5ZRo_ouf9xJxtY1hjpZK0P_o4Q4u20KwfNhUm60LoEkw3Yhkiucdmhl3MMVCjYA83JKZ3WXKBqlXkm4AW6-2_QkyLkVdxxBNQzZ3EZ0rE7Qgsade0r6kXFiwr2QeoeHBQJLDhMOSqcG1pr3kZP7tC98urE-TuFJjLAvtCCOd4ixa8f_wT-6CYWqIXmJO09MDqULZUaEVEBRZe8tbP6DLpz6zEVeyvWZK8jlYY5ahXefFhQyqZiQMUq6_HK0PHUzZ8qia-E3H79xB5lRoxgTOZzDSwnMWeZT7f64CQD_iKBnUK5Gt2mVbyWJBlrk5rGmO_3Fff91e_QBg8B910NFK4fbkG85F83tkfqAUk5Y4qSdrpkbeYOseNJdSgLEqmeUatEr_FDg7GxYNyid1fo1HUKIteEK5yoG5Q2OrWqx8EMTodNXoQtm5qGOZclnlx7kXZ2TFepwrWrWaw9eEaHNoqEoVFvNmMU-EDoX3V2WvI6RqomVbGoz9gCVD9CUynmfbohS6OOXKXCu8oeBzVNRpb5yvU0FK8OGuX2tsH0DpCOe_fIYBiIOCgyE1hUERH-JXtV018I.%26ch%3DAQEAEAABABRU5jJFj2E7rMD1pQxswDFoBFjjJ123DkQ.%26v%3D3%26pg%3DNHHXVRQUDFFN7CJR2RJ4GXZYM4
+.netflix.com	TRUE	/	FALSE	1809143880	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+00%3A58%3A00+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f3d85d5-0b82-4877-b454-a87f3a946c22&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809143879	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThKnniYdVAROWA13jcYAmqCRRZFsDg4I0.%26dt%3D1777607878476

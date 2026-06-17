@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Diana Luiza Caixeta de oliveira
+– Email: iasmim.oliveira44@yahoo.com
+– Country: BR
+– Plan: Premium
+– Member Since: Oktober 2021
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7406
+– Phone: +5534999454405
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Diana Luiza Caixeta de oliveira
+– User GUID: CLTSUE65JRDWPOC3DBTX547MEM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791764295	nfvdid	BQFmAAEBEFTVehWGc0zkUxmijoN0e3xgmA6gO7MV6CVPn0OPdckPtbM7rcLT6fMxYstp5FmHH__vWeJaRZJ_rwqNKU28HA8pTmZGucQvYsmD0GKV5tC3w8nqQ1PCELK8-G6s66E2yucQ-bANhAYSlanDTAMA_Ded
+.netflix.com	TRUE	/	TRUE	1809877316	NetflixId	ct%3DBgjHlOvcAxLNA0QgiI4cCt9-JEfuAx-erR1qB0g0DAGTH7jxhDFCBVMP0Rv1v1djto_i5j2Cx1ANfB_0bDvtp_sT4RqEQhjUPSC_Py-Uvkb8mtJNn3Gv8BIgP7Z_Zxstmy_6f2DGrCywOHz3U7SiH8xaYkBLQ7PYRfqxfp8pYjdCiKyKYmcaozM1SiBfa7ZhEZPT517YxN-RoWQuo1OUw4y_7OXzzDmo3OVqXZpdHflz2MCK-XQeeomshf_z0Okg74z7FKzbc0xxzIbRARqFRRQ6mjxvtI6KUOGAKe6tJgHOWtNdZdBOwpreChFYSSnu713eF8upY2LTBHfYfNJQsePsF5ymfSCBmBG8OK9DLzI2MjQmi01vENojhrecwy7ajh7JMyiXPXuiCUOtFf168ZPG8bhtlLGX3NSLMRz6rx13v3kx0xIujraVUAlltZDDDl3NNyqQvpbfCbNXZR08NPFg0tRmAGOeIa2U96eSf-WTCeAydmqo6jzqDDC6mXHTeRTjnBhd-Zf5gl5oJpMcQhuB5PpSNL5Og2tGoJxRSPX23f3SPf3pJjfIns6nrNZQiVACMFGypza_q9LT4ddIhrAL5ef9KLgyCsGVx5bheFywmVOtC7MwGAYiDgoMihzuVtjmIbyoOUUa%26ch%3DAQEAEAABABTWtrrRoSUCV6w9D-1Bb9KnIasoiInJH04.%26v%3D3%26pg%3DCLTSUE65JRDWPOC3DBTX547MEM
+.netflix.com	TRUE	/	FALSE	1809879764	OptanonConsent	consentId=0ac2f192-70f3-4a5f-b5ef-8a5099b1edf1&datestamp=Sat+May+09+2026+21%3A52%3A44+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&interactionCount=1&isAnonUser=1&isGpcEnabled=0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

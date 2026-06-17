@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Second Best Son
+– Email: Creber77@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: December 2019
+– Next Billing: 2026-07-14
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +19494390744
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: #1 Mom
+– User GUID: XBPZVSLQFFDJBNZ5DI3CSOQRMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792294992	nfvdid	BQFmAAEBEMsfq8CFj-fYICbO2r7kuCtgcLn4zDmn2Xd0_5xijJ3frEMNgRkgXs370KXCAyrLADFVym5JmOou_WtY3bvvh6QWbkjy8XLfrP-9LSNJYE-HB5k-Qe3_df0uiCIK1EK-08EDgGqai2kOMQtr69z_Bo2V
+.netflix.com	TRUE	/	FALSE	1794011245	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+06+2025+16%3A27%3A25+GMT-0800+(Pacific+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5cc20047-6519-4e47-882c-e93d62c1ff49&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810328870	NetflixId	ct%3DBgjHlOvcAxKDBHfG0rOkJM0Q9v1Xa8rcAJRh4FpKLwZKIBbV76GTzy1Mpazv8G32RSq9TfyZCccN_aA3GYw3dcwum5KKxbea7sOzA_-1KKedAecXopp69OO_KlyDwyuOb4sWt7mgpeTKWQnwW2JtvHCVtAeVkuzBIg1_FtE2MQfEgeQZrHp_KPus80-mCdZNRdH5bUipjJMD-YeT-zoWtoPskQGo3NwYeE9Jpbm83sv_EWiksySyP8qsKs1-vkjEeKyCVzeMIbMtD6ZC15m2RCKrWo4xv5uVqKbSMT6q3KQwv0u3qaAia4p88bA0IrHwwjSqil_-Ko0D36VENbAn-L0cr8muPT5E-TQmRPpskcWwhoXO3XtsvPuskk8RqElbllxwYl3vtxV3Ub_WF3V6oyGehrmRx5M0N6tT4fMMTR2s7uyVGELIOGsqbahbPv7_D36DOX9DQAvdIDTinIbUc7X6pn6xwz_gGDTtIof4SU5yUb3PnJ9cex53u2dAvsCcKotzj_RQGGUbYUC9wiTB4MAgb6x00LZPq4S9nLFfruz6nX68zfq9fLB7GtJXl7R1-4pR59s6uQbbfWTE7ZkULbgs2somy4u6j95O3CHYDXq2M2wAx7Bp4clzc7hzXlUCjgZhXd8IDsf5kO47HBQIdjCrwMTGt9l-hwH3yKOHDbEnmcaoe-rElCSQL6M4GAYiDgoMrTGCYwt_ou532dGd%26ch%3DAQEAEAABABT7au9x_s5oTW4ZzfVTMgK0B260S8SP8uA.%26v%3D3%26pg%3DXBPZVSLQFFDJBNZ5DI3CSOQRMY

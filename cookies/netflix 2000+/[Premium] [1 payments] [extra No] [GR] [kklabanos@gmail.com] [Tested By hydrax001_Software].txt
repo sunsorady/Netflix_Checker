@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aihoi
+– Email: kklabanos@gmail.com
+– Country: GR
+– Plan: Premium
+– Member Since: April 2025
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 5689
+– Phone: +306977691740
+– Quality: UHD
+– Streams: 4
+– Price: €15.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aihoi
+– User GUID: 35QBYMS5MBAHFEMZICTQ2QQKAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810394469	nfvdid	BQFmAAEBEIwsPFEjz6BZtWrGH7vEWlhgotJreSnoWeW4WWzjtxdP9VyIe8n-39-fHoIWfbq2knALDUzkQtQgM4AR4JSrzITpsV0bDCiIt9DNesdBrPBHw8dNDOVvxPPYaIhkrj-n4lh9rJ0eQqabx0Y0wMu0ZQ8r
+.netflix.com	TRUE	/	FALSE	1810528914	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+05%3A41%3A54+GMT%2B0100+(GMT%2B01%3A00)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=584c8cd8-95c1-4ed2-9952-3b33252687bc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1771089223638&isDntEnabled=0&geolocation=DZ%3B09&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810528912	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhAw8UHKOsOLRf4aa3unta4AGZ1AyvjQX9LvXulDxjxnQl42UM0RE5w1dbliW9a8nEPGDriexeL9mM6bSmjnIaKkbYfQy47EepjgCTA8v7BmQ_fBOcBS7EB433ksai4CNKiyxLXmF4voPwNTWY4eG7v8Lkw4KT0m08gPTylg8BFs_gK6j-Xqj8cncN5o3LZzqkCV71kuucwSVcl6eELKGG86r1-LjoeBw9A65qApg7gmp3b9hxOSsVdw8si8iHDUeBnfF6MIiIDGnn9E-oRvPEAigrjDEIx_jJMe0pVp-NhMiYh2BCqaPiyjo9H1TSEd_LFs6NUOSP03OOXgqodya0-QCqbIdzzeZaLJx_9sIGACEZjUzkM6-dj_u4UWiCCSSEy55vJCwHs6YLvrlFDQAk-C-mDg-eHvlgYn6t6RCrSxvzZYjDCGZ06Q8nV_PAZ8zOWSrNXLqwsFTZ-Wu6LMdbeVrULaBrjCS9K0eskSEIMt91sX3m7jcceGtQ0Z7xy_0xa6sIY_IExVdAsHFjJtkcxMlyS4ClkMeTrCAIRrx1zE256RgGIg4KDGLR62k7J6K4gI0zTQ..%26pg%3D35QBYMS5MBAHFEMZICTQ2QQKAM%26ch%3DAQEAEAABABSiN6ou-jOfT1kK4v62u79rNLvp09YTlWw.

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Doom
+– Email: brigid.ephault@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: May 2022
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 7182
+– Phone: +12159715611
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Doom
+– User GUID: EUYZ4M6WPFA73PRNKGSGYOLFNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800410683	nfvdid	BQFmAAEBEAi27SzaRq-VHOmAoQtbXoFgeWEWpEr78wQ17dnmlNxjbjpJVf-q239zMc41PsGrRhFks93bJAuTiGpyBz88eQF45GrQVkhaFK5Tj7EKjZYmgGMC_CwxarjQMej0pPExjH6iA_qlFnqyVWBEn2V4cCE1
+.netflix.com	TRUE	/	TRUE	1807108822	NetflixId	ct%3DBgjHlOvcAxL_A933aVO5JSVc3o7xda_XAq4cOArgi-f9DiqTbUyebfU4whOatuAJjrucTumAV_4WV_mzUqOZKbJmi426Of802UbiXPmDZe4-mdbe-k9oVd76ALpTRPvZSuZPDJPtc5ewJGd_6DGDz9p-_F30yA0ynJmVvhi0Fyp9FBAlLkjruvNE3rbM8Qkf1-1OU4iDSc-ikx2bUcIbmyWV6la9VE9kHg0QGQeiNVzZsVJpsV7die6N-oVMR0ByPKsNModYyUwBwduuSNC_-pPwhM9U9HemDiIOJOtj4dGJHj3dlvMfmg7fppfVZgQoncIgW2KCXQXPGYa92k0KibuN73BZIAUadBLaOQ4fIQlqqHvcZAMpYRZ8WC5PLOfzKEdw-o6L3sQYOgs3R9bs-fpW-_Gd1QWsExUj3ZIzyUfx91xARYF_6Fjd8Y4qob1BGSThSudMzOWfmNRR_Y1fhgMAGe9sMxLkFhFKxn9Hi2YA5_K0Lg7gN6CV2zLbr4y3Uhe8zAxaPSGIKRmCK6ylhVgcvPWdpsTkFsaqsjhvlnVZ8n95GkRU6eqOPJLrRpjDz9_1qkYTnPR-0Uv7JTQy6Ri71YulScUIVIZ8gpHDFtRbt4STM7bKFgFd2QHjY8Ep6iWlnc0NMWfPSEQZ-DTpgnFI0qHPXEhpfx2fL9X3UZenHoayzeKrmGQYBiIOCgyjm5RHu7fOkskZ1Oo.%26ch%3DAQEAEAABABQZ3Me4qPxPcinDXZhUFDQxY_7EqSPwMY4.%26v%3D3%26pg%3DEUYZ4M6WPFA73PRNKGSGYOLFNA
+.netflix.com	TRUE	/	FALSE	1807149517	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+21%3A58%3A37+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c9c06e8-b11d-4590-aa54-6de1d968b155&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768874651540&AwaitingReconsent=false&prevHadToken=0

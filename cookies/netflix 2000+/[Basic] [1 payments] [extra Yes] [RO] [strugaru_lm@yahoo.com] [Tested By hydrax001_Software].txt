@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: strugaru_lm
+– Email: strugaru_lm@yahoo.com
+– Country: RO
+– Plan: Basic
+– Member Since: May 2026
+– Next Billing: N/A
+– Payment: ORANGE_ROMANIA_BILLED
+– Card: N/A
+– Phone: +40745510421
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: strugaru_lm
+– User GUID: VIKXLIH33JHRXBF4BOEXRCSIVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809847934	nfvdid	BQFmAAEBEGBdaz0uORvRO7rkbMiUZ1Vg7o14exFP94qPToFyfLl8xdaW__blEPaNXu2zU7M68yGetiWmT5wj3dAPc-OE7d0hDK3QUyd9CuPego-JHnULTzRnoPASxErNM47Wqt4lxS8_jHPCS7PeBxF4O5WWO5HH
+.netflix.com	TRUE	/	TRUE	1810313830	NetflixId	ct%3DBgjHlOvcAxKOBPaxJGBhDCY_-RozL6ev2aZV-EmFOd1FMtSIoapo4xCTd--Y9KswKhZEK5mnUTNd2clQfRP07QBWQiR6Z7ddHAvNmG1Q7bYPUNIbzvXvtyv7ePrW9IfRprYMwpysGjEBxsWvGZ3Rl99tpKCxdatEDlgbWmE8mRH5XO6nUzYxCtUQe-uUHroObSUkKivPvR87PfIL7nF2fKqlmqLPsbViecTYMnytHL2pKoDMN4K665LMX5EzVViGNZ5HaYCWj6klIQzAMDrnB3slunAzfNokoIVE0Ve6Vd33e3v0PpljagNxpAhKWGvnEtr5pJRSBaQWjYqluGQFcZkqVJ-IydzEwe7Hq43o-z-rT3buZl7WC2utRYHeNH5xYtwZFeU_6cN7OZFC8nfSxOdoOSflSKIrRmNIfhPwCxEC2NvPBGF0geSnDAku6ryLyc9IW2lpFW3I3H29tj_llRr-BvctI3ieMDlYWACTDXjP5jkcaEOvMM92Vd4sodad5eui6M9jyOc3PJ7XU9Yty_5yIbFVKMp-CprkonT8vJKrIt5dh1uuJgxK4EbxKJefIn26Mkbk8ONpPmEYQ1UWBdVHWS7aTJeGWoSdboycGVr4NVAPwA_-Wmq3h-6OiXz2PzA4PAfrotSrp_0YzM89C-yxcGDwEdoStJnBHE5c2X_W6_VWjzVoMoSvyXXFEEQ5BuS2YqYRVbYYBiIOCgy_kTuoifOxSjEpO-E.%26ch%3DAQEAEAABABTr2n-BtDIEAzjTh7iF9RKjg1H-bViC8bY.%26v%3D3%26pg%3DVIKXLIH33JHRXBF4BOEXRCSIVY
+.netflix.com	TRUE	/	FALSE	1810313830	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+19%3A57%3A10+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7c935902-05cc-47e7-af9a-2dc00909c70f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1778311845503&geolocation=RO%3BSV&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810313830	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCtLZEHlT7SCD7CFuxMJ-hYmzI8ziHzuI.%26dt%3D1778777934820

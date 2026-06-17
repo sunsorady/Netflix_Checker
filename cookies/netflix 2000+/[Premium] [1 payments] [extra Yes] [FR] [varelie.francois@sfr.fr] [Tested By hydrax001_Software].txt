@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pelican Du terter
+– Email: varelie.francois@sfr.fr
+– Country: FR
+– Plan: Premium
+– Member Since: octobre 2018
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 6302
+– Phone: +33760548565
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Valérie FRANÇOIS
+– User GUID: RA4R6JBFTBDIRCTLUW5CJRXKK4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794060573	nfvdid	BQFmAAEBEPxI9lA0_SqO1EtU1MC4C65gnd5JRdl-NXOnBrChhmrWMy0Zue28Kfbf2uGdWEvdtH9cEjwNgai5eRwsa8GetszrdDvIZfRAeWwUEiKrbmRwGi8wcNZN5i0OIiZolctmbpCmiHt5lTYrhKd11x7YSDwn
+.netflix.com	TRUE	/	FALSE	1812038064	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+17%3A54%3A24+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d7786854-8481-4602-868d-6b3ddaed0c33&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812059094	NetflixId	ct%3DBgjHlOvcAxKRBH9q_EvkUhigTZ1xZXf0hJWJQMBZI2gfpNMSDMjR4PuOKLRKkF1uMOiPrp1JdKD0eUU8n1KcTYCE5RSW5NWjKCiKKIc18oS4q6XSLzuDS1UMp4hG2l0oMLspABfwab4JZn-3A_-vv265Q1yC7ckpl0Cw7yMzR2wjF1CPCKtYmq8TFCIrvaisEi_ITsLJYhaDfNSgqpKaDtxuCMtaH9YlddUZy7MzRA-sjdgLh-7SZwJBiv4lLPI4IzeqYwfS6On_ZIXeyfbH6NJywkRPBqbOHLRSZBTRFQP5AgkyY34Cudm-_CetZP1cVHuSMj-uvxE1q3lmOzl2__mtWDYqHunji2CKq11ceLvWEuaQziTskkHC3nbq4nsAz2cCBCvDAuAXlM8dwxDpV1xO2fs_FOSq4T-Ki1ukxV2tLd8D7VsOFlCs0WBWu2BYfD3Mgs9YC21p8Yo0hbsM1rZxiv8T4_8f__5__GtuzMteZklHg7J4Ds_826H9eKt2fqDzzQ37L03DlfGEii9z4CsxVEd7CV2O14bU4xro4pMAASBus_CDb-gbuBbg9ImhWoduUM3Cj_0bBoZ7RddO0L1bvMX0Mu0zl8kec_YLXs-Q0T-vOyY3XLB4PHsCxiAA-k4x2O_zoYV9QF1RGC-EHLg1FgZZoFqeuE9A76epYwKFoevznp4ujzBxdaDkicY4mU-A4lgPYHOs390YBiIOCgxUCgY2M5ldJfa__sk.%26ch%3DAQEAEAABABSoEg_mok8o2o8OwXIvmYp1fOApYr7AcEA.%26v%3D3%26pg%3DRA4R6JBFTBDIRCTLUW5CJRXKK4
+.netflix.com	TRUE	/	TRUE	1812059094	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTYlR53nqidqLZWghAfZSlTZbcqLtf0r-8.%26dt%3D1780523094005

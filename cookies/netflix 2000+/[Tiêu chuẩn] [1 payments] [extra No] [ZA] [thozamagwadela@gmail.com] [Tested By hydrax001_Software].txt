@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ayabulela
+– Email: thozamagwadela@gmail.com
+– Country: ZA
+– Plan: Tiêu chuẩn
+– Member Since: tháng 4 năm 2023
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 0415
+– Phone: +27733647524
+– Quality: HD
+– Streams: 2
+– Price: 179 ZAR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Toz
+– User GUID: HIZ6GQRTWFGPZAFMLCBPAWDTEQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806170492	nfvdid	BQFmAAEBEGheTBdfJ55-vc3j0_wD20VgyEKudpu-D4g4fAHB0M9h2v7GJBPERtMj2G40RUudtCUN8RpVvr70OyQgYIUcHnYZp4dBqOUErH2aVT0m-_9-EVB__4CUk50IjL-yOg1l9TUqgFrZK9URxluykKTpZhAL
+.netflix.com	TRUE	/	TRUE	1810130943	NetflixId	ct%3DBgjHlOvcAxKHBH3s-qUejvoKLcR5pFA9pN4vLs-dfab8Mx4W342GvU-FylXxvmW6AEDXChGgiAmO-4eNjWrx_jlu8fCpinh_4hNsoxKVHhrT2CsgkJlURBiczSkXk8oVPYUJ-FWR39zaUYkPuzkgc7y2jnqXT1Oroo0unv4Kt4229h48Ogd9FHfBGm1qa1q_CHiXnIiba0019Yqo7U1DUP2XBljJjZ1y-nlLZv36Ex1aD2kbh2t7wWoCtaWwL9IyGWhFojIXHm8TNyseEgY4TnxQiBnnuM0QrqQDtZqjtTcrGM0jgcYZxuLEcvxdQoefaBfVP1FO6i5q_HNQe-b2VwD5hXftg33kDoofXUTttgVWYRwOmEokjWKgLAFfgZJQo9K5eHUqF6fMiaDYYcvFvC94R3Bg9oDMzTrx76WUzzsVVn6AzTt_10a9IW64Wk8ohE7Ym9aSOP5kQ4tDXQOUE-4GKfi-1Ig7SuFqLWzj3sYekX3h3KPj76mmzVywjxxmFdV2DutmWJqmAfoiyoOVXIdzrFn0Qw_MGvQ1FR_T1vOejZounUqmssCrsiak8XDeaI8Cea_ZJ--4DP0kmzJW4UTwVvVOQ1uxpw1d1EXz78y6d0wQHL6VThsUxw4DbRxxMna3UtpYO1FwVr6tZ1Laj_P6VxCX_pEYapXpfT3iYsr3SeGPtILxaKBA_dDoMXxJCBgGIg4KDBaxcQ-pCjY-VkNCnQ..%26ch%3DAQEAEAABABSBwyIaPjLYDgXsl_PItdGPDYFYbj1XBh8.%26v%3D3%26pg%3DHIZ6GQRTWFGPZAFMLCBPAWDTEQ
+.netflix.com	TRUE	/	FALSE	1810130941	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+16%3A09%3A01+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1148324a-538e-41af-b9a8-472141e38b10&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774634493053&AwaitingReconsent=false&isDntEnabled=0

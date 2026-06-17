@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hebert
+– Email: pereirapatricia9929@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: May 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 8454
+– Phone: +5577991328718
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Patrícia Pereira de Oliveira
+– User GUID: GJUEKBLYQJHWNOZQPCIFLX6LUM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783018202	nfvdid	BQFmAAEBEGfIAWVeWo8flGwVBar4WIZgCEED0Ao_6HWDNdtF4qTiv9rMnBvAQmmlIJVtC8KHktnXvrmIUbQSILQkvlEFp-4maChsHDF8Ix4OiXAafuNH1XvstgXhLlHmCUbNmlSbaV9ktmiyeOiLWmD76YrgAbsI
+.netflix.com	TRUE	/	TRUE	1807560606	NetflixId	ct%3DBgjHlOvcAxKCBGQK9c3EXiAwDYi-bDNxKXobTYro13jcsvvjrT6GUtbEt7RGe8cDw6Vlm_n_mBxwcnpEluNoUwVVXOSHL04FTo8OxB-w8_TtqNzum9eLZMT3KYaFtIBPoXG6OqOQ54LQpe0fPTi32VWo_ZlNJbbegn1w4hX74CYN-kphn-bTFVnKK4DqeweC3-ihKMiEodtebsaUqH7ZkScT8lIr6dBLPF0hJpMJR6po9Y-1Z4_GpWp5m_E2geoY6bW59h7iLrdur8ImRsu1xgSs4Pt9eDOV6yA4BtlqSMRkGeU6IdDkKsIeDwVlDyGijGwVpXKFiGWZvzUODfVAwUBfPsc-BHvcZaoWFkwcVERX6Of8LzMuU_QhJXgyBe2yKVKoWnoYSKuk4yRdnusj2rwd6grnBTqFjuWjjGJgXHqZPjBpaEJYLzv5_LvpDLIpkBhsj2_Lt-mAQHDd8N2oXwVfQ7U7-wuduhHSiVet2MufPZwbRtcDVFhSma7wxkd0xEERw64IcAjimUETApcYvOd9YrplLvpHI3GN61I98vMze_YHNMLp2FNqDoTgMYCrVv0kim19TA9W6Z4FTiramnwHpKbsl93PQA-TD5XyCxJgw0hnYNOmjSgpJ4TSsi0AfNd50IfpMg2byXvzp1hqC_RsDzcYTDjeY-nWDnRYxk3ZPFnSL1DxXr-W0x8YBiIOCgwO_8GuGMZdrVcFpEE.%26ch%3DAQEAEAABABTxW1gmv6fdfdmygZG9IfEP5aA3Jp8Kt6M.%26v%3D3%26pg%3DGJUEKBLYQJHWNOZQPCIFLX6LUM
+.netflix.com	TRUE	/	TRUE	1807560606	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8IIo-mGlOIsjCKWquCX364GxE08bZgA8.%26dt%3D1776024606056
+.netflix.com	TRUE	/	FALSE	1807566756	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+18%3A52%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfaabf7f-ac25-4ade-a499-74060c5f9501&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&prevHadToken=0

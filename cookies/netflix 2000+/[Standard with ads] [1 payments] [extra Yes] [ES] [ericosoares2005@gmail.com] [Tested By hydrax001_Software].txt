@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Erico Alexandre Silva
+– Email: ericosoares2005@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: June 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 9453
+– Phone: +34623198531
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Erico Alexandre Silva
+– User GUID: FHIASM5RFRBAVH45GFQ7233XH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807555600	NetflixId	v%3D3%26ct%3DBgjHlOvcAxK0A5qMUgPiPvqwqejeJzOhdPubzVS1ldbHndLBoQccRb7Vq3W4_i6SG7Ubkh_ImqTuh_TnSu8O4wn07z0j46GU49iLfl16RRnPNNJJzl6K5z6yk_EL6MKFeMeE_jdichT5esh82CtfnIyx0vgb1PYjE4aIc9w2Vfhehh4-Vf5EWC45kcASQI_z2-3d4bMBFEo6_jYQiWNDfKXtJ8G2ESwb7Q7Y6TtwuWor7PclJxHuEGHMDUz-tBFoaHhFy7zY3NVZ3B0oyKEyEd3-oxapfMxug1eDhiDwr_4q5AUkpNL6HBmfk4sz-sSfUwfzYs-Ku56swywSsJkAK4NpOM8dsNlGt2aJbtRapowaHv1IbQsE0d8gSDIeBqyg_8DJNlKqL-PNgq1UixbjUq0JB8TYXFiySQzwyEtpADr5duFh41qwePmLX_rMVMyqeVEE8BPEPEi5fQLSS9a0V1rmh7vNS_trKQbS0qJWU5fqDU9co07VuhU9AHiuHqcpDmz0rC12eChEYl0iQyEgavC3OGt57vZop-uCgZAPDs615iDIcegBqQOtWmd6cGnCQQ_g5PFy6wSDoCwLc8gYBiIOCgzlQhjiU5Wo9q9KhqA.%26pg%3DFHIASM5RFRBAVH45GFQ7233XH4%26ch%3DAQEAEAABABTM6sBVeBn7baXeafJtWSda_jZHrZbjubE.
+.netflix.com	TRUE	/	FALSE	1807555601	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+20%3A46%3A41+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c633d632-baf2-41df-bacf-c1655d6cea92&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776019409897&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807555600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoQgxLYwf9nr3LvNjPZTd_nu1qo1xsflg.%26dt%3D1776019598425
+.netflix.com	TRUE	/	FALSE	1807555600	nfvdid	BQFmAAEBEF6WE23ja6VZiviQpot09bVgFZI8P0wFzG4L-350qZk0InzMwTrhAYPIGZuOQeQWR_Tf6KfxJJEr2YkVj-9UHgJeqpkUbmM2hBE4Y9WeHT15sg5rBIPzFyX7ce7t_erby8AVTFRzPwsfZ4msdpBEa6HD

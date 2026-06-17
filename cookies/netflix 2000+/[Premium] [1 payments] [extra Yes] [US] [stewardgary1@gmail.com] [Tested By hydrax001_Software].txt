@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Stew
+– Email: stewardgary1@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2026
+– Next Billing: 2026-07-12
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +15732767740
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stew
+– User GUID: PGQIMRWDORGTVLIFEMD7NSXNLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810324201	nfvdid	BQFmAAEBEFcOnYLQMmhzuxF9IpjauvFgL1v25jvMxu3N582Zd6Jz0oiyswUuS9ondcKn8Bffl5PJPDrKdnJY7rPkNKjsQwBVVfvhX3sjXinsUMwe-pjPs6k_oiZLKOWw3aFiv7tUwuaB_UcBTzwK7GjXDlS9kl6_
+.netflix.com	TRUE	/	TRUE	1811965362	NetflixId	ct%3DBgjHlOvcAxKABErCMb_CF7w16pTNFZAw25fzg4wOOexifBKxOyPOcY4oN4zGzz8fI32SChGrZTrv34AAKa0HpMne2qMelJQwkbdr9V0OvkYk7FIb9q0GRKN_H3Gbc9lW5YAPHEvDzzvqcwl9wFqJOotinOCj1K3aoqnRpufbWbgowok6zXt-LTjpVrfjT8E1jKDpDYLiDAZCwHbOIT832fPiGKeb5sVOKiuaTIfBJ0yoDSZYmHRld0c4k_2IpdiPISIX4egC4BTwdxRYzePmr5yiANdSrAkvqs2GNEgIg9uKCmn0yPYjwc6f1fKtzmTIL8EDV0VpCdcW82WqIjyYpfJLKuE4ZMR8PrBm1HM1mTnKYPLcG_K4jKVKGuwbIe5R2jrfHoxfiAKUua4a8E-er88DiOBH93aMI44mor42h-uGtRg9eqUgvwXQjYuoKA6gZDQ5ctCDDmt-h-_mpje6Y86ZVyOmQSCWG3WJhpDvzUFrTEvk2coxe9KEx4ZK5Pl5d4uIb4uvi0oJt7XtCUuzxasYO9k3Vv3QGqAcLkdKEYqaMhQsjJuSIFx4LN0K0rO1DXD40kIGHa83BQKCL3CY8Acn33kksaL7Odbd5Z_ADYfhcns9Tay5t5acYWwhhTQrkkNAcV5x3rrHrVcqo6REi85CuO5DTl6hopfehXti--U2Ebw-ze6Czi3XGAYiDgoM3anWY7odrBsG8Yjn%26ch%3DAQEAEAABABQZB9BImBFoyJdUZeGEtTiK322PVkMeCJk.%26v%3D3%26pg%3DPGQIMRWDORGTVLIFEMD7NSXNLM
+.netflix.com	TRUE	/	FALSE	1811965363	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+21%3A42%3A43+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a9eb8424-fc32-413a-b334-9f910ff1b305&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778703126012&AwaitingReconsent=false&intType=1&geolocation=PL%3B30
+.netflix.com	TRUE	/	TRUE	1811965362	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQy8GvO2rz4Vm05hALCV293vdzjdJp1crg.%26dt%3D1780429362681

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bruno
+– Email: luis.manjarres@outlook.com
+– Country: UY
+– Plan: Standard
+– Member Since: November 2017
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 7238
+– Phone: +59896086077
+– Quality: HD
+– Streams: 2
+– Price: USD 16.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luis
+– User GUID: D2KE6CODP5ERTETBAZMT6VP7DI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784003824	nfvdid	BQFmAAEBEOlhcyB-7pvVh2-KPWTDYGVgg_-kekuU6l8z0HnfIV3tdl7M4j3XfawyYjvuA3r1zcQlrQ-labRq9kAbQ7cEQOVAGUCdCTdwVCTmb-ncwBL5bmI_Lj1WjNfL3vhibN6FBlyhJ6Y4bXqVzZlvXDmf6g2f
+.netflix.com	TRUE	/	TRUE	1810072056	NetflixId	ct%3DBgjHlOvcAxKDBJuNMam7cynm7cGhNaVuE4tOcoIlYISyUsQrgTnl93RWEynXfsVRou1jfXE9K1mf-jSYNosL-Cb76ryIxye2VqU9UvECoPgCsclg7QBuxBqDE51eJOwcvcyaGgmGDhD0-9yrOw04SaG9NocLzsGVbo9G8-Fi0LuDS0lwL-TcjBq-KU5SDxn4Qi4vSdPrLedkK2_uCiqZgipkHQRuNJFiKIIJCo5AQO1hAkGKS2AWQ_DQNIo5f0d-GJgxdSyvrEPRkFYR-fHF9k6aUjn341PeciEw9bK0IjtyPN3WSVATmlMkQKAsgD7NNFTFgu7Eo3dpLsptjHhj-6guP1XMPwFbIUypRA4jnzW1Ade671IYoTtBiL6mtuKvmB4l54vbcXv2rTe2mOJQgADB9s7_oHwiVyZzyhXGuVFMD_IkW_hFOIkEXI_l85ZpTyExhhGOfWNR1IzESmEuiPXp0v2De6_KOrwh63E0ILiDXhmvkaILGcSMAdMiGgNKR326jVOqiiWL7F3nQau8kCFWKvVFpEMe6vuij4wM93BxHBSiBeaDiRTDprk_yjoKBRYkTBBbTQ4eOzuaJDU4i4ZgnuE-gNfoC9ezIeW6P2WxcYm5DqwdljM31CllzDYK71plSxcWLEGvo48_V5-6FnEA5Duhv2mxIzqzkhix1-_FGliyNwJl691Bib7cGAYiDgoM4-9mR4yRcUudrRAN%26ch%3DAQEAEAABABSF8DTaUZJRlMsoCNjjJ11KHIKggC3YojM.%26v%3D3%26pg%3DD2KE6CODP5ERTETBAZMT6VP7DI
+.netflix.com	TRUE	/	FALSE	1810080562	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+21%3A09%3A22+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=194cb2aa-10a0-4a87-b557-581f1147a645&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0&isDntEnabled=0

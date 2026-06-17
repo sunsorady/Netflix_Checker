@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Uriel
+– Email: aprimaespi@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: agosto de 2019
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ana
+– User GUID: ZRNGAVTBF5CYLJHAPD24PATPUI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786964296	nfvdid	BQFmAAEBEBqUIhlC9THyNjnOrNda4LxgOq_3TwJNrigp5v6EDwC1DKU-qk8CRck0j4dq7t77rcu41ACmNGzfyYKMuNn4quXSGo3FoTTp5V4aftGJyFE4FMJV6VVtPBRfMmfDi3AHNsDmdzywDUBvKzwZb1GWmkqE
+.netflix.com	TRUE	/	TRUE	1811965298	NetflixId	ct%3DBgjHlOvcAxKDBMI1q6xM8oZ9yiRLMpR2X7l27ABLuPtsmTPqb1PfCMr3flr-q2lnauChiSroaxKCdU40ncYqHF_QcURZDMOFsqL6KL-aHlA-tW3fC9dvi5M29O-DtSQ5EjTvOjl2o6iUUdpDpZqyLQR05zsNtcJksb9Efdc26zJM3CgGz_6E6320FgfBqBXYebBDOTPmuIH3pXEoqGMAr3Wo_ISCgFlN4R7NpiWmvuxUc5c4vl-X_gXSFHlgWWJ2oRrYwdmMXYPh1FazlNzIk8N-Qelh4TVKxEyQKjRI6k_NaX4B6WDlwI1qixLZBQ0pDDO3e8gmEk9O0XZOyTh67_sI9grjptVQ4C88zWIc0edTc8V5taqqtKYxA3OeIsIhlEUQ6yzyV84NIAs8AWZro51_jhTPoWTLZqFUX5MWafM2HRpJo0LpwAh8Payf5B07L4fb8mhByUuxfb7JCRlW_qUn4qAgGfel-SZID-2FBrd_uZn3Zd8pzA2Up9M03YkhLHVsRGcQzra0HeLUQm6cNsWSGS-D1k0_7cDxn2QsOBoXITSh1ApNRJzQJEjTjDeGU0a6pW9GkKAwdEq6d8J3jAhVujUyigJMWgx67VPEc_BReAAY9jkrbL24gLFjZ5edVNnvc3D55wiy1PgBtDELkhc1XiTW9v9jqULGM99WLnvY8oRfWKy4yoLwpZO-GAYiDgoMTefWJM2YIlqWCk0M%26ch%3DAQEAEAABABSM2EjN7h1VxRxoibpIFRf7fCYWMcmMcMM.%26v%3D3%26pg%3DZRNGAVTBF5CYLJHAPD24PATPUI
+.netflix.com	TRUE	/	FALSE	1811965301	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+21%3A41%3A41+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5304694d-ea72-4a37-97a3-bf73bec71d60&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=ES%3BMD&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

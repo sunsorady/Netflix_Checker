@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cottage teeth
+– Email: Cjabitz25@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2019
+– Next Billing: 2026-06-24
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +15635439843
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mom
+– User GUID: G4AYNC2O7BC6NJ3P2RJOIDJ7OU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803861951	nfvdid	BQFmAAEBEOgIlRzNlXf6kkDWLsxLr4FgOqtkXKZfeLv-6rGyQille5B9VZ6YBTCPqoxJ38-m3HSgaWw5G_1sV0jeb6ysvDbcfJXulYY3F-MT0qOb-aq1Nnvq_MvRSKJnD5reDK9gceD1O5yuIh-mwGxoi20PQPou
+.netflix.com	TRUE	/	TRUE	1811020736	NetflixId	ct%3DBgjHlOvcAxKLBO-QUjL2RoyO3RqBSwHIz9FduRIVA3YCWIEkwKakqa4Nupnx38hKRC5NML3IPAdDdsUY9jdkSFC07hioMqcDG2PtU_4Nog4TesibqxL3eOn2Qwu2P3lwyjzPV5rsqakzAyrHXqwiDw4ZTANt5NyPnwqc7A1i2dRR6Zt2fnv6FZq7TLWOz0TIFtmtjLQKAvmoz8GrLAq07js5MvHBE-aHJASff2P9GhLtC4ijWMQiaytbIOWuGnmy-UGaLs2UdSxPUEZUJlsNtKPqI6zJYZ7apgHjMtFnFVp-XrJSBjL7mWqn-T0sP66W3HYjN9pULFE8q-iKsAMRbCfq63TmDm-hFgev1XALNZLv9hREkGflcyTnx5AgEzLFi_jNqk0BC0sQMJkhlu-pzCqU1h9TzC91SjLbLQf50N2nIShOLKa7v79ChGurfB1qHEEPOWtqHwsVTEbxCDE1KN8o_6Eprh0MuCBSGCHCuouf9QhPuj4svKEBownyAw1BB1m0nPO79danxNcbjT3ZhkYVogViqT4Zs4ZySIHKg9UlCGThB7vIp0duNqambhn-fXpuWFTrZF3BS941GTIa_z5qXQO785ctm-Z-LPy7kPeECMwbHQs0jmKoo0OoLrCvjDj-WxEgFIStSRJL-AtkYn7tmzvB7Cm_NH_Qt99kUH1JoO0-cwI1DlRglw0m_Zi6v7RZTiwYBiIOCgxVWkIzU3-tFoUAtBk.%26ch%3DAQEAEAABABSiDO1iR0g9maCamouQXhs7khOvsqjf1_Y.%26v%3D3%26pg%3DG4AYNC2O7BC6NJ3P2RJOIDJ7OU
+.netflix.com	TRUE	/	FALSE	1811020737	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+16%3A18%3A57+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2e49155-5725-47ba-9c27-dca5311bfd6c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772325951865&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

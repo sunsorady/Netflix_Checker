@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ZDENEK
+– Email: dohnal.zde@icloud.com
+– Country: CZ
+– Plan: Básico
+– Member Since: junio de 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 1030
+– Phone: +420722940322
+– Quality: HD720p
+– Streams: 1
+– Price: 259 Kč
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ZDENEK
+– User GUID: IQJGGHPZMBBZJHFNAILFSY46KU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786379481	nfvdid	BQFmAAEBEBrzUz7JgzrZJtc2SXosUBFglJgiVaUoxBLhMBLZr_N9YvBc8SmvKnE8EVOLcbHMAH1cqeOavLFXNDc1ATjIiDSRHI1osT8Ff6AJAuht_jurlMheNjSIe6jr4JsY-IFMOwBIvOhS2ADyOnwV6fEGrXh2
+.netflix.com	TRUE	/	TRUE	1794000959	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAweVAo7U51Q2Y1d-g_RR9lxnbowOUQMnDyuRC362XOUlK5OosZIBSEsznOyk-lUJyv01W95pevrq52j21VlUD4LEfZg6biWtcV_jeG_EjY7H3JPwNmLO1yRLIRGMPbmL7AO6CpLK6YDpogzGpb9cOlAvJTP15zrqlsPgp85Perjta5rYeGbQblWYMDuZ77oSJk6zkD1XyXlIDnIkrvXZcTjnl_dgwPq6ZtMMraF7_1tsRLwWKACxyzgKIe19ERstPBvNkoqZNwkYjy-w-DIUldDx7_kNTKZ5yAnxK-p5hqIB93_QKWLnagxd3jNhnyYfST6ldhnxIf6sdtOATdmB9tIqrY2liiwsXy70b03nLpB1xUtV0etnelNRvGeivtkqEJRZFlmrLobBA_jo6TbrUcA06DOhtNouYzadRhxeYeoL1TmH7I9n7IDa8EblAq4jtPKKGQlpYk_h98wPEAJ1vF5eRQVCPRH3bjKXhxuFna_esokXm9TC3zRfxMIHH3xEhzTKj4DoFMMbmhCA_vPqznDtlc-VYxgGIg4KDIzUuaVPN2l4Ad8ckg..%26pg%3DIQJGGHPZMBBZJHFNAILFSY46KU%26ch%3DAQEAEAABABR3gfcsv_uUF3rtrALoGURC-_DBB_2JS4I.
+.netflix.com	TRUE	/	TRUE	1794000959	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxKz0Kjrj2A81b9U-FVVehYondGBEItQk.%26dt%3D1778448959025

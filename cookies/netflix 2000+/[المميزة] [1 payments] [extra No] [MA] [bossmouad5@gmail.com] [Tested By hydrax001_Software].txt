@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pikas
+– Email: bossmouad5@gmail.com
+– Country: MA
+– Plan: المميزة
+– Member Since: يناير 2026
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 5693
+– Phone: +212603927634
+– Quality: UHD
+– Streams: 4
+– Price: ‏95 د.م.‎
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: pikas
+– User GUID: HCWGT4XSWRDMJEAQW6DT5DFAEU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799015087	nfvdid	BQFmAAEBEOn1VcDvtW--QOQHRoQ9EBZgYzxgdsgrOGjpSQ-HtomSQ8oMbijf_XnUWfacbmP_R0YwAexO_vGdRYUqfhfw1QUFTxZ54c-BlIFcbNWOn8TuG1r5ytnBfD0W5HZpiCRx5BraCt4KiJVHfNucXl__symw
+.netflix.com	TRUE	/	TRUE	1799020526	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA-uQjqldHtKHUAFn9mSH-pXiPKEma0eLYOGB5RRva29xYeycQi7V8Qp3E_v_kW4eoP54ah_EP30AYPneJp5uI1ZQYCxqRsdRSX55vW26BWy0QzliKGfZfaEyCHt9SMMh203dGIBRTgnOC4TfdFdL_SH32YyV2vRXDI3hoKB1oRXC71_FgG0CAbxU78gjZP6ZwSecWvraFi-MDZzIjDO2HeJ3qcVzU9a4Sl4iqR2SEezpp0s4I-oNwl7cBk-rGYoUUm1NphsVvMuSImMbNH1YmRJsipRhIzf4aFiRcoNiWGXCg5OhkfUTeS1uTIzMkouXmWQbgDGTSaVZuq6Ck4t6KeCO7LK1mBH9WfBa1EiRQ7-gG0z7xcK5jqLhXOfQ5JAhQ3sbHGYoycL4mfoYDnz-dT29nAJ04dpmjeOmkupEdwexjdAqE4ZNkOYrOJ4QoyBxKuLhLY3IU4QWLYQx2fsskOsMakfkm1DEGh1NXelSKO_70y_K_vtznxfRS8kbZEu8BsFWnTpZ7ut0PskaMR0nX17ZiwxPlxgGIg4KDKfc2-3GwryrBPl5bA..%26pg%3DHCWGT4XSWRDMJEAQW6DT5DFAEU%26ch%3DAQEAEAABABSrkOCvQGR5YhdR8BHjJlLh3iqc1A2lEe0.
+.netflix.com	TRUE	/	TRUE	1799020526	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRmrWGdpbcpywJ768AxSrplukxmpRxkbZI.%26dt%3D1767484526521
+.netflix.com	TRUE	/	FALSE	1799020605	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+00%3A56%3A45+GMT%2B0100+(UTC%2B01%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e76ec2c1-c181-4adc-b582-f7c7a4e8fb37&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

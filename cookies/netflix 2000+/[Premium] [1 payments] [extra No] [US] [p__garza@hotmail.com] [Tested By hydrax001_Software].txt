@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alex
+– Email: p__garza@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2020
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: 1628
+– Phone: +19566216998
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pablo G
+– User GUID: QH53PCS77NDOROSFCHS4U2KTOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1782574721	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2Ah3wbsa4LvXWpS3zv2qIluO5XaxzBE7_5lqmvHnGw2V05ZgAHZOhQ7tCipqz1WBIA8XUDxMnXbz-E4P-4T3WzjhbOZdA9U3apDkUo6gNYsounrmcWRpYsZDoNcol2EAVntXjcMlSMnu0qBG0JJYvKepCwwEDNWJ9GOtRyYuDdQBXR4I1GVB7N5TIFsigIuf5tNHaUfqImtbOx2Q5HutO3MitBmL17kSHhD2Cbnme9vSUiNCcg0hf_ZlBwaYXe9J2MnRe47bifEA8VboxZsYamQ8EDmDS1UF_CSMPMV3voWgftpwvvLkzUaagPkuS5R11qHI5M12qiuGF2OdVP0FZ4ZkFnkY-80pr8Ciul0Cz8K9w_c5vAA8zmtjBwnJTxCKuPyLWUXo73QSt_owELw2K_-a3981X7Y3H2Zugqs1DBx2eqgr5iv9DFQKBnJOi8of20ZZkNrGIkrEKYJFQYZtGyzgbsnAxYW0mi3TqgWp57JmmJmayRfLMGAYiDgoMsjcrEkUF93qMu5oN%26pg%3DQH53PCS77NDOROSFCHS4U2KTOI%26ch%3DAQEAEAABABQtAcOQZhY_NA417_PsJgSFu7_I6aMVvyY.
+.netflix.com	TRUE	/	TRUE	1782574721	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABShkiBRK52ReKAZYGOiMGKilES7YZV6Unc.%26dt%3D1751038722585
+.netflix.com	TRUE	/	FALSE	1782574718	nfvdid	BQFmAAEBEPQK12EEJomr6Ro6SD7QxYRgykbUIzJkD8yF2QMLFs-1eYUggX3bwLDnDeqgxwHWbeXAM5fc0XpPmmSPe8qXs6A7WQWzXHyU_qCAPFx6R36_VfrMcCUbxxiXE292atbDkmv97ZtoldAxskJW_NeIQyRQ

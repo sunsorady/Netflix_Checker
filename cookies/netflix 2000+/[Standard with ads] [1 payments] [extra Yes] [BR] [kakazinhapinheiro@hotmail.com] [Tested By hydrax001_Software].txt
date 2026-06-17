@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pedro
+– Email: kakazinhapinheiro@hotmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: April 2025
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 4820
+– Phone: +5591992160525
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kamila
+– User GUID: 7CEWWSESQZDEBK7XGKARHTYAUE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798254300	nfvdid	BQFmAAEBECWieGNdtKexlkkbfQznqspgQTbQm8-1G7BzCu42S4MUHXc7kqmtBgbF9OTFBMwQu0pX5FSUum8RR-PlA_9ags-M-LMb3HvhEOrRzOyqzU1jYeXLNnwlkVHrbIjrJH0Exy0ctf-Uy8ZYx6xq7ID9Iezf
+.netflix.com	TRUE	/	FALSE	1805826170	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+15%3A22%3A50+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e973bb07-7846-4b27-ba45-de0949512ab3&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPA&AwaitingReconsent=false&crTime=1768597612765
+.netflix.com	TRUE	/	TRUE	1805890270	NetflixId	ct%3DBgjHlOvcAxLJAzuMlm5Uc0HbNT3K9TsWLi_hGayh97GfE7SLa22nW4MPpHGtpA5IjgG5dwhOZ-pJrD2mI_0E0zcMZrwncv1kN3c2MT5UqDJrQxxy-BxyvMiw23GH1QCNyayuV4kI6YiHhhxs0Y1OJKSeeG84SOg7Ts5JwxZtRbXwQgLSEU9cPBamTgyzSN1U-hVlBEt59Guvv4JHStpCz0mQTUXTCsuJ8Sbvhtg6ZUbpH-JDX_syhCbYGz7hFwdpfnb8StexrzTrqoApOjTtH3PkpZlXMFM2XsGNiZVF3jj6jz_iowM0ZOkVc1ts-frrBUx9YV0a_EA9m7XM3jAv0GNLV2T4ilo8--aG7PLVNOkzU7-EiXHBF3wFg6X5acehD7HwBWYIn__lS5jgLEdWNmRoizFkgzfOxnNwZ7O9Q514kU80AeCmS0YW6zfwJE_YhVcD4BqC4INACCdK555HpKFxuylPsGOweYyJ6yw3_iAfRTNlkWEji48yLwfV3AteL6eXo7SiC3G3GBT1Wzsx3l8FK02h44_ne60i4hGyxDW_iDgX_HJI4UzxVVCAqCp8iMUnL91LlIi3G9ui0oY6vbXOlW71OEOU_l6AkSzxEgzfsiQYBiIOCgzb4Yhjshj5aPO_EpU.%26ch%3DAQEAEAABABSi9Cs0nDvzr2NdG2wyi_w0DrgoYJ2Vj3Y.%26v%3D3%26pg%3D7CEWWSESQZDEBK7XGKARHTYAUE
+.netflix.com	TRUE	/	TRUE	1805890270	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFRqfzAkQTxSPXLS2ONjdWPuL5p4zyik0.%26dt%3D1774354261803

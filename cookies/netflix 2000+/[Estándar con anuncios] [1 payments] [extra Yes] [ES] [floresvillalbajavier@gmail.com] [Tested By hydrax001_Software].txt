@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Javii
+– Email: floresvillalbajavier@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: enero de 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 4014
+– Phone: +34641646717
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Javii
+– User GUID: UF6HK2E3WBFY5K2XSYM7MLADRY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803272036	nfvdid	BQFmAAEBEKoy_mAQ-aqpbMZy-CxhBi9gUsdbx0MBRKs9xQXN_fRRpflnjC0AblrhV3NxckFijIA4bUG3yjqPsDxw6EWGxdZYEtsy9vCp2BK2R8aMa2IiP60PNzk0e-LksZJecL2_thwv77_pTqJqRcibdOFjb9oc
+.netflix.com	TRUE	/	TRUE	1803504878	NetflixId	ct%3DBgjHlOvcAxK3AwzfEV__NnuBnFFKalDXjCNx4_wKKQqKup68SJeExAN21yjZrEFTQDHfNypSWhrw1zyoUW3xicZpvjKmCOnZxD39AKM5loDEfTntfV2lDLiIsaDJRF91_nHdYdVD9WiiVqPx-c6PB3BN2LnCT2dMaEE3J8FxHhdVbLPm9sKRrIOURaGQIN04BwJGUSo6wX65XKq463S7mBp_M_MxibSXAo0Pp3U6KaHpqoG47AKpWP1Hh46NwS3ZMMh9a6VP27a-bbh1uS5iwuoCIvTcQB0CaFW2oXqCElt6vaLKFLMOHP1m3zXlO2NmNwfhgFFYKBIagjMmAV1BHPyM7dhGHtz3Htadltr6dUAiw1UUsjw93YQU-e2qgW2AfcDvqMKaI5k7GIZETBNRVMJ4ndI3ztMIOwf3WHFKyC3YokFntgpe4dMmdnX5xP5I8s6E4gb8cN7bGH4WY4CnRZOrGyDphM6K2bX_zXHW5cgoAN4VLQV0rKsKYgKH8W1M67QThTcDEUzewzsW04oLSGvRbLtCBoBFn2fDpfrN9OXhCKCc6grJJjIb__9kII4jvjGwaYvhMX7e0Jt9xyX3_wUYBiIOCgxPKRfJMbeZNl_zkZY.%26ch%3DAQEAEAABABQFnC-nhkLTtBhRgKsShwlMuIrlErGjUDM.%26v%3D3%26pg%3DUF6HK2E3WBFY5K2XSYM7MLADRY
+.netflix.com	TRUE	/	FALSE	1803504880	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+24+2026+22%3A34%3A40+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92020b17-4151-4515-aa7b-6ac146041fd4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jone
+– Email: ljeslin@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-07-12
+– Payment: UPI
+– Card: N/A
+– Phone: +919443032609
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jeslin
+– User GUID: WAAVARMGPFHXVIA4EBNBMIBNHI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807432953	nfvdid	BQFmAAEBEFjsJMDLoH1N5BSVGD1XprxgTeGTJBJHgbsbCiQXo-tiVgDbeFFjxISOD0xKUW9AfKsPyd1b_olbRk4xtRIFuZW7LaHY93VR9ugXdAwgNdikuQj9SSbfNN_-pQ2e5bAGD04T1ZfuhH9Q7Mb4TltDGZjb
+.netflix.com	TRUE	/	FALSE	1810319263	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+23%3A57%3A43+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=961bc13d-a5f7-4d69-8dbc-c9aeb6b1e721&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810537634	NetflixId	ct%3DBgjHlOvcAxLLA50PDV0krFuqwrP3ljJJtlbrzOXkFvWbaQP0AFLcoKpnPW3FGgXHBu1_GOP1h2vzBRgK7GzLgtoHsM0MG8CjEncCrXAvw3kjOYSZYGdZnCp0uMU7AagTdzH_xC4j-Tslv8qwZkgRM7RliNam3jZ6aKItvp2EuSATL4eBwF1jZU0-KNEq9jQYbs94lQ1bULnmSbB4zmITcWHVZp79F2cMorFlYvIlRnqMSlkyHMSUqF3dZ0IqHfKLP8Bf7FJdWYuDYUvYmiJPOsHLSwiNoAQKkW2ktnWqWOxDCoytU50GGJrJ9hdNYLH0pLmoTaabuTtlqZJ9X4Ydgl9j_VQHhxr4IpM1Z7fckYG6RwWoAozODaaBOaY5mRxtOBTeR8-P8IoLzKlLGBnEgbz4bnlDeEYN0xVMQVwWN_KvA3g5F6mD43BQPk42oDC6MwKGNXaF0f4ddwldcVOR5IQaeuTu7owj_Il2SEQBp27qQvfs3ZtU0J9uITbS6yQWs5oLXDyec2fl_dN3sHeCg4Xj4j2Oi4TSTycBhoITwGjKffuAOJg3neJDXIpws_6MdL8z8RBL5n1krQSkhc9OLLFxP6y0PNSBE7Q6BnZ_q7cIQ9GJLxgGIg4KDBIjvS6NzBtXNalA-g..%26ch%3DAQEAEAABABQX5MeSSOBNRkpSm2QM1NRvhCrGQZwl_Ww.%26v%3D3%26pg%3DWAAVARMGPFHXVIA4EBNBMIBNHI
+.netflix.com	TRUE	/	TRUE	1810537634	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjUMFWD8wp3j7RnyyNJpEFj7kSn1mcIDY.%26dt%3D1779001639047

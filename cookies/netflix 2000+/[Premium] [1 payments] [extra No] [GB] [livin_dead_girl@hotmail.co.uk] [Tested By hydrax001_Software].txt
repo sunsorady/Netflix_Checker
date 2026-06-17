@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Harlyn & Seb
+– Email: livin_dead_girl@hotmail.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: June 2013
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 7828
+– Phone: +447584688369
+– Quality: UHD
+– Streams: 4
+– Price: £18.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: zara
+– User GUID: V3WN2ZMEIRGLTMR25IGJ6NPBWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810055866	nfvdid	BQFmAAEBEKld2lNvG2x9TK3qkDzi3QZggps5Kds4ZJiLyqkZjsI_ofsm50BPOP_Tbi_dSUxHsLDzIoyy7OyYGOPhILyQpPmBVe7hJun6z9ddrgtiMeltjsH_wSO6Oj_EthBYYLWOwETkuDvui7AktbasPD7b7s3P
+.netflix.com	TRUE	/	FALSE	1810065387	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+20%3A56%3A27+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8da4ff1a-1f63-4239-91bd-b56cff2d6f2b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776351480744&isDntEnabled=0&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810149298	NetflixId	ct%3DBgjHlOvcAxK2A5uiTl3ruUesD_7YHdOlKwvIAzUVQ6UlEWxLhplNDa65_UH_UbMAORiRwS_jrS6Iu-u9D9gqx7j3Z4P4WrxiBKxtlsT0iPTtQeff-yTC3eyyzhf4ZQzWioeUErjCJszjHxU2cfsizUInZW3JSJ5DV1IieyPaAJasiQVjpzjSPfHIbm-594WTwn_6pEpidpTraNP6_h42xM8cKOZjJRgHqpKkbzMcneaOAc-7Ue6pu8jUWmpN3aHVEpdBwh-sEhOisVTPOG8W6ANBrAOYAXD__q8c79CQd08PLYO0VdiLipItwe5249NEM1xGs_eq3w8lAlpXZ9TF6ysF3c1F6QR7z0K8ZK1rQEKUMBWJBN6_xrES8UJdh7hx8lbz8EcBO-zwYwpSzH35gLTZMaLBLzqFKTZ77--HuHoceL0v71MET9fpC6a9enaImXx2jKQF0a8axNIiVvsNTRctfUc1YeIBX_Mo41vKvNCFytMmNM__KGxrfOmb-N1a9654SccEDuCEMgxwAhPz5ri9F3TJpmstnAWqEXZ3XMkMmdyy2ZGRL9C-cOeWlybyj4kE-bbGPIkDD_dJ5M5O9xgGIg4KDMEcNrVTDUw1nFX6rA..%26ch%3DAQEAEAABABRbQSO5GGfm3GDY91F0xkDjPPiN4EKgUd8.%26v%3D3%26pg%3DV3WN2ZMEIRGLTMR25IGJ6NPBWI

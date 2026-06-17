@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kennytwoteez
+– Email: tanakakalela@gmail.com
+– Country: ZW
+– Plan: Basic
+– Member Since: June 2026
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 0207
+– Phone: +263777613561
+– Quality: HD720p
+– Streams: 1
+– Price: US$3.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kennytwoteez
+– User GUID: 26Q34L25YZEXNEXV46FJQOGT74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807690985	nfvdid	BQFmAAEBEOoUPVMC8Dh37cyY-rDdl-lgDQPCGk1mnqbtQcK80m14Rj05J-cVkgvmol3SEF7x_ZNSDxkjigLZwKHoRmFvI41Ytntz7c24cai3nM1RBA7Z9Qq7XZJgtMmhnc7XSvPYuz-NTYM2QR08trTq8__VZNML
+.netflix.com	TRUE	/	TRUE	1810192655	NetflixId	ct%3DBgjHlOvcAxKKBNpiWnU7OCw1zFOr6a13cDnzZQ9b--TLXR9BbQ4vDjafaAosZfLI41gjkbNZVpUtnMRA5Elhjqdz9j-rl2HtzaN3czLBdAwalHUmdL3eYyKsFHMvHg73fReDw-o6pCM27gufMgJE0aU5KCLoJJDILYOk3v_ufU72ue_8u5egaCDEArk5bgSPirPOOsyU1-ALzFLsuCs4s32r9xJMg1193mgnzPwpzgWMYfjRGkohHnv43aPxDTDjtJe6KKwb-To7HcTw-GFiPUV9QSohdRTlGMdvIubVG4iN_-3PEu7RyAXPk2xrWIrrdPMCtqIo1Mn7j_TURwYs6AraAZDbIvXEhNqKW8G0bJ7Tls70LpoA1wuQ2RDK7ZnRMc1YbBE-bI9bLVeR6LjU_mZr2DcLuzgi4G4i13JK4hMMKhrLbW-gpmdy1Q3gqLa9skP0CdxPJx2gzSgsHZfVmGbY-Rz-tbzLVjFuNABXG58RpFcPAWVMPxnvqL36d958lMuBhOetzl_Jg2VvAvtUuMP5LwkQyDsWM48mZQ8J0kOYJldv4S59kCO4vgkkg3OnmgJrnXlfja-lPvhrOrZkwp5MaSf-WqEgmg1M6wuIsT9bEHj2f3eiZbGr91KdT1B4BlP5EM5ekrd4GExN6DswaAtFnhmpYAH3gN5jS4OaZaPMxEUBV_tlnzMDa8ug1h98KrQZvxgGIg4KDGJR0B5wsK5OM-gr0g..%26ch%3DAQEAEAABABSWWhYTVK6bTL-tYQPeDA4vBLnPny3SqwQ.%26v%3D3%26pg%3D26Q34L25YZEXNEXV46FJQOGT74
+.netflix.com	TRUE	/	FALSE	1810192663	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+09%3A17%3A43+GMT%2B0200+(Central+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5b5754ce-ee18-4b85-ab9c-9c7dd89842d7&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0

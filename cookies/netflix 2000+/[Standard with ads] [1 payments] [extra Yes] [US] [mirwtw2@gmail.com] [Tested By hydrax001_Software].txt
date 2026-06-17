@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mir
+– Email: mirwtw2@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: November 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 1172
+– Phone: +17432816186
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mir
+– User GUID: UM4C5DIQHRBIRI6BJ3VNARDALU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807842329	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+22%3A25%3A29+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67099e8e-52f9-48d6-965d-73b303f1542a&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1807842329	nfvdid	BQFmAAEBEHjkz5ZSmPg8KObQc32vgo1gbsgqF2Tn9budg12Nz7i4NKU9A0gjWuYUcDV2ISbWlBS7uyHQoRk8r0oK0oPmu1ft0XiHaJm8L7tJk3i4wzfhQon0m53Fgb0FrWMSplHrtvBAv0cOFlQqy72c6Pu12JKZ
+.netflix.com	TRUE	/	TRUE	1811451050	NetflixId	ct%3DBgjHlOvcAxKGBMwdsffQU4myuSK9ZDyzJJKdPunuS2wbA4OkGbeBRZmtCK3_NYvG-4fC8KQkOYmGAsJuTj6pQr0L_PdXAql1UCrmH9uPLf-Vt1viwz3bMjcm-tAauR8YxkMClB1W1FKfz6I6Tc9UydNkNabsI3NOacht7IeofLGKxtkpEofz9Pd28vDXWBNw6cDWDlQXwl-hrCf6nAzhPIDK80yh-StARrZNGYurRgWZRSFTbCNxO3OdPX9Z1-a6VpimbvJ_AitDF9326oJeDLAeP4_O6taCSflzMO6eMfaw1qZCz47yjOdir-uh9K0g7SBJokmLFK5t16BKdlNE7e7vRLPg9BH5LThF-NXoTLQOc8OCHzIt-KNCO4Kb5AH8xTxBFRDtdmdoreLXKJOr9YngZXb1pMWpViGpKYJyEQvm1XzLuRNiwt_UFDALH-hkMLc_6gI3MkWyhvlqAfo6kRN7E5Zfs0yzJ6XzwDn-rL5c_3eSKXdEnFVXPY4GYyKzmURrVxkKicatetNoR8qU_8-tQCCpbhAuzQzKD8HRQLHjAeefZ-7YJaeMupbcIJwTfR-dC28oqPEiNhrAi9LzjmlKF8neZURZVmet3V8lsgqnqrg61jVLGMGzYpUcjcptdiDZ7TaNOW3XS3jW3xwm4noC-BdY4hryFhQ9_H-SEbI1u-x7XE9WNQX1DNtRypi9GAYiDgoMZ0lnnRcqujtOMOe4%26ch%3DAQEAEAABABRKcUi4yQVK96kBXxNppkyS5JtDmAEGnSw.%26v%3D3%26pg%3DUM4C5DIQHRBIRI6BJ3VNARDALU

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Stjepan
+– Email: superstjepan98@gmail.com
+– Country: HR
+– Plan: Tiêu chuẩn
+– Member Since: tháng 12 năm 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 7797
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 9,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stjepan
+– User GUID: PN5FLG56OBA7BAWDAGN7KBEDGM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797013523	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDA-k2TWK8oPOu3FrTb1EQtRjd0dXbCaeEfq-f7SXCSxKPvAgQHRAroF_eLIS1ImKL5iO0GR6gvPLNBJhkjfFhpSGCkcp9Ldjs7RL9jbiWpPjGN4asn_NQBSDkRGlTvWB47xj7esdWvvsy6WRGcDPM6iiwY7oqo2yoTPAqP5gnO_Uqi_18ovpC81lh2Bkb4b7Rn6HCnZvct_G9Fh_T2qHsNNu45N-kE3bGXiijAz7TOfKpKSdgtJc7G7IrQfqNfRmwRMEXOEg4r_fOe9_Y8xLptlO_oDCdvYCArKHp5sxbl0b5Y97FIGlA0fhN70o582Va224eW5DIIfkaxQ6tpc5lD_gfsldIPKBYziXFuoM19CYiNbDwxESicXKPoyjplrb3ZVq7sY4Vh_pa7tPSyujlihnx8_tnCN-b9Eh7TJKslYsBiaOC4eHovQd9fyxx7CIYDCY1mSehacQLYe0WmZlOt5DXwiEZJ-Rh4h9Ku66p8Nl8Op85Suzq6aTB5v0fPflQ0yof5xgGIg4KDGPaGdVIqbVRIGtSuA..%26pg%3DPN5FLG56OBA7BAWDAGN7KBEDGM%26ch%3DAQEAEAABABT_iGKs1BlpGD6T8nWTWYLuyd8zLyQYi0M.
+.netflix.com	TRUE	/	TRUE	1797013523	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHADZxMAoJVqOvBiXyCnf3mYGkMZwc1rA.%26dt%3D1765477525624
+.netflix.com	TRUE	/	FALSE	1797013523	nfvdid	BQFmAAEBEGgLwKTaboe69gMCiYP8rs1gG4OG7SmQ--wDOu0WFlFqHhYtXYk-MRDcwRnClCXuvj160tpVbrDRG1f3Qj860NbsacKTm7r9eOpbYZRqT6m-3HtEgyuK70nZrVz8yv3P_Oxo1E6lZBqVZB1m2QwmaSj8
+.netflix.com	TRUE	/	FALSE	1797013907	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+19%3A31%3A47+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a7f9cdf8-1698-493e-a719-31dfea527984&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=HR%3B14

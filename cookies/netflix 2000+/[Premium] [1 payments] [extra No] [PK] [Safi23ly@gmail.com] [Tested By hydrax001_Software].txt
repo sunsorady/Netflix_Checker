@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Samadhi
+– Email: Safi23ly@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: mayo de 2025
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 0093
+– Phone: +923047259924
+– Quality: UHD
+– Streams: 4
+– Price: 1.100 PKR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Samadhi
+– User GUID: GPRVEUXRXFDKNJLQCULCTNPFWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806480708	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+13%3A11%3A48+GMT%2B0500+(Pakistan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=743f3832-78a4-499c-b644-2bbc116dee6a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809696201	NetflixId	ct%3DBgjHlOvcAxLKA6GEAzZfxU66mgRqadglmUjF0c82TMG8ec0ZNklG54a_h1q0CoquhfM7MW4ZeVvmvkYH2RBt3c71sitdSwxiYdnq0uCqF8fzGzxCFN7Ox2o7foXQOg_RpBrGZ-gLybzLtFIjfVtHev-xEQoiLBfCCx7wO_NqGseK8I6accczwS1a3naAWwhzQr1a0rCabGEm5u-peTkqLzWd2Cjkq9EbEWLcBVCJh9KkH3nXPOeW9eFs9jCsdbHkosNXKmJozsQsjPjwIJMOw84H8XJTZBUR_seRX8SsfzyN3IC-j8varOYG8wRxZx9v9QOd_cg36KA0W8kziJmlLsLECKUppiRh0Jn7X7xv_sKN0MsPatTtUzNv_8a0KcQ1DYRMMHetSF219ZuvpNnP3Hu2AgskF092u9bnARNULeLZ14ZL27HqN2J-_opk_pG17FQ0fwKCx-k4zjXEUZWgmZ_e5ial5OYSYlbuDcIqSVDaO0qwRrF4Lf2HbS_Zp98K8r97dhMAdxr68sLXLkG1CkloM4xdy4X-u_Op_hhFG_ZbyiX8EWjUqnb_ZuP2mWs9B19G08Syic35mDiJSvK78dCKbekigqvvk3YBAVI1QIlAkWdOGAYiDgoMm60TGM6NYVs4DvQr%26ch%3DAQEAEAABABSDNvEnG5n-XNKmWUKZiBG7CHwle7S2V7g.%26v%3D3%26pg%3DGPRVEUXRXFDKNJLQCULCTNPFWI
+.netflix.com	TRUE	/	TRUE	1809696201	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGMP5e6RWFVJfA1YyL26NaAJiONmkU4mg.%26dt%3D1778160201727
+.netflix.com	TRUE	/	FALSE	1809696202	nfvdid	BQFmAAEBEOgAAQXsmEsijztb9iQy5zFgn0pAx5yXklC2pdqX8P0st050i3xIIehAIp8YpAfd4nNm6mxCZj4Y9nFky7tKVwD1-5D9v3q5MJAwlSSAbY_jb588cRMqYAhgASF1EwVaFnrQ1gm2cR21L3PF66mtKmii

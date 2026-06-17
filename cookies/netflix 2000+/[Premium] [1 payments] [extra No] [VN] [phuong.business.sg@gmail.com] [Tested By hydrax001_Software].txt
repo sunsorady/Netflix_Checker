@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PHUONG LE
+– Email: phuong.business.sg@gmail.com
+– Country: VN
+– Plan: Premium
+– Member Since: January 2025
+– Next Billing: 2026-06-25
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84902357656
+– Quality: UHD
+– Streams: 4
+– Price: 273,000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PHUONG LE
+– User GUID: PWJTT5TQWNCT5J5HNZKKRTYMNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800804897	nfvdid	BQFmAAEBEIG-9oEHdBLwnvVsUuc8fPxgn9kg97-AQyKvPD0PE80ayuiDflP2jU3A5UDz_HmXdZi1_Ccan8epOeq5ZzcZP2GrKia_2k6oZL_XLJr5G0kE2cOwACUbkVrs5S9rOCPNxSpO5RL2UiNyP9bmY-IWHhU_
+.netflix.com	TRUE	/	TRUE	1810090321	NetflixId	ct%3DBgjHlOvcAxKGBC6mIm4oROC4Hn5IjCQcdd6DCBlB3dA-BNfm8XnsSAXteiXrOh3tgpWCQvII9q0V6j6oCXNouFPhHPuRU1wqgvkiMrqmCst78SIyR2n7DdkmNuqXa0dK8Msa8GUOms1cFmnQem_jyjZa-KFJQOZfgP4LDQGohz0k02SSKrJt_3fJglr9_oHSKBFiU9IJhNM0XgxaUkCb3ptpzpgzgJaFtP9HbyFWDcty1V8mLY0kTpFqVMXouxSqDVI7Yz7I3OT5U0QjzTsGhIkXL831Ai3qkJ0OfU3Y0HdksUDoQlnDDe6lqa_KB5NMvpLqAcnJOSaDq1so_uPdJ3oyXApb5_FB4jsZ3QCc_Z5rrXAlbwqV4xNNzvJ48AWkpqEopEIJJYtedb6ZaKG1C-DTy9uMU7u_TVLaJI-L3kSGr3-h3OYMzXolymh2jdSszYzFnNsaXQOzHnBepirz0gPieTVPz6PfqXOGvhrjhNhuGXPjl-QWJUIA7JgDHyDLiXtH3Lqy1NknSM8_dmmhC1XpV3pppvHIDGvLw7kXI0TVxTjrVOrEpSC3oHA6edIw4ZEO_e26z43As40Nh9sPeTuMigJohnygeON9fkEtzgbM6VZiuqbzakcCRRhnTufBtxFTNb5gD6hE7E--6tKcKNWBk7y-dIhLaAQWu1vrTnc98cQI2SxLjipm6_dlV5DKGAYiDgoMBrZgiOGp8iO6kd3I%26ch%3DAQEAEAABABRpA9l9xlVKhXw8rizhRJBc2bf6wHNyfzY.%26v%3D3%26pg%3DPWJTT5TQWNCT5J5HNZKKRTYMNI
+.netflix.com	TRUE	/	FALSE	1810111463	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+15%3A44%3A23+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6dd6ee9c-e7dd-4240-b819-7631709005d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769268897262&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

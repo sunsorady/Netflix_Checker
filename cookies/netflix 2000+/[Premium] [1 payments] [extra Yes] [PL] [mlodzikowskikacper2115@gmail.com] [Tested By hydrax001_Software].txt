@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kacper
+– Email: mlodzikowskikacper2115@gmail.com
+– Country: PL
+– Plan: Premium
+– Member Since: czerwiec 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 7726
+– Phone: +48512822560
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kacper
+– User GUID: CHBB2UKZLBDARF2BKPXQWG7SGE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803291076	nfvdid	BQFmAAEBEBnNzp680-us-jrNcx0ZYuRgf5PTD0hIrB9XhdjRAEwkLyCopcA8nGHxDzXOuldZt0-0UDxCTwStEF42RsAHmt_MReHbn0cVmCcrTrrgTTaPbFs__Ovc5qyD0w_Mkazq4JpkW-Guadmv1wSUpIsTW5Mf
+.netflix.com	TRUE	/	TRUE	1810408799	NetflixId	ct%3DBgjHlOvcAxL7Ax4Ou1ClXgJWOUU2yCx-n1bvKDWKFJ7HdSEpV8aY5p4N-j14IG8oExaGxyxoDNUnXsZ2n7MZ5WDJCdCMPXUAWzNSUwWZzS5xoZwbTnNFD04MoRljoNxtdHdJcr4uAGDpZ3RZXpQI79OdnpgRPZbf69o8KorLj4TUOeBJ2Nzj4PfQY-51J6M-d_GwoGSzGb-B0mLBbO473yS5XQ3-TwrelgH6K7GeDMOrptgB31rWS3J82LUkpwzahXBdenXvxyTXAdPh6miuYOF1FOf21O2sEhO09p3yBnVObUA7t43MZTVohZeVRJuo8Be4Xk5EE2zc85VfVEPnECXTiKB7U5q3Ssz_hpzlGr6aqfSBsJ0PmL7DRqdTgW-BPDtCUwcF9ubvjwbELK4MmiRLx_Php5lIJ41sQkUOvKyii3cRPa8tfuQLaNQ6oIJbZV3a0Gx18_CKrxuscCfOwvOcL4VeKw3RDb2Ci6uV9sNHWheoHSid1gIGP7D1qk66GaUa8lSDSg7cLPw6KAUg3BJaUEnIkryGHxMDQPMtBPzveIGxR-WzQRLqyZdZWywlO1xFRkdDk4oz2jAIAFZHB23PnfcZAN7fHWEwjCPZP7cz6Ff95_cHadM__Pwtoxb-9RXI8MBNfqPgVhy5UQa2iYzQxGTmqeTk3_1prLKhYVkbFuUgfxgGIg4KDOZvzW1sWzeR10bhXw..%26ch%3DAQEAEAABABQZ1Y2SfI9KTmrDAwk-ZG9VSurWGwYYnmg.%26v%3D3%26pg%3DCHBB2UKZLBDARF2BKPXQWG7SGE
+.netflix.com	TRUE	/	FALSE	1810408802	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+21%3A20%3A02+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7cb3977-7b27-467b-a789-361852738b4c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771755053779&geolocation=PL%3B30&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

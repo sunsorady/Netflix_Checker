@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: valdez_plan
+– Email: valdez_plan@outlook.com
+– Country: BR
+– Plan: Standard com anúncios
+– Member Since: setembro de 2025
+– Next Billing: 2026-06-21
+– Payment: DC
+– Card: 8452
+– Phone: +5562981011603
+– Quality: HD
+– Streams: 2
+– Price: 20,90 R$
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: valdez_plan
+– User GUID: D3742SRNDRA6PBPPQKV53UP5ME
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805636742	nfvdid	BQFmAAEBEBfDmRJve0u7jxF3VohTlL1gDyNUQYfDPB0EE0-5BnjGwDvbbmPj1x-uGrwJXceBXZEDEbYDY-IytPBRH08d3jfHePeFmHgzdigRcKY-_opdU5tUVgEQYrBXPDzKSOGdg775o7-x9zB9IbJbux_qdzpl
+.netflix.com	TRUE	/	FALSE	1811114306	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+20%3A18%3A26+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d5366261-654f-4338-a18f-5b1269575b91&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774100549904&geolocation=BR%3BGO&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811188401	NetflixId	ct%3DBgjHlOvcAxK5A2zoxIiP5BcqirpkSYqhJLMceOSsHlTDScETdwzG2HiewL8ejyF0OzzNYDR-xP_m1bO_zXQSgvq_eTro3C4NtffQOfTuhPNAMRuSEBvrFNBYQwWennEVDb_jHF9bhUDPEHRuJvs8pGJ_m6S2GdF6daC-8vJ5VMxCmnMTDUc_dy5AyYxnOLpeGNi1ibNdpE7UxHZA3v6EEUCmZXDkrJtn45Qr1NN_E2AjnuaOxaZbRvl4FzzuWmz2TnnaV_sSFz0LEsyilV_VioAgpKRFElJWQENCDwSe2OXjmcebCpOetRdKgQ84q8rfZKMsfGEcHxwJzcdZREWKaqsVpI3XQd172KtfwOFISQbvdXYHt_x8BW1HfZRVlQKqiF7zx5orLqP6nkT6Nvfp9SvarQ0u6cXW3GjF6b2DfpRh-OJ1nNw6a1wWq8bfpFm2HTJF9WxtHfPnJ4nOx8PdmhM41hlUBAiAVQ5a_YWlw7-wL6p3NTcOo-CdL4CWyUuzNIZ5tolAmzYUREGhycfueBqvB4glJmwoWAQ7u76_9hnRJqTazv88s9cvV-RflcbQCgNaoG4fOsZZWEkzzVbjm_GoxxgGIg4KDC0zOmEL2nSvM55wRA..%26ch%3DAQEAEAABABTsF_WosTZ_LAk6h5kn2EA-FVz7GM40F9I.%26v%3D3%26pg%3DD3742SRNDRA6PBPPQKV53UP5ME
+.netflix.com	TRUE	/	TRUE	1811188401	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjpw15TbfDHXN9VclzIzYhYEYFxqYuXFk.%26dt%3D1779652414100

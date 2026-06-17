@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paulo
+– Email: pauloroberto19@alice.it
+– Country: IT
+– Plan: Premium
+– Member Since: ottobre 2020
+– Next Billing: 2026-06-19
+– Payment: GIFT
+– Card: N/A
+– Phone: +393315085435
+– Quality: UHD
+– Streams: 4
+– Price: 19,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paulo
+– User GUID: KX4MZSVM75GFFPDM7GVUGTCDVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810861541	nfvdid	BQFmAAEBEF9uS605GbmYQZPCdJ6H799Aa1I4o7Rt0cXFKTSVXYbB1sD5yoiQtVrBmikwMhNtqyUL-eXvIXk9yr1hn1UFGpygxAjwzI8xYm-Vaoud10bhHw%3D%3D
+.netflix.com	TRUE	/	FALSE	1783551686	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+12%3A47%3A12+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&hosts=&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&landingPath=NotLandingPage&crTime=1779325522030&consentId=61f7ecbf-bbc8-42b9-b0c1-52d0c5ab2ab2&interactionCount=0&isAnonUser=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811521887	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQCfD3j-upQNqmQC7HKdZbXzV67CKBu8FM.%26dt%3D1779985887043
+.netflix.com	TRUE	/	TRUE	1811521887	NetflixId	ct%3DBgjHlOvcAxLpAwklUMGjYbusXB97YKIc4QmLCsLNFtvI0_gc5Ob2VKJygMwKgcOaVsgRlif91aStr6DADi6fYQtJz380IUVk4PCB2g58ShtGXpOPR07m1cduRRJY33kzz1U5lvxERTh-d5tVMrOgZB3ilCb9NigRSeZ-VxS1nQG1V5xB3MJbHO4cj4TvZHYZ4v9uipwNTjxo66-vGSUTr88UK3_b81M01uKWIAarRUckb61MfaspYYcRb7C8F8jDkDyYD-G7a2ExZSBCHH86osTiN0DC3USPYFgoVj-aa-R7ub3L9zSZ2Jp0nkYdJk9QH5bUB-NWxTsY-bvUZkb_5g1uhK8zlqZ9KHGuQ28PfwVvn9NT7c31Br4QI59z91OAVp1l6ydmNZlf2XjuLUfXHsHe4YhbSsjKRlWMLt2k0XcO4KZTBNm67k4mNeHg2Wtqoo4mdqbUtd9p_5-BunsPijlniSLfrgRaFUv3n2yjeylSUM3qMT_OCgSHroxIcKut1VwNnf-SdgDNK2BoIel2hsPdgdgM3pfcjPtCJtgYgDYVGdS-Ip5e59vQ8WSxc94JpAH8enlzJ2-w00ywuLi-rYcEc7T6T-WnWedTBj0bklNEwcU8WMFF7aaw71_twlqsML7VNjswQRD7AwOMEQBlCj_EEBgGIg4KDMbx8iuJdyTr6Wgayg..%26ch%3DAQEAEAABABRD_DN2icoMM648nifDYOGsP3QTghRZFgs.%26v%3D3%26pg%3DKX4MZSVM75GFFPDM7GVUGTCDVY

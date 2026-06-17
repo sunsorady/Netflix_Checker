@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Enma
+– Email: enmanuelelrubiomarte@gmail.com
+– Country: DO
+– Plan: Básico
+– Member Since: mayo de 2026
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 5549
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: US$6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Enma
+– User GUID: MZZ6QM7DPNDX3F6JMI54FMA3HY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1793811459	nfvdid	BQFmAAEBEG2ImEcxOIhwufP4FCwpCE1gLAXlzVpqIysf9seZm6er5pA59fsVAI6q2K6zqW8T9SUaZHkZkmIvAUkOXSeYe-IJ6N7OhvrQuatEautKaL1gs7-bvec_N_hK2n5ZXXrUS0guROln2hjfLyEGKfLGppPF
+.netflix.com	TRUE	/	TRUE	1795623308	NetflixId	ct%3DBgjHlOvcAxKLBAJ8VTTtqkC0qcxIBIVQIlsrVoDAzW7x5iIHa0lc8ItRVtZfkYAzPsS79e1YTvoGHWBCitPZHP5IMsUP4G27FjWIHWaERiQGi6QyyDJh811ZU5e46Zz5cj-uXeg9_Rwl4MUPH4_VXqGS3c1_kqUTsbl2z0_d8YxCRMXk4JW1CEtT8nNZZvi5sKhTOfrt6BE7ak4cYW6YIpvAHknX0j7GP3B3JQnZXLjWSI7CLyVOhuhBLlUyrq7rg2zH--SrGrLkwYy5t65V8wvWEyWzN4H2XVNOqwvYnmI31gM7hQ7BWe_XTW_OShzaodc-I332eVFVJA4dXuHpIjKCrDz6MyJDUHxXivAvF5XNgFgWYlwNRMtPc1mGIWxKZ_fr3P0eRBkV_JHJuVgBm-VZwBmB0doKAOU6MnddjfMCQJUTRxS8LTCmBxtk3ZQqU91p30chKyeKCAobCYoPl23xWURWImVjPAPJBTSwmXRzpfYWVe_DCWyszcMNXCsY9IVsgZrBbqh7r-V80eenRlLAtMkjlpLVMvcpiiz_X6TLE80BQWdrI-KAnfRVOrp26lvOBLM4UI6HH7PvzXKqvdvCLRpu6SWmaorUOax4kYBfoOzkjYKw2zCILaJczI8Zyel3RZ7G1KPyZRjs3JK_6pkqkdj7wuU9NOuqGHJTmf_Ydl_bqEoy0egWlG-eK_wN6V2p-uYYBiIOCgynCf3cveE3oq0BUcQ.%26ch%3DAQEAEAABABTz660W2Lw6z-VZvtbpYT1-YEhY-TumHyc.%26v%3D3%26pg%3DMZZ6QM7DPNDX3F6JMI54FMA3HY
+.netflix.com	TRUE	/	TRUE	1795623308	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRWC5GmhqGB-UHXvymTvgRaNFJvz-jrKPw.%26dt%3D1780071308454

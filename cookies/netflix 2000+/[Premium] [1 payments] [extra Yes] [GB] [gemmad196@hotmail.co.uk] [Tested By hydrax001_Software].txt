@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alfie
+– Email: gemmad196@hotmail.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: Maret 2019
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 9023
+– Phone: +447425244990
+– Quality: UHD
+– Streams: 4
+– Price: £18,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mama+Garry
+– User GUID: CESM4DFVLZHWRFMHSD4KEOCLTE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811178416	NetflixId	ct%3DBgjHlOvcAxLNA3pynIB0KwymZzy_xU9MlHp_PMH_1KZc-KCT0Sd2JibqyKoqKus08lYOkW2fbwSVV50DiPqYiRpvq9VK8NR-X9cNW1IFan9HmQqruDxJqg1dx5cRDef2TtdQY1ziBUJ6Pdo_AkPBMrOKNS86iyiWt1VCL4y4lQu-DIuUDgLNsrrdLrdnyPE4yVbWoaoY98rI_RKHH-esBSrB3PIGMh9WOBEktGSQzCyOv-ze43wE8aBE09wleZnvqbGmJlSGK6XqfrpoR4vY7nQ8kMiBHoy_AMzPLK0tBjaINtsRGnyr1u_QCP09Bv9zJAJqqxaJNajjEdTZ_rFwdsnpD9jgV6fFnfO_sK6k3e7DPJ9JTA4h0uZpUsSfQ0Tnq7ZqOQGibhmGsFqWQgjgdo24ilIshhlvxXIILa0Fm6R_xKuVgwPvhfsFDJdlRbVsnR2_q3DMsgs0HqJouzHZc6K-WcY6ryn9uck8JuuHzIELEXlRKyPjT2OMZTkHxwrauYyIs_5Fbc8BHvwB3rM37hrfJcFExsA8FLNBEe0U_CO4l3HVfyJsytIqSAuketlN1ZmftfcSxWaZ4leUoLDTF9GJenFTAg3XIElCODpF19jKharmgxbwGAYiDgoMPlj8H2LqOOJ4Glae%26ch%3DAQEAEAABABRFqqtokxIZQg70ocPOrZPW6TVIV4kY5Ro.%26v%3D3%26pg%3DCESM4DFVLZHWRFMHSD4KEOCLTE
+.netflix.com	TRUE	/	TRUE	1811178416	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRU2bNlbo1nrxG-XLIojHjaenPxaOQx08s.%26dt%3D1779642417629
+.netflix.com	TRUE	/	FALSE	1811178594	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+18%3A09%3A54+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=0601e16a-c542-436a-ac33-c69f1b97e70c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1778218156011&geolocation=GB%3BSCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1809754195	nfvdid	BQFmAAEBECnHHfRWx-OnKTVg7NQ8p2hgaBTmVvtzhmNE_DaZXcZ3jkcdwp5GlnBVwRXhL3_dpwCvv8f33zruoPieOB6xoEQzqhBHO39U67-k7LpFsGAhlcXf5F2ZpJpMwfXEwV67tacMTi5ag_P5CEPX_N2Xbz7-

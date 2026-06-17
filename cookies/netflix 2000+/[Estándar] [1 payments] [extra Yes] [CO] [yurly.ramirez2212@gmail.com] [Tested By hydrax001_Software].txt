@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lentejita
+– Email: yurly.ramirez2212@gmail.com
+– Country: CO
+– Plan: Estándar
+– Member Since: septiembre de 2021
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1937
+– Phone: +573168076802
+– Quality: HD
+– Streams: 2
+– Price: $ 29.900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lentejita, MARTHA
+– User GUID: YUVBFCE33VBA7IWS44SDNWZJXQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809570423	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+04+2025+21%3A27%3A03+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=723057fe-eba4-478d-bdc1-968b06ca2fa3&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fsimplemember%2Feditcredit&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	1809556692	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA9mzq1IAFOD8eB9mkWdmoe6UQnlCKKET0Hl_79xYLNt1-kX3c5NPIhgsCScY3lX0Xyrgtlj0LxdD_agDKt26XOk9XepXrL2adBalFajULsKNVW0x-kG6ag7H2IhNklgnXB_u5UOWRAzUTrHhstW-SMteqWc4Pz3uKnwRNAY3K5ee5rj7gIdMPJBAwCU2qofBDezeGWJUXNMTJxMbFjEeC8BvBIG3mopG3rEXsaA4Ap6Dvu_d4WAwkKrzevVfF6RcdSpLMG1kHLrRHVg54Bf6Y7bgppO2ciaJaoM0dCUkVXXyEtuLtTpFnORTPGCz9tjR-cXyxqp04ZpEGyKp8K2HnSWbZgIcYlViIwSFTY11NCv_tv7DYog-oYjpV1RggWpVyw72nS_0Bo3f_5OsnNixs6P13SY3dniOHqZFEnS6UkLTpw6zQVGqkO8vgkV_w-IFZhbL9GRKHvPv69GSpuzqS2BJYB50mlgL0Mcqunc3O9TzwWBdIXUrH7liBUFrecFKMfSLOzojWCXj9alvtdXvmWYMFyYYBiIOCgw_kISJeqAWQlhDjzo.%26ch%3DAQEAEAABABSUOM9fH0zgkIR19zzhcL49Yf9IUCmIA-E.
+.netflix.com	TRUE	/	TRUE	1809556692	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTcV81ioKbHjVCR7u81IjE3gYUK7U4mbY.%26dt%3D1746398292595
+.netflix.com	TRUE	/	FALSE	1809556692	nfvdid	BQFmAAEBEC1AzzvNs3F-H9imjO3Qz95gXXvLmbem3d5pvb_CPCphYPhdvZIR6pHfmyjebXSUWkq2DxmHRBM0_u2YMyqtOhsJ34UkM_B82OBCGuyucIACQzzMbpt6QPYgeM8qllLUB-e-ajY8877e0_JVwKFZQQAx

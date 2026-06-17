@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Starcklord Aldo
+– Email: morbi50@hotmail.com
+– Country: AR
+– Plan: Estándar
+– Member Since: abril de 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 4620
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $ 14.999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nelly esther
+– User GUID: 3TO657XNEBBCTDL4UBODNVVKUY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789224319	nfvdid	BQFmAAEBENNy-LRjE-lplLVZzOD6ZOZg-w_LwFGyiWKgj160PyH7AyHc9z_4hMov2JRlEftzaH5KZMhMqC4jh2b3hEoYy5qQEz0v2HXsGXRHYWE0FpbvH-UPQNjnkMxrtbSn_a9nEK6Fb12lCZDogLb_IJ_ndsXM
+.netflix.com	TRUE	/	TRUE	1810306336	NetflixId	ct%3DBgjHlOvcAxK9A8Llyc9RKjCJkxXGWFb1qdhO8x-vLTrKJareZQfvbv1NhtshdTuhY96eUR4t60tHBdPOXf02x2ImhgflA-zBWx7tKu16MQ8PwJzOJRfzlKcj4AzoQmHgsESVyrJKtzNJde3z-OGXwnW4q2H-V38SRK7hmIyhcYW8BaQAa0QeUt050B70tcj9kKfbjKYC8eZctQ5LUZmwacI0UfIh7MA0VVZRYv9Tv2zomUaazyuwYQh7IGxeUuEeoZeLoZIKZdYFLFPcKnytBTAijUPrkOkI34W03SYNwHQ0fuVUQRNjQifasGeVviTFPz9HAZDBKqt30d7w-Rdo_SmV3lwt4vYx7D3kOHhKDQlwh5VLwDAPvMGw4ndsP7fXwoJiDoakOWwSM9KnEflAmh7Qk-77DRvPr2UiaDD6U-yOkgdHs4gnulg8wFk5JEJZt74xkqQx1bVfleqb-Cmnabm0kbTGLT-0e5xhHv_93BWnwWFEGXuuUKAFxurb7JY0GShpTYSDsp4D3dhyMRCJEQGDzESe1HEUvcFcuyejLxYEfjL56dQVfGdJ_JdWzkwRzq98NcC7eHed4uPoVP_XrCnQ2NTBpWMYBiIOCgxLZYSz6egWUBzpeb4.%26ch%3DAQEAEAABABQRIFUaNgwPwZD0N8kKoUaujddMGjx4sKw.%26v%3D3%26pg%3D3TO657XNEBBCTDL4UBODNVVKUY
+.netflix.com	TRUE	/	FALSE	1810306611	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+11%3A56%3A51+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=345f1821-54ed-4590-b03d-e88f4ddcffb6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aideel
+– Email: tapayannoveedawn@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: September 2025
+– Next Billing: 2026-06-30
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Novee
+– User GUID: AC62HZISTBHE3PZGE2XE3T73LU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811388510	nfvdid	BQFmAAEBEFnV4s1WACngOgRZxl_56EVg8jTV6at-RbBr19h1R7ndMOq_e-v-OycoSCNlg8V_2M5ikfEeHlWp0uqN5lRMljzEQ2k0cWvioOLGSJiF2WgpcltngKEHBLYAjqt37KuaEcJiJlL8o9Xz00J1LBBLHIkz
+.netflix.com	TRUE	/	TRUE	1811388515	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA5RZHNj5aelN6o61TpneB9UeKLrIBaemnDBXC6oNmwvYwLpl2oPkqiOaSEIoEiHpL5ip1xacoWjdlhICvY2zMZTBhZGgeHscusxHoNnSFbuXxx_YYRJrzv59X2eVYiK7f7OzlTvY68eckN8sstkjcJ5bB4CB1QnEgXlDV-FYAerqEVlS1Fr7QbbzTjto6skgYpluWYvf50Y9ttzicqVmzE09ksHa6BZ3fa7Kxs9HB0kR3On7KwsHHBHa-8ZpoOW94HUbCHAH1qqMWFbVP4invQ9Z8Ccc7GIcaemodpMBxTuy3uONlPQHtOf9aD_rxd-oWlXhEoCxFz-CnsJW4_zXhm3GW90rSqYNJAvnT8Z5hjN5sTJio16d-8Z4hxowPr9CEmHTxwqU8eYxyvmdKkYfXOoAXzFpRfhRJ12bCcoOISyrqXvg3g_B0wQgsfrnwY0QoU0hQNeCFuIVb3Y774DW_XVdbW1Ed-TsxiYs3hD9mlY5k1Jm_E7DSJdcbZXWWzsYRLeGXvMQqT0dOv6KWTln0ncyQKpq1m3YJ0ybGAYiDgoMbyDc1ZL4ljTgarUe%26pg%3DAC62HZISTBHE3PZGE2XE3T73LU%26ch%3DAQEAEAABABQqZZk2MhH8p3TA6Zr6QDEfV4Vss0dkIqo.
+.netflix.com	TRUE	/	FALSE	1811388519	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+11%3A28%3A39+GMT%2B0800+(Taiwan+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c9be5dca-ff54-484c-9bf0-38a8cc10114b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779852253927

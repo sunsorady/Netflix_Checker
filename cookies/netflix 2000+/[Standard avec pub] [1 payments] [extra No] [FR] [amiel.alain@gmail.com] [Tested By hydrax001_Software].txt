@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lé
+– Email: amiel.alain@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juillet 2024
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33658089095
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alain
+– User GUID: EEOC7GWGMVC4XDYCN5M5VZSTSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799347027	nfvdid	BQFmAAEBEE_hua1tRDc9Z9xh-h7q2h1gJCWifsIAaf-CXFCaKQdS-sFjj9n8dFwi7bXEZ1BbvkQ1L8QiQQE3CYdOm8RqO5EYPC_iHLr3cfsenZulgzsnOoF9xB0DtEJ-5X-OxDroNhFH6YECYubjDOdJUm0J70oW
+.netflix.com	TRUE	/	TRUE	1808125635	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQznT2FOwdDnVk9IDo2iLEvFiVlZvHWgTM.%26dt%3D1776589637736
+.netflix.com	TRUE	/	TRUE	1808125635	NetflixId	ct%3DBgjHlOvcAxLKAxtKwPOTZ0_cy3ZTtRniDxzxyJSQj04U8tu6NNTvZPMdmQBQTncuc2DMFIeYAcJduVBNsb58q8qZcqEwsuoyV5vn9moLlaf20yMUzD-qin77_NwXbvVF25RMpC0yhkG22ucFSo-S_aGkDIVB40bD0Smw5os5tBZUgmADaC6rJP_a_Zj57axig0R7NW6dF-vTa_Tzj7KXpNULJ4vA043muXLQipaxBWiYKQxI3aIF-dlEBgQuP7ToA5LM9B0Dgb7OykJXDIHTEy0I_Rz4jh3VPda5dCCPQDCQtQkz6g5UI92FnccYROrhOcmmnFEjxFD0T3UQ4XacLbAE_SMjWTq6xxBp3m_uiUigw2mnYcFZycT8GcQx06LosdCpCJmdT2z1cjv5rHC5OscAlMZpJHGxsj41I7KM4ePHpKtJJ14k-yV1dIXfdJ6t4IhHeahGEu3j5ZjbFaL98amDtL0pdPnxbaJW7wjlMzIBowx64F935Et9UDqVpAv6YshrKwgrgprccmoNgG2h8wboRvlhBtbHR5LMF6IBgOa2IJ6oUfBSUpLTaL_rpobrS6FLSDbn7L8YwCCc5bqoYPJ20vbuBUM8IZ1DUHh2poKr6QadGAYiDgoMKh3qJn2NdXTX812f%26ch%3DAQEAEAABABT3CkZpIA2a-t4JGuARQxnoEdQS2gNWquI.%26v%3D3%26pg%3DEEOC7GWGMVC4XDYCN5M5VZSTSE
+.netflix.com	TRUE	/	FALSE	1808125637	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+11%3A07%3A17+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=029f67bc-bca0-4505-9414-c2ad7a8b5820&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BPDL&AwaitingReconsent=false&prevHadToken=0

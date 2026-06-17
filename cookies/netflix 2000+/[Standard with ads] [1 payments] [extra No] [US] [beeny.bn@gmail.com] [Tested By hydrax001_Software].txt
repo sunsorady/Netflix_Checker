@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yam
+– Email: beeny.bn@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: November 2022
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Behrouz Namdari
+– User GUID: WUAVAP2XJJH4TOKH4VA6NBBEAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810150124	nfvdid	BQFmAAEBEBN6n9WoKS6H4tbng_fGUWRgS3X1LKyqMenaq0xJSssWji7nqd9D98ABqiucDeHd6cB_RMTErbVeVVv5SGmcMn_XVjMFcGX05KueN1QQ5rJH50ePKxODjFh_G2Q8mzh0cGoLCD1a8YTEXSBHgnswvCwW
+.netflix.com	TRUE	/	TRUE	1811728266	NetflixId	ct%3DBgjHlOvcAxLjA94xRwhqIaY-3laI_MI7zkDyN0sA6xNLM6mSjNyvUXfEwg3TwlgVEkzgZO19Y3PYOmr_p1eFumGsOyCRRIbZqm4qpJFW28THFcjoIOkIIpdCpzLuz0fNk4DcRHumOqxiixur4z6Qgw4aWCtd8wQ6fYNWQfLWZgKgrxDbi5GhpnV3NO3U5nwOe863vafQ2brcsS9uSR8Kct9fF9Tlj6pneAzGt-BmLkWwFVq-YXbBgu8PPZ2qV2AwSgmIq73UHrdqU1FiAhEzK0QeO2Cm_Ucwxzazh7ewhDr1asB5J7wIolxFwtQTWnq1yH3EWRk0Y6DsL8LJyysIJhmO-g-epEslTKlXOw8i9K38y-0uhmxXjn8tn7C2ROtI4LDwFYqgnYT7mqOe4kVbSNf6ZizvUWuuan1PJh9EOhEvkoq_jT7Jw_6x4WERVJrPO4zZ8hWsiwHni1pZPALbKKDLKWn3izwimKCVL3j1fzb_Wcs0j7_GDEComG7oNBkuVdtPFgG-chy-3nc7xTWbTRDwOOH6aamrzmgXaIn5pQ65p697sdqjXH6KK2aFc0W0o1cR_CVJ8ePT9yckXBJwuECT0P1Zz5XE2_jW5pzhM1pvnVji6avL1evXMffniKZIU_MYEZz49L2urIvS5xgGIg4KDKetu7sq1jewjoO6Tw..%26ch%3DAQEAEAABABQy3daQsMqgf2I5tBRHiVKP7GkbZ-vBMQY.%26v%3D3%26pg%3DWUAVAP2XJJH4TOKH4VA6NBBEAE
+.netflix.com	TRUE	/	FALSE	1811728268	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+18%3A51%3A08+GMT-0700+(Pacific+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f3d1c8a6-fd9f-401c-bf77-7c93d48da1ce&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778614124028&AwaitingReconsent=false
