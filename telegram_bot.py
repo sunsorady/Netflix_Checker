@@ -430,7 +430,7 @@ def get_random_cookie_and_check():
         if not available:
             return {"ok": False, "error": "No cookies available in the pool."}
 
-        cookie_file = available[0]
+        cookie_file = random.choice(available)
         tried.add(cookie_file)
         file_path = os.path.join(cookie_dir, cookie_file)
 
