@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: William
+– Email: ninajacobson@mac.com
+– Country: US
+– Plan: Premium
+– Member Since: November 2006
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 4009
+– Phone: +18185855156
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nina
+– User GUID: MAPRPTTH5JF3DBN3X4YY5KXHQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795681071	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2AjPAfAkOxshTGgdWgc7lUFq-2_VxA-1lBpE9tbJRF_AQjHUOLM_BGv8Zlirp-5ak7zQtd5Lh2IojRe4KaS0GrL2XjnRGJtX_J07msSH8WelesS1x-RIj6BIpLhjZ45I1RomWRWR7EIlIAwzVFt3RVsCUaAxOijClwmwyKiHqK4_ITdW9SrQIQ2O36PHKlOKj64Ab9DLnAtA-TdGdBHqSACbBjipnKKfyXLJjUyxqFYUN7qk-jOj_cPBFBJWUDY_uZgU72hjRpFrFyxBDYQX2_fBVE3WXBecE4RNwgVWOWyxwXECrAtTC5bXnbtLt06Oi3GPVLSyEzNWisxBN6reOfmhjw3fV4qJK7TF8UntyXRTuwXdzqW_wJrUNd8lkzZhfwuqE8_iczaZ3B7pclDAjvxHwcDCXICpIELMFLsNWGASEYbUSK6fxsXYS8DG7Ld9iLAF6VyzsezYl1nnUBhJCAlz0Z5T9vAyUdHv0TK1c148rvdIT46lTGAYiDgoMn4B69VzZPhmeCTo6%26pg%3DMAPRPTTH5JF3DBN3X4YY5KXHQE%26ch%3DAQEAEAABABR9vVZiY5ipwRRmupM1SXxUsCHWfNPRiP8.
+.netflix.com	TRUE	/	FALSE	1795681073	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+26+2025+00%3A17%3A53+GMT-0800+(Pacific+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0751361f-a19a-4093-a91a-60012b487b78&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795681071	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWfNwFxtRI_hzn20PMsmZy8YusfH6aRCg.%26dt%3D1764145071827
+.netflix.com	TRUE	/	FALSE	1795681069	nfvdid	BQFmAAEBECkSPT6hcY8Xm67ehLbLP5FgZR6gBUv_3fOlJ8chhONxVKy3NnFJG-rSIrCuUHWEP2b8k9LCbGk9mXttkUMaUbs5awtQ6PbSrzoKUwnRlOrDvC_B6cnNXKu1UdhX4fqwCa99WxanngsgjKjSZ22yXwSF

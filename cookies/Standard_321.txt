@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Manuel
+– Email: manueltamantini@gmail.com
+– Country: IT
+– Plan: Standard
+– Member Since: April 2024
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 5160
+– Phone: +393890287201
+– Quality: HD
+– Streams: 2
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Manuel
+– User GUID: MJAUAFOLUFESXP5YFJ4QXKQH5A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEGqGFJ57AEtmcpwYndcy_XZgFXLP8OLH_9s7V71dcFGS9KRFluPqg_vCyKWYsj5gnVIn7OwtI1U1RpLtYzM2y6217my3-Y6Yxn0gbwMnTn5T11AZ2GhQ23zVW6Nte6xOYkEA8AW83sbsK5dhH4DYRba-
+.netflix.com	TRUE	/	TRUE	1782466745	NetflixId	ct%3DBgjHlOvcAxLjA52xgJ9EmFZThs1ObNEcnWeskKynej3e7hjYU5dhYvu9obVDKGfCTE3v_uszSidsBK40FOlOnnzV7tLXG2KwLYCxe9wRAeRIBC92yic0mtYVeWAPRGz-qoJ9jP6HUfntlWLCkESDKSwk6JSBc3_Z7_ub4kPfIkUapllkl9dUONiHXLEBeDC7KtRA0lQKBGUwq8k_FVz9ghllUsYwqFSskY-T6efV829wOkQyCj81SPSJJdBFdMv5gmMyYDh-xQsAobj7gYmerUeJ_aAbGdOVQ-A-_wUqkCEBrPkhoPb4b2IqTfZRDBxcwBLd0eh2s6fYu4UUwOnNv5MmtCkGlEVlZOsB67lNfGDM18miHubsoHV10KIJ90HiEOzbq0zFtm27Hu6_4ZSUBpzH42YM9Sd_hWeboq_zQvhd-xG_BLaOoWn8JvKvHvEMuauTY5PsHL2ygwDtJN0CXcDJf69Ey-wpCWlJkaTaRf1i2q1vduNu_Uztj2BB_Uoa84QAmehW1Dx3IQ3rcIKEDeSSwwGejlNDS5WpXSLgIG9Miukc-mez7kDfC0Jm0LyclYSAjiAMfqnlExh-Pg7cNBXMQVARdE1I_9g11cOBVqd1pEQF8uv_xw7qcVKWqR6qmz9Uk-REi3YTFj8uJxgGIg4KDKcfNMXfkkVrEX5R5A..%26ch%3DAQEAEAABABRWF3f2rw156u98lnQhjuPPkycU0WRupzY.%26v%3D3%26pg%3DMJAUAFOLUFESXP5YFJ4QXKQH5A
+.netflix.com	TRUE	/	TRUE	1782466745	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQNwbL6W7BPZVqo3Aav_4mdho2hC2yGLHs.%26dt%3D1766914744276

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ben Kim
+– Email: cindyhjung@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: March 2020
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 5392
+– Phone: +19097068600
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Hyo
+– User GUID: WJMA26AAUNF2ZJ4NP57GCDFEMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784234204	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAyXdgDQoTAnSKUJvU72Ux774I7auR_NPnB5xArRF9ACpab6xUzveBCFAqd0MZ_lfCRgI36ixgDDRVdyv77JWK5lwfFeT_Bw6L0H3rsjAnuUun8rhADx8Q5Gqm0YLcV3Cv44VpWYNwkhbAHlVKj4t2H_esvMqQlWcUY8AK9umIcRVNtwV7IFoCcI0Gpy95Xjgja-LW3tKTD1p-GxCpefa7ZNuA_weR6C_a_Y5MhIJDhXzKpzJT_Xp3B4YuuBs-CrB5vDbZMI51G1hD_R__DO6DbB0e5uqr9FpW-Iyh21lqcxw6kOXBTydn2N5c2Ovg0EzY-HU7RgMD3BXHjvv8qahp-Adq1swEzrARIqhfEfMd7btP3MVyYptoGtNeKevtgUk4ICLoPK6uEt_z0GLm0qXPKxLw_4ndPvoM64VXg-uTuIqN6NV7bTvdRiGR_ZtduCO_yV4_Z1cIPR_ICT5bEA6EtXk9juc6Rfm4GXfnoO8zWxGPtHBdJjcDDr6emWt5XX-BxgGIg4KDFLMaFL1Gpr4__DyxA..%26pg%3DWJMA26AAUNF2ZJ4NP57GCDFEMI%26ch%3DAQEAEAABABS7F7D3KnxJpqeizSEPbLJ2msKjYfMzwEQ.
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEJOpMwwHYjhomN5eNLdRTclg5hRBPSRBu1hqBZltcfldo6o6OKERG3sk6VrZRJFWgkVwf5ux_ySyaDwqCfFCb0qHXrB6A0eCTxXVulb9rk2Xd_zR1BDdv8uaSML_LQBs4MvlX5DzIJ2FkmTWJvMGdrKU
+.netflix.com	TRUE	/	FALSE	1784234204	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+22%3A17%3A08+GMT-0800+(Pacific+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=45cbc496-6ff5-41fc-8f60-35d355f6cd5b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770963385937&AwaitingReconsent=false

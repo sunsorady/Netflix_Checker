@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Romeo
+– Email: romeoroldan41@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: October 2024
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 7834
+– Phone: +17343187550
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Romeo
+– User GUID: VIOGRTEMHZFXXCLKD4AJZAXGAE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBEBToMmkFAYDVqSwfwxw0kBZgSUxv55YpY-65cNQ4FsyHFqDUbqx1Ureg79NpX6kaM2qczXovjfDxl5kIu_0v_lVAExYRNWcMVjMYsWC8Y6ov3BnxsSfOuVJntibYZoy4fGW8Y_4FDKm1915hYGrhf6nQ
+.netflix.com	TRUE	/	FALSE	1783709036	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+14%3A38%3A00+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2eac8702-8da4-4c5a-9dab-99e0e2777991&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776643799316&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783709036	NetflixId	ct%3DBgjHlOvcAxKJBInp-Hb3Ye366K_USWFelVRsRJAXWHGcnYYnaDZYRaool-ncYAfhn9tf-fKw5A0RP67IRe9dhIDVbiEsVSSXAyRUvfWOKILYdoxMSey_759q0B9hBR2-ATK2j3mcGQ8BqZrRlq_5JxP3Ceqs_YP-x94RfBq4zq7aJqXa4DasuASgWQ7GZH2ooiaG0wEdz5EeN8QfLamgKh--9wjVPPnmDEuYtpl5IrmmcikRmtTCTU9p5nwMP6HZjmoE5JGgBHRIMF9RRf91dbFTziug3-1GknaBAHjNC3r2T2SYvLJcY-VEARtUP78kA2f89m_M66B3JlOU5fH3wTF-Rc--b3iK2WJOimJumiSX85RmldhePG__4HocHgV-NmRVbYNCZIzKik3ioAaQqBkUfH1x1tEtydQrq-tBwz7YRTnH03LtWlfikIVCeJUm5ZbEiNI_izs4oGK0vzVdnHaKm3oPPQZ-g28C6yawqfq6tPC9AdR4AfIBJ81Alq2eJ29sYEjeXPxIEr3JYUtaDYNbJqslu64hLShGjrOkl6uy-nOFE-2EXjoWBFOP-ZbgkBCuSfEi8bMpav0XAmju0jCIve8KAmupmzdxVdHHVhAwozsLBcal_fYArAzXa-kfQtDIM4gg7NA-YodQ1Z5bspCqxvhCzVluX-UkYxuAjlXuajmtRV7lVo9TfpsxtvqazW8VGAYiDgoMeCiifCZcpBZ4wlgv%26ch%3DAQEAEAABABTvLdb83IUlXR97upoWFFLdXtLHmnKxgxQ.%26v%3D3%26pg%3DVIOGRTEMHZFXXCLKD4AJZAXGAE

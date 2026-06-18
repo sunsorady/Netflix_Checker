@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: inambabloo
+– Email: inambabloo@gmail.com
+– Country: IN
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-07-01
+– Payment: UPI
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: ₹499
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: inambabloo
+– User GUID: KZVY72TG7JE6HCOXLBT5UQWUAQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806161212	nfvdid	BQFmAAEBEDf6pCPUpszLKRRubdxxPXlgh0aFpCeJP94N3Y2tR_AzKbSNeYJmGW6fHaB5A5jdN5TmFol_vMX8ugrCz9cQ8VXJT_N3RLSoRdsvqBQ0qQWSz0c0iKLZyH60-Sp3pha8QegpAQwdrdwqUA3V9bBRHFoX
+.netflix.com	TRUE	/	TRUE	1811704468	NetflixId	ct%3DBgjHlOvcAxK4A54RLFDePoBe0b3wSdGUOhKsPPiDMCzvDgTIe3PNDRZshB01Odh7TJS62BOUyFJrUxqIpZruGQiZeKmAkKSBwB_xhdH04kb15-EUgu-oFlbkN1vDZEZ6mvyrmGYEp9MKzlPo8Q8rwKl8adJLE7FXdyyqzzCQX7TaVoT5fagzM7Eqpbg3wxZphYHk-fhkgfXryWesSXb7mIcdvOGDHU_NrOMrFj4oW3pbB6dNsyJF8KwIIFsueKBlKejBYGeWK6PIBQjh0DgS4rS4k55Rw-itv7pX_YA6X1pUe9hfhRJqjO69AlbkAqiUelAbA36vKwQ3FBus36RAUGNqth8INq0XEwLB7oCTRddxsQJz61Ovm-oLumuEls6AVbQTYwBCyuxdjwoKNA3ae_-6XpO7gk-3L8BAgDaaAxJuvzzz5z9dx_Dt-CmHtYrfBjRC02ccsb156ju53PRFZWpmoLIlQzanQVK197QGcMQ6mpoHgdkLwGhz5lLDzDhfJ86-Le-em_WaiJ8wx6s4d94ZBGeLRhe0gqw-xUBXqQ4SrY-KnM6kNjI73gszJ8I4KxS3WBtDh6MW1byDmqw98jefGAYiDgoMvIDTsLLXYSLxUvJq%26ch%3DAQEAEAABABQHj8zgoM-thdw115mn1MEdE3s3oDz543Q.%26v%3D3%26pg%3DKZVY72TG7JE6HCOXLBT5UQWUAQ
+.netflix.com	TRUE	/	FALSE	1811704471	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+00%3A44%3A31+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=271c2e14-0373-45e9-a8a1-2c3b2bb564e6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

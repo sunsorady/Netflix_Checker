@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JEAN 2
+– Email: danaeguzman90@gmail.com
+– Country: CL
+– Plan: Premium
+– Member Since: mayo de 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9277
+– Phone: +56984533359
+– Quality: UHD
+– Streams: 4
+– Price: $12.990
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: JEAN 1
+– User GUID: AMEWWPYNF5E2ZLSM3GIOUD2RRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBENzBtgmaxWSJEAUnBlMhMdlggX_uY0jWslX37kbFssCiCZRbkofI-yJNh9uDBMsxWkq0Hjz0KeY1D2BZeongvMXP0MtSlVqB4w1_BnVoIdD73nyI0SDPl45BoaayvvyVzSkWXj2fvgXRM_OwfJPJdwpq
+.netflix.com	TRUE	/	TRUE	1805236665	NetflixId	ct%3DBgjHlOvcAxL_A0mh-C9kr8RwhLtJzyCOBGYgBH2moRW0Z6xYJft9WpqxvdANdLxfRE3qZ-BNqEaacPX5n7YS4m-0aRGVKx6ztvsLADgx34ZegJTsD8htpr90TjZ7Uzbpvzin_zriGEn0SFiY8_P7coAi6_Ct8yAF9m56YxHrXjgXceBp0shjTTa-ca1cfWAfd4keLc8ldSL_0uYGkqUkLX4uHIR74AGYNi75PmfRDk6bJmnThSry77fuxufur6n8mmdmH8tsB-azOJStrc_9BJftIpDhkCtFjdAsskFfHot-qDmM0v654mskeWBPPnn6uoPRNiUh3HEkoGT290QcFf3IZgfeQRj4j_XDkJGF-Ykx6tpLwmsvegXc1ZyC-QKJ9mu18Nx3h7BS4Qs2HnsfuSbnmHhE-1_H8XhmrSABmNxyve4TkYluXqbR61gt-pk0cx7qSqnentexL40OPBthWKjpYgaue5G7IaQRatyBn0v2bFS9bzunqID9fjmTtTZs4wxyN6FF_iR9wL-XI48tuUDZNjHI0So1tnGeo6HXGSwQ07bK5mWtOZpU5g0JzAJZ1eFD5U7Kqj0nVJkTBSsGGwSGiFLaU-se3dJZEu_-RKWqSTPVlrQwizDpnDchHFZokZ2Pfk5PPBNPng8MJOKDcg8uoMSQB4p6IwRQnMMTj5S07z6xd0klgq0YBiIOCgzHQnpjMkrmee8R20M.%26ch%3DAQEAEAABABRv3haRA15u4vW6iQwtnww0756zFIMXF_Q.%26v%3D3%26pg%3DAMEWWPYNF5E2ZLSM3GIOUD2RRE
+.netflix.com	TRUE	/	FALSE	1805236668	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+19%3A37%3A48+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb99aaf1-d854-4a58-aaf2-6bc051b83fb2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805236665	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6jh3c6kT_7T6OJflUNdgZKSM2QX8Rzqc.%26dt%3D1773700663834

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brandon
+– Email: xbwinegard@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: January 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 0333
+– Phone: +15405753705
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Brandon
+– User GUID: E3PVT7LO7FHK7P5IAT2TUVBWTI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789287431	nfvdid	BQFmAAEBEBXuSXjkVpOQaYWpmt08skpgqlOTtUerPIk2s9FMxRDLOyu92jgRM23k2o9ULzxsTJPc28YY8gdz3Gh1AiNmCzFc53mBhCYsiutPd3kWwU0h9HbDd2NwxVyK9ZqzNBkOpGVhEWYq12QcQFK9ZHtSj48U
+.netflix.com	TRUE	/	TRUE	1808899590	NetflixId	ct%3DBgjHlOvcAxKBBCxjBofmxRZbfU2T4eDl4Tr6AGfgd2TuBfc3niPyn9kKMYZ7ftrNcwRlDOkxGyKmACa1fnM3CPX13SkHKHKh9mks4A70HbSaEvwqOh4xsc7ZyXcNB0lIVe0ScwXfi57MyhJ7_usFO0PfB57Xc3FrjB6WvNYVsif-oFxy-L2YVHqRqCYkR-lHLehTiHuFmFlFSknZyArAsFGQ1hP9T8igPVEsxLmWQgo7UwvYxmn_aFLeoJIwbNo7ryfXHxXaorRdZZWrfHAA4QMNc7PNuZoE-wXNjxMT-3ouaiFYeIpi1aF0fr7zmutt0Z5gxMtiGUmLoKAp8onIB2WCtkAMM__-Rf2RN9u4KBQGImwav_MfI7DN2H8y4wVxXxA-EtXCenZ_EOPsaVx2FuzIeKpkcxIWG6vmrQwatoSw5dPm7uJ8v81K7kryuO0R7dBPe6Q7zoJm85mL9aQL-kTWMymw85n1HSk3YN8PcP6ZESrwiHS0J_zFRCK9-5CP4L33puUnII-l5xVqFzOT3FM7g8J2O2PlSGx0KDRx8vaKEfMJwvkyqRrgJRTjTN6EznPfYtKu1qbpHS1OTFHvNHzWejVRs3UuaNwZE2TGguUGtcoOviGdP8OK_JPx-4RPvIokM4k--91t2-UIudN-H7-lce6y3Ghome6FrVxdZ2DCDUqgRWOUmkQ_kBgGIg4KDHRfkMEuwHchv0wvbg..%26ch%3DAQEAEAABABQoHcsPNkyUaBm6AK_IsgPwdrLWXNPlZWE.%26v%3D3%26pg%3DE3PVT7LO7FHK7P5IAT2TUVBWTI
+.netflix.com	TRUE	/	FALSE	1808899593	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+04%3A06%3A33+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=948a2b06-8c61-4262-a917-3d79cf8f9cd6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808899590	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFuMaxUsuTpOB7PCdZOq-Vr9YIssEBl4E.%26dt%3D1777363591957

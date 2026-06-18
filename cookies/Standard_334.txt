@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BEH
+– Email: nhemana@gmail.com
+– Country: NZ
+– Plan: Standard
+– Member Since: December 2023
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 3769
+– Phone: +64273505085
+– Quality: HD
+– Streams: 2
+– Price: $25.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: M3
+– User GUID: W7GT22PT5NG7VN6APAC4LFINMQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808033664	nfvdid	BQFmAAEBENpa1ykH6oNwZurqDmje3clgly-0Xzim8KPs5KTnnJ997a68HqzBzWitU_5dHeLKH_oHJAsbV_EVWpjvwYOE8pomjwoTa1z2UH5N-yOhcCJBItQMleM9QPxlqSIR81d9zhGYdOe4vILydWyQ2S5T4yox
+.netflix.com	TRUE	/	FALSE	1808199997	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+17%3A46%3A37+GMT%2B1200+(New+Zealand+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d98a2104-4d9b-4be3-9181-7c96524da651&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808271600	NetflixId	ct%3DBgjHlOvcAxLhAylTR1HhhSY6CbzY2HElN_61-b1zELDZg_QHZ6T0LjvXPqyhAdTAjsxqHenca1rJh2uNvnvEz9x1wTF4dnoo7pakPchMhN3hk8b-8tIsaA4M4tJ8TWd9p7q1O9-w-E3JKow8MZrcs0d8jkTU4GxU1cc-cucRue8nMNmaUWfdkIxYgkw1J3SHTAga-3HeWktlxg6L6g1GzJsFTw43o3AKYGKeKRnU25vkiuoVT11PnMNrY5qTKuI3x9QThp_IrhHNI9_MBfvj8aN6cUXPRhIM8_zjPzTHDN8NhM_Z_7AmBBkKTxpGPMMfKKklBsCeqW9L2X4kDJBDBzaYa5ONUD_olXIZizKE9wwLEVuzZTDlSrBE9oOCcQ2xrarZlJp8AXZaplwzV7dsGJZ7sxOyDlLsG5-Dc_7oaPKC5JTsFLM0XNh2hcyl74IHQAE-8DBx6VL-sIOF73iGoF6_qysJ0_y9VHfCvo3ZDdzrURPJY-w5_oZBCGFOE_ItsPXRLP3pACAOwggOhCJkgaaYJDEsdNuk1fKEwRNiRc09cBgEgK4evataMg8R7ksN213q6b9BbMu4DsEy593rP6eyJ8mRuteJjUAgBDbDanimBcEh7nZIKZdsrHxn5JRQahSizmrhTAqkWOMYBiIOCgysTRod8-FAI2wbpVA.%26ch%3DAQEAEAABABTfl6r7nT_QxvN6n694ygqAR-1_Va6J9EI.%26v%3D3%26pg%3DW7GT22PT5NG7VN6APAC4LFINMQ
+.netflix.com	TRUE	/	TRUE	1808271600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKEJIxefPdb_plV-fiq7NKBDRmczdy9VI.%26dt%3D1776735601966

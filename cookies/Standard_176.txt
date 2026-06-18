@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: FreeBillz
+– Email: victorynyore237@gmail.com
+– Country: NG
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 8405
+– Phone: +2348021353338
+– Quality: HD
+– Streams: 2
+– Price: NGN 6,500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: victory
+– User GUID: P5ZHHPJWKFAGNM3VP4A7UMOBLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809605708	nfvdid	BQFmAAEBEHRfQ6NbRdovHQIkf_2gM8dgAAooTdaUI-M2OqOwTdB1yeWFaRtDVxi0w-OVG5VhSnNKBuuEqFSVuz8ym5upJUQCBHbZmlroEXeR3kEUlZNTMRG5EzTsnlO4Vt9PDdPhU-LUXYOihyPhxQvYmqS3q7ai
+.netflix.com	TRUE	/	TRUE	1810111045	NetflixId	ct%3DBgjHlOvcAxKDBJsSlfpxVHHDBB8AxloQnCTUA9UvPQTOE5Ud9ZNvTXOT-nlm2dZMs_9OAC1SR6GcQuXMfaaOY5CVRoVx9NmgQwc6zLAMFlE7_qAn5ZBz5-yu6J5D_IUNANLlgFdYH565RU9FdsLYTsQWQxotvRKUj_YjMxD6Ev18lVwwvwTGE5hoZbYut9NDRbyv3ltyOt9N3ZY_8WSbSwlz-jhqF0M4USSb_OB3z6iT5dsPFMWMTZvY1DkmajwiiqjhqrU9r1u-u2ExAxx7duvKnCiR3r-mEiGro1UaqHOXQ5R8igGHRzvd3ify1rdV9HV-eqeCpTnWvALEVMpTctxPJksMSG_6JylsW52zTZZxwLOthko56zuzGU2TWLaSFVUyZtU6Yt5x13X-TR8kgAAd06yOV3Wx8jtieYEGvrsN7KUAyCmDODdU8DJW8vXeK-ZA2nfmKpYTbAyQXjqOs4-HJhHnE66UXwoKNojJDu_0ApXOkguWQm_80gq1PdqKyxOCbO_m5wKUhq8WIuX9cbuDiy6U8r_Zb3m-U4wvJJTE3q5OXybx10AQ0yoN-Adp8CN_N69yqaGt3nw-VWJvpo2sLLQpF1khaOO0PKUhhBUntt-IowL8Bkm3EwkYCxaNEdKt4sd02awNBP1tdLXK-SDPBjNV7cGijvlR78GJOtGnLGyBHu1cFp-LvIDuGAYiDgoM_17xEYHROLWLIeKv%26ch%3DAQEAEAABABS9e8X49NPH5mKMYkt_Zr-Ytm3Ez0l3aKc.%26v%3D3%26pg%3DP5ZHHPJWKFAGNM3VP4A7UMOBLY
+.netflix.com	TRUE	/	FALSE	1810111200	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+04%3A40%3A00+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=220563eb-b13b-4d69-84fd-666d2aac4bce&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778069647428

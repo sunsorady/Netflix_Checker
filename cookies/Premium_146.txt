@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: keshav
+– Email: keshavprajapat00k@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: 2026-06-22
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: keshav
+– User GUID: PVECLR3NJZEIDI7PCB22JQVJX4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812298842	nfvdid	BQFmAAEBEAYt_96VtNy5NW_JGyLoskFgFq0Lj-KdZvGNk2qG42svC0iiCxaJaE8zpuoqbrseNRvfmSmvglaFAOLEER3tQbhDXRSjAiLLPjQmqt2-qfLUbE_5PP7WaXK_h9yb91vdrJswlLpSPG617UO7pIgiV4g8
+.netflix.com	TRUE	/	FALSE	1812306021	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+23%3A50%3A21+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=51115d4f-ba38-4a90-9cdd-89ec6565686c&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812361657	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4jrSnte3PG8L-nza8BZgNsV6ULs5hhr0.%26dt%3D1780825657101
+.netflix.com	TRUE	/	TRUE	1812361657	NetflixId	ct%3DBgjHlOvcAxKvAwufe_3-VxD3lye0CxoP4w62r_9QPtMGeT2HYH2eviQtqqIo-j_33ulCpD4xYf79NFqOnh2x5IpIl8pdBDQ6vRph7t0o8BEYRd8M1m090aM_Slycjv2x2g2LXrfGxyZvN4uX9YJkWkjUHaM5qsLN6waBbdJozSG7udcKTVlLNcW4-fYjHJab7bYRigWPN3bm_jLQe4k4aS0whJ7Omgwjd8XPH4LBBcB0AhVmAej7jMrnPtrWBexu4w-Q20l6lAodjNMzWOLbuO0U8Lz-P9sKJPxq_AhE8exxWw4VBkeSZiyo-X5pZk-xY52LqCg5fqEvM0FS5umkGYa4ECBJMc3GTyke1vsCdjR6I8BzNU_JM5-C668iD5RAX9dYVlVdZ2vbQrqTts0z-D3Gc_D2oDDff4-aswqEpKEZsqYwjAd5KO5gZWfUITf3ArcHX76KoxoApdyBEzeDgdoDnVYG8TMFtKCuNu7XeR2sDohRIDaUbV0NSGxQAIdCwVW0134Zz_uMNTM13KW2IKs-okdsuBvnGi9A3S1PsPcop9ZNqSAk5rXuOMYAhQDMvWttYkWNT-OIGAYiDgoMMu1K9QdLOr8V4eVW%26ch%3DAQEAEAABABQjcE6iQt5LUYGVagrbVQF08sjL7I-IqVI.%26v%3D3%26pg%3DPVECLR3NJZEIDI7PCB22JQVJX4

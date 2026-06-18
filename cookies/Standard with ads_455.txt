@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: julia
+– Email: polorevimari@msn.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: October 2010
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 6381
+– Phone: +19084630326
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: maria
+– User GUID: R5KEB22IM5BGNJHFG7KF4CASQA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786848050	nfvdid	BQFmAAEBENags2XeKZr1qqYNEanas_5gt3Y3ZKW1dqsLbRF5FYHZuKqB5ivyEZMUGpF9XM7KdRgZJ1MiK_Dw6wTelXtSTdeSeEsfNqMLAXZa3m8UoKdHuf-z7dV_Y0iPtcAh5F1iIprbmV_M9gXChusYImGW-ljg
+.netflix.com	TRUE	/	FALSE	1786848934	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+15+2025+22%3A55%3A34+GMT-0400+(Eastern+Daylight+Time)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e78079a-9fc7-408a-8d27-a8a9e7345c17&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1787185089	NetflixId	ct%3DBgjHlOvcAxKKA7mu_3HMI-BTmoOUCcRxLQnPHjYT0GAYZkX1rt7gg6rS6YkHumG31FNjsMEDkZvQ_-J0iZ-MKWT_WODwjF0TnEUSOuYuc8NCba8xYZLNP4KbrZ58LNphCc26oEEreVD6PX6k4sgVXzn1BpRRiKUjTryIM0dsaYJM5tn0wD4FnDg3WQgQug7vUAbUrlaSkbzp1OqMcO2XuSWokpYMirr5SWHcp1Yc3Qj3LGeQDljEEr8ZVlqkY-ruA5fcVo8m1SDjuTA8mo4HAnGrsTQq64aRthkNaCEOccKWlNZxRZht5ArGQy0F23qPNT2QXTuVRu6ggap79rafhqS8LLpIN2B_myLJDf4q1s0ecOx5WHSuwZ8mStU6o4Z-ynxSyTPWzURraDfMf7hZ4ZYVIMQca1PSalqN7zyGb6j8PhfW8juAO9NwMJ2a2DG72pJR3uaW-PMxjBrcs2L92O3GWuZUBZFf1nyrK3X-rok5XxZGlg3oJ9vPhJ4fgXODJGl-Al-SEVRgI2_Bgm3TbK-oi7YYBiIOCgxlfk2YVixcz0I9yAw.%26ch%3DAQEAEAABABSViaM8Fs2wjLFoQVkfse3OeNT09DUVY98.%26v%3D3%26pg%3DR5KEB22IM5BGNJHFG7KF4CASQA
+.netflix.com	TRUE	/	TRUE	1787185089	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRffvOmGIhdCpfnHMLWP9Gf97InsIHHTIw.%26dt%3D1755649082167

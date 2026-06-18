@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Chiril
+#EMAIL          : olga_afteni@mail.ru
+#PHONE          : +33664037896
+#EMAIL VERIFIED : Yes
+#CREATED        : novembre 2023
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub [HD] [Streams: 2]
+#PAYMENT METHOD : CC (3524)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-09
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:21
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808415128	OptanonAlertBoxClosed	2026-04-22T17:32:08.758Z
+.netflix.com	TRUE	/	TRUE	1811512608	dsca	true
+.netflix.com	TRUE	/	FALSE	1808488607	nfvdid	BQFmAAEBENQX2TFBO84rCjsNXeUzLvNgmQLE3G7QQ2u39QWsCUBCHofgsbzxavO5-oDJ1RPU4LG-Cs3vzSMlGELboQ6ull_noyz3oAKFzjFoZXNWmc_Kjua7Zbmi1TQA7ZOPXHBbhcUmtPhnUx40GNYSx5rDOVhh
+.netflix.com	TRUE	/	TRUE	1809285715	NetflixId	ct%3DBgjHlOvcAxK2AzUFq_IOBTIrp2CA-_hTS23T8iCG0Cdni6lmg4sv8Cazla5cYI22WFjV4vl5kUIgAuZxRH4eRJ30VO_QzYA8TVD416y2n3RbQXJfR3jm4QFzmWFmalqkpJgzPk934GdNil9KhI10a8zCwYTw_aXpODCUYE5VMn0f-L8MWTygPLLqXEEhhpHGKgIlrfSEV9I4i1rYjZTp-YTuZ1yiJzaCh3H6PNPBOXhwXGhPAFkQxFaTebtUQXen3tUN3BSo4169mC4QN96HZIwNxM_o1Elcm2nE6UznTeDhCP6yR3SZ3shMhO7Iq7uwJjxLIryfGhsJhAX1CCRKHolrZA8h4X_mr5NyzYIpC7UViAZJbtPvMulyt_H3WbY3eElzb9QMcroS_HPq_zOpFjfoqyC6yoW8xwD__TI0iuVGFJUG62HhVMn8dLcChb6s7xVjppLZB_pN4QdLBTc-H4ZE3kv1VSkEGW-dm6jnpmU6Nl5UWfyvGjn3TBzKfWdkEFSmKHZXyZ4b7FRKgSq3ODijezNxfry4X2mL9tO6E7-dlqBAL9_Ye136zm60EzOpVz1lulH7S7GTVfclVEbG0hgGIg4KDN3PNWJBbK511LVcyA..%26ch%3DAQEAEAABABRkMBCPC9L53lX9DHbqGVIHTtmetUFfy2s.%26v%3D3%26pg%3DC3GWX44GBVGABGJPN54ZIMMNJQ
+.netflix.com	TRUE	/	FALSE	1809285716	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+21%3A21%3A56+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d0c70486-b621-4a6f-b5b1-ea8265c0ae3f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776879129172&geolocation=FR%3BIDF&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785525716	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785525716	netflix-sans-normal-3-loaded	true

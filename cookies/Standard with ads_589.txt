@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eduardo Rohde
+– Email: sapatitopodre@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2026
+– Next Billing: N/A
+– Payment: TELEFONICA_B_PI_BILLED
+– Card: 0228
+– Phone: +5555996205897
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eduardo Rohde
+– User GUID: 7FNPQFPAPZC37H2LN655PHNTLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810163664	nfvdid	BQFmAAEBECATWJUAsV9ARCmYrDTpWu1g4_k9wT-88sEkgceGwcNm3d1zXInzR5rUlhYJO0uxisuUkhQGnXHUGejAcuIU_MiEy5YMdPjaHK0TvzJnPTYY-AaGM-2wvigf2pj4vmqJ9YPgZgCXVWjmxXICNgoE4Gr2
+.netflix.com	TRUE	/	TRUE	1811872246	NetflixId	ct%3DBgjHlOvcAxKLBO8_Y8kDiWf0JAgO0TEDeGAZjLgzY7fiHUJmnK5DxhOK2l6bkNUbOGJffFmOgTS5Np5MPh9GjscpJu4_asLTrla0zQJrzy1KH_F_qj-z-eXRCHngUX0oSzDek9QfPA40YZ3pirvL5XuQMmQtP3zo-6jAmZpMDR6zEBVVte1T-aTH_hLhyQJIH5dMRk5QdDlqbRbzYW7aWqWuCHlPQdKsF4xDX07i9e5bxBkmUEm7-rRpTM6lfsiCIZVvvJvWjBwmk2-06Q0eA16GbfqJ5X6G2m-qu7bkWwCORUCR9S3HopLVj4rSeiofs0UGM1owD2D6meLm3oeknAjOpkFrqAOSHkL95qS9wna5xga4PU_5rcMcs5s7zQ8JClFyvb7RJC3klRdPiQhvakan30B-eRNmZ9v2mYHRLBfmKXDoCinp5TGFs6dRC1JCkyql9y8BU6M3qXPNSy8NIObltIFre9B_Lx3iMYEpq6Fr2-09ArT5suuU7uD5b-Sj73y9lFiJrZSJv1iTZt-rJQ00Ff6D81slaxIXsIUVoebm53rZrNKBseQxn0byZ2XETgIUEjAaNq77noWpEimlI9redoXPLiEML9DH4g-iV8phWic0Bef8beM7Gvy1cPSgr4bufz7w2yJTerfswlsmREzC-xxHJ_eH6pSR4bxxXKW31FOXcowyAqnNtP6rrJbLNu6WstYYBiIOCgzwFcDDRFmbaOFFnjc.%26ch%3DAQEAEAABABT-GkPkLFr1Lznj7xuN2ub8-9pxu9fvMbY.%26v%3D3%26pg%3D7FNPQFPAPZC37H2LN655PHNTLM
+.netflix.com	TRUE	/	FALSE	1811894436	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+21%3A00%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=435a2ff1-a752-48bf-9b0f-5bce5ff362d8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771970076168&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0

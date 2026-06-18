@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fatima Awan
+– Email: maryamawan1996@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: August 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7274
+– Phone: +923363769732
+– Quality: UHD
+– Streams: 4
+– Price: Rs 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maryium
+– User GUID: O525KSTX7ZBXFE3Y7ZIK5LECVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1828372781	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+08+2025+22%3A19%3A41+GMT%2B0500+(Pakistan+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=715ae3fd-fb8c-490c-9a11-616909701e3b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1828372777	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCAy80F8wOT_tPlp8wVBN3tw0v1UNWplRuQv0adNTHu64WKhT1pfMJE3axHNaxMU-E9FsA4CHktRBe-OVC3a3uFVTIrdUAb40LcHUjbmfEHbLO4pxmPHPNutRCSxcDdB1e3pkPYkdLMXrtdsp48L9Rq-yijJ-4xy4s8VLpWPKuCxySxz11BKny4bfu5N3X93JLfXtUJued8bsb1gKhCdC27EzbRByQLKWtXkLd6N5ypC5qfzmHx5uyufvSiJ-Eu7uY9EgCtHtXVEa-5xeWE9JzJd10zrDkeyoyfVYOk2pxT_IvMe0kPsiyq4QKz_rmKVE6bTDrgORmV8uCt6bKHn7NBnCLGcOpKh_lgFk9qZmJJpJ_4lEwxuBHNK177vTqOeQduZiERLch2jThWYxOE4oZfqWovLRvOZ8c92ybOigwJdUY_ez9QnPzXrznS1q0NKXuDs464FndlP83TvOxflO3S1ubo4IYiBsTz2Wvp5tx5Uu9lXceJYDCsiOaPn1m7vqf1OfFGAYiDgoMxK3hymX7xFypsbdo%26pg%3DO525KSTX7ZBXFE3Y7ZIK5LECVU%26ch%3DAQEAEAABABQYdxIpSbCX9ROQG_S5LA_QhqpYCJID9Ig.
+.netflix.com	TRUE	/	TRUE	1828372777	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRf52VtCPOqjEZK6tW_nPrOQlU_Sph8B-E.%26dt%3D1765214377472
+.netflix.com	TRUE	/	FALSE	1828372764	nfvdid	BQFmAAEBEHGJoOgPUYwbeT1Tbs3hRPlgNGtvr3kE_XMH-MTRc5zu7nJcVaQ46XCKZj5MLrgf5DplJYF7g9qyZP_OHbvpNQxt_M_TNJauh5mJcZ4OQD8C8catGFwB-4T_nc12OJqs-4MNzKrc6IN3m51oMh145jCr

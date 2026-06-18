@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chouie
+– Email: yassirabdalla201@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: febrero de 2019
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 7505
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: USD 26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Chouie
+– User GUID: 5334Z4QW6BEDRBPIUS3XST45LM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789811403	nfvdid	BQFmAAEBEB3bWL8am4wPSg8ylYY3skdgRU2qk-Suw3vNHZXrDA3-TG6bq-pPAWmVpUosKN8eQcIGTqoZPoD6q64qWvmDi8_HzUQihVfP3twqJP9cuxjSZUpASBEm_vK9vuyn3ZFjVliGOCeydXiZlIIAcShErSTP
+.netflix.com	TRUE	/	TRUE	1802102670	NetflixId	ct%3DBgjHlOvcAxLwA-PjgoKGf8HwQgOsJ_F9q9piv2zAf0C1Ijd7oZOJGtbybRjovDeiamGDjbAJc0Kvp4HthsJLesstqjVVbFvj8cmFQKmLEWB_thmaGvgt4BraXoYc-0Yg3gHarnkFLilTUtL6fuIy2l5laKZxde8rG-0G3I5QXVTeM6KxLWzsLLsmTdKUkE3VUykE14F5CN4H-UXqEG6onyB6SowR30n6AS0iUp7PUbtHP-aCJwGU5bYolkn6fTaSN0k1nKvCk-QcFEnqboYCAHcmqjc1eRjGXRdn5Rv4dIbvag3Sh2A2bAiT9s4r6UwLiFFEHCiamBkYjdz94Bgd8DCnAFNWEHhv-p_pBBm_NA3YCde8GhQqWb2E3tykO8H62PpWVLGpC9jAye9bfr1fEut1nevNrCnwiSIv9DjTxHcsz8IYO1W53CV-vKWYIuQzT02bu_nDtv43bjIHYlXGaHsc8irLbcGEpmOxfjIG6g58635fLYSc5bKZ7ZeX7a4wC-RBz-nAmg0sPrwGVrLf4rlQcCuQid9JRI-waHbW5ltdSJh5qElvpfi_fu0hsobSJZqF3zbQL32-ujlVw3TRc2VVaWxVWfU1F-25ce1iACqyH3zULk-wrYFPvYkN_sFAnLHBZK069VpXsjsgMJdv0hhVsgqYYC7mQOEYBiIOCgyUdkl8jDmOtD0Fv9o.%26ch%3DAQEAEAABABQ8tenOzqOBgIqw48yeEPaURXCiuPjyBNo.%26v%3D3%26pg%3D5334Z4QW6BEDRBPIUS3XST45LM
+.netflix.com	TRUE	/	TRUE	1802102670	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1Ak_biaYc8Q72G6HyLWIcn10Eia5hl-M.%26dt%3D1770566670948
+.netflix.com	TRUE	/	FALSE	1802102673	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+19%3A04%3A33+GMT%2B0300+(East+Africa+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1929798-7f54-4220-a257-338b752263c7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

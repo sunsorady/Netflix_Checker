@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ateş Saraç
+– Email: ateskaya217@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Aralık 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 4149
+– Phone: +905433189035
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ateş Saraç
+– User GUID: JURVHNBQXFFJZJCQDRDOEJEXNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807507476	nfvdid	BQFmAAEBEBC91OeaxJgWZ6RbbdjKdCdg0jh5Pk3mfGs_Ah9WqQFS8dYXjqlmyL3zH3aqzolQ2Q06wcFTs1NKqvuUzoJ5qeYiPfI3-XYLdzcsQDf8nZj4IplUzCmfctrsuyxhkkqTKA6FrzEJodxpIEJnYJxRA0AP
+.netflix.com	TRUE	/	FALSE	1811254344	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+17%3A12%3A24+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53abfd4c-8699-411b-835f-b1cf3ff43729&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1775971383774&geolocation=TR%3B35&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811349800	NetflixId	ct%3DBgjHlOvcAxKIBLD05x4kTpS7Z34FY9RLt51fUJnYBmvo4606plTSVYTAONUcBdg2eHMZD0q759lMN4FNUJjqX9GagF2on75ZSzekxCVrNRlXggxmAsPM3GYYaVLhzg0OBossV-g1qz2hVLdkqR6oWBjuEfuHhSlM7csU6pk06rEnMkIfgUjwAWBs1hs-BF9Xh3Ji0tDB_z-yJFqp_Pr0s_4UTbDe10gRBHRjCiHkn2wDJ75nN8HFI7bj_Hcu8SpavrknBaSKhhXtYcmNZXisiMWVxcidQc_koMVKeFWpOlffb4i35HuqyN7NuYIy8PpMf7pshHLGKWbtQreUxb6VMitu455moms3bijXIMrHlXIZt34QVwL5DTAU1vLYElaWSPPPTGCGvt_W8Oou0bj3syZPczUsGsr9ZtE2UlxBHj9Cb8XqcuRvmscwp-my4rD4l255NaNRVMGBdFbr7Zb9A6TQXN6CeHh4f6Vef1nozr0DjuwJBTy9lEkLNVE-4WcsXEMWxTYayw7FZYoSrcGMEANyrP1ypdSV-x3r3wkbK2mCGCgMzUraD2mKlhLnNnDOFtVbdpJPqmnTPjrhAM1EBqMzAzxFEy0i2wJao7-i34puDbZM0UFppp8DvpTPyLJpGYx1ZA-cZYRydUe2Tw5satcNZZcurDXZ9ln4rRZV9cnhqSYu-w64K7RteAzbrElPqFcYBiIOCgxMaQVbBVxZoM8cPBw.%26ch%3DAQEAEAABABSXUMZ6WbT2ZXNJ56zTR9rs5GyynmChhBI.%26v%3D3%26pg%3DJURVHNBQXFFJZJCQDRDOEJEXNI

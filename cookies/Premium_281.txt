@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ömerssd
+– Email: dundar5454@hotmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Mart 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 4988
+– Phone: +905379841264
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dündar arsu
+– User GUID: 5AD65Y2PMBDZVD2DNPVCVUQTSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782604580	nfvdid	BQFmAAEBEEOJOGJ3GXnKKS0SSGo9ua5gKkdscbHJ52PEWqcbE1M4KuvEiQndcoVOYr71DBzMjjM2oMxMMy4gcONf09nE4UpHpzA10FPklmbv2IlFXr40GlVbYf1XnWPhlIIjldWcTPsrrnx7LwmHBGwrCPZfCfFP
+.netflix.com	TRUE	/	TRUE	1812391540	NetflixId	ct%3DBgjHlOvcAxKGBJ0Yd5gtxweQSF4iqOBGOd_DyTYzzy8s3AKk51h__VZAFtoFzV16GvzYA22Lo1XemnlgecTQ-4Bx3OxD-qanNDm3le2X-Q_vA3Rzbqiyx04idSNzoDKo-yIfMpCmTk718bozgi2Qi6GiXhVjUJr8Pa89o7A9L3uPDCvvsDXyRo92lZbgLMat_fO4niHsmtImnyXguASeokHTELWeYpzfsMABCDUUkhxWYsqQwyU0FASvQXdZhHdwRUBZyuHTlOpD0vpb9TjgLOQBWXQmzEnHjsY27iGHbJQ-KvTW1sZPzC4kmRry057sS9NwPtHow4F4G854YeA9LXQt7JwoM6u9UKyiNLlB7JFrTrR6bZ-GqYczM9Ua_E3vv1zZ5h9Dof1CzKFsFBMoFQqeIx-LNL91PGFyarEaukJJjzaAZTYB9xZZda7aQGaXsAsQ4DiCdhD0mnxjVjJB3Kz6Qyfql6ilxsTew8mOFOYLGn6dQJoAvoYX6F5LjSDXTN4ZkIhFw8lQXvNF6olSk-J-LeV9zg7fi1uVVHqhrQaRrbTZCqdXtI5y-pzaP1m5Cft7icm-nE4dJuxMvZEcbppeIf7zZWfkUTRbSovLhmFCwZB3m4fnRqblsD3JuCzjzOS1yBHf5tDxc_BJIclFGssGzh1PnVosb0Z7CmQ22lRT8a9BL2gU1GVVveEVpmQYGAYiDgoMAVZ1nFkkpqs-W8zK%26ch%3DAQEAEAABABRdKja6TbzG-CcihCw-uyXnPOFCHMyylP8.%26v%3D3%26pg%3D5AD65Y2PMBDZVD2DNPVCVUQTSA
+.netflix.com	TRUE	/	FALSE	1812391542	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+21%3A05%3A42+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=da65d774-f518-4411-b3f2-7cf1cfb8507e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B54&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812391540	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQnTj3TTfBbTIRrfK1UEbakuxhaMmBgUtA.%26dt%3D1780855540968

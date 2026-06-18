@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dylan
+– Email: dylan.bey39@outlook.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juin 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 6267
+– Phone: +33761309803
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dylan
+– User GUID: JNC3UGZLKFBWHFSRGTDX2TLIYA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798592074	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHAwnQKnpdY1PY8xAXLQDWkv0tGv4wrtL-Yt4KbvVWaVDuG2mZ0FeQ6HiPjncNiJSjf2FauqrdQsxbu_6jkFIQEIP_pvjkidxaRjFwB1fvHJnse_QyPyOIlRCH35IgH32uEJWJdIIzxVNX-hGRG_OA1qE5-nCI_R71bdsk_NtOvDLoWQ1OemdQgmXq5tzVSCkafTR3yPy1Ige2V5iVAqJeM4Acfx6yZOREFUg-UdeA3NHuqskqH0iT-2IvV54YgRY48BBZw2HkSG474WleKrZlx8Ivv2VZ8EQu0ePnt11mSqUVLpqYk2sOFQJsqRxtPCQi6pmiUHZyL-kD8s4bP7PAZbXUC2bX0oRFDZxlry-6wwuNhzHdoOzbq_yN78zQo55HL_-NYg4OqX2Hwqkffvfx7AAiIBB-n3MSBfqWXDxa4nC3gWcZ8NuKlToNxTt5QENsD5VZYmnjUIbigN8HbjL5X9UvjT65HIG2H1zBftQHUs8ISO0GO4gXr3Pwz5Pq0FRdUMejM1MsMXoYBiIOCgw5YPkCnoRmnxdsIFI.%26pg%3DJNC3UGZLKFBWHFSRGTDX2TLIYA%26ch%3DAQEAEAABABQ-eMyaAo9wOjd6PInyKyz6Deg8dNgMJC0.
+.netflix.com	TRUE	/	FALSE	1798592075	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+01%3A54%3A35+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a63bb453-a8f3-4e6c-aa1b-18717b452393&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BBFC
+.netflix.com	TRUE	/	FALSE	1798592074	nfvdid	BQFmAAEBEFDJgEwX3BBO9fNph5Gb4MhgaRoLb-3Tlq1qW3pxpGLL4L7dYXZcHhfT9rfUe1kq3vt1mQAAsYQnivG8CETTrWYDKCETCyEihjk32RisJ5puc0Y34jlKGzJOMJwqYdgLLtJpqrolj4AEAnRRE4Ii-8yU

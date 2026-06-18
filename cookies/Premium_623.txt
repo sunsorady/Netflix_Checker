@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jazmin
+– Email: tecnicellbeto@hotmail.com
+– Country: PE
+– Plan: Premium
+– Member Since: diciembre de 2023
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 9188
+– Phone: +51996395618
+– Quality: UHD
+– Streams: 4
+– Price: S/ 52.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Richard Alberto
+– User GUID: CO32A6QEZ5DMPKMY6VJARKDCQ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1782659826	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpTQeV-6pWWbe8xvkCxNu3Fg-BkItJbhg.%26dt%3D1751123826226
+.netflix.com	TRUE	/	TRUE	1782659826	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLxAlzhdlFTgyuVnxyaHha8FzC2HkFYr8uCYCnslgG1tGuSZ1RMDv9nbCNEWvfgBAcbVrNIECn_7bff8zq1yJB5KPsuVxCmEMt7eOs2nT7oC81Ux4oZ84z9BKTZVIka8aSx8HToemaNQv4tWBxANHM7-_mBYqxJhlDNTMv18ridi4tM0Y_qXIcCGKiCdIIZ1SJmFBQ97LeZOdW6eqCOqDvh3PiNyabEjyMGlF9ifgP_8D209hLWrXw51egbb8J6CIDhY57U0rc8KEIvTyjLSTG5RDQsXHuDQL2jr5gRFIhjPG32greC4_jne-gpUIXCwGdrIyjJn0i1xRScRHhqWMtJb4WgxLH2ZSZ_H2y-bj4WwmPzBpL6qM3IjvEfpjFuTdY6KWZGaKrd9A0OdFUDRu3Av696tYNi3L9fIXiBOm7Z1fA7xd32cxxpUpZEGTzMPi5sS7p2iqOZ09QJ2_kgZ5gpsnRIQcTGjO42X1OUSQVtvA9ArxgGIg4KDCnLfwfWk_FmYLnisg..%26pg%3DCO32A6QEZ5DMPKMY6VJARKDCQ4%26ch%3DAQEAEAABABQ_6L8GqwfFIlg-7ybg8a3hv_cLKGjgr18.

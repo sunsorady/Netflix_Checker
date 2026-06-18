@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: calyssiie 2
+– Email: raciacclaudie@gmail.com
+– Country: SK
+– Plan: Premium
+– Member Since: February 2025
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 3085
+– Phone: +421907553252
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: calyssiie 1
+– User GUID: KCLZ4EK475D4DG3VHWE5IMX5II
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792938766	nfvdid	BQFmAAEBEN_Q_E0kUqadytOo5ggJyFxg8tzclpqWVdq8L3YyVmQcpp65cbYnbw0g2VK1B4N4h092iokA8S8uR6CIRNQU42goqDG4iXh7DH5RU2OE5ysYZUsoYI31H81BasTXxVus0zlqyev2nlxWNmTVMxIRfKtF
+.netflix.com	TRUE	/	FALSE	1798848834	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+01%3A13%3A54+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=07fc2d25-8b7f-4751-9026-6e7b5b5ba409&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SK%3BNI&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798920053	NetflixId	ct%3DBgjHlOvcAxLlA1zdI_XnwtvdlZjkKHDpJJKBLocI2Hi-_ZWaN6n7ZzDZI_kOIC37fjyxw2F6IkSQA1XOcp1lpwkXqUlctD9Pv9E6UmaI2--cEMbd0Fk75VDCr4Cx-GkUNAzoOKsDUZqU8AChS8zMkfiZrNd0hoXJMl6S2IWeB1pw_vuC42Ix2xf7yAFKJyt_xIxm-2tYwG4R2c4vRyJYvbbFqvcay7hgimXHaV-r6wMHsoyEki6IV17nSmA0ABhFLB5TpBRBrmJj9ig1EthwiQnuazn2kqMYqO5aRW4vA1mc0EVeipIljFGc80ihXcwX6kdO-VBSWkebc3nDlJtIboQ-ipt8Ai6nCt-mpysIEarQkQ9Ec1GIi3_GiXguHDx0HFcnIQRJFl12ElVL9dfFmlIrRktrWKjbasVtkf9qoyx6qX2eRoCsAlDAHeqlSO_KK_lwEeE3Hvc91jzSzYXuT2v-nO7vLJCNlO3MfhN2T9j4UDz1FDaVfUl4dgTsl5p3dYFhqQ-r1ZJ1bCqZ6nUatGtIwVQNSumcxqJkpRNvX3kkKmQgS1sw3r6o8B6kT5Kz8kNrJ7oiyP2k9wSqg2rR6SD7IWKiPVLH9lHViZzxYGGrEWGgyWz1bdAcmn22xb4FGF5gAFrmrScx-h-MFkvpGAYiDgoMKB-Sdm8wkGw-OtCW%26ch%3DAQEAEAABABR5-oGcfJUAbaTqf508fQ0o1ELYZccSlPY.%26v%3D3%26pg%3DKCLZ4EK475D4DG3VHWE5IMX5II
+.netflix.com	TRUE	/	TRUE	1798920053	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1ElwOuuPAOqwgO1_bqrPUtHO4tLQFQJI.%26dt%3D1767384023369

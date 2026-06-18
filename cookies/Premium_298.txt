@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BRYSON JIFIKE
+– Email: darcement.04@gmail.com
+– Country: TZ
+– Plan: Premium
+– Member Since: September 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 4540
+– Phone: +255655504504
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BRYSON JIFIKE
+– User GUID: IE5INKLSJFE6DOMKKP2AYVUE5U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783231790	nfvdid	BQFmAAEBEHycdSTPIc0yBt2EUKtsxk1gC-SrbDsbggn0NwjY2vIYwEnXvAqohMPOVg4IyUONT6hH-jJ6Gy_AoUNJM77AAkDaiq118RDJpsSmBAXLAbbKGlzDjOyTfycldIz9hpo3B45Q5fL5EUr6_b9Nc5sapnTt
+.netflix.com	TRUE	/	TRUE	1809239976	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA_D5rNScn1MJazdqPhLKbVPjIvxF6gNqrfHkRDKxjt2OqDJ8PQg3hQ9Ugf7F5komNoAEkU-DDF7DOwzGYwKo8-GmbGKBUkGj7WiFS8XWo88pLCtn7nV9t2xqTqCALLMubJ5gXs38tXhTixguFskyOVfDn9EPYgxl05KYJqyOs4RJVKI31a2h9eiMV197gja_tYzyA64xJTFMk3yeRhkZ41-8NpJPkuWS43PrFyHBjkbhz9ZfxI4wYSGirmrmqotCWOsIyjmpzieOrSyCU06ndVgU02v243QXgdn1DP1nf0C73JuFmo01EjEfDUL2tNkqqmqXyPuJDM7S3jnwoC0Ym2mSjMbUvGcA6nxvAcFYtvw0YopS49O2R9GqaLlvb9mXCJYAMyj7s9BSgbDd9AAkiZlN3zsH7Pmv64-vl0S-clWGrtJAX-IaxcryIm-C_EESNl_nGGoF6EchRNUvPqNjtyksdPkT1HB4NO-QFO6-QCWea7FwmzLCbRcrm2X8pp1b_UM1fZG8GcUnKpjWSpYwRyaOuYI3Xizjc_vsUjEYBiIOCgzabq4zB5que9UIH1g.%26pg%3DIE5INKLSJFE6DOMKKP2AYVUE5U%26ch%3DAQEAEAABABSb-aaxmZp4VotCSaB1UAVcfQD5pNhRETs.
+.netflix.com	TRUE	/	FALSE	1809256856	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+14%3A20%3A56+GMT%2B0300+(East+Africa+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=985622d3-2656-4dc5-9bcb-e10e24fbcd7a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

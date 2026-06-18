@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BEBY
+– Email: cheyennefrommer@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: August 2020
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 7918
+– Phone: +12077034059
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BEBY
+– User GUID: RBL5OM4FZVG5LAC3VSYZJATYZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEIQIupIY1zkx-cI8kp-3TxNgUPBxDwKe3Ea-8YO7KpCGZaIdPxqym5fY2UIqYjRdYOsZ5gy7KaCCBMLfkIKbKmS0od30oI2Wc7UqAf7Dy7UJAbl4xDs1GW2RFHil-35GC0mj5hHs0AfYLmlmJyqoikcR
+.netflix.com	TRUE	/	TRUE	1784234204	NetflixId	ct%3DBgjHlOvcAxKXA4CtJUAtch7TnBiSiTgXqbpdL_cQYHG7Ki9p5QvVYcD-BsorZRb1mzg2zBuWVTsPmC8OhYr6sb68CoErzN9y2PAoZz9727-hC4GeywXVkfmZ_Ie912pUFX024RIEJQR75y88kZ8UTfXTdpaAhfwWoRD0aPmycjVnwmScsISBM3AvdZ-wnI4Ou5-HsJi-PWX7iRM0EnnwClJU1sAbLkelELO-c_xyYyOGndbyjWV_GF4r2F6sY7ZkKkYU72zSmfz9fb9uN0oLANe8bzdOmz7bWySyTUmya6wgM29OAIQgD1WremIn2Fvu91sXz-A1cJJ4dC07sO3RLa8Jw9NX26MXyEaTnrhOaH0rQDeYwvAXmQcYPVbSRYSM2A17y2bmdh5Xsrsx0HzN2cY4rRhTof1TkADWTjlb-ptpp7KO4dFtJiK835b1NUsqiFB-temGoMQwJoUW6pzkcnrruPDgw9saBt0bvFEJAgBUd1ngyjRq4jzSblmLHSfUOiIijKF_BEHSlxXWqLQ8eE1KOZb5srsNqGB5RYjnUy1VGAYiDgoMBa0AP2E_kfcvGKdb%26ch%3DAQEAEAABABSNU8kwAapYVAI2szoIT3QNNgYADsqXnQo.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1784234204	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+10+2024+23%3A17%3A00+GMT-0700+(Pacific+Daylight+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7cb9881-ab65-4514-82f5-c620cdd4b616&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

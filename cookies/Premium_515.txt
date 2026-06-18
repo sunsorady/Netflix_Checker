@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Junior
+#EMAIL          : cerikatrina@gmail.com
+#PHONE          : +447528536116
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2024
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (5179)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-19
+#DAYS LEFT      : 1 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785593207	OptanonAlertBoxClosed	2025-08-01T14:06:47.489Z
+.netflix.com	TRUE	/	FALSE	1799926356	nfvdid	BQFmAAEBECoBfubhu-r0oj8Nlu17Qh9ggyTai9NPlE_9AC1T1WLA8gojAdcgds2pDTjT4WSo-W8MAzufZDFA6B5uWSjH-9fDJE_LD4pGxRId0I-zUYJAKFHkMpNimvXai62ztstG8f2TmV0Kww2zY6ICu_4KNrfX
+.netflix.com	TRUE	/	FALSE	1811644326	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+03%3A32%3A06+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a5738228-4027-4911-8e30-b6c212e2e1cc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BWLS&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812072658	NetflixId	ct%3DBgjHlOvcAxKABDqF8aVPG0eB5gnDZwtRA1gbvfl2PGPIANC77-6aliNcneiT0yhKCZmA1XM7oHh1IxUzq31BEF1BcsUQBVc5bIoc0HwGApPvWkp4Nwn_8TGTgslvyr8OMWjOn2BNQ0sMJr2ZnNRkjXtAaQ2b-mQXIYxvLD5Q6zHHJBkqIJRvLkiRfw4adJE7Okd43xAnaeGOlwFIEvb1k0E_hCsQdO3Npzh8Htfn6UX6-QTULl-myx32s8qUq9QzDmf5fKinBd0mJ8PEJS1V_JTV7w_3_UYItVZFKDlfjXcBhqR1_yvIdDX58Xr7d8xM0bhlHeiMAoRcQ-pi4AYV2Z4C_jd3UwM4a-w0fNkqMT14VBbr5AaLxjIqcm33hWnPX70wCLOepuwrAT6C_gyEY_GrnW-HZMDeXNMgCAyc2FoAF1xi-3XBNWCgax0Q5vrcLAei8h9CtL0kIQuncV9C5LxOyuKbSGCyih9VbWIYDAxvA2vso432PLYA_oPVyc4QsTYF1gErkVhCQApXdfIMaZgCWkdiVqSTQhnuKCBL85P5NAhrpXJAuUmxzpqGaWvVATJOmZx_bLOxUSdBa_OciaIy9dNWU-C_FG5yphpLf5jAYZIz-QUEFwdDmg6J8Um1NqW3LjCRgQ_2buNu2tTYEjjv-QY460PskKqKp3hGw1uj0MlTR-Fm1_AgGAYiDgoMG8w7qW7cjlIKrtut%26ch%3DAQEAEAABABR8S8Zn9rp968ciAS2nwzIqy2F4SD0CiqA.%26v%3D3%26pg%3DWKHY6PKXOZFVHOZR55CKTQSTQA
+.netflix.com	TRUE	/	TRUE	1812072658	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5bQWbztUp-5YbBDQJIxlOSwvvNZAIGIw.%26dt%3D1780536657375
+.netflix.com	TRUE	/	FALSE	1788312658	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788312658	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788312658	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

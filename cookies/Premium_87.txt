@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Martine
+– Email: todisco.eric@orange.fr
+– Country: FR
+– Plan: Premium
+– Member Since: octobre 2019
+– Next Billing: N/A
+– Payment: ORANGE_V2_BILLED
+– Card: N/A
+– Phone: +33664978661
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Martine
+– User GUID: VITST3NZABFPFDK47NFIFQVSTM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811586443	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKmA2SKCasgaW_N9OQP0ngoGXMZcxLZBf_MBk3np85uLwIYI_GdFQXtJmHvaEx06ci00t16Wm0zYM6J6lG18sHU8kwjtTYP3_l8kmIDZNy0tgp8u_FtF9TZbLWZZZJWivIEP9MCCwz6gM7PEUdDRK6OIKuo6QzKuDZV49jOrSaPme1NKg6F0lEPYHGk0M62od3WazQkzStfpeUBk3-dl7SsgIOBOuQK-Pqv-mzrx0sZ3dFELfo321e0eroK1x60wirvEkOvxiHByKzgBezr_xR-WDochekbTZ7bfj6v3xU6EyyDSIVaxLMXrWPyLkbTE4FB_LcyjjT_bOMi56RcvpA-qg0qKBrXgTYAkPQv1aA6-cCOsR1EejBEHyaY__79hXmajqyDJhQzE6KETQj05JAblX2YAmx14KYxLoTxXprNKWZINtox4nfzy8RijBWtQEdLTgVcFWCskT5Yn3YcZYNxuMHI2qhaR6NxLJmLNq52W4BMkmdJswKfHwX9z3yQIg_n5AaQ_rrwa8erosXzOmR0BRQFKAUgyAN-KURk_R31oZ0n-ioKgb4TGAYiDgoMgIwVsRBPJa2J6WcT%26pg%3DVITST3NZABFPFDK47NFIFQVSTM%26ch%3DAQEAEAABABRTr_uBiUYj52QhRBgmpkdSdUFmY2T_tCM.
+.netflix.com	TRUE	/	FALSE	1811586444	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+12%3A27%3A24+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5649bf62-9a45-44cf-9885-30393f14b06d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1780050253139&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	FALSE	1811586443	nfvdid	BQFmAAEBEBfC56PFzorpZU-vKwnn_slgJns9BcBKNTG4MqmmtACDysfyEg7XlYUFvQhCq3n9RhmboKHMyl8KudDnTwj1tiASabd1d1KVO_OZhXTyUMYAMG32dOwr3jwDTBfohSUZDaQMP4aLnL8MEGncXZ_vhITe

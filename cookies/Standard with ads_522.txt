@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maria
+– Email: alessandrom0306@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2024
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 8772
+– Phone: +5514997797652
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alessandro
+– User GUID: 575TW3U6QFA5VLXKKDGFRWM35Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783127470	nfvdid	BQFmAAEBEH37zCB8sht7XlDKJxYL-BlgKAs6T3v4umW5tXmYEAAXUFN_eItgJOEPrMsKx7hgc34X-ZuB5LPBpl2_ms5Vq0PYEn42NqZPuilWOjLOp5Dq20bIMRQMnbXopuHe1-d82hks4V39flO7y3mwAwZsAwtI
+.netflix.com	TRUE	/	TRUE	1810170422	NetflixId	ct%3DBgjHlOvcAxKvA4kF8vwt2twOh__exe3HDvzCBoqNrRlBfaGfUkvBUzcFEwpG7PAGzoBkU6qjUPiqj-wYD3oBBE-X9Vd4AA4YiWvNMbL9JgUq_6kMnIF59gfY4j_21e2xKaoLZnTi4ZfQKXHjRjV10afknvWTpmv5J37JtPUGkmzPDeu74dIgYFgiW-uuQIfUoZ4bhjQAYb9-J-W8__ffOi3l8wY_9CXIaLqBFzEUzII1UAQzjRlvT3kObDULDTxc0cvXnt_-YT5gZUHNpdnoWoMcppIDz_oEcX8x5hZ45nhcl2AfRD68juLxt3OZ_P8AP8D5xeUv0muWXZWC9kZbYUJ7OiSfhnAIZbJ-1JbaUb6H5oW97ZsVD2PT7xKaDTCl_DoboGII8t93fExc5KxpD_NtAuX9pWuSKgBbtmI6Qq6BCdd1EDg6IU_ZKskkPevPc7x7dKq3vmO9_iA7X99vI1j10SzWC-G1wbDaeb0Thcj3m6y-fHeD1VB6ruJOpDBvVNzV7OiRpMUQvF9IsZ1OT6j6QqkYoyU_EdZ46fgB3JMTtY1L2rVIx6lyQcOvyRuQL_YYFTHui3ZdGAYiDgoMIjM6wY59ayeRQr3L%26ch%3DAQEAEAABABRF7_RIrKanjXc8sM74aKhE7K0O7kt5XyU.%26v%3D3%26pg%3D575TW3U6QFA5VLXKKDGFRWM35Q
+.netflix.com	TRUE	/	FALSE	1810170424	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+22%3A07%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3308942f-fc57-4c70-bfe8-c8b43c8b0b72&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810170422	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTpfPDzF003fIjxEf5A58xZMJh95Ja2CPI.%26dt%3D1778634433580

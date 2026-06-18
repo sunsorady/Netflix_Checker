@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rayou
+– Email: tommy.jego@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: août 2023
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: +33656878568
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rayou
+– User GUID: UJS4KOZIHFHALFNU2QYZBTJFWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810762049	nfvdid	BQFmAAEBEDM_OgwuN-uraTS89CT2QlBgKf2LjfGdJ52MrI_qWton_undiVSuN6-pBshXpwTNJd-Fl6FxEOR6BQ5kMbTtl5_i7WO8SWwoXWwJmDSMxDqfjN_dPrTyiQ1ZPx0NgR8rgnL6dMo8RQDcJgMZ8UYrr6_j
+.netflix.com	TRUE	/	TRUE	1810762051	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA1Q-d-mBDFax2XA11Pf9ibhQZ27kpq6z-8HQRU-lQTCq8wkPGWFDjwq0yOGcVuhNNylC2N2Jxof8WWx2IRb8_pJg60mO0tyLTlb2VIKWwdH6fzMvwO5rp6BhJQV4v5ErX7NUSuFthFYvW7j9dCW9WhquDoywfaPqHVRRDVsAgX94ZTGJeTnA2o1wbXTZDoPhgLUZkHPTwxuWx1gGlFq_CVLzdciU1balXzXIpTQm5ViuwjFClLoj0IrIAbdwGPDzrelvgO6Do5B7i3obQIMtRHTHhyaOmRwult83xhdrrvXfnuIkdISizajyKwL_XyQyTNf-9wxY3tn2iyoXk5JrYUq0kw8V_cq3fsc5KFnbZQUD_8zXPaVm54v717VGeg0AYYr4Azkv8egXx_vjOHUpZ0rsEM7tusTfyWO2nD-Im_g2-q8LuwvrLKmOjvBIUqdlcuevD4b0yGii4q_TuI2NxCgWYbqsu3NxEtgSbM0P_WkCj6egrmCe7lvbRr-UJKcK6SHyItgEyBRWEAoCK0HjrT9EGAYiDgoMe7UYTr5pqP0zZUyt%26pg%3DUJS4KOZIHFHALFNU2QYZBTJFWQ%26ch%3DAQEAEAABABRMo-9oxBT0ZXqOOOaXrctekprYwZzNRzc.
+.netflix.com	TRUE	/	FALSE	1810762050	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+23%3A27%3A30+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4424181e-c08d-4e3d-aade-45502bcebb27&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1779226047840&AwaitingReconsent=false&fclco=&intType=3&geolocation=FR%3BPAC

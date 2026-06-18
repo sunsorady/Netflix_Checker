@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lucina
+– Email: lucycomy@yahoo.com.br
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2016
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2519
+– Phone: +5511957368750
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Lucina
+– User GUID: W3D3H2HP55APROCPEDKQYV4E5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781952879	nfvdid	BQFmAAEBEIQNePVI6LdHFdYB21-reBVgiGMozg7jk3S8GdsLjQbBUIyS5kkSCtcrnbKf6el9umS8_sQ_kS7MXp5VtiCt5dj35nkmhuuDS9BNxyZPFgwlsgRgUl_xZuq0-8dX_ureq8iK4BptMn4qK9IsOwPlgme1
+.netflix.com	TRUE	/	TRUE	1809179318	NetflixId	ct%3DBgjHlOvcAxLXA-QN9G5pCx5q9_7BWW0yQ0Eta6dLRniZGx_uY6qeGHXu1qOYTPbHIu0ge2pt7WlvWS3Laao7QAgUGPNzmWGC8QbKL_4fNwl_O8YXQ2hLNV7nriTK8p6-_PiYc0zTPODCQp3kZMWq0vopI6MC37Ueojm8NKBKSD3E93ecBAjWpD5drWWJzcAogTRPQBvdtvGDZKk0DKnPNnEIrjL3QOT63ndAW9mmcJtx29h9H2uQevcdEiOXxkMTUG0G7Vkhhom8_iN-BjQ7ry2q9P4ETxaWU1JYysAPict4GRY3K_1Dv-616ff41OWavsUF4nPpy51_x_YKdes-ylW5OierFqY-aWIlOg2QVAUNH7v6Avk_aO5_uZv3qk-d-b58ZJndMVvgh0Ulaul2ktAS5JOLI0OkflUxykAgGODx6TflSsQVbACCaCcolEXTPqPEnCZeCz7C5gQFABV3MXgZ28_fGkmb7UEGoeFrsK7QgxfI-U7Ky6YKfODpCqI22U6JTdaEr_W1-qYdNPnhf1ALgWEtO5nI9MISvAxfEhmJDj9swBvnD4enNbCZrpwuKawQRVRAfL_93toj4WtcGFtfllSgYEq6hagmm6KAAJq2NrtWMKKFl9T4-PnSlUwG-BgGIg4KDGa2EbETk33mAWnCgA..%26ch%3DAQEAEAABABTy-gAmxizRKgm9IoSFOcozEBXZf9env5U.%26v%3D3%26pg%3DW3D3H2HP55APROCPEDKQYV4E5Q
+.netflix.com	TRUE	/	FALSE	1809179319	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+10%3A48%3A39+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=81a5886e-c6ac-4198-ab38-66b5385d06b8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809179318	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUJB7sUl8tiFMz5C9bRek9mQ-dszlySk0.%26dt%3D1777643318565

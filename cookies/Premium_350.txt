@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : A
+#EMAIL          : lyxx272@gmail.com
+#PHONE          : +32470984410
+#EMAIL VERIFIED : Yes
+#CREATED        : décembre 2023
+#COUNTRY        : Belgium 🇧🇪
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9039)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:28
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811968315	nfvdid	BQFmAAEBENXdYSOjezB4M29cGWL-kcpgtGkymKAMZLfUcr0WOePQhotCil33GqACHw5IT50eyoBfFQ2VMrkdhFzxMClURcc0ElQOJv8nzVJcbR_xagh6oUmfJOBel95SedlbsSQxa4u96pjf3_yOuJfmHEOxt_et
+.netflix.com	TRUE	/	FALSE	1812321997	OptanonAlertBoxClosed	2026-06-06T22:46:37.613Z
+.netflix.com	TRUE	/	FALSE	1812322040	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+00%3A47%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6cfd0ba3-f0c7-469c-a43b-355a90abca5f&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=BE%3BWAL&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1780785998133
+.netflix.com	TRUE	/	TRUE	1812475705	NetflixId	ct%3DBgjHlOvcAxLLA1U1tw2frMTD7BRBAKKkioL7nNI2PhpV4CdCnuz2JCSbMFFXnhVN76b96MfNaZ_5URrDtw67k7DOn3bN3iQZQmKTE7RQAGwx-FECP9rwodG9cAjJ1DxU4DgVe1VYkXRvFIPPtOF3IVbd4lDnoz-kJAwPj93dOSS1Na-4mpA-IeMsJvA9NuiLAmBCg32SFzIOsNHj-K7OPdysno-oSNme8HA6dGC81u8M34bzvxhuVpLhQjmw2fq6okB8HTuGRzjEvzhiFcNvTbTS587D8uA-w5wqz80-ADrl7DjDLon24lo5KyEa_6Dw1RHOd5FsHXq2zSdjSSL71U5JehH93KZ2tC9jfUOO4Hi-KufuWf7ev4li5QQSRavoQfK9_w7Qo4Pfy02RX7PBZxAIQainnrLhAKkarFDBxhL0NYIWYpLyKcFUgmNEtSmCNl5P5ga9eC03ntzOp6EvTCfyv4zdYOoEg1ELbHING4E6Etj50gDp7Qw197P1hsNbL3pSjdm08b9iEo0cIVM5bewapnSgzfjDV5Esgx-6Y8b4b-JSH_jEA6iyQsN8NmLnLvngqtrBjRsR7rAEbqexyGoDXGIt4AVVUDlqIG5UgxJe0GN1fRgGIg4KDAZORzv7dc3s9ILWsA..%26ch%3DAQEAEAABABQssG6klFATxu3JwspfRLLidjQVX92zP_4.%26v%3D3%26pg%3DZ3Q2N3EVLVCG3IGQE3SB3RVRFY
+.netflix.com	TRUE	/	FALSE	1788715705	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1812475705	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0yqUA4u9VPoCutXegNNGCzPXc0O22E-o.%26dt%3D1780939707890
+.netflix.com	TRUE	/	FALSE	1788715705	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1788715705	netflix-sans-normal-3-loaded	true

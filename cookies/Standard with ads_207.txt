@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Angé
+– Email: angelique-hanot@outlook.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: octobre 2025
+– Next Billing: 2026-07-02
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +33771775087
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Angé
+– User GUID: YCLQVQ27JJEQBLKUUKTSHEHM4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798579233101	nfvdid	BQFmAAEBEItxqaj8XfYew1EzFiL_hBdgtQJK5OzCpXRfDv5Y2l11iGq1yw0hNVJZ_KIsLyIcXt-XFazTttqzg0QEPND-obHNtUs8Q9TvldNNsfllAGNdr5AgtPPIiIzLsSZ9YskfB6kG6KnhNTUC3yPJr6P1PNdq
+.netflix.com	TRUE	/	TRUE	1811413093245	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1JOgTI9tBm0dQzQG8BoJwfad82uRMrN4.%26dt%3D1779877093624
+.netflix.com	TRUE	/	TRUE	1811413093245	NetflixId	ct%3DBgjHlOvcAxL-A6_F8ex8dD90b2daEbo5KX8XplHjeX8A1NHH9QqAs3CKLpm9pqBn593jTDk5Z7dAXopCW72LHbP6Sc8jsbYq9Ba8MyZXsP-oNb4R4LyeZCg-keQm0kV8bUREV_ynw6wIv9LVMTVcpujyTG7EnvRga3RoKzILkC3VX2fmYkG96Tm6DOdTJvr4eXBFfc4CP03rYOIUFDYEDFxLbfQKAOgLiaCUz-cglJhw012ZWal_8Xqen3JYpEyY0dY_SIsOlBIXnbHeKcAK3Aid8omq6QHzE8gYbAQOqvQOUK4Trjjb7_RxkHmavn3FnV6wHkObHe2AUud6msCggf0RW9IyZnAenjnuB-BbGSr6PPHtObWk8LnZp4vr2XSuhyWW-QS45Duf6y4wrcKIIfvRQWauQgklVi2SvxIt5j_4DOv3E3qZVFq9yyPxcoJ_jzzW55tcc-B8OGar3lbdSE6d1sck2sV8ZYBaJxdntC303fWVjsIfZyOZTKWTr37085ekxVpmAFYPPwjIOf2RUMMXJ_fxYHX1K7o_030h1I8V8SXT46nLkKYvfD6ieciPE9rh1D76kai6a26-aVoPHC36CE-UJux3vfpaXPEWvD9sCanVdNbvuODJf1jM9n9iSiYlq8bW0qNTt5F9RgYo1o7aJy_uAr6Lh3FHOa2JKvxmp4uJXeYGjRgGIg4KDCG9x432v9_MeYXlsg..%26ch%3DAQEAEAABABQDj3NPdBX7oRByBehrgfBm3clq6oK3fZY.%26v%3D3%26pg%3DYCLQVQ27JJEQBLKUUKTSHEHM4I
+.netflix.com	TRUE	/	FALSE	1811413094000	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+12%3A18%3A14+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=69f7788b-6730-45fe-9616-e3820a133cf4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF&prevHadToken=0&isDntEnabled=0

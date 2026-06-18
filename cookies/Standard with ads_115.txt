@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bryan
+– Email: bh467430@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: enero de 2024
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +524921283638
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bryan
+– User GUID: WG4OPALY5ZCJZC6W3UBRWRGDWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782340390	nfvdid	BQFmAAEBEPjCUUxNEZPCFSKenyCHUepglaqGM4elYwSgNCBkv8ykHO4CYoYOF7Q5jyTU8CO-0JWFe7paiCfzD-Gu1BDty4dS-3QRmqlTlYBOEvW_miSZLdayMGyU-FoJrfwgYDbMdd3iLAREXMG-BRwSTljLD5Ki
+.netflix.com	TRUE	/	TRUE	1789195664	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL0Ahlg_Xp0IdTDMre7fS604RY0ReiUFVQhHoMv9Cg8xyfozeUR16pFfSWtZwmY33xr9i3a8xVvL5YHCTxqKEVmDBpRvj1p1V8MTwQF39djAlmkQSevoiSbgyQmr7NvqYIsxvSfSlsYLMWZwDnCboJCgk8yXfAKJIMpaUXTFFrf6YJzrah0DfykhktCkGmrXvMeLiUcw3Ltb-wQg84QQNbQU9OQm97r3OIN1eaXirEDebKTmfT7YseG7vzBkCIhxAXCcnzEhtjM9HY64DL15qaLulIig9rU8OygpQrcbkwn-DUZ7tqZ40x8vi-tOk_CWWIDgzEWGEPQarl2NuILKGeGT17NEsnDtLa5N-DG7_ILok2VOJYKEPEPCdy4xPOpvPb1hldJBdza9h0SiaQ4Z3GRjZxFj-EFkz3RAzS-UI9-iLbKmbYgYPuvrIzgzLUv9NwSVc_W-0pBV5nKG7y50v36VS58IFiFGNYGKaDm3LEC1233CJut1hgGIg4KDJ-k7U_O6YXEo1Uxng..%26pg%3DWG4OPALY5ZCJZC6W3UBRWRGDWQ%26ch%3DAQEAEAABABTMvmBPUOOQl0V7PNBChrubb_Ox8oxufVw.

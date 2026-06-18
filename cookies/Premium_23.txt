@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pls
+– Email: odalea-bs@hotmail.com
+– Country: BR
+– Plan: Cao cấp
+– Member Since: tháng 4 năm 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 0886
+– Phone: +5563984482204
+– Quality: UHD
+– Streams: 4
+– Price: 59,90 BRL
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vicky
+– User GUID: 75LV7PFTEVGYXLMW5GGIAV4XPM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807565559	nfvdid	BQFmAAEBEKzfEZrUOfcCKVUSADXg9yZgoB7p9xk8q1gqBpOv4Sjs5o0o0_atChp5ELVkbROFzVZKkfKnAP4-XdH9MxPMTaLkDOcGOilLFj4gqXtI8pToJmyM5UVZGn3b2lxoEb5TRj2lPToDim4rUTMgC9vJEsMz
+.netflix.com	TRUE	/	TRUE	1809474250	NetflixId	ct%3DBgjHlOvcAxKBBOXETSLKpe4rOEXODVL_r4UdV6b76lb1nl2DFhKMnXgWk31ihzt7uJ0MpTA3HsAlHOoUi_Kz_ETigRE_4jNG8jM_7fZ1_T3pyZz0UDKP1LtDfin0Su2w6cZ16aUEGXFVjUVC8cTxBz8dSppZMVI87bJFZit2PA8aZx2zl3ntc2RI3YNTobmEY9BmecMTNFThMcx9J-WOsuvO-MnHorNLkjuDhwAuWGF-07MxdR4Vi4s4LP-BvPGso5XgLZvEZgrRqX87bR-j3-Bwlpv1VPiahTouLlTxE6xO871U1hPpKeyc7oywmECUtmHPgLQqIZdiF195ZqVk_Ld05nCO6dHq3W3D0k38VAOX7Qh_sTl5gFH0qsuBHJ-6uzA0m4beQDQz8L-HUXwwpsO2oLqwecmrlMIk75Da-qTtPGFsCXUdrhylgOu5TWJ6HxyiGUU1wlsNV1fGC_Dgjcu2T-jpmD79KIKt7c2hnOE7Y61dOWTPxA4dfPJHjSlnXZDo0BiwLBWxyGy0yW0fnXkKZHy25jbROMROhA6dWKYPDDYF5BVjtsSTiJv9MsbO4FVa6PFnrFKp2oALfYIe6OTXyaeFcQv9C6GJwVa3v56t4RrTDnZGcBgs-9-pzyfsdHzF_SxV1BB0SR6tHqumzLy_9CT1T15gfSQPyAehKlme2HV8TNCU1Ng2GRgGIg4KDA3MgVhaaOw_bcAsGw..%26ch%3DAQEAEAABABTBfIZdbDq22P7vIJfyOKNUZlngs5Ad17Y.%26v%3D3%26pg%3D75LV7PFTEVGYXLMW5GGIAV4XPM
+.netflix.com	TRUE	/	TRUE	1809474250	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBv1TkOc3T2-M1WbqeSFbVwdmB7QmsB4g.%26dt%3D1777938255428
+.netflix.com	TRUE	/	FALSE	1809482992	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+04+2026+23%3A09%3A52+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86599685-a2c6-4a40-b309-dcaf0c972cf1&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775871928079&geolocation=BR%3BTO&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MeGusta
+– Email: escorpiao.virgem9@gmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: novembro de 2023
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 4885
+– Phone: +351933571331
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MeGusta
+– User GUID: B7YRGXTBVRFD7I2ROBCCH2NCKM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802807382	nfvdid	BQFmAAEBEASCNgshztoFrGqW3M3rmIpgGExIOq_oXLMm6fvKXDAiJItTMdBwtJyHJ20SL-pZlQcQ3d-gs51sSUKMUvvGbtqIhBWPt6GrDRVEjTRw84euUghb9dSQamWJyskUaMGkiMXXr7sQfQqH0a6LHrk95rrj
+.netflix.com	TRUE	/	TRUE	1808229575	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlAzBAAg_iWieyjaf_qwqtNf7RyT7qnLmeulOtoAlK13ixWg6IP5UfwfvE7Bp19O-Ooo6H4PUXiu1tvsADhZ1XtZW9Un3XinbspLE1z72US9urbZ4lvgZGzbwngrBSruAKl7-SPcby3FcDNcIkeCB3wlRq2tUHubkPRUSL9qf-01RllN2eV949dYcyIwTMkcmUYYGZF9YVHsbVemt6Og0kFhMV2vNhaB2Dj639dIrIJ9XB1GsjPBtg5PjZoC_kGvqOcTKgbkXzJ6l64dFqSad7SJYmSTzi4Tv7i-RA9zy-rNK8gJBoUqAiNkXXSAaaLdn5BSBTIuisGx0RdOJdWy4chlK0X1ZAcXnWAq5Lss7BXr-Oh1OxPvxo21aBsT4hfFpbPt-BvR1NSpwAG5WDDtApzqDSIanhynEkzFTpr76QnzrlHjbXgGrATeorpsptJdvB_e37ZRYLNsMm4fi_YJfALdZ6kVaVb6SWrA4AXIStlgcbsMiKX3gug52W223dMwpuPxMO2x1srRb1H4qZ5hmKdf64KcvwLgRucvwy0L83Ji599VWCXr0YBiIOCgwGCqY0SZehsQie44I.%26pg%3DB7YRGXTBVRFD7I2ROBCCH2NCKM%26ch%3DAQEAEAABABRDIfpcY_v0JtL4Im1nlsuuzZ3rya1SOXU.
+.netflix.com	TRUE	/	FALSE	1808229578	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+14%3A59%3A38+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0c180610-9588-42f2-887d-317854f28e32&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1771271388898&AwaitingReconsent=false&intType=3&geolocation=PT%3B11&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808229575	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQR4cLLkZ-vswXj3Aag4hpxadkLCR8u0XY.%26dt%3D1776693567489

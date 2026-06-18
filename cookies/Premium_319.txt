@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shane Damons
+– Email: damons.lynn@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: January 2023
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 8737
+– Phone: +27833012500
+– Quality: UHD
+– Streams: 4
+– Price: R 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LYNN
+– User GUID: DRDAZIALAZA2DMT6I2WTFWDJ7U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788879552	nfvdid	BQFmAAEBEIkFlEsc6-gvy6wHqBnZbqxgh3yd3pAwRcWriwFUpJ3NoltV3YazmsCKBEP2aSjASM5QQ-rYnKrpjETbe3X5ApNH3yxIJjn1wODK__0W3xuC7fIdM-tPfeTMdMUYiWrzajJNTvJVorgv3kS3K0K8UGRE
+.netflix.com	TRUE	/	TRUE	1809786190	NetflixId	ct%3DBgjHlOvcAxLUA2YSDOR5o3VFO4FU7Q65IxlF9FfDEeOKkEV6iBE0F_mzrjp0RM8T8o7urXs0-Vi-lKDaNNOCyre9ra-F87w86gzl1OOihflADJ4xEkIvCcltqGwiLRQcMTQiWorc5q7iIZNutbS5wifzL8EadEjZ3-V1qoWU1QtiKYhCZwe4Nj3QRSCMnw9pe4rYOofbpCJLudCEsBvRVSNBPoYRAEG4eDNZ94moyEFfxfOPwSxZHLs4yeBUivW1sL5kY4J_LVNQ4D_nge3OPkxxEIKZ3p9WveIww5Ej93qdkfqjPVqF_PlXm86gduiecd02vv8GALXLRS4SWDeuAcuDqTfoKFpNB-_4KslDWJmlM3EZxF0QnDjNtU0erAASYigKvkQcyrD_D9I2W3ssU4KNSAS5QnUfnhOdbTKogyFJgru8qAfCntrVskqOKlI8iqejo7wq1YKYlKkMoAe0Y6hMLvX3UZhjW3uGsJ7Npv84huBVq9vtl8N0bZSbCQQL-dfJHldkQyNz7n2JSheDuWyoeYexivmj5mBKHT18oKpUrLdGGfiwNQG1V8UUO19ZUaR0NNl6t93isMnQdVBcloIu1xh0Gn30_JdECl_7DygZGU7zsHKKh8r21YkZGBgGIg4KDJ0-gA3hE7ukTw4iXA..%26ch%3DAQEAEAABABSWsm__WoJMMMXNrlKT86jDIXMZwg0qHzE.%26v%3D3%26pg%3DDRDAZIALAZA2DMT6I2WTFWDJ7U
+.netflix.com	TRUE	/	FALSE	1809808530	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+22%3A35%3A30+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ed94b369-3a0a-4b33-85df-d6e8f399fb5b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Raul
+– Email: begomartinez80@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: enero de 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 4692
+– Phone: +34669435548
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Begoña
+– User GUID: JV2PGJ5OPFGLFF5D3B4QE5GUJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1790267292	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTAxVMRxjaHNe52LYwJEJQfGPJWK_4OJUW6HRxRuWbD4zao0bcTVjlu-iljFrNHuOcUG_tQ_rPvS0lNCjO7A0vODyu2Iz7mlEktZ5kROi4Ii97OZTTtwAQRITlKmLQ2w94TNquUDkub72BfmWRSGAYOsxdNEhryRtHQlX7jFoz31pBg4F3YTtdUS5QLu_KieAtzvT0r8YLdjvrhOnI6HsfuSlq9e1IQbYHHSOnXMv2iVDEtIlGo-w2RzcKwSklxdr8P92D8J2ciqavZSLSl_sy6v08QzG3VuZnseYUPIVFrG9qDWMT-EgDuURokhwAfpp-reF6UEXCZDvJ7lJJas1yxiJYj0gb_C-bcCmvWhEfhvrCt9AvT1dEX8VT9JHD0Tu9PUpRJLAwdakS1lPnm-4cLsV3XkFvH7ZgSbvDssRmox-vQMKftHdabefhKVCz-NTMJuwYxvScX68tN_Ql1hBsauPO4EtHVCj_lc54JlcIkGS2CUL1np3HzORJSbfrXthi1cXL9l6Yyu4Jd4AwTJywQFCS3rkYBiIOCgwq5xuYm1oSPD5lwXM.%26pg%3DJV2PGJ5OPFGLFF5D3B4QE5GUJI%26ch%3DAQEAEAABABRNHdFy0n70CswxX2VJR2BmLm4LYLeS2ps.
+.netflix.com	TRUE	/	TRUE	1790267292	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSycxBpw0Pgw7s6iDscMrhbdV32y3_cs_8.%26dt%3D1774715223117
+.netflix.com	TRUE	/	FALSE	1790267289	nfvdid	BQFmAAEBEH89OshiGI_-kgeLyLyC5FtgUMFU9PNVAI8Eiz_-zAehJv5CAzGydzQcdOEkOFNXS0Thf7h4lXsSDRkQyYV7mQX6F1roYDTb_vDW2mJlyLH9gG-LfWiV-nxiXB287VslXHzaRsfyqgIqKOiL12yiYxeW

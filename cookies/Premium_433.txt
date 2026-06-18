@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AlanR.
+– Email: carmenero@hotmail.com
+– Country: DO
+– Plan: Premium
+– Member Since: enero de 2016
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 4161
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: US$13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Isanora
+– User GUID: V5ETL5UIVFDPTKFTATVWOWCOKM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEFT-y5w5QhEGpUz74WLxMNFgWOH7r3DtEMf-WWXP4BevVOjEQXhsJB-Yg4YEJeWI23bPmXiYQ3thss02ljpGpOehCIs6ju0kS5N1fOYA46GlnKy4mVNyEQfFmlIs_iLZupay3BuDAG3V_JQ9sUwpGelD
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	ct%3DBgjHlOvcAxLiA5Om2GYU_VRCG_1PA1Er28g820HGTPWzdixjBWWsgnQLqGuPCl6fAgyIbMX2Mogozu0L40hAu_hdRJFx-yjjNszk8Ci5FcdAfiwjK79VEWjVpy9n-uucVwPdmVsnj4zBvsWKWdnVV92kA-qBb3qTo3kf2LCjR3HMytr7jC0_rj1SVHrNFCbkBbjEVm4u02DVWJDTy-PCZ3kiTWXpntwZ4NdP4RDcGSorxB1Oz1-V5xtZg4nv_q6mSpUKGtbJV6u23slEl2Wed6lk7PhPQkE2kAPHaiHhkCNdCRBYt4NgWFuBrvZvQ3AddcM0H9oPZzj_ra6j-TYkUV9l1pegifytvlyfWBZUPvbZ4dBEyhow9p8x9sXSpHKOwKHzLmqDp6R_VsHb4Gl-nilE2kdGlov4fC7sNMkvi_JOaLcfNVb8K1mnIgAvs8zU_MmgBnlTyhDiuKAFmGpJotr637aBLephlW7BOnLvMEgp6bq-HNE3kfd2dlUO0you6Sv8ktE4XsBJy1gYSB6SscEKDvcbKbtAC6a44dAZviGCBgIG6prXTHwW8o5_V5m_7Tnkp2N5z2Mib28V9ezgLTdl0JH8E9XhLFFW4A0sutvmy5f-wuMHnYmwpGZ2kJlR9tDoZB1TKYk70T0TGAYiDgoMioorx48j2n6K_lzc%26ch%3DAQEAEAABABQRuHaGZPCYu6dcxZSL_BrJtMS_IV1A_UQ.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScb4lD0bPiUM_J_zgEayAxuHJnBH_k4es.%26dt%3D1747095173403
+.netflix.com	TRUE	/	FALSE	1783551684	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+12+2025+21%3A27%3A31+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f22d892-1372-4e68-b474-1635716d33b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

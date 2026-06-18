@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jay
+– Email: jamiejsheldonbourne@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: May 2026
+– Next Billing: 2026-06-18
+– Payment: CC
+– Card: 1016
+– Phone: +447586022992
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jay
+– User GUID: ET5NPECJCJHM5KMTKU5TKEAL3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810666138	nfvdid	BQFmAAEBEP1lXpHf1DkdDjmucNaDCtRgjPMBpoM0vacK91vWbrKMLEl_Z6ho5a8nhkgixn2y3547ceLVytrjQjZw2uDEhW_YJkYvomhovdr0QAaWxG7SNj0-qAANqpVIIEueopdaYXQDFCrTFKqDjusfa4iJLwkY
+.netflix.com	TRUE	/	TRUE	1812566253	NetflixId	ct%3DBgjHlOvcAxL0AxCg8-YhRv3PwruY-gMK7QdG4LbQsQtmfR--WPkS-mYnBYwFYUcgzr2igO9G7lE0Mr6tYO4JNseWhxAgwM5XdEdMpG0GCth4fTDCS8-B9e0NvT-lmZ8NLYEAOe0lDZqWuCfEy0JeuOdOpR1lqmTV5TKXLQrvOlHYZLR75E4SAbyEvC9tJU6kRAIqN_9vFJTyHFmXTVSSSK26rI4m0n7TTNvH75QGeuOqlE6X_xdXE-6gRhLmTnonp_DcE2SAs4o1jv8-q1l-3gtsf-tdu1BW2TQZtirgujBkipjTbV54VsDHKTL1oj-PW9e0olcgJEitVddig6lF_gVjM_UZ2tk71-A92ANLJmtYMY1xVBNHdNfB4y8RDeIIjIwBpC0cDQqG2YfPQjMop7CefQFoHJyoE1PayVdRs5ODi-3ruWOgNUfk0poLkwCMojvImZNTVD70MUrXhzL1asMiW5RQUwL0Dsq5s1NV-nYesWyKDAYMxqPuAagJ4BULs64e8M5nVoOMvVIZu0qStwTgcfUD4CLSUZmUjF7ikXujTeJRvEv5-BZGXzeTHu5maC2bFrcovlkq_wJ7mkPk4IgGf9hDlTgZWwGN3fFlT2_0RY7D_X-mmX7VffDBHG8_lE1a1Sg9_Ic9zqR1j9wKUNTiupA1jxDcs6wRFak4GAYiDgoMKvT0NaeKEo1RcXzL%26ch%3DAQEAEAABABRc3UqAh4qgyrcoha0O_LHDKf1ebMbuPZs.%26v%3D3%26pg%3DET5NPECJCJHM5KMTKU5TKEAL3Y
+.netflix.com	TRUE	/	FALSE	1812566257	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+09+2026+19%3A37%3A37+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c2c293d4-8652-478c-a187-5decd1a08afb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1779130105362&geolocation=GB%3BENG&AwaitingReconsent=false

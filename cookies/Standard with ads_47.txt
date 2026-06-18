@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alejandro
+– Email: inmita_88@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2026
+– Next Billing: N/A
+– Payment: VODAFONE_SPAIN_BILLED
+– Card: 2118
+– Phone: +34675474210
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Inmaculada Leon Benitez
+– User GUID: 2GRO7HD2ZJFU3BADNUSQEC63OI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796481123	nfvdid	BQFmAAEBEHTtfNh4i0IQZ2mRw0koXzFgdpUcrvzlkPsuwwWyiLSZYcncVVB0rRvnIisLlo2xHyvFzvPKIR1Zrj3nK1N1ZYPUZ9HqALH9PEaVXsTOlVvkzU0J5OY9b4dRxpv2J8Dq6EW163csTknH7_R7jlGgm44l
+.netflix.com	TRUE	/	TRUE	1806751436	NetflixId	ct%3DBgjHlOvcAxLrA12jrl0ODJlA70N0zCo6uVo4mogoMlQKKyzqDX4v8wb_lAmLgw4fIEE0FOJrtzvLw4Jz5xRbhQqSgfm1sF5ikUvPmHR01gygKrGOgBOb6-xlh5dNm9afVsHVVYhqUFAm4L6r5jEoDylGDl9Of9kfjAH6gmJC7p9bD8vmTpqNxCnNYj-mlfKxl247zAbWVJaOMuJmOv6N5E8PaN7VVu9KbABso4b8nPP8dve2rkDtF44n3C8SubdeftIfcK-quXKHWE3PLlgeRE9wnFiqhdNsps08EVMRSDDeIwGLsF1acg_udaW4GcTn2ojD5xFPxf4qKSYMKMOpOvOqYheQJ_xFJi_58guS-86IqvMiQ1T8qzIJQCUVY7fVfmGZWJQY0bXRHWc39EMv34NRh-067cEl3F8paUium8-l6a8_YIFrCwy7CFosUcgYoMoo3RnkmsI7j4ac-MzLLJN4CT5c-OaTxYDhJfsOT7Ut4EOGaVx9EO1AJbXQ4EPZ5_lbWZSCMvcmyTu2qG8MLVwumAigm4JHHp2Srk5dHkvqSrTY8RqnLe5P568QKHXm2JJeEsaAExieer9By5T--iRy_MuILgVs_IUWutcLWZS-JaruPnLy6_RLZgmmKF8wXVBBnWG4De4TxW5vlVr1ZQd7n1lmGAYiDgoMnvJJRBR_kgKlwbK1%26ch%3DAQEAEAABABS3hZ_0d5jmkEjYXCMzVJ0GALaqxTwhroA.%26v%3D3%26pg%3D2GRO7HD2ZJFU3BADNUSQEC63OI
+.netflix.com	TRUE	/	FALSE	1806751437	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+13%3A23%3A57+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb3ad40a-2cb2-4372-b875-6f91fed318cd&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806751436	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRi8NqsLUN3pwfTRkMjyvHVZH6aQkTFiXU.%26dt%3D1775215436986

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jon
+– Email: edmundtorkelson@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: June 2019
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 4010
+– Phone: +15039703814
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Edmund
+– User GUID: 7M46OUB5A5AALDT354KRDYMARM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784234204	NetflixId	ct%3DBgjHlOvcAxLdAwPJ5ea6hMktYMlPDDkqvKaOsnEAlnHKSgN-K4wTIRX_dXhfyOWN6FydzIX5I4hTaUiokHLVFxznnCTRGTKRylcOasMzDbB-MTjUMNBR8ovGEVe-KAvZLf95AxxZRRmc6E64jy7UVLDRTFojC2upy6eHFqEYcqWzqXFdzQ2CbRedujb3zwxQbiTFNS3YaiS22Sfo3PgW9QMzzaS0TVHaiJHveSEltIoGBir6hwEhla0SSyDhYe075nK3ZLyvIhSkLg4lYlCn2ipqc6gwIGZUJn7wY-Cui_gTdNGpR0U7shyEa_SeFkw-CK-jtwfj2u7y_EUmXahB-LdqpEvIgLOVbVuCBmkU8kj_X9JEU9uw0sw9aqUhUb3DOvbSeBYUdT-lokT0xKnqjymnFQzdGPvQKMgMqeW6VSuPqLE6MzoVxmJ27mh_UtNX7kz0Nxrf4GfraKNRSH8oLDcr2BRqRiVBhoxWGtgOpQXArCkug1tgjkLlho2Gnnt0LoKylJeT4-W-HLL2yiAZXGPsVfhgMgJ9S2hsdfgamo0QDdlaLV1UcY9YI9TyVSZHdJd0zFlvJGmSUc-QsK4ip-LzIb2-laA8N1neQelLpdn0UuOrkcuzOrhdmbatkcl66hF5W-QwTRgGIg4KDHPd9cynflPvLeCulw..%26ch%3DAQEAEAABABSUdz00CLd7obc0bjhCpHHAjK7ORQhYnJY.%26v%3D3%26pg%3D7M46OUB5A5AALDT354KRDYMARM
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEKnCR6FU9jgrdiEtWaCp3kdgSpYZX4abeLHrvWXl-OkaJFReH_OOuFAdBD22Ihr1Dtaarvw70Man8CKP_ficKSusDeY3AsuVKqYO4Js0w2VfNT2nsEnZvXufbClt_OOSOs7thjQIP4S8wsQx_TG0mtO7

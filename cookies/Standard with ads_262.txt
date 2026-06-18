@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giorgia
+– Email: 1974liacumbo@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: febbraio 2025
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 4043
+– Phone: +393381342509
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Terranova Giovanni
+– User GUID: 5KYVUQHELBEV7JQSF6O3D74CMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800310657	nfvdid	BQFmAAEBEPSJP_js8pbZHLR-UM4snAdgIpdbiVcddhxDF6B7xrTap1OgERw8mLsUbNun0qaPnm1mBIWZ8wAZ3RYDqa9Jy6IK06kH5Qfh8bI9yYD1zZVrOM5DFv8Oll_RvloFEdqGzFd1Cey3gI1he03Y1sFgONWc
+.netflix.com	TRUE	/	TRUE	1800380642	NetflixId	ct%3DBgjHlOvcAxKUAzuRg-vwcfEZV_CVPvkYO4AtYwT0Ko9eU0M_PBtez_V6cd8ZlG3DKWxFKeniNpHDXv3f4hn7ykE5c81VITaH-89B1K1JC0pcexVd5-47gqb44orNONUo7IXNWHrCPc0RotlqhiUtTqAvsw4ARd1KgPQ83jiksSkmPSOPtv28_SIE0-xL-ond7s6KzbmjGaYgrO3jhWI76MUQQtrlgMUwW_xpzUmRKc0SPaCupNKw-Qx6S6d7d6CCrbAtlUqw6KjKDjcaVVLLFOkKPT1dAiFRZ5G-tWmJ9od0uP_tDTs9h1n9jFn-BINb_dg6AHdeTr_K-WV7qT-7vqdJ8VXD0GabgeEp8BDfUDLSs1WxgbX9JBu_bJthg05rqV2zeRQkk8jjoDhKRdb6Unil-HS2O5sYogOFLRg4I86-UCOUp1wg-T2z-eArYbySFJkWD5yim-Nf-lOfr7_FfNMu29rBq-HjbClSo6M2rkTsL4tSjCmVexlbDyQMdbh7RHjIfFZunoHox8lNP1fKKQUqFHCDSNxAkx5DofI2GAYiDgoMxxK1Hxpin1LCgLaz%26ch%3DAQEAEAABABSnuM-jHWCI6OR3ah22rObXX68wuZppAgo.%26v%3D3%26pg%3D5KYVUQHELBEV7JQSF6O3D74CMI
+.netflix.com	TRUE	/	FALSE	1800394807	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+19+2026+22%3A40%3A07+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=55de9745-e4f2-46bd-bf69-9d4023feb09c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1768774646124&geolocation=IT%3B82

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alex
+– Email: etelvina1956@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: mayo de 2024
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 5860
+– Phone: +34687061413
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Telvi
+– User GUID: QRSR34EVEBCI7NJCMJDBYXXX4U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800749950	nfvdid	BQFmAAEBEBRuHsS04EZd6gyoYo8fmM9gAZ5d_NkNI7N1X-DEL4NWiyNKYA6SHppVJVUxumHc1YD1JMOpr2KxzJxnzN23Iwn_cDixHJw73VLjuauayuZdlVAQzdidETUPhaYEYVCbi4jcUCcbPNDl-QsQsb8iYnvN
+.netflix.com	TRUE	/	TRUE	1806271271	NetflixId	ct%3DBgjHlOvcAxKEBCxCkqnKEiD_ntU37B6e5UrFcxv18OYC-fWaMP1H3t77pzYL6U2OercEZ8F14Iu6wnUtssn_EoHWR6jhj3KeFAszHszG1wKU1NJrzbgZw7vpqgKRcRI_0EYDMbVaRhoSDQD1lQEe_CBZaEeV6KHPmzJaF1F8Xjb8etKFqr22O8Ey3_2wj2geiHwXnCMmeONtPdVPPCPFfhb0YHINAPn35P15CDgHbB3CwjHtDzDALAUX6GS50PYr44AoC9a6AcGNyNkzjS0qIHJTPZswhObRAos-qFnjdaYlO5OkFxv87ceh2jKmrjyCJZKUUnZYdBfbr3JbQF43ZpleFEolUWM1qj2Z2cU16f-h6CrA6mzRx67UOPKGflaLe9aeruj8f7r9J6zIJ8VDr0GLvj_pBv86zU7uCSu318GjhHQDpXFgUnoqP_ImMto7ZXAB0RPIFPMlBZjuTd94r_yGI-jpSeWjL77MBm1BOGDgjjFEmqEOD6cQWsH5wwVKm9q2aL38c6E-Wa-Ox3sLbXZ1eMuVyNjsghogXPblTYS4lzac3LLzEUMVkXn5aJYYcM6AGGlD04e4_UrFet484ymMXcW0xDPxOqVrO51DHlS1F5aWKdS5e6zA9l6oxM90Xoi4Zda665w-dToMLxU3jcnETs7mM4F4kW_ouxMCFDlSSzo0ONSwpGltNTD5sRgGIg4KDIcx6ZVS4mNNAhbicA..%26ch%3DAQEAEAABABSAZruXtUntTQJINlM9QGF5EsTF2zHUeKY.%26v%3D3%26pg%3DQRSR34EVEBCI7NJCMJDBYXXX4U
+.netflix.com	TRUE	/	FALSE	1807908962	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+22%3A56%3A02+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6dcbae6-0e9e-422a-b58a-9afb4fc811ae&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1769213914193&geolocation=NL%3BNB&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emiliano
+– Email: carrusel3@gmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: septiembre de 2021
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 3001
+– Phone: +527441582566
+– Quality: UHD
+– Streams: 4
+– Price: $369
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Los dueños y señores de la cuenta.
+– User GUID: E6P2RP32KFCC5HWEORND3F6CFU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783709072	nfvdid	BQFmAAEBEApv_HCod_HB2bJbEYAyWEdgzqFJ-qojD_OrdvYdnndmS8_7_P69bViv7fmK-Bv5AvSWZWExLu52Nq2Ec-i2BwWQdTuWGT6uGU00tL-TjKIcwi-czmBLChpacmzwDjy6XXIQ49Aw5FrXchnPk_R781AS
+.netflix.com	TRUE	/	TRUE	1783709072	NetflixId	ct%3DBgjHlOvcAxLqA-2B3WXiF9mA_vNl0-ol_nUpC3fuPPBlmBibdXaBXzZSiQl9N7qc0LAPYtCiPJMxf4pl_yDvP2524zq6ufWS4gYxP1U1bASRrJmbKlQG4GlJ-xofgCRs6Z27JKDFul1kpLk1NNcJWWXG36y5dd7rG-o8EC4nAUNBgHFUQhZFDayMemcR2ZJLvw2DQnIkCm4oORNBps3Zh-asy0x56z0ixuX5Cmcp6j68LkZccUme6LuUe9fmPpwIizPJIcQHTspHfKfU8r9yBBnsiXA8uzsCVKqYz4gpA-Ooo3KUgR-UQ9YHTWL4vP_7X3LA-KJrW5qoqunFQ0kT9JenQ7PcR-kR5vQ8dvJDZiQU3UqEOPGJv_EehUSGaI31ufELmLxI5UN341nA44iHzl7I5KBU-4bV6oK6QscMaYH3V1ix_3UF6SU3FKFkDqPGioeycc09qyFXjWkmg5TNLMvXLd-Pj8bk-wzHyyAO3TVxi2mERlcCmpQeP6mGQEN8A9xtzek2GZ6kEt8KVGC24gDoMQ0Kc9UPzOw_mwD4EawzJuM4U0dU1erdooQ4y5hwLjKlH67ZLpG_w7i5Sm9E-lVV-U0TcQmv_LsbJL_cZ781jnnvIJnce2e7U6so47_fwAnF9TvxMAiHKW5ru5HHpWBRl40YBiIOCgzQfHUPoFFfWvRkNlM.%26ch%3DAQEAEAABABTzL3llxKmon0_YHjjCqybgP8QyJJC0oUM.%26v%3D3%26pg%3DE6P2RP32KFCC5HWEORND3F6CFU
+.netflix.com	TRUE	/	FALSE	1783709072	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+23%3A09%3A26+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b4fe05ac-eaec-41d2-b4ed-29acaa4ae1fb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772294055339&AwaitingReconsent=false&intType=3&geolocation=MX%3BJAL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783709072	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9AsvhlBo8w3sfy-1eGDTwVRMpt0F8pKM.%26dt%3D1777784968786

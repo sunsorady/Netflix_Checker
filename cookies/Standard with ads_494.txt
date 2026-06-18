@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Annabelle burke
+– Email: suzannehornby48@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: December 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 3194
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Suzanne burke
+– User GUID: FCIEWK6XDRHNVHJXVFLNDB254I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810148354	nfvdid	BQFmAAEBELk1TuFXH9x4vYRjuu8AX05gjaXCXLb6XhuUGg0GWtsa2N5cYxzxyQMZ3D62mbWxXKWRzMI3EMM6AB5xq7BfhtG4ifeDbfJsh17MCz2q-JPuqptHcvWpOgL9Ln4hQmO0-6f2R_ehEQzOYAfvZo4kNdRU
+.netflix.com	TRUE	/	TRUE	1810354890	NetflixId	ct%3DBgjHlOvcAxLtA92OC_sm-VbecM8I1wtpStjizMnt2ImGsyNNwXK3pQnptiTikGYZa84wZ2MkyXTqCaskXNL93NmhW64y92juVCCIboEkVu9Gsu1CruN4Zr_4NOOeT57w_x-y59Swt2v1reHHSrxMS7JPE05WxBL3MVf-_h6Kq1IH63SEe0mBOWgnlyuEI2KIUmUcVJpvTS0ZZhztxSTlDfDhuuoFwa3-3bEmt-CKa20jK2suM1sMcETWoZU0Xy8ACETWStmBPB-L0ENl7xtJz7Wb0YzRJYwBb97uJkEO7RHRpCYrBuY5SXGhnO4VIRr4VvBCQL_08-cAm7qr8WAmzV9Lx03GMTQJ-K1ABudNH8YTHygD5UpMmVI2jxRwDSCpgHkH62S0MCDMT_mIxB1ue5FIlythHWribIisA54y5Aps33uKOr3kpB7Qaj4GCygeSecd9whq2lyviA8oBZ-57qhfyAWAaA_vQdrsJ4kAqrHcR5z0msSPMG3iTA3B55kgnGTHqzOm-gZSSCd14EnT6V2oNDztDPRelR5oZYFoDyfbtBdlFVp7ccYDvM6A_nDDb8YKrXBJPPzwcVtmjCZ7AFPAJsMCdDn708gIi6mdxlZDwr8S6qt9i6VgBoptSFD-mdEClBFXzpOmGH-DH-FG6XjpLJSPEyAYBiIOCgxPWmP95VO-VkOj0So.%26ch%3DAQEAEAABABRMnKIcmYfNFHqaWRTmx6t1y1jC7cNvb1o.%26v%3D3%26pg%3DFCIEWK6XDRHNVHJXVFLNDB254I
+.netflix.com	TRUE	/	FALSE	1810354903	OptanonConsent	landingPath=NotLandingPage&datestamp=Fri+May+15+2026+05%3A21%3A43+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&consentId=797ad50b-0f1e-4782-89b4-4c766b13fe38&interactionCount=1&isAnonUser=1&prevHadToken=0&intType=3&crTime=1778600563084&isGpcEnabled=0&browserGpcFlag=0&isDntEnabled=0&geolocation=GB%3BENG&isIABGlobal=false&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810354890	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTV9q-VJIuBDd6-FWqzPIX4gO_gRJBgIY.%26dt%3D1778818888141

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carter
+– Email: mmumaw2005@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 5474
+– Phone: +13044411618
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mindy
+– User GUID: KPGDDLK4HBGWXDTAWML6E44LUQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795677878	nfvdid	BQFmAAEBEBa4Hm2LJQsZmFP9OScY1bRgDhU2WuB9UONwB7MSyQ-auPf5iM0QbiFTKbTmgmvM8A4Q0FnQTtW4nnr6Hz4mwQRqRuUz20iz8tMVDSkcJ1ehhSWI7-MzdVU3cpRNo8mMMyu7ZZ2pJPA7Eqnwkm9AtVKA
+.netflix.com	TRUE	/	TRUE	1802807815	NetflixId	ct%3DBgjHlOvcAxLLAzOys7njHdnHyK_p39EXNOowKZdogKbpDmxt3D0aIOnHWrRnkeK__MwRg2s33oZQYc_csMDxLURjP5Yb6prug_EBTgBrNuW5kzeS6QcRCKecAgqPGX0fnaLII5bjvcFpFYgrWjsjSzlfy_REYJ08_USfewi_VuiHsk-m_UEeEcJix6qvY1N27WogEfTbEwhMb3xIMssp0XVIsd4eiDPvZoIIz45OsYUsDsYMSxF9bcsyiaYXw4psqmYGAAzOO78K8pqj3rVtKkwZAiYgoPsIB5pBLQkEZDYsZttjmyulQaKazuWAMS1i9zGujzZEHWoe6MeAMGHSD8EHXRPjyGx6J7r4F29QmnVYJb9klSQoDphdBk3da9hwsEae9KWHrkhaJEGC16E4Z8YjMAfO8XeXqp8lkamQZXQjGzkxJWPVYXzRwaetSPPV4wjscximq_DKKKNe2OQzGFxAuB4A9CqGZwcHhxP29sMFcY7atqOa6KDi4Thf6LoEPXq4ZzlxUkJPAupb7O2JSNZFHrnE3ik93haaHgHr8wjTShMHTQ34McoUCW79aF3UM7fhqQ5U4BB7x8rthD54sq4erPNPFBxpfw9LgCrTpHP4hgGTSRgGIg4KDLf5pmnCQWgrWx0uEw..%26ch%3DAQEAEAABABSIXRE6An3TwMuogWX-LUu9Ilme0p9r-yg.%26v%3D3%26pg%3DKPGDDLK4HBGWXDTAWML6E44LUQ
+.netflix.com	TRUE	/	FALSE	1802807816	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+14%3A56%3A56+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8b7cf397-2cbe-44d2-a340-a2ade4adcea0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802807815	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSa7APIlEXD4IFP_2iEZC09N1vXSElW8w0.%26dt%3D1771271815965

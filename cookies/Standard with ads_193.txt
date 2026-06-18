@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Soir
+– Email: severine.tallec@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: juin 2019
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: severine.tallec
+– User GUID: JVQC73GEDFDGRM2EH6R6AEQVGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810650635	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA911-1qG1c-hBacS4HX0T17f7dJMb20P-Q-uDuKYFa8WNY85ZOGqH-URt0ewj64pA2GqVGBIdZayL8p7tl4rRuET84YigXxVms3PngL1sEIrTyd8__gg_vRsnV_d6rFGf7nA9Oh27hfNRm_ax9qgrs1EeZkrC6zCwrTqA-u58di-ujENotXtnvrE0VAN8MztBLYJtAsMDMYTNOqtYLOuTp7gaLSe8bbwmNJQGnI9MiOekrX_inBnjzy5XgfBbjypKq_FkF4wMHfD_rkw2ZyWSjabslcHo_GdKVYiVvukKwzV-Dm28ptStow7Y744PmOWTESTnWC57oM2ewxvgSD2k18h5irecO7poF9PMh_9mDhZwpahKGmUl1hqQ1diz7qyKbvas6dc-oDm51YL1aC1Vl1ImudNuTwxKx4s40vzD6ezJkBh5pMnWURrcBAHAVC7JEUF6Xc99iZeeUZs7_FsbQy4su9PnpEKkw2xSv89j7EuwN7_eoTvTm8qNYrntxoDRidPG5vJvHd8L6e_QkojU2oYEL3QX-egfxgGIg4KDJ-_PFVEEjgllpX3-g..%26pg%3DJVQC73GEDFDGRM2EH6R6AEQVGY%26ch%3DAQEAEAABABT0P7bN3-U3UiLrcCtVA49xN-LV4fVf6Z0.
+.netflix.com	TRUE	/	FALSE	1810650637	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+16%3A30%3A37+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=cd6ddec2-4db5-4d90-84fc-4f8204caa218&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1779114595662&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810650635	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS1GUk3VZbw0VDWILMPuGwBuNZQtEDwWnQ.%26dt%3D1779114632485
+.netflix.com	TRUE	/	FALSE	1810650632	nfvdid	BQFmAAEBEENqdRfuJyBfYewnp1tZetVg073biPcACx0N1BGQenesVYbolLSFy2eo-JPmsrcM_ppQHNEt-41jN9GR_Mtcz8et5kJT5v9g5Cr942YWKeeqKAdOCeWPg28nVsddLA-yOOMZer7gz5FG6dkA0YQEbmrb

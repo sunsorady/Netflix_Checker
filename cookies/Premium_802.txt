@@ -1,0 +1,24 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : N y C
+#EMAIL          : tm.lusk@yahoo.com
+#PHONE          : +15099446699
+#EMAIL VERIFIED : Yes
+#CREATED        : diciembre de 2025
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0276)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:06:55
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1800896187	nfvdid	BQFmAAEBEBgo3FHWEn_Igqy7KQct_b9gVPswR82QtdiDown2s_eUqpy4on4nZ2CkzQ-RvTUOTb1SN3dKFy5PdMtlRwBR1TDcrhqMszmlm61vdn5P3emQyz2UppED0HAE0tVYAa_yWPo8lZrRY-8lg0oqqbyiX-k-
+.netflix.com	TRUE	/	TRUE	1810685596	NetflixId	ct%3DBgjHlOvcAxK8A9jXc4_sUKjxiscRWdOjV5sUHA20v0OsaA4KE9tnlXGBS4aWLYVjNwZnaxpTTaKWzCdYUP4IO-ntz0Hp25YQa0FNCHm2xIcCcwTeNcEMTb7MWWWENw3R-8KMLtzFa_soBLI3It4xqBP-jh0IX2IbyGizTG7aTGfGsfWovOPcv5XXopBcRQVn2UuxC-6WDqIF1g7ETVCayOqsi49vGxgCIyIMqmnRNedWpCBErBGUwPVPXRZY8Soz0HygaS9UgddHDPqXwCQJ85_5Xr_4UzjOSaNDSpGBf_lcCa5Qk_rELL2-L0p2yCSwEm4LLW-2_PCimrCJN3dHJiBB6l1Ynw1dXEoQ5pu6YQXiB-wh0A7LLXN7ZK4_JsVtiUJW1iXI2cpiqg22J3SWvHbMCJEu57FnoOBXVgGtUXnfPwKLkpefQfmh29-sniY2wIeI-xLEft1SRlFO4Cn7dhIP5hT1HZw4IZRJ4cGVefCKHChdiRd_b5UFcl1SZxXI-MXbwvT6vldaErIKf9-5Ze5USjH5Ig0K0ne_64pHIVBEcdIDBp_TNSuMHUwJzer_iql504ACdTWWZTUHQq-9_47NmgusCRgGIg4KDDjoIJBATJojjo-6GQ..%26ch%3DAQEAEAABABQJjBj8PMdoewI6y3Kd6IqTJbO61GEpBhw.%26v%3D3%26pg%3DIJBWG37UZZB7PIBC2I2GGJJVUE

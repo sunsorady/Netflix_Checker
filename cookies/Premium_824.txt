@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Csibi
+– Email: roobyyy1234@gmail.com
+– Country: RO
+– Plan: Prémium
+– Member Since: 2025. január
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 5488
+– Phone: +40747656313
+– Quality: UHD
+– Streams: 4
+– Price: 13,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Robi
+– User GUID: 7GPJ2Q2NOFA7RBWH37NUA2YVUU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796120952	nfvdid	BQFmAAEBENmim1FRF3809YTnILoScpRgIqXMFArBcYNidrKEPIXVFoGIsELNmX-K1saa4J8vC0SmQFSRkmkom-3d3nB9G2z_d_dH5wYSIS01sZxs5kg9qsqaSy55XIV-rF6r_D4iSyjSqMwSvAJc7HP22ED0_Ewl
+.netflix.com	TRUE	/	FALSE	1807180160	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+08+2026+13%3A29%3A20+GMT%2B0300+(kelet-eur%C3%B3pai+ny%C3%A1ri+id%C5%91)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=04126e7b-87b3-4d8c-8153-fa32db8d7432&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=RO%3BMH&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807525756	NetflixId	ct%3DBgjHlOvcAxKFBIthG76NID0goCN_1rse3kAAdwj0hjjn0-5CaSjFSoKZHuwHxdx60YG9K58J6lJ7G-3jKEcPuccyhRjMCw0VOeh7--EJUQdlp8ZrYzoEz2ESdZDNtf4kuuqj4Oh0AxmWcEOsymrzWSZUKtOnvx2IhIHiYfQymoQSVXweS8ZEMLqXyxN8pO6xLzbo-p6TZqlLzCwZX76jVD4VzjmK5rYuTQ1LmeGaDe1MHqCZ4NwJ2pKBkzWpDeho_fSfwOL-Lv1pi0ZZ-O5lK4nNCDpHurOcBOB9igIwCAZ456ZhqZZo26DDnk3Fg1K20WSovrLzQ_bPVZos85px9LNWSH3sahxuSTUkENep1sWlaVxDrDt5kYeP5caqp59pEHbnqW2_Xh_lQfZ2VYAhD0UY5ddwRk5mIpZVUVKdtKE4X0uwZvEHjPmK55BrCy0LmdX54TKsEI8RYza18_lF3TXRCuZdmH3oHlAiLSPPlF5Mzk6ey8O0nlFtU7-couu-20IVOvKC746rncoR8GoneVYWBW8f38YqNOyNwcE85K8nM_L3ghChZrqtoEQ0ZBg5MHaHIGT2_CA_lFaYcxWAj0jVnVFYko4grtjZ3Y2IuB0MJF7XHq9nZqKfzNMXJ9AqIprO06pf4P7qzecBl63gOgs6WqYqz3PbCbMjLYUP8HLvgSRcYszPFJlH-6lLUF0YBiIOCgx1q_FwVJxV3nSo46c.%26ch%3DAQEAEAABABQxQuiqGL_lSO5dvW2u-1gLEmAwspNJRuc.%26v%3D3%26pg%3D7GPJ2Q2NOFA7RBWH37NUA2YVUU
+.netflix.com	TRUE	/	TRUE	1807525756	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxFPmj4gHXfx3Aw0JK3hl8xT9aX0UPAng.%26dt%3D1775989755587

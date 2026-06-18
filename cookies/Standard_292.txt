@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ayaan
+– Email: danielishtiaq@yahoo.com
+– Country: GB
+– Plan: Standard
+– Member Since: November 2025
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 5502
+– Phone: +447934493338
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Daniel
+– User GUID: 5YRCIB3NVBBG7IOCARI77OSVQM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1796570757	NetflixId	ct%3DBgjHlOvcAxLmAwRm3zMXVs4-2LDmPgXr8b3BYq-V53DKTDTHaWMG_2Whomk9aC6-1DUh2pFqE9EDYWctkwfVzZv2NZ5iBI0_cGBn9pwYmQz9EM1v8CqmAHMnjKkszG4hJQgW6oaQ_h2avZEyrMuDjNx0e4NB8jXQJ5uK0fXHO-7KgHSdUuaXIk8mAoCvEAf5WocoGjrXqv5FfN3e8xpqCyxYo826-Qo3SQLrUUa-TaVjtHvWZTOlbiSHjULQQA7r7guKAUnl0c1grzp3gd35aMRJ9WqWqDDcP4rNUcwyLgV1q9yGGEjY3_qayj1nxU9vrqtiX-9J3q6_TQLmdyi2eXb5HwQg0qdzuSrZV0WVbeS9r2BeGmylJHeZuODdP2m2CO_Z-6iqzCNtHW35QYkRK1Ft44PKJpovKQc_HonSKCl7BtLV5B2BOejsEKxv4ZklG7qeXqkLVbrJp-Sv5tbHllr1b_eBRV_EgHi9eJQbRSDjUOwS7oHatfTCuixZ4uzX2CXOg4pa3Qf_jQvYnLUfmDYciwoKWzF5Pf0YcVAoWiuoYttAUuCm5qps5Zk2xFobZdsvV5VLxuS4mdNr69wOcqpVPSRUXeY7T86-piu_7MTCbqyxmzFCddcX5IGv7CgplqkFVvJobERdMKae1ZJ7UxgGIg4KDH68jmx9lGp4Ep8zYA..%26ch%3DAQEAEAABABSjqicqCI3hF0Hkfod6bwiY68xEtF85cMM.%26v%3D3%26pg%3D5YRCIB3NVBBG7IOCARI77OSVQM
+.netflix.com	TRUE	/	FALSE	1796570759	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+06+2025+15%3A25%3A59+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e6b8f141-5e0c-42f8-886d-6a07dad52688&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1796570757	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJ-9VZqsysky1ZR1UeCZI2xz_NZmHRubs.%26dt%3D1765034756614

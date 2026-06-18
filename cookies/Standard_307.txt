@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Keke971
+– Email: thierrywills@gmail.com
+– Country: GP
+– Plan: Standard
+– Member Since: décembre 2022
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 4857
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Thierry
+– User GUID: PCPROM4JQNHSXBD6L3ZRUNPY5U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798935824	nfvdid	BQFmAAEBEEfEs1CebO0bXqPIkT72sZ1gwIBXfTRMtOSOidtWfaSAVBDSOqxK1tBkvxsr5qGXM5eLpgqc2MfrooMcQJcDiElp92_jqlfQOE9nGWOkBcmqbnwa5YeUtE8rSbBu-aI7Ia6oKW4VQzcqrT4zmU1bT5cM
+.netflix.com	TRUE	/	TRUE	1808587706	NetflixId	ct%3DBgjHlOvcAxKHBCaFAB-H7cBEPC5p00lwmf7yU6ACefPcoqSRKIG2KuNR7KXT7IMA3P3xRWVQaUAh7pPPYH_wizVfTMdD7sviOlttnTRUhGqrWPB6yG7U5GBM3Blt28zxevli0kOTpWILeGujHTkaAHJtIPu-fmmncGs_anqX-Ey3xr3P-1YyPA4hGY4b1ZxWqfTkHWPNt2kJp14w7V5VG_Qpmnx3rxo0lmU2zse3Xp4Gr9NDHCWaT5u7k5QGUQXMggnQ1yakiygwcvbvCmEPkmXlystDdCvWAQMLbtYiv14f6JNplMxOpY7Wzmii8eWfoPVi8r5N_OG2p4GJWLp-fOmKJm4oPdcEqmddQ1IK_757dooHfnxR0_2OOmiLTap5pYzZqhC3zW_24gW1axy75hIhQnbr8xhmZLiNC8gm5AGumDDMBiXS10dV70Jg-1bOEdurC9YP5ecGJaDskM8hnE2BEFW1pnvFVfvuaJaMQhhUqfq4f1iqAUiyBywbwQbSrAunrrfqJY_YMiwC6RYFkCJzfLWm2g2DWUIIkwsIRJYMj_YcL3EcPnGix5EZ_eq4QEIgLzKkgtW0Auq9Pu4LYJ_o4Uhm8M11CHBCHcAkxXC2Jdm7Jo7NtDXtHLv-kKzs2i2H2V3fqPJq8Csca1x0UCeCv9SQNB3zgTPM6bh-C9KO4kvRRUENWG75luny258YeRgGIg4KDMtVxw7hkTfwZPOyqg..%26ch%3DAQEAEAABABTG9orOcAHoJS1eEkYIcuLj8jq2QWMYi6M.%26v%3D3%26pg%3DPCPROM4JQNHSXBD6L3ZRUNPY5U
+.netflix.com	TRUE	/	FALSE	1808587710	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+13%3A28%3A30+GMT-0400+(heure+du+Venezuela)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7c9b3fbb-2635-4b00-8d2e-c11234f242fc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GP%3B&AwaitingReconsent=false&prevHadToken=0

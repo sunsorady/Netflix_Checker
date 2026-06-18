@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ojie
+– Email: elishaojie221@gmail.com
+– Country: NG
+– Plan: Cơ bản
+– Member Since: tháng 3 năm 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 5048
+– Phone: +2348108183944
+– Quality: HD720p
+– Streams: 1
+– Price: 4.000 NGN
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ojie
+– User GUID: EXR3KNAV3ZE2LD6ROBBR7TA5JQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809437134	nfvdid	BQFmAAEBEGbgi8JyEUckPurLMVc1F_VgvZn9rCU989edTONWABANP6Ircbxbs_cQE38O1ettvozkHPOeTgg3ZkqcAN1xuWO6y2lrMfXh6EPf5KhZwtgSveEE4N8yxMtydnuT4_uNky1xoUS7BQiBiyzDz6437wxk
+.netflix.com	TRUE	/	TRUE	1809700302	NetflixId	ct%3DBgjHlOvcAxKyAzx6RNm0J7Lau6VLj2dedbseJl9vdTDMpH5BLB1U3cHhhafyB_8Lw8Zq7Fy_G9z8QE1iNarl4bFfmYl6GJxhEBCXB3KUi915VoH3MoN2hykH8dJShtnJ77LWcoOUmSJc6TYSf8KSkrqFev5ILcl9abicYJb1tmCK1Zj-BmXqI8DglPeT7nn-DzLUXssPrTI40BuUmYFfrtrjZGlrPoq2y1Dbnrao4_GoCnMlE-DHfFdIf6KcOmpzJCPQBh9gzNHKwhKj17PcRmgTfK_PMD3mAVIqqxz6FaRiSsKytMgwmp-wccK8j81Y9dnkqE28PODLe_DDOCdKyVOI9xjifXEkgCO2EexzGrpCLU57yT_EFJSTPVrjASxFJxzKojHSYKUy_JaHI9OnJkzAd-ZhLFRFk8jsiXpn3cHlJ_O4Glc9Z6GvIg_NfzRMHoK9UTe8HF1sE5oUNxjXep-Vyyb2deqP5rxoWnqDqG0r_fy186WCeQ3kQYki8X8ix33na9AYShHYUqYsV-k5AWqKdQNKO54Kx-yAGCjSnUL5sxPg6B2fXKT6d-fLnFUtfRNdp9V3kv964-4gGAYiDgoMhAZfc72V7dLyhG9E%26ch%3DAQEAEAABABR-wBR2gCPXrRZ9nj9TQ7kd7qO7BImW4Iw.%26v%3D3%26pg%3DEXR3KNAV3ZE2LD6ROBBR7TA5JQ
+.netflix.com	TRUE	/	FALSE	1809700308	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+07%3A31%3A48+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8606f938-9f15-4e9e-b06a-14fd289974bf&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777901134760
+.netflix.com	TRUE	/	TRUE	1809700302	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnXOaxKhrUslrcXjyei4PzIjyEqE3xzyE.%26dt%3D1778164302294

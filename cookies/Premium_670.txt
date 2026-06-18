@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marcin F
+– Email: martawiewiorka@wp.pl
+– Country: PL
+– Plan: Premium
+– Member Since: June 2024
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 3321
+– Phone: +48730802123
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marta Ilczuk
+– User GUID: LTKZ4IMZYVCKLLPL2BV5ISM6CA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	3223465219	nfvdid	BQFmAAEBEGbz2EEZSskYawbigIMm5BJgEsO12B4AoUmvU1YjMeA9pOWUucGRXvwJTw8rvBN8PAxaoG3rmq1wruw9b_2E24XnBkrKmOaTx_IWJiTPEZ3mzR9CHGwtVXAOJtBE5Fvmpsi1w3ynaSx6ylgCxuBc_ajk
+.netflix.com	TRUE	/	TRUE	3776282794	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSrh5V-_rHzhYWHj1JgIMahLlEcfzB14l4.%26dt%3D1767536613512
+.netflix.com	TRUE	/	TRUE	3776282794	NetflixId	ct%3DBgjHlOvcAxLnA6S7IMrKfxSwR4WcwHmKsnSRWx1Uo3fsmR1M01esApPCKBWqyPvEj59wDBZ3L63_fxjcvgyVaZnuy-oWnDuCv8QSEuDMflGFaO3j1ybZdAe0xksqQeOSqrAybi0HyE70_qkcfXagtJZJAWFDFsVY6L6XYl_ES-CeFms-4QR0-0I8CK6wjjOcRkYOSAo7-6tMtZaI3o3IwZRvMTWQ1pO8OSFtjXVWTJrvapgfC5wxNi81_ggEu5ja8AVtlEDusONvfOdBgeed1LeXjejsdR-qYVNS3W2I_6M5YrFGcXVPCbsHNjUar1hl_U2rQM3Rt8dJJYvPLq6yKqxpO-6q22FLhTPiJ7hLRrd8FoK3Px8dszLSeqJqCNrdTj-JSVuDgqQ2mHcB6N7A2K-HBfuTGLvZdubkJZHsWI2CPyLRKBEsVs1gscqRuYmXgW_zntd7Gyder6MwAWzvJPI3Y_3mQxxsEUNUgcM8_nfDrpONrhUehMBS5TMY6zYRZnJ-OywkYdwzAf0Ujz53YxlbyYRDU2Cn8Oxt9i-XjVtl_Zu7eBNvrm9UND6DCxsQeWqlxS-7N3Phma3XV8PnuenpvNdLvdXnNWouvRBoqtHN7vg_WAX-X6kpeCbZanzZzXdCZHKVvomrF5EZLeC3ancYBiIOCgwfT8Yu86DCssIr40g.%26ch%3DAQEAEAABABSTWayYz0El5lCOVi8mGjFO-VlGVwc9Ogs.%26v%3D3%26pg%3DLTKZ4IMZYVCKLLPL2BV5ISM6CA
+.netflix.com	TRUE	/	FALSE	3776283272	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+15%3A23%3A33+GMT%2B0100+(Central+European+Standard+Time)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=e452d00b-abb5-45ce-8f8a-e7261892ad9c&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&isAnonUser=1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Familia
+– Email: tamatiacoronel@gmail.com
+– Country: PY
+– Plan: Premium
+– Member Since: March 2017
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 2111
+– Phone: +595971172406
+– Quality: UHD
+– Streams: 4
+– Price: USD 7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jazchu, 1
+– User GUID: UK5UQ67FFBELNC32PA3JIV4AZ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784056894	NetflixId	ct%3DBgjHlOvcAxK5Ax44Ovf_WFQ7qflpZAKVgxOSQEgD969XvSLUjiy7Xa4jjtCAbCZRoAS5S79vuvNp3DJInvPcDhL4Ck0OIHiuE0snqHQLSkoUgDIEwcu13wi_Dy03xyFRr64IySra-8UvzbIYmmqKJlvYka9x-SlETHAwwFT4iVA907CUVoEsWMG8wISWFZiBCd2YcqwCenZqVHbey7gn876PAVRVCb5ZDt_ic_9bUXxDcSUUupdVCBbmIAa2X9bUUhr6XpfP3WES4yh-CB-92_CujB1kjA-HkNh-phUfsoHZqVVWifNjawBeywaQUVgEw0M5vkQyE1WHu9WUaHklQV9EhRZ51KQNkI0iZLstiPQlrEXcvuWZfHc5k6EGqRB6NJy12KnS0Z3XKf9BjUy7aHI6Hc8GqxA_LlZR7HOXwNxjEHL6SEGXVgvAOIolXV7ODu34sarzBtjrHIQtooeWOE6hDWhpiJQ2tUj1C_kNCFRVbK9NIX8SgH1KxTxkbFDrfS2poiULb_j5AEuD6FocyFe1NKVKB3K2BQbV1MGtG_wp1OvUbmxmWKOGdbpcfl8I5vQ5AommECwCtBzdH9ezco7hzhgGIg4KDLB8e4Br8YRpunAvew..%26ch%3DAQEAEAABABQpOFAquhMFjVYcXPn3KJStxOewqne3Z-k.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1784056894	OptanonConsent	isIABGlobal=false&datestamp=Wed+Apr+02+2025+16%3A14%3A29+GMT-0300+(hora+est%C3%A1ndar+de+Paraguay)&version=202411.1.0&consentId=6a276880-60be-4a33-84ac-b52682f16d94&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=PY%3BASU&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1784056894	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRJuUCfD2FsAiBL0UOdUPp7SRhoWBaAmA.%26dt%3D1743621260985
+.netflix.com	TRUE	/	FALSE	1784056894	nfvdid	BQFmAAEBELEBcV5yX_GtdxZ0NXGkDWJg5cVkdBej12Cs7L480gyr61nocOLsyC2YPiOVFB5gCLLVWR80MZ-sK0tCKw11nrVcE2cAFd4ER5RGUdjz5LP9FcpmlFx4wxHN6vyC_JA9YH3ga1as1FGI2YeMjQ8HaXOF

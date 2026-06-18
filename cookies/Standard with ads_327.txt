@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nora
+– Email: norabee03@gmail.com
+– Country: AU
+– Plan: Standard with ads
+– Member Since: July 2023
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 5420
+– Phone: +61449094437
+– Quality: HD
+– Streams: 2
+– Price: $9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nora
+– User GUID: RYSG5S236ZDRNLM5R622OTHRIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1783551684	nfvdid	BQFmAAEBELp9w-GFNrzYC7k1HoyGD8ZgghMB1LKNOYGReh6fKnCxoUDHC0Mfu3vBx-7C3nxVynOpF830NniFTXoWm-4AUAgeBkE_Lj4M0O5jU_TezeSVVIKE0LoFeetnp4KT1ZWwvwafi0C6l_mAwBwQXemTq_-0
+.netflix.com	FALSE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRqR2RNao5TBvDxrE6dvrr3tKJwi9L9zw.%26dt%3D1744967817128
+.netflix.com	FALSE	/	TRUE	1783551684	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Ag5heSIiA-xkrT0F8RMDmT2MS-DCAU3W0OduExxCQt3NYP_PHfjzwRF8kIADGL1gYA3_PSNiyEx1Afmp-sIIbxPTeNLZLkF-0sduUmjygb7xmxlR0UAYZ5nuZUCOKswWtInwjumVRVc2Oq87-TW6nIYzdUtkrJAZSSk0FpW237su1aQXdIZgiiCGQtJRhQMp43fhbHvwE6gqtsFuXxks1tb2MoYRlIKGlwWBXfTzsU1S2x_F0QZyzEoBj_C3GwK9g1aJKR8jQc4-W8T5GbSqFPGLmjURcBxEJd3xCDsSrsOWCdmf782URxKbBN3FolJqRfN9jFzO92rsDkW5fs8z1yrm7QgVD8yqfxm8IuDsakfIeewTEpxwcTueV62TO8uuCVKjH6vh_QR8fE7QllxFrIErn9GEX9DvMzFSTXf7Nz3dchGn-qcA3cfBZlktV0D1ancPdKcv7CilmN0AUAc9SWo3LWXhgiV8ckeC5AcVobBxlvtm4d4oZkMdW-0YBiIOCgxgrDseIKIDmYSbQiM.%26ch%3DAQEAEAABABQpCxFsoGnR-DEUH-WrBwUgkBPif9KU0pE.
+.netflix.com	FALSE	/	FALSE	1783551684	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+18+2025+19%3A16%3A57+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a84fe27-bb22-4a31-948d-769899464ac5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

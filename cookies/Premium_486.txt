@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Samir2
+#EMAIL          : karineflam@yahoo.fr
+#PHONE          : +33621740189
+#EMAIL VERIFIED : Yes
+#CREATED        : siječanj 2021.
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (1087)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 5 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:31
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1812108837	nfvdid	BQFmAAEBEJT50j82IHJRxxFDZMOlhUxgn1wpZszGAXCMYLb6i7Fx8Q-St6HveSgV_D05Zr3V8jhYE-oczil2e21d7CqBaOvismK-Z-Cn5YvELX0dN_kg--mcVZJ_P4z9_Fgj990Wt0NMZzjUOKIMcl_ahlR8D8d1
+.netflix.com	TRUE	/	TRUE	1815132937	dsca	true
+.netflix.com	TRUE	/	TRUE	1812365464	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA5cfr8UCqd4S4CubF8G-ZQk5YaFcKKhtPUb5qyySAT_yOjQ5blYIsV8p7xwmayLXs5UKgdn_CrA6nosLl38OvDg0tW9YrZoCeUGoPUCmZpKbhNr1Kw5RzZVPgNKBvLT-ZI8OTFU38e1_QmpMtisP2_84JfnlJIGlb4cCJmvHn0dACHfXObV-aH3Zc4GUkJfCpq4Cz-gqMC6DlI9HVhE0EfHDGPdw5WPfXyLfCpky7wIcZ-suHUv247z0p-3dUZxghEyj9XNzL1bHXMe2QU0Vi6BpipAdtPVH0kb92JYhx43-jdLlZ26Lo7I82jfMk1TLU4TverNcsK_UNjg2h_TBEWKa1-lPcdasJKBdfY6J9xLesbO4OVBgqAjTPW4pcrvKxk450vL-YYMVI3oUMMOZ2blg4ZDQv-ZaASo8vfbV-INOwcMt3eMf0wr69UhUTFSBoWNfQSmoC2v0UGJptWdV-t_AiEVMuXNHMx9CtBlxXLFeFEwYoC51FSl-eP05Kbu5rOPHpuQ_iiJXdewLOQKX4g6d_pnIITAlmA9QCt8YBiIOCgwsW4OyK3dsIpleU3E.%26pg%3DMBLFHMR6RRCPFM7CSPUUFCINNQ%26ch%3DAQEAEAABABQtA5mePfIuAmHR_lZKTrrMsdYLqezVC_c.
+.netflix.com	TRUE	/	FALSE	1812365467	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+12%3A51%3A07+GMT%2B0200+(srednjoeuropsko+ljetno+vrijeme)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=2abadbfc-1af4-4e9f-aed4-2a224421c393&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812365464	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZC0U3wV9P6LCtPUnVCyJ6PnVVVHl7ZLc.%26dt%3D1780829464821
+.netflix.com	TRUE	/	FALSE	1788605466	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788605466	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788605466	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

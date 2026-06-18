@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: レイズフルーです
+– Email: raisfallerfytri77@gmail.com
+– Country: ID
+– Plan: Dasar
+– Member Since: Juni 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 8139
+– Phone: +6283831534143
+– Quality: HD720p
+– Streams: 1
+– Price: Rp65.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: レイズフルーです
+– User GUID: ABWUUJHONNBTDLCN3N3TGYTLMI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801264875	nfvdid	BQFmAAEBEH7WI64cwB4tO52Aq0rIyKJggr329ZIxSzqQwk9yxHA9-XIFKCVnjHfYegIg7wJg0cEsFDRSMV0_ko2kCVA-MC2883LRVh2YqR-UH2h93Z1FNcNXpNhwptCWn51K6zD2SfrnRoirff0lrtJoylfl_2yo
+.netflix.com	TRUE	/	TRUE	1805621351	NetflixId	ct%3DBgjHlOvcAxKFBDd3bfjNQZhu_dgud0P6lgeBKvqmBk253N2igwC5ZvkN1mcvIxQYsxttikysGaVr4Ar1fPxNt6xDtk5eDCeAPn1scBpHi1Q9ZT8nOmtlQzN9nBL1SwpTOWgqSqkz6uO9dlChe_5cDUt08cix3lRqoQfZM40gc1hZZapiJ6sw9kZRbUw0-6UbYcuAzQU9ktkbzlHg9dxbV1Kbjw7zZqYHWMwcmksQm9Yco4BFvWprt17_q3WAWU09RGs0CBZueN4mr0f_qVIXS4tcDpb8hXQDcoZkPzf_fizpG4A0NRun9pmLr_3DlQovz0fcrrim-j98bbldSBpUmlZu12VSwDDa-WpZsVBUWChA4OBeAKfn17PI_knVxdnPPAs2E5I6YHsf0YhDbvlh72wRFcdUXt7eifiG44q5wDV2-sBBNOI9X2R237QQpMpSdXlHpFGjPG-sr4vNQWvlwIPDPyAQc2MgArpcu9EBdqulYjs4sRekjSKyetifAP5awt2j5-zvlTkme8FK0crpqMBLY07kMaMLQh-cgDWzV0KpSmW1xGtnvQfhdC8QhbgGLnSxG6gEuHBEqYOQ9wqppEPe2cPd3NhFS1BBxtgGKD0MkSz0JnME76TV5nay-QVuacFtxN6X0cICDiaLBZt93752AjtqJlw-A062hMHXX7nxUb3QYyEDOc2f2k3H3aAYBiIOCgxLv-PCu8mmSvwkZxU.%26ch%3DAQEAEAABABQitm3SI-uhnVHxzSshCNSy20hzGm_ufaQ.%26v%3D3%26pg%3DABWUUJHONNBTDLCN3N3TGYTLMI
+.netflix.com	TRUE	/	FALSE	1805621356	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+16%3A29%3A16+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17fc6b60-b0e7-4b0d-8739-9fe5cd4a9b5a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769659677431&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805621351	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRp8XndSeTWji-ntHKJpTcccb3Xshia2zE.%26dt%3D1774085351173

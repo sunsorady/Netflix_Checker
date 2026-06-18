@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Domicile
+– Email: ibouzouita96@gmail.com
+– Country: FR
+– Plan: Standard with ads
+– Member Since: September 2024
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 6905
+– Phone: +33635470404
+– Quality: HD
+– Streams: 2
+– Price: EUR 7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Domicile
+– User GUID: V22VMQHUSVFM3ODBOYCPUVLMXU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800185592	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA8rRkXmTSzepxX6g6Up9T3PHiQz8zeL8xLguJX-hT4FS1az9SifgOwoqzJsAew1ODZw14SWtqwRAU0GcL_7cVW-uwiMaWxIMX6uVZ-C_uKmAl8_Kl5pEDLM9pm4ro_iF7BaNRQORo9-_LsRaHkNMqGQKrflGuu5cRUbk8sw7ViyhZqhzsLBO2F0cMb5dBor8qYG77ol1yoWu6MtAY952CS3peSh4tFpZ3guaOwPdw4gD_6MKfKhFQ_Xbs1wMdNZl1STzTcccBkvO1oddXRIXpbsRnSRkBNuECaU9rrm6G2lpRZcAhl6SoGAhJN1feIqLbz3vkIeOhNKlXc3r6hp8ESqGH59SUT9EDR8EJ5GqlHMOWu3WG6kqB2bBtx22u7hgArx9dYb9daHU1tBKbOX8jchqIYTZwHOQYC6Ra-OmVdesGuwgTP4ihlyddcXk_u6bxNZB1I3kn-5TWh_T_pipKL6C35hlPjJRd5D5r-iy-w4o9RyJf72Cd0pam929vFt4f2CRm2NLqhgGIg4KDPCinVN-nUQNQP1r5Q..%26pg%3DV22VMQHUSVFM3ODBOYCPUVLMXU%26ch%3DAQEAEAABABRCd82GbwE9MRAJcZXrm1h6hbQ-ze3EDVs.
+.netflix.com	TRUE	/	FALSE	1800185592	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+12%3A33%3A12+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1ad819d0-cd77-448d-94e9-cb465e20586d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1768649362862&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800185592	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQC0yIlSX5gxBmCn_tnRFtKail73GOUPt0.%26dt%3D1768649593356
+.netflix.com	TRUE	/	FALSE	1800185592	nfvdid	BQFmAAEBEKlgOPlRAsds3kQ2NouhI05gGyyoy9Zeohm8ZrT3qLWXLyesk8OLZfQaOVuEYq5b5Q8RLAJpqjMaIVhJMEUjn59loHGbCxMRCRKU8I1W1QgbzD_5Yvke4aml7vKxc5vXV2NtN92cSbkja9KguuajDER9

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dave
+– Email: daveharrison435@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: May 2026
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 7086
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dave
+– User GUID: 6MALIP5QZBAI5MIXD47PPJK3RY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811849471	nfvdid	BQFmAAEBEBRLK2obWPsCuMNIO-aYdgZgzMSdRdzvF7Nw2zxSGEaIEu-zNz0wCQCG6_sH0WdFAynZR9ITzB1QxpOTZmvOVZR3xYpUkH6Sjjqwc9YmRCh471suthfXzKMCft4dWucYEtHZJuZ5Rd3QnNjVtM0BmSUd
+.netflix.com	TRUE	/	TRUE	1811849471	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA6sTcfIkOoalJebwpQPUp-worFs0seveeEq3QsLXAy91L9F-llVG6ZjnMybUZgPcG6OWxNPSLv6yHEnhAS98q9FDsK6A7pg9Tpigjh-QTtpaIST_XZgVO_dBBWW2wejQgu2RmX8NraSLvB3kx1_i_qkWsmqE8tVUMZr6_AySf-SHAYbzfwi8kJG15lBswvuK28lceoTcplQ2bY42E0N64foBXRXhsYSjfqNK-HetzNDd73h8hLVl7b96AQpkHs2fVJbvsVgkJZiL_dBrHUE01i2e9i5SGtsvBsZC_SajuBXnUk1ECAgk0RZBFyWFNWul3ggws6XRyVHSePiyDm3Hw8nwfP20zLSiig43eAPudgSwa93WfJ8BuFmnYq5uoWD62b-3EkhpaHCWDHbrR7RuoKj4NpKsRGvNhs5-y0ZKQ2YISRr8ECNuCn9s8DC7zNIul_7sllhFr81BC8d9gZpjONYMscZALMcvWyYPZgPqw2ln52y30IMvMxDiTUOpN-xFivY0-zK5K2pYXSqDNE3t7PcEPerpLg2O-lm33WSWGAYiDgoMPnvKXTqM1kM-4hGv%26pg%3D6MALIP5QZBAI5MIXD47PPJK3RY%26ch%3DAQEAEAABABQAi-8x1UmACjCaj4HAvRBklEGgGW5AUTE.
+.netflix.com	TRUE	/	FALSE	1811849495	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+12%3A31%3A35+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=8c908220-5db6-484e-9d83-1f5fcbf31cfd&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780313432607&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Danielle
+– Email: reiyuukicalderon@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: December 2025
+– Next Billing: 2026-06-23
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639625435423
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Danielle
+– User GUID: 46KRBCBKVRDSRKLP3J2FTN2H4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551686	nfvdid	BQFmAAEBEHbCluWPmhDnXgMppXEAV8ZgsMcDMEqPaq-JXKKI7ZYonAl4FW0TUMR4yEXUf8ki9nkWCWS8SrvX6G92F_hW8uzhWShQ57GcPCLdNJpznToLxsaj1-CA5vj5_h7Ks_oMtsG4ns2ZU57NtB7JR6YE_t7a
+.netflix.com	TRUE	/	TRUE	1807068299	NetflixId	ct%3DBgjHlOvcAxLzA2YsAnImEnbXIcq-rfHNn__mnP0_XoJl0cx0dJx6wLNEKa11Taq56sEnKf6AcKk3ER1yXtme0mJpjVDCaJT3L5qdZF-zjmflsNH6TAHAUi7ueY6hvyfGLeNAQrv81CSHuDEyCQBBduZPqNr_dSroHQG99U7eBNQwyUqalD_vtvsry7qwoGYS5YRAwBbhQpcIeuloJr8M5NvZHd-jguobImcZJS8ndOTNJT-XIO85TsFJ1N3lDdKnViYARvlR8imUiGSCQRKIVmsiIyes-6UO92MmgRKqMquuVz_KAwxoIMK0na6Si5KoqRxAd11YRXYK0Y6RGkDGfjGdNEWamCdn5Oybt3Asj88PXwRN-uH68J38Ybe6GpnCvgVwK06qkipFXWUnoh-A-PG6hWflxLMJVGtaexnAzkYTAE9liQSWV-zV1bm0z6Ulhmg1LhZ0G1Y-Pju9C9hL6Gr-mbnjo8FxuUp0dOwXGECdMftzzWEVKiEpl_xrCQtyG97Sr4ArQovbq8hSEtiI02jYNp5HlV-2YyzMFS6kPVIfStRDxgfCyZd6VaOvx6Scwy5lKyFiefUIL7F4b1w8LO9hby7kX5r04ZFEqQolJQ_A5xNvHRZGPdXulZOg_B76JQQBAdLezVGPCBlfYIfn3177qnNIg6wumVsIWDUYBiIOCgwj84C7uaBPXLxz8bE.%26ch%3DAQEAEAABABTpZJ_99xgRmxoDBTa28g24PG2JWJcjNeo.%26v%3D3%26pg%3D46KRBCBKVRDSRKLP3J2FTN2H4E
+.netflix.com	TRUE	/	FALSE	1807068298	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+11%3A24%3A58+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aecbe646-86b3-472b-860d-cff96a68d3be&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807068299	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSWe2UAAWuWogj9q0Qj1yCAeOPduZks9oE.%26dt%3D1775532299047

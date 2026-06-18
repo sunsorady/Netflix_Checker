@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bartłomiej
+– Email: avandi@wp.pl
+– Country: PL
+– Plan: Standar
+– Member Since: November 2023
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 9773
+– Phone: +48530847754
+– Quality: HD
+– Streams: 2
+– Price: 55 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bartłomiej
+– User GUID: NBQWRQIWTBAP5FOFWGDOLRNZTE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBEMq44A00wQSgdIKtVCfSOvJglGFc-o58PN3cU4fV6wlDb41LWPlEgPuk4Y7UlCvSTrytqIaCs3MQJ3ngXox028A8_WIN_Rnb1uxmaQNHgoW3LUuOOKU_DTkfkEsXEzUZpR-tXW55_xvZXWsxlNvpikXu
+.netflix.com	TRUE	/	TRUE	1799501274	NetflixId	ct%3DBgjHlOvcAxLqA0IS3pMIY51xt0H92fUVhpQNMlZEZdtBiqZ0RzkFFsUfuBg4HJHqu6bYCoG0ik5-uZ9gZBk1laU9aNJpTKCWPQ_Rg5xkoMGDvCfIgk9YS-qghzjG43QbteT35hDMpT6Nc0uMutdSSjKfn4aeYN9WPl38czF11xsuaencM-np5nUB-YsIUHN9NeMb_DVP1KP-fZeLUBUcbZLnPtBdWa6oqznjEMipLYzhd3Qc5doXS0AhIZhw7VovWGpkI4v0_Dj5RqwaJlF6Xv1tf1QATybY986VFYDPbj4nYTj92fxcis_JculGwfksLnVqPAb-fPKgIIaFwW9H7l-fDfTwtXIfLhDu_jVtMquQ7cmWjKb9PClz9pDGcKP0OOFVofW_3XMpJshY6CMbIEPe3BW74h5Qd4OWaGQyZuMFvWGcLp2P01KrNzJuE_2ZpspegXjtTSQ6-_vA8Svuv1urcd90YUNYTb6NOYwryDfA58O6VcxR3DH7x2p6BzEV1T1AluF_fwqJVpxnpkD1zUGmg1EoEWFLKWCoCW6gV6cfgBLqhCVasHrnByaNyX2phZuPnB3QuKDYIQuskdW_06XNFl7jG94sM1_36TCDXJO6Nd4LjGVNNzndsG7ffvneHnbB0pBRJRoC1pDnJL4r2OcdXbIYBiIOCgzphhqlZpe8K0Zgpmc.%26ch%3DAQEAEAABABSggKqM5OpOZr4CEnrbfRRhKhsh8Qv8ijY.%26v%3D3%26pg%3DNBQWRQIWTBAP5FOFWGDOLRNZTE
+.netflix.com	TRUE	/	FALSE	1799501276	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+14%3A27%3A56+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bcda9867-e003-4248-93a8-d94a0a7edeef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false

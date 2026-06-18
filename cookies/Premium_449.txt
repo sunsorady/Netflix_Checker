@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : JJ
+#EMAIL          : jjmariscalsanchez@gmail.com
+#PHONE          : +34711753381
+#EMAIL VERIFIED : Yes
+#CREATED        : mayo de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3403)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-20
+#DAYS LEFT      : 2 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:06:04
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1779272810	OptanonAlertBoxClosed	2025-05-20T10:26:50.401Z
+secured.netflix.com	FALSE	/	TRUE	1782296876	thx_guid	4b7ebb320cf02128f9e3389f9b1dc527
+secured.netflix.com	FALSE	/	TRUE	1782296876	tmx_guid	AAyZQ1OAiQgf0ItbZk4RGcwS2UNRRSBWx18ACOZm5Fu5dF5dvCLB3R_ZhT45meYP6P_A3kmLZ0g0bSATeseRA076jj_Dsg
+.netflix.com	TRUE	/	FALSE	1779272965	nfvdid	BQFmAAEBECG6w3x3D1aE6Bxxz3eXZSRgXa6Oqeni6QncTnVexw-jMWwP40i5_kiibVetMJSuarz8r1B-PHJcwmPH9-j7yU9GSDB0-ruLKKf1qQkFRoS_zl3GeknEPdbcQUr0H_ccZYV8p2OdiZ08-GjdkrchyN54
+.netflix.com	TRUE	/	TRUE	1807288905	NetflixId	ct%3DBgjHlOvcAxKABKvTSF01rNIc_IC9ADfPeHFWwe1xL69KWmkSiTlKlnaHcYR4tIgsWQuy1agQw5JqOJj0xleCbTZcZQjUtOhFLFJKbqTd86pa78efH0YFpMaQXH8MBgwIwdVx1kwH_cPgqjO9C-Nf7HcYwPgvWxGzt45p2vKtXgzdapTAzCDRS4vO05lE7eeKPctfoffgFDNIkb-I2nk1IqyVPmMLQNLu9XH-XOmmnshcm__z0MqVlmvMps9oVYQgiowYZzt8eNgNn8nKyVthhD2ZHCLj2f5qsLhptz1QOoOKPD-BSAyNQT_TuhanxtJiUPmUZZwHaOJ_eEH_GGlEdJUqQRJCupXAH1oVE91WA8jf7kojFt3MByejsVW9YY4RL6brp1uS-r1NstZqTltVSsEvFjcpQoywRgmVvXFtgf-7-pLsiCA1KFGNJddQQPSzAlwRx6wmYJhlniDD54z3jZSjqWoyfTB6ZpG38ELHY8oGSjL0Iv2UkOn5Dhy-BTO795LWjtJYOFGL534hRS5QCGArkodfPW8PVx-MQwjv6TniTDD_tdNrHMGKl874hfiZ1ZB7DCSWA76MrXGA58iSqvrSqaHSqVOHVpL3jGF-FvZuEsHWoI5eZho6SDS3-3LYagLQBGgs6UYwYzy9UHd5F8fmR6Ob6R-u99IbnoktGY3DkC9RXbqiMeAQGAYiDgoMdaInLLGRTE9VcQZG%26ch%3DAQEAEAABABSZ2pps9nV6qnM0sk_KBsEPcFwSKyDJVUg.%26v%3D3%26pg%3DEANV57UMMFDGHAPBCV3V537TNM
+.netflix.com	TRUE	/	FALSE	1807288906	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+18%3A41%3A46+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3d5c801-b497-4a63-9b6c-bab9a7f6770e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=ES%3BAN&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783528906	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783528906	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783528906	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

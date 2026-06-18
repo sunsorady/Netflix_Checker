@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Christian
+– Email: almocado@gmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: febrero de 2013
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 7577
+– Phone: +447957630186
+– Quality: UHD
+– Streams: 4
+– Price: GBP 18,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mum
+– User GUID: P6LBQJ7B2ZGNJLQXLGRFXMUHJY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796334584	nfvdid	BQFmAAEBEAc1pT-XxpGf6UlHd2Ib3k9gzfPDz5K1yeOIc3_tQO6RLqWVcFjIIIqFvrcTisSw1VA-J6VOTjq_RJGgH5de5tasSR3LqM1LbCk9R4byLmal_hGhmw8Jk_rp_Hx5fIxgvIwsUTB8xia4MpH5YjWPZdSF
+.netflix.com	TRUE	/	TRUE	1799944414	NetflixId	ct%3DBgjHlOvcAxLkA11B3nktthd5S8zqN_Ku4iZIAf3NudvaEU8ifpSoxBcDgk5c-H1EDRE6EdqBC0TipsS_CtoEndyVBr4erg5iljF7BP_6Snbc2rj40DOg21TdwkfjFNJ-90_v-YbS_j0IJmsC8dvP9fNGyhs93vca0zw6o5xosNIkzRtWj4bOkb8hA7RM7QPFU_Ijim5p-2Ds4T_Y7Ey-V4oKugVo85u8Frrlk--_szufQXid5DgG_3_Z2ZwSHNwbr7s_4itOTEvJOTTRUDKh8HUuY8Oporrk12hKEgZxPYegzlMDkeyg1P3crSaObx8MNDOn6xvKk1Kg8YEqLmJRk9klx2eWml0Q17rbW5w35UIBO7h_9JKuba2TD8VGVLGeEIJzNMrlsxlI_V27Mt3xMDygdwYF4sWJXygn3lNNaEwx-Vq9z3riLD5x-nBM5uSzcM9LfrIJihMJt_abXv092F8O1GK7i7wj5yXm8-wnJnq6IfvDSee2wW0pPYG18LVW7wpsBPS-knmEj4UkmFQLPk1no1VE5ZQz5f81MVv5UMXbHAzXNkkT3dNLOtsAZfVh2847XxhcSeo4avCvV6EZX696tSed7gt2rfHR4VnyvVYnm6WE2CuPPjbv3yVUOeEOhLnj4YjWfV03JVmfOSAYBiIOCgz7DmjjJJxg9mgJFmM.%26ch%3DAQEAEAABABTWSJioXDNLVcL7THiP6s_poljqnY0HA-E.%26v%3D3%26pg%3DP6LBQJ7B2ZGNJLQXLGRFXMUHJY
+.netflix.com	TRUE	/	TRUE	1799944414	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQeFmxVUyZCcj1t2BQD_FudeuZDpM_NkAE.%26dt%3D1768408418977
+.netflix.com	TRUE	/	FALSE	1799944550	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+16%3A35%3A50+GMT%2B0000+(Greenwich+Mean+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=56522eb2-b665-48b6-9642-1e08b72352ea&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=NL%3BZH

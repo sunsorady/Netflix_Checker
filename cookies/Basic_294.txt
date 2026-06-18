@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : natthaphondom27
+#EMAIL          : natthaphondom27@gmail.com
+#PHONE          : +66949276541
+#EMAIL VERIFIED : Yes
+#CREATED        : เมษายน 2569
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : พื้นฐาน [HD720p] [Streams: 1]
+#PAYMENT METHOD : REAL_TIME_BANKING
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-27
+#DAYS LEFT      : 9 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:19:34
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808833737	nfvdid	BQFmAAEBEBFP4ZrmvYaaO_8jNeyANZ1grJM36SL7UHcbaC9k7Qgz8wWr8DLx0DpVP0s6CcpaFWg3XS4Q-emc25LBgeVuWYgdwwg0DMgm1JTNPV96h_KW4Yv5fQTs1zw2K-MdXub8R05SOM4dF1Phd1rVbGh_P7DZ
+secured.netflix.com	FALSE	/	TRUE	1811857785	thx_guid	e350164b47075da505c4e30143f52bce
+secured.netflix.com	FALSE	/	TRUE	1811858143	tmx_guid	AAx6pyiXz6qZOzaNBNscDfmeT3oSWaj7cprKirRkBE2-Fk35CIjUE6DFW0ZF7QzUbuh7Lh4q73RSM_InhlLyds6mlNWBUQ
+.netflix.com	TRUE	/	FALSE	1810404872	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+01%3A14%3A32+GMT%2B0700+(Krasnoyarsk+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2f934b0-8618-4e9e-966c-20a043352f8d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&isDntEnabled=0&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1779455883	gsid	581fc9c3-2c6a-4882-af2d-354aa3dd7196
+.netflix.com	TRUE	/	TRUE	1810986031	NetflixId	ct%3DBgjHlOvcAxKDBDf_90bbANkqJEzh427Ge7OuC3AMzUYJg1uUbtTC_alUkEPw6yJvCTx8yAk7YgTtXbsjyR4c3lTxYlVO97Oo26d6gdUwk6z0bBp9KFkPP56SpNi0DusE72WtmAm2fjsfxAKGhPxjK48SCOxzNkEfXKEhuwo-y7aNkKY_GgA1C50sC-VyPS8UxAU3kP44-n0bNxozN1iKFE1X9fgFXHZDfiweASbNH2BGkCLgirqfApUiHaSam3afqQ6ZdtbHAp8Z-iD69nN2bslLhX22sr8a5lKuM3XEK2LtS30EbPYoCoYWbasHYIOL37AwGvCCiKhg_o93Bh9dgbWxvTxipzreyxBbdEhUkSavRBQPMiLhQ5G03iAp-AXf0CP3vhCsC7XxgdO3EazyDkOD4ff8r3hCxFewsmNdizWmf1lOUGrMpg9ST-WLhYGSoCSJ_zpkjz9L3YM1WsSMpmg7L_aJ-qMJkXmjgGNdD4JLXRrEaZWajeYnghU4TVV1rrL33YxVuhL4gSDEyIqY6xzQsszdRn_F7xvmtqVGTCyTy9RAE17N9X_naiwRJVOdskseiP76gldcOyc-v898wRlXfpUVG1GBfVWT4yd7cUAxwL8Tb9QVgMjtppePZino3g9fGObeuy0-2FxA4sygexKCyRDJzK0XZuSAIdudRokgYthm2EcZ3JD_xWQOGAYiDgoMz1HTsDcL3ilal7IK%26ch%3DAQEAEAABABQafra1GbYQXgbJcgujEvFZBOa_Dg0-7Y8.%26v%3D3%26pg%3D2ZIGKI2KPVH3RCZRL4UEBCQ35U
+.netflix.com	TRUE	/	TRUE	1810986031	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0lawsvfz-rd6U7Bp_7AfAoL6E_HhsVIc.%26dt%3D1779450055138
+.netflix.com	TRUE	/	FALSE	1787226032	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787226032	netflix-sans-normal-3-loaded	true

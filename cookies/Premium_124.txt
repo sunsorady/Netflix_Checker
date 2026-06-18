@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Reyy
+#EMAIL          : revara.reva@gmail.com
+#PHONE          : +6285158422797
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2022
+#COUNTRY        : Indonesia 🇮🇩
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (7424)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-04
+#DAYS LEFT      : 16 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:34
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783982023	nfvdid	BQFmAAEBEHCiY-QDme_NS1ZUM6g453RgmG2QjdV6L4S4PfeDqNWrYI_PamTSPT6bgWflyluT6uqM5nJJewtArkLrd5zzXggMPTPil3JbBuPBtf58fkkk2ijrQf1SxCDJy4_m5e47BoW-_FIX7UAqnkf7qHFVzeGH
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	47ab7160-b550-46bd-b847-f58cdef12b6f
+.netflix.com	TRUE	/	FALSE	1783982023	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+24+2025+20%3A17%3A27+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=d6e45bfc-cfe5-4316-838e-5b176a7a8404&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783982023	NetflixId	ct%3DBgjHlOvcAxLfA7l_RyF1muwppwLJd4qNYizkzFYfMAYkZ8ybo_87dWKhZuSNvZeZJflGBamrrKdhBlgIYsK0H-BF-wrjGFBmvGvYvrzY79afWRBlmdZZsCZNNJv8EK-3uwl3G2kZuWczGvAmWliei-5_a4zmvuy6PzUWeQAXntQrCfXIFmd7EaneTvJ_Blu4PRs-tafZUnj3wA6caWC7oR7G_e7T0yRY2pLvRFKO316818epDi_3Ry-3qjKjxPBTFaxhdZKsHx9WGgxweP0t5ancXgxW9YdLwXNFPa_OWsMN_ob66XLz_FMJ0mjIpXlI92jxS34zM1vL0ZeNmhZ6qQjiF3ZO-0zvZQapNBUERFhhBhhI0_W65GL3ZMJHe11jVnz6JlLUu-lrprtztnDFuQLMRueumYg1zG-TOdh9BhtyyWc2VWuAlcQt6_uGnMpr2jHP6hjnCh1QG4JkUxs8E-J_6FKQYvcNggw-CsTD2XfR_dv4igtNsL5l61NBAvbrheLZd7zz1K871p--RlBvJc7W25q-1s6S68mPJ79Vnj_dmyBCLIzPFdxw2pji9A26u5xyLRkoqBnfI9Rv2RFKw89uN_k_t_v8Vlw8V3e3uy-AL4u5SyBGwC1t05Bv1f8Xsscjppr1ThAGGAYiDgoMJEgYuKM_HxU2uqQa%26ch%3DAQEAEAABABQYZXSzQSPwcv34Sq39CMIy9DDcfTvQ1F4.%26v%3D3%26pg%3D57MH5ZOFE5DDRGHBAWMWETZ5OU
+.netflix.com	TRUE	/	TRUE	1783982023	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRK2eiLUJSOcUFz8XqNAkUxCfevbIW3O4c.%26dt%3D1763990249047
+.netflix.com	TRUE	/	FALSE	1783982023	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982023	netflix-sans-normal-3-loaded	true

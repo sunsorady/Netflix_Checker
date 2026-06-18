@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Spike
+– Email: daniel.hubatka@gmail.com
+– Country: AU
+– Plan: Standard
+– Member Since: April 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 3331
+– Phone: +61413244068
+– Quality: HD
+– Streams: 2
+– Price: $20.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Karen
+– User GUID: VPTLCOCUV5EUTNIC3NQJYHFJTU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807244253	NetflixId	ct%3DBgjHlOvcAxLNAxVt3bPRHBPtYfKvLuDGc6lIK4MlwtngvzcNlQgD96l4KC9YnNK5YS0pOEJn8j8z1-NpqlBjwJlxa2q_f5ad2xqDODTvvqy1sdTyHs6O3JYvPhieE64e5l1ZRjQL-yZy7q-GO0GZ0mlJj4i_x_aOjxuPKIDXqRovj9DcPISoZ_bA8HTDBObtW4g9WN_WNMAAzVqeqB24sHMAAj6bMhxAiuGSykOdeYFvrBv27RwkrRFH_zuaVDnUctzUwP-Bo5fhKSF8AQc-I5NJySU9bg3eWyRF3JzF7zFscJ5QK7ZabcM2g81cDZztAA6zKbeLamgbfUxs6zE-BCkr4Ka7deSZdJa2wrVbvQjFgkGc5gL4ULFUW6xu3V9YWotwams8-6kcKKhVv5hOLlTJeCRhEhlmboEUGpacsY_g3-_p1y5plP9iwyVGx7Jwq8NAOVUjD6YbSybgfGOszVwwMI1A3E30aD7o63OXUu5GSZfmV0PoK2b8ITzNoZ6CP_3vTVTaq70BwXb8ChUa61recueQrdKcQZC_GmAsONex9dtOwZejP4uhu2pj6A8HXNqARSZ_BOagUhQis88GcO7iX88HP-UPGU6yMro2cDyKzLHFn7piGAYiDgoMmLPQIJwN60xebrdu%26ch%3DAQEAEAABABQUhTHVO6I_kTBkyUAfx9eQnRF3i9fkHXo.%26v%3D3%26pg%3DVPTLCOCUV5EUTNIC3NQJYHFJTU
+.netflix.com	TRUE	/	TRUE	1807244253	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTot1ujBzTCZIN_DeGS3IY2zKwxH4cCKVY.%26dt%3D1775708253683

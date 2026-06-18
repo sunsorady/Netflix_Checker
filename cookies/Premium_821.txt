@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bence
+– Email: bottyan76@gmail.com
+– Country: HU
+– Plan: Prémium
+– Member Since: 2020. január
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 6746
+– Phone: +36209356505
+– Quality: UHD
+– Streams: 4
+– Price: 5 690 Ft
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Zsolt
+– User GUID: KJFKZN6SVFH2RBLHUAEQINGUB4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790267330	nfvdid	BQFmAAEBECAb8FNl_X0oUbJTLNWmRllgqJhPN2OxKxiD0D8zRfxi4cR8AfyeTOI9qyP4NeHJ2LhXIYavuJTtD2Vw7PGofqr19wrv_-pf_u0JRozJrtPHt4FBNrraadUDdcx_SdS0ZR7wFPCKoIWi3HCyp-6-glIr
+.netflix.com	TRUE	/	TRUE	1798497370	NetflixId	ct%3DBgjHlOvcAxLgA0uBDTlXdAkg1fpIbelrGD-I-HFJPPFYXUZ8t8p9a6VW110sNVlXxRTRWJx_YGR7_EfzpZ0HnBqA_3Pm3V1Ina9nLJScdkqbIKC3LS-TDiJ-QT0EtgDcwJLV3kwR-er9JDwgdPi8Dg5tZEkV7Cfe-mjNpk7x8M5gFhkWVb4kpBIaKC3tyEfi0rWtp8uHX8ofpeNJlqRqzq6UKrI8SYIfBGt97MniUDOfomZBUr_Uwq_D6Y8zLSeKlGtnOaQ84jy64e8hYiQANDtPyVxSEolruiFszPFcrK-1h5h63HPXyASzUp8OC9Z2cmUIrV3ycHB8ysfm3LN8UGR0q-BhfVTKMdtYf-pqx61kKsywL6aZs1JFv9X2EpPYPAG8EPZfs3kEa_4tA2ZlIOUgX7L3DDO8v_poNUuzzoGzfTgrfIMNIjTjVEUwK9uVLvNr5ugXm8fBJTQ4q8pZivkv7a89TnlbJnCtzPswPb3Q8AKh8WOuPI7DPlXRtptbToID8vVYF5a339hcqknmkKLzbxv0PdQIryH0vAYk63XzKPTkltxh1dR8ojmR78O4NRcpJDTQk3-sAbLa9ZvVS9Bwsazu-L7PQtZh9xN-A3K-oAhQfdr37s1myEna4vm_I9tpOvFMOa53nRgGIg4KDIkDMCva3hjmt0BZ9Q..%26ch%3DAQEAEAABABRhIfj8kfL_vhAAnawNf2v7BYpSIlbp3ik.%26v%3D3%26pg%3DKJFKZN6SVFH2RBLHUAEQINGUB4
+.netflix.com	TRUE	/	FALSE	1798497369	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+28+2025+23%3A36%3A09+GMT%2B0100+(k%C3%B6z%C3%A9p-eur%C3%B3pai+t%C3%A9li+id%C5%91)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2ad9697-20b7-465c-84c8-41f2cd4ba097&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=HU%3BBZ
+.netflix.com	TRUE	/	TRUE	1798497370	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3tiXaQWnScbNgRWWLY2Qgv7wC9g8b0PI.%26dt%3D1766961369534

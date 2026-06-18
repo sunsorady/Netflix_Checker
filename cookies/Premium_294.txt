@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Erhan Kral
+– Email: onuruls2323@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Kasım 2024
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 5688
+– Phone: +905353772483
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Onur
+– User GUID: TTMSDRIZONEJ5A4HJ4QO3VZPXY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804949068	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKBAxkzd6z2EzxUTECxOSgrrCfOPm5vCFaZ7Hto5XY4XSlUDTZkg1R6Rl2-m4CFUHFCJP96VroUFHhbTFxBmxF2GEHltnWVY7Pu6A-sclO9CecsIKdh9WICwLFMnOrDn9JniQlFyK1HPO-QmhpY2gaOhhgE569K9S1elBrPbfMzdjHyEWlJhgz5bstGCr8msKzmEz1KNR-GZiHsJopcCdsbUtWajsP5PpbJgvnf-lA-7VZTc-2QSTrAXBBGppOtB1EGk9dSc998PzAATar_UvdQ_FalyApS72j7mxGskkGWrGJnOhlGrDhye3_OZFBSPLQuDwzTnTSJeELphOGyzeGtcEUBwQkDJ70dlQRz4Z7g2MkxhTz-u80ftWHk_OmlyRnR9WSKBUCVC3Ep7bjMH_bXnwlbpPrGvf1wAyI4LhXzY643_jl7vNLnhC0vPmja0DdrD-vZ8FZhCXThR2gcvp9_TXA5WvTU2OSdx1g5PNPgy88X-pig0RPPmDe7aEmhcKv2sE4YBiIOCgzDx1Z0Niee_UhNhWs.%26pg%3DTTMSDRIZONEJ5A4HJ4QO3VZPXY%26ch%3DAQEAEAABABQjBQmwy95urWiIoCdmW7a4SXE59ljoQMM.
+.netflix.com	TRUE	/	FALSE	1804949070	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+17%3A44%3A30+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ee6f09ba-08c0-463d-addb-99b3beed0993&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1773413051183&geolocation=TR%3B21&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804949068	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTl0sR-icJZz8hZwjUqXHiBP80XP3I2TSs.%26dt%3D1773413066704
+.netflix.com	TRUE	/	FALSE	1804949061	nfvdid	BQFmAAEBEIoiWqmn0HwDviuuuE4c8CtgReXEKzEFvOIv0L8VifCJECgFaG9PvG9N_46SSl04Y-8LF535sW4hJiTc9U2KJ7SCFUzi1s1SvxJ_RUlk_07bpaxYHpshL37GaF6uUEiS9-q1Bp3sfUpQUJX0ixOZ3Roa

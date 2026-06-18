@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bugs
+– Email: sta.mariaabigail@yahoo.com
+– Country: PH
+– Plan: Standard
+– Member Since: January 2020
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 0452
+– Phone: +639951480608
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bugs
+– User GUID: 4VTP5LVBDJB6DAN3V6QLSBL7MY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802004594	nfvdid	BQFmAAEBEHsuAlRXOpQAs-LHgaxMgxlgoWuHTNYpvG-ZQ5k1x_PgEBiuR_9L4rJvXHujOv97n-3ximFXcBbWz26dej9-wuj447JsK55uGiI4qRF6FXHWQ7-YG3KHFpfs6Md_2WMmxfNNXqoR22WGWj5IHWWVSJyq
+.netflix.com	TRUE	/	FALSE	1802779161	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+19%3A59%3A21+GMT%2B0800+(Philippine+Standard+Time)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=5a745860-4569-4eb4-87f5-e494db84ca85&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1806422292	NetflixId	ct%3DBgjHlOvcAxKFBKov5r5QqGqSvF9hK61_GooPoynuallGoyVTseDS78Iq5ZWOVUj_X1DfyYgsNZ7WkBxkbF2fqg9g9-HLHJamSEhm_HGgQOYGM8VzewlbK5jyy3sZtDEvaohL4T2fye5ZNhYuEuirt-091xbNIvS1m760f0M0FlHITbJMFmM0Kn7qETi01e-LL66SoVyCcK_aBSarOKiOjBz8xGG_Ev6CJ4-3b4XQL3gpvDvL6ugEPZc-WJ9yQNIldXicMvtg33sUB2rpYhC96u13moagEa9Z4IoIXHwQx6Nnf9Qoy-bJPraY3T7XKffSngRFaDb7uEl6t-q5TQA4yqotci9_8gzkNofhBIdyskYV7VULYT0U61qMv7usrS-FdAxBjleTrfGuqbpq0tfFbc8Hc8Jh6-X5Cw4xBEfLodg1KIJcCget2sFZJWyjdO8o6rcxMdm02LlTasKcecOQzBj8vQNsW1n3rISw5tVyaQ352mhSlP7W3IH7oJOGncu8e2tYmXg0s6xt_R28pLdA9ecWy3i4-GUxwsqoOxTSwSEP7As16yoP257vuLWnD4cOlIZvoEIt2lioHyiV4dwmwE0flg5XgZWxw1jXjz1C8P_xjlYwfM4D7GnS3mlozj1Vj-Q1Z82WLIGrdCSkKkzDYW29KoVaDvY5DyyC1uYqBJq6lGRbV2JH0esIyaSyiZkYBiIOCgzm2PqmuS38QC91TA8.%26ch%3DAQEAEAABABSkyt3WVh8zqtp8FdFlN4r3jHUhNtjpaXU.%26v%3D3%26pg%3D4VTP5LVBDJB6DAN3V6QLSBL7MY
+.netflix.com	TRUE	/	TRUE	1806422292	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-1fxXrrj9dc0uQM6EvegpJQ4_w2Wl2eQ.%26dt%3D1774886292522

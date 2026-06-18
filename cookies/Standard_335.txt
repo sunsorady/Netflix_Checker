@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aire
+– Email: airejovelbriagas@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: November 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 4591
+– Phone: +639387073289
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aire
+– User GUID: NWMM2HJ64VBDLB7ZABNJKVZBIE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784056894	nfvdid	BQFmAAEBELB-BXesOEzx6JyDbeRh-2Bg49FrUTVOcEtfJ-sV6ThZM8FcRpsfabzBLfuF8kh_v3ER9qoL8ieSgSYz7MSuFx1nZy1H1rPa6uI-21h20O4IIQ0K1a-I_-oxdDOqcu3PdvW-R5uFsKmiQqUFbJ3Nz2_z
+.netflix.com	TRUE	/	TRUE	1800528289	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTv0Z_fjtgbi6g7eME5D7L62DOblHHuvbM.%26dt%3D1768992280957
+.netflix.com	TRUE	/	TRUE	1800528289	NetflixId	ct%3DBgjHlOvcAxLeA7-ytUP2GQuGw7-MEDU1qBeq_LGX_a96LJ_0QP3wrKnDolrNMU1vD4RkTWnT5POeZMETz51Dl2PtwMGg2JmxYZ7WvFZYD1whjUhCBRl_5xmAEzjbrynWzAAeyS8N6qgyxDpeagLr8BuH9zXj4E1Gzj3WPleUusuoUU5SCEHuXiuwdEZnXNIyajWWMwF_qf7TtoBhQytzy3eXXjYnORbh9YXCwAuuACAgzL4uo7vkQNJbFuDhSpd3TYXDMhqawM9vhyEb6W4UDISTD3gwYaTP86Pac4AzhYtpy7UY_5zkU_dLyagvGyml72Bmw3FkPpoDJq0aYAIKBXCar5mzzxjh38laJZPMhH5O_QihASKJaJNOOk5mzST6_LimaatKXajp99H43o1IU-QoYiwldZ6MaZm2tyXdiPAJB1Vc1JApH0YWsveERiJsNHjXqBBFZeiIE86b9WylWZeLYJMnedQ0Bci1xJyW_lHGKV1iPQLDb-3fQBuXTPd2YMWX3Dt7HdNcrbeHuuOipV1I8fKmzduaMu9V8dwxf71eHvkerlkSEIb9sX7HaYtmFGDQlYSZyYBraE0B5G9oxvbbasTy-93kkxTfrYplqVYr6li2yDn9iFKGpXdLZ9hz-JpLk7CVmZAYBiIOCgwf7fk6JkPBjo53bnI.%26ch%3DAQEAEAABABQ3iFmYOg5BLChWZrMpdsyBpW-kbxxlOBw.%26v%3D3%26pg%3DNWMM2HJ64VBDLB7ZABNJKVZBIE
+.netflix.com	TRUE	/	FALSE	1800534072	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+20%3A21%3A12+GMT%2B0800+(Singapore+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=217d90ce-5274-4e0c-b057-cd48ec3c863d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

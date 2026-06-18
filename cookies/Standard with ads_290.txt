@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Saverio Nittoli
+– Email: saverionittoli@alice.it
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: novembre 2023
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 9853
+– Phone: +393888556133
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Saverio Nittoli
+– User GUID: MC4GBMVW45GVTIZE67GD37FJFQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802862420	nfvdid	BQFmAAEBEAIs7p9OuL3CkLWTEgKNhrtgnZAv3ZhVedOGpHbSKlXSIt-Z8Ey6lliIigBW1MvWPgvh0HyahAIBnd-3kT1svv1X-mK9wbb1yHaI2LB5O1fqyIYXYknC3s_65fz-YPLzquedfJkcF8qRaP6_brFquHjO
+.netflix.com	TRUE	/	TRUE	1810058257	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA_wXOtJRQfbfMYjZ76qOGr0rdATtLJFEaqhdmJc5T6YzX5xwO8VEcDAUAJZbhhpPXtZlCaPSv-CK9yPxAYqda0Zy9NY4nzb62S4SU2BBJuocUMYUj3LyiWde8EWgpIRhHMaXBaut5DwgGWNTaqTFdffqiBpVxQEykfpB4D5QIWUC2CTP_m0VjkITdgfDdNe571WfqyT8s1NWReEOfvSqEjOQYbC4qdeSED8A-J6SbE3B3LDbv3toUSP095pohDy_rpskE0k3QZhU3Pu3foUbdiXaw5JzlIzS6wuoP9Z8zlMU7nWlv6qD4HznyDNyeXvls5ycAR2JzMbxnV97OTVjWqNgvfuyaBcxMTc8yfGYgwVh9IQia5m6PL8WVnKKk8lmLNNSckEmQv9DGdrAdpNq6b7ZLxbPFuhiHYArK94iUE2XwUuCDchZIJgPuqL0CYKku1kH-elfsUKg-Z4c5vQB8LBibf02mDVvGc3kcG1-tT4j6o40PhiKMf2v9iB8ij0o0hcgrMZw3GSYkimLABZ2z_aYuOeDBalXZqRRxUFz9oK8hfYYGAYiDgoMcUuJkfhix__765Wk%26pg%3DMC4GBMVW45GVTIZE67GD37FJFQ%26ch%3DAQEAEAABABTEedING5uTObaAK-Cd8LK58u3_aGzagXE.
+.netflix.com	TRUE	/	FALSE	1810058257	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+19%3A57%3A37+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68f7f086-0664-474e-9023-221be1667823&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=IT%3B75&AwaitingReconsent=false&isAnonUser=1&intType=2&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810058257	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLEI-jVYZUmpld9yl8zsXfOMLR0fJnXlI.%26dt%3D1778522495188

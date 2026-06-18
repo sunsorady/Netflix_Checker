@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Family
+– Email: moumouni.deraillasalifou@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: juillet 2020
+– Next Billing: 2026-07-07
+– Payment: FREE_ILIAD
+– Card: N/A
+– Phone: +33685650733
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Family
+– User GUID: C3VFWP4LTRGGNCQF2EO4RTOSM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794331507	nfvdid	BQFmAAEBEGw8kI8yXMKiPinKcNrtR5Bgkv9BFoanerrl-2WL1-_P96pjkPlcykLLthtIIU_75Znpu1yhYlpNE8Pk7ok_1bYFHIopupEyUU23z0LC7XQMALIFnNK_ZOhycPjQX7AQh12SVx-l5IW7tMUPMYQzhJ_b
+.netflix.com	TRUE	/	TRUE	1807035861	NetflixId	ct%3DBgjHlOvcAxKJBAJ0tHuYdjdglX2UrOVV8YvXJlWFxOuepBAS6bL6B1UiB1N8NyOArhhCAzOs9eodUSpSwEhc5aNlTsr87cd6OTYr7MV0UYg5HqO1H3IljkXBpnkYuD_VdTy-ak8FI1sTQmWKdm5dE9OLyJqduTQIzR-gvVTK1qHehkhj04ReMbPtPjZQib2PYKJAEPykmyHXzvJTSblvuUMEQ9waBn7PBXupFtaZNzr1fHTYFMz6SMpfTeGvSNEzMcrPZCb9nH36tB-Nuz5oCn2W3LwWk9N3jKzvtnoWjo5Mk2iXS7FvxxMkGjWq6HTdGmOlmtzDPArZLQopoS3PWx3wq7YpP3Fiiblr16HjyT-ex5MMi0Qoa7Tz7Pplme59J8PrHg__OXRmSyKlYwdUayG2DXpfPWVdgIOQOzxkqzcrBrKFRoXenSi2exEnYIUsHmplmSkGQ_8O5V4iy4Yrat5Zp4SUWclA1-tDI0iiWlbk8g2Xs9VZDs8sH1MWt9MGyVArbw9qmYDKO5vR9cvYW5YVGwp6AVistUKAFXpIWJaHkzu4w4VxklGUZvlKX3qICujxX8ACAmkym5lSYg0arP3lm_xYwD63HPLjAQazULpWz0A_oSItolG7xhOXAEEnAJhXPRh6OKFFLAls1W-KIaHr4jQS7YBdq6_vZQwaQIH7PdD04mJSJhvoWTNKRO4NLUGpGAYiDgoMBQR-blxBehRHtA8h%26ch%3DAQEAEAABABQvtS9IQw6OFbv4XVof0RYWYyEtWniEe1w.%26v%3D3%26pg%3DC3VFWP4LTRGGNCQF2EO4RTOSM4
+.netflix.com	TRUE	/	FALSE	1807035862	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+20%3A24%3A22+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f73633d4-7447-4844-bd27-9d51ed83607c&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3B&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807035861	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQoxrIVjvQx11psV3Z9Q-qvnQAyh4kpF9A.%26dt%3D1775499857203

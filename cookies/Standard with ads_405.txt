@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SAMNANG
+– Email: ensamnang.kh@gmail.com
+– Country: KR
+– Plan: Standard with ads
+– Member Since: June 2026
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 3640
+– Phone: +821027246697
+– Quality: HD
+– Streams: 2
+– Price: ₩7,000
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SAMNANG
+– User GUID: Q2ES24GFNRBKVAB5QQLRNWYMCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1795091870	NetflixId	ct%3DBgjHlOvcAxLkAyioPp5G_O1L18eGkeIzYflJVTbGclzXAUgHXAeQF8LeZXWBiWaMRZuPGQ6kWZ6mfwy8fCuKsR4gCtIQElGqHX-5MIeHN6_SAzH1MIyxGkLIKg5WS6e1NUTuJa6XAPE9-yh4mPIvnadKS732jwsryZ9S6hM7qYg30oRDClhPlpGztk0vfmiy7JRsBdmOj9PwmckOLYgQoCsEu5FvYGnfPr64iC_ERGdcmwBc31wwkVJrE_F2hxslArW48RkUKcpptd-Edg3os7wyYA_Zb4utu4PdN1EG2x1Jek1b6NvNwMbVo4gLDKAK7B54VgUbPhA8HZAlYHBz2W0vLEyU3V5OOrqJOOIS5-QpF2L8jQfnEtvEkm9M4_yN0YpF1th7xLyvpzLv9Q2Yxz8l3EfTH6-FRmg7yA2-Tdre1ZH3c9NVXDPVkLgYQL5Ngm6KHwIeYNgbUnxghO9RjHFA-WEUy2lZRcx9YETfyuRsN5PHgY2QrfuB6nwPbahQwmHo7ESv8vwxFTAzjMnCQnVmM2MUJJp1dDhv6A4PK8ZDi4CUoEkOqFUNAD57I1jYwDumLixyr2rLAlePI2sb9MFV5qF9gaVmdWMGHoFMbquJeCd6okOcR-7r8wTJG_ljbxm0Sf30zdEBtKXhe6kYBiIOCgzgx_W7-W8tvpPVIoQ.%26ch%3DAQEAEAABABSbHUjIlDy6GsSQXiax0gXD_UMjN4bUdpI.%26v%3D3%26pg%3DQ2ES24GFNRBKVAB5QQLRNWYMCQ
+.netflix.com	TRUE	/	FALSE	1795092044	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+19+2025+21%3A40%3A44+GMT%2B0900+(Korean+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70ef268f-0d49-4027-8342-e325afd6aab5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

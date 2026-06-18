@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sage
+– Email: chloenygren18@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: October 2022
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 6168
+– Phone: +12185767742
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: chloe
+– User GUID: W3Z7DTMCGFGBXGDH52M2WIHZFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792039991	nfvdid	BQFmAAEBEFcIEARuqDkmdKHVlzDhCqxgePy35qiVnbVgG_4EHmq6e2Cn4-_ENWJ6mmzwQ4BqucS1svMGvSPIAaN26AFKlNiLgDs9MRChDurZy0WdZc65olxONoujHyDWcQ7SGlGT1Em1tMQSyzu6ODFkQM5aLc_S
+.netflix.com	TRUE	/	TRUE	1805156915	NetflixId	ct%3DBgjHlOvcAxKABCFmNBS-GWzujZwlD_k2QHuTmuzKJcQSU6uE3ry2Anx5ynKJpJ62GamnbKz7JFO9_Uej4dntTs3k1DLtbEdji-VvKMVAajiNiP04mNOkhNhjs7AGh00vuemmVcIHHnPk1mpjX2cKz1452CZi94P9cKV1LDg8RLn0SgNwGNpyVqxO3Wxr21jRuBsH9JQVjptT8xvAi4cZgOHo5RgTeLNhnj5r0r58zLbA1lt9K7cHRlCQuglq6AHi2QXyq9CkC9bDmIWqBLDK-BfigeICWNqIUCxnwOqfcnzyRLolCeMhehQXub7w2pUvfQKQsszT9qSbBjwSsFEJ3kv0I4BSY1X9R6t4oDwS9inPLKzQyOJ80oFyN-tk5LNnXZDowTQHFJ4DB7_EXZ4ioF2A6SUq3JNR6IjlgP2VoNR7OUqaGC69RPHc38Sufy1NAe3Bg9mRXcmMhxBrXNgNx5NyrF0Np-oii_B6RtPgQcTiBdUwCp0eWMBLsCaNcR4X6gLwIcwdwU4ZUl1s0esy5CV_g9MOKrdxXH2TTcUi8GMtlx8IXIp-1LqXO-ZUW01-vM6j4dwBBe4wSAS3NJVV71uyAd1XBaLbMKnUxBHYzF9yq_QeLQv3Xx35ZcsRDgNT1i3TdhCM8jjxiA-BbL_Cee-2mD7yDbIQ1F8EQhY1OLxMkVGfsY_9vqzbGAYiDgoMgJ19CVTBAycthg05%26ch%3DAQEAEAABABTWcR9CuJ2y2LMcEIiRcxrNncKlYGX_oqU.%26v%3D3%26pg%3DW3Z7DTMCGFGBXGDH52M2WIHZFI
+.netflix.com	TRUE	/	FALSE	1805156917	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+20%3A28%3A37+GMT-0400+(Eastern+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6b28e44c-f64d-4568-9e20-1d35fc92bf1e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805156915	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRo0KTle-WdeKZGRQYy8BgDMtr8Da-WmDE.%26dt%3D1773620915602

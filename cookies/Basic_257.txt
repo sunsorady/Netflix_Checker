@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Adrian
+– Email: edyta.swiechowicz1234@gmail.com
+– Country: PL
+– Plan: Podstawowy
+– Member Since: listopad 2023
+– Next Billing: N/A
+– Payment: PLAY_BILLED
+– Card: N/A
+– Phone: +48514969976
+– Quality: HD720p
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: edyta.swiechowicz1234
+– User GUID: DLN4W6N6MJCQXLI7CXIIR4DQQ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811930339	nfvdid	BQFmAAEBEEYTL6rbAkJw9HMJ2VpYCaVge0M55qBFW6GBLBml-IDgZLiR7_l2usrs1IzArEEe9QNF00TkQ297-Raa-RRCPrW3uPCjimWM8iwipDNNxqVHiHVI9EVqjMVFVb9d6ffon9czZzaWc5Eeg0Lq156dHYJd
+.netflix.com	TRUE	/	TRUE	1811930339	NetflixId	ct%3DBgjHlOvcAxLiA5jdL-U96ucKIE5p9fXgeHMJvDRl0VVUVvaLb789oFP_YOEfQAgrSmkdClNSybXTcwKHDDWm709dHXgGzdsUKC0Na2hiyNxTSftsCGRY1wNE3B1FQ4Y7DCEFsYoPiQknFaAVkeA5Ib7h7C3cWj_5RPFfFnAdj1iV-LgUcP8uDL_Le-skFbtxlXAxToVRwOdn-WeEQtiUre8mMEgOdR5jBRfArDu1WxjwgATNttc6CwZmUaP8cQByPVFLtgy4RFIK-niZg2DVE2a9b501BukXFJF_sZS9MwsU1wUdedo0VlN6gSHp5J0vjH50oC3Uy4Tg0urk3__CNN65rhpYtpOqDYPj9634HrTJ0-roWQ7Xkgd1jE_YMEjx39ynOnmVEoddLtb0AnnRTfCPKbqGF7qsGypfQ1dIIa2gsZ_iS36eGlXHM3eH3ouBLfIzsyRD9ewDk5CuTmWBY_QwBGaooWij5LMi29JVAL7YHk2RphLuhkc-1Q1apCIcuth1S4e0qIHkntiWQuW5ckqqAOaBUVYwC-UTlYyMDhKzhRP8YX2Hgt0UIMCxyTlRYMoxVr5tbepUCvl1b1co7opa_CppEBFDUO4LeSVfK4-FOeqZd_1Vgo9C5IaOW_jlfil8gDpcMZcvXMsAGAYiDgoMpoOU5A8Ac9AJB9MD%26ch%3DAQEAEAABABTy7kUDdV5_kSFKktbqIZ5uG-3fQdtKhzQ.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1811930339	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+13+2025+14%3A02%3A15+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe1052ef-933f-4b59-a8da-8d1603b690a5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=PL%3B12&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811930339	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUM54iFWUb25TGJT9MFp8suhS03iHsRBQ.%26dt%3D1739451731400

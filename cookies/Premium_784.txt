@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Roniel_Sav
+– Email: ramoneusebio2@hotmail.com
+– Country: US
+– Plan: Premium
+– Member Since: December 2015
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 4767
+– Phone: +17189246770
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ramon
+– User GUID: 25KQFFZCIZAHTIK4JLRDFJ25LM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805407035	nfvdid	BQFmAAEBEBE1w-FRtDYDN4qmqGGnamdg2dIl6Noh_mQ3-OI3vuz4CnpR2zObsYt7eCLnpUEmqL0KRBEIhOJh2LkoPNoC7H-ZQ_N2vfRneXc_Cn_hUShBUMS3i3R-RS_t48sKcsczaV39ZkiE-rGH2Dic-nDiptW6
+.netflix.com	TRUE	/	TRUE	1810408189	NetflixId	ct%3DBgjHlOvcAxLsAxaC_JWc8V6i1FLkPSbyhk4WJ5ZbXDYGikBGRDoN2-HCZSjkbLiTSOqvdzAJcT5gORTsdWzgC9MU6FbPE-1MGjy1ZNvNjXG_bu7SbgpiD0g_9Xp0jLvbpWJq56u8Vv0Qn-rlWRM5nHxefQ6M9NNyos5p0hpVa_ZT88TMzcKoBW3Ng8A7K1edSCn58k713bUEy5yT0ewi3A6YiVmArVNmmkMneZ1qw4WwXRQeWAoxvTab-SMzEZKqUXna1s4XO-k36fMIDLVFDrcve3AOO5qqPCiXyOf6NolYvic6TFl4MJE-10ubmgz4JJC9zfMUm190OacdTRgf-cGh8TB1fviriDnL8ZB4jd4vfooOQK6kM7vKIOjL54TD7fEctMIE87VPyyQIGqYGUln_jbLADQwngt2-XUJullaF1OHeAYMzllwwrtYLpNuHF899xQnz6Un6XTM3APsPjp_ZT7JkVQDrZyCJ7Tg9tkq3MGTJUfQ9fjbmAlJzTweOsCmLfUmUX1WR_xXFp7FzuK1lA43I0O7b-5muRNeI4zzdzewi-IkGO7ysEWvG4LCFPOC2bRWKmNmI9EU7Dn5ONLpQ3qfxMZuFPXm8gcd6YmMRsXRWnKhh7BXHS7OVph3EmwjdUvcsLsWQXoemEfFf40-krntUIhgGIg4KDDkBqxh-FRg1hnALOQ..%26ch%3DAQEAEAABABTnTH_OREMmkygGJ25EKu1PVUGinwQy-Ak.%26v%3D3%26pg%3D25KQFFZCIZAHTIK4JLRDFJ25LM
+.netflix.com	TRUE	/	FALSE	1810408189	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+15%3A09%3A49+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a4005c5e-2e02-4abc-b4aa-92fb6f8dcbd3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772957308062&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810408189	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAGGK8T8HMaiSe2QeFWsuAfaNj720OM0c.%26dt%3D1778872188013

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: front man
+– Email: eliizabethcanela@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: May 2020
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 456
+– User GUID: NALQYFM7PREWRAREGGZJR2F3AA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEHbphN6zXZL6FY3gZN7hS7BgYRuX6cUzGLQlQnuKQSKsmPMaow3eV7t9oV5ZvmbQ1oo3tS6ASvBlJnwQYK1u7svXp65IVrcCkQqvpeIXFOMJCmjRNxzymNIexzhIIfUcqJIlv1_e0gP8GhqxNNiv6mWg
+.netflix.com	TRUE	/	TRUE	1800580479	NetflixId	ct%3DBgjHlOvcAxLqAwiPhMLxlmXMgp5e_f0sx8ccNVq_vHNBCWBS-KGLf4GwTjinyAkF2pAekkUC6o-gTwIqU6oDtPScJ0EbmOZWZrawpSp1bOKSmz-EQ4SvVswc4j2WHYXZS3INO0452RoFxQ2OIVjl7ihppcqaXVEwt6-CwEqWq3up_EieuR-bSYLW9JO2upLb0w6khXw5lE-YE0fuHWWqDlsDyleIYK4_PUIwmjubfUqdv5dX7JqUfoS2Kj7ib-YBZSHt0iCj_N2_hTe2gleH3lahGzV0Y0G3S_rJe5dU6zqYLpfGVfDLEdvv7KlconQO32-qWE8hv2WShhKHV6TjRo7nAcnHXDFZCqtU5NzICwW6PGEL6EQeDsIZcVF_A9RyrEM3CTA5SAea28D9iKVbR4YuUoDfU_QLsY1OrwlWK7xQnDvm6DimaXOlXn8fbUFk1GWuGX7f7bDhspmaKKewj8VlTFwHjkCAhdVMJHbOxUxTOJZ_qianLQREfuFz49yiMUh5Kmo5ncIFIqpiD51hPU-4YZP2-CB12vVfBUVnjGDcc_K0gOX0yFf4o-F7OOiMzxZXxajaW_NU1xia9SVdOKT0sxxjTajGqxM494yszVQqfvMuJNBmhiHWgjqrbk2RqKEKGJHJ-59xhFmJczylmp4pio0YBiIOCgzBNkTCj2singzddWU.%26ch%3DAQEAEAABABQqIZtf79YFrCFzXdnRMLUmjp2BqB2Yx_o.%26v%3D3%26pg%3DNALQYFM7PREWRAREGGZJR2F3AA
+.netflix.com	TRUE	/	FALSE	1800580481	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+21+2026+20%3A14%3A41+GMT-0500+(Eastern+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d839b3e2-a08c-4e99-ad7f-0c116447c87a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Liam
+– Email: armel.dussans@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: juillet 2017
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 6524
+– Phone: +33675288708
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Armelus
+– User GUID: HARK34LDWZCUBC2V4NPMMMGBIA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800899333	nfvdid	BQFmAAEBEA85q9Ysfdudt1eHV_2hKIZgPyQVJER0lS-LpgFfVX0EmhBVyFPjBtm3JJIl2PusPWZLZInwZkEleUjtth9cr4QKxLRiOboFMvEsGLCSiOMhbjndctGqFLIJw7J_yUMp31_b2nsekJC5OdLTUF97K7AH
+.netflix.com	TRUE	/	FALSE	1801493996	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+15%3A59%3A56+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fffa0453-9427-494e-be92-3d6d92e042b0&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BHE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801560566	NetflixId	ct%3DBgjHlOvcAxKXA85Sjt5RMGYXRPsbV_bQhd7tdsm0MF0R_PxCpgGPoKw3t2iwPLnJfcYwCH0XUuXbd9XFn8lDtb2Y4bYUsRGVBx35OqOIdFI6iu9irvIYPL2GZT7Rh2U-7LtAf_mVTUqEMHYufJCy8cQ8mlPW-L8AHa5XR7Yh34tAtjzrL46UCG6VrW7KU_ecye8vjWoQ1vtcmlfVI57JcqE_6dRso7PQYbwF9j6gTD9EeZB6MCcn__rgYNmv-f6j1NhUDvtVu1iznPt2Kvi_mEs-glxbVpS_j2DqXGhXTzZAwBy1aVkQHMqoxPWgKxr76Ou5Qm8biJBSDFHBWonQ5VSIJwUCZRKdOTpqR8BDhStO6vUTRD7SS4kFxEkadTiOdvWkBzY4hWJP2f06FIjmL-danBAYakO5QLHAuD3YO-TPXhCj1L-6PpVrlLmEJjKPFHOlvox1ocU5Uxu6TWiTiZPV-VaxGCDqeUnU8s0VoK8YmeMwl8kB1YDzB4Y3NACqHYKtaR6faHrRlkONGK6zcx1r-P3ABROPtblsoISbpaY6GAYiDgoMzrdElPWu1rb3bynv%26ch%3DAQEAEAABABSE22MYOh6nffb38q2iYDAjEmeBEmDAws0.%26v%3D3%26pg%3DHARK34LDWZCUBC2V4NPMMMGBIA
+.netflix.com	TRUE	/	TRUE	1801560566	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQt4pJEkHVJUpmq_9K0SKMFiZdsEN2pUjE.%26dt%3D1770024566511

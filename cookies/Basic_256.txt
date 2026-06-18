@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Niecala
+– Email: dominikwalek.gry@op.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: grudzień 2024
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5273
+– Phone: +48502158888
+– Quality: HD720p
+– Streams: 1
+– Price: 33 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Walek
+– User GUID: KB2CKHCA7JG7VPVT3NJYNYQ7L4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792937302	nfvdid	BQFmAAEBEG-bT77MosC0sJ3QerqiRX5gaea-EA8gcbNjhz6aU1Or6WPZRqgb0KdqwcD5_oIZQsPs8zPKW7ALkrGKWyzm_mCASSeWQb_U-GRsZaiM2q0JOlVm81TzkG2TyoD8fAKpudu6mfbqIPL1byaYfpBmHly1
+.netflix.com	TRUE	/	TRUE	1806773055	NetflixId	ct%3DBgjHlOvcAxKFBMEa-lj9fMP43W5gAFAiGiv3vSrkOqK2nhOsJbwJGEkeh6pu_BcD8BMkURMDwXKCJ92k4olucUAQBfBW-8cI0AiCKdDWM8dIFkmt4bdg6AppnPJFo3DmIOfDhk921VC4NiCMQbaQQ7Aib9Y4XLzbIKRQJWHXHk_ha7rT4PxHdYdFUjlK0At9qcw420riiQPUiSI-fDay7uvbP1eaBcrFSqyImMexn4YovwFkJ0wJEQjr0X4eJnJn6ZOT-P304k4hXzLSKWO_P5_26i_GjXK-AxrwAETrHszy0S97DZSMuJadAvBFKt0V92gOdht5djC1BOJOpoO1qp-i0r0Alugpw7lC8jS3one0V7p-FlNxbqfv-Fb9uj63FHozCiieNfTHRe1Rti_BPQcvzzvdgen9GonpwMYB1eiesaiZ3K4rTIHrn9jgZ0PPpUjb_iE7u8rjVRJREZRCHCEQvQMTAsL_DQ9fsi7-FP8UqWUYfpxWXtjdznT7a9fo4mCygQFNyOixWfB0txXew7U48hjiUQHuJwvDzCKrir09YyYNs_AsyIXl-L4q1GqHBFTBPWXADWCmpbJA7y4aU35iNupvi_JvGUofMs_8OCwKkrSpsLnzJttLQ8jYIZMMG6voTfaiK39H9osCUCMRUUL5qMGIruFM7yfOFjtYcCsC_egNyKGfftCG-OqFT-IYBiIOCgxT0GxuhsLcCUo2X_s.%26ch%3DAQEAEAABABROfnKNeVV3iX2H01f-5ugdhGaPTNAd4Qc.%26v%3D3%26pg%3DKB2CKHCA7JG7VPVT3NJYNYQ7L4
+.netflix.com	TRUE	/	FALSE	1806773057	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+19%3A24%3A17+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3d4e9c33-56ac-41c1-9af9-a731b57ab3ab&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false&prevHadToken=0

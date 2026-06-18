@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pepita
+– Email: sofisancheznicolas@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: January 2023
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 1763
+– Phone: +34685196756
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pepita
+– User GUID: YIH6OIRC7JCSNK6G3AKTJHLAPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AlVBu07EonqQp91a9QcLONK-bAKePDj_fzSDuONPn5qX1ItiC5rzii9QFVWnTrbabrmVaV03EULOgHReuOyF91EiP96m8JqiHUfEMOEWfyt6Jf_lwz8MjyWQWTM-hAQ6r2Z3-DCwAnOEhu_Ib6oQyjVTPD1m4-GdzdJ6rrhdyMqUcm-XLP-kGkxEVhm8qGml6MFPbWhKfdLlM_z2nMW-eNPEWaugDnWR970kWMiG7xu0OW_2H59azBfYUw7JdELMF7kHjeQxX_5x0h2dbV-dtyD9m1aVi-d9_KWu5i75qvhNAt8TdEzogCg7HiUGFYpwGu4jpKgbpus-oSxX8MElNVPv-k3bD3phN-ocypyYgJWU8Sp99GYNe_joriTQKdUyK8x4t5tG829lzsAkEWXNZ_-0tiX0NVfF9U0vnwo0JO8ea1Rj87guo3pzDcfxkoaY19TLTclXw-F7QirZsPMyns1VLJ-2npKKyWOu22DxpHbs5Aa7mAA2dxgGIg4KDAlxLGipflDQA_4qzQ..%26pg%3DYIH6OIRC7JCSNK6G3AKTJHLAPQ%26ch%3DAQEAEAABABTrCKoFx61T1HcR11gIZoDG7ygXheUPUSo.
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEPEUPmeq3DcxFU0VUJRUUYBgus9H26huLFwifcZVIOueMlpkrDqybRj6876hQEGEjvkWcTiGBQu_QPIMKqYDJJ0mgPaWe5P1MdjrpA9P0ggfBW050jkANct5Zs61VLqMjjIv6pXTNxnS_wtYJ2HATir5
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+03%3A27%3A14+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=40bd0e5c-35d8-4b42-9ce8-04cef27f89df&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773973405165&geolocation=ES%3BAN&AwaitingReconsent=false

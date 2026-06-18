@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chuchay
+– Email: baguiomayette26@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: April 2024
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 3245
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bgski
+– User GUID: 62RQHHKACVENTKJTHI2HX7J5AM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802355589	nfvdid	BQFmAAEBED-A1icHq-TOR_io91pIfBFgyOpf9kd5oOe0UC6nst2FoS1MnQbwq8atq31vjT1Hd3Xx4sWG6jkCTf_IHa2A9ei_kt0uKpyv-wqLfTDH4gbKkix-Td21KuRP7al8azXZJmRyOb6nwpkamVBIbV12hg91
+.netflix.com	TRUE	/	TRUE	1810993934	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA5FxQxjZxmo-NHI-NY9zWyXvL4Sh9hn5HJnmDvNxS4cA9Kv_CjvcMHGlnx0Vnwghre7SLapNfZroJ9ZC8ZLmDJGsDmm-AYPKZKS-lS910nMXlbFXk9GwvaOibXUdtfmyoyZdDzIuPhSJjcX6sYtsk--K1sVQkhMrk25x9zpciyFKF3XiQegJkJeekcw1e9Qf6LWAb4qNrX3cJF90nSe6ANbICSvjhkbbbQzEJT-i8Wg6KGFqKA4Xuibq6x7H-PzOLs7wRf7RMvovSnXbqGU4GvqYRNhAYfkofB7yU19hQNjWEllABb9yLCH9d4rf7lQss4thoHW22wC2K9ntFV6RP-brb23pjrQPn0xkDVFjeN3lKcuMK0J3u6RCVu1tcH7YK2MT9Ulg2rMqRnB3iLt2PeLNsefoOfLAmY8bpztDN_qof-MSTBR3gKnxjW2OT3zh9DyKThDORxqi06H2OAaccOxFFNx9gkrmEC3e7MbeA6G0DyJ1sI2YNVLS6jf6T61ZW53mN9zFmYhn5PDdblrHlihuqToPDQsYBiIOCgyTsl1cY_cP5Odlrj8.%26pg%3D62RQHHKACVENTKJTHI2HX7J5AM%26ch%3DAQEAEAABABTsLc310gHvytzmvry7ZJPeQqzj5-QxeBY.
+.netflix.com	TRUE	/	FALSE	1810993936	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+22+2026+21%3A52%3A16+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc1ad286-e445-474f-9a68-6274b6bb598f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770822278711&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Delicinha
+– Email: sr-serralheria1@hotmail.com
+– Country: BR
+– Plan: Standard
+– Member Since: June 2021
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 4511
+– Phone: +5543984566493
+– Quality: HD
+– Streams: 2
+– Price: R$44.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mamãe
+– User GUID: CHHU3OIIAVEI3OWTC3E5YIGNFE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802302730	nfvdid	BQFmAAEBEAyrN_c0WGIlKO5bdFVG89tg5c51ZTMM3S7FMv0aLAc6MsW9O5zZqnoozWpCRWk5R9JQxWqmV1cxQx0Fc_cTOE_bHeNQQ5NzfPCszpW_ZehviUSE-0pp5uo7tj_VOh4UPDhIZr1WxlDdi3YjTSHpEHN9
+.netflix.com	TRUE	/	TRUE	1811591135	NetflixId	ct%3DBgjHlOvcAxKHBAQK2Mst2jtrGyOVAEg9AsRwDP_vJ-aCq4oFsfjZL28Sd6GMthwEg6EuRtGYTjjZfsqGGtlChbfKClvdg9tu-BULtBlOjj7uwdq-oF458WaeBMuFRcIpEQ2LnhLl0Ya1qj9gVdTkCu_E5IkqWAD0dEImQc164BiaVXKXbuAW_gCGt5n97NcnA7oB-HFzJU4fjFcFYkw14VWyttFaw2WY-gKWLhOvwWNgbDA7TK0zPs_q5mxazOf0Zc5HVlOgbtzuiE1-St_ifEyhEFwJs_LrMikHxquthxlHwNzshxYrnA6ydP7D9u3IOfzH1xDdj8h_ybRqWHq-TwyZ-i7euf9mnKGHhbxu4cZhT1IWtByEfMqrbpOm9YApxBMcoGMXwQVFe7_MdnDrUY9MnGSafQJwAWECEUcq47qJg4eBoRr7-twRBFtDreGIYKE9xBrsR128kLXDKPgvVB1exSfURZfQcFB5gU4UQ2oBZBReYe2meQuXir36JNwwlG_nRB4GSziHkONKe31tsAUAESLraQ9dO7mbVvZIdCSSKarhyOLgmoQFNKPALqTbRmvjGKjdoSCCWeKmuUtQPCBVxOERyvvMdL88TwbHbni0ERO_cHcnUFq2tph-mb9Eu68OReKxp1M_wzvQgZxqpA_5qviZlLKmL00gMKLV4KCpCMEOCI8FVLuTYjy_zfjuERgGIg4KDNVLV7MaXWroH69TAQ..%26ch%3DAQEAEAABABTdnei-FOOPSkxv-SVUKHJsngRLl7UEzhk.%26v%3D3%26pg%3DCHHU3OIIAVEI3OWTC3E5YIGNFE
+.netflix.com	TRUE	/	FALSE	1811599495	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+11%3A04%3A55+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7d885a9c-5706-4800-80e1-aa27e2cec78d&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=BR%3BPR&AwaitingReconsent=false&isAnonUser=1&intType=3&crTime=1771040135938&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melquiadez
+– Email: moonskie99@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: December 2023
+– Next Billing: 2026-07-02
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639455812104
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Melquiadez
+– User GUID: CMIZPI72MNFQVJX5FB3LUEDUXE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800167345	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+14%3A29%3A05+GMT%2B0800+(Singapore+Standard+Time)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=e87c91f8-76d3-43d3-9034-f86600394afd&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1800871598	NetflixId	ct%3DBgjHlOvcAxLuA_xq76373Q9oI80LYGO5uUUjvi3to_vTDetoQp5MaKLWT9EjYNQBneU--vLGHZYg49kr0ovP3d8wk9M1OS2zD-mveN4Pd1lcdw15kDIQ1z-1a028xb-Oz55sKzY2VG2ccwFBPw-qqvDuNaOtXAajhEr_yf-c3JXB3vodlHXz_A5VWgx8M83HmpHY5PO0FCufPS9R8OK2Rz9ZZlNqoi652PhOM49XA159To2GX6DTG3zRfswrLFWfes9y8qhKrPYmO_M8_QEzXfLrY6xhJ-3lBsMEjTZX2YRa6TY62l9IgcYQKE3OecF3zD9YeYsxLCQt52ZwcSJ4BNDp2a8i4bdpSsL_XVXUMYD7d_TG7yrb33DVSNOdvLkSCpybY0-TUrY_1qfG7Nh6IVR3vV4rfQCMNKO79YJYkPxb4qSfg365DR7BjC6NGZAGMMtyGp3n8-kqSG4gHENKCiMqvZpGogsMsoOxMAnfjIzSFep7RnWqc2EpYzsrhZGb3kkQzYZ9v2fvSU1Jsz7pn9ZzaE4w0XqWU6A5TocDAm4keyiKi8p_1LpDoX1K01Ftx1ZLSP0oY6jwPpg9WeCX_Fp78SwzxJQzlxKS8PEiBFepBxgE5D7k2MQkmqyDkVoOMUHYYvwgdoEblASxoo8ZLc3aSN2E6GT4GAYiDgoMl8jEIPPCZFZSfqzZ%26ch%3DAQEAEAABABSf8lH6fCxwquJNSzxgRitNgiLZMIfmxqk.%26v%3D3%26pg%3DCMIZPI72MNFQVJX5FB3LUEDUXE

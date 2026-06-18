@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LOS LGH
+– Email: ghina2239@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: août 2024
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 1805
+– Phone: +33753499195
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mme Habri
+– User GUID: XNHXFCVL55CYPPT2WA4PNCWSN4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798825812	nfvdid	BQFmAAEBEIoSAuMFjNKr7lZmdT1wDjpgrbsnP3rRFPIvOylC_EWnjC17kQ84QSFS6M09gTIz_crw4xHghecXNCL3-3slD0ukYcaRw4fdyYcTWP803SWFcetmZVU8e3wPOtSKzZum_80yi1hILRpyFR_EwlvMiwG4
+.netflix.com	TRUE	/	TRUE	1802450106	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAzq9AlSC5G4Ns0RreOHPWsJWp904jkRkErQj9bc5Y6g1Q1MA52gcaqzAMHxpSDhcuJn2ko-Cg-QKy_ee4tmH-jRJceV9dVoYntKCXmD7AJRZ7nIH0fvxteBJlDTzKJR-s0tuNEjMPn2fBWWY1icbThvsLKWddUoG6bo7XhTxIKiJJIMHFALeYPWK8DFrvxfmvhcwBHuS-J8fycmn1SMi-tszBYJj8ImYOu8sRkoBWu4yXF5M3j_JYUnNueapqOgPghCwPOHJsxKXqEMQeyWxZUxF3PURxhzyZlFgeQ-yKIisnFigEpgi7L2M5PWEjoLraYrcKogHbhhx39JaLYgz1wanTpDG-SB4OCrt4s7KA2WjJCD1HH9iLB1G3xh6pGqKw4RYYYVOkJIAvA1SaRGUyFEnIFo3ahhNS_6JYWpipCE7dGzAqRSc_6otJgrxttm-H3LtbPdW3pmCID0gb4emx7nr9OHuSRo1_ODNe77gJxZEB2oEt0-4c9Mn3YLs9Q3pxBgGIg4KDH5e62DouNQFMpxjnQ..%26pg%3DXNHXFCVL55CYPPT2WA4PNCWSN4%26ch%3DAQEAEAABABS7re7D3yOWQgUkxIy8Qq9pGviszb0uYQ0.
+.netflix.com	TRUE	/	FALSE	1802450107	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+12+2026+17%3A35%3A07+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=017c93ff-80c9-45aa-aec9-295908d19b12&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BNAQ&AwaitingReconsent=false

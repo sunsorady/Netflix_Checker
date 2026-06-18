@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anderson Nao Mexa
+– Email: dirsony2@hotmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2024
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 0130
+– Phone: +5592996253495
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anderson Nao Mexa
+– User GUID: ZJ4OFB3LWZCAPGYPD2MZYT5Z3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798678241	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+21%3A50%3A41+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77356b60-ec18-4101-9a03-4616470516ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BAM&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1798678235	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_6abeR6R1UHx36vw-WpLBRQfs_DjTq1M.%26dt%3D1767145934827
+.netflix.com	TRUE	/	FALSE	1798678235	nfvdid	BQFmAAEBEIjV9ppSd8MHkVBGC1IMnYRgjp4vdstEsawDe7Lj05Uz17AeDwshu387jfpbBHAk7WqjzULWL9R5CjBaCpiYdmXwT5S_9pPOcQ_JzGgHBekIjFQcEeBn0pOiXHhgZ6X66nXVGpDW80Yh4TsoCwd-kUWt
+.netflix.com	TRUE	/	TRUE	1798678235	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA7NI-oSU5GfTTuiayk_KkToowxwknNzicrNx3gN_dB6beh7xuPNBbwKCiqNluKabS9wHr50eJz4PLDZuxuGRvQ2PmVQodQ7xUiHCmYfkgZYPb5C3IAu-I0t9IggVYxrpFyD-aJ_3H6D7Kh3Ef18NTFGxMzXJ_dyAchldaK7v6uRfOog5DRnlzGePZx7C7KVYa39aNPXX9A90pJM2fARnW7Pi5OMSYkxZlZPciDQBIoeIkwD1ejXd0xNeDUZ1KprXSI96-wGsprZNvQztla16MB0J-LmmGm68UxMBzjpP5koxVumHMZClUDyAC92LLJaYF1G7xWqBYulPD_4nFapXn6ZWHGfIOrKdp-KU_I1ErBvjX-kFSkmxA6n104ZsKZCazgCTzekVHt3VK9rt5_FEatdZt3JEecJV5pyVaT9TrBq-MfyfDXuNxJjqKVgdgZu_nEJExIYEVIidTMY2tFpVVmw38VUgKDOtF8CkTcIYvRMDgFBpIP9E0IUor_24VYihX5b6ZinNK03XDeIzC-vUW1ukGAYiDgoMyMDrQ_NryIOOc2Py%26pg%3DZJ4OFB3LWZCAPGYPD2MZYT5Z3Y%26ch%3DAQEAEAABABRlI0qKhu3cC3z4oOmG6es6pQ_bw79iSRo.

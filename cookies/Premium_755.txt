@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Meelz
+– Email: kolobok77@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: August 2012
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 2196
+– Phone: +12024060607
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mr.Oma
+– User GUID: WKSHUA66QBCS5JA3SOCC562EJM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781998031	nfvdid	BQFmAAEBEFYSkzPoVxg_SQFC0Iv9W1BgdaBdej4juUsbWEbroHrrS3sE9aUiyF-SbLz4zF-3VY2_T1L-e1Apw2_IHgzzH_uykLmoIttOPmxZz2gGxEGeIGDwhSc3_OLRoT5J5bMy4TMzOYbjNZgy9ANfidMNIcc_
+.netflix.com	TRUE	/	FALSE	1803603420	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+25+2026+19%3A57%3A00+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68f5c171-3797-4286-bddc-87c86e910c27&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803603419	NetflixId	ct%3DBgjHlOvcAxKJAzOONT0eYF1pG0mQt5eKzH279usFv8RwSpLMjZnAeHdkHpirihpef-rr2KwkeSX-KQ_w2pZcca1s_5MO6A3WwafRXoGHcpdOaNHbRgO7krHOAr-_uPPrx8G-0indZBY1Lx6WAR6IW0GOhGgPkuxPtjrYHc7gY0eq5L2U4VBEzR9I4RhpwOs7qJmfY2JelwwlGUlcLA7BejBrh-eAh2Nn8mrLz3UwAkQqtCfeBDjZ-HYIzF-gifPXkiov9qs0fs1XBArL_aJGuOFj7o5Smyk5l2LYu5Ymj9Q7grgVVTkB9rt5XErehUXekTLQFn2XTD5IQkNvxTZhIiK8knbZ0PTrg7RtdXI-tGQJeVcOgjh4HBWg7BrXZaGDHrkn2PgMBDZFFZ5U-yyBVM5ESN98Sh6Eo3cEozolX3aqhkJZWPNm6yeGgpf79NTVChxWulZ-4U1rgtYmZhtJEwwGcSi_08QdvGDv9aGv_C8pd-LHB43PEWqQFZfQFx0-8DuT0LSKf4XIcwhUCs4OOn6KUhgGIg4KDAkuvUXc_H6Fxros_A..%26ch%3DAQEAEAABABSVAdLBHDcIaCXJCfqG4qugT-gN6dbIXEI.%26v%3D3%26pg%3DWKSHUA66QBCS5JA3SOCC562EJM

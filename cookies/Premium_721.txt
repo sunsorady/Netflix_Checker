@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Olivia M
+– Email: chacon.olivia@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 6166
+– Phone: +19132490012
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Olivia M
+– User GUID: DKDFKSQMIVCVXDQ3ZQPDKQ73YQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807239528	nfvdid	BQFmAAEBEOWiNhbWjo-eluEntGMFR2VgLBu2ru-pdKLF1D8S1_nVaO4_viasmIwARLpZbDFlhhAtYn4hjoDXpaTSM2D0xYfFi8kFf6nGP8MYjibGPD49q96PBrpZJl7k7rTL4bGFeQEVnOuTcW7tvqPmASWwJeRv
+.netflix.com	TRUE	/	TRUE	1810174286	NetflixId	ct%3DBgjHlOvcAxKtA5oN_TSLLYuwijAUfrjGiI23rIJDz9gNz1Eu1XnnhcnhGZYCxuzuQmeU6D6KMn1cgChPtzUIVXgIdIvoRVsgJzoqlfeE6IHDYsg89bDc7dIm6wSnXkfWLgjE63w1VJW90tw9kWbVXVycYh44MqujLIQvpXgPgUTtF6pFeKowd6OA0sbTfu01BLTdMqJKdSBEFsyvKcxIXweIwI-UkBqkSc-8hXB93zaDkWfbR8kBodY3IwwujIcG_cf6EP4CU9dxrufCx8vgUi1_xzAFIEw4LeLKRVyMxpJ7uMSXsPdbdf5V79tZmviRfU7ab-MZmpNx3QQuyLomune-w4VYKl3R_kAZ6oEeLcOchfuV6WxVfI4dUmtBcjJndotvI1POO5s1ixF_e4lkfRRByLabZF-s-C_Xw29zNaa9ytUTNz6mSqqwYM-rza9o-7k6Zb0o07_A2P5ks7-zjf_pkBD_5520ACXM0G_N-BP7tYlSWgak6bKETCXcGOvz-Ikp24rqTI9C7bxxgRMGWvSNpnKZaCaLduBQILZW0rEVQkTM2hDr8a-fbxJBtJmCp9igbNchpRgGIg4KDN622KdHJzQWdMwhJQ..%26ch%3DAQEAEAABABQrFXjvELNECxQ2MpEl1hoXKx-KLjRS-9I.%26v%3D3%26pg%3DDKDFKSQMIVCVXDQ3ZQPDKQ73YQ
+.netflix.com	TRUE	/	FALSE	1810174358	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+21%3A12%3A38+GMT-0500+(Central+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=408ec37d-0a11-48bc-ae7e-4b85b226e7d4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775703467242&AwaitingReconsent=false&isDntEnabled=0

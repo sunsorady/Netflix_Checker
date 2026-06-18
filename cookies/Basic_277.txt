@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: idrissucu29
+– Email: idrissucu29@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Nisan 2026
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 2659
+– Phone: N/A
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: idrissucu29
+– User GUID: FS4L57FS2REWBGK4T3VX2FIXFI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808691939	nfvdid	BQFmAAEBEGvJaQugQo07jFKll5CUbLZgzSvn9dPN1ihhpwMeZfDa1aVQSXhCHZHpVo3-tAyNCp3MBMJpjFxSsUDX9sMhX_bWVQQBigvjWIn8pml9VKaiN6fhdd8MO0HPkNO8u0ppVToJdF73JMvAGi4bJytfLkFu
+.netflix.com	TRUE	/	TRUE	1808691969	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA4j0pWDe9nwElw1O3fHBTmT0DN1UU8cC8VvpYlVKoqPw8Rk9fTC4V9Myum3k_6C6B2v2DPswnwyzCw4Ex_hoLdVmzitA-FPStKxK2RSInw1WQ7Nh8p73eI69PEtVNAhpfLSRYLz8iJ7N-R7dvNvhHUUYMQkgIK9ALr0A2KQIsNcj3713x264YICfuZkJkeUGLjUyMJ_RNUjatbBsO5ucEvcMhubAEAbYzqZhLBrc-PE96MV3baUTMtUNmcxU8y5EOvi2Pn9ZNTRsTXssRP6bSStCJFBGbkOosYnI3O1JPSLB_H2WP3qTSCRe8jjhVdA6NvEtq3jfMZcGPQb0KKpUIu_t-uetbym68rVJQm_lZQbmbznc0eRIi6qnqE5qF5pZIw0vzOs3VQAjhIrtKK7FXGtDlVOGOamSXTb7pprsFx2hcP0ozgL2edOTM1hpn1QyC5Airmq1tR6INlK71lDfJZ5290B5CIDS7vfR7NnarG1crEK8Rz4mLwyF6a-porqrwNIdJ_5zdMtwANheb8IYEcH61frylE2SpP7oFz2IO6QYBiIOCgwYc3rthsVXNt1daR0.%26pg%3DFS4L57FS2REWBGK4T3VX2FIXFI%26ch%3DAQEAEAABABRb8v0Qw_vaNAYc6zbD3YncxRtyPrFwj8I.
+.netflix.com	TRUE	/	TRUE	1808691969	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTmI2vMfRJQzcYwm0MsYC9L3bInrGkFj38.%26dt%3D1777155969167
+.netflix.com	TRUE	/	FALSE	1808693752	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+01%3A55%3A52+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=dc229f7f-cf1d-44af-b720-240c66482c19&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777155884334&AwaitingReconsent=false&intType=1&geolocation=TR%3B42

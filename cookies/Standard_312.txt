@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ארז
+– Email: osalomy@hotmail.com
+– Country: IL
+– Plan: Standard
+– Member Since: December 2017
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 2917
+– Phone: +972527030440
+– Quality: HD
+– Streams: 2
+– Price: ₪54.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: עודד וקרן
+– User GUID: UNQLZI34ZJG2XFI574AHSKJJJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799417386	nfvdid	BQFmAAEBEH-8skXCpa0xr43xelWzRtVgHiEkwhWPUFz0jk1EQ1lSM_qV_wAopAuNUtTiyNyU_aeDaXSATWguyAxUWBpvD4y0CT-fd5OQdaKLwHwtZXdI2LkIaLOpMiAvnZF0BN6BDW1wJ0JgVpTLbSVRDqdrJ7iF
+.netflix.com	TRUE	/	TRUE	1799911605	NetflixId	ct%3DBgjHlOvcAxLjA12bY6UfXK3sRMh4PdcmxRNWzEVdx39AHEmywE9sc5yMnscjmQvUMM0zZLOyZnouG5Jt1YuRFut0v7TqT-wvPtLZiAwwjr14-yEOImrNb8lyrBlzItsPruaZOWJxFRzuDTJsBHDVq3Fe6WaINJ3ka4hxg5srWKwn6NDgDwczoEX60mbjJa2EbBO4EW_XaUz6hOe1k4ONixs3P4iMHzPvsEpGEgvnY873XMavEhalXvQKk2W7839CcM3BT5jSJeILWDM3qN1dHsAobvoQ52gLh0KyyO2lx1Rj5s3mCumUXksRTFx6IHIfoShiGdGVpmbL2patr1qB_W6IVmaDTYPHF8vo9WNSs2PiMbB-B4pJCjJH7TVCKKlIHmYo_qEemaTzxD35QArrfuHzEuhLH95fWnF2EFrBf0DqWj0O_nRaJKC2XrZqDuq4t5_S_hwIm6aL5K6XivB3NAnnwIpE1z6iIUNBDXsnOu3nsST1mamFx6NrWgKNEtE4b_4qCSIumYlrB2Rh_tjJ5u99g7oJcXEe8iRjiV5CZNB2atZAMyTQfdq5FvUdSJrIXnc8vw8ZnJAAlEyVxDIhaWwBM3f8KrFkV6Wt3pe1Cj2yBl3BJDMYnD67oP1YhEyPuiYV-J3cxiiPrF9kdxgGIg4KDG9p9pRplw_xglovMw..%26ch%3DAQEAEAABABSQ9yFRfgV4vT_OAYQh7yoU79YP6WKHtM4.%26v%3D3%26pg%3DUNQLZI34ZJG2XFI574AHSKJJJ4
+.netflix.com	TRUE	/	FALSE	1799911609	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+09%3A26%3A49+GMT%2B0200+(Israel+Standard+Time)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=438a3855-3863-4419-b14d-d914da3b4fc5&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&geolocation=IL%3BTA
+.netflix.com	TRUE	/	TRUE	1799911605	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQUCGz6SSvQl-TeZywE_3w3DxqXuh3WmX0.%26dt%3D1768375605822

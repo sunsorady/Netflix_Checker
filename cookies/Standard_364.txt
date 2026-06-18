@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fátima
+– Email: mariana.nunes842005@gmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: dezembro de 2022
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 0048
+– Phone: +351960474572
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mariana
+– User GUID: SQ7UZJL245GHTIFFPMJ2REL2UM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783258536	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL2Ag4zrXLm8HznirKmglK22Sw6tvnXDKhjpB3dp-Zy-CUlka8v8NeCKoAoO8KGqYtCdGmxWRsUqINiqDoZ7oPHdm1YRiUK5Spj5ZF42C1dnUOHIFt0MudK0S3YQWb1CewcCv6eezW0tbbeGLd3MRamD26iUAms-ecQfDexoGIqjKdnEZhNzW7LtoalqkuC4r2Yuf2jP7hk0pUWK8Ri7TFNu_iHmsHxdbVCup97H4rohSvx0eRC1-0A-hbS0blzQ_gImZAUReZkL-rBSHTAbq_Eml36RVN7_JthI3I7kSuooWZ676Pr9E8xJdt3dQspxcvix_CpYtRj4iil1UkltLsPoA_eZFYmRTm-z78k3AhteEJNeGB8m3q7ZyJxDaqi3FHkPUsUvHc6EtVzjzh0MkEXlUd_ZCec_Ad9X_3X6wRUE0ssx6-XNR68KC9EHMNk81nyxPeo2CmjMkkBRh4nvpYDsmFREpBlJoA5ZIK8d6HLmZXrRrzfzDcvGAYiDgoMgJtJYnlrgLFld-h9%26pg%3DSQ7UZJL245GHTIFFPMJ2REL2UM%26ch%3DAQEAEAABABSL8P3To2KgCstXk2h6HAITDgSBDNa3_iI.
+.netflix.com	TRUE	/	FALSE	1783258539	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+05+2025+14%3A35%3A39+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a8b3e313-0a39-49d6-9712-60486926697f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783258536	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqMoz_MtgXG8vaUCKPJJyzpOeuKBDQ_Jg.%26dt%3D1751722537419
+.netflix.com	TRUE	/	FALSE	1783258531	nfvdid	BQFmAAEBEC48YPLJ6fZctb4CkZ6ra_Fg8UCGeEdozlRdPZSJX2SBz_a7swmUyuolMV142Hm72dUSFGMZwPdpaX53AsgCy0XVSjPsj1SE89b9vhxezpINQmTqO7wGWkBwoCCqVWb4ocKwAXMPODct8MwFcWJ4hQDk

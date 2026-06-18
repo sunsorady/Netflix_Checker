@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Olofinyeye
+#EMAIL          : Sigoosun@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2024
+#COUNTRY        : NG
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (5345)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 5 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:34:20
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1805209993	nfvdid	BQFmAAEBEG1hbuc3i3GsyilBSHDu5p5gzK55RhCxrpZt5Kck7wzkVu4IjCFnX0Zup5Lizu409Gm21pB7FP20b9kARw8kUhtHVX3vMKIL0Fu74WTgMisJQMxwMI6nFMWkQ-vK_u41G5R86tvV7jnVFD48pNeyyH5U
+.netflix.com	TRUE	/	TRUE	1807362857	NetflixId	ct%3DBgjHlOvcAxK_Ayl_KNV6MNL5KP--hFAL5xGWqsbTxmuyGLVOoSHrBRaZLARxHvJQniLjByBn9Bo7pXzM4mnOh8QEDmuXOQ1lOnOr9KvcY1tc1ZipHnhNE3BNC64DrzMXT8RwmHX8m1c7nNROTc9PPWzapsf4lWr1Z3hR89q_qjwl4GBgPmAnnPtBrkLOiUQbTrXAy1PihAwbzzjqfP4l5dDKH-bStLYu__Stf9yPhwGuZeLA20DdZdX91u2h3VBKbnxe9Ze1tuKJIgvFN8cg1k1jOpR8m-RGP65Ls6yYjxYTt_3RqKyauF2osReTsKnKbRol3Ghsoy0EDULIudV9ISvoMFlLUFlHPai6W8kuRd_B949rjwEa0gQ2wHiS867S1SJ5R7Oa0yR3V7KUw85491lUiZyiLT73C4Wjk03eMlNMt0AKReSZqIpDcXU9liphOgYK_GIjyJoAlCj1KybSahErqIEwq5hgi15JGkBzk35PYTigQXwNOVcvR2ntEQUCHXhjP-SmJoBVImq7E7GFFEpjmOrIK4iR-QreA-SndJeH2OUd67nn6Jx4xh52z1ZkHb67XaACyoQ6C9AZlfbedRVZg4V_5SUiuBgGIg4KDCM7CzsozCSgaMh6Wg..%26ch%3DAQEAEAABABTME4ChNvSmABuznbqMU5UCnYv0KZWW1s0.%26v%3D3%26pg%3D7NUEPQDZ7NGS3EOR2F36VRDIQU
+.netflix.com	TRUE	/	FALSE	1807362859	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+14%3A14%3A19+GMT%2B0100+(West+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e5b8165-f3e5-4b77-9a85-cb835f82755e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773651589510&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807362857	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREBW7Z0yiCkEowT-oHXrnCb7D7i8kCWK0.%26dt%3D1775826857535
+.netflix.com	TRUE	/	FALSE	1783602857	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783602857	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Matheo
+#EMAIL          : lescreadejuju58@gmail.com
+#PHONE          : +33629333420
+#EMAIL VERIFIED : Yes
+#CREATED        : décembre 2025
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : FREE_ILIAD
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-18
+#DAYS LEFT      : 0 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:29
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1790366276	OptanonAlertBoxClosed	2025-09-25T19:57:56.657Z
+.netflix.com	TRUE	/	FALSE	1795121006	dsca	customer
+.netflix.com	TRUE	/	FALSE	1798367411	nfvdid	BQFmAAEBEI7yGK0UekiTC08077onBRtgpYxesz4R5SvjbCGllT1SchwoLnDH9JW8Cy_LQr-BJxz0f_14jeYKuE4hicGsTD3MO2RrMTOOqpkVpdfFxzLuHZq6fAxhXN5eW2c9bb8dnADuV6I1fNJUPdSTED1NHeh-
+.netflix.com	TRUE	/	TRUE	1812048061	NetflixId	ct%3DBgjHlOvcAxKABEfrH1w7Fn-S3vzppCQ9tfbif7UkAHnyX76FaYQ_qERuI44UDTO_6C3G6zHl3BKLg5vtHC2mNkHCR21ha-aLZt_7SD0zDNodvKygMtoWc0oxjIFVS2WKwZrj9GxrwhYvdvDKE1XnI_QwsAENp1n7PkppAgU-gXykhtrMFDGVQyIf2YvBbOW4e0L0qUJ7ctvNpjCwtXI-tHEiQ2aZZkC4FJU3Y4dj9cmxIIFXzB1oDd4wcyqBhkvCIjFgtS5jadlJg34buB5YqheHLA7YPhJ0xurjS9s0R7T4_3FMwIfq54-kGifzeNiPc46d-tk1D9nW9gMi95mKa8B7nrU8xSJsuDVHzxdomK4S06LB5anHo3cOHOd_uFBokJX_q8VMPrByWgaribCO5EYt6YYfXxhjNhtGPAETeDztt-UBaJs3_bUdKh7APqdbtGaD0tlkFq5nHlhnAsdJwBRp5VSdeg9RxRFl5wZr5aASnpbbKGHEwiLRtP_vbPlOsbgktR4c0TnLXWfPvfO5PNTugPiMhqqqTEqD8WixTk23j6kTmgdGOV7LT_5U3mHk3vc4M_rgcmch-oFJ0Tulc8TdZo74_mw1JYizn3rfjVsKpm3v3wswXzgY0AieSVKOLYmV7RcTboXNPuqYcg423ynMe-A6uWVlyc8KVc1ipwZTEZeG1CLtt9vvGAYiDgoMjNTnNUNqAAo04XBv%26ch%3DAQEAEAABABSoOQEabDoexjl4k93knkp8vQCYaPX-Mmg.%26v%3D3%26pg%3D4VX4JZUUPBBZ5ECZRZ4F3Z5HYE
+.netflix.com	TRUE	/	FALSE	1812048063	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+20%3A41%3A03+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7d6d4549-8891-4b63-9990-64e3e610ed29&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BPAC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788288063	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788288063	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788288075	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

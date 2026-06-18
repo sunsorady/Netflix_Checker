@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Courtney:) $
+– Email: sweetcreationsbymelody@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2013
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 4007
+– Phone: +19139099032
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: melody
+– User GUID: WOW5UCUOCJG6LKZGISUEJIJGDQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798825986	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3Avl_Ck437e-q64IA7sMMwRcaiCXdEGlau0Pj0_EEThHFYMzNLCIgaN1CvxW8kIGkamCRsVksQIrvEhC0blUPXc3YYgObdltRrj2M5asTu7zjn_jtnWh-HU8efUUqB6NvJGJmrrEkuHLkTE33K1C-otVjySw7qxW6NOfbxVxofthQGtzoAz3LPzfSb59K7l5bLAR6_6O2IjwPS9trfkhj-TN7FUlRQcj4Siwof-IFYLJiOPUJn4FbrUDCfGzd3qAiRLM18ru0mKeAoafTwB2CyC0qSdC1fKuO-yzZedPDwQV_pIMGHztVZbYtPvkgJRhmR9AmhtILeXwYqpWyat5yCWbjvAl_c8vy7ZZd0CDhWlLbmJfItd00_VdG4cHvs9b04LcHlz60t--vwSv9MsdKpx0vgOfn6-LwwidaPPO3iTb13PKHtSEHzNyzIVPAkZi5MUukKG55RwrXIfGHy5kn-ESFJKRv5UtJDK60JR9RC1qSqNh4gmOjrhgGIg4KDFCOAbA_JMTko-35nQ..%26pg%3DWOW5UCUOCJG6LKZGISUEJIJGDQ%26ch%3DAQEAEAABABSNJoUk-Ty_sIvjlmxXQbzbBrbuxv5w3Ig.
+.netflix.com	TRUE	/	FALSE	1798825989	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+11%3A53%3A09+GMT-0600+(Central+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=746f8639-b6e7-4928-9e58-661d679ff69f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1798825980	nfvdid	BQFmAAEBEOr2KKPVjDi9p5FgCe1RXu5g0XkynswAkuzMGrqasJg-0DHFaNYQ4amFXQzcepAUi3096sHYMZLdIx8PfSUApyxr7FxEgs_jQd0ngD6MJ3ekMYLDynp5YjVwCBY0N505Hnxyg2yYFP0WpdiPHLGEkzSx

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DAVI
+– Email: mestresilveira@yahoo.com.br
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: agosto de 2019
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 0635
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Flávio
+– User GUID: LUQE7VKKRVFDJDNXDCZJQ6VAIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803668289	nfvdid	BQFmAAEBEOqxJPF_tRDkeX5c5VZSOUJgwvP9skl9pyfSQ8FO_AeZ1cqpLb8xiJuixH__YJN3aBC4MKv-JyRt7kR17XYWOmceMFyRDglZrN7tPBt18cw06-UpeJGdiwJcqJ3IT_0AUHvm4wkJ-U5WVE3yRxpcqn4g
+.netflix.com	TRUE	/	FALSE	1809050369	NetflixId	ct%3DBgjHlOvcAxKCBMfxliezkXNOFYFir4GE_AQowHrcaeLi3I6BcEsSHevMwJxDUM5QLd7C2uxaba1HDOHWAJ9bfOWtUCq5WT2FtfbXCwrI1lTeZzAvTUElU-XwmF5v1gvwwsfhs8PjnFXztoefRPbDpHbNqPUZBENy4OCG8b0lcNvzLuy85UWUmWPPsKQjz-oWkB1zXf9k7L5dvQhavXi-TylLCVwswUhailzCN8Yu0n-jLqzWs9EwtGSenGfY7xktYdakSpCDQ4Lw2SEJzSB0QfNmubXz6ffj-5lE6OHi1Tuo57Iyf1A9BC9K_m43wruAnJ5fMhr0bryMleH-DSMCu3w7QOJTzBMF0ckIh5wSIU0EqJTTvnewsCqXwfsu1d06rGaDUaj78Dod8OiRDz-mmy9qmC92JrRyNmCoSWIXA_xNm2nuFQmO2bcK_DpXKeFg5DHatWXuNB59yXP7Ed4JbM8VXM0EiSgYqsghyzQiSNnDgQCHFQoRbmeMG_JUobIxF2sDk3Y0vhQ_4muQz6uGcI7I2YWI5XGqDVPVHZK71TlkrT33D_5hCILJSY49uQEfMdl1j87CNsqs_jO5PMcWsFV0kOZ98qrBh2AC_AIZ0oFNoGks_nMNyFw24kDxjkbRkVPbL8nBfNogvkf8qkHR8dMkH6fEYau-pX7T5-BY0yZS-eMhNpSkn4h1fTsYBiIOCgxWS8jqRZQ86UioSyc.%26ch%3DAQEAEAABABSVKhBAVALHtcjSW2iibANLOS8T8MnT6TE.%26v%3D3%26pg%3DLUQE7VKKRVFDJDNXDCZJQ6VAIQ
+.netflix.com	TRUE	/	FALSE	1809050369	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+22%3A59%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8adbd4f6-e1cb-4071-9e95-f462a071afa5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772132297402&geolocation=BR%3BRJ&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

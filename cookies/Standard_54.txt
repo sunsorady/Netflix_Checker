@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nicolás
+– Email: scm-34@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: septiembre de 2022
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 4253
+– Phone: +34636220060
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SANDRA
+– User GUID: HB6RMBUND5AN7HLTPOG2J42L6Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808766757	nfvdid	BQFmAAEBENZlWnUBSoB2ghSC4hwb4txgD28TzbfVi3AseTEDf6J9gnJnrFjJr5823RpfpiQXXqs3tnSg8VmAm2TNfOIiE6I6LaaICvfSthbFgtODkMuCKhe_6RtLNlBv4VOxKvKaNXq6WLDK6jKbITrW_I9SswMx
+.netflix.com	TRUE	/	TRUE	1812036636	NetflixId	ct%3DBgjHlOvcAxKIBKvGq0hBfhA3AsaoeATo31xKEGEb9ae-DxjTeja28mCoTkfthvXCGwB_1GX_7BH8Lyo80w25DPTkPzHL2neArx1rwkrBE3G7yuG51qFYc8K8V9uN9we7fVshf8kpLa_Q-n7mLwtqotDsb5sTZYtBwyrcmYHPKVnPvWEA8RRUt24H9zUF1kIdf6q87EiQIvQn27Uxbbd5aHA5fNhJiqtY7ZmZu36VnyQb0ggxZAoq8o78x9G7o-F1KvOAuw_5tAsu-3v79u2Mjn4NqimWJ-C3AFSGDBba4mdrr36Rbo1ud052DfjmjN5PYEHtWMef1FNIVxoECPuHud5h7BerH9ml2KFJSZo9KiLaReetj1K-UjqVxTbWp8Q_2LKVFUR3ocfkzZLhDrFEPsb9ankjUEwRBuk-wR_9ku98JlXbS0pIsuVuc2OU9IMV8aABoVU8u5BmIIMjniLhMQwKr9-aXBWiyNcV2p-DKKOXuT56NxMXhhX1uIRSEUA3X0ysBSqqjqKWKLFzbqJVxPiRgyB4ptmpXn-v49Jp9HMNlFefIhQWPtjmG5rS3NFtE-bro_h5E-W7IPWXAwreblKB2qTEt9jy3qH8-z0h7EV8fnXVTswlzM0eyBzO3IFiAvafMCWxG0rn4oPmN2KJykUqG0Qk42ze6LQkKMnT1K75vlLqkqhWk4a7DiYObl5i8bgYBiIOCgzoZUEQ2FsAJ40Kkng.%26ch%3DAQEAEAABABS1UQkKCokRUQrzb663j4q5hK6tX50-vqs.%26v%3D3%26pg%3DHB6RMBUND5AN7HLTPOG2J42L6Q
+.netflix.com	TRUE	/	FALSE	1812036637	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+16%3A30%3A37+GMT%2B0100+(hora+de+verano+de+Europa+occidental)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fa3aaadb-2003-469a-ac4f-fc740970cdf1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1777140107950&geolocation=ES%3BCN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812036636	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIKwXbKTfUz0F53Zkm4HnHwcMEO0EqAes.%26dt%3D1780500636810

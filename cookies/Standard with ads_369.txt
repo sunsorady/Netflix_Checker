@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Sebastián
+#EMAIL          : lizravagodebracho@gmail.com
+#PHONE          : +34604382819
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Standard with ads [HD] [Streams: 2]
+#PAYMENT METHOD : LOWI_ES_BILLED (0233)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:08:46
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783966061	OptanonAlertBoxClosed	2025-07-13T18:07:41.762Z
+.netflix.com	TRUE	/	FALSE	1783966136	nfvdid	BQFmAAEBEP86V_n8CKjasmHtBmqrH_JgJuwwl2cX75JPjfScfTSzro3A9CjD4FoY87FD1oWE5YqY3WXZwqRrfF68QeQt5XEA6BFQmvQR-cKL_GGWrC4Fv4mKVhZySEvnZPS4WbLqIRKibHgR-jX5mtM5bA5bD1H2
+.netflix.com	TRUE	/	FALSE	1803494859	dsca	customer
+.netflix.com	TRUE	/	TRUE	1808226358	NetflixId	ct%3DBgjHlOvcAxKIBPQjEZleGshbNwpdsk0V7K-Zjn-d0SsLiZhtfromoWc0AjWNqSgWKd8RqnQZi2o842MUMQSUanYhM7lWHj4OcvAe7I5CAQg56wBvxul5spHstUlFxGApj2dqn1zPBE_RUbaQI5iCWhKwSkFfMSZ5nldmyJ8Q3vTGgSAwOG0Z2Y6T55i7Xn4Z2VSvfDuaSFXRo199wOWWO59rexGdPEs6QE0kdoBUnS6g8L06NUQa_zX1nKRrrzuP7TbJ_BscZ_MT_v9vToIh6dRx-ax2yeXPcZlxEDQ4xRWdqgGhPJ4aTkvJtNVTW1ZlGKZDraTVVE09TiPvsfxaZylZ7WmX2zqYBC6ClIm9GmmprbgbCA5YqCsXl3MvQkz7_6uAbdch_FcMp4vQ4yChPjZ2xG9sxL5eH0UIkkS8_yEeaAvEA8JZLMYzIixdy75J0Rr0ckUzgfvIufcMTDawK_qQa7exf512z_qZOaRwvW8NfZ0_lrJnmv9kaFC3aEg-dzbnGBZMgu2shFupzk5odiLNfn7DL92hJuYevw-C3q1BF5KJ_J4Xb--7BhJxFcKxaK3D5h6p4d9tKwiRfGRLIfJsJArLPniXlFVZ1b6yXvZ3O6AsCaDd_QTPMAoabqFrJsVhYm2KjzeltqAhpvh3ZLCdijUj3ijVOC8HiEAQs7vdWA1UvfibIjeWTCSLIQZfWKAYBiIOCgzwwOZuWzbX-wlwoDs.%26ch%3DAQEAEAABABSKnYoPG13bDMluMOAqncZQgJPXSTDHuJI.%26v%3D3%26pg%3DQ7QPTKI2WZC7PA5ACDA5Y2SJ7Q
+.netflix.com	TRUE	/	TRUE	1808226358	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1lAJuqYKgsCRRgoNak5VGqSU5UT1Jca0.%26dt%3D1776690358436
+.netflix.com	TRUE	/	FALSE	1808233814	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+17%3A10%3A14+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=087d69da-7900-4813-97bd-5a50c65d2c4b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BVC&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784473808	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784473808	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784473808	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

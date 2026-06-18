@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jocy
+– Email: jdelfin2013@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: diciembre de 2024
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +529612205083
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Caly
+– User GUID: 2SGMKEIFS5GMZHAHOS5KEFAPTY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802299419	nfvdid	BQFmAAEBEE97Tu-KWVvf2vXHZHlmsbRgYUkrVCrDWQh5eV7j3i8zbo8TbJ_lNje30ACGvA5JKQs9FCPjqdO6wPdo3-VTXsRkWXlB98hHxqvQu6IMWuKWKJ5m9QXf4WwdTW91-pbjCdR24WUeWXo2ztcj-smmuqP2
+.netflix.com	TRUE	/	TRUE	1811349550	NetflixId	ct%3DBgjHlOvcAxL-A_Cx2e60eTg0f-zvAIXABenrYOwxt2IXctKtAhgYKxWX_QuFYFdIfffJl7bhCU_U1TT_E-YWzjUf56ormxaf_nX7S_fhG1cjUKJCCmwQLTPN2XklUymOzHF3yN3eUECBcySJzS85i2ghJLDVlXBmxBJCWDHAL7EhKcDzi_E9cjML8vgzw4-4SloQlC40XYVEj4G2oZ1_W5ov2PAL16Z8V0FFi_KOP56dBfzTdvXSS1k8KfLQBDD05Rd4HAZy0bHGb6siIrUIJhIZkfRDlyI8ebDns3nOKRyEenNiiRW-1ib1MtXQoC7w3QSRCT3maR5jDBiY500ZFN1PWgDLeT96LGfj3LpU1w6WMuPEslehcHnXZ96aPhX8srJkAc6l5R2W-w-SJX3ugiW5g3_tozHcuPWBsLDEzXPj7dX9DoYEit4IARghdpMkOvmkHN7zeKq8I78vKITOxazIqg7OLoxhI7jNAqL0A_uatcvL5FIKBaYnM1FK9HcvOl4YrQD6W_wsR8oVR_a5yh6znYWBCFgYZvhf2iEMwy5ccI2fPfxEAuZq5jIbWLK4494d4Va8jVtJivblUk2DZWQkEI-NOwHq95NvvSrhc0BZLOn8pmV1sKgNTbc0M6BAk4Jbd8AKdLnRmH5hvRMGCFJcQCxKw3_-cMYisS1gLg1tCYmkL3WLIRgGIg4KDMqnfLCcwDbmeFqRPw..%26ch%3DAQEAEAABABT_R7jRfyxxICre0Za8pta8u6j7gXiGW-k.%26v%3D3%26pg%3D2SGMKEIFS5GMZHAHOS5KEFAPTY
+.netflix.com	TRUE	/	FALSE	1811349552	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+10%3A39%3A12+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=423881bf-54dc-44e3-b107-beacc4860e97&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=MX%3BVER&AwaitingReconsent=false&crTime=1770763455563&prevHadToken=0&isDntEnabled=0

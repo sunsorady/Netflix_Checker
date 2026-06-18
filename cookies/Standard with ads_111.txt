@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jamir
+– Email: angelesjamir8@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: marzo de 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 2997
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $139
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jamir
+– User GUID: WWOQS65HVRENXGPQWBTB44FLXA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807668909	nfvdid	BQFmAAEBEJNMzzPdyQX_4ny2qOh0_K1gCoZJ2khCTqJ1GIjWd2Tud7df6EVtXpnmKaU1-OMRj9DJOeufNe9VXHE0NQ70XYdggDXFiuz1Gh05jNcOeVrdyGLKU2zekwhHt6qzTMuCPYMuk_94YKVTJS42Yx4VSEwj
+.netflix.com	TRUE	/	TRUE	1808780056	NetflixId	ct%3DBgjHlOvcAxKDBHyFJfFtOzwEbncLPZ4d1j1DAcNBo8Kz2FHCGqKG45DKAzHvHZjd_qz-D2w4JFZFBXMNv4l0jieYccH3ljwtV9dDszz0WArtAKRIQydZ4qy_4TdulD1z-x7BzgcetRLFIkvAzi9srSlXXpK_VHbDWLbcCv2-6iR6EB5ULrALSRx5sRvC7MmOZ5lQklicDmovjbZVyRwfg0LEITCkEn3Ivo7x-PqkVxhVvqf2Ca9e9LNHsz5GvlV60xf_TnUNZNUjdgghqZsoBFsmCWiNbRh6k-PoOLdLv66Sp5On17FkJ6IjvAPr5BKobOiayL7UM9HNrmE4ksmPXbcwjhWuP3bvmLaxbVJDIrpuZ23uAHFibkYrIdaPHOYMm1Urb7CiNDXCqtxP2T2SEP69K0TiVanrmEmJe7wS514nJkjoBhNfzs5DGpA7sCKX4_3sMi5m6g3l6Y3k_mz6GhX0nTrlTakb0NVPiOwr7Hcf8IoOBbqeGkSVj9JMbSRuyhzZdcmxZ6bi0SJnQYk9Qv7gx4MXZudeI53ngqhf2MzzAtY_xO51DYstsVpOLrevqNSs-b9KPk5heMDJ2LsA1R0Na1RDIejZ8Cm7lHGKengHN1X3J_5c-UoxyB6kd45jd7_0AKu_DF3UiKnsm0X1gyEjL1wRrGHcdfhkLDyuisefCAkBDuPi4R67g1YsGAYiDgoM81pGQ0HDRhn-BHOp%26ch%3DAQEAEAABABQrcreFh8XEc8_qxyiYPaqyheJ8bzG0ZDQ.%26v%3D3%26pg%3DWWOQS65HVRENXGPQWBTB44FLXA
+.netflix.com	TRUE	/	FALSE	1808780026	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+16%3A53%3A46+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9b6af666-2da8-4068-b400-d0b7d6e2bfd2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&intType=3&crTime=1776132763035&geolocation=MX%3BTAM&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808780056	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpUyF-pTtVihkSOKwj3ugY-mJQiPBX5tc.%26dt%3D1777244056330

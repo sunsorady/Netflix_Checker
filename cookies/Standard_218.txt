@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rayanoo
+– Email: Alicejb0501@gmail.com
+– Country: BR
+– Plan: Standard
+– Member Since: February 2024
+– Next Billing: N/A
+– Payment: AMERICA_MOVIL_B_BILLED
+– Card: 9322
+– Phone: +5511934841828
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alice
+– User GUID: HZIK3FSQIBCONP6ITKPVQYU5BU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811775399	nfvdid	BQFmAAEBEKKhQ2VGQWV4rAanHNkK03dgYO32d2cXV--S6E9uEO_Wz-9GdKFAUTc906foLxZNEc7HuxQQS3RCykcQUaC29vHWlTk_vbpmfipXvZaXWBDtbjhwpfMFDYMugOpbMjDjHCQ4KBdmAd6FgGlNoRT-jwts
+.netflix.com	TRUE	/	TRUE	1812073393	NetflixId	ct%3DBgjHlOvcAxKxAyysksgcAteTt63jS5We6CGRseXqUS72ATEGTqvhRolhmiz9t8vfUaMeI4xTlrrwYm6UGsoNO1TSwhzKrhI3dSKTVqTG5erL2cC5bCwss3EnRcRhutJ-pQ3JznTilQOdpAy0pyuq3zwOiA7EKVNZCS84Ap2VL_OM9kEvkshViQMIiDRjK1hetwSLbSnH7SHby8l6ATzmysVqmP3USLzzf-PXAcR7MszQFLg4rahrxpNvZqPCdtM5b43sGSch02oIP-qY31i5c3OPZ6OvPovI74mPlTbiVoHodrG1G28uVb5UHue3GPggAK8tbFrZWj4Pawi51MYaUXftjGeGrTE7w5wRetWJ_9oxxmI9n7eZPmms8U941cZVPGeAfV71QwHbttLgse9R0f_lioVzoMMPw877UDoWr0oSyhsJXmRNSv1TrC0R5ZAfpsSHKZc2xgAiOQMvVBaSD-jjf9K-8Cu6xzSwTBbQayEGBnYZj7ibTEHK1eKrNZbdZ43kD8ZtoqYmfMlXgVM4lxpeqAIiQ5Ok7Zo82-tXoauCkmGLp6MlloDPLGA7ylldspQ2MhByZx7ejncYBiIOCgyOCvJZJM_kyPCHO0U.%26ch%3DAQEAEAABABRJ3TOlY_bkLWIzBT1TWo1KLiKhLCGrY1k.%26v%3D3%26pg%3DHZIK3FSQIBCONP6ITKPVQYU5BU
+.netflix.com	TRUE	/	FALSE	1812073394	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+22%3A43%3A14+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=18b2938a-8413-4970-905b-c2bc6d703977&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1780239067251&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1812073393	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQzLX5o9ePwKCppfezp6k0MKSzbPsDvuhg.%26dt%3D1780537448000

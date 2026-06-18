@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yorlene
+– Email: yorlenemunguia64@gmail.com
+– Country: NI
+– Plan: Premium
+– Member Since: enero de 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 7741
+– Phone: +50578723390
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yorlene
+– User GUID: U4UBMSUUDZAJVIW7FUAKHCA22Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811210286	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS6Feoqv5CzPVGoiW42josqmXgsajjwN10.%26dt%3D1779674294743
+.netflix.com	TRUE	/	TRUE	1811210286	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA-g9auDrZuLyGCZm1QzIPLfvTxAQsdlp2uVwnO46XI3TBoT7jgiMqxDgHMjUuXnvLinXf8F8Shnl1c7xdWse8PtqIViaCq2i1liVqihx64vMIbn7ANa3P8YT-NOdbNJtQvgincZ7ieY6zeWZRexnDhomJL7xYz0bftoQ7F4Pgcx6wEku3SgNupcUFrnNSgxihyNNFOrorNXHuLLzbZbmUczFuaTKcGqK1-ctMqLt3KUCGKilHgUf7u_KuPEJ6bLg8NvdxDTMEWOPAPG9YoorILKURj__E9C1w3AYh8N0EpZKVKzbtExYlC6vIHGA5Hl3Iq_jDFpRa1gpLjMnBmNF_q77elRcLA_Z81Ya9w-2HF6RYq0z3Put6mHbI4X3qR7D0wPUcXxfGhU-nG7U4h3aRICoNCyBaPanHeXKPsshYTfXgQHCsdYywGjHrauLFfABUgQTHZilLs4qclEkesMUalC8a00XQTLv13l-oybDzpf2GA5HY75By-DkS4VDWvqjsLnXvyRHZTDIyCLZa5P-ktHCK-wblBgGIg4KDKD1zoDupgew1BPYuw..%26pg%3DU4UBMSUUDZAJVIW7FUAKHCA22Y%26ch%3DAQEAEAABABQDeIE0eBtJzFvHrg_-LULudZ4b_VYcAMg.
+.netflix.com	TRUE	/	FALSE	1811210273	nfvdid	BQFmAAEBEBWdaIIq4YdFLtIcdM2Unl1gNjokepXaHPLnVIsEeZ02wkvUp4Jy9mRQaGR3pOdBCwZY4UTgTXwIUZ5F_bM7U6Nuk719i_nPq3qP7dvU8IAtljsIQz44m9lGhbvHME4b20IUchhAFg3HV4CWwybALeT5
+.netflix.com	TRUE	/	FALSE	1811210448	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+20%3A00%3A48+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=54057da7-f387-4b8b-884b-ef2a93d53978&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779674243778&AwaitingReconsent=false

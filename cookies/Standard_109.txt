@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Clement
+– Email: cdelagos@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: novembre 2019
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: 7612
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clement
+– User GUID: C5QVRHFNXRD33MABXME4YLQOYM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811793594	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+21%3A59%3A54+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f13d2e0a-e6f4-421a-b615-ad87491bf1d7&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BCVL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811817192	NetflixId	ct%3DBgjHlOvcAxL_A2ciq5o04fuVh3wk9H7P3JGfJIopu7OJHv91-K2q5kxaSrfRAZ99wWtvR0MU4D9MjljufOdmY9-umdobYuN0DiVFEvRf9AhCIDrgEIzoE-WbxLlbOEjOdsLa5BkaEHyksfsWFHfTKNfYEFOTZD8-wNWg7ycwpCbfalNyKrv_yB7sC1tLC-UJMzAdyEXRcBMzKSPngUbQjHes1AifYpTPk3h9kLWPfhD3RpIjsbgSsGqL5nW1QqGnKXKDCQQiBkKb08FBinQ44rysDG49uaCfRIH0SALwZfdMW27dkflHFUm4sfSjUNC3DhUpLpo5U_g5sI1ZxzmGkV_krM_5Ntrx6h9WutIU_4GA-XdxUl4zDzP0Azr-5lQvIffYvy2L-GUbYapGkUD-SabmxBtNH9peH2yjYNihQHey7xrDFZwE7m_NuHMrgJYQP-l9GgFnq0d65Y4Wm-_eJdlif4Rinz1cifMFag6lDfJvTg9Y7RHgbGMXZLWcXkyNxz2V0rx7qIerqILHKqYlE24HXWm3hXN-xn9esxTeI0Gwvgj6ri13WJyvW1h4yJVhSt-viQmiUcVBsSH2_SpeHJ2P-UjCKjP0z94NJjk34NYqjhH8lydRXIRHvUIRbUMe6YIXh9hIevriE8JAt39ZF_ofUcD62xIhp_kidjXamlrrmLT7jocR0S4YBiIOCgywh_ylzhnf4A3OuP8.%26ch%3DAQEAEAABABSftyRaYmPOZiyI2ZwuWVgkVMr794uUWQM.%26v%3D3%26pg%3DC5QVRHFNXRD33MABXME4YLQOYM
+.netflix.com	TRUE	/	TRUE	1811817192	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSlu0wouci9Fk3WHxHRJiM5HSGEnF6vPo.%26dt%3D1780281193627
+.netflix.com	TRUE	/	FALSE	1786155423	nfvdid	BQFmAAEBEIzoX5_aXbyrTM_hG0CppfRglUiTFQsMs3-OJtJcIVOrS1tG5qzzLVSoEicVoCmHsnmu22h2odtclYStXDxg615M-fzap8Me5P48Qm5wEnQOKbkqydVNkv7JtjAkSy6dp7b2HjxxScrw0uMY2Ip38s3p

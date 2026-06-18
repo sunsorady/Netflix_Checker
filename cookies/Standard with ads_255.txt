@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: toji
+– Email: caterinabigi@yahoo.it
+– Country: IT
+– Plan: Standard avec pub
+– Member Since: mars 2025
+– Next Billing: 2026-07-02
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393311102192
+– Quality: HD
+– Streams: 2
+– Price: 6,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: toji
+– User GUID: MC7Y366IAZCVLFUQIBWQ665N2E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798825376	nfvdid	BQFmAAEBEHe5nZSsdcTZ9AUKfWuMDEpgnyLb3zwKNuR2yepn0wl1AHvUf1Fe2I-TjvIAMKcYuXtQNMvdx4jF4AsVCLOo0gt7gdtc1PcEmBMie8z0Hurj3QsqK5gkgEkCTtUu0kK5ZWYJIc-qPxEby7_6hoe25nGf
+.netflix.com	TRUE	/	TRUE	1798893850	NetflixId	ct%3DBgjHlOvcAxKkA4htkU4o_C5q8nKKo8D-wV0wYF8Qc5z_GuvNnsWRFsNiyp6HqmAFmX5uavyZI5E3CYHV0opaeZatNGgvK0LQtYmuPnS68qjW8S8vdM-bLWYO_eUB5OhntQ9OQTwCpg9KFYsTtKrrvGmohmmv2D5Ia-H15cvgdmX4GVhOC0TI6TTqe51M_nVti4VkND54IMxp8LRwql_kdKy7l-Qxz3m8UWv4miZGfKxJFmM47YavQfBqH6TL5-CDkyHMDcf9-8f1-BxIE8ZC3fH6FvAYTsVTM2vEzv_L36w394rwgSQbBspEKNGl-nAqWU2bGrfTKbSX-Er7Vf3egQveBKO2fyVhWt3OLtbYHHzWm3D6x0JnXILQo9e3kRt-GWAmhg_jwJkn3O6RMmSvovHiXXxmKW6REShtpCcIE9wmRewbf7cnA7os50fysSYGmlTvF-Rgxbfax7zRdYhLYGkUgyIzou9A_qEifH1EC8lsqcaTE12cmz85gs2NP7txnk0MYETd_wc2d7mfSKWtarme--x3r1l1hOBjARMy8jS_5h5rU3I59YxUbsg8nRgGIg4KDJwOpoCU-cUdkL5pGA..%26ch%3DAQEAEAABABShpERnOyJKNqgwOaDi5S2Hq0mTTYWORug.%26v%3D3%26pg%3DMC7Y366IAZCVLFUQIBWQ665N2E
+.netflix.com	TRUE	/	FALSE	1798913620	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+19%3A13%3A40+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=713116b7-8821-4ad0-80a0-2a1428e3deb1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B45&AwaitingReconsent=false

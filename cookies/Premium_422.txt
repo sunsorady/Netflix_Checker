@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Karol
+#EMAIL          : kornelialw@yahoo.com
+#PHONE          : +4915222581715
+#EMAIL VERIFIED : Yes
+#CREATED        : Januar 2019
+#COUNTRY        : Germany 🇩🇪
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : DT_GERMANY_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:05:23
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1789338345	nfvdid	BQFmAAEBEKhHiNqrnMAneDgQ9aeB22FgpDs6_kBf2ndWkS571G6JcsXDeqAz4CHpGLyCDvfwXKB5cOqjs4RtmdDjiwhZlLDrCvf53509I5BXQxLF4_exes3hEx7yOoXUtttmHU7GH-pyBFhkBgMpuUl-pYDLCfqP
+.netflix.com	TRUE	/	FALSE	1779271165	OptanonAlertBoxClosed	2025-05-20T09:59:25.827Z
+www.netflix.com	FALSE	/	FALSE	1768057801	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1794069684	NetflixId	ct%3DBgjHlOvcAxLoAzjedHARWEwWTqCL1Ur8i6Tu0Ere396O9kto7gqscUjqbBtB-x6JxaM-kKgpTmQb3JcUimiOdlHMx9UQ9srl0dBzXG87A4e8wJEuLTcJUaPRUUrTDZRvO-RVwAx7oMirIhRKsm-K_1fompweSW02D9y-F32qjDbWjz9bBnHflnxcTpnOJSNqoCOq16GYr46qt25YL438f03g_2P7iMv0mTODzu9EqL82WIu3Z-_0KgpTV6fvbf_13WYqPOakM91bD5YWLE-ibZkct5z9-7mdTW_fO_YeC44GBuHjvcLBHs6dIwnWbcLEOrajKAHhcGOJJH--hwAh19VJ9sYAPl0A-i_-CMYh6zeeNG0Fr0Dt78aiJkU54JB6D93weFimVXJ_l12JDP_kpOI9v4FoBzvj-t8d0te_JIWHVEEVYCyLGfbpzK7qXG0NuU_6qjZfZHQwVVMphMpO8D7tIDklpKfijre4sznA_Feam_4gNzHBGGHezn56hDcRTc8zC_Ld4fGhb286RJlhQO66VmsJCIbJOI7KZm3fOPm9S3XNTPbARYNhII0gKxue0c93peE1IbigFZPCalANOhBCJq_XgRxzgboIgWJgU00HRDP6R1zQIFv4a30dfSxmRgzm9ZfdCHc0z87P4N2LNEk4GAYiDgoMDY52b-zFZnLgsCE1%26ch%3DAQEAEAABABRT2wLEBjMbkYz_Jcs8y-4bw8Kl8wGkkQ4.%26v%3D3%26pg%3DNUPRXQSVT5F3LK4GQTKAQXA2FI
+.netflix.com	TRUE	/	FALSE	1794069686	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+07+2025+17%3A41%3A26+GMT%2B0100+(Central+European+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=941902bd-cc22-4529-866e-6d119678b887&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=DE%3BSH&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1762544484	flwssn	faf29d00-9518-4dc5-8e49-13cb3a828919
+.netflix.com	TRUE	/	TRUE	1762620084	gsid	aeb170fc-120a-4ec0-92a6-e0fc1600bc95
+.netflix.com	TRUE	/	FALSE	1770309684	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1770309684	netflix-sans-normal-3-loaded	true

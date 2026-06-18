@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gilles
+– Email: courtoisolivia@hotmail.com
+– Country: FR
+– Plan: Tiêu chuẩn
+– Member Since: tháng 1 năm 2020
+– Next Billing: 2026-06-18
+– Payment: FREE_ILIAD
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 14,99 EUR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: courtoisolivia
+– User GUID: PPWOPNSNA5GJVDVMMZQFXL5HNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBEEiHuBbCQ3NfnNv1pX1w0jxgJeCfQ4nKmUGAZqCrzBMCJVM-tOncZSGlNrGDwyKS7znGP1C7SPDHUG2ydUHnwDsBzca3bEqZjypQcRgOFw1beAtLJJxCNdMOdrz9uHItZ07ul-a9Y9BPlpf4SjqPDseO
+.netflix.com	TRUE	/	TRUE	1792532607	NetflixId	ct%3DBgjHlOvcAxLpA8As95bZpPLECCIjOvGm-QhYPZOV5JKAkL9lYVkZXDP3fIlMWcOnJZ3bupBGNUtLI6LQMBmvZ7NvuTHhbEpxNq8WsbDQJzAFtN6uzoBe5NdYSAhYi2rI9v7wagZmDSfidmPKorupFRLOoLTTEi5TpU64o9pHtYHQt-nEwvozyxRq46lQB5cgZBfvQJho8iMx6r3rL_hIS3DxXLR1b7rPruRwiqyXMJKzD8Dq_WMJ85pcleG2_i4Wp3EP4d56Hkg-KvE6GkfU2Ay_sqFCvDAx7kuxtDgOvS9bzhC9NdIBqWVA6pxF6cQmsAdqd_A3n3mHJmIVqczhJjEfhM8fK11Co6PqvO-0poWFyyYtY3bKlS29GHbmuoWQnAmhHHOC3Ox1JSNrAO4kC-iy4PFrgnZEr1PmcJweximwnN7YK4Q7KJpmYvGa0aMEHJ7cBT3y0jXGHpsP6jPSUpNLr4sajxwpjT2ZGwkQxe6766b3hO3cnQzSZKOhf9rEungJZKcs5e9FhjdcHibBl2fDPzgUW1gwQC8jHflSSks8fXAJcc91gIxBBPvwNPXyv2ZMc6Jw0GZnKnWVyM9HQfNRdkooUMBU2aV4TuNDQM4CU_9-QVfWaH4On8VmlBSf_XcpmN-yflI77WbxXIl3Riti5hgGIg4KDNKdy4-_qlOPbcTWew..%26ch%3DAQEAEAABABQsXtNmpM3JWIuNZSGp9Csi6LmABghQaHI.%26v%3D3%26pg%3DPPWOPNSNA5GJVDVMMZQFXL5HNE
+.netflix.com	TRUE	/	TRUE	1792532607	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfW31MAgQvzhLU1orIkPUbYmBkqKCSe4I.%26dt%3D1760996607336
+.netflix.com	TRUE	/	FALSE	1792532614	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+20+2025+23%3A43%3A34+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6aae1eba-f97e-4061-9c13-e9a25ef8707a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BIDF&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paula
+– Email: paulazilic@outlook.com
+– Country: HR
+– Plan: Premium
+– Member Since: rujan 2024.
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 6000
+– Phone: +385989979449
+– Quality: UHD
+– Streams: 4
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paula
+– User GUID: CBZEGHPCGJAHJPUAIULJ22NZ7M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799012900	nfvdid	BQFmAAEBEO4DKZaGaAtOKAvuU8tUyhtgrn9Y-K8kxJXj8CQ1HAgRv5RxiZFOt6Fs7KZQu4owQSGphukecIAXEuGtfeaKwvZb4yR-3Ih8AtgohDMoqR6RG9PioC6T0xazu-zcWznUMXCBvRcl5gs-P1rEXyDMlYV1
+.netflix.com	TRUE	/	TRUE	1804112882	NetflixId	ct%3DBgjHlOvcAxLkAyun6twQcZUgiPX8GHarir1TZAd9jRA8sDPSqBDqlGCASRe3HxXTAk1Q0A_aQ7sPfcqeDEM984kRhblI5GddbuiePwKFp2Z2F4ijK8lpx8UQdZSxyBiwC5Oijd7S9FGg8xUF1GYTmegLgyOLuKTuSIJz2vs3qgCFVxSRmRoAeXyDjrXhjUsyjI4jgMdfvxDXJNmj8nTXOg6kJ4D_7zYlsDx7OSUPKK5wW4wCtIyBT1tmZphLXdB4mFpnYL9RJOcN7vXp3linptIEs89qgyvVWBf4F6i7UuKissA2rZC_EmZEOpi0l1tfhZwqFlS4iZhpVb2-O3FAGLWkF9ZIIvjJoDf_6-4HloAAn16soIElU0P0BFtIJJzbE3IfSghuTZxHnUeyip7b5JpAjiDtthpwB1vpmmVqCXdv9Hi-IlnG-IStuAk_knQQ_zZO0yKnJSk9Yu989G4iPzcd2E6M6PnN9lMKaZ2kp4G4MD90eYHYQAxlXAJzAjCrnCRqG9D-r5KHAaDe7tIFULLzgX3Wei2PV62Lshz-rwlB-PsRSqtybcvEIeb2JsPL09PsTboMGEPS-mv34dCfWc_WpmEjY_hh450BHgQpFckMD3H3VxUn1W9WCdBDrIpeg_0pk-1T9EQWR4LOfPcYBiIOCgwTfI6q3igCzJoAmNQ.%26ch%3DAQEAEAABABTclCYNVag493u1AYM2uLRAcMHfY0OaaWs.%26v%3D3%26pg%3DCBZEGHPCGJAHJPUAIULJ22NZ7M
+.netflix.com	TRUE	/	FALSE	1804112886	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+03+2026+23%3A28%3A06+GMT%2B0100+(srednjoeuropsko+standardno+vrijeme)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0f9f85f5-d691-43ef-9781-98bdd20a3c8c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=HR%3B14
+.netflix.com	TRUE	/	TRUE	1804112882	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLIkJLKXnK1zuLjQHXO5eR5KNOdHK-my4.%26dt%3D1772576882790

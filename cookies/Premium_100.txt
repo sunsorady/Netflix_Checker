@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: konstantinia i
+– Email: neataxi3@gmail.com
+– Country: GR
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 0429
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: EUR 15.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: konstantinia i
+– User GUID: GOAAQTQAFVEFZL5C3GZPEZJVNY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEC6Ms1RNvAqnn1eLwjvXpb9geMpAnPKdwFNCOc8XPWsKRbU6llc_FZh-W17k30UPQht8xvOxjMDB5TpeNlmk1_2r9BdjO4w-YLRoNzwMyCiIFSllDmPxiYwz9c5MV3KfKNOMVMfnQeTM0tML1RgCQ8Qz
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+17+2025+01%3A37%3A57+GMT%2B0300+(%CE%98%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a644736-5f7a-4906-942d-99cb9256587a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=GR%3BI&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783623127	NetflixId	ct%3DBgjHlOvcAxLzA75yHQhrl6Y1liOZq7TWtXBTpYoQSsJzY5cMymHl_X4CZyzGqFH6THYeAKzae2fkh-OFDww3_UASPM8qwjI5ozXqjcwKjLJDOMCimGXL3q5FPdY8b2VkhRZgha7DVgBnIsqNfVxhkt1Ves6xtm4DlHrO5TBwwcHPSYruEzzyrGNB6XveD60htfP8xPTIiNZMup8LJMt51BdfPE745lPiR4NdSWKsHzeGcYKO6Yd3d0QoAym3DqSVG3oP7smJ2ri76sq-yykbum73aUQ4LIA-PA9X22hLQq-2ocssyb8oditL9NURFYf7qTL9gBMcYjNC1yqJgXAYvEBqnLoCuDijAK9fn_osF4DDhB_Zws-MgVtetIPwAyb5PpyAp6ixcyC_3PdLJkurkDRDlB7Zm2SK5sWcn7KTcr-5E1pHnRHT2VXw_jF20i8sehSIFBlyQmKT7HUnVxcpmOsapuiJF7GgTjiuF2X6eikEb2bcTX421fuhycj_CA0DPWP-HHdbMmSHZxLXbGHp4qZZ19UQMsayPrji8Humm4sZJLkvnya8sahnlkJxE-b1Ub7XwPJDlT-mlVglFT-sBjYkbq6Ud_yE2NJx37EuXC4TGgP1GKVQisn5X05rCMQnrrYRy_yuCjoL4157e5Tl-ggne5BuY6SSpATDmSIYBiIOCgyApOjIkEhgde7tk3w.%26ch%3DAQEAEAABABQo8T0d7CgV-NhYaOvXM5UnAelg7KseLX8.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1783623127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcU7OCkA6VbwfLZDOF9SNLeCtDEY0ie78.%26dt%3D1747742480559

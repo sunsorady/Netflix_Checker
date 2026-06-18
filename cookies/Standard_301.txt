@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ummi
+– Email: louisafyfield@hotmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: May 2024
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 5856
+– Phone: +447474000012
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ummi
+– User GUID: RG5TFKXYIVGUFPIPOHZFYPZMYQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796327479	nfvdid	BQFmAAEBECtaB_BdKt7RrDSGq6Ki9MhgEq_bX5SnnGMfwJRceEpogHgTQvtX3SkHvh8ce3fbGhpOpzCYqnj2QPwZ-8BDQl0udZDSdSuNzByV0IFNt8uswhQ6CU_P29sB5vQPhl5oIASQ8GegsJlYWWGKlJC5l-Xx
+.netflix.com	TRUE	/	TRUE	1811855791	NetflixId	ct%3DBgjHlOvcAxKyA4bLtG2cr344w0KP83z76gxa-7gHtW212vFYgh31mZK0ah8854vipoKYBxrrjZmQqOxWyi7MZZICcUWjVO3UXwhGe1rwknvq1gTyyUxwiS8AcW14Y2Mjy2zidWhBykgPg_wEZH4Ah2XMVJkaC9AzCeJ49Lib8Q76iVLYBbUrhr92lEYRLo5xAENfZKlIz04_limqSVtDV0oM6pMCg4aFBXDriRrtbTzA1uedbr77gsOef2uZ_O9sXErJi64Whqx7Nq1GiuoCKDMOmFVHgA9HlNQQZgoBHbWrBiKGzXRf11FvageJXr7sbetx2aYHkUqtaPRaaf01ZgpcUuYe08B9g_fcPEa-L2PoON3TcL259aqKNRFMhn7Ipn9aSfZncL-vyWeSiiXvul9ZbBEKWGyfSscxY_-JFV4AoBB4dmZiHkFUjVP0ZmpwfbnV34cOHy1m-Iw8W2BaW6pjtmdx_9ERq_M4Kpux1lczT2SOIaZk28u6Vp1DMCEcuhv3gTG_yW18o32dvGUtfk6E6Ujk_hPDrGk5RXhc5GaigU_2hZwVGEtDXBhrluBWoT4_fob9E_gWKggMGAYiDgoMWYwlddrbJAhvACpZ%26ch%3DAQEAEAABABRU43udIm78Oi4q6oDiAF6zkhwH5yOBnWc.%26v%3D3%26pg%3DRG5TFKXYIVGUFPIPOHZFYPZMYQ
+.netflix.com	TRUE	/	FALSE	1811855800	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+14%3A16%3A40+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=003d0afc-85aa-4b1e-bf16-a448841d181a&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769119357321&geolocation=GB%3BENG&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811855791	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtfrnTLLfVnONQEkNFwh8golAV4PYbMyE.%26dt%3D1780319791409

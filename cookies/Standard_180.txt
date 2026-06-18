@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shafay
+– Email: zahid.rasool.gabol@gmail.com
+– Country: PK
+– Plan: Standard
+– Member Since: May 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 7826
+– Phone: +923317360858
+– Quality: HD
+– Streams: 2
+– Price: Rs 800
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Baba
+– User GUID: UUJGJFG44VATVJA3KRXHJMOEPI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798165939	nfvdid	BQFmAAEBEIa_cy2Ng9zK5eAY8erSQ1VghLd-HnKwa24kup1owH_hdhwBwYt2x-3VB0XFNFAIP5P8BHJd9lrZLvPoNl65WULsvx46aShsF22oG0L7flPPb-LUJwggs8iL12cFlBSOTldzZOwoFlqk0Q87omJ8KhdC
+.netflix.com	TRUE	/	TRUE	1801366673	NetflixId	ct%3DBgjHlOvcAxLnAyrUXNLVoQYX1950x2v9POwBT0a6h1EpbUgN1QwY_bjv3KC62qNiegxaVEHHd2X5OAqjzGS_-4yB9MfoAZBS-G2NKX8gFPi2A-IZ82hcNlQLX1i7qJFpsgLtepvhYYe9EpjCeqgTOZ4rzg4_CGD5k8RPvnE4cgIQBfq4s2qlVrOQsscKZzdTrGD6yrtJdvKmsri71dbR82pgohm6QbuRQj5z_eFms18uix-Sf2raVT2EPNhRL_S-kDp6KtneSI6mJiSAEYGkgwYRCHdIE_eLWQ5EmOb8bV9K3Qga1KnrHRs-2-ga6E4KLC03Z9UEK4D3-8lky7RLKQLLLjHzuywAxhj1Im34bPR9Ri8Cv7PI5FII7SK-edf9kpHY6m9hRJSvzEf33A1rVGeRpLzTvVVJXjEl7U3OSgtSu6FFDgQ4ceQMTocY80-AaZYHhbonMX1T1eS20HlXhdSHoSggX7mudcTTebbs-Lh8bzAjfNV9GEw73fXxb5Rd1xG8lzpidR1kvTJYDs6XUeq5td_nF5kLut8mQUhsT_NQ-tzn-eGwJ4h6sN28P9nYv9b2TgZ0Gp5xHQjApR7va4YohU7Zp0vdvfGQYJ7b3veXrA1YiqstldvWV4RYOmbqstZFZkg_xzQmVKoHmjoyxiUYBiIOCgwjQOoqxs9zN5DH118.%26ch%3DAQEAEAABABSR4nvdBvgVAbTbglL4bTehw4ajAXJtBwg.%26v%3D3%26pg%3DUUJGJFG44VATVJA3KRXHJMOEPI
+.netflix.com	TRUE	/	FALSE	1801366718	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+31+2026+08%3A38%3A38+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=350dec3f-e949-45ca-9ce5-a98e067f57ca&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

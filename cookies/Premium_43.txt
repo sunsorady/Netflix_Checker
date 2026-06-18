@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ndaa
+#EMAIL          : noelia1982bsas@hotmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : julio de 2023
+#COUNTRY        : Argentina 🇦🇷
+#PLAN           : Premium (miembro extra) [UHD] [Streams: 1]
+#PAYMENT METHOD : N/A
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 22:22:01
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1781491807	nfvdid	BQFmAAEBEA6PMuEFd__7CkK6fv11t7JgzixHibAzGuIJg_8tJ0gFGrTDL7oWLOwaCzmitx-7_V7n__Z-Mx9hJiJ07P7oNQdgpcKLDWdPvG9KLQkbWgrWYikexq6tF3r6e9iZwr3ZjMqM39HjfhEgVToTXf5pRq9s
+.netflix.com	TRUE	/	TRUE	1794970574	NetflixId	ct%3DBgjHlOvcAxLqA_HGcGrtsNAErWO3yEzz1ZXHQcFrA3ZLI5b57tmYuRi4duxVNiNd6EA4rykdjkEHQBSf0Tt7UbCgbj3wnhMwecaW12QDpU_klnenyG2cWJQryeEq22eJdvcpx7ktBZezhkfFIkVtPcl0ZE3ZkkU04M27VGnDmy7gHWe4As1y5LuD9tLeuwXfIGtu_323RwS9lWeJzxn9nv8beS-fJ0qejksBq3YmkkhBfF6qArq_kKNG7CIibnYwOQc0GZiLp9nCZ09-IUPR9cVmdhqdeTKRcS7DxHwogKsNq9pOibB_dAk_FwtSDGn-B2t2I1g_mpVAZnACxSXkLGk8efYQCSQzngMVDo_gDNCxLJyurUEcOlKzt74TwqmPWOPto6O8Ir3_IynGs-PYDwd6d9FIj2xxpisqiNqdCM3qUy1QPBfSJ-MUVU85OGZWs_8RoL2Ov-_eHFWK4p9RKpqJv8xaf1JEkL2kWfyPcRK54SaDcgvYvZfI0mWEa7tPpEVpIl7xBQ3u74Xkwr7Gyoyrbj_urfWJLcTYv3f_qYGwNUvPI2YXsv2gjMf-cZ9lpKhVK7zR_ONHg5UUmTwVEm2kEVpcjD9d2_C7boGPnIATfH3suV_Jog6kVX4v0PyW2ESh4eU9fH7QUHbmKsPaF_LmWBAYBiIOCgyLlGOdiVjlJjC6-9w.%26ch%3DAQEAEAABABRI7pHGbMvByIvIHKeQ-bDm4qPT9pMMEL8.%26v%3D3%26pg%3DT4BQJSSN7FB67KHJKLIB36QQ3A
+.netflix.com	TRUE	/	FALSE	1794970575	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Nov+17+2025+23%3A56%3A15+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=443a1f14-8a2b-4f3b-816a-1af037eabd74&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1794970574	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLjYAAzOBEAz4Lrg2xNfTAgWJM--5oL7s.%26dt%3D1763434572594
+.netflix.com	TRUE	/	TRUE	1763520974	gsid	3cfe6b41-781d-45b3-8e20-a90ed74db096
+.netflix.com	TRUE	/	FALSE	1771210574	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1771210574	netflix-sans-normal-3-loaded	true

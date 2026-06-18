@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Basilhs
+– Email: malliaroy_stella1988@hotmail.gr
+– Country: GR
+– Plan: Πλήρες
+– Member Since: Ιούνιος 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 0151
+– Phone: +306944999075
+– Quality: UHD
+– Streams: 4
+– Price: 15,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Stella
+– User GUID: AZUPO3YMHVEBDMZJZZPQBTKU7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1786386591	nfvdid	BQFmAAEBEIORncJQY2DrPtbbWwczq4ZgxlqoGUeWX_Ll9jgiy5_AB034KSLiK0N0Y9NdsQLOSNr5spKGOkgBX3j2qMqSdVsYMG5BzIHw46ZJVm-DwifWh_dQVdvjrT3YDlMFrKl7v1IWxAIZBy7X0DQo3SyRsOhx
+.netflix.com	TRUE	/	FALSE	1797023256	NetflixId	ct%3DBgjHlOvcAxLqA6NfFsvw_K5GEXH6fXujYReeSAg4Ay6SeSI6G9dOvEbrhHPPNFfNeedTD_yUH_zfWIbIu4EzdJefgdxcbcizpELN5LFpswtiXAA9UO5zZ0Q6QABNj0eTTNv2L9jqxuv2UU9IfH0NaHm8Kk5SN0JTXzrc_zUPxtBmrd_wDxxhLCmDb6HG0ILC8lDTJ_MNYMc_J67mGfGvmaN36hhRPWkzcjJcrR75x4AaqnZ5D7ocM40k8fvzITu5z0fjhOfOrE823L8L5U8xG3SIcJ50G_K6K2Je2gjltd9ArFm9Z-C3e_IHxbBhnZl5vxzlOV-I4X4Yc__aqybW9-EtTqqwfxR-k7RIWSe6gU2dzz0sSLUTVOzhoPQ2WaoSzkMEMf8-X1f31sygQ140fagjccErTSp-anyVx-MN5PQ4Yo6sQV0MpyQAa6m4eHkr9rfBwc31Kosf9uNiaA5wozsRfzzZYiC3l2ghs5ta9N8x9m7_4-YO9buqQuzvUaEIsjcjUe5YyvBIp5m1bhj2WjsBP9zyeaXogEFryTnl_EtL7hPkZGcUjwwc4JQpTL_lNxmL4_8M5QAjESwBiqbFMpRxbbcUM4XEe2mUQnoU-mQzRpnFRFMmchtzmCpVr-MFo9gksoXcvRWZSo5mPgAVgNqINKkYBiIOCgxN2Av-KLkAMUCOeRI.%26ch%3DAQEAEAABABThm5YU107bv9u5drzm_A7GBfJHmbw7Rtk.%26v%3D3%26pg%3DAZUPO3YMHVEBDMZJZZPQBTKU7Q
+.netflix.com	TRUE	/	FALSE	1797023259	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+23%3A07%3A39+GMT%2B0200+(%CE%A7%CE%B5%CE%B9%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3f55d361-dfa5-43cb-95c2-0d7dd2a24cd5&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GR%3BI
+.netflix.com	TRUE	/	FALSE	1797023256	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIq6whX1kzmRHX5Q4A5vtaKWkJSRdAURk.%26dt%3D1765487254471

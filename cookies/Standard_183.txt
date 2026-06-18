@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Liana
+– Email: lila19092006@gmail.com
+– Country: SK
+– Plan: Standard
+– Member Since: April 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 2732
+– Phone: +421911297300
+– Quality: HD
+– Streams: 2
+– Price: €11.49
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Liana
+– User GUID: GLTUE5WPCZF2RPKUCWU2KPQW5I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801961637	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSIPgYGqRYveHLFxFMc7-C6DkJGLuYNlA.%26dt%3D1770425639041
+.netflix.com	TRUE	/	TRUE	1801961637	NetflixId	ct%3DBgjHlOvcAxLtA9k9B37lIC716ppMzCK6SoAHJkUAqeAEzdZHBx59fWmu0wD9g8ze6_JFaWyN_fkcPxpMDF-80nr2AP9tLOkygJkRLL1R_my3pyQiynb5mLUsYQN8hqQXO0at5ZeNu44JubRoXugFWl4LpWDqUKpBAxE5oG8W50FyCdMt2rKsget19tAxQKTkTa8MTe_tMhNfSHJA-RaOtyDwKpmcmjta5xYpY1509L0ABPGAfMwsPnkB0giLqcbIqFex5955bj4-sXEnLYJuP0WPVrktxkW51jWqMpblHXsOqjnLfuF9ciPCrHRPGXFjd_GANX324Lxt8e4jBP1ahKyW8YZevQP6Vk_QJtms2KbT4L7ulobsjeEMm_J_4sJnSY2cswC2T2mHttRdX7ohBuhR2fBqlDLh6CRHykbqv6E4T4U_VMGiEvll916uxM5CqPw7YQWbs8BeKZMrnKqhATRRhnESPpnhGNLDPnRCmcaeOiV4W93TyxzENEjmWQKaCiOgZX3ByP5FfyyqMwjC2aIlZTfszDlR0iULIshp9qgU2Gaydhnlh7rCnFn4ZukbG0HXz5zXWdz3GMRT8cTNkYXoAgfSK6iu_6uB-L113U4Clhh-ueNwAB0DYw5_QT_A6vdsBBHhADfByr-JSPOi7lS30leVPvgYBiIOCgyDfokyDOOe-UeWalg.%26ch%3DAQEAEAABABQVDhZOYZp2S7zd8kirf6bSJvDmP2pg-NE.%26v%3D3%26pg%3DGLTUE5WPCZF2RPKUCWU2KPQW5I

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: uhhj
+– Email: hattu7131@gmail.com
+– Country: VN
+– Plan: Dasar
+– Member Since: Juni 2025
+– Next Billing: 2026-07-09
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +84975766456
+– Quality: HD720p
+– Streams: 1
+– Price: 114.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: uhhj
+– User GUID: L3VIRAHIRNG7LBN65HLBM5ACKE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812929817	nfvdid	BQFmAAEBEIyOpj3v3svry17FSsr7Lcxg3_jw_m7jx4YXx11AmnUxFYA5dxAw7hkFkVrB-DGftAM6UxBVkPeBipChrD6o_BRIkFG82nMstoXohUxlJgKN4lyALI6eLmjUiRKR5HtBwRABOMiMRxxDTaaDEjUFkSOx
+.netflix.com	TRUE	/	TRUE	1812931347	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA0EXPJEtrqb-C1NzYIvobWcy5j7cjHswxhdJDFfCyyaAIbZRpf20vDiJJLI5LJqZ5IQJqGzIu7lG3PgFFYl6cNCYFIiZsAHmrZVmMipz44oTT8z5TEh6mf-dJSd4OG4NrrCmTycdoDcqEXdLR0Q8OR84YnOtaV5_fTNvDvkduxs5C0roZzsOtGZY7q3MLMbU2LabyqmtbIJsk5CcvHY1oLDaivIoFULmaXgP5TD3wg_8TGYNhhxmoDodgf8LmWKnXu6d2TEPyBAW2vN2lx6Eu2q3uq86fIlBK4sVqAbXPYRvPBFda5qnXeP4sq5bIVW-BuwVGkiixfM9XTcBw8aEXajZw1EjjD2sZ3mOkXpXnzQcKiLrek8PEwg_p4GADyF8j6jRi1_pUqaAaIEMhn8uSt9YMIKL4a5e_4PAnp2wyTqJ9cqVN0l1OwcOo8DHk0VaqW7cHyXxbhOXsKUyr-vibixhvOeQ-aeDwYbntpNYRiCANUsXxDACHnr7j3iKaJr8J7ZEcf4QisexLNAjSOgNuIzQsCgYBiIOCgxS6LMyUZIfOWCuJoY.%26pg%3DL3VIRAHIRNG7LBN65HLBM5ACKE%26ch%3DAQEAEAABABStc_TivootENxhcj1pcKSZoYAv-5MWrmU.
+.netflix.com	TRUE	/	FALSE	1812931346	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+07%3A02%3A26+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=86b36b85-cbda-4d32-a589-6402a22d9a7d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781395339502&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812931347	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT5pMtpRBCosEQHPknt3uMT9DD85Tgd70g.%26dt%3D1781395344810

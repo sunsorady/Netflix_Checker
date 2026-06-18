@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jasio
+– Email: olejniczak.anita@wp.pl
+– Country: PL
+– Plan: Podstawowy
+– Member Since: kwiecień 2025
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 1810
+– Phone: +48607716109
+– Quality: HD720p
+– Streams: 1
+– Price: 37 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Anita
+– User GUID: HIB5OCXUCZBLRM3GE5D2M6KCVA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1812188957	nfvdid	BQFmAAEBEBRAHlUT8nfV4idp-cr9ZpNgnnM9g0V_hFv15YIsGpXDBY5RChZ6vJErwA96gQNYTqYoWHniEvZQLSD0fHS2NUhbawL4PKlxy6SHM0Io79J7IpGt4iYl_evzd647_ykZbZFDxE3BVIjOgR4kSh-WunKA
+.netflix.com	TRUE	/	TRUE	1812325381	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA75hzGLHZHGZtrvd8yGcMwguYtas2RI0JKLuQSI8cRAYgCAWT6vt6LewKev3ncg3fIQ_5MSyonMwZ1kZVxtxRr3wr88f2-eE1q7bOwU-px5l35ftiSh62I-8Qe8fMI2qAP01Df9JZpMl74SkcOKxf5f3v7C-XYb4lRC-TVVDsBVBn76ZedtDx01k-lH6jqlYSmvIfvtVaJS40EhTC-i64u_z0wHKGmnnMuEEghLtAaXZyeQIzvUYdpQuBAwiQwWz7hGx4u0RM6BzfeN8CQLnPiA4fMeaQhhuON3_xnW9yA0-tGkQcPUhDmUGs9VWL1GEi6Oataw9kWVcnECe0swLJJaIzheiFikaJEOaNccQfbaXeF5gcGAronoz5SGi7yrDdv-iQjcWt4K59UGNUjdmZc7nNVe8keT2i-Tey41SwswTB0GudahRSg-3gBnumcvP5UShIdCC1HRX02VDFfkUfHdCX-z0BiLF0rIeERCvLxCqpZ-hSFVd_8Msmdxe9EG0MsCsC3gtyXBpexKLa__QEXx4Lw0JgNNvaWX7QBgGIg4KDH9xoflmKAUj5m8m9g..%26pg%3DHIB5OCXUCZBLRM3GE5D2M6KCVA%26ch%3DAQEAEAABABR1YCmJu1R-v2uhoQy8EwbpSd3zHsj5Biw.
+.netflix.com	TRUE	/	TRUE	1812325381	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTVvD-4lGY6s6uNL1XQHzqnF0002ypnY0A.%26dt%3D1780789381198
+.netflix.com	TRUE	/	FALSE	1812325382	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+01%3A43%3A02+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ee901edb-e870-48a8-affa-a35a2dc5e814&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1780523287351&geolocation=PL%3B14&AwaitingReconsent=false

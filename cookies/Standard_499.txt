@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: elisa
+– Email: elisaxim@gmail.com
+– Country: AU
+– Plan: Padrão
+– Member Since: agosto de 2023
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 4847
+– Phone: +61422870818
+– Quality: HD
+– Streams: 2
+– Price: AU$ 20,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: elisa
+– User GUID: SBJND3IFFVBIDG3C5YQC7KK4VE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799061933	nfvdid	BQFmAAEBEH053Vn33HS6EbH0YFLKXe5gmOPRI411W9Hroc6c46LN0hNObkDD9RxlCsQxB990UkpSgEr1JQhQYbruozo6Hu3hC3ocIOH6gvnDBV1j9wPzC_E1v4HqFqx2X2gxKdi-1PCibnnABbNlu15cf4Kk7R8U
+.netflix.com	TRUE	/	TRUE	1811234153	NetflixId	ct%3DBgjHlOvcAxKDBMofs45X5PZTCVb24ir5_CszUKP0YAanLwAX07LWV-YnIne6_D5Dv3zaWtz81AkjAgU6Ap9sRxYKBtvB34WnKP33mCkVHs7iY7rv58cpHeoEDKenSC7HWE2A209jIJgYX6i6KpEWYbenal4-Jo47fsQmCc0YXrdJDLlSXV5k8F1n-pz_mkVDKrSBxgev7KIjLw0mllYBNiUplGkRKO5tbqeYNrguGYaMAMi_IU6xwGJeZSEdKGK5ocV-kn-3CeE9iZbktUmEjnygVQAIHEanMWN4YWCEjnzIk0aIY1vbt_wq8u43xiJvZK8t6dUEoJ3r09teKqBERAnWZQozPdN7yHPRmMqzv9JhKz9GiusT8qBLIVbjsXZz3oEVlzdNhh-e0e4mw7NNAMuN4hsEvqTrM1lC5hgvyQoL1gJ44Yes0cxYIOvNzDuozeZUPA_tGoWTyUXFYBgjF-wja8hfHIzaPJy60funLtWeaEH23rBlIwwPMkKQPewrrMxJcCUygjUbPfAfoTGs2Vcf7ol8SrU1BqS_EhzgVnvP6JFCjS72qwxYq1cFpeqcc_hQ10XcACLmoNBCPL7y6G9Fpq-PhCJFhR6gtabFuXS2PvFjVY8m8sSqUFUGBN8zw29n3pFWuN1DAikuI-nKkwHBzEXqEbmPIzVMlirLIS1zZXoT0MBrFS9qVr-dGAYiDgoMBT1rj-xAREJv17u4%26ch%3DAQEAEAABABR0Z01G2wzXKK7msTafVIr5zYy88l6f4bo.%26v%3D3%26pg%3DSBJND3IFFVBIDG3C5YQC7KK4VE
+.netflix.com	TRUE	/	TRUE	1811234153	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS581etX9FrRJOPlPm4eCV7lHsGFaTE9FE.%26dt%3D1779698153447
+.netflix.com	TRUE	/	FALSE	1811237151	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+19%3A25%3A51+GMT%2B1000+(Hor%C3%A1rio+Padr%C3%A3o+da+Austr%C3%A1lia+Oriental)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f2aaf15-c227-4463-9b6d-fbe328202ba7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

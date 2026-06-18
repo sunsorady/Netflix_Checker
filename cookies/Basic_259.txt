@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fuzzy
+– Email: kubaok.60@gmail.com
+– Country: PL
+– Plan: Podstawowy
+– Member Since: czerwiec 2026
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 9417
+– Phone: +48783057467
+– Quality: HD720p
+– Streams: 1
+– Price: 37 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kuba
+– User GUID: 7EICDXITTFEOPNQPYNUJ7P7YXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781798731	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Aqe9TuAPWFsQzkLy0Y-Mkjxm07rEojzAkekn5IgEpgpLWXuL5jyMoo1vulOoGFapryZY_R_kGnaQ9z-TSXKTFGWNkTBEoDvvSyQ-hjrLQyksShIhXtQX0s_Q4rfaXq0Ig8LO9iFWGV4XeszPcNhePYESFaElFUOyM7E5tfZVK5NFwmU2pQSePl_X5-egHtrDvOencfsDzasQX7ZllioOG7Rp1qTyI1eIDmiuxNRseojuQEaA84hAevn180G2nQ9whzeMOp06thCxdVfsqoa3GnmQHUk_9vs_UwHBb8rQAzw2jfnZ-CqOFs4dWq7XABp_TlDcmlr0-3dfLqDyzn8ZxwBj2a6e36NkmO5wpVyA_fTex94-8jrXTIhcFYgG5ztM3T9Mu07Kjq0cdQTao4wwqk72_lO-xe5bpLp56ah1tom3rjkr5nwnbDnDMxr9cjgtETI1N1CGoD47Rg_ULgu5jHIibipidEGD-nTG5nn_Gr7IT9TZYb0XsUBH3GEYGAYiDgoMmTPqaNi0s4jJIscF%26pg%3D7EICDXITTFEOPNQPYNUJ7P7YXI%26ch%3DAQEAEAABABQomgHFj_GbJGFWUORgdTncRTx3Ttm09nc.
+.netflix.com	TRUE	/	FALSE	1781798731	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+03%3A21%3A49+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=967f8949-af58-4044-868e-4870bdde3bb9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768443670278&geolocation=PL%3B14&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781798731	nfvdid	BQFmAAEBEGAIGk-Je9ARZiOLWVWCmatg-F2jqqJwVxX5wfMJuf0uyJnef6g3F5L4pLcAzHPakyzoQBf-4eqAcXnbRQM_QKHPrfnV5fqCnfGysn9m_tSjbMSSrYNFoMDGfeU_HwDr0S8Hna-W-U63NG6SJOH1hxbh

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AnnaMaria
+– Email: annamariacaridi8@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: aprile 2026
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 6773
+– Phone: +393896858379
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AnnaMaria
+– User GUID: OV7GZI2EEVA2HDVG66TXKPK36A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783709036	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjAyoUEfs8lhSBslJ9rHsxVHuQ260jBbOMv1W-ATIBoeutWfIVfckjha-sv3WWrGWKiBiJ7uYGRKfd07ri6eI2sI_WNOPQLq6Ec8h5YzxEPPzzG0t_rN4-9KBj2kj4TxVnlu2RIVDR3aB20gNBlORItkKLnWcLjSAosA4kxdlEWUZr7x55kzdWVhGG7dQOCN12qgYaKU21BwdKzRAHDV28gYY4yRyIk36UakEQPF91c6MRPe81Bvi2GTO7VouZ0VQokqFDQyiN0hWOqhmBYlzZK2H7ESZq4upf2ObldzCNbDxxamMkoj6RWD1eM8GsvhOhT5UfnD2DoKPfeFymIaZQiOa49TH74U1N6X_egtJLi0qKz16cc776z8hTrcWwQA71ISyD6zkUbl2DyDJM4m5nszBjZbgPCUR3uLSM96QaqLqIfA-Fi95B5AM8Q5fSYJButegZcrsKLx7i-oC7M8mSjqK_yVS1ZL1DwWjQp4uwdnCSlTeGvfZxxULaaVlMZbUnh1-St7SFuDxdzvBJeLXj5LkWIMYySZJnNq031NMUTcmNKS-VGAYiDgoMUubcGaY0-JKxVcM6%26pg%3DOV7GZI2EEVA2HDVG66TXKPK36A%26ch%3DAQEAEAABABTJKbwhzqn3vtIJDGLy36sT4WmVaNQAkDw.
+.netflix.com	TRUE	/	TRUE	1783709036	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRqCFQ9s-WmhNDlofJM6MW4oCvJ36d0DLU.%26dt%3D1777567703520
+.netflix.com	TRUE	/	FALSE	1783709036	nfvdid	BQFmAAEBEHX9lJgaX2jKqVX8PPZSQNFgTbbyp9FDOJSxmVykJePkWYVFp2I0wgxzVVUE_B0nW4CXykiBgL7cx1mxth1wT9-Mw-xXmh45aAm_W6-3-UvblsLKqnVUcNDKDyJs8ec6nDn_iinuNX72WLOnJ8O6ii9f
+.netflix.com	TRUE	/	FALSE	1783709036	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+19%3A06%3A42+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=7f5e8f01-ca02-4788-b561-d7bf5a753b5d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1777567572929&geolocation=IT%3B82&AwaitingReconsent=false

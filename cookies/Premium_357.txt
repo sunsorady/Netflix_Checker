@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ELE EFE
+– Email: artribeironeiva@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: March 2025
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1678
+– Phone: +5562981361080
+– Quality: UHD
+– Streams: 4
+– Price: BRL 59.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ANDREA
+– User GUID: PFB2HOC3FVF63J3T43SQDCQA24
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810996873	nfvdid	BQFmAAEBEHreHQp0zihk7GHpH45IPqtgkYL08SCl7tUVj6L1RQOAj-ck8PO1O2x-3AfiDctJH2PlbIRwnNY-d-PO6mMsR3z8z6HfKJHulT1q3AxGx8_vrrRn8DPJvQ_aVW9TbZfCSk6dTejlCFsJygFAVpT9TAG6
+.netflix.com	TRUE	/	TRUE	1811790411	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA-Zn1uZo03v8bf2Z9R5NltVPd2uvHIM90AobCqNxSpjQ4KMp4HSooG7W7-0PfNfE6W4lJO0nKiWNe2zIcygLaLlNtuCC8cRG5BGUmmBSn52_2yCdDNAejXU6t_bwaGVG-irTCvxcWJDxigr0_U7X_o07YHiW49onnH8UvZsAK074sBEcyXKnP3uKCy0rSqm1Dmy6ltorvKVDsPRq2GD4Spbi4RssunfgAElcv2ZS1IlOJyaZUeZ71apZkCr5w4kJzCt92z7_XCp8qUyFvhwY1ZIiobE3ngHyZb9WO1eaCEx8OVssb0wUD2ejKkcqm-HgdVOV2pCXUftCNf5xfLMV4glbPnWeawfpD9UZRmOHnUxKm957LsYhUwTuv5wFaY390X2Tn3J10mTLbBUWkf03PSlNofKlKbVte2ekomhOdkYcczrFaAnej0WEThtPf3hCHzFD2FNECffGlzfwNMkm0JO8U82jNA8WO-PRHUpr1QC1dVKbfFJq8nVN6veH53bSa3OmGSfW6jDXa-NAhjsSx9eEYhWlGioYBiIOCgweRD5nOX3FJOBtX3w.%26pg%3DPFB2HOC3FVF63J3T43SQDCQA24%26ch%3DAQEAEAABABTqZS57nBEv1UzfosVtyw7ON1XoDcwqR3M.
+.netflix.com	TRUE	/	FALSE	1811790412	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+16%3A06%3A52+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=55c6b77d-36d9-4529-8dbf-62d2fb82ab4a&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779460720161&fclco=&intType=3&geolocation=BR%3BGO&AwaitingReconsent=false

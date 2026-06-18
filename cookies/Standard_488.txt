@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: abb
+– Email: y-_-t.hime345@docomo.ne.jp
+– Country: JP
+– Plan: スタンダード
+– Member Since: 2025年3月
+– Next Billing: 2026-07-01
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +819073747204
+– Quality: HD
+– Streams: 2
+– Price: ￥1,590
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: @
+– User GUID: 2RSRQ5WT2JHJXE72HFGGRV5M7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801378090	nfvdid	BQFmAAEBEFtPHp9TGMJ1CHaTzkwh2w1gkkOnq67KR0r4xeFBslvFaEHkjUHCf_59_6KAtwUzstZC0T600qzQS-1aD16GIUuNUrpIL7crvQSesIDy9G0DaGm4aePJr7xZqUfEQn2HauBS_SQShMmxe95D-MAB20lT
+.netflix.com	TRUE	/	TRUE	1811841268	NetflixId	ct%3DBgjHlOvcAxL9AySFJs97Hiqf2ZoabXUG6p4gP-i1zSPnyYHhJCxXVkq7T9TXpJK0DfPfDveW3r2phUb4u1pQjny1Ila0RObnqyzMaokIX1sdrLRHEcVPTFDUVv1uZf3K9znedRXcoGOiCRYwYcvQXnTZRsEMBpFNfpWTfV3bYfSNtfGPTERrmSoTXnNU_yi6n7e40MnLgG_NOiIvkObWjrOcS5M8D1GaERLJkifWPTuziQVzt7-K2uMXSvci-PwM0bnYx_WQegG8cDQ3f3c45Hn14o034tcroP8PVstRlbK63XVkFbwPlVnQQoMiKfNj7p00b1rtb-a-3mNwqHTPp8bnJhfi3Ou0eQ0CiHotjqmHcivV0y63159Cz96Ntp2C2NZkMoqV0eP7ydWleWJRBvZ7SC21ptW9qVpTONBTZJoNRCDTtHx0l1Cwngrhh_omcBr7rczfEwYFda8p3z7FWiECT9bcZKvZbsnnlBK4cU780hFLnVYX5Z5YMiEL41cEX9bs6-FhAHWZcXKzqFAaokaTjFJiRY6rw9YzYlYhwPPTQWjneyxaePeKuqk9EmBZaQPzeQIu4pGqgX_hSv5nkhptZ2xpySgco1TJ4kiqoSISHxV7Gkbt1zdoPWNDOCLogEbF6RUziQPNR27uFHlMQIK8BxXkSmpwNMlgzX7y8wjBGPv35iLuGAYiDgoMGw5XPLKYyew2mKVH%26ch%3DAQEAEAABABSRqnv0pKHPW7HlPJ4mKOzBxSc-86pTWec.%26v%3D3%26pg%3D2RSRQ5WT2JHJXE72HFGGRV5M7E
+.netflix.com	TRUE	/	FALSE	1811841269	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+18%3A14%3A29+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dea0e2b1-7aa1-44c3-a47c-2aa89b39f471&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dim
+– Email: marjorie.desmedt7@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: novembre 2023
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 8714
+– Phone: +33777303773
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marjorie DESMEDT
+– User GUID: I6F76DHRXNA5NKFLMIL533WT6U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800575249	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AnupiKtrBes5mynOusgqTz3iKBLbr9ZEbgR6kszFm4gMyyScQgrPviI5KTX3kG6U72wgzoRl4u4bZgY_GRVh-XGw9m2heIlxnCf6-2-y5Da8xc2FQY3iNczF0BG7X9aTaEFtxDpCesT_8mnKX8n0TEO4HkpfpiMhkHegKkrFqIp3isTDEUUFgwdQVkrAp6rabwsTjGMv699PjtVI_6qyHvH3v2fzJ5lqyuk-g_dGcdIBPNRrStRUZyk8Guf7U7QgXXDCiFyUCc4fQW9EA3ZzbY1pSBFZ06bHfOnND9lmsvBg_mxi2wAEK9pNYCqZ8fDAt1re5NxANXeCtMGP1HTqNkt1sLeK3LXLu_zV7JhYfadsqor0B29O5YDtnvbB5kRGYvxSZcFejcWYmccTre9lAOKtUTzJqNECKdW6yZvkk5QXLegaUlCSxcCmJ8mCho0Aox0DGUl2PZJ71L7FkGLWWWQWLWFMB94hzXtbckxTlonqD5fh9O0sBpwjFQNmGAYiDgoMuKKlhPINtvSgzbIt%26pg%3DI6F76DHRXNA5NKFLMIL533WT6U%26ch%3DAQEAEAABABRvzD6U77tkMXFgBKpAzla-XZdJUaPRhO4.
+.netflix.com	TRUE	/	FALSE	1800575251	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+22+2026+00%3A47%3A31+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=21bb15bc-7315-4b52-940b-c5e233e3a489&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1769038978076&geolocation=FR%3BHDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800575249	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEhYOalOHfh_0NMJzxJaJT2g0y3hK9m6Y.%26dt%3D1769039250695
+.netflix.com	TRUE	/	FALSE	1800575245	nfvdid	BQFmAAEBEDQm3y_p5TIUGWN7gz6MhulgBpa7V1pQTKiYsKAtydpZVOYTYVPoQjRy98GBmXSMCtFOTG30lxP0_zAp950u5H6ymSrZeX9hDHZoTtUxvJI5BVMgeJuRw-EGrk3Lvv80WuWOJcIeHI0h65qo_OrXfPP-

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ángel
+– Email: Isabg_81@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2024
+– Next Billing: N/A
+– Payment: VODAFONE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34615879783
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Isa
+– User GUID: BDCNEWHJFNFS7FC2R3CCLFXW3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791715085	nfvdid	BQFmAAEBEDZqAlkkrF46DyUimWRH391gLnw6UePLn_-oqjIviF07aQuMdsSJOX1P49MZWtfHYlRLdrlcru9KFupIIpmTVL8w0BVfQynCV0Fqkawqlx90-xxKZrayCGit3im-SVFnKaBnLmV6d6eMgsOV1EN5N1t-
+.netflix.com	TRUE	/	TRUE	1796507265	NetflixId	ct%3DBgjHlOvcAxKtA2JCSdx-poQFIixcoLC2_0aWz29O_90bzrx6HezXT8TfakE9l9CR3PS7WM3hixgM6MXEw6GnLMveOqTPndT27uv2TDfyMxmV8Cwhg_ee3tKwOYRIczBGmnGYH2cEKLnnfXFm-ptLXBHxmjB4IxHom4qqPfacA2ejKB9Saf25ZNp2nUp0WJ58yRHt9v_liCNeHB6ZDhFbU34nxfBSY0Wk6FZnt3mOPLiljH-xZlUhT86y9jz0-aodrwCLvXqvLVvOmQJekmnCPjJig6SEwFIWHXQq3fI0RC6dKdgVGQe2jGYonVf5hZin00fn2F923fwg4q4ZT7lxoBmij0UcGh2gForWRYbDR00R_g0x313E5yiy5g_w5bZBt5wQFpHmTu9HBwqqoNbmzBwdgfbM2r4jWMYJ68-qY3PlSlK9hR0fLDCedQ-UpJ51HucC2EKD9KdP3K-0WpqKcIXWWJcCahO857kZYvmkj8JB0G11tzvJubHpIGYxPgyRSgBS9Fs-gK9EmJoEsNGJiEvQijXRoPVM1lz4JvWTSWguuBXD9YuselHDY-5gc4lRFfShPq8atBgGIg4KDHkUW3a1Va0GUEOGOQ..%26ch%3DAQEAEAABABTQG0m2FbYPTNk9S6dod5epxZCkx-wBsaQ.%26v%3D3%26pg%3DBDCNEWHJFNFS7FC2R3CCLFXW3I
+.netflix.com	TRUE	/	FALSE	1796507267	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+05+2025+22%3A47%3A47+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=25d0d98f-e41d-4356-92ba-3643a50ea181&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1796507265	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSDxVHee6KHChioIR0C9HB_nM1Ma4dEzlg.%26dt%3D1764971259566

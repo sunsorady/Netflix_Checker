@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Roro
+– Email: lorenzosig@nifi.top
+– Country: IT
+– Plan: Premium
+– Member Since: December 2022
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roro
+– User GUID: WBCG7XPN4FCXLKOU2UAUJEKHLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802093991	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA1A3rO1kven-9qYKznZyXVQtIJ6xQcyyEKm8L2yLA76_3D-vJtWOsmJOffHKKjrV5gNfbc0tmU9ArzGhgEEdeZgI6rpZFyJzJCqh8gEE67PsI-EOjQsxm1KHPR4sKAhF5AEht2urod-5vtT1fJGKiOaycW-OVWxLicJTSBOX_Zo1tO67AoAjaRaSn0gsMyGnQ0HsufSsaA9ON0TdLCVFaMNDumtGkIwLqrVZHljViHMlNxhKogTMgo2TEM9-VL3IKM4saS-M2wj4M1z8wz4EFEoX3sWKLvT4_0ZYOUWbEyOcOXGUklVVD8zQc7eSUbdlhXBHyaRtonuhy90r-BOX64mNu6K59iTDdt-EsdSaT_I34O9U3WewW0KTtuuc-3xVvY5ACiLYj92ysOngAFhu5SEDGR4gZxOSwNGnuj2EQKEu0v_uzXa0ecrGZvpZcWrr4oTLchQXTeBTcjs3gGJGNTovVe7BmrO6Kl4hsGMVD8jY_CHJSv3MEIVF7BA4llyH3AaRCXQmsxgGIg4KDBIknRRooJ92QAejzA..%26pg%3DWBCG7XPN4FCXLKOU2UAUJEKHLM%26ch%3DAQEAEAABABRI2IH_MRNr7QMZ9uOzW6zyaszHfLS82KA.
+.netflix.com	TRUE	/	FALSE	1802093993	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+20%3A39%3A53+GMT%2B0700+(Indochina+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4b5461d-d45e-446b-8ed2-44b40a1d52f0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770557921299&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802093991	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7ZUdXjPNcJfwD_K_qhBcm3PedY0lui-c.%26dt%3D1770557980732
+.netflix.com	TRUE	/	FALSE	1802093991	nfvdid	BQFmAAEBEBBB5O7qy1vWqYny4Bf2Zi5gNXmflNoboVcE4crK_xdxbTXcz4m5EZMw215UQegE9MUezDJJs9EEJVYKjFJM2DHzvdtdUf2FAAEFSUHbqk58VT2V7HTWgstJ1Q5wNsSWiM6I0YAA4rbLL6NBm_UJqtKh

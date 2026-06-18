@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francesco
+– Email: petrerafrancesco1@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 8749
+– Phone: +393911035773
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Francesco
+– User GUID: H5OLR724X5DYXCL73OVT3DNXDU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805813002	nfvdid	BQFmAAEBEPsPcrKuAUB_ZTQZ1T0nAjVgbvWdHRAYs34HO5vKe07AqkILKYAOkTBWF-PjlhYGoTXJQEEmep1_MmavLhmL-BTfrD48GzOMq_Y7AqKubDkdeuwOex1XElVigpNrY_jYJUdG-mUkq04Qw5rj98KD7WNf
+.netflix.com	TRUE	/	TRUE	1806753069	NetflixId	ct%3DBgjHlOvcAxLKA2HokWGomN9oK4zMe2mUVUnGYAMPPYS4EKo24-_1hqY8lXGTwI0-oWEqPrZvoi3ets3DHr9bcBQdsyJeQCgvNYWTARcxL6bi1vwiZDdsqyR1kpWFLney29xaFwBuMnURoPz8bT4kmLkdLp4rH6PU6khPRU1Bzhk57saK00EGE9j6orWys2W2ADEt3IitIdXAP1E9N5j2pA01NhzCqExe2rxVpU-pGBcMpDvoVhDddfmv4Oj6dbLrxbyidVO0Zsqp9hdwkFWt39a2R-c-f63hfaGgjxhr1fCmCjL58K6Xag0AsGWMHbvMlhX_mpHI2_gXJHMuubRlavVpg_mAYkuYpEu9sEJR563jMF5FgKIN4tVOUEyrj9bJlgpNdmTVfFFxadD5PEdIeEb3cjpqAMLMmDsBCSPQTyR673MKT2b0NWxREWQqTlgOabVApGLQiDKDA5LOOvY30d1ZeWur2g2YGg8GLtyH_c5FjDFd8YvuTiDtjbei7kUqTQY8fy2bi5-DaFqPFsXvuhbWs71prIdO46D-ns7jZMilwZ71iHWDA3s6DsrqL0Bm2P0v46f0uoKGknipYthj07csaNUNZ2g5RaJuoUUDGlC5RDRJGAYiDgoMY9xONSEAgb2fK8Wk%26ch%3DAQEAEAABABTLw9MoyD6lbVMchKsBNvxiqlb-qpWv9QM.%26v%3D3%26pg%3DH5OLR724X5DYXCL73OVT3DNXDU
+.netflix.com	TRUE	/	FALSE	1806753079	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+13%3A51%3A19+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a62109d9-9180-4e35-9d71-3c483198c1bd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774276859434&intType=1&geolocation=IT%3B72&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806753069	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKylD65qYZqfSs_OGb4zldFgLEJBxTjGI.%26dt%3D1775217069293

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Miłosz
+– Email: grzegorz120373@wp.pl
+– Country: PL
+– Plan: Standard
+– Member Since: April 2020
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 0984
+– Phone: +48602261765
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Grzegorz
+– User GUID: 26A7LB53F5DRVG47TEZKDXDF3I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782584942	nfvdid	BQFmAAEBEM3X47KsoIzywWeOwfVtk6lgwnpJ7RBChVwqmPr8UgZSnrQTKqzcuiosRoB6m8ze2mKydkTwq_bYVtcrn9c5UwRYBCw3nyGFtxxv-AeXQywtOHdJ_EiZl3_wCqO-yTBMMT7Isul5OCIGmSt6-6Q1wo79
+.netflix.com	TRUE	/	TRUE	1801601029	NetflixId	ct%3DBgjHlOvcAxLmAz1BKiaGvt1nYe1ARyRSam7e-iMibV1-N79djA9Hvtq7Ksnh0gDJplo77aBR6wMCb7gO9y2iHjeOWVDRwi4TWd7CEQJBDgm6YzvgJaW0mbfPc6cO4yQFz7ln_b7aDFfVrwzqzi8MzOhk-kk4HwOE4RslMfHko9wbOJ7JENJGkYiy1W3PFzForJXD4RKo1GvG1e_W2Bj2aHjaI5fwd_ABRA5uE7V_KYPWrcQrCDRk7li3kwPWpIvmvU0oENaXTsHJjQH_kyEp8cQz494IzVL4GZFVmfMpZV8AJFAy1ynKY3Ut12wTuFmu5bjnLuI4Dm0jc66ldJIykPKy1nfk3VpIj6Ezb8n82fMrYrzIo5zf8SC2OxrXbCDbPFZ0Zakz5j-GUPEqIeAtCYbhn9ZsEercKcAF7pNSJzMnRToKk4LP91GJerOZHrlCUtXBJ4AD_rRrYv2bgAkF8oawxXFWJ9iRVcSqygGJA7vRlvTm4LIKY0qPpInSSyHPIDKNVr_UkPkoXYhWoSMeAB3qFLiKeZkvktr6Y67I7vHZwnjFS8ImviLwPriuB5amw66qQDmNc2l4TOER02METGnhGH_aT-9vWVPdC5tqwAvto3QMpMF0AYpKrWao22AK06Aqz7nwdr0eEl50S8WyiBgGIg4KDNnTBLUZtSolIw9nQw..%26ch%3DAQEAEAABABT8_LvN3sgiqBfQVzeUSf4J7hpLNDH8m2I.%26v%3D3%26pg%3D26A7LB53F5DRVG47TEZKDXDF3I
+.netflix.com	TRUE	/	TRUE	1801601029	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJW3LGZGllzj2KCScVjGn3msVh57vJYI8.%26dt%3D1770065029366
+.netflix.com	TRUE	/	FALSE	1801640072	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+03+2026+08%3A34%3A32+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7f9e47a2-bfee-4579-bb59-36656bf67c5c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B14

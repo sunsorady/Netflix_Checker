@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lili
+– Email: barrosliliana1981@gmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: agosto de 2025
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 0008
+– Phone: +351925646360
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: lili
+– User GUID: I7IDQXZDPRASJGO77FXAHRLIRM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799960613	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKGA9PvWeQwK4EoAKQh08bPFvMnXD8CYgQobYRLsRm0qSP0U80v9zPkknXoXl5Wgd0aF6vDdMi80wN344-GxVMW8fejBk5pwLs-BNj4QmYXTrEydv3avrH65M2O2l4JUFsSVESuErA2V3QNM_XFclc0WMTJJJ0TIMAl7NHdDe6jqUBs9YXlXZ7p-ZIjJmkVLUH3twznskpUD25CuUO5We6mXKlhsD2ZfMgI6cT3Yn15sVZJ3joOXUJGGcdhcuGaN3afu1pkUc5XRcxORFbxXNsdaMpGOK9prFIDRlrqKpIX7FRuJv59M3jCRHGWQJtmn86dAKwBFxAsI6UqwE_CYpBgstd9VtP3i6kL2PJgWtiGfRFGuIRt5K9a4yi5iHavR4JRG0QA90Y1HrWO8nJ3dxU3RKPGkzVNgQ13Vhvld3CYv93j-9IyuZfopkUqVDdGqcGZrQsrAb6H6R-GaFSHrvJdkWnvRcaqyo2pRBdNDoFhs4Cn8foxpQ3vnzap2ltOrFHG5BaKaqXB_RgGIg4KDGjzi0z3S_sB6RakhQ..%26pg%3DI7IDQXZDPRASJGO77FXAHRLIRM%26ch%3DAQEAEAABABTDxmvU5K8Li7SgECjgw9culLPpPZyX7E0.
+.netflix.com	TRUE	/	FALSE	1799960613	nfvdid	BQFmAAEBEGtyIdLDsGO1zH2g9AhdLXxgXXovSF1XGt3Kjefu1E60YRKIM6oPUbUrf_-3eWtCdP8SgcaXOxN5DGbJSJ5eWTrtZbN5GkOEn3l1AiE5kau2qiP1k0kxHjHGkD-9e3ie0dX-Frc34bWYnu8c7eA2Gu18
+.netflix.com	TRUE	/	FALSE	1799962392	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+22%3A33%3A12+GMT%2B0100+(Hora+padr%C3%A3o+da+Europa+Central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b19a0c4a-e4c7-48a3-a406-605a247ba34f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768424576050&geolocation=ES%3BCT&AwaitingReconsent=false

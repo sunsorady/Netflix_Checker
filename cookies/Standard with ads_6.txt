@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nicholas
+– Email: neriequiambao@aol.com
+– Country: US
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2018
+– Next Billing: N/A
+– Payment: TMOBILE_US_BILLED
+– Card: N/A
+– Phone: +17573435370
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nerie
+– User GUID: PY5ZFNMWPZAC5NYEKS3Z7SA43Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1780920682	NetflixId	ct%3DBgjHlOvcAxLiA3gtBPlruKmMjH7fg2f5Tj0v0lRKRzChe5vc2EeRw-m7XL-XH_WMtsCEePIxzpUlmuUekkQDwBq_yjUGoAIsTXzEXdwWapQePIai6-ZxjfQi4ACDzMcEMwERuTA7wCHfN0f1HQBI8GVt6-rrMx-G1cdBexod8hW-7D6puVab3nx9ZXWgk7U18xaF1EG9RedWfVOrBAXdmeam33NrOHWI9WAI_-iqkHms_RyosNvEehE1Nm_v9h3EVYp2rGYqBBVwCyHnmRx50FsiILYwqI5vILIuckX7KHT2VIyBIROttE58RmKMWTHYGyaL376wUB13ULMBFmfAsUZUoLVgtwfb1BRs7j8hddljMX9dCTtRDqN1ouh8zYONL-k-G0NNMXteShj9gbImCJ4lASMssFeIbOc5xAQ7G8EP9km4jTJruiPS6F_kjeuTjioKP0jsI7CwS3AxrtHGaI_fFwoJPA5S6mwgv4QX5jCyaceRP3BYneuMsa6lCCvLG-YyzJVQ1ha6u-CHs6ylrHIPTX2A22WQdCw6TmVs-G2-hrIVxVnew1HrG51ipEqNQunXW-mV1An2mn77PiaaI_sEZiF9N3HpufLO1mmomytOSrhVUWe649amIHt-eV_GL6okGWH-sStOuQuiGAYiDgoM-UJPY-QQiRVGaTxn%26ch%3DAQEAEAABABRLDJ2za93yjsxqiZpjgDWbTcscmfRP5NU.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1780920682	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxXUB2oG-ADY5BnOvPr_RIglAsgTbOTHk.%26dt%3D1741827891580

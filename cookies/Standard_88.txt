@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Maciej
+– Email: danuta_mylek@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: marzec 2020
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 9942
+– Phone: +48604243966
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Danuta
+– User GUID: CSEGPMBCJBFKFMF74ZQHZWP4PY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792331	nfvdid	BQFmAAEBELSq1iV8QzRwNO0r1SAKmCdgHgbsM5Z18h-leyNTC_-5Zr1NDuq1bPPIKGvkCVUViVxtxvEq80vim4FSQe3hI5Pf2zflUBbzI3kbgNglIiTJH7YzeLqiTurh3cGJzKuhi3Rt1bIqj-xOVx7VhrdJ2S9D
+.netflix.com	TRUE	/	TRUE	1783792331	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTWCvYShzQ0Ixw3pnILJiz7z0xRm0hjJms.%26dt%3D1772657626641
+.netflix.com	TRUE	/	TRUE	1783792331	NetflixId	ct%3DBgjHlOvcAxLLAyTIwuIMyZekEyXVlEHLt33wgQzwNaALQI28K1KzAcx50aBoyzy4Mo1pZ-DPVVvIbPu3Y6z8207sixvapPBB39c5Yd6JaBG-WfWZCFFt9D0nA8fZB6zHW0hOdM7YgpeL5uABtga2ky8xrtfkv3OBAK6fiI6vLrwrui9hXKh4tnUPMpkUeF6ZsrpcNIzM4bIBD2yWgD14H5EggWn5J_A0SU9rtrp7gWMAbMk0ExZnDuhPVmoo_jg-hsyHvgkcrDtGPfOwGejAjugC45bROUsqs1kEXYmCUIjyM-MzVBg2wGH5YNl7vSQmPCLlDmpzpCAjD7C0Zm6lnqM2KJA6271ttHjvccRy3JECdjN-gGY6J6brLDkATnBh3mdhWOrU86ZY6kXCR7JFo3qJItmZPheEATVP5LPktpkRnetoEpTb6tBlyH8gzHbrpHloXLd7Ilky9zLuLQFy5d-_9ZFr37jKl_S2vRnNR5DRQFhMs7OakqKKtCw9u-unjL88AtYD68Hy5HPbv1_NRqn89Y9LlIERkSGw1pHXgvhR0e_OHK6gjK6Lc6pGxKKIIgKTNgOXOjSFrB8--jLPOs9MLtxIlnMihApZ89spNYcsBbqB-hgGIg4KDJ2vC258AzPAu9-gww..%26ch%3DAQEAEAABABSXIz4dpMgrRyOS7vjBzOPWtNeF0VpjA1I.%26v%3D3%26pg%3DCSEGPMBCJBFKFMF74ZQHZWP4PY
+.netflix.com	TRUE	/	FALSE	1783792331	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+22%3A45%3A56+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6f70416b-fe96-4757-b045-176350911c19&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bambine
+– Email: irenes77@yahoo.it
+– Country: IT
+– Plan: Standard
+– Member Since: novembre 2020
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 8578
+– Phone: +393475272250
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Irene
+– User GUID: 3NSQB2RMFBCNVH5ODJVDB54SYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	2775962787	nfvdid	BQFmAAEBEFg_8RVXs-nFPo2b0hE58SpgHWByvpGp6M5wHZ_QnamdXAroZbQ1UgVO-QjTQKeF_Y560B0dMdcnrecrdCz-fAJTGPAdiInpD2ZfmOj-Fli9f9mGZG2Orteoe9YaZXeaV9fVXAhlunyWwAPYarFYylAD
+.netflix.com	TRUE	/	TRUE	2775967020	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcqdSkbH_nqFXOJP0z2Nmy_CoHzX4fMAs.%26dt%3D1757946366290
+.netflix.com	TRUE	/	TRUE	2775967020	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Auu7zD2I_a-QU96_nyG8F6FZSACSmEi2-Ku_RmBUA97407rQJcPPLgCOfhvPNA3LdrJOuDyV2GYS88x3nKxRa55ALDjpJe-H9eLqjzw8ep0cNU7gqAKXP2Oy8cMuHQCNli2KKRGYYgIp2pOU7JLJP2AwL0bJDLFu0vvrtxfiXiS1XKg90q1jGeiakULWW2qPDzx-xTqJsKwQ0W08DpqNurKwUkkbYznMZBd29d5ybQud6hf0n67fx3WuNoVlbHiy53sq8MMvvQwo-ZhIA4UlxZeCXalquSJBJUkPBVdL-lYt7Ajr51HOU-vquqCVAhfTHh1xOpFjCvATKDwS_V6ECCuGEF7PmVXjdUEyjf080g9MTFWNWaI8JL2-q3Es6_KoywwcYBmq3U-q7RMDEvnncCJx-vMv109Mq1ZMbYDSZrdlBR3InB-4EQZ3nEB1vkWMNyqcGk2W4UtD9Y9P7m_0Ig2xG6askW_dsPyfYDy3VPIfANhIYJf5J_j3gY0YBiIOCgydIzjRCn9mVXyo1GM.%26pg%3D3NSQB2RMFBCNVH5ODJVDB54SYI%26ch%3DAQEAEAABABRTIxbj6oMaZH8Z1u0B1sgAm_9otmkP9l4.
+.netflix.com	TRUE	/	FALSE	2775968864	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+15+2025+16%3A26%3A04+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3ee5614-a9eb-4267-94f9-e9911c26a809&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

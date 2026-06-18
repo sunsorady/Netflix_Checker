@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 내가 이계정 샀다 깝치지 마라
+– Email: devpatel18448@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: February 2026
+– Next Billing: 2026-06-20
+– Payment: UPI
+– Card: N/A
+– Phone: +919601129997
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: devpatel1416
+– User GUID: R5D2SJTOFRB5ZAJRZHWUI2J77M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1803478047	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AmoeXU4yBaXzYaryrHyycUwtvljG1Cqb-KuZkHAK7MI1GHhSpUoVUfQ5hCIcxGxKGaWjou4s-21OK-XSSO85LJ7wejyUUIVCeSOTCM-oB0q4K9eKzP42RjiekdHIE6YKU_bAib9qN67xLGNo6mySV_TP918d2EZk5zUSqqvWE0os2e9R3DHN4aVVMGfZT47Y50uihJIPmbKEtyGRX2w71RdTBmIeG6O08Cgme6W8RkIYbJXNKtTTo2yvuJqbE8ZYM9SPk5QfjBvlolPk5mM4gIhNhjn08K68crffWDGN3JOl99nj9TONLUJPff94c-XZrtpMfuKbI02e885Egj2WlKzo1P_rsd70nGoqdYsYjOlnEpRInO1r-PaVglUUFFqzfQzIjcbkPL-3raruTFGLsg6z2Ir2xhuQ0oiCRZ5UF9MkrMBr8g7J4rY9G0svtHkXMdFzDyWbnlR69isWQleFDj7mmioTcRN8lt_cuyfFbbZC227VMQPsIxgGIg4KDEiBO4E7W3P-GfHELA..%26pg%3DR5D2SJTOFRB5ZAJRZHWUI2J77M%26ch%3DAQEAEAABABRbfaljLWpv6_bq2o_IlNz-xRbCpMWR3e8.
+.netflix.com	TRUE	/	FALSE	1803478049	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+24+2026+19%3A37%3A29+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c25eaa53-3bd8-4549-9b79-e3999940549f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803478047	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9FOzHzZLB_kdMLSwGVxPtU_kG15alykc.%26dt%3D1771942062335
+.netflix.com	TRUE	/	FALSE	1803478043	nfvdid	BQFmAAEBEPvYb9LYM6EojR23xlbUyOVg0Jgd1S8ag1n3DWBz_x9uxotAk-adxWuiQ2-0dlX3lDuwTZAxWQ1ZzbN0A8BsV82T89MlKPnZutrTmAhqVhVZwFsIOF69sjkRNBNNzsTUB4Kg-xg-EJfswtXYBCI0QdRI

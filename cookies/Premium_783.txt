@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Wisam
+– Email: ramlakdoj2@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2019
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 2338
+– Phone: +17607929147
+– Quality: UHD
+– Streams: 4
+– Price: USD 26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Wisam
+– User GUID: 32OINKBU7ZCMNLY5RQAR2NJUSE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806444440	nfvdid	BQFmAAEBEBoCdcUiZcibrbUkRhT4OQFgR_Lwot9N7ytLKCpetjdNMeGaUPqBfGsUqfrWrNGso3TyQypxgZjobyOVsFSqPUMkQixDHHniPgk3Cq69EgYSCaAL8XHSHLoZbG8mTqTyST7jgqzLUqVTHpl5p_zNqkkW
+.netflix.com	TRUE	/	TRUE	1806834513	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA_mrmdkJBbM1iD8Q_WWPe-exQNWtSEbYqGXBdWXh_ppJNRVpU0vnEie3VGUuKy-8IzqecS0t8N5kI45AtHsZgqU3g3j8tQX1Tl4N8zA-6vrZl1m3Lqv6rsIU-tIqHJdBiydcZkrNhO_n7lmktum0UqbfpvQA21RSJk4E2aazYnmZjogQ4nPnCO4EXLL73FLPsmWfKYSxaMtjtnbFywaOxwpJH7cXN6xZPcpZNEBXQop0T-oT1GTyYM4kJ9pfLXSMsuVLENosna5JCUugB23MJ_7InKqyZXbxvBWAPz4gvGFb3AW2-cqgQI17OGHHIXxaEMmFewdQCdZNMVKV5D7HiggH9O7qSS_h7uvD13q_wVx0jtPUpAih7ccpDQ88QfaODkH5O4_I1uTq62sE6ZA-ay8iaCxAiClBl6mYT-gL6Q0DDoKxIzFaxhVkBDyFmaCzTR3lJXZgp4p4N6ewUH7jJ3FrKcd6YLabVbZS9AhlMdPPNAHbAmSiierq7I1FiESYhG0qG2Fpz6xAln-IUtBMBBz4XgOhfCkhIhgGIg4KDMsmR5QrK0iY2HSKPQ..%26pg%3D32OINKBU7ZCMNLY5RQAR2NJUSE%26ch%3DAQEAEAABABRT4zGdhHiZ53wuQjEofXsT7BogHqfrMro.
+.netflix.com	TRUE	/	FALSE	1806834514	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+05%3A28%3A34+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8283bfc3-79c2-4adc-87a1-54caeccff17d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774908440693&AwaitingReconsent=false

@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Fanny
+#EMAIL          : fanny.forafo@hotmail.com
+#PHONE          : +33695377004
+#EMAIL VERIFIED : Yes
+#CREATED        : décembre 2021
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (4287)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-24
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808557655	OptanonAlertBoxClosed	2026-04-24T09:07:35.342Z
+.netflix.com	TRUE	/	FALSE	1808557652	nfvdid	BQFmAAEBEAGpKZTf123zK6muiYk9-SJgeO36VojPBqWG5CkVIOeIaHihA3deq8wcAx6wzSY7u7aI4vi8M_bbrxOqrtDfR2rz21P9rTm2NX0kFQQGJ3YF8OsAK05woqkqVBH78q7dlkvTwRlnnx9aTu8eEvtG5IZf
+.netflix.com	TRUE	/	TRUE	1811588074	dsca	true
+.netflix.com	TRUE	/	TRUE	1811411153	NetflixId	ct%3DBgjHlOvcAxKDBLipXTGCWJQdJf_ZmTDZTbVfnqoE2B9PnVki8FWHXKT-2BSEIC2rFd6FDXZolozXPANqGZ01F_C_HsVOtptlTn09wMdDV9jdvovodiZJcKrenwCc00XM_tT0ntzzD8yTVS65SQMzXjePbUPANkBp0bFyxs8wpEAOCt5fuSmyoH3nhOkVGtH7IjiRBOgAGPTHecSC4AEG201-P5CpgHHeQ-nJHKX9n6Bb3h_6cB9qDXPoJCBlmHqFYwPKkzHvTBo7DOZxTqAsVjFlcfv4ys3mxHV5ywnoCh-6-_-Swqs0izEQkm3cNCh9ILaZFCWp7Pt2gqY4oW4wnsaljDU5ywJxBhF0gMP-wtxWJqJ-5xUVHGXHqMotPeoO6ED2cR41V09xGpeQoLazTwt2rzYiwPeBGL9BfvCS1XgumWSSguQevGaR4XR-KsJuzW-RqQNXz-OLC8kCVysKMX6QoypL4mf4ircWcGECuW0tvdz3yeHaQGT2CBdtGzsmgN_TtBKwoopLZNtm4RbDX4ai9zJV6eHJELbc-TKq2SRcwSeWXuNBH9F7Jf-1nIsjmgVxZB5yGIrQaiynb2WN8XI1m8hNEOVmbKrx4zzA16wKGa20O6UN2UOgWY8PTNGgQAYyZmr1JkVlKT7GTbXk59tSAApvnNZKIiR1j_TKvMwKu97HK8v6NSuKMjkrGAYiDgoMp1s0oOE-CKmB_cMV%26ch%3DAQEAEAABABQuiOn1_Ji5_PIYh0mIe7IWhPUsZpydn7U.%26v%3D3%26pg%3D2BDAYGYNOBGIJNXFCPLXCUCZ7U
+.netflix.com	TRUE	/	FALSE	1811411153	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+11%3A45%3A53+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5e427448-8b5e-4438-835a-3afcb8ffd0a5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FR%3BBRE&AwaitingReconsent=false&intType=1&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811411153	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRNmui6onhPMk7nz7e3_56yCuU-RiMJJy8.%26dt%3D1779875152288
+.netflix.com	TRUE	/	FALSE	1787651154	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787651154	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787651154	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jerzy
+– Email: amadi52@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: marzec 2019
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 4033
+– Phone: +48795113446
+– Quality: HD
+– Streams: 2
+– Price: 49 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Amadeusz
+– User GUID: K5QAKCJJXJEN7D3674YHAP47KA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810478791	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAyjFDiPOukWq__AetvrHLfWxRn--96YAiJ-GsX7sWCDyznBbEYbUOQRW8DpO_ZKbXMqs7D0JuBeX_Uru7jlqujK0wJynxeTd99Te89SP6gbw2WMObUVQDseeh8OdBkRNoXXUtr6jbfGg59QppfbFiJIYdjdeTXuU8EEiNOsXBdCIsoU1Mzht_rxwtbJGdxqF8qp_qUj4iccWq0w7YuEalfa2Bn_VLqzw0ySEChe2A-WFa7u97rjhHsfRKvNEXlcJ01b6gK1FX1NDpWWka8J4KWb1iRp_SCHoU8Mp88T0zVeB91h9FdtKPyHmY33lH3ywmXU09rFbLx_lKsRy_BUlbIQDaLp9YdTItx0GWp8AtT3cC0d9Dy1hEPnglStfBCkR_rTQRhpSzWCQQMxtCC52xYmpEgj76-itPtm1oxoN5nIsH-KHO-NyZv6hJAL4bvkaB6E4uA2IlJbFLB7vWwYGhuA25jCGH2YcbSRsVcG-oVFKpdlbqPNwiahb0WNZvw9cvcdRVUUdzqZdOpM6hGHfugyuPvIKmIWzGhQYBiIOCgysWt12rIlY_0uzrJg.%26pg%3DK5QAKCJJXJEN7D3674YHAP47KA%26ch%3DAQEAEAABABQVAMei4LWXM0Vs6rAGo-PJRycU2p27nLk.
+.netflix.com	TRUE	/	FALSE	1810478793	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+16%3A46%3A33+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b81d6ed0-c549-4c7a-abf8-38ef85ed8c75&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778942793840&AwaitingReconsent=false&fclco=&intType=1
+.netflix.com	TRUE	/	TRUE	1810478791	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTF4sGyLizF9xmHeEK18BWLiBdsb7bXaxg.%26dt%3D1778942791285
+.netflix.com	TRUE	/	FALSE	1810478789	nfvdid	BQFmAAEBEMrnmD9DOpWMAHPE1DhPLhZgBeKC0oOiRfwgz1ISg9e09byjVC-6Tm2TVjo80RypRASa_3VX_M9_tThl61KsPoNLHIkrA-YGvdGQ-S1YNgQ3nYCVmmp5i4pIb8TNjCBOe1NiJ0BOQxbt2pAVRvig2zc4

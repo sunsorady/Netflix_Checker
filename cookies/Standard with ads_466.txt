@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jig
+– Email: arron94.mall@hotmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: January 2021
+– Next Billing: N/A
+– Payment: SKY_UK_IE_BILLED
+– Card: 9119
+– Phone: +447496131466
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arron
+– User GUID: D5NTBB7B7NBN5L2YMXMJZ6BMNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1783623127	NetflixId	ct%3DBgjHlOvcAxLjAgjJnxRe2i64-jmXvjI3fL-z5dliqjIBkIHpJsZSnBiFWa6_9Xd_P-rGbscD3gE97Yv0ZPssZrHu_lkKbP1O1bbs1I1icy_bhaXI_OdIlVacbjSoGGsGvTJbP_6c8f26tc2TvxB-DtMRqMlwdiOYVcX8V1IfWrwqLMW1P5fCFqxS9du-J9p1USW1UlGv9pEjGVXA-lcb-kZxbk8579mpmFKrU2HoUpvjoNC93JE-5V9au-DxSadt6bYKJAauqJat73akVNi0Cs1V2uN_VpzLDN_gFkoARIqik-_z7vflIeEILZRmGst1pedPllwuvnJ9Bw6b06-ndvcuginlgOZqMTRqoMBce_wZ4vdevPRx2ZrZpMF5Svh-zySlIP3d2bhmEuTaJewcfYoQUFdj0ZM6LTt7lzeSZhKHam0a7ECFRnIc5dQybWiu--ghFtJWIb22hq7ZN6w9Tx1e6Fp6zRPu-0UyhE0YBiIOCgxDs-05-kQ3_d1OBaM.%26ch%3DAQEAEAABABT_kZ56_A4SvzrBn4jpQvhl3R0zRpi_d44.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783623127	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+09+2024+09%3A50%3A01+GMT%2B0000+(Greenwich+Mean+Time)&version=202402.1.0&isIABGlobal=false&hosts=&consentId=44c89b38-adcc-4dd3-bb0e-507e4689f1a6&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=GB%3BENG&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1783623127	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRvg9NZjJi3WIn6Zf7dY3Ph7qsMrMCfkuU.%26dt%3D1733737773370

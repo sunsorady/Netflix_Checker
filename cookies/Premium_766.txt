@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Caiden
+– Email: michelle8887@aol.com
+– Country: US
+– Plan: Premium
+– Member Since: December 2017
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 4676
+– Phone: +19045174174
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Michelle
+– User GUID: 2AOQJUTS5ZBGJFQROMLHPB4KJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783793329	nfvdid	BQFmAAEBEJMnQSmDS2Jya1srPMyQqtJguxvi26cMuzeFAV9B7AEK-U2_djEQyJ8NCsVRH8Ku238x0xlcibfjp2juJQEzesssg3TuW7NuJKoIi-YZVYXvHol67_euEvBofoRrBoAMsdgG3e1TNFS6A6Nqbz9o07Pt
+.netflix.com	TRUE	/	TRUE	1789706073	NetflixId	ct%3DBgjHlOvcAxKSAxP-yKVx6OJ3F3VqJnrdap4nU3r5pr5LiAvgyXqujAEq59k-njPKQSZ1vlSQce06riZA0kn9SZs0nJOUg7J-EpawnW3D5imI3RhMkouUTgJxk__tgKrr3tA_2yLCahrm3zCgLO6MdPjMfqK18j6B1wkErQ9yD6NqoWJQHI049b4CKKDKCjjyMI-QTBHm-3hob-_MAlCmcOxRu2BYv_nRUpaYSsV7YwEehPOT3r36rPUK4dwd85usTUhh70FNkDGkbc6OdABz3Mo7ngxVwDd6FTsClJdRYnWNkjKsvAAwVBNQxFvCgPnRswLWMG2THptYxNDmbjw188beCN1Z9t2zWuMuf-rbyxRcm2X1FSgwVwFkwnQvNwOeX82XfQI6ADLf9wOG0klo9djPVc-nADaOchCw2jmE7-ApT65N69lJFj3PfBZkADRmdut0gHJ8dqpGf8ua1NGdoW0_Dkrb24GBSxKqsTwgIbgerCMjd295IBmLOwv7hphz5OYJRxpxkbJqTgtrjjCewMgWkulHgluu9_HvZhgGIg4KDEfg_5oBV47qN5uvww..%26ch%3DAQEAEAABABQD9qv5QcJpldASuGR5lPUAN1yAPXa3Td4.%26v%3D3%26pg%3D2AOQJUTS5ZBGJFQROMLHPB4KJA
+.netflix.com	TRUE	/	FALSE	1789706265	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+18+2025+00%3A37%3A45+GMT-0400+(Eastern+Daylight+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e5f0684e-13f6-43bb-bbeb-d6bae6a28a11&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

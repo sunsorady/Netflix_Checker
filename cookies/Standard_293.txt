@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: James
+– Email: dawnmannering@msn.com
+– Country: GB
+– Plan: Standard
+– Member Since: September 2014
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 3938
+– Phone: +447415700384
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: James
+– User GUID: EJ3JBQWEJFBIDLDIEY3KX3DTKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807258066	nfvdid	BQFmAAEBEBWT1wsfjuoWXEdW316vjUBgBw7Ap73vDuGhrOxPpmay4FWMabZIay3Z108447_4K1lUv8AKhIYDipk4O47B8tj6SPk20-nYWMq91bQTZJ86jMPGXX-pOrMwscGOPenUo4it1cI0jIxfxeizHB6s2xrz
+.netflix.com	TRUE	/	TRUE	1807352107	NetflixId	ct%3DBgjHlOvcAxL8AyaZdhEZFzpSGNq0s4WYYMJRJR65x5iMyVP7EBZKRNFKSkkPf9avaM2-0iAin39QLQyujuVZuocx7m491-JPVnftSDRYZ1b4BdkVMV9JGTip-knBl4HjhZmElDS6hDYouo7ZbeP3GhqA0qEiauvG1ZBnyT7cXjU8NlG7Wc8GOUPrdycqttJovli90xMUoNzy3EdevoVc5P2tInKD2LJYo7GItBw6yMGN_Qz_a3vi40PAgqRRcHtxxITf7MuvKl4Tu5sfmtqJfOutHNqD0p_UcvDhSUP6R-3B8uIupuHx0ScLgHk5NjOUFXDGCZibq3W1TwJOX1GmytCZAQgr4WgQbVyx2xLM_0KIcxHgEwQyJSviZ-7wWiNk8nv6lBGLRKMlTaj01PfRNlDNcUOO-4qAQO1dXr2-5YxP85c-7-iPGZBoz8f7gwjQIrKJLkEKH0r2sUMdoeijJ3qE2moKmZ7bD0zBmWD4vf26xmRFhXYivcSmbdWrS3wlzWMKDkSb9yRSFOqQvFb087RJxfA_hjfy33-pUDZ5bZRFJlIv4xES_GaSjOGt8ndjnGeYJSC_V5knV0F9y74ck7rIx4qJt3HslB34AnESZ3cLDMu83RBEMGgvWy0CWVoMJuGi0Zy2bon0dyxUAFsd4p0V5u8zALJZRchGIBQ1f-bC-ze1CVgYBiIOCgwQh3S3pWSzWdUB0H0.%26ch%3DAQEAEAABABS8p03eGruEW87OIwAydMkOAeAeW9c_ric.%26v%3D3%26pg%3DEJ3JBQWEJFBIDLDIEY3KX3DTKQ
+.netflix.com	TRUE	/	TRUE	1807352107	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPv0no_AXIL8ooA2zS9wsZ5EapHDZR3ug.%26dt%3D1775816104737
+.netflix.com	TRUE	/	FALSE	1807393021	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+22%3A37%3A01+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eab79bab-8ff6-4902-80f9-349145c2f12b&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Marius
+#EMAIL          : lilianalatescu86@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : juillet 2025
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub [HD] [Streams: 2]
+#PAYMENT METHOD : FREE_ILIAD_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:21
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1792237666	OptanonAlertBoxClosed	2025-10-17T11:47:46.629Z
+.netflix.com	TRUE	/	TRUE	1795261669	dsca	true
+.netflix.com	TRUE	/	FALSE	1792237662	nfvdid	BQFmAAEBEOO9anPjA5Od-5llXjdtJF1grG0pQ5BRSEoQ1mi7QahgZAJdsWodreeTc48LhH9Al2hU0mYRITAtjIqSb8aqtjzl32xceYtMZ0Wwr9HoDhkYWlf0Mn6pAoNmKjO-jOGrBkzqlmJpr5_mPgtDvHDF5Rtw
+.netflix.com	TRUE	/	TRUE	1812366721	NetflixId	ct%3DBgjHlOvcAxKABBER-fpRYNlJQjjKJhG5XMDyGb3SEky__LqE-mruAkNippUPJdz3aL1zuRBSxLmXcEYediehgDD-fFvVGssBXo1PBT6lvmlPryjvDcx2snh1CNoakJCgQjWegIOBANqnV04P_9dEdrdqe3XgB4N3AhYm9ebdmppc-VYLou_uAMdDZyqjeiTtwElifzDTZqfZNcliq3ILoMg-OwZVevJ0BK-bmT1NzaRmYRlits2EK5YH0aWRy6-DNwKMvZ6fiv4f9wjqoxc6w61Kv3jVk23JmG4UVdXpBStepyxh7gUOp0J3MkDjGq2E2lXRauUeE_ojTtZ8kr3zHSb_wdS05o4obbgD1ybAXGpxzj2sxOCP90usA408EPoLe6jyBzGoaz11b9VYRxmNYJQ0davwv87k-E8jmBh-hTJFp3bMm-tQsI6dzifDoTkOwB3bY8BCTjkcN_9vt2SeuLuUCzneIWC587-27NsDFlI4kGTmGY_rlWEq3A7OC1wTUrVjG3E2B4pSq160WOMTOaUsEqwgeoKNg7RABqx4Buxr_r3IcRmsIM_CAftg44ohNeDUUp3hiJbR0VZLL0CXJjo3J6mcLXFEctPgHnT-GYl6pQLMcf-LliK_a88IRbT_WZoIL8ifkrIE3XXKySv5_Wbcqk1KYaT804Wpdz3ZdF6pMaQZtpjoFNeCGAYiDgoMfhZkpYYuGVjqQuFx%26ch%3DAQEAEAABABRqTRwy2Ouqeapq66wwK_BsMOppF-YS84E.%26v%3D3%26pg%3D3VZIOCMI7JCUFKXRRTTBCE4AFQ
+.netflix.com	TRUE	/	FALSE	1812374106	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+15%3A15%3A06+GMT%2B0200+(Ora+de+var%C4%83+a+Europei+Centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e57ac90a-bf3b-4867-abe9-aac800f3f479&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BBFC&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	51eabdea-d4b8-4f25-b30c-7eeb70334015
+.netflix.com	TRUE	/	FALSE	1788614106	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0

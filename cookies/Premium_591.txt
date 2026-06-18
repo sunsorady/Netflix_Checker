@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yop
+– Email: prof.fauss@gmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: julio de 2021
+– Next Billing: N/A
+– Payment: IZZI_BILLED
+– Card: N/A
+– Phone: +525561867667
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yop
+– User GUID: GA32XDARTNA65MQXD6EMRTYTX4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797484704	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AiqsgVAxX9VRM0sL_Mv99nILROzsxmdsjfWKLRSrX5OzOUNKsIw0i3DDrsHdHrL_cf_xFmqCWl_oOIH2ImuL69ZgRXhcJptz8MRBfHXdl8OZXHqvMICm8yzrVQlN9_Cee7hFDGAYS22dmXHqEfe5QeT_M44bovlUJYaCVnEOjaKaOi3PR_VKQ9d33ddgrqMjPsT0d6r00oCkshBQiBl1oVJJAfSnctH6Acin0PW5fBXT5Mrrw8Pws2JxvrXTbtfc_QI04D8dRuLxUQEkxRxkKrg34vnUkzMYpDIscR64-8Qu63CR6UvcANGvaPZF4AFZ2V8JP-r6W9MD5zrbDpFIWK7ViE_6SUEU10DMGivca9IsDtUDbe3EeAM4cMPI336Amj-yZEIOkWsB7VrRd4-dOwQ6NoHi2LWzmfuoGQSFq6QIldC1_XIbkIqkPPtvBkD72Qqq8CJqtAby2Qbbtyb9rfeBJ1pcqg-AhTrH6Vju1xyjUn_aUsp9N1MhdRgGIg4KDCTzkYhSEeDz0BnfQA..%26pg%3DGA32XDARTNA65MQXD6EMRTYTX4%26ch%3DAQEAEAABABQSZz9A56fVh8mspFP5WU163_tJpHd9I9o.
+.netflix.com	TRUE	/	TRUE	1797484704	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxs8MgnsuCoQ4AOTMFC4HAS4hXh9xWo6M.%26dt%3D1765948706122

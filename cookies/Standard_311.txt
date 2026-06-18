@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Meir
+#EMAIL          : meirtheoat@gmail.com
+#PHONE          : +972545535414
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : Israel 🇮🇱
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2025)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-15
+#DAYS LEFT      : 27 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:29
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1805711108	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA9nIpc8PL-LNefmqMUxbSDEEDYD3WjzvULNqxZmcWoI5fkdjObvmv5VuRM5w_nL7a5f3kC7QRHFmvi1ZwWotL1BpyTSonjcjId5uqnmVUVpWpE7YbiEqr__AZ9BRsPRN97mqbDL6VpxYTFnNMsu7iKam3FHw2ulJrjO69tU7pDGQC3eBg9-oX5ZkOU3Ii2DrLI5zCabjFBTkAhYwTOg9qBtOFgJQ8_y0DR7TddjvnulIPlgaxzaWDStjpuoFUuJIp1yoJJxGpVmmDlGO7n6srFBqCBj66AKcFDzcxszwm_xj2-7Q68VoWP5rvk6bn_UtOXmNDdDJpU9o5e2TBMaudPFaOLHAazaX5FQ8bJe55f_yYmy-HJ9sTFfgnx6zfshGp_8hOIqXAzXEd2LlueOZMCcaKm_5k4Tbhq275gCHBLDQmm08pQc37R1GL9L1_bZbvbvNdP3JpXx_H0NuFXE2VBbBMDu8hccSwjln1GLQlXwUL1FU1AAIb2OVxc1TelSjH8PlNpQQJtx5Y1djA1KB4IjoR1UZL2zHF5A0qS-KGAYiDgoMqoiSAa828N3nFI0W%26pg%3DE5P3MAE265DGNI35DFRPNCGZQA%26ch%3DAQEAEAABABRjAB2OzYAZeVTY_UwPAxzK5VcgUrZLOvc.
+.netflix.com	TRUE	/	FALSE	1805711108	nfvdid	BQFmAAEBEJrKGSQTziGyXEpol9Zn5IFgjqDIorlXpTcm4fR4sc5ELkeHuJvdHSfhNMgBcNjrCeog1ggN0QcrLZ6FVRU0pXL8DCYmAewFsw7Fk8W4nIz0hTHg4PqOzHxLgiKNIQdfg__UrlBGNe4G-L_MlftLA6K6
+.netflix.com	TRUE	/	FALSE	1805715190	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+13%3A33%3A10+GMT%2B0200+(Israel+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8e5ba5c-63fe-4b9a-8caa-d64d3e352416&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1781955191	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781955191	netflix-sans-normal-3-loaded	true

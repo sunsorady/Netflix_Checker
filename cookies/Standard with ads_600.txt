@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vovo
+– Email: vovojosefaoliveira@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: outubro de 2023
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 0913
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vovo
+– User GUID: IJP2J3IVSVHUFAGL4D6SUP5DXU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788280556	nfvdid	BQFmAAEBEBIHQCpurNkm1NXv2mKG8pdgiFxImyIetBvXNWPOoC9gh6DHupJ9AzlLH_CRfTGZt2KZleWY6DMV8ATYp-JKDDt4B2c_3Qki6Vs2FNrgaWNV_CxXlCnrgedjm37MGTfcUd8bHzrlxL5ubU8sPw7PkmfH
+.netflix.com	TRUE	/	TRUE	1805477834	NetflixId	ct%3DBgjHlOvcAxL-Ax7CG0r3GxaP1bDx5h85bbt2EMHjpN67VX2v-DK_psc59d4h4-RlYRRP9fYFD5y07o_AzkTlyceZxAE7r9FYVTbPIlTSXv7F_polEDROkJ-76-wGI9wRJdHXxGJATCXbfmJQboym8C1MMKRrkXUSmJKGmVEpDDla1_GmpZa3AdNplri5gY_48jH2OAHBXUNqY9k9Z4xpgxSXRXe5Wm-SqXLYVBsBX1NMDpUNk1yj8XK4Xz8e9ATvFngU7nnjjSFquxW9KaHAMd7c7YPyZ_TYtG9f75g0yg58jd45iPZ6SoOKd7U0z0naOCZfqSFsGHGnvJGPAR6ItEJtAajPdTISeASNgbg8tm_I86nILXkCXUbE9BKIFhZGpEiVyhfwEW_wPJ2XOfk31Si2fSxOWankYF1QGvu9_qMlC1ABcJ6k5_t_ZGvcF9u-gcSw2xDxN8KwUEM8UMVGD1mWnkmmMlV4MiNkPBj5tUkRHyW85r_Pyq84UREcoKgsWtb8ZcZ64Ptvp69TNuyqQR9AQhgcI7l8Jm3CI2Fmbw7gTtJY1wxI3b_QIb_uxPqMUgxBsdrWzpTD4FvnZDgB3PgTcdqre9DwVj3GfsltWG9sDAFpgVtOv5S5KWvdzZ7gzbKcxSxMaV0QXo1YJx9m7HdteE6fursTg-fu_icGi0xQ_l0OOVpSbBgGIg4KDByUUQhNOA8crP8QBA..%26ch%3DAQEAEAABABQ-VJk9Lk8yS8PxeMVdVFspuF535VuFa8s.%26v%3D3%26pg%3DIJP2J3IVSVHUFAGL4D6SUP5DXU
+.netflix.com	TRUE	/	FALSE	1805477837	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+14%3A37%3A17+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c117e371-fd27-4e67-bdf2-e276e3f2fe63&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BAL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805477834	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRTRBIn6JQs08IyIr2ysPQzSZIgfX4uz8w.%26dt%3D1773941833987

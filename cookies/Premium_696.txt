@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Filip
+– Email: danielpersson85@hotmail.com
+– Country: SE
+– Plan: Premium
+– Member Since: November 2021
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 3526
+– Phone: +46738362434
+– Quality: UHD
+– Streams: 4
+– Price: 219 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Daniel
+– User GUID: OCWBMMUVFZCCBBXKQG2XWNSZTU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794842416	nfvdid	BQFmAAEBEBR1zhBAA3VP8RJKrdsma6hg-R_yVfyqVZh5BcZ6iFOSqlgzkBQJPl-3P25k9hD0tdnbM116zktOkpfUcGN4NADzqQkXPKcikQ7IX_JoVTV4rRZxIcOrod9-O6jJHwDXavoQFbpjeJZSc1frUlJtya_0
+.netflix.com	TRUE	/	TRUE	1795816371	NetflixId	ct%3DBgjHlOvcAxLmA6U4g6UtEGvsN1oiPoXz2jFISJK8c1eadmm_qOcCYcRbe6R9zVba8t4JurBus_gPdLL7_LLDX1lA2AytldagXTSCox5AVZyCBSXeSneNZfLpOLThvA6RkTbbEvsRCv7Lh_aqC6Wn3q0li19xpmytSQmL9SxcDg3EP1CpehaCzt8CQMt9ZoeTrgqCqwAKjxUW8d1QRXw4e_YAU8LDxoZ9q6cnJXpI5h4g_4kXEIzxmMCBdHAWJQcbb7O46AUDou5TmAkzYzvgd3mJhddkW-0NEFUcztK5616OwQTq_apFwwaFrvKd0-bABfrCjP7boatTS5kLNYZkRpHnd-MMk4mA7ES-onRlOsUP5Y7RSyI4VpkToZ6Q0GCNUmMeRXFzSxGpKUNWj9kja0GyKaxggxc6c0LWqD41qNooSyhji8xopTE0ORjARlb0WMNvusHQ-WXOaNkWUrUVVsHWQHOkwBDGU-e4jMpfFe5PHA3iRaOPfxHEaul7ZejR42IJbKbA4XeUVDSl21NmTV3wMn8k7wsgWCy1NJEMzFBswiGETIgYnD-oDjJSfPWkEasla2abQJNBiywrSlHa0HPYGX41Dy-KJjMHE_9BvNkL2Ts0y61WeS9G_ziGtQH-PKVZT4rJEQrCg_xFexPUfRgGIg4KDIY_iqGLVq9h04Y-yA..%26ch%3DAQEAEAABABS-YRtuLRqEyYXO1z50gDTGv62PptbHw28.%26v%3D3%26pg%3DOCWBMMUVFZCCBBXKQG2XWNSZTU
+.netflix.com	TRUE	/	FALSE	1795816371	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+27+2025+22%3A52%3A51+GMT%2B0100+(centraleuropeisk+normaltid)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=56c85215-9241-42d5-bea6-5b522c5601b2&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SE%3BAB&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1795816371	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCRILxdaX9L4xNwbA0SoeS8YSaj7nLNNA.%26dt%3D1764280368010

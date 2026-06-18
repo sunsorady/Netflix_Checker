@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 龍
+– Email: gizin8822.t@gmail.com
+– Country: JP
+– Plan: 広﻿告﻿つ﻿きス﻿タ﻿ン﻿ダ﻿ー﻿ド
+– Member Since: 2025年4月
+– Next Billing: N/A
+– Payment: BENEFIT_ONE_BILLED
+– Card: N/A
+– Phone: +819035051047
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gizin8822.t
+– User GUID: Q3NCK4UQ6JH2LJ5UJ6YMFDCP7Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811047734	NetflixId	ct%3DBgjHlOvcAxKBBGBBVN9r7ughCFVuYr1O69Z3ZDqjk8Ay0z0rNKBxALrKYTN9TzRJErZpxfKbWasChtncszrrksDWgrBMsAudLBedebyH33bZpFouu6-LXsk60Z8GZ1fRWY0oIvfGOwmYMLbgSO_ZCzVcNYycob33KWMa2azJNQnlPWvRYhV48cejrBugt9IHIIWJXoGBx51EQBvwdSOBR0aqurNmIY4ZjahgXzy5q4iEKoCv6-H1ikM7-ARBflsy_8PubcK4qOWHyN3YzA0DNOr8zPjgDIse_qKfPMSaJU1-wg-JBSsNH_XRhdrCu253gaz0RW2dB3EW3SU6BQvkdpbW93PZe3EspKinQ56aOb4Jis4N2DIrILY3mKYJFD7T7MI6cQpLVUR9j0zGi-_-XhUE5Ze5nO-hCNj1s5d_wx4jQjH8JmijfgAcFCjy2peebhRE7Q5Hq01GjP5R06Y1NbYNK9yT6gGwdXBF22uBPYa94Mg1tskFsIz95XdTHAldD6WroWMH_1OQr65ZYOs5FxxHWej48vtFH5QRMYqn9lrpBDtT4u0Wb9Cw8t1OUGbJTvMxbdY1PZyYKqqkJlnzvT9gkWceaO_EiHYAjFvFslGNuKFUZq6f-FVuulixxjjE1B8oORN89BIz88NJyCTpCroT77s7a35Rtn91vRHevklH7s2zpVnvCmYcOBgGIg4KDAEmvEraMMldFKBpYA..%26ch%3DAQEAEAABABRhtYReURlSb1ji399Spf0exUJ4LrPAyqQ.%26v%3D3%26pg%3DQ3NCK4UQ6JH2LJ5UJ6YMFDCP7Q
+.netflix.com	TRUE	/	FALSE	1811047735	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+13%3A48%3A55+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=678270de-1de1-47f3-be90-673c948db14a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1804585049	nfvdid	BQFmAAEBEFH1yczRd9br2y9U9mcXxR5gWDucOOJEPPuCao8iWnEIZVeQOQcJyTnUkCXC-xdB4b_6QLq0OHKOLu1EeoYvbQlNKykANQEJpGSco6wVMGNGECDOED8bGQuKwE74s1xx2JXPrfmNvu05XmzPosZs81GV

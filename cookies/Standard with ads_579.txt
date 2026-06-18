@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Kauan
+#EMAIL          : pbcro.kauan@gmail.com
+#PHONE          : +5515996874147
+#EMAIL VERIFIED : Yes
+#CREATED        : setembro de 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2952)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:29:40
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1812391028	NetflixId	ct%3DBgjHlOvcAxLhA7zdb1gu8UzbWSsH0lWm7jbyGKOBXXYT8NDGTDSBcQpNBiRRyTr99CiTP1Fa8nnm0M7PuyGQ9iL0eex7WULkaRzBJ4xnNYf6QQlp55Gu8a6E9jztEL6M7dAgRZaogEj6bP18PH1723omYSKbLfA-4QmlrqTJQcDcK19u5yNepfqc9nfBuH6Wkpdmapm39mUqjUQNbFp4Uw-kQDxhQHBrZ0uzcokXR0YOS9hMO-EfwgZqueXKkH3WVkvCWqovh6CJxOJce4ynNK_XLhq3mxdjjwRGACoAdYc-CmZb3INI1lks0s4VOhupJByvwYhsovQHALkGAGBYHFsIqdHvmNnPlOrZyNhqMLNxDq7B83iVpzFa3N2ahnzuOZAA6Xal0PIO89UPxmQPyGY1LU2BMaDyyIelGmDub_IpNTAOt-U7PdwjmoOkk9wPdb6K9jsrgxsIsZ5WUSiLESNALcWj8gr8Av8_nTyVJJEgoF8Qx02_Qqo-27MU64tR2Phu-dRcitLAxRxHf7BlRmgGLKEwP6avs8bYtqtDNFV6iQRarxpwD6q2JYogABgSAMIxyxmt_HnlWkYeG-NjZh24JGDVJCXv50_GkhbWTjBd49r7jYkmhOxSsAp3YONywcTFTaw04bgCT4cYBiIOCgzCloCzFa7bDb8gEfs.%26ch%3DAQEAEAABABQYO1zntRm1sxhcD8mOv-3ldCwh5T6J2Lg.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1812391028	nfvdid	BQFmAAEBEOF1oCKsbiZ-gXKJYgOahylg1k_rK2DDdIwnXZR7f-NGgfK0gz-x4l8jRvXHVK6KNgMe4mlu4M9GcV2_GsihpIMjMxhYMScOfF7tRo7ajxff6Lt6u57P0YLmrSXFUZm0-vRoowHnB9ECY3hxhxGYbV7v
+.netflix.com	TRUE	/	FALSE	1812391028	OptanonAlertBoxClosed	2024-10-25T00:20:19.513Z
+.netflix.com	TRUE	/	FALSE	1812391028	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+23+2025+10%3A45%3A09+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab0f0192-0a8c-4f27-b1dd-363e8922dcfd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1812391028	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1812391028	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1812391028	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQvfvX5hFpFd22XUGtvB1UIUij7rmQnkH4.%26dt%3D1737639920893

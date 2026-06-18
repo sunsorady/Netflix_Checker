@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Anime
+#EMAIL          : jerome@austruy.ovh
+#PHONE          : +33669434920
+#EMAIL VERIFIED : Yes
+#CREATED        : juin 2016
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CP_FR_BILLED (0641)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1790434854	nfvdid	BQFmAAEBEKlDQPofN9zHkwNXApYRXEFgCVWDacAr2CEL-ME40-1d7LVFB7DKwbBjD6axSfGxEnRMKUCr9Q5retygGLfiMzDxKF8j0gYRzWy346cppZxXZmMS-WP6wvGQG8otULj49ssZxgYY-C8-JIh4iDj9EU8-
+.netflix.com	TRUE	/	FALSE	1802694483	OptanonAlertBoxClosed	2026-02-15T12:28:03.825Z
+.netflix.com	TRUE	/	FALSE	1807134644	dsca	customer
+.netflix.com	TRUE	/	TRUE	1812378035	NetflixId	ct%3DBgjHlOvcAxKDBFb9NTILDNHTqrih5_Uid9jxQ_qdZy9gV6_0zciMEld77sK5qC0kREHS3vkGrs0DMdeNgSLNEM8oSoR2pJruwwW43FbLriDB0qdZveWpXzSdmAN4YTWmWUy8V_yo87KAsUMTakR1icWyG8nsuXuPjfoFx-lpVAGcZifKRt-7ZyV5GVKXCCimd4UR4Ja-t2-sv_kyV-RuB8yd8fATY-WdxTjbrAMYuvDntU22fMC0ACdxSC9CVLpbTgnYSn2I9pOJkr7BfmD1BYuOD8Lfbnix2p49MEaSpEyymwL7mmsnMMlZIWmqIhWIhbh7iHuueyBFB5dgEgYZSdvit7S9R1UJgAwiDEIjcgOAxqNuZM1cpS08iDPhXV3gn_Kcaz9xG6sfAGSs5mgoR8ly9_3ktBj9YZnIaeSd_ZoRptwyXwcjHXULJL_IgCdyyZFIoBjfZV0MML7XrZu1V88oihWJvcC_apQsHqTIQzYhS15-5hBUkHuNYY_ncMf4BrjjLzygazNU_tAKGRd68P0abrvufMTA4npOhWHwPFHSsRfKw6WPLJZjB2K29196MURAyaChNwfsk-RW2plToymEj3kWCvQ-VNQgXQCz8QlpRFXBLzj97-AUxPn26GzKZ-szpPhW_buIvkyH5CGEg8eGxZ9pL4yLH8lYRksirxdWznSJ8ETrDowWiOskGAYiDgoMpw0HygM_-Xdsi3P6%26ch%3DAQEAEAABABR7Cd-LG2MWjPSZXX5EZeUUeNLSj1MHdQs.%26v%3D3%26pg%3DM6XDORSLSFFIXHKEHNBWKOPWNQ
+.netflix.com	TRUE	/	TRUE	1812378035	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzcMFtvdPUpjf1JDMbYZouMZnHqNIVOPI.%26dt%3D1780842040068
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	b6267cf8-d4df-45cb-a8e3-022e78339f3b
+.netflix.com	TRUE	/	FALSE	1788628432	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1788628432	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788628432	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812388465	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+19%3A14%3A25+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&isIABGlobal=false&hosts=&consentId=fde67e06-6ff2-4a6b-ac57-892fe7218c4d&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=FR%3BIDF&isAnonUser=1&intType=1&crTime=1771158484399&prevHadToken=0&isDntEnabled=0

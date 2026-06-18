@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Malachi
+– Email: malachitice745@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: November 2025
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 6823
+– Phone: +17313341175
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Malachi
+– User GUID: TFD5THVHTFDNLBG64CZ3UDXKPY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795570752	nfvdid	BQFmAAEBEFPDHLBjq9hitIMDVcrAJ4tg2XsaefeC_cBOStg51ujn-M4aPXR-VYbfWD38jfvGeVcPosJX5xc5VdZvM1PT_eg2IVoaL9h0RKsBdaz2Og5THDu4ilW_eXQdRtyk9XKtk7EdMcjms3bmzNrOI3Enzytj
+.netflix.com	TRUE	/	FALSE	1804818924	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+11+2026+21%3A35%3A24+GMT-0500+(Central+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=189dca75-9adc-466c-9485-43d0ce0171ec&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804862722	NetflixId	ct%3DBgjHlOvcAxL8A79qilKBd0ZMCrfGe-yjavLhMNMgtRuz8Jq3FCHgm029kPQUlyBFwA5C308iHe9HQWBT5w9WaXwd2JMrcp4MuZqC-Rx-NKHfubd8UUzGpkG_6g09NIdBIv_WSnY7L14fCmT1-HPpEy1cIpasMc5pX_jSioRPiPgVTNbjFWg7HpMfPHcAk0aqwJ-zWlNHApGWR3YXSJOkzOXwt5xMSqckq2jum_e8I4q395qSQUEXDVNTeRlcsKtZeclMbMFym908L1tSP3eaJv0S65G5iPWnnPVlHf-XuoU-XftkkdmjH26KkvDvMpqMDG6El4J9zVRc1yg0cjhyRIGmdyBOvBrl13vD2dhDnONq8j_HfJzwDebHeo53XZDT9hfrqSYM7O4d7b6lkC_v5cT7z1m5bqzSa7OLw70KnDHSwPPI1KQDWnL8XyzNG_mYEsxpYcOHZPaxu-fPyWqwyCBZO9eXe-l4ClGwMgnXTjahGWenQza5TpZ-ywncU6eR8YNRmxY2lbWG2HGFgTkmgT8d7tQN_ZKrrujho8tQxtuIBYHPyiQ5P7UKu5XPRXVGMkv7MkNHp4wT-WHdJt0GpEUkJzx7Tr4BkBI64WZfvI91U3LUnNu0eEVOTAvB5LCaWCDq_zvH7dTUVBLEk8O3TfmTuYzwdI0lHJ9Re7fojtWGLViVvmcYBiIOCgyMbBYTZZ9oHghz_rA.%26ch%3DAQEAEAABABSjaFUQScl70cmPEzT4ngX4Ai7e5CYyR-U.%26v%3D3%26pg%3DTFD5THVHTFDNLBG64CZ3UDXKPY
+.netflix.com	TRUE	/	TRUE	1804862722	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTwWkJwdXsI4FBaukk98nO0219P3yIukfI.%26dt%3D1773326721782

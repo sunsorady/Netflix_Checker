@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Akun telah kunci
+– Email: auladi007@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: Februari 2024
+– Next Billing: 2026-07-12
+– Payment: CC
+– Card: 0802
+– Phone: +6285727999205
+– Quality: UHD
+– Streams: 4
+– Price: Rp186.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Akun telah kunci
+– User GUID: G4OMEJG5WRHJ5PNTCGEVZ7SMLE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788244729	nfvdid	BQFmAAEBEEzZp481Ifkk_Bid4Z-0G4BgHtrcD-ia59DAjg6G_-ykgP9o7KZVi5pNsZWcHGXO7sovLrnjH6d0AVT_0oGHoTyJ5FCuy4j5dFtKEs30O9ussNrQhQbwRWEdcMrdMlr8DBMeBVse6upQUifWjHAyUvM5
+.netflix.com	TRUE	/	TRUE	1811479424	NetflixId	ct%3DBgjHlOvcAxKEBI7SaMKGweBiIxH9EaZ88HQpbVcp4zFRITbWhNMIBCJ9rVlBKCKqwmWXb3u_PJEw44mg0f2hmeOr-TA75T-Hq6qtfFif-fUE8K5KFZm0X9fusG2_B12bFdyQkkoL7iBA3ewdfp8KTjKI9LRRD5FPN7gwUag5dom69J8gIXTZldbK0xAJ-epjxK6nGhr2C6e4g8VooS6PAg23V_EfUSUJPuXosTHniyoCEy8CopC2modXHz58Z4aNhcWPOD-_2c90b19WiRqugTTrReaMb8n_5yRXIsXjpDsDzia7qO5KRXCmGVlejWK8hQy7bxP9XngMEwWc7epNgD9ABcKh-Fljhf7TXMl07XYqpxbQsdGkfF12_1sEWVc3gchCVGaSSckBxjuhE05MTyLIlD2bK66wrOLi8UXiMuDfwzhdhJDAPIvCiiA1m50ePYdlsHv1q5XQ9_uauoDCsbLi-9-5EOhlSqr3YDUp30T2CptmavugoIsG0gyJ3mFx1UFrkBoiWiAxBML8Jl48_VHFuqGdhgvowNKjCSvKJ21hsHj2TbWnOOAC89DDauVMLFYCvMxw4LvrQS1xepFynDi6_kCAmhvki4BQC6FoL2VCJBsgD2_562TTwowZDBWHiNdO9w6nB7VA8YrkVTCJm52SBgFYCtyGqeW9H03rQCbQnuwBN2_w9DMxbhvGjhgGIg4KDAwVwDJPTiyAprxj6w..%26ch%3DAQEAEAABABStuS6ZG05sCCacCwDyRIaClaMMsepyVF0.%26v%3D3%26pg%3DG4OMEJG5WRHJ5PNTCGEVZ7SMLE
+.netflix.com	TRUE	/	FALSE	1811479427	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+11%3A43%3A47+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2fa3e98d-4a56-4a34-9d02-bf6c31ec2968&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

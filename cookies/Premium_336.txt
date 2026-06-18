@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Chubo
+– Email: martinbwembya@yahoo.com
+– Country: ZM
+– Plan: Premium
+– Member Since: marzo de 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 3682
+– Phone: +260977788354
+– Quality: UHD
+– Streams: 4
+– Price: 9,99 USD
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: martin
+– User GUID: CKEMNOBB45AERC25YMLA3WTLQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798692908	nfvdid	BQFmAAEBEHmKJguSACHd-CQlBA90U_JgWX7dgmT7OwDwIldWZjvqK7tqBOg5FZ_E0FWpU55QTj1kk7H2lhrg6OWmpJuUntYYgU6I8SCcpdcMt_VA3TEYDfK2qAXr9wo5jgGtVTEdWqf5X3-eZLe2Mmx0meW6p5Y1
+.netflix.com	TRUE	/	TRUE	1807527784	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSaavrXvB2L-_XAy4s8fDlKwRTYv1uxo1o.%26dt%3D1775991785384
+.netflix.com	TRUE	/	FALSE	1807562726	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+22%3A45%3A26+GMT%2B0200+(Central+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d41e29e-2c75-4fa9-80ad-e1f45f6e9d86&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807527784	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZAxV8YWofjxu1ZlsaHd3_2tb91dYX5W9pghKUejnSXtcfaeXA62x4fdrxP0FG2nWMODlX2Ted0KdY-knCYuIXdJN1Ppbg1IUr7VCjy4z-oDLwpeV8wbBeBRI9tDW--fsEC4lQ7akOlLcIv4T10wnFNQzvyndjRM2ek8nypVUYXKErU7r5w8uiwgwEFSLe6rgcnztVEPmmpcMy-bn_zVKlaH_TB-_lGDOyBsdMbvYWNcAma-evXph47QKdvpUJtZoxrGtT80xqHp_-eRnyDxHs7Kv9MR_EgM741xXEKeSDmkhJXzVwYc8yHbtum_o4WbPnHeXSUB6MN8LtXHrsOAkbUGRbT87mP-w7uI1SomjcC29ox3t_q-pMgrT5pk9ECZhiVGBu0kxR-MvW0ZQb0-rQR8ZB7A-0u7WFjazxqE_8A7hwDbsNY38IDcYB605lixZOj9vNNfBcbxz5_13Bh_HaUVpWdPT-5K_PhDp_l8BqqUfvDoh0ilWpb7Nq9ltpa5Xq5syKTHbfNiZWbFr7HRaKbPnhHwEPQuq0PuYYBiIOCgyBYVM-rl_QGfuqCIs.%26pg%3DCKEMNOBB45AERC25YMLA3WTLQE%26ch%3DAQEAEAABABQGnm9L2pPHxZM7URMtpH7SDCOfquybDfw.

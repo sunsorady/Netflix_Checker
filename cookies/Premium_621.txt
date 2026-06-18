@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Manuel
+#EMAIL          : masaca2018@gmail.com
+#PHONE          : +51960456779
+#EMAIL VERIFIED : Yes
+#CREATED        : octubre de 2021
+#COUNTRY        : Peru 🇵🇪
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0078)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:39
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1784160487	nfvdid	BQFmAAEBEH1N4mQTsA0CuWKVMvx5q_VgmDuOpPxKb1_hXHsoatkFRcLG7gASJkitBSGHnfIIhI3ujv1lLLGBl4DQGkToomoyRSMMudasH9n2fZqXvIGG5XxFbA16z3YBEDs2uHx1SOhtx1PcfR0j3PXrl8YU70Zz
+.netflix.com	TRUE	/	TRUE	1807672732	NetflixId	ct%3DBgjHlOvcAxKHBG105FHhEzsthaUxsLQ97RRi7d5bAeWIKAPb-3LQdkkSHAv2s48bpQMrkfZdFeVi9IYUJ4Uc7tCmfMswXAQBY6B1LhqZauaNNpW3tNCPoadaVhI7_FNojtgjlGHwH2pRCokjKGUq3rfRwOzB0VpdGBWmslXYTnZX0Wxqk5GbWXKHh_pyiKa3MAlZqkr9kEj04cp8BhdyVKn7mQNwrTDYd6A26yoPAHe4VuE3D-VGmT58H-ep_pO5nA-RtKQP25iIPbe1RVRZqrbDm5gUJOKMFNp94tO0D7Pn4y4NggXRykGLos7F3iMerZXwi8xZyyx67mYiEPyiCAKWHy_Nhz7X6lhGdntsdfsVmCZL2glj5ZFjbCT55sfXhlderxUjjDaR6xjm7Oe578EeuVQcP17vVSVsuqTg0s0f_aiZ3q54ZVvQWmR_W1DoOCzDDom69i250kgohpQIVWwO7uLjyAvIbZ1vUqF0R74MxvFf_-75aN9_RZvwwArLiFJtUgZJ80FB9VdcixNGNgu0qktCLtQtmLHRL2iOMAqT1eD-mSBadzJvBx7WCTrC4bEc_PGoWWRHP4vseMvFy6vhDSVbWeUjcugdR-Kqpk7q2SwVef15-yBUBFRZb_4l4IAJFNbvO59R5x8GbYu3Bk_uioFF-qhXpUJMrkgWhTGOMzRp0Q-oRymIDNrvO6lryhgGIg4KDB0bLB3_Ao1UbiTu7Q..%26ch%3DAQEAEAABABS7GpGFPkTEWOG17uZyrJdgxpDmk3DFTxg.%26v%3D3%26pg%3DGIC6SWSVRJDTTB4N5Z5JXXAUAU
+.netflix.com	TRUE	/	TRUE	1807672732	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFsovyRzSns3Oe66WlEyAN4BHeRJDaxVk.%26dt%3D1776136840718
+.netflix.com	TRUE	/	FALSE	1783912733	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783912733	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783912733	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1807672735	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+22%3A18%3A55+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d61479b-e5c7-4e62-ad6e-2ec7607b3794&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

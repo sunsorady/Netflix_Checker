@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Vitória
+– Email: yuri_silva_m@outlook.com
+– Country: BR
+– Plan: Paket Standar dengan iklan
+– Member Since: Desember 2024
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 5980
+– Phone: +5548998517767
+– Quality: HD
+– Streams: 2
+– Price: BRL 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yurigg
+– User GUID: JCXDYJRLCBFLXIOHPDHZRQEX6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802628974	NetflixId	ct%3DBgjHlOvcAxLpAy2v4f7UA6zLPQgocJHbzC0c9l6N34Sexrb8PPELbq8vCzNv3dsLoUrksg_VEQi0H_bbfNWILZXTnfC4Rm_neODSEvgJeTlIBvzoUsaB20aM90YyDgSoBYC1by5gfQKaKnRgXaUeqsooJwHwyvwLJMeSzdjWhbXJhhksus4xHldgs0s7Dc5RnaS_KnQKxBdMQiTFBfxPf-w4QLMjcc0UUaD3uDdtSZlKvLoam8Lbp7zd9hxUhq362cYGzaxkH-h8yliHtCEZes0nDKOlp9K0JzDbOcejo-SkyxA3wuNbJuGkPwtk7ywEbZRpuDO4ynhabeK3XbyrPK-ZLzzBrKqb70652gVJM0Segjmhaxc-fYe2eh-CLsNhKEEbh-ptKJnxWqmDPK8zFD1Xpkd9kQSaK-hcYI5SSXqyy6cunwPe48_j2TVRVBo5ua60YUNuX-4oDO8njUHoASQD60ksZ0W4lsg61heq3ju2ZRjiXtYhrI8PGzaEJTUcZqwri0PXjxeDMbfWPE_GZ-PiVpqdZNW2YydRFJuHrg-YOFiqdWaVm4GDbBFfJmPADafxfiNpMNUDTwNOaiHSAxA_U0qozeUWvP63HMOuyE_ajsXq_RcEuzkAmtIPdMMQ1BLyqzQRjAgTdYbnuqzvsPpjshgGIg4KDC0xNVcP0LOIrs9PBA..%26ch%3DAQEAEAABABRBHt9lQXCx1DBsvlwfO8-8Bsx2YWgc8J4.%26v%3D3%26pg%3DJCXDYJRLCBFLXIOHPDHZRQEX6M
+.netflix.com	TRUE	/	FALSE	1802628977	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+15%3A16%3A17+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b9f03a09-afbe-4269-a736-27a295c9c232&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC
+.netflix.com	TRUE	/	TRUE	1802628974	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMUaRTdEPU--larSSErLuCtSp7JHDSxJc.%26dt%3D1771092977275

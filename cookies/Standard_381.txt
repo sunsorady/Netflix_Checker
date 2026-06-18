@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: arianna
+– Email: ariannacarver27@gmail.com
+– Country: US
+– Plan: Standard
+– Member Since: March 2024
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: 5583
+– Phone: +14237409405
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: arianna
+– User GUID: ZEPOZGQ7UJB4HIDIVYUISUPU5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811990191	nfvdid	BQFmAAEBELhNlZWJmiOlRXqfUKJ6NJ1gBi21nuvdfGp0PrIcpz-DNORO_-nB8jQPeOxN21FRmKOBE0C_nKfYghXMgDM6aGs8f3EXk12nnW3pEAWD8pR5uCNxBJ7QtpWoaCdJI6bmD906d2l6_dD9L3HtchXRkQO_
+.netflix.com	TRUE	/	FALSE	1812026326	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+08%3A38%3A46+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bb444625-2777-4926-82d4-b6ab08811cbc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780454160334&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812080569	NetflixId	ct%3DBgjHlOvcAxLYA3lU64rAyVL0_aDaBBIpzw3jv4twcWPSTZtVZqkAG3CuzblnY0aRpPYbb7cYzrkH8N16aD_BHivZChevfYvHyUHkvQU_wN6tFroRHPgg4vm0jxYtQLAqSbuhDs5sEM3zIvRhVU7eAintrnWCRRRxItCpzuRjKaSAo_KB5gE4PD5TNgP19NNOKJuyhfz_4PD1IyN2Gfkj9_dJ5wmit4U5mR58bOXKYQEzjztxt8NlMTZLn0VrKNQ4cEWyCCF1zOwmJDzBaxMDIPTq4pJpzlLqZ2q6WwYoHg2fdASjf-xHThAoXUwybKGHu2OmdcMgYxmbRXzZ_gm6Sv8jq_Xamm1ZD27SqYslpDvO4TQrk9-dRRKECk4wjLCw9QRH-q6oRCZCMiFqg6Sn8BL_uVGfvj8KyRH148ZxAwRYxP3J9thleePzcDwxhlg6bJfJFUAnNM56V-Ki072kGF8-YJg4c_CS-Mqlc-frc6s1LsGcVbxI3fv8HYzGS85GDGSNrQK5RzS6sOb-yX8SPF9T3QXgfauLec_jYE_jn3L60jQja2S_pZik8b7aaJrf2ofuGsyW7ssYhloQioi6j0nDZzJbdhsvdAdGlswH9bVdFkB_Y36o8PcB6OJWTuhaJzgYBiIOCgxDfrv9WGh58EK2YGM.%26ch%3DAQEAEAABABQpJ0ywsG1bmPOJliNy-pJ0vt6cUqYQsoM.%26v%3D3%26pg%3DZEPOZGQ7UJB4HIDIVYUISUPU5Q

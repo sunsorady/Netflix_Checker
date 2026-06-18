@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Teen boss
+– Email: chaudhary.shalini@yahoo.com
+– Country: IN
+– Plan: Premium
+– Member Since: November 2018
+– Next Billing: 2026-07-17
+– Payment: UPI
+– Card: N/A
+– Phone: +919301808200
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dynamite
+– User GUID: UPWRLO3NTBF4PCSZE3CIWKC44Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783086105	nfvdid	BQFmAAEBEMGF6A_BIoagN1V1ILa5JpBgZDmPI0FMdJbekRpwOQfQ5m67Rg_YCvj9PJtlRqRaiY5g-Vmz_uer7mPjwJYc_cx85Oecka8wvNFjDkTCeTYfuSMZZKYBb9jgia0YFOqhMLFXMHxwKKqiwyTl5rPh52As
+.netflix.com	TRUE	/	TRUE	1812703890	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAzZgWuL9Xi4hxwllaLb7MBR9s0TwYtiu_c8d85DIiRmKZ9GQG-SRJ__8BrsARyqtIx51Og3aZbp6D89UIq-nqRdypfV51byTotxeCS0pu5wcs02_H46zZhL1mOC4StNwUTYIu44exusjMAdeYG68CwEedZz0IlzO6Je9uCSE9VxKOpcfo_TiPq7CMQFCaU9KrIE2gAdPCcLt0LFzQ7-VgZmUDk0FESj_eOfql0Rb9HNKj0MSxb7IU9RD8dm0bSKCuDx8obMSKhIPBBZz2J0eEs7rRF0YDCIlsMc-nIWCb-2P14QjvBSt-VxrHt1J1RVCZsfqpIDxWjDjJdd9xCv7krurYe_yHlWFqz4pbqMg7Q_aMkImFeobCBxfPzhWhjc4z7pwuY5T2Ogxvh0vx7nUnWZW_apto4RuQtOEGCePXWCnhtY7lz14gWDyGQHoVokIdp1QeSmNXMNfz2VBzs-W8ZSh6rBK5EBaZbNrsIlKW37U2_M49aiLyKvzkOeZMhqcbYd3iFlmnmSuj3S4BXdv8S6W3utKXkr-iR2RsABHGAYiDgoMPY2Kni6AzTiEZZAC%26pg%3DUPWRLO3NTBF4PCSZE3CIWKC44Q%26ch%3DAQEAEAABABR-hW8kESL52b5qVvx9JxHZhsw9Ju0RIos.
+.netflix.com	TRUE	/	FALSE	1812703894	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+14%3A21%3A34+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae2d1b79-0b72-4b5b-a5ce-0485ca39269f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

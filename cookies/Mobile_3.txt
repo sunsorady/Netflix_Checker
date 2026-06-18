@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Crazy Oreo
+– Email: vg033215@gmail.com
+– Country: IN
+– Plan: Mobile
+– Member Since: January 2026
+– Next Billing: N/A
+– Payment: RELIANCE_JIO_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: SD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: vg033215
+– User GUID: O4UC3QMOXFEMBPMLDXVEG3G4HI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802022748	nfvdid	BQFmAAEBEJ42Znf3J0XRSiWc-zXwgyZgEnYibwxb1j29UjArXe_SJNB6Tlrk_tSDQbAW_nrO7rNPb8mDB6sKv5JNANaGvdimZ31X2HFRCWVeEdF0lbYgjBaQmK4RMgCmNIAIFEI4dPem1ZhpbAXt9hyXsjnkUT42
+.netflix.com	TRUE	/	TRUE	1809571693	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeAzxoDPe1xdfFekTZwNZCtLGkvB9mdasliCL7OvFtumnUPTE00k9k_wB5ccu0SdYw-V1OjLlezKU9A_Hv-lHYi3eyUqNQPaNTLC0mxnYB-O7yBWTYxS2i52jP25bCaT61fYQC9bLAYm7UZu97P2gR80n_x3Px4RfofaJ0EQN8Yj4qmxajVGVfPvciGFWIDXwEVvcjbLMPHM8aEe48WPh51M5ctWyT1CtTVbuALvd8hpM9rvOpq-hZ0F6DixOQhKQPYU6Awrg5vRQKPURVk_Vd5r1i5zZFwsmnGXzfo4gvR3es3f-D8rG6VUaXSVfio-QqaaJlucwhkUHRzFS2-LX_KkOtoZHKWGyCypk5AyFM-X9ZcSIYhKcwTQk8HsKOm6ALrAtL3QXRkfKqPjYuD8o-LjSo7pmSZRPk2F66TNCQtGaa4qWarCp9YvvjYA8WW0FXmjcT38ICQ3e4L71YrUXSpT6BPQOs7H-PL9_js6U4spOYt8i93EoLY_vlZ39BqdF7I-ufDdzckD-NkMLPwFemT_OWBrgwoQD3wr6l2a5DGxgGIg4KDIheNd-BkxgG08fxyA..%26pg%3DO4UC3QMOXFEMBPMLDXVEG3G4HI%26ch%3DAQEAEAABABRhp-NDNiz7HL4H8aSqiSdeJob1Ks2aE1g.
+.netflix.com	TRUE	/	FALSE	1809574076	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+08%3A57%3A56+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e6f010e7-7134-4dc7-adbd-d75a2befbb76&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770486747764&prevHadToken=0&isDntEnabled=0

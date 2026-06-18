@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: marie-pauline
+– Email: didier.pauzet@gmail.com
+– Country: FR
+– Plan: Standard with ads
+– Member Since: September 2025
+– Next Billing: N/A
+– Payment: SFR_BILLED
+– Card: N/A
+– Phone: +33673548630
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Didier
+– User GUID: 7BHVRWVXYBAHHAO6AIX7XCOB4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789392048	nfvdid	BQFmAAEBEMDo3ppi8XfHUdZfGCN4iBFgAbI-HbvHidKyxcaD8a2x9GV7elirdYa-7R_Bk0zVNAqguSJObtrAJyym6fSvPBOeTRQQ8fvL8P1c2vNG3Ugw5MDV_2x44EwRqtRw1BK-Q0gCY6Sqys1md9ORZWI_Vntq
+.netflix.com	TRUE	/	TRUE	1789392872	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAxqprbVXPlU783hMlLKx7o20IBHl4eFE7bF_377xfdTB_wGuJjhkjdE-aCcwDj1QnY_IDm4YSIN9sS_ixYA5NRdWOlhvMNNltv7TZOM4Bf_WYzxtZ7W2JormNQCbg8ScBYuzFIBM647CuEz4sEk7gd7wfsClkMV5N7PhlYRfTpXpb9tfCftWapaNQw351fJm27DTbGwTnutG-2fPUmm_MP9raq_1Y0_Nu3kerjIvPJuCs8rPLEKbnsX4apuZI3i-OwvjyTkogm9PohrIr2Bpdn4F0xD4jlQD6xtMA06ZKtdNa35kPNk8DieK8CfYTMJLHXOw1grg3AN4NtMmy37tewxvLsrKWe03S5w3D6CROLqKr9Q5_hfAIkof8hnyi-E32YQveluymyw8kZNsdHsh98m0sZnwhSoCHefuURzrzDXebV2uc1FQ8fzKz9SX5miKu_kN41TKgm5A1SHI4guFMicbd_JNHo-UDpJPTuyAF9PPAnpC9bkWjLkofCOAACZfmhgGIg4KDOokRnO-Cg_rzhrV9A..%26pg%3D7BHVRWVXYBAHHAO6AIX7XCOB4A%26ch%3DAQEAEAABABSm6LqZkq9pPMVANc5hKmFDtMZPPsRtfac.
+.netflix.com	TRUE	/	FALSE	1789392874	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+14+2025+15%3A34%3A34+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c0478c2b-2e07-42ec-8c28-993a91d5838d&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FR%3BBFC&AwaitingReconsent=false&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1789392872	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQl-jsmMwQTuf7eH09dgUxQI7ANqP3dmAY.%26dt%3D1757856870992

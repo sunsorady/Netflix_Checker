@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Milly
+– Email: millylourenco12@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: abril de 2022
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 9353
+– Phone: +5581988886026
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Denise
+– User GUID: UKLKJU2QKZB5XENYYSVBRRNJKY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805069432	nfvdid	BQFmAAEBEFwqLppFBiAa0kTjS-TvyKFgCZ_077MD9g354Ir-L6vbPs2OowD2l0z9utXFO1V89tWpC6KIv-zGqKG8o6TbqfhAk_n6GMQ0fmBTNcuPk3ujQEL-fISyYUJQZzGkbNFnk0HhVnUsolj3XXbqvDt0c3lA
+.netflix.com	TRUE	/	TRUE	1809305909	NetflixId	ct%3DBgjHlOvcAxKuAwa_jc9nyzJSSHYAMu0IeFrYcRsDwzbIhmx8dUK8Dd6Z7QwEKlaTbVKMJ9bk09VMOWCvcHbng-BHSSrIlb8awX13oun8f_MxFIYfPhC6ITrC5TTI1NRWRPutMIaMFBIn8PrSQ2gAshRKD-tgSx8biytJwd8G-3JlcbxDTB6kkzILSR3eIhmebXy4ILRDXB6pAFeKtstV20CMR-yzLInXNBB3a7QKf98a7-UK8lVbbUG75XuabTRrqRoSapL-3GAIPo_-3xZ-9Sm8cviyHKbHSosPmbVY8rhsW2AhLUMdMgt0ZlbeV0unNOK9S-AvDnDP-j_5nCdudmm7GqT4nkduhNKLAI8nKXfOKFB9gysTlcHpl2DDRHnXYOfYqUStquq0JK1rHgLHysGxbyL_oretxXpGRDbjcZGnboUMM9H9ljk040q3Abn2_x2Dfh1RAuh_ikZrUOMzZ6Mghgwa-K1oUXj30dXSnq-y10WMp1LKbfm-0sf-SINtpHCWPJg3TP3yAVC-GFXzsOrrp89vrNgin_b4XyFWpMWsRpXQSlGML5U10jXRuwscMoK1Yzwq7SQYBiIOCgzH-hZx2szt7vqv2v4.%26ch%3DAQEAEAABABR1VQX5W5VFpjEQXCs5lo1BcKET84dK5As.%26v%3D3%26pg%3DUKLKJU2QKZB5XENYYSVBRRNJKY
+.netflix.com	TRUE	/	FALSE	1809305911	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+21%3A58%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2fad5034-7e57-442f-b128-0977ee446fa7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1773533443462&isDntEnabled=0&geolocation=BR%3BPE&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809305909	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZudIV6H7_k4gkNLnHbBVgXJ2ue-oO-Wg.%26dt%3D1777769909041

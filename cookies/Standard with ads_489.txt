@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Paula
+– Email: paulinaerrorek@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: March 2026
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 9012
+– Phone: +447852743426
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Paula
+– User GUID: 4SW3HNXXPRBPTPRZQZJZZXZQEI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1812380772	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA_0fgsZwQLVicfOajwibu8fRRD6j5Ja2Gk2MTLJ7-IsCgdk5OaXaGS1OAWkWndF47eO0GBHfVoYUEjuUaOtdRGyqwSLJXCH-EaHUvGxywchyjUPbFtMP5pUJU1affJK7LibO_Ge9xdza9fAEi4tXkk1wstuqs7MIbQq_eHdTBLyGAWaY3yapGIVEaTUzC6n7z0Rl2Kq3Smchnll4oFmdIH2nuehcT_uSKNZgpXjXEtId823UBnT_L2LrD7-yaqE53rrb2hSIELM0WUcbkbSczKdM-YLhnRVs47lhlouCWdQoz5HaTOIqc9qeYfO0KwV6CaEX982-xB2MxWWLcAkZPb9cp6VWI2b1iN4s2Dy6sW9rPmOchd1mWmYTGDyV6-jrT-xMbOtu7kLvFgseue7AMf-Ss8XiAr3wax7IeJOgdU1Hv9l6EQ9dt0TocgKgiL2mV9pkZ72Sb_BlbDoe90IJ3ZXoASGkqZJs5JCx8yWc2V2Z0fxkBCzrUGKRLsrZqlhKxDCTkXj1-SwyYnBbLErJFlvRxKn5T3-bokmiFV2tiBgGIg4KDNU6JWU_lFuL4XLONQ..%26pg%3D4SW3HNXXPRBPTPRZQZJZZXZQEI%26ch%3DAQEAEAABABT1DmM9cv8Y3qLw_O4P_1mLxeKbLrmyP18.
+.netflix.com	TRUE	/	FALSE	1812380772	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+16%3A06%3A12+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=99997ab4-9644-4c83-9a08-d55a8006452f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1780844737386&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812380772	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJW-8UZsBFNMzRvQ6kAl4UXhyKGW1PQds.%26dt%3D1780844772430
+.netflix.com	TRUE	/	FALSE	1812380772	nfvdid	BQFmAAEBEBDTq6_v9iken9dIjQSZXotgqJw474Q00ctSD63cqJ_WpMP4jJH2Tr9OLGUZVeHleF4t8JrcZdUBxKbzElnsCL8hHnaB4EPopMxifOVJOavIp8T4P2E9SLrxN56npXPbN90pfhacvGL-auI99P3h_rJT

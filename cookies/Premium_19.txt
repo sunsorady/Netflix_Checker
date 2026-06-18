@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tatiele Silva
+– Email: adenilson_romares@yahoo.com.br
+– Country: BR
+– Plan: Cao cấp
+– Member Since: tháng 12 năm 2017
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 1685
+– Phone: +55984099481
+– Quality: UHD
+– Streams: 4
+– Price: 59,90 BRL
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: adenilson_romares@yahoo.com.br
+– User GUID: S6M54HJVM5DQFBBJ2XXJINCDWI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785977331	nfvdid	BQFmAAEBEK53LxL3JlZ2ExIg3TQAXhxgVruPL0UAdhQe8eGsEuNwjE--8IfECQsVnSdiFW2wTxgJxoGvWpoOWOXyO9ypR0Ne7nbL6EBjZz-7ro7tf3EGtPs7RI6m4SfMzJIDDpxBqJV-BKuBu_Ndkzdde2z6zoMz
+.netflix.com	TRUE	/	FALSE	1786068211	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+06+2025+23%3A03%3A31+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2de31c0-c6bb-4474-862c-cbdea57fa77d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1786068210	NetflixId	ct%3DBgjHlOvcAxKXAy_lyqwrcgMR0gMHkbAZ7cj4y-BdZRWVmTK-nllNM1HDtZAsUROYi30Us2I3AVjnV9Q6AlJTjeCEuPkP4WcRc3zoxfyk6di2zp0JWAUAEYkjKNYq6bZzHSSuRSN1SjWmmGRYxwvjyO_H8sOHrN2KUlTnmxGfxEtgwEyzMt3zxBo4fXKzcTgvD5BvcyR5SnbZAI97aFV0M953KXqxJknS3L2dE6oP5NZEeUj32wmwq_upPIkS6ozPUMy8KjVxdAcA7FGeIk009krcX6GuhRkkC776Q6IFM3OeIbGXglt7ZtqQejRJsN8CJroxi4O5j1Cq8_iCsaTs3TIJRdrLm1-zO6iY7szpqTaW8cYg7EJ5mGrZdoU7a49scBW7WWHtfiNByvRyP__1T2HTg04T17OAOEO_N3p1cJBX3kCteq1Vm5C8u1Ex53PskqaEGSSxz5ud864Iygos-F-XWS-zAwUuRwlyR0wH7z1mPULXA2CYpW3JvJrg1IcPmGJWvgM73khor1MvOp2pM9C-QgYT7ZWIGkI2CzeYSVt_GAYiDgoMpdTS1pU6-tZDoBy3%26ch%3DAQEAEAABABTBL6zDC0LjmqkHCUOcuFH6YxLRIkLnjes.%26v%3D3%26pg%3DS6M54HJVM5DQFBBJ2XXJINCDWI

@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mihaela
+#EMAIL          : mihaelamateescu73@gmail.com
+#PHONE          : +40736558455
+#EMAIL VERIFIED : Yes
+#CREATED        : septembrie 2025
+#COUNTRY        : Romania 🇷🇴
+#PLAN           : Minim [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (8992)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:27
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1788724409	OptanonAlertBoxClosed	2025-09-06T19:53:29.209Z
+.netflix.com	TRUE	/	TRUE	1788724691	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAgGId4Y3LJgIRodgZxHX_dj4fbNTjpjAhnPeGVlzVlmVYcHt-KYfNWMhW3QT75a2MalDND3dum6CRTPxwA87ayIoBUIDqDgphrXetUs3NWuZOHjGZL6QCXTc0MGPIbcAjXFFuCGDXkWX44sFnZ03x9YF1DLA-_Go-bHhRUZjGEYrMIpESFamYenX8k0uap0fRAE933CPTtAfPjP1EUyvavaMq_jzgS4frnRzlUc2PdVQw0wc0eWbPmdsReM1nQXz4dtvWl0a4_e8fkXjBjRjMfIHdWDmxnWv3Nk5tvWR5i8kq-HIltFHU94mR0UPMv1XZZ_ogJyVXCTFJGtZwZmFZHK1B4Yt2Imb458pA4nScIzQ1LJ816wJieZkHInEK_8uXER6i0YfXbzh05csojTSOqlCuOEohgfwGtn4-PV-DdVYj1gMF8m_Psi3jYb7KB3kzRUMuxrIjewf9-bbYwZVTD2uR4_92WPE5-UX5hJoddqxGAYiDgoMqLFSQRRD9kbmJ7iS%26pg%3DLAULQGURD5FMNH7C5WBDVTUHAM%26ch%3DAQEAEAABABTnXB3UKl_9y80SAi1L5sARjtnpR4ehP_M.
+.netflix.com	TRUE	/	FALSE	1788724691	nfvdid	BQFmAAEBEEUfiGQxcnvlsOoc1ZfdUBhgzzIEQILKhaaBmgTZUz-4dfcA_Lt0CkmlhmyF7FEKFT3odd4vy6ZR9n3mu0pz5rAamjHaMS3a1QrnCbZa0BQ5WrLEjEtU6KwBaKBfVbCpGbwnCliTjl0RNOAwq5CqTng-
+.netflix.com	TRUE	/	TRUE	1788724691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScMiYUhIjA0QR5jpGHsTUsB532nbiMERg.%26dt%3D1757188692970
+.netflix.com	TRUE	/	FALSE	1788727468	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+06+2025+23%3A44%3A28+GMT%2B0300+(Eastern+European+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8bb43839-0fb5-4c33-8ba9-99c8e45e7926&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=RO%3BPH&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sara
+– Email: carolgiovy.75@libero.it
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: giugno 2025
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 0075
+– Phone: +393478730649
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carolina
+– User GUID: IQTKF3WVZRBS5OX2EOYDFXYX3Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781807368	nfvdid	BQFmAAEBEL37kIWb5ZeztjcC0cu5rOlg0DiDFcsNprndYecmnhO7eEAjteGeCYHQ8F7SziLjH6PMaPhhivxxrDxV0QIFw1CmTJIl8rfqkVtUi1CuSkSk5XYU9FC0QaVql_zBVIfYg2temuQR7dJ2wbSt4gtXS7er
+.netflix.com	TRUE	/	TRUE	1807614745	NetflixId	ct%3DBgjHlOvcAxL-A4youYVNDIBYdZ2UBtv6GeKe7EgcB0O24yrVch8c_hNhAP8RBWrfKucNHtt9_Z5_jw4Ig18YdQTrUlBPjAsClg3-yrpVq5ERalfMgjTN7ly5AFdVRQZ8mr09iHRZ-Utx4AxFDnKn167wUHtAhQdcN_GJBPS2lBVayjMzc77RjmuDE23v0bDCZs8OOYY2deH1WWamn5jhWQLrSSD5gu35fLDHV9frpFyTZ6zUzPh_YOvHXZwZAHIcFwwelkLaDhSanfnu1qNxhycX6zU_7C_mywFmVaZaXlS8wRVEW4YFag50Qp7mf-fVBZeBpYGIJhh32dPl-XGufmcHHrl8TFnmal0i49pMzAhH-qb8XtsV8bkT_fvOLqonqikFcyUeV4Fpo1VllSSTDV8c2dGNfQB3H1jHDkjUwhe47GRZ4ew3dLeqDeSjnZ_0XNtzwdm6Xghp6FR1J2-YBffOisVRF7lUHzpplAQn4oUQHfo1xbpqAtVPxciGKA-RlErOYV-CMyZr-B0-CRo8vLr-PHXB-qERzbe1i3qL7ycc_Gz2MhnQf2HWrDYJGE5-Xl01hv1FtiTz_EYHJRBGVu-RfyHvWkMpE91vZjsAq75IqafzQ5Wozi25vNhtzv59D-uKszbuZ0fxamZMXM2T5j4Gj_jmbTuOS51Z6l_phMsMNThc4FzqOhgGIg4KDIlOQtmZe98-LU6KhA..%26ch%3DAQEAEAABABRto6jro9QYYGrX61pGf6ogr4ZkiWhlx4w.%26v%3D3%26pg%3DIQTKF3WVZRBS5OX2EOYDFXYX3Q
+.netflix.com	TRUE	/	FALSE	1807614746	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+13%3A12%3A26+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d89483d-ee34-478f-9123-df9ba0161ae2&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B21&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807614745	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxTs_Z0hTWA7OjBrFZITXDsSHkm-JRMHA.%26dt%3D1776078714011

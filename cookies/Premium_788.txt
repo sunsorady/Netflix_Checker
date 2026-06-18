@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MedLaabid
+– Email: safaelaabid27@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2021
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 0666
+– Phone: +12164693232
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: safae
+– User GUID: SAUMYFF245BWHBKFZBFDSNYFSA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808240801	nfvdid	BQFmAAEBEJ149Qn4bUaK7EN43MnS3KVgPObvWUvMOP41reWuJQDBg5FZWS42dZkrHfourYVjB0mWwFaP03DA1PgJOYPckKMOy-qzrO8A9NwBBXLFvOYpwJ5Hczfbxxu7nMsk-yd0CE0ZHOJfVSbZklVyppBwYYpe
+.netflix.com	TRUE	/	TRUE	1809678753	NetflixId	ct%3DBgjHlOvcAxKHBF1p76pls6vFIam9Pbl0RqNNUN74p2aHhg-N2PPvi1iYue4A2aZoq0vt9Dah3EDGAigytxHEeLzCjcsDvevOubyb7ao7dZ5aLlMVOehLQP69HC4Rdcq01z0LnO00qhd02Xtt9SeXm-p0bFqheLOUce5KpZQgF9arIVCNX2uduV1vuVx3ET0p4D7MpVJsS4cEYXR4DqxRcF-xjGONhjuFv5YTPOmcq4IoyIHdO2LrEtzrHhzVw9i-nVm41VW9mtxIxCFvWaQ2Yv9eA2seV1hiQRw7n0id_C_aEp4EsYxkPXxWpycn9w3dXiWhQ-dQ9jk_kcVxTkZWYAUSiiZsM25IBGXqTB9PULZMzTQC_mInqrrma_Eux-Yq02LZerz8TYC-zpL0XDUCXgrsD0stDrgWQlOAy07KiZEIg0o8ZYZ6xQhFbqWTDuufA6JDc4zfof_Djpavz3ufZDIJgbAv8Rm37CkuP-a6U162HhFHRaTIZOcuUaLRu1JXnjSB00sAW5Ocpx-_nZhjVqIK66-O2QdRQmTnCQt7AD9LwUeD7YHTcMfor2b_w6bI1GMoFGt_UUbtcstHr6aRGlHUTHDOZU4A2w2TMJJy4dhOj7xTB1wpTEiC1EFK8knh0NLjxsPvBCGkuVNo4TD1NsbgBBWHVPSRsDWR2VYSQWpO-viELWlKQaHQjpQeZbP6mhgGIg4KDDJJsHQAcDd0x70fXA..%26ch%3DAQEAEAABABT6vRPxtNTx1SjDxqUvviMkALq_e9F7_hM.%26v%3D3%26pg%3DSAUMYFF245BWHBKFZBFDSNYFSA
+.netflix.com	TRUE	/	FALSE	1809678758	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+10%3A32%3A38+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6d61c59-6a64-4b2c-8f3b-8b9b5d2f58bc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776704764790&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809678753	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTznq3hV42bssJR5DXQ9TrUKiTbvM7iG4.%26dt%3D1778142753402

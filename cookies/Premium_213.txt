@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abdelali
+– Email: mr_lalej@orange.fr
+– Country: MA
+– Plan: Premium
+– Member Since: January 2018
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 3278
+– Phone: +212661191172
+– Quality: UHD
+– Streams: 4
+– Price: MAD 95
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yacine
+– User GUID: D7LDGIDUZBC43GIFRZHNYAXXZU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811437462	nfvdid	BQFmAAEBEOb0wcRb-hi7aw_pRySVik5g2PH0VOsdEAb-OYHDoC8APyPUmoywycZF0daN5enfM-LQfk0pNkNjb54I6vnyD9mt7s3WpZv_kyO-aqa8v7SG-gW-sJfirMmejh-vXiQSVl-vTBVp-EizC39goPQwccY-
+.netflix.com	TRUE	/	FALSE	1811452328	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+23%3A12%3A08+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=dad610c2-55c1-45b0-a49b-a099476db5c0&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811437799	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA9hNQUB_8ov2AnzOHDjl_t6voeu5Kvjg9JaNRBrlTnv0Mm8oBQx2YN6uWuZSz46pZSJnyiw9Gi-BU2pVvOQ3lN149E5jWC6_yXDFECbOF1DUAeXT9P6DKH2UngfR8eD4k8NQG3AVREHGReYrDT9W3xcMNDqhXMVWpUQf8efaCKBeZGxnzl0Se9wMa-mNAwIn_dyrqDcVMXP7rfLw1d_0W9cDDNmc38EN9uRvy8BJg8abEntdL-zp095YlzrAVh-9Auz1QKmLVFH4UQtQGyvQTUKst_gcpTJrH8Mn-aHF5M249tDJSgyGL17MqOaUnp1NhXqyfYuFGn1zDtHSRaMRHNo18QUP98fsRJoA-6geS65Nybobo6qbnf8HbSmD4aRiLy83eqMu-3Dmp9IbB7heS3IQ5n_jof2NGmtkswPQE3P80wAoEcJhc0GiHM-jFLSXkAj9Gyq3oyagOxg59wxPJcRrd8h87LisLknjgR3zp-XSmt8eMWnmw-OLBEzNaQ54GqGWX0EWeK5dm0KOXBgtygduCevbAhmsZDQY10oYBiIOCgwP1e5mcCJ4VkzQSDQ.%26pg%3DD7LDGIDUZBC43GIFRZHNYAXXZU%26ch%3DAQEAEAABABRg94LnLoH2sZpMm8hgmM6HHbYEX3aX8NI.

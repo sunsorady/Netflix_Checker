@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nhaz
+– Email: rogerevernever20@gmail.com
+– Country: BR
+– Plan: Premium
+– Member Since: May 2025
+– Next Billing: N/A
+– Payment: MERCADO_LIBRE_B_BILLED
+– Card: 3325
+– Phone: +5511916797953
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nhaz
+– User GUID: KSW4P2NHL5B53O5QQA3BOGI3SA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804555680	nfvdid	BQFmAAEBEIX-9RY7k8nu88gLHBIrmHNgmraDM8EKDOc6tndRM4g5UR_yvVfO2TvaZufVZkXcrPR1HF898ke9UbG7YoSdA8zM9HOcXNJe4e6xaGLekc3fTIhP2lWPzemTL73Ywk0FkxpkDZtzV464H0IjH3LEBcPz
+.netflix.com	TRUE	/	TRUE	1808795730	NetflixId	ct%3DBgjHlOvcAxKWBIMzzjsNY3J3CpFx5ucZKPtd48YC23-bX61tf7soXi9-JPBlshxPuzFoYYj9PD4JeDD9kjoQyfuLqz-9cVr4c5Ed5nNJB1huk-8DOv48HRDUgmfsW84A_1aqMaVqgMvaJtPs3gk6_50k5L0pP8zkN5MzNrp73MzGHOiIwcSl_arNQuipRRKYU4g4JJxGEYLGr0NuqvwFUX8v1O995cpyz7OZCIp6zyUYBnwh5YdNF0umDV7Ny-2LsLOttaQjrm2jrxpJjbTWuaub7WNiy0m4JzoVRaFOLj4ziJpRXE2dOs6h9zogVN9LN_b9-ioTFsLSLWLXvIyREB0_KJZXOtibzv4vIExjP4rCbfgCLh5DecCvpQk8-2mV8cuhAvK_xmxip-NlHppR6Pyq7E0YJUp2tqWC7z3j-oD3BxcfwhPUpY9E5W8IFFcUIbhQ-wPakHDIoWZGkksn0vFgQf70Xg5xEtVn_06ILXwTKmICOj3-yBLW58LBriPGl4CB0pbupWUVzSPgSli1zEBCgPtt0BRH4CdxxSfepIMaJ_hsinofi7aNTjx02QAII2coGtyOjiAoo8JlUOJc_E37WH8u8xFa3zyLSrB42QhQ3v6l88QFCsxJj-JHZttgT3gkdLbQZU4MrK9WKkMDkpreF8nr585qN-HBKItF7NzrtQbzjirMSdhEIo4D61j0fjk3q7wYzEqKwv-REbIQlRgGIg4KDKs3cWvyaT3HTb4DNQ..%26ch%3DAQEAEAABABT9xhle4-U-dI5mAmYr_MF5Y4n7eeaFmYw.%26v%3D3%26pg%3DKSW4P2NHL5B53O5QQA3BOGI3SA
+.netflix.com	TRUE	/	TRUE	1808795730	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGmuiY8uG9tt28MdoEHGqbEVnYkUwhViQ.%26dt%3D1777259726503
+.netflix.com	TRUE	/	FALSE	1808834487	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+27+2026+11%3A01%3A27+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fdcaeae2-199f-4ef7-929f-62611d358c30&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773019623313&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0

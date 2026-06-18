@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carmen
+– Email: carmengiral92@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: enero de 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 6757
+– Phone: +34669433523
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Carmen
+– User GUID: KYAKT4NA7RB3PO3LXH4BAZS2BA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799266052	NetflixId	ct%3DBgjHlOvcAxKMA-UkxHh9m7muAYYS6IlNLkhMB7cSfAjL_l8Kxf4er8RM2wan5eJ6Y4fR7_7uSpxUdcLnpAcQB7bRsAi88HX1u_Lh3pNEZy6W39U2cdC9be8w7yjkBuKsF1HpmNsj1m9NQqz2jw_qsSpbIMjsJ4KhodsBv-NA5fMqGH4HYo2j8oyJqqTWlTY9QCqmzoXJZftpVeR_m_zzFALmkp_zKqz4AA6iKMmZaWfUbjC_hw65Z21uj16JCSv5AmFCrLUwYwRb4vPr9_L_3dR4Dpq5caUm5HOs4xgU6niCdpc84u35eGyXYUPZ--ws9jMQTZ8tRbgJpdjVho0gKLv6C2JB22w_-m_0uaCON_h8_PlD7lb7POAnlSF-vslpBslxGUe7Why1zwkqV-6ckmyTJRq7Vbc8D1MlMSDA9Krhb9kujPviKmVHFjZCHLlTqHJgBErd2irWcrOxIxRyf-YOs9SXU53bRrKoHpWrPRhNYCSsuGIUkTZqdPJDw-EzJ8bIeYgmvkYDYn7KQnI9hYiz7eADEhgGIg4KDKpf59wE5Gmqx7zbIg..%26ch%3DAQEAEAABABTyDNlQjFVdxjdnr8WBo5mONJqWILBt9Tg.%26v%3D3%26pg%3DKYAKT4NA7RB3PO3LXH4BAZS2BA
+.netflix.com	TRUE	/	TRUE	1799266052	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSooT-u0q91NB7oOilZu7HcStKpIcu5LSc.%26dt%3D1767730051846

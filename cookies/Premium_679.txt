@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Max
+#EMAIL          : tigrou@interia.pl
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : janvier 2016
+#COUNTRY        : Poland 🇵🇱
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3308)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-18
+#DAYS LEFT      : 0 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:40
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1784403102	OptanonAlertBoxClosed	2025-07-18T19:31:42.865Z
+.netflix.com	TRUE	/	FALSE	1784403612	nfvdid	BQFmAAEBEJAsyLLy7p5B1C4CTff03SZgqWDgGCFnUIbfRtJHVk3ghAPqWWxkMgAMeUFV4V1VyitaxKbulFoDbXHRlZ9RyixnLXiowtS_WzgottkwUvzKH9P6BShkkU8DOnb8sJMIhGaVsag7V3nWyeVyjI1BuUX8
+.netflix.com	TRUE	/	TRUE	1795804068	dsca	true
+.netflix.com	TRUE	/	TRUE	1797363710	NetflixId	ct%3DBgjHlOvcAxKWA8U55HtQjutbDC_ispRz7Wq7ZvVo3UV2fkslLQjYI-AzpR_-IfC1bGh02Kc2bEwHnEcBQenCTO0bC_pFYTBRz8YNstYXw4dvqBzpQxeYRodlZ6x4CNTA4ce3K8sc5qn22EbGMGCE3wCp45BM3JOBo2s6dbHgK00OvRUqcaT0I7dJyUNB09QGlSn5gFAS6EQOXM4svcaEKRL8QX1CheP4XKsS9O6x3Mf0tGvms9Uks_NKPSJ-vwBLNzTWldrHiW4IplQmvbdJwWcwFuLLf_vWdRWd6TmCoku_mvKQXJ0r89YpEhcLrfff8Xq7zDauEuYNl9-8RHmtGHvies7XSFiG89uNJLdsS-zKOPUOsq6OWFjsUiGlXNMpPIybWhjlbNlw--q7Bp11Nf0JW93uxxax8d9ghFDOPVBBvfuUxhit6UAAwPP74EjM0fpU7V0zQP5bf0TFaPCEI3yVi2dM_2rGpIlEV_vqkbsS6Cs_uWpeZSpPUZrkZiy3Ky8vpNQj4DF7KbhhUOYDavyv_Bz_995BXyqDQMQi8ZsYBiIOCgylFHupCAS7oq-aZ3k.%26ch%3DAQEAEAABABT6Cu1s4xBUtUnp2iZ-7D0NH-pbp7bMwoI.%26v%3D3%26pg%3DK2ZZ4KSSZ5EVZJUTLOSVSYYG6E
+.netflix.com	TRUE	/	TRUE	1797363710	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtU0Y44goHC8jfHqdu3xaNeHJoHem4xYs.%26dt%3D1765827711056
+.netflix.com	TRUE	/	FALSE	1797363712	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+15+2025+20%3A41%3A52+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9eb89887-136f-4235-af42-163d5b38159b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PL%3B14

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 庭暠
+– Email: watermanhao@gmail.com
+– Country: TW
+– Plan: Premium
+– Member Since: marzo 2019
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 9851
+– Phone: +886979081646
+– Quality: UHD
+– Streams: 4
+– Price: 460 TWD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 庭暠
+– User GUID: XO5YN3VHGJCSPNHOGR4QBNF4RM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809349701	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+21%3A08%3A21+GMT%2B0800+(%E5%8F%B0%E5%8C%97%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=23e83a1a-8fb3-4dd0-b8d0-05a968cb4c01&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777751803470&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1809349701	nfvdid	BQFmAAEBEDeitSG3JN4mHm234nCEO49gCkhJdH068oXPsyD9jntsT5fOv8BvD4l_6yGB3bieFrEbi1xcQ-QE_3TGw8XogZZGTiklMy5_CCwebRSg1wZQ-mrdll2QzpL9dXKfeb2VPQytkIULgabVkx1SQU2pmpFr
+.netflix.com	TRUE	/	TRUE	1809511913	NetflixId	ct%3DBgjHlOvcAxK9AwNJ2NjOUHWQ7vnIkI7-bdcbG0CndaTNSEjYeu2j1wzhSIerfAcN3SooxRqL8-_WTU5R8neqIfKIzm9xWC7gt7W2LPeJr7D1U78454k5gV8ii1xvgrbw0OU8FnpJhzBSggterPIoT86A3sWDC0us3euIf5nJBomyf2_iVBHDenm2Uc77v5CXwwtvopVcnw2RSdj4FVXefM2-7jlmqzCxCpQbkFo4WJC5-_DWukp3uKGaZFrYx0ZFbZBtd3rXiPMBCIApp7ZOCQ29cACraXmk0cDtPReLAQkCoQMptGWW5O_o-tqEjSExfx3Xc_qpsXo2sL39SpGAmkHBZccaLOfqtxc2H5Xf8m4O4DGPQPG8Gxc95ircrsMa35b7C8UEhH4YIKuM9XpuBGRewJdHTf9kKYfgzHvRt2BVRg-O_U1a2A_FZdaVV9IGehFwZzB-KHBs4tUmlSz-0gXC0TDO0sW9JwJf3jOr7qIOW6rdhu8CPWJmad1khX32SWLiTz8-OHOPWPTRxiaD36AIrGIUbhOfOrhRONjCbGlcH_Dv2QcY8NI-nuuEz670q9l7fPWrg326mPYbxQ6gNg0K833Ro2YYBiIOCgzdiEgNJku9en7Nhd4.%26ch%3DAQEAEAABABQis7LsHZsSo7h9sjkMG0dR5OQsKhW19Fk.%26v%3D3%26pg%3DXO5YN3VHGJCSPNHOGR4QBNF4RM

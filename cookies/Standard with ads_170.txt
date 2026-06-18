@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Matheo
+– Email: freddy1975@free.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: février 2019
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Freddy
+– User GUID: GNT75RSCBJGRFG6YUMX3UMRCNA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796403652	nfvdid	BQFmAAEBEF6xKbiahXqF_IDQoG6Zh-ZgTxjVuA61OxluK_7VzNU8QaRtpJysCn7I0e7S3yAbNkKuZjdo9bpLmEIEmXqXwQZQxzUM1HSfuVu7ai3Fs3e7TocnXOvINJin_bHLha14zvT45MyiZkdWydyxl14i6xaj
+.netflix.com	TRUE	/	TRUE	1803233708	NetflixId	ct%3DBgjHlOvcAxLpAw5iZQGenADDXEDPFE0zoH7kMewk7UZltO6yZI5Dl56i03spMxUtFmByNyHph7kJe8Bz8xTTo_mntzZCTgVfG7QMaZNngWpImgAGpcBG3LtrbB8kYLm10YaB2vpLg00dn-0xQu3eKh6NAvO9J2Ne7NU5K5n_vxqFPxy6nsgXmaN9Yg9YyRZ1XoJ2MmFNrKPE5Zl4Ge1QUYnzhzljynXqFKTXfEGtqz8LRtzTkdjd_v7Jb1dGaMPcNbaLqkvdO20UP1ZubB914NYkXEF8JoPM7OdLsfasXN-UJQw0BJGOGJRCzHvhDI0YTcTiGkZ0jbh6oL033yQJsvs0eH92-0t2PlNqBY5FaE0UefSZl_wyiYzuEvZy17tW9YehGAEjT0-r0eDVBMGrj708Ve1qtMjhQ7SoQbCqiufAurOfqbiJ3SeHR5sZv2Zwn-UGcZr4WRiZcEsiXUExaq5JJezsvWj3r89kZXa50Ffs3j7FQGsnKHFNlwNKqF1M8yJDwjZld_5oPVWpaUQTTvrqo-146aZh3M-IVkx4r-VcR-SXziD6JziaU-TIYVwrGCQo-id4I9s-TaW-3mqvz3yHTiRJNZIww4mCs503vefleWT00Twr8i1Y0czT0aoKLbtVwubC_esYPhCILh9UG9m3_xgGIg4KDKdIXuQhIF9-clMFRQ..%26ch%3DAQEAEAABABQG6fPBkSTQBnFa5tJm8I5w01NOqWW6zAU.%26v%3D3%26pg%3DGNT75RSCBJGRFG6YUMX3UMRCNA
+.netflix.com	TRUE	/	FALSE	1804521608	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+08+2026+17%3A00%3A08+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd0b3706-800c-4d26-ace0-3991ef4c024d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BNAQ&AwaitingReconsent=false

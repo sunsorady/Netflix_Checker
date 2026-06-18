@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bivi y pipe
+– Email: bivianahenao576@gmail.com
+– Country: CO
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 4223
+– Phone: +573003516269
+– Quality: HD
+– Streams: 2
+– Price: COP 29,900
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bivi y pipe
+– User GUID: FW3QMNRSCZGBRPIIDXTGV3MFJ4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802558894	nfvdid	BQFmAAEBEOsd1Jh9Me_UAtmftEg5DJtgTUaZvIavFvNBIqas3mlteS40FkDJYddC54wiYr7dFlhYt821dl4sk5lKqtsa3hqdXpFbTnNaQY_kq_CkIP55TQpMgz3N_4ALKHFGLUY1X0ad8mAoeSvAq105F-rHnECL
+.netflix.com	TRUE	/	TRUE	1802732870	NetflixId	ct%3DBgjHlOvcAxLvA8q64xPL5ST1y7vVRMdBAqYacMSAK9jhRAFqZDgp_y92A_mC5WQjbed4mahUwU6EpQMKV9wB1v_piDhq_SjCiowb9SBUAImLcZclaoaICOlc_YMXCrOKI_wJxUjp6qTbIC_zGdsIZzlupU6dmwU_l9P9jXCh8jYdc6vQzwOB7Wwo2R9tz5wRrTNizLFB3jlrze7UFpzF7c2ja0Eud0Iq9iCJ4OfemIFh7qthip_Tl4rq3Ss7ZM0-AcawKAjZjoOXspm5gMKdGY_Uk4pzIkJfzl-vdMT4P7eYgXItu1jNQm2eled04l_ZYDer_P_6EwajY2RaovXYpCZdPYdSQH4wcUyzSy2AdTLNRmFl7daqwZLpDK-6yfbC2sUC9zEZYkgsl-Sr5u545aladmNQNHD5wnMtOBa144uGPBN2yc49obrkYL96mJMDX08I1DCxqQ6vnBM-AGflZqG8zaivN8J5P5YNsSG1od5te-01dvprpEAJgyegsrEKUFCWo-XO6NHQ_O0mkDBQqBsJo8PoSlXdapCW8WEaXdnrmfFzXH78SPwLqAP08RAw5CbKPToErlpiuMMVyEk3w_ecRwkZIDQeIREEf9-gJE0r5EDDmZAz72mNoxz4Erq46c-ElTVU30nPe5hW65ZlK9GIpGzW3F9H9BgGIg4KDBwZMTou14HIeSCRUw..%26ch%3DAQEAEAABABR5tUOLS4plMUL2vlHbIQaI6Ik1TSwZxgQ.%26v%3D3%26pg%3DFW3QMNRSCZGBRPIIDXTGV3MFJ4
+.netflix.com	TRUE	/	FALSE	1802732871	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+18%3A07%3A51+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0727c6f-9db2-415c-9faa-0fcc719d273e&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802732870	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdSyI-NUPU98ui4p2ZLfzV5NmL-5vqiqI.%26dt%3D1771196870525

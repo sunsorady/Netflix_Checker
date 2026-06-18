@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Orion
+– Email: wackyla_z_y_boy@hotmail.co.uk
+– Country: GB
+– Plan: Premium
+– Member Since: January 2025
+– Next Billing: N/A
+– Payment: BT_INTPAY_EE_BILLED
+– Card: N/A
+– Phone: +447541254532
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: wackyla_z_y_boy
+– User GUID: R62DYOPT6RBT7FQJVCI7WY5L7M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234203	nfvdid	BQFmAAEBELCDhykKAn5m6qtXZORek6xgjC5GQmRK5pESx81_GJXZ6T1CJ8uj24MyuQc815lO2nFmKxBtxb0HU88_Q0jyWFzrbSTcflc0uO_INpEfxNgV4E_TbLdp1iLlgXNRdZNViHbwBPVGZng6C7ihLytUuByZ
+.netflix.com	TRUE	/	TRUE	1783077633	NetflixId	ct%3DBgjHlOvcAxLdAxClBvNJAm7mSL4CqtHeWauDIwHneuqkXllVuI7L8zo6PCLILEVCOOIF3G7YdjcxdHYVYqyCjjOfsO-DwETWhOKpHYrES2C3bt-AFNZcXF1BoeFOZbeJk15XOb7YdAZqybF6FJ8ZWyY-APF0CFHFmFgItdDPV8OvuEOfQSFLhGw7ycEeyl6RDPv_A16hrhKne6VE_gAXl8flVDRvPKLK_3tvf2Nwv90eHKQrfA2Z5n1itD-INaURKgLI2O9si9r3x8uCHYTesnAR4dAfIot1eOivJi9UwCemDlsHogmWTpNdAfp5VyoVevzSEeij_JZueMKQs1DGZw9rPNZVsJKZb2wAiZ83IV5-jjz1-XebBRd_FScB8sjEfETi75QQ0RxFXlnkeT-wajI2TI7jUWmfvHjMzdEuCamc6xT6xqjx-oSPI196HJo81VQQdx4YBcEmEk2LmzoWXs9V2NNUCl6IcgO4FnRyoTBepD03q1vLwUnS7En4JxHbJ0wJrRn_tUyNiw_FTS7vFYRRNNnPxe9rjvyLgBbZYA0JCYL5e5jwiNeeGe6nQ4fJzaaqIGDIsbPSUW7YJVIKCw7Oeg2kryJKbUE2yM_A4IZHg4Jg6xyXpJQU8dnZ1rlYFTvw7HpTgxgGIg4KDGn7NzlZvQ9bgxJ3ag..%26ch%3DAQEAEAABABQ1_zxYkldo0__flwvwZ0tRyHLewKpMUTQ.%26v%3D3%26pg%3DR62DYOPT6RBT7FQJVCI7WY5L7M
+.netflix.com	TRUE	/	FALSE	1783077637	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+03+2025+12%3A20%3A37+GMT%2B0100+(British+Summer+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=38dc64fe-720f-44b9-90fe-9a0d8ca6227f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BSCT

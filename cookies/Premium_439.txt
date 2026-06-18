@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Lupe :3
+– Email: mariaizamolina37@gmail.com
+– Country: EC
+– Plan: Premium
+– Member Since: agosto de 2023
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 7125
+– Phone: +593992354440
+– Quality: UHD
+– Streams: 4
+– Price: $11,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: María
+– User GUID: O3WJPE2VNBBUZEHYVJDHS2QJ2U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785455140	nfvdid	BQFmAAEBEFIp369k5aUUUJlp9BZVDZxga-6Y1Ot0Si6eKcDfthcZnNgxoo3IXdvaTlCM-UteiGQoOAwp0y-99l1dIeW-nnc1VnxipD6v5d2skyYKvWcGp3HU9Zx0rKB9Z2RnxtY-Rl3G7WIO_1qA6gyrjKTT4hq1
+.netflix.com	TRUE	/	TRUE	1807546060	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA4gshgGc_Ce65o44j6laos6_-vWxt-tubpoD1cCzbORr5etkeTwZjSUR4_orpGGiEHqEslFDguswVUe-P_Ak9ly0q2buWMOJJ4zEwOnVEWQwcddLfnSDwUY7aSYr7ggYgBYOLYSUJ-95jcXI4e14vlBDmHG3g285bx-XMJNi2ox0sOrDxm-F8q967-bn5nuYLFQ5FMKmdZ2fc3SlFbO0lZhxUN8UCQI-ayZ1cFkYMxRX0rz-e5PLXZJG6QWL7jFoMV76sroQ6rL9_EA2LnsV1T3HDKU463F6keOLe41oXEEArQap9Q29RwaHymHmULn3W12geQ1xPpfu6yOy6gu6CgKLIs-GR7FIjmMQXb7zboYUhS20rz85K3bRBQH5kaZ0nGA6D0jE7JvtV2yogKdaBRv7aR0MjNeSpCtPxg-3FgsdcNv9in9HBIl8k6zHld8tMDAJpmPxwZUXBFI3VE3nfjJlK94S6Ry6QhAB3ELf9tQeJxvJQuGWL5LgpLyM_47Ql4XRxF0s7JSaJS3CQ6-Zh1iIGMoTDD_YpUnp-hgGIg4KDEzF0LxvaNL7sYAAPQ..%26pg%3DO3WJPE2VNBBUZEHYVJDHS2QJ2U%26ch%3DAQEAEAABABT0WKaRQhbz45lY3tVo30weK9i2VQt-xEs.
+.netflix.com	TRUE	/	TRUE	1807546060	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRqW2bfUEzb-QSGSE9E7Lk-ghCEZjnWE8o.%26dt%3D1776010060101
+.netflix.com	TRUE	/	FALSE	1807546062	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+12+2026+11%3A07%3A42+GMT-0500+(hora+de+Ecuador)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4787cd6a-5087-4949-bbca-946b4e2181db&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

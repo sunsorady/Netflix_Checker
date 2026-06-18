@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jaz
+– Email: jaspemberton@outlook.com
+– Country: GB
+– Plan: Standard
+– Member Since: June 2026
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 7746
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jaz
+– User GUID: UGMPYR7XYFDEPNXOBB6OXESALM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790803754	nfvdid	BQFmAAEBEOTEbveiuJR2uHxiDN_aAH9gztEorZKWsPZJ5X9OFge1UKPiLDGEPqgRf_7dL_uPywNOr2LGycHgGXggKj3T5VN1DfKGs21Lk0ZBIumbUssgfz02RqLIqnjXuPiD-igHtdpV2POcZ7h6ldHws93RzS0E
+.netflix.com	TRUE	/	TRUE	1791069866	NetflixId	ct%3DBgjHlOvcAxLPA64qBvVRtZk2SMCDxVl0zpLq9yFE7rBu0RXvYF0Hh7cuDVEGbYfU2VZylD1Sk9Bu-37rKpWmoE-gsELLIPhBADOHamuf3ePhWT53_E5a8bUlkFaz3P7dnqCzzIG6z2MVKtCnoT3B5Y268zpGz0LZiXeU50FJCqFU_1cokkRznXoAEBGFC3VHjkWjoECw_rFq_R1FNljqjGge3qAUW2FGDrJk9vYXLMOUL-5Hy4uvVbM7FWPKsXtPir3SQaix_KdpeJiXwsgDid54jI_YYDN65CptOAJDJIiXGJPARsjAomzPCqW7sXiHc_t_9RJsJKNWCok45lleOAS564r2y0RDUWUxCIFo_JJP-FDk3jtOJasb8xdvimTfm_KQ3alSw3cKEa6KYHVIA1vMcGZHRtYe-kQ6Z74JTqTTNjF5RVvhd2SwCh-PeNhWxXrxaPYSM4d_otHCz4JxZSDNO00_yg6C9i0uDXr7dZ4mWfsLSPrTJgQCIgT5JBEoiofFwp_Po5jXejLPJbVzYyfMUruB1zpCoA0dZFIDQGmlismy4kaZlQvcnkw2HWxsAfME9bd0mG4UwEQ-uzjY13rXgkARigWOmnOb7DeRChQ8MiFgNTE0b9gYBiIOCgwdr3qHCQzkUB-t85s.%26ch%3DAQEAEAABABTAA0yuPSV1oeNRPeO98sJNR1fWqHdPPaw.%26v%3D3%26pg%3DUGMPYR7XYFDEPNXOBB6OXESALM
+.netflix.com	TRUE	/	TRUE	1791069866	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR7i6ThCWbHcaGhdrQy3v7-399Ukd-bEPA.%26dt%3D1759533865604
+.netflix.com	TRUE	/	FALSE	1791074559	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+04+2025+01%3A42%3A39+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2f91e5f9-df0f-4dc0-8188-cff3bdd6691a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG

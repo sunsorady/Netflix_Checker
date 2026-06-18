@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ali
+– Email: elhamdansoha88@yahoo.com
+– Country: DE
+– Plan: Standard
+– Member Since: Mai 2019
+– Next Billing: 2026-06-29
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 13,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ali
+– User GUID: R5FE43CR7BFLZKC3ATRKQVGJZE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801762835	nfvdid	BQFmAAEBEDl16S6qvr9D9FWSFKii26xgrtRcYVRJL5wljDiCpdbczY_mV1lPg0gM6cibQAZ3qEki1bKMZ9-ZVvNulA35qWtr0w6X7VaUPfUzAI4k9YWupVFDODxu7SO0kuy04T2tnycRMVh-s-cLzIA7jMZLftfX
+.netflix.com	TRUE	/	FALSE	1812314123	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+22%3A35%3A23+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=30b32408-9f15-422d-81e2-d625eae70777&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770226799237&geolocation=DE%3BBE&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812314047	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA5F3prGWuhWVE14_x7pVHAgFF8J34AYaUfp0bnZL7w_kXIsrsjESJrTrXCBU0AXpWkSQJQ5hAy3rvV2FhDePLJnfAypnfrdKYv4vfpAP8tJI7KdZZRrXscEDtWfzqxRGniMHRYvQWINm77vDgG385qXfFLyPspr453HZ-s3mnGTzcmR4e8KvICIgK0XYFKUNAsHIBIoUgYbSQKOmAnISpV6o1aYwFve_eqYBl8ZS6XBs3HzhABtNmu68-SQEYnsSam6-QHa74gp8vYSUSvq57Ob8Vg_w8Mwfx6P1wRt7U7EiGbPoVq4KC2RHudzVRHWMxSP1vKqJGCwONiSthIQzCCcvBNs3M_jKrc3n1zEdVhJVEHr6tFJ9swD1KBt6Xwv1FiUDX616HpDiaBYFAaF7OEdMrORl-4hlzeLe8iysupmRNPKaF-zWC71CibTWw5xoh3gcIJKx1UYztnD7Pb0MMbrQ1AjYAx1gCb_spXjC1Tlt1gSqmuhbDzkeaZMG6sWTvCk_tdWLQYSPYjtWLSgW5uAEAjYNOPCVGAYiDgoMIzMgR9Wnx_d1bbAl%26pg%3DR5FE43CR7BFLZKC3ATRKQVGJZE%26ch%3DAQEAEAABABTFMC4CNikYnzjh0RK0dCXt_8s58UZsDLo.

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Arda
+– Email: ardakvanc11@gmail.com
+– Country: TR
+– Plan: Temel
+– Member Since: Mayıs 2026
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 9916
+– Phone: +905453976617
+– Quality: HD720p
+– Streams: 1
+– Price: 189,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Arda
+– User GUID: KNTN3BJHKND6VJL6JSEFFAZC5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809881840	nfvdid	BQFmAAEBEMZfmN038BpyzBLerw8ywpZg1oJrSJ6KpsbUUA1DxJprbwYAR2h8atILiyQ4x6EbScTJ4XnN4w8C0rAcmuuCwCibQecJVH5uOa57JACUxTfKsgFtDx58F5XcmqZRtDr7KMZF0kPkyyQ9n8GanO8LpOWn
+.netflix.com	TRUE	/	FALSE	1810836155	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+21%3A02%3A35+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4caa7fff-656b-4edc-9c24-8a4fe0f495b0&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1776018626562&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=TR%3B14&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811613966	NetflixId	ct%3DBgjHlOvcAxL8A6eZOIYkLyZmbf2NflJ0E1RK9I9jNWFahYOY2oAqiFyDcs3J7koNsKlIff0IwDmLVA81Wgt6ZW9nLkg58MDYEJZGL3hD4wCSTZwc7i1ZzJaeZPsDVDl1DPLoLjYxZelDg3Fu6have86JnANdHvop9Z0loqTIJwDx5zX5VgBkYTVHe5UCypCn1AKoJlRtvGXpOVDWD0qq5NbHhgbaj8rpd5SvbfyV89byUjWzDytn1pbtdi9dgHAb8ThPJYnmgkKrlN1BJkVjtoLZ83nsHj4nNy9ZbJLl34pS39g9gH_eAdBI1S06t5XYPvXhaoONj9UCzB--RH-ntm8KemvRzHJ0P6h4fbtEBCDUxuvApQtxRXsLGI89DKi8Zg66wM82DLCBRZPWTVrVx4JCfSWl6dTmy7PFVd4j3FxmKECV4iw1M3J9zKDznKe9qLrV463evP1ApVi5kuG10XUMgwXDY12uZE0LEgopkSvg4j16VxXobGAA3WT15wzOcaKpyVJ-5_TRacRNbZC4CCZV6zg2u5YRS8nZw3X4Y55iv0xUzNcHFK3dGeLYxK8fU5XL8J7qhz0xfvatIr77ch-lsNPIT3cZWxp4K3S5Ygwm3MfAOumXPwZfgN_Vdo0JOpqHwWxna57fq8U9m2blPlX3FWqi1xPqNRY40iCE0HHulxXdUeMYBiIOCgzhqZF36SKD1_763TI.%26ch%3DAQEAEAABABRXT8CdGgd0fNDCWLfEKtx-EtNAckXv7Mk.%26v%3D3%26pg%3DKNTN3BJHKND6VJL6JSEFFAZC5Y
+.netflix.com	TRUE	/	TRUE	1811613966	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKeNa7J0KDbMKGIU_eHeEfNjEBjep70oA.%26dt%3D1780077963552

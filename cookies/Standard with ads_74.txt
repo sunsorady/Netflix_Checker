@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yeivan
+– Email: maximilianonino@yahoo.es
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: septiembre de 2024
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4163
+– Phone: +34605960046
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maxi
+– User GUID: DKLAMDEFPJAZ3FA5LKZOPFF25Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804978486	NetflixId	ct%3DBgjHlOvcAxLOAxyGLpP8WszgN4vc_WZjwIRpUvlK3DSIbPqyPAwB--J1vl51dACJijwufgFivpB-za9QGgTyXWJ_LLVXFsMzQupweHBVsamqVaBQ2hAT0u1IY0Qj89uC7oZYOTQNcLF_9sGZQDZXLmqIGgLIbxu9idAq0raUIOHkBVbvJbu4scoPA2qjiBYEabcMUdY58USHKXfU2ifjXeE3yy8dLfzs9KRjRg5dNjhXQS02k_NInm7zLjoZXVHMtrLsOvth_SQT3swiYoVrw1Eu6nzRu3UplY7veWvJWT1VWwBRost0BQJ1iX8sHjZTDHtmeD8DFsU6ZXLhfv-78HQ-v-Q61tTjbeKyU3nUlkT00hNEJFG__lq0WYg_LWBhQXjJlmr3J1f8q11NrGJ8BRIrrbdxVrjQUJNP1vfTr2JbF95SMyLJl49wxajpwBYuZzu2fC6LDHpHDu3ith5ZSOjbJt_z5rWQscT56AOgIpZ0JvbM87P5bTeV0_a9o-KqcMJ7JFewLTR7PpUBx2edc2K_IZ6-9C18CCw0w8FBiMmrbx5KG1UcENgvLzlwPY2KbRYs3kFReSaRVUMQ0wbzqOn2e4GU3ZBeDUlA3DLMwqvrW9rh0sl1chgGIg4KDHWqSTSbAhVoHhX9QQ..%26ch%3DAQEAEAABABSsUYuAGZ04SfuvnUcYCjyKq7bD2OSrems.%26v%3D3%26pg%3DDKLAMDEFPJAZ3FA5LKZOPFF25Q
+.netflix.com	TRUE	/	TRUE	1804978486	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqRPcOllFmuPVKAxqIOe5OGeoJbxEibnE.%26dt%3D1773442486891
+.netflix.com	TRUE	/	FALSE	1804978486	nfvdid	BQFmAAEBEG1cwPoH9qgv-8syOgRpkM5gVd-IB8ibRp1vEA0mHujkVVGSI0AFxVUGutN66M1lBH89S31OLY98FG8d1f-YXa48llQga3PcwmBFxXEg_yFzMJr1ao6blUGW4mzwqb3KoyNKYJb5Co4xZ-BNoz8xD6l9
+.netflix.com	TRUE	/	FALSE	1804979120	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+00%3A05%3A20+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0310653b-395a-46eb-8eff-a377095c5173&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCL&AwaitingReconsent=false&crTime=1773442490829

@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : LUCIANA
+#EMAIL          : lucianasilvaaec@gmail.com
+#PHONE          : +5517992168097
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2022
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Standard with ads [HD] [Streams: 2]
+#PAYMENT METHOD : NET_BILLED (5605)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:10:58
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1793669509	nfvdid	BQFmAAEBEM6hVNDlAyOyztkO7rNrLy5g6xKxQnO1G9PumlS04koi4kfX6kP1-qZJ6CHfZb_SR5W55G7APy1PWBKsdxiITRuksZapO7EwP5UJVfcAUjjTBUsUxmbWni2GxfcEHH6o0wxY8GCrB_uqr_sIYC-s6Ffj
+.netflix.com	TRUE	/	FALSE	1801100583	OptanonAlertBoxClosed	2026-01-28T01:43:03.028Z
+.netflix.com	TRUE	/	FALSE	1810167932	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+21%3A25%3A32+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fb893201-6762-4397-8433-105d8e57c29a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769564583571&geolocation=BR%3BSP&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810477563	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRFPii2yG67ehCB7ziW9tG5o6qnqEgRlC0.%26dt%3D1778941687140
+.netflix.com	TRUE	/	FALSE	1786717563	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786717563	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1810477563	NetflixId	ct%3DBgjHlOvcAxKOBOFCr3n2ux1vOn88FmQXzB6aeRrvYQgzRXPh8NSFm7jDhd9hiQHyXbgAoRh4g81Y81DRCjdGTsqeRS5xswUZhxFCij8HnJCT8-mPJ_xeZwX_Srfs1myuLtMbWMnsQENilFQ99zjs0fOpgLquLd8PTIOAeE-TGvSPliRn785EylQLFqxJBkPU0xy9dnf21lbMNaHBlFtnLzm5sxwxuzJM0DaGmLK3roczsl1pxhs60KtY0OB9yACBK-YDUz3ePABJbl1fjmXfLT5AVhmvrDoVlMw8PUoaXYOTn7Ae3L8xmC3mLBp32QS6AAdN8lyPA_C9C7HVpJI7ERjvx3Lg-FIlhxunp65XVxRpSFnFjMCcOOVF0surl-df6bKjRG8D47nIr7b6kNuDHmTxNXlY-wOQ2yjxNSl3k7p-avUaP7Zy1V0WCpOgVJoGWnLI-2Y-kp3iRy8fX7c6v4Gl83FLWEMK33-24zotFiEFqTszTVIR8CcupOAZ9sYufq89XQ9PbvVOFWiWzmqtNi13rte7TWXzzFLVwxASyzjVdHoGqGuQde2Y4pFJq1BjyJ04YsXAzui2pb49H16-Yzvuo8EiVfV8aH-XBrE1fq4qUK3mfIsqAlxOqC-pNUzCVOpEp0cLbxBo49Nag3taXHxC-xNplTW5yhWtFslDm8Z0gBRkNAe8w6EcErCk-8ihpU7NyQ1B6REYBiIOCgxGpzL3MMi-vsgcVBk.%26ch%3DAQEAEAABABShCA8jx37e2Nz9qB2mFO9SYo2rM2IYBLw.%26v%3D3%26pg%3D7IMPVQUO7JEWZGI7QSMA62FGGI

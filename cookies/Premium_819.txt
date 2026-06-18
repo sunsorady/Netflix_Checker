@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: INES SOFIA
+– Email: inesofi19.11@gmail.com
+– Country: VE
+– Plan: Premium
+– Member Since: mayo de 2024
+– Next Billing: 2026-06-30
+– Payment: GIFT
+– Card: N/A
+– Phone: +584122708235
+– Quality: UHD
+– Streams: 4
+– Price: USD 7,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: INES SOFIA
+– User GUID: BKH5IZZIS5EDXPBNGXXAJ7JVJI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790351225	nfvdid	BQFmAAEBEBW1B7FZvQ2Lgbh_XGyQUmZg32BIZ61PHqXJTXURhx1Ge792WyxdZY7NDqMiavIGUOStVF29rWg1y_2cVYX8HBIXgHz4LSSHTadiYE3NwFjFpi3dqflWBdLjmPGYqFDeqoYNPcLLm7MMMa0ROb8Eq2Mf
+.netflix.com	TRUE	/	TRUE	1810176978	NetflixId	ct%3DBgjHlOvcAxLoA8iI8CBsrjWsji2AcP3M_5p_vbRaXfGh6Wb2KPBp4CvmkTJ8HmS0AUP5HlOpBJcB5rJxgRlKvXdZuVMp7rLZToQKggIPoECwrQ8iWMVVFaz43FZvNr-k78hOJftmF_3hgcDiBmd--kemvpGtlzaEVP5QXKQ2NtaMI7QxbGZZjFJQuTJHVyIeoHPAxsdJcKmxizmBGxNQ1XK4QMlgm0Q7vvuenHcerNIccQVG3gMExo0m7MHPggffxtTiXCEN1LL2uJMK97UYgCUf_9ChSqx9vakc0XykICZbdBnVTQc-jHSMvS3Wb4huq3vC8oxYLoWn5aM8cyrD2vczSf326TI1W_SZuIu_aOwrNgf8NvrNhUxpfu-UpE01OshE7-v7c0K61D0uEHTLkkJvqXp--6Ga5Np-OBqbFAgIyjog6elX1oIb64OFCZiXhK4FnFrG_P6BHMLq41E3OfaXHIX6eQ4ij-VmPamL_3RcAej_Y_ffEHcGu-7xInToj9SxfPdz-Ef8IeFq1rA8e409H4zu0vN4I1MxXISv71gDiPSfZyfrQ4O0sa12SPc4C3NEwZNpJtN-1kbm2nFcvbi_jhS6mzQqUVRHoeKCCPwV5IMpPgZzp3f4Gd0WXjokf8h0M3Fdbou_zKh32vaVyqCKGAYiDgoM-hZg3oxedXkWGZMp%26ch%3DAQEAEAABABT-T_C73EPiY85dyclY1iEpCEJcig6pnUM.%26v%3D3%26pg%3DBKH5IZZIS5EDXPBNGXXAJ7JVJI
+.netflix.com	TRUE	/	FALSE	1810176981	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+12+2026+22%3A56%3A21+GMT-0400+(hora+de+Venezuela)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e087f65c-50b0-403a-83f9-b6b1c5933bcf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810176978	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7FkJMz7_Z8v8l63lrzVtZpuZaRq83ZAg.%26dt%3D1778640979940

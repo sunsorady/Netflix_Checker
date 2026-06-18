@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kamo
+– Email: alain.vasseur22@wanadoo.fr
+– Country: FR
+– Plan: Premium
+– Member Since: février 2015
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 6805
+– Phone: +33786110797
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kvn
+– User GUID: F6AF6FCF7ZHADA577GWL7MM6IY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792872679	nfvdid	BQFmAAEBEOhboBk4notGIbYF9Q-Kimlg50RL_qt7dMZakZvOagceXQA2vCqScfMe_vqXX1gE2nUVUBr0WdXIaDixkdCU09nu09MjuplH1Q11igqcKAds9rzU0-3oFlbTYuTKnyLRO-kR_Ygf6xziVenrKABjnngG
+.netflix.com	TRUE	/	FALSE	1796081836	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+01+2025+00%3A37%3A16+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=52a57cb9-3ecc-42f4-812f-0ba1da543ebc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BHDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796332388	NetflixId	ct%3DBgjHlOvcAxLnA_EmEigNBCxXztsVe9igPtA_obFWNmnoKWc4QrQJpLxz1GH2IRXUZpYEsrdqourAq3cHiw5fkynrx070b8TKKLX747JtJkkNLDAQFSoDdF7R9cEM_DvCEn7p32SRPzuIfdueyx9YNHc-v2TaWXQ0_-D4m0iV0ZNgUQGvfwck3NNZYjLSJlWWTFeTscseHhv99JBs5M7ooc1ahXZgk9-E2tmr5X4LsBsmsxqkYWkV72adsA6IjoG0RF3mPXdKAQFKt3PgTVRWIc6v-pfh1QOAJCzCqAK8LhWWUD0X5XmO_sKz86kdi0soWkXNJqbtdPtShJ3LCMGn7LqtCsOSNpG8y-jYwplzGLL8dkZXJoycmJUHYuS04o6Sz3_zH4fgUDVGYjRw7D16VeKJ6B_O2AFrBsf2zSNKeSMtjzRWaRiFOhHPut7JL4LhrogpmZuArrwwBKXJ6jZQM29PbrRD9LNPW3-ijlJVEzLxsToOZrHug2xf3pQ8HxxHrCNG2SNG3rOFUXgFR-Pmo8OzgHnLybauJbNQaV6MYpHt18kOeaMuk0eiVTvT-a7GoPV55UwsauOPN9MNai_ODFgtdeDKXfagMlKlWQ8K93poCQ1r7sUR-QAM6oTeeIoWU3EllExJMzZEiDb-qFZGumwYBiIOCgz_HOIpVT1TMlDkwlA.%26ch%3DAQEAEAABABQJo0PYOFmep2HjjoQwqc2Pj5Ms1qAVCqs.%26v%3D3%26pg%3DF6AF6FCF7ZHADA577GWL7MM6IY
+.netflix.com	TRUE	/	TRUE	1796332388	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlI8fzscYEi64ylQyVJ6DQ7hTrCcmRvgs.%26dt%3D1764796389048

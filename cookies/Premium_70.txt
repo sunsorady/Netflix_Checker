@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mathias
+– Email: isabelle_thierry@live.fr
+– Country: FR
+– Plan: Premium
+– Member Since: May 2021
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: +33629402048
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: isabelle_thierry
+– User GUID: URNJ37XVSJFTXMGD2BAQ7D3OZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1781321700	nfvdid	BQFmAAEBEPrwh-a7F50H0rnNcCVuPadgKWcIkhl6GX0QeVb5mMG2GprpuxCgXNJwDb0LtuqmSungoLiiq7-oilBoCS7B-gx-naOPZbfMghsYOAi_N3xe--CMdqxiptoykZtl-nWjdkL9pW1oZBnYa1vBoFC_QA-5
+.netflix.com	TRUE	/	FALSE	1786032725	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+06+2025+18%3A12%3A05+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7b1dc6d2-9fc2-44f6-b019-5511a9b3798e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	TRUE	1786032257	NetflixId	ct%3DBgjHlOvcAxLlA35AHzuepTwS5ZWZr1ZjG1Y5Nvly2lBZl-ZRBAK54ZonnCyQ7tfeAiMq3JS4XeI20SFuL18JilRSYBduXVLEyrumoTjky2yXAYVQXqVKFMpJtYMV5ewqDmMhvBrdlS-crZtPoiWolUgsIDk7A7HZpzLFjfPfVqbaGmgPGoV0Cl9ymC0pHJ8i2-EurwFYsVDxuBL4n2sRq4YTOJCcLV6iPNAtVcsWUjYYqY1uqDPiCsO9noLn1o1jfxLcmGXIy5GOP-CMacIw8Xepl8XXT1ysGo2RLB5UoVR5HNYyJ9irCzkVI53wPeExxaRAgOt5cwY5WxclfsftYm4gLz9xt1mwq4Xv4xQXhDwVrv2cQ71hFTnwpLzEfxcARznJFfzCEB_PgIgXFLtFQGXrfWby1qAyeSCUCDiYr9IYhYogqkZkqwOtqAYD0zR_mBkUPSuqE6UZCP3zG_M1HOG4tur1N2MtWFbS3gA7IE4Cu_4n9bZIcCTo-QaJnER18Nc8LbU_KJvnYqhwRuzQEr0aXsdfXC1PvSJvB8YQ3xxIi3yoxMKDhVtpU3jjJ6BtpSPyKNm_DlDoLLidYNddLAACGGYnFRXxv0gBfMWQM3-WZLe8qYy41qI7jth7R00p37-u6nTVP4xGpfZBWHX_GAYiDgoMhXsh9WILxOLXgW_s%26ch%3DAQEAEAABABQ57y9CtlkvwIfq50xZjsTWSk0m3NB87Sg.%26v%3D3%26pg%3DURNJ37XVSJFTXMGD2BAQ7D3OZA
+.netflix.com	TRUE	/	TRUE	1786032257	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxG2PHZG6DV8z45YKCIaXJH8IoKFzD4lk.%26dt%3D1754496233228

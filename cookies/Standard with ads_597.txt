@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Thati
+#EMAIL          : thatianeguezi@gmail.com
+#PHONE          : +5511962554067
+#EMAIL VERIFIED : Yes
+#CREATED        : dezembro de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : DC (8678)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:07:06
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1812225361	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA2BBFpjrLwx9R-dB0cldSHt-qFUi2vO8Ux9v-vXu0Nj31OVde1Gdlpn1HOAdRxGXqGSkrgY2Ui-qmdFOv7FDSS3mVndo4IRx7xTUDeGJOiw8k9W2wGFOFNabRAo70jMoC1M_2_8RkzI8VeQBVl8OowpVd37boZe4Jvbn2avfZKiOq8syZzHFWFKe63RUaGGgO8MjQJoRA-g1ZvHrA44U8sul6FJRCrPZylqo9FudxeJb0_VrV6N-vfZKp-rt_mktThNotU1xh2c2jAmrwDlB3N2S6AZN5mO9hH6XUYM8dBgCf6sX48u-yvwHbCAtPLWoYHo6pbu_GqVudeiy15W296yhHsv3tbJCKhwhKzisAxWGI79AiwMh8EnrZICUodTtt60uPP-DCU8iKMHhWqA0v6o191L0RH-Em0E8AiAkNHfkCZZnRA9xoJyyBZSJhUOKmSXV7q0O0ul1AyHwdwmfwNy2lmDS_j8N3uYwVtKMiB5rmYc_gpqo08AAcgVJ5lFOai5RLWIVExPLhqMh3ABYfCCmKzVdGAYiDgoMrJj20b0Ky_r6MuQ6%26pg%3DT6GVPMUDKBFLPIKMDSJYT6CUKI%26ch%3DAQEAEAABABSmDtMThPAnvMZ7Iq2ITwYpWWRSQwqxQk8.
+.netflix.com	TRUE	/	FALSE	1812225360	OptanonAlertBoxClosed	2026-06-05T19:56:00.468Z
+.netflix.com	TRUE	/	FALSE	1812225363	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+21%3A56%3A03+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3aa82cc1-8277-47a5-b3aa-d22b9b1ed441&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1780689360819&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=
+.netflix.com	TRUE	/	FALSE	1788465362	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788465362	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812225357	nfvdid	BQFmAAEBEA5CEZz6pX7yzq0ceNgiuZBgW-VD5H-0YUKM7SdIfrDZJI3YIdjVfeWwBqanUJWu5QHiWTGek2NlG1IcUpsBO2wjK2LlAmhDlb8z09pMn32IzpJDBXu4jXza9byVmTwamKTqtWqViwFTXO6BbgZgVnPg
+.netflix.com	TRUE	/	FALSE	1788465362	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

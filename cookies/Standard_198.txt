@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Family
+– Email: hellobuhle@gmail.com
+– Country: ZA
+– Plan: Standard
+– Member Since: June 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 3269
+– Phone: +27822602787
+– Quality: HD
+– Streams: 2
+– Price: ZAR 179
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Family
+– User GUID: GXQ65CXV2JCTVFWQVDN2H4YO4E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782572078	nfvdid	BQFmAAEBEFhwKxFfkWUd_gpvbSqYGpxgJpdtkhHNJGDA4hlBYdtT7eJuIZoHWsPa_yiBrVBvdOWTKI0scoXK1OVyoazNYiSF7_yZwZa9G0FJRtv-aS4DII5Y5fwI3XwGzduHgz9fcz4E-AEaL-TTN0F0lhEZANA9
+.netflix.com	TRUE	/	TRUE	1782574706	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLtAvbKI4hgCtc2eFZmCsSvr9_aJrZLesfSgXlqpodm107MPWbg_Oj2uFEmj3UttgYYCPZ1hIhq8qX9fiM4nytMrHgry1wFf7orPMpFuYQd8cKVRzscZ36i-FgdVj0UYTsuvFBAi4xANx8nxhvpun1FGReuvwdncYUs7MTeDGpNx_DM10HeJ5LoS4PWERuPVgPveV5zpPRjQwJGIoqvS_7TrhPfnz81Wyqv1_WvYziTTkXylivtPHmBhVT1wf-yKOiVBQTXXLRd8Bi8f4C85DzZMuKOWWxXDRsTGptEDPyqos7Jw2PON_AFfjsORGg8OT86YcuIUsvNaQ6KXVuUIR9-_08utSuMNdW5s4MmNPZcutYUmD9uLwB5fvx4bmvqtdM6l0AJks656VSLPWnL5orBMfa2YzpGeKsZ-jTYp2f5ja-SK6mYyjVr5j64f9Xnn_Plg_PQ0PyoRCZZx737vf5j0cqOa6Ja5ikHhinkQSHpGAYiDgoMU1ZXcKv0udzajwi_%26pg%3DGXQ65CXV2JCTVFWQVDN2H4YO4E%26ch%3DAQEAEAABABQ7-TEoHDCXAgYEpxEFfSKEAX-35GLk4pQ.
+.netflix.com	TRUE	/	FALSE	1782574709	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+27+2025+22%3A38%3A29+GMT%2B0700+(Indochina+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b780325a-d89c-4f74-8028-135a4cd2c1b5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

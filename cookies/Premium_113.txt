@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: aoikuniedarias
+– Email: aoikuniedarias@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: Juli 2021
+– Next Billing: 2026-06-19
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: Rp186.000
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: aoikuniedarias
+– User GUID: BIPQ2GBGHBAVRFOH4H3MZHA2BY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810040586	nfvdid	BQFmAAEBEDmw3A_5UWABAbMxpDAA90lgFql80R_PuG9loBr1ap9TtavoDf7p5WLI4hJlWykLiHRVZ9Day30zz3CWQngrkn504-00YEaHXJMwNgQfYJN89G4bruZ6IHBq34-moa3Ive7PD-taJI-RH1NZ3oT0w71F
+.netflix.com	TRUE	/	TRUE	1802623988	NetflixId	ct%3DBgjHlOvcAxLvA73I5eWYcdViaLJtBxLncJAqHRQ3AcW0WiSPMhm8lGXnTTxs-QLxw4gBtWl_jI-ktOnQiDFh28rgHlx99LUNrAHM5wYo26hMA8SN5y-tvPUfqTFV1jvrZoCK0uQVNTn7jF-aWJnK3Z0iaORYusJNaQjO-JPutNtNJJAz6-Xt2yRTBZAEi9D8XaGhJPL40vNHjATHwp45EYOd7sWH75GpE7ySeWuYiahoQDxNuLlevKbk59f0-t2WiXCfklvwmSfX-Nvpqi5esKWGw_Lqt0kzTIocZqLKPEj5e5D8kqVf-UTr-TNV2vsWmRECMhWeV3hwyT-G9lOgZdXBGaUZ4Fqbqzg4Nj9iyjTvSqaj9FG8Yz76Ln6_33VxC4E4vEGcXpEauudrtx-KYwuSBD_Jsv9Y3ctuAaQboQ_4Jn2Ws1UIFtgHzYazuSrhemUe-IsX4sYQIL7983dRT9122gg4rvkRsljjEkELRLxQGtC8ffGXYRYm7LX7IVqqe7knFQVxGun7GhyWUJUr2GFTEdjRYKZtlNQ_1-TSz7gL5pm78l5ppE4MGEHiYRllfzfqrmvksf7OJJMgnl1-4WKMs9d15fyZlTcn1bPXMDCqZuafe8_Essh5Ypx7AtQ1_KWd1MVq7Na1eMP0iwSpmyhSAZMHDU-KEBgGIg4KDKEXHye9LIMiJzuQZQ..%26ch%3DAQEAEAABABRYNcO6aNw-dBesxLBMYqjMsLf2ukzHpmA.%26v%3D3%26pg%3DBIPQ2GBGHBAVRFOH4H3MZHA2BY
+.netflix.com	TRUE	/	FALSE	1802623988	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+23%3A53%3A08+GMT%2B0700+(Novosibirsk+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6a8960ba-8ca8-4078-a202-ab1383f539ea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802623988	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZPxwJv4GhatkZlwIcq53py_accnHHakQ.%26dt%3D1771087988965

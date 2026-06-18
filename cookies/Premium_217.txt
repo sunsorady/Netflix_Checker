@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: shamhaan
+– Email: aishatooty@gmail.com
+– Country: MV
+– Plan: Premium
+– Member Since: May 2023
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 1779
+– Phone: +9609807404
+– Quality: UHD
+– Streams: 4
+– Price: US$ 17.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AISHATH
+– User GUID: 5OFWMTRJA5ANBK5LRRCBL2VFPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811397031	NetflixId	ct%3DBgjHlOvcAxLkAxGcE7zeHRxFeisu606E3p34Khss8tTNHHtP1WHSkNpBnkRJPq9Ed48IADkHz1cqiEuj6IK3vneIMW1_XsNW7_4Qp58EqF2w7BwEuHOZ-ZihtGsmrIgrf9WW2bE1hPQcob3tuFBkTU1Q4sH72JMaKL8mt09-drca4VQJIIiyOt5SxEnknoaaS9K0v3V9dYmI7DowRq8dRBoAFgV_lEP3y2rbeWWF_gUDNSM37iGQomVYVeusqZLvoVkpNvDzw3sA1VyEoxII8ZlVIV_qGkBMLzMAOLrD9e3uTs9gwELiN_p7317fiuOt_EVPn0DguXgiRv39vRTcQo-H4tAGcXGLe4Ou3ViDmjOFHVlA1H1coTo6WWWEKQvxlTdKBwQAYSrNIeBBf9_iOuBO1MbZfXr9DwVAriHeDnF-ANrKswrWSYM1jKALW8fwfnk2R8SZH9gLGwGe2uH4VSXNFqMQPzbYQDL3A7gKu_3wwuQL-Cpbb3FWOjXhzLMYHkFl4rVAgk1nbzO5MbhQnmutaLP-4fzltOiw1z3PIQwCeH2CGIpnv6L84GJI2lvqg-t3yYETYOcV7EuRGALI8CWkcuwcCgewXubpgnzZ5DwaR2ukZI2Pp9cLf0HJvyYFM_Bo1hQqD1dD86yu1GYYBiIOCgxSdtcb8x06ry0kGEE.%26ch%3DAQEAEAABABSPFoMOJQE1I770Nms5dRXk0hvgKuW_gR4.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1811397031	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSSPVM05dZH0B5qT2qJcMZt4Vg5CrPY8_c.%26dt%3D1736768805637
+.netflix.com	TRUE	/	FALSE	1811397031	nfvdid	BQFmAAEBENR4Mdg1LtVH1aGZndvwHOlgcvpoKYXVHcqu-48d2w2mD8uPR_ed53NOc1Z2tMErLvE_fS-44lXz346PBGzxtf1nVW_GO0AZ_VqK2LdtTr1KDSNLpSNuCLP3yBVI1qHAez5ho8kqJbiU0PO-5Emfsq-P
+.netflix.com	TRUE	/	FALSE	1811397031	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+13+2025+21%3A53%3A48+GMT%2B0500+(Uzbekistan+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd2dc92b-48f0-485b-9984-f4aa86841f19&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

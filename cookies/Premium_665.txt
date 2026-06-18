@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Emma-Odo
+– Email: sniperkent.26@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: N/A
+– Payment: PLDT_BILLED
+– Card: 9201
+– Phone: +639159438870
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dada Kent
+– User GUID: CW2VBGOSXJDYNEOFW6HIUYL6TI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEIs0GBg5Its_-jTGXVVgxsRgCz5rkR7UNInB_UHmtRmeDhZzRhkL4v_DDzM3n5Wm0xF-1ePRbG7QN78EQL7dnnWDG7ax-zpPxcA2IEBJYaBFpgIe4FAeRLbvCN_0CpwyxLKOK3C0K1yBN7h3RxDeX3hs
+.netflix.com	TRUE	/	TRUE	1783963511	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSppMkCGKst4RgB7kIopJSG-e3pAVANbhE.%26dt%3D1680748640144
+.netflix.com	TRUE	/	TRUE	1783963511	NetflixId	v%3D2%26ct%3DBQAOAAEBEMy5JlfS_-Un1gBJjker8HuB0F6JXq2tSK4RBBG3TAWCB-CKKjn868OYZ9K6CenLHkhl6PggZVIGZfIDMthJYGihe4-Trpp1RqQnau6erUCRSmFJ1CTr6z62539057EOt8rv2DFeeVtvaLmVfkYZQuBNDNADmrtWzfw4iT5QdNFgXaDo1lm8Mt3O8lQWIOfmyMtCPLilonFvmL0hpOf_ygxONEYLDe6kVWtPEm4ngbdfMNYCcw8EcErB-KKxUx5xW6NPww0FdBX3JSc4JR6t67VVJrOEy1MYtfX3qpn0a62phl0oCPkmTR4nt0dKqQLzaIZXXHV5zo6o7VI2JoLtwbgd5bQUtK-ykAzr6p5hiXB9kCHN5Zr1m1MWSu-8ryY505Txwx79eT5Sg8WR12Z9FdnwToOlQGFtySGDIK99mOJIYx57mJaHo1KroWV9jaRefdWCxGvOCxMhAAzm5fMCEiZRSMUgS63e2pmE54260Wp1P-DNQeiw779Ao2gGjleDnLNrUNDZqf7kxNKbuZ4I7VskZHCDhq8wwo4NJmS-GfM5epzScb-PSE6Z_3iqCDPjVxLTD1Tcse1_7Xu_NtrZ0HiFuA_4p9016StgYky4saznrMIgN2fNnqf1E3_5uaKhFvAz%26bt%3Ddbl%26ch%3DAQEAEAABABTZRF4hwTGVAE_sJTj8hICzVHUogTHK-2E.%26mac%3DAQEAEAABABQqsuh_6mC_HhGG_9I1HNbb5bVUCN9oUHE.
+.netflix.com	TRUE	/	FALSE	1783963511	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+06+2023+10%3A40%3A03+GMT%2B0800+(Philippine+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=2924338b-a036-43b5-adb7-f6ceb7b618e5&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

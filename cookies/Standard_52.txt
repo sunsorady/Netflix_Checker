@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: FAMILIA
+– Email: reservasvillatoro@yahoo.es
+– Country: ES
+– Plan: Estándar
+– Member Since: septiembre de 2020
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: FAMILIA
+– User GUID: O23A7TINZRH53H7CNLC6HCI3XQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808143737	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA6I9A46jWTSGmIzETuEuVncCrF0ZURV5FLSU7E88dEGwao3rUbLzU6mhVKMJSdMgNLPZPbT7U4oQMyMeX3BJcAjTdQna5EtDWcBncN7ax7zuE4clfU8JpPvV6ujTjcvhky3QIkL5aFI0hMhQkQK54zPOMRkrKQQ-7JNR35dMNw6Z8iZNlsTteBIh61wvqJrx2icDOXUJPbVSsycXtzMTM2o2qaYi2XxB65fseZ_V8pvEUccPg1oo0d0Uwmb4Fdy1_ISCNyaIKVzSU4-5LsijNI-jgQNCvQQeatEpBruVW3xIgHfwH7Qz_xNXg0sOmEd949FhU73ui9cJ4CZztKeB_jUX7wVlbLqMrDvfza5Nfp6n-WbgKDfsCi6XIuiwLJE1sdIe3nXo1LXax_3NbW98_H_kETqHWMUwB2pBc59zSYzbyYjCA2egyGXsj1M8rvsZq939IemoSWGL0IW2bmyrFn4aYN8gZG5vb2dA6ta1RV-8ZaJJch9dDnLkxdKrlFUoQ-fokU87CTmq0fDhGfyO08sRsnNqogFb73detTWdYjnBeDz06BgGIg4KDF9ljTcXO1LwQlxM7Q..%26pg%3DO23A7TINZRH53H7CNLC6HCI3XQ%26ch%3DAQEAEAABABQxlEzJqDybSIY61kUng1CwvuGOBs_3zaY.
+.netflix.com	TRUE	/	TRUE	1808143737	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUYkR9YDDKJrhHGGTnLEejfQsQGbPPFdg.%26dt%3D1776607919046
+.netflix.com	TRUE	/	FALSE	1808143737	nfvdid	BQFmAAEBEDfDe7Lk4BPH479qzXGJyddgE3eQnixOoPYZA2-OSMs2XY6OZIJDCVnpg9xwMRynHdvkL_FgfesB3ieWAg5fYqYtLzPb38bLSLNzcvRjxJrewWZRY_lPssLpBF7L8kY4ykAzz2hFHT5er0VpR1h5IwkX
+.netflix.com	TRUE	/	FALSE	1808153745	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+18%3A55%3A45+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17d7780b-6f07-4dee-894f-04a3919c42f6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCL&AwaitingReconsent=false&prevHadToken=0

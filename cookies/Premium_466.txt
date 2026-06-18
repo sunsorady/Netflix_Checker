@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Noe
+– Email: alexandre.fabrice@club-internet.fr
+– Country: FR
+– Plan: Premium
+– Member Since: August 2016
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 0861
+– Phone: +33616106449
+– Quality: UHD
+– Streams: 4
+– Price: EUR 21.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Alex
+– User GUID: FKTTZ5L4NNBXZAI7ICWRQYLI7M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801783613	nfvdid	BQFmAAEBEMVKGMTXC3uZMZQ4d32g1kZgU98C-XXl5jAzeT36jgtrFI_0AsQVZBn3CRf4J0h12cLV91UQ_KX6TKbzhiUdEhfp2C9CRJVYHEy69ZjeLlG32Mwsv7174l1wmtVJhSKBK5KGybxnAd43pfURRPgVP5AO
+.netflix.com	TRUE	/	TRUE	1811503068	NetflixId	ct%3DBgjHlOvcAxKDBBpvxBaO4cyAPV8GheDAshMz6-AtAiFRKNrRVdoeEYBne_kPJkZaLbwyTL7346G6X1nA9cEeH-euPGoBAWEneV7xQIqxXQHloDDWuDTOaVGpF4W3QtUa59ys8WyY4yVhfLbmneWE1-59q_JWcxyA1ucRu7J6XHGvbryEQ03GVzZB6jd9hIckMRA3ngW30UB8daNN5xDKLiObS5nc3gqMRf3PLVvUB5o397_2isHdWv3VGBTlfJNdAAZUGx20-7yVUtSkKQgoD_hNoN3a6kWX42BqdFl0t4DL2H7iC9_AdnMartQavA3OAy1BZbTLFJr66QBK77UM_Y7wRWrsYU8My2ZkIH_2FIRYsm6928SdTQVvN45eHNFwkzQcb3wqLyPvvW_Fe0IGTbf06DHmjbzBVu0pqNH7aZdCd3Q5gkRMcKiMkrZ6ctzjD3mbALYbS61p45fONFlYThP84-l9Gj85ASLKedFdCqo7D8KCxwDKitlMdZjT6YU-wt9Re3neocBm70EAPNJiXfTDadHAkgv6m_DAwm9qrKaNMYK71bOdutb0HGBkMtKb8D44n6nkZnscehFEXcXportYaZHK1TwqXpJWZwdm2ns3k-xHv8frxFsSjkvqiYVS6MkPfbBcMsIxxZn4fLXcpKlxTfk4d6YdLTooGTYys94YgjuW9SERrxjgSRWPGAYiDgoM25lNe_Fbdyb4IlDo%26ch%3DAQEAEAABABQJ90myabfO_vBjeomm6pAWciEhNLuROvA.%26v%3D3%26pg%3DFKTTZ5L4NNBXZAI7ICWRQYLI7M
+.netflix.com	TRUE	/	FALSE	1811503070	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+13%3A17%3A50+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=30e489b2-70bb-4060-b3f3-697687f6a319&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1770247131902&geolocation=FR%3BBRE&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

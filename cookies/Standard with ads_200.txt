@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Feer
+– Email: andreamartin20010516@gmail.com
+– Country: ES
+– Plan: Standard avec pub
+– Member Since: novembre 2023
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 6299
+– Phone: +34627748544
+– Quality: HD
+– Streams: 2
+– Price: 8,99 EUR
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Andrea
+– User GUID: 2HPPQ5ITNBEWJNLA66D2FDSOWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802451997	nfvdid	BQFmAAEBEPRAjTJCsfYd4L_SSlzaHsFgVfY2fEJJfZZGDAgwr-4MK2GlMY2AY4aidFABcZw0rDYvS_a5PYnOx5RLq_JHCSykoWZte3TpiUw9kesru63xdYAk7vfkCs1lOiGnz8GvMOOripMR-erAqr9PWYrRCnch
+.netflix.com	TRUE	/	TRUE	1811182749	NetflixId	ct%3DBgjHlOvcAxKCBLNaIs8KX4qpy_Hg7SWzziT407TDiG4r5hV0NNQVcPY509V5MHCSoC_U5SNqZ2cGQgrv8rQEbu3Wu6AOYO-8NVl38Mqoq6Vd-HqBtmpc-BUzYKsyMmKnWf_S4Z0sV3Dx5eguT5R26hMPDOrBVdYUswfNuXfXA5oN7CiWwgIMI2ZmfzBXk08zJlcHcUPV1FQtAB-8dHmL2clMGW3xw5CvUTo7a68ugCjuRPXDxSHjwoWuS6Zs9P-c4sjtwkJBL8RoArn0A9TEXHkAqkKKJeZwaO7d4iUGUBPfTrs35JteAKJNluL8MKU9LXZw8ZMOJ8ZYoQiDR-MNThftt5BZAupFJ_x1mS1LsruwtJtivyvtwgiZt9mtWbQ474cBBgSBhmw84rlW5927JNeRGp5-6QQrbhIV_qGqISCUhbHYTYH6pX4RoYmJEn8ITYm8TSStS5vxFpQLZTbI7Rr23pWrBjckrfpYvGa8SNjG2xf66Jod0SQdRyl9IAaSucAxaK4kiCWEmGkwcUdvaNlwQl3CvcxbrP6hgWzHbGCXSRyBsZKYbzJiz7K62jfht9mWjD9-2xS-R3F637bGR258QpxJcD9mhQO91WBJxluD9r9E8N-p0l69J-zb-pV1DEuTO-ZzRqrzvMLKdoEINjfyb6bIMeUfIPCVWzdsxiH-wFhgPK6OCN7yICYYBiIOCgznVBExBYtvRMIJY1A.%26ch%3DAQEAEAABABQnirTPeEqxmjgkYTkc5Kvr6xyRaXH8ERU.%26v%3D3%26pg%3D2HPPQ5ITNBEWJNLA66D2FDSOWE
+.netflix.com	TRUE	/	FALSE	1811182750	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+20%3A19%3A10+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b62f5cdf-9097-4fc7-8128-0ce931bb3a33&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&crTime=1770915888825&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=ES%3BAN&prevHadToken=0&isDntEnabled=0

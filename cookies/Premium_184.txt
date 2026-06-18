@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: xivy
+– Email: hasnenali1994@gmail.com
+– Country: IQ
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 2552
+– Phone: +9647812010123
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: xivy
+– User GUID: 7OU5AVYHTFEEPO66JXYJ5DDLBI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810054840	nfvdid	BQFmAAEBEAeq9MTyRYLzcWHWM5gDhL9g8H9JOMQbN5JWaQaAnviGRRHAv2kzT2t5Soyog_DUtAmyTBoFLBG9-fEWYkv1yQ7wvxFVwkcWo-V2nPIljath9_oKrvH6hG-Oc8GWnkZ4wo9om7USD6V7058YIetJfysN
+.netflix.com	TRUE	/	FALSE	1810218076	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+17%3A21%3A16+GMT%2B0300+(Arabian+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=600c881f-62b3-4e19-874d-b0d254e0fa0a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778518840726&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1810298030	NetflixId	ct%3DBgjHlOvcAxL3A3R3uqzn7fQf9pBewTjc4lfpDL6Rp-F9RduHC69XoA-dI_lrkUi_ZaSw7seIdNvB2Od-G8hwg1fIea-jPToZe4ojs0omidjkY1gpMnUaNGPN8LizZ9c4BDEQheRoxWSYrOY6rerYgbcfzHpKW4SK3VDP3DFDZz4Ict-LKW363-QzsOrem5KwP0BMz1FGzyOvHo8J7N-OxzPq_nyIk81JVcFF0M9dYWgZ2EpTmGKVZRpQchsk3uMBIWht0e0XOVlAyeJMVXjQuNsL7ridsjfti388j51ayNj_I76njve5JKxvwBH1hTBjmmWSDGMHoI-gp71TDaSSDo6RQlilMaGAxhWobAPQtvRoO9CC5rgQh8usSBZug6DaQXelpl-rgjNGw_nq_eZZq6Dh-XDtmoV3ihDZYFIiqwzQ4N6nSKXQRhpum73rcv2D8ERHy7vWZ8ebq2g1fWiL-5ClHZcOukXb9O3WLev3M3BCcZnXHF7NkejPdhxqjaHRNU7E2M9da8-1B7Dsju57uB__r7wXO9hVMBG6i2gZ3YSo-fjApNjXWSeCvzVnHoqm5CJsGshy0iw3WUfx8B_izd5V7LkiUIhQkGCBaCMlquN8habAi20kEO8dFGb0Kv_BPnAFJxhYX-vIWtZe_fUnmjQcZjJP_ezByHiLiTe93ijiGAYiDgoM0t_CAGpD8eNFU-sI%26ch%3DAQEAEAABABSuZN_ETzbAIfA_l3uHp6r3QwYYjkJ4u6s.%26v%3D3%26pg%3D7OU5AVYHTFEEPO66JXYJ5DDLBI
+.netflix.com	TRUE	/	TRUE	1810298030	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLIiZuqZhXYgYRDuwC5QMranydt3i3uWM.%26dt%3D1778762029901

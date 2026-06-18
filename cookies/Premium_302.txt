@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Denzel
+– Email: winniekato.mi@gmail.com
+– Country: UG
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 2611
+– Phone: +256782841039
+– Quality: UHD
+– Streams: 4
+– Price: US$9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Winifred and Derrick
+– User GUID: NFZND2FW7JBARHUM3DKWKXBGXI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1790294897	nfvdid	BQFmAAEBEKFF-E62bHv4aCY7uWVxmgZgqZTBqu_Mmub1gT7B4HdtDqYk41bL7B39ngikCpMkI4IXTbpOQXia6doMFYlxxhk96ElKsdPLdqtQWUdT61VaPLncgQRN3fIdlrpN4Ysj-qApb_TuyrdSx4vupdy1zqUj
+.netflix.com	TRUE	/	FALSE	1806447786	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+02%3A03%3A06+GMT%2B0300+(East+Africa+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35af12fd-f97e-4b31-b699-25fbeca8f375&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808849012	NetflixId	ct%3DBgjHlOvcAxKEBPwMaec4VXcbHpb2RS2A_wXSqAxZVBV3Tagye3_KEXqpdfdFtYxMg2-sdV6ggir9X64lwT1pakCqGB1_dclaxmSR68eEUn_uQiPbhuohdkuRERHNMUcS9VXe8XsHvaJm8_ayaLLQZ5P8i4gsTpEt4porUAHgCPFn3RYmwl_Pulzc8dHAyMNDQS5VUI9545zwpUUUSonvZGIIYWNFKrxdRT-Ra0bPMr4VpfJfuztz_s69cGs0HhVNx1fjC0WpBF1ldRVSAUwcOPSyWKH3A2YpJn0KeRKuJJi9xI2put96Bxs6aqrilVZUt_0DqVMIBAPFzlmqNvrigU_H_61vhTDKVpLV8l8aSywi2wFgLx4GcFM_ZRLT1vxRnT4hh3xFUcVS0ubicLylW45VKLr1CBnIzN686h4FXS1RM8yH4aW0x9PyO2Qv8vxk5G6Hae63im6SUx9oY817vue--4teESmUnK6x8nFsLQ9xNaS0KbUWQfo_30ZGGiU6i8dfsqaZhLG0-VUnBc9FSo--MBz7gJu0PO_cuO3VGeuwAJXGf3WNxdFuZ31dXmdRETVX-3BDLiqFWCDr1ygq4LZQ7Xor_MsIMuoGntjcphWf8wzjMAuNnWkHSmKZ20G3uWDlv0v7HI4Xfdhy4WwiDrrK53yXB80l5jyuUeDrWQB83w7Pb81QxiDMPDmbJhgGIg4KDLkK2VeRhfuNfVlDrg..%26ch%3DAQEAEAABABQwD8ihF8S4ZyhWREtL5cghtRz7lKrk47w.%26v%3D3%26pg%3DNFZND2FW7JBARHUM3DKWKXBGXI
+.netflix.com	TRUE	/	TRUE	1808849012	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0oKvRfCXU5iCJIO50YVnJibcDqXxB-ec.%26dt%3D1777313011381

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: kyumacaco
+– Email: ofcmael7@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: October 2025
+– Next Billing: 2026-07-01
+– Payment: DC
+– Card: 5029
+– Phone: +5521990526522
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: kyumacaco
+– User GUID: BGAE5DJOHRAKDF7AYNB2D66FIY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEF8Hx0RDUnXJWO5hvlxM4JJg1ukTBsxXtMrnTM7SiuPYsCnyGTsULvyT5n8JvYzcMdT0Lg3e3IyMaemMr5qB878WoqAvY-qw33bQFzfpa8srX5eke4Ur2RnMC9O-nG1GLhlCLIZbyZT26oFXEXA5w4_b
+.netflix.com	TRUE	/	TRUE	1794338147	NetflixId	ct%3DBgjHlOvcAxKQBKroIS4a5BgsA5-NJV1izh4ybNrUlA4gTfW_NLSrHIZg4_25N7Q9mCPFU44I_gx9VckteeVaIb7ffyNQJK8pG2FFvsXmBorvX7D5GB8-9MH2G1gx5FesrrLaddZtKYiLmS_B6Hi243cSw39jSr_pYTcF5qduD40Zt6B-jZed-fFoQzk2b-qACmqsM0E2T4Cc1uVsyJg0sLjX-9BDQGlsbZs9A3Q_KIGEncxjKCVoyMHcUJASSbucP9jSNiT5VAEKhmCm0NGiXJrlu5wTNqJdqshw4D7b_VvQGQ7XyTxP6badYwvIV9kMq2g0mZlSPVNRnbVEt8eTspVgLn0WziQbgPRKWLeOlRNBG36z65ZhOF3poaqOi_54z41aeQz9GjZVAL4xnuRVylT1a36f8E5ailHpM4QAyzZzdhDvFspvkczl4JrLBOekUGXkE9VCwyNxTocYIAqHK1ziNe1DD0bjM9Cs85C711mhVAvRLJbuTzRzYiwFg7C5eur6ByPqWrF57ucp_TRSNE2_pNSex3cKDwsxdiIYgdCN8qkD5gx51NgmDB8ilb903yf7bEenjCn1shuK83afe7TFJsIdnoKmVvNXaennBne2-2S4unNgEpieIzU3GWRTwtNNSYxtGvKfd9TQazS8uWGOGZTn-xWKSy4hVN_xllgRE42uRv6piCvOvht-Hu5qEog5sZkfvrz8hhgGIg4KDPXf9MLwZoprqWkdtw..%26ch%3DAQEAEAABABS70ZxnV-CQVseSU1KbGPJPDGk1XZ-aemg.%26v%3D3%26pg%3DBGAE5DJOHRAKDF7AYNB2D66FIY
+.netflix.com	TRUE	/	TRUE	1794338147	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTnaxddWr4q0CSLlemrHI04dQ5t-vbxX3Q.%26dt%3D1778786156746

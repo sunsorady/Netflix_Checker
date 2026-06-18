@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Katarznka
+– Email: nvmo66@gmail.com
+– Country: PL
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 8359
+– Phone: +48503492471
+– Quality: UHD
+– Streams: 4
+– Price: 75 zł
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katarznka
+– User GUID: EH5QYFJUFNGBZBOBHM7UWZ5BRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788894280	nfvdid	BQFmAAEBEN5iS3Y9o2ZKkpVRhQnwVD5gOLPVz2ltY4oBLuH5V55ZEVtqsxA9ShYABtEyHeoAs-iJkLBht3-ANQJ_NbLXP__v80z1YEtNCAG1ho5__RJa5KxE68Jvt3GszQmJ2sPtuGJOv4M8QeKrx6H7Mm5WFCb8
+.netflix.com	TRUE	/	FALSE	1808426866	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+22%3A47%3A46+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d6848878-34a1-4f2d-abc1-fde7bf55b256&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PL%3B30&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808426855	NetflixId	ct%3DBgjHlOvcAxLoAyGNa1OfbSWx9atYh3ge7SaEj3xZBDnN7pExdsx66wNlbGF-0ruHlDYqJTXbFXY4aTgNi8CM714i6JfgSvexlc29wZWgyYdJF90Ro6YLE4XpgqXDl5aQ-QXcNxKlWxLUIfSEV-pFc64mJCLrv8cvqwBB6am6VBGzBtGNKoQ1wJBi3MsOysXc-3j-AvOY5XLkZT8Buj4BfA-vXO5p5kFdxFHmpyQjV_VLkFX_tzKHL1ftYvVFuaImIIq8Mq_5a1fuGFYvZONY1KovPdOIEsc6MgCsRmwIthLrY6k4c1eqiV-XMWBXIm4KG0lJuCScgPZRXc2o0nio7GXJCof70rifwF1orwGGbPYq2KZUOvit_kegGcr2AaBcLlAo2uBxcpQ6fyaghGMEm9gh8rDZrqsNG7kFMXo0uDhASF827PtYTBcufq_gY0uPRvvYSemunt-_7QQX5i-_TZ0TadLlJ9uFfwUaJnbI2uFyKCqEkZUm9yA6b8GEQU2TQdXSQXa8kiJ51VK2QyAzkGTcNzpyVxNyJQ2rBXwaRRHRMi9vpKyTdnOSB3gfVLD9Ky9rUVFfDfq17EfK9rlWeG5_xUTtDVBta-Z3b6VOeagGAyR-ai8GScL6W1bxGkSZUgPqRfQ0s0thpE-yc-7pp53KGAYiDgoM8o7CmnUYy785w4DA%26ch%3DAQEAEAABABRx4UdeGtUZQM0BNFHBpnIr-GOt7lT8h78.%26v%3D3%26pg%3DEH5QYFJUFNGBZBOBHM7UWZ5BRE
+.netflix.com	TRUE	/	TRUE	1808426855	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_TyRxsyIjOY9Zb2ykRuGAhXG8Sugj1i0.%26dt%3D1776890855908

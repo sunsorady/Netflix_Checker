@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rahim
+– Email: hammad.kabir9763@gmail.com
+– Country: PK
+– Plan: Premium
+– Member Since: May 2026
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 4632
+– Phone: +923305066658
+– Quality: UHD
+– Streams: 4
+– Price: PKR 1,100
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: muhammad hammad
+– User GUID: ISD5ACSPTNDS3DJSR7GPXSKZR4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796322511	nfvdid	BQFmAAEBELfX5QF8eE6N56Kj1gnIM4pgpfL90Flo1ulyKPku7mMd535X35FFzolcIeEFWpUWloMjDkVSfcZ1KtHPtO2EnwDv6aP8lyZPnd42qUlYrK6cO0rohrURW5_LxsnHeh4QE8bdzYJ4UBKny1Tmof__47gN
+.netflix.com	TRUE	/	TRUE	1796322517	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AqmD7SX5ZYcV5MAi1TKr5MtZ0irJiUqwmt5NhSzIqew-ce5_hW0FZV7n0eI6tQz1Bh4jiHDJ0wl7mdxyl1GkVGF7pnWZGz_EK4b5SJ4x2dz7b7JC8gAjuG6VZ6zBHqUmIQvv_qVchYpkgA7V79R8r-bVXhNIQl1bjEum2fFPqks5jkcxcfY05DaqTOR-mPhx_NLXzDfYkfgl-nPR3fui_cVW2lqE5guU3N0EnsruruKR0OSLTy_WePyS9qpWJvzAYt2E5HXOURBIJC-sO6kgukGdKfikPdw4ewr-kr0vO2oTyYM-Ma9e-vXiABOtGN4OZZuI_llRMPucFWYWVo3GObiE5H2sVDsGnRQO4NgcyoUJ50FDMZUa098aGsNcXNBhwGWORPRKQDRygQri8SoJYsWpXpIiDyLIISaEIF_Bk2AZUKcuwO9RKAwS7Bto4wSOyGGrKUnKvvcbKX2nsppoX6XszyCJVy_bVuUVDrmyB_bg48CJoPSo4BgGIg4KDI7veV48j9lHwsyrgg..%26pg%3DISD5ACSPTNDS3DJSR7GPXSKZR4%26ch%3DAQEAEAABABSZNWrGIpNbecua6d09efBSnBQvUkwYUr0.
+.netflix.com	TRUE	/	TRUE	1796322517	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhbpR9vwinWFGM-A7h-oDpeLfYyR0F-QM.%26dt%3D1764786515787
+.netflix.com	TRUE	/	FALSE	1796322625	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+03+2025+23%3A30%3A25+GMT%2B0500+(Pakistan+Standard+Time)&version=202510.2.0&isIABGlobal=false&hosts=&consentId=bb93a643-cf8b-4ae1-b64a-e0c997f22a09&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1

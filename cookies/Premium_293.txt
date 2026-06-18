@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Güneş yalçıntepe
+– Email: nazanyalcintepe@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Ekim 2024
+– Next Billing: 2026-07-04
+– Payment: DCB
+– Card: N/A
+– Phone: +905322054148
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nazan
+– User GUID: GPXZXVUIGNDGFNS3DLL5NHGBKA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811355782	nfvdid	BQFmAAEBEIw1CzLDogTFr0OrD-p4nmtgcmdPRrP4PNTmFIg1zS1mfF21zBl5qgFg5wYNb6Tpmzt4lcUKj90Lopx7SQOb_hui4rcbXANorS6sSUKd6Q9_TJcGn3qf98PDwu0fvTH3ePdDGkUYZE9VyA6T1wzdBiOl
+.netflix.com	TRUE	/	FALSE	1811527092	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+20%3A58%3A12+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5fdbdc84-b5af-440a-bd28-23a3c97e423b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1779819726362&geolocation=TR%3B57&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811527090	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4Prv60mqNS3xMmg8sZus4ReySCfFfJW4.%26dt%3D1779991089267
+.netflix.com	TRUE	/	TRUE	1811527090	NetflixId	ct%3DBgjHlOvcAxLCA4EVmeqI-XfNfQWHsV5DeCd6B5ocYVI1muQ2A00KaT2jPmvgZVueyXTNunijPfhB7RXL7rfA0SeMCstQfZbl6Rjk__p-tOxDSUGE4W621mDFMYeV8JBHdUh-Ijhs8IftSGdBkOLx-qX9dY2E6VPHCBCUi0q7UXbg2HmywAlRupgmpRnuMhisBQv_LLrFTCyfHJlCaeOKL1KyT7V0tNP2SkzOwDQ5JOFvoBbcO1fSZSbvhihK3eyigcGqd5YKHIro54OWQacXk-4ZD5eepB38LQQIZWiaMdqG105G4q28qVg4tVByfqNuswzTa8oF21nMiqQJFn3hIReNBJzemmceLjwcXyI8sGLMqt5Gs3H80tdFZ9pMIdx7fKxplSi53eJ9DbPPGebeLHP8y0d9L_1tWEeHDu9Da0MY8omedPyh23LNBwqYyusFIyIfQI04SJJY7zhyL_8HzUV-_oAw0T0W2reufKDrv_JtYAfiIysriqiUOtURdiLO3nIAQpwMZX-kR2_YNCk7WvZmqsEgkNSFRagWvK15bkzWfxz-wA-qR-CL97L2qY9jg99JtgVSHA3cNENBqfigpxLmaZ9i-sslknBNkhgGIg4KDJA866ev591qNqEKvQ..%26ch%3DAQEAEAABABS0VL24xEJZIkJznZ9taqALkAuAILywn6U.%26v%3D3%26pg%3DGPXZXVUIGNDGFNS3DLL5NHGBKA

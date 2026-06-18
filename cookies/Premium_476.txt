@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Rémi
+#EMAIL          : dillone83@yahoo.fr
+#PHONE          : +33685666763
+#EMAIL VERIFIED : Yes
+#CREATED        : août 2022
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (5462)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:31
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1796511512	OptanonAlertBoxClosed	2025-12-05T22:58:32.855Z
+.netflix.com	TRUE	/	FALSE	1796511656	nfvdid	BQFmAAEBEGuv3jNZ_v9iDyF8_cfakl9garb6tLVlfeyeRorX-zIS6B4Ph23uBcaR6iNb9OWVtPDoFP-8wUn6ADIkXgSMZkg2TyQQWEsKvxG4NvEzrCPldU-LS_mNWiqcAuHngUp_rfZT1MNJk77SVDhjj8XF3_f8
+.netflix.com	TRUE	/	TRUE	1815338769	dsca	true
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	c939b505-a234-42f0-a2be-21b7c3ee67da
+.netflix.com	TRUE	/	TRUE	1812396408	NetflixId	ct%3DBgjHlOvcAxKDBP8QTKplFVmps3DIXzfiR8J9p54-G9DG8-IR71kEqE5XVv6gxaKYTXBMYpFXSdst2mPFisQNcOHLl5poPA0G5gV5PCVemJymNrnLhSAvoii1a0RMEIE9JQ0og1EHmTOVC6T4Q8zBEccbkot1n4wNv72VcbQtX2ec_iqTTNqw-ShXaG7Z3GL1Y_APZUvlsuM0nQdJvX-AMtONFdWY8Ym5IVcLDtnscQ8BbYLVY2AvAtiXkm3yijUv0UdZ1DrXShUvcOPEO3IUFFaO1_MqUfZAq2CYRwMwDldRwZ05S-9NHPhtWc2F0WQCVmyQgBYsZpoY0XaDdLd3EQMTualOuOm24N5tghqGqMP5ZpYaFzU-R-HuXNRT-3Em24OI-cmPusmpwPyYeBVe-YPXlZAwq6VIPltqrw4zXCNdVA787JevOAW7Cd1gggz5XG8YIozbD4fxDubl9CnQv8EAiJvohmiGC5rVDOlEIQFEsiRY4Uu1w5pq_xJvnjo8-t0-CSNIFh6OSfyFXskdRL0tuHSZYaDk5dJE9VesAjkvZhVveycYa2fJSU-V_Y3TVjJO9VkGjei4y50450ZSjKhEjnXKwpIW0ykq9eKs2rIvrGkcEaW-YzRlcGML36Nz4QxZEUr0fRnJAp_IVmJvf_sC85P9grqMpJKA_OF-BWCwr878WT_pPxcqHMjkGAYiDgoMUeO7ka9VqgVgo1qt%26ch%3DAQEAEAABABTIayo0VhPENInbsBFsyNAy7mxwm5_owhE.%26v%3D3%26pg%3D4B5W5UOLDJFB5OI3D3PVRUK6BU
+.netflix.com	TRUE	/	TRUE	1812396408	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR62S60Zxrp16_CNZrUhGVt_jWPL7N7pfU.%26dt%3D1780860410967
+.netflix.com	TRUE	/	FALSE	1812396568	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+21%3A29%3A28+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88970484-bcc9-491a-98b8-e477b9398d28&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BARA&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788636568	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788636568	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788636568	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0

@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : GOKU
+#EMAIL          : goku_araujo@hotmail.com
+#PHONE          : +5511995663031
+#EMAIL VERIFIED : Yes
+#CREATED        : maio de 2018
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (8780)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:07:06
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811108684	OptanonAlertBoxClosed	2026-05-23T21:44:44.532Z
+.netflix.com	TRUE	/	FALSE	1811108712	nfvdid	BQFmAAEBEGiCeJ17ANDNPD6kbbZcN1pgJtA-mM00MP3Jny1gNFLEhaKwKxJ4Jp19_QJnzT2GV92r5zs84b9TqBg7T86Fgwa1r8UUZo4tDB58CWxONKdk-ExqDS6H2uHhkQ93LvKkTZEGm5ygPkdJEAmx6XBWANht
+.netflix.com	TRUE	/	FALSE	1787717316	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811477316	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+01%3A08%3A36+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1dbdee16-5050-4029-af2e-e93a69af8d58&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1779572684920&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	1811477314	NetflixId	ct%3DBgjHlOvcAxK7A_vaZn9isgie-a3bwKIKNBHvvL-ZODSYTNYwd2vPpEaOydf-pe2jNx_ohWZvxnS5TBj_nhyLvjUnbxJD4IlwPi9EhPmHO-0nOpnwwljTw8XHWxMtnqnyEd4jdTF8M0CK_8wirW5eJiyjnPPi1LbIuvpYgQBfs5fuCEPjuHWDMfmI7uS1mopY7Kpm3eNPUuSwLNjEqO-vXa3nNRMoO-xD5x3l2fgTS4ATdkbG4HJoKOHSjExhtx02ZnyH-wuS4jJg-oT2KB0GZ6er52PmVZyZr8oSHfE18NciGJquvenP0Edgzhum4xEXuGqNmUgfTFJUdYF2PjFaFFtUBwkPWm-lKse073zEpHLx56epJPAonV3f6zlk0yWsGlZs0sgaDB9lNr2r-fY-DYg3iAjk5qDBmmtUkQWx6GKEz3dpxwqG2QxQBAcd8XmOhTI6nYk4OjdVHVc0LQ-CDzHQZkFEsxkhnGF0IlUgsQfY7j0vPCNC24qz9Dx_vRhAg2ZUbah1mb7AEPJZOKcwTQM_7Q-jKNjfCKsz6vCw9a4qHo7PbEw45t5ElLby_0tSUWGvO3LpdBdd6GmoYWPS2hrGhWETGAYiDgoMKzT7jSUMCsAm6CpI%26ch%3DAQEAEAABABTtIiu42APd7Jlyq-ERew9CXGYW-8kSQdw.%26v%3D3%26pg%3DCU6NTWFBN5ESVFDU4ELC6L7JRE
+.netflix.com	TRUE	/	FALSE	1787717316	netflix-sans-normal-3-loaded	true

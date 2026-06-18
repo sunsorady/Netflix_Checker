@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Y07
+– Email: coumbatoure378@gmail.com
+– Country: SN
+– Plan: Premium
+– Member Since: December 2019
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 9225
+– Phone: +221776383513
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mother
+– User GUID: R2I4IO4Y3NES7CAJIKF72UAHDY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807999420	nfvdid	BQFmAAEBEM6okm1rbyOBdcuTpF87MYdgjh2-WBV0_BsLAkkIHieTLN45R33i1SHaJxdVd0MrWyaZ6_e7rkZCOSb_zCImgDIn0S1veCXqzkph63rCraQM9I3IXG6YO9TRlLNunJGX2KnvFjzYydYInWDqyzqqYYDh
+.netflix.com	TRUE	/	TRUE	1811457529	NetflixId	ct%3DBgjHlOvcAxLlA4wiQyXzfBq9yrHTATDKJf0i8XAabuWJPWG1nvURqf8Qe92CBWjpmelbQmxR6D2gimbxXo1cwLYXFwGa5RhasG2-vpKU9bELsjjElS4wYhnWmCLK4ujiP3OJpD2RpQXUNvXuDEpf9f4W4h7Oe9ATc81CDECOGJF-jwaZnGv8iIwjuVm-fATPPGwsb79gWJckk1ytCLEtr41iBqeBAgiJNdBioBUaAdLEt6mSMsSkfMlujz6BidsVUJKtd-rlfSwNnBW4jTqQrYQ0gISHZRpRZS1__HpBbqfXGrO_6jTHyM18xZjlOKP7Ur8eOmwNvbt96vKTRqq8P1pvprqYpbGOjcEHCGOWorjSUBRgkIxwHY4p3dZIsG-JxOMZRWvqhg3V9tmI6Ieovh-PIeBw8fucpSB5KheNk0vWAL4I4SiF_qqg_eXwTPWrtwyXP5jArAZP51vElEAXwlMZ5iMfPl-Jhrs6DYrzW26SzWpFTx4CWJ2FItDUPpx36HOZkPnZCnSSUVrKeOFcBZ9j5NVEybCSpssZL6G7Wp6ikaF9GfuqftNsGQ4wuWqRRUInnOVcQjyhPJ5HdBYgesTm8Wte6u8fUW6dddi46fDrEvXpaKe_6nxlUxVIu-hOZwOwXm6StAXGBKE6ElvwGAYiDgoMy7OHBtaWJRVbtu6J%26ch%3DAQEAEAABABTz0rOLSCwXj9qjnUWDkrmsVIQa0QfuZp4.%26v%3D3%26pg%3DR2I4IO4Y3NES7CAJIKF72UAHDY
+.netflix.com	TRUE	/	FALSE	1811458555	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+05%3A55%3A55+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae6eebbf-c625-448b-90f7-139c51155eff&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778883674431&AwaitingReconsent=false&isDntEnabled=0&fclco=&intType=3&geolocation=SN%3BTH

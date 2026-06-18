@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Antonio
+– Email: pontedivinaconisa@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: noviembre de 2025
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 0247
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Isabeláguila verdon
+– User GUID: E7AJWSPDIVARVNRYL77ZKSSDLM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799096031	nfvdid	BQFmAAEBEHKi0Vxma1Bit0W4qLBrqg9g_ZTYmfNQ0ohmGex98iV2WGzGsyE89mSrJ3INkukZzHbCUM86q2lid5VaZN79_HGcNBUsJZaqG3i13xzheFHNtDiZR0_ClXPkQWiYuZipUhijnwnjuiJ-ctt7xHTnFmT1
+.netflix.com	TRUE	/	TRUE	1806693855	NetflixId	ct%3DBgjHlOvcAxKFBDsKXmOVf7JZMMYCfUvLGN7gLTWYsF_jGkzy3TBpyjWxa6WXStP7mzESI1txQCamZHNY3yJEimVCYHAFy-LCxL4186bhZ9Hj-aXawq_vhKQROhLK9tE-Bztxq1mEWupqazFTZOkzV_itTIWQDjr6XKD6o6P4bxeuLOyuMxLmuJ9Z_UR38uRQjvdblQHPtGStgefgfZ13nl4fqKFDKLaEsToS001NkXWvohAuyeJehFW_Fx411jSKNNkt5-wwf24642ALwdG5NV8kvJmx6e8WESOGO7LZaOeFlNoM3uPDussUu_sMyUknSUdU-uhDNYI3xJkZGXvelzEc6g5lB05pjnjglXD6g-BAeOCWJsARqMwngb8gW4rwA-LBv4M9coZFaZ96qz_z7i5fFHRV0JkjKiUv8MVg1ZILFw12V3jhTL2DJ056qQMH9yseTupH5IEWXVtzTisjUMlZL0s10iKUYOTVmTaC9MUNRzPp2-K3219VvLN54AfBL7E-hPv-1no77qSl5Mby3vP1psBhHXZt9Y3x2xNGm8SNvxBGUb0cFTq3npIqjNdrx1Mq1QQfX-3vrraKLegO0qsTD9CRLCCyd2y8POc6pkI46Isx5dW9Y1UiUK5Uv8SXYAql0BhEIe1DMbnsOaiV_wqrKxgABgVyS8dX0b24MuPQknVt3D-6otLBJkm-MLQYBiIOCgwV2yZVFqI2l-JrTCE.%26ch%3DAQEAEAABABRZ9wieQP6aOSwltP7cYfqt-BKJzttMf-k.%26v%3D3%26pg%3DE7AJWSPDIVARVNRYL77ZKSSDLM
+.netflix.com	TRUE	/	FALSE	1806696482	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+22%3A08%3A02+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=611bcb49-e28e-4fec-93a6-550a5b5a4efd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BAN&prevHadToken=0

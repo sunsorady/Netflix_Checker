@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Andrey
+– Email: andredina@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: January 2026
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 0595
+– Phone: +5548996454827
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: André
+– User GUID: 27S267I525BG3AKRYSJ336NJGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801710135	nfvdid	BQFmAAEBEMM05ofHFMq7jUnSxgkOt1xgbMGvKmeM-nhHtsnwxFXNvjh6QiSVRIf6cpWwyfUW9tQ7Rd_jmiZRY9e6puqVTNDvSVOnQzTOE_7bdvjOabDlH7pv2QCyv3kqg1JYDE8ieTA5ahWnG42p77BNaJRfTTyQ
+.netflix.com	TRUE	/	TRUE	1809194389	NetflixId	ct%3DBgjHlOvcAxKEBE_eDww2av8UATJX8GEd15oN9I9JhVGDzH0F8GDcr2Ct4qY0DxHh2XkFYYsEOuIDcCR90sI7yGIDb8A5khVvO1Kyokk4qUah4CirXAbAvW6EdenYAUlnfHiOq7D3TLtyfE5S-A2q_LvUSVxzhIoJMUOBsJyZUmDujpr6YXT0Dm-bCteeV2v1-peNyCnIVc8ifdO8YZSKF-AbNCFimEeZNxRiUZsEO4DhGHVD4uFmA8AnzwH427O1TdRf7cUDwIY-I5jJH8R6XfsPKijLD-yyfwFsgBqRekvld2C5kOC2IIEzV7qFDw5TeOF3lbp7wvc4J-x7npsCcs3fzngVCENAcIDe0gDtg3Gb9ArSfXKhRtT1W2CmagKRQsnV-UfxragQdxdLtEZP5VQEayo_9ir4Gs69qwCZBm0TcDlo4wlBeRIisvRzm_rF1dFhVCkxTKZ2IbVmfiFeMUm991P5UxmYtfDLZk-FLetr36T8FxfNXPAVNkRtSt_SYgYjIro-8xW5K4Y5mb__alEEPZd53a2vdnVtLPoXZmStkYb9YHW2CE8eICxQDWcOKSgYUqOyoehe0nafNhTyNajliPT9RT0XyPxh3Ww0nnSRI7JnXAQfa_69FqX8XTjMo32KQF6kyMPmMYl82l45PUfwpnv9Ooas8r_vK24rAU51xX6FVHpJ6zvnvKO2ihgGIg4KDBak8q0_iRuioNLuKw..%26ch%3DAQEAEAABABSPA51C5OYcd9yhdy-_i4k8uSQASKWVLRI.%26v%3D3%26pg%3D27S267I525BG3AKRYSJ336NJGY
+.netflix.com	TRUE	/	TRUE	1809194389	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4aP4dswRm51uWikoQO4Sh7eHqNMy2q98.%26dt%3D1777658388951
+.netflix.com	TRUE	/	FALSE	1809231835	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+01%3A23%3A55+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b8a505a-f44c-4034-b3f7-99a0b7c48ef1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770174144360&geolocation=BR%3BSC&prevHadToken=0&isDntEnabled=0

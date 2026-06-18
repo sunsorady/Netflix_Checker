@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mommy
+– Email: christ.amake@yahoo.com
+– Country: US
+– Plan: Premium
+– Member Since: January 2017
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 9218
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dad
+– User GUID: RMSQFXN2TJFS3K3OL7N2Y27M7E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEAZBprZ2qE0Du0f1u3mtkGZgzL6VzfVWmwd6yJUxdx1CweZt9BdNZ68Df9_yTRc8ksDCRYd_NcKWGFGLyR-zI18UT0oLnGiAJy2vXbWcbFn8muwJo2_7V_NKySrsKxyiV3DQ5t1G58AIyXzKsELiBiLE
+.netflix.com	TRUE	/	FALSE	1797860109	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+08%3A35%3A09+GMT-0500+(Eastern+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=20068e15-0967-4d42-a51d-766f7ce4d72f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=CA%3BQC
+.netflix.com	TRUE	/	TRUE	1810146784	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA8euHa4OD6Wahvyh1K2OxlTMNDiYyNEVxOnkbAzj15DGTEN_EchEzCSdHOK5v3bh-jJJ61beQmOq32dG0RvQo_elCCl0UH7CvloxqqO_UA7RuQBSs1zSG36NSDrsh3_1tLScwnVFJJv8V3O-UIkcBt8kIJKjFuXU_HJk90kMycNfCRCdjKS-qJiiJoMJY4EcDCeLA00awQ2jqm-riqCr6UNb_FsBB-eU8SSVm3UqjXMyk6498eRvja3rWu-eXKW6FxYuZiCc0zvLXpHzORZH_UKHH-_1RQF0uGgiXHrrnLSgUeZXfiNuNaeYcOpOravKdGoyryXZW4G4FwL5MQAAEz8Vo1_hPClq1glQk64WJJcUIZOo4ehM_ckFJEDVZIOtmR9-tAtiSl77Uh4tqQEILUPeqjVvrQS6RzyTZMVgTeVs0ITX5-WJS19QnXB7_GWn9hTc4S2GdZ0ODM48pVU7-DXPTMAQhopK5kCQe1m2ad11kCDqSibUcqdYTWYLTQ_QzXD7rpgPAr_0pS9MSYTtdKc8alNUBZfKrm1DGAYiDgoMS8_rkAXMikSYttKW%26pg%3DRMSQFXN2TJFS3K3OL7N2Y27M7E%26ch%3DAQEAEAABABQvPy6af0SEIYEMUqS--u695luofwkNQRI.

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Combolanu si papy
+– Email: yanisaldea135@gmail.com
+– Country: RO
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 4404
+– Phone: +40734114002
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Perfil 1
+– User GUID: KKPBKBKTCZE57FAVQPTQ4ZVNCM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782601501	nfvdid	BQFmAAEBEOUgLArn2xRrU2KcqCqa4vpgbPdzjL97hLR4GP7AzW7YwHy2I-x3Npf4hAmU4QplfTDsTcd-odXWuOsMtvExLbP0MHyD_Kijo6CForQ-z8wWeQJ6xd7P3QqCQPM2iVqwIue0Ixbqd9fvftoHfDMRSPB2
+.netflix.com	TRUE	/	FALSE	1796219961	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA0JB03M2tggt4tnlYQueqPMMQ__E5yyRhuP02UD0QtKat0zZeIVZijPf8ibQBUc-ZVKDVZBtRxAndUBHzHGEDpbmC4BMwX7pCAqQ53P52YpHSKvHhiygYduYm0zW9ttMehn4sz_9Kf90vIJX5OGDWptM-dtmM4nWvwZ-K5Is6T1weHPnz6G6PwicQgjleMF1H9Ij5srP-aOuQNaelWTZ4lYtCCU2usNvTwCpdH1qqfY4CyWi7lgF51u6yZR3eEMKCFibTQYGeyTvwy1XJCyaLRf_eyqldI-ZGNuAsZGdWu2Q_1ixPQSswvFynwCNhtvSJLlbG_aoez5akGb3b_GhndqCLlm8L-XW8xTTUJEyJCdywDQ3HnH4xWueNNCtR49y6eflF35rVutAYNFtKF2e5AqElabitbi1NbgFNMUUNjKc6zA64i1bbK9H7EAVxh8Fvz6h1J_j22vE0jjk3wZiwRMez5iuR22Ym3U5a1E5QG5IN8-5vkw51RMhC8p36h2HbZ5LGAYiDgoM-MFHPOH-vxVdnTO8%26pg%3DKKPBKBKTCZE57FAVQPTQ4ZVNCM%26ch%3DAQEAEAABABTtayKyA22YeQ9QTmKWFqo0sbtI2EXa7Ms.
+.netflix.com	TRUE	/	FALSE	1796219963	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+02+2025+05%3A59%3A23+GMT-0800+(Pacific+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aa2163a2-9f0c-48ef-b260-6d56ef877a75&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BPH&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796219961	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRZyyZoU0Rpfcuk6xEJUSx9OhECI6S48ts.%26dt%3D1764683959356

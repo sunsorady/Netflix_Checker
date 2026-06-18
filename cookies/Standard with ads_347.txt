@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Amrit Sandhu
+– Email: gurikpal1995@gmail.com
+– Country: CA
+– Plan: Standard with ads
+– Member Since: October 2025
+– Next Billing: 2026-06-29
+– Payment: CC
+– Card: 9026
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sukh kahlon
+– User GUID: V2ACLF3NFFAYLA3HO5FVGJ3SZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798172624	nfvdid	BQFmAAEBEJhpj3XlpRhct1lf3cdBxP9gY_HVIB1IbYETBE-Hg0nLERrb97ip6yvuyCi2spYhezqu2AsvnIrsAG3x6EuK9gyyHuxO5fljfZBOBmZ11y28brpboTGMiWIGaWhAX1hs6cE9KjAPsnM9rlU9jxg593kg
+.netflix.com	TRUE	/	TRUE	1799822358	NetflixId	ct%3DBgjHlOvcAxLpAwZwXOby6cV50n-XbkWok3oxTydy47_pMdh_0D2nPHo74jymu4UvoOlMS0bYH-YjFKyH4W8_AQkusVW9WriuEUtY__p21d4TL987FETOUw33Zc9vVyKjUOGtvreZKUl-KV8TBIkq_Zt9ifW0c9aldaOQWUnHkCzYGQHWs172KUbJjgLwv0hbAFJvHT3PbhsDgOww0H6J4ecYkazcUbpCD7Gw-TFxTG12A2lAtRCRXpzmo202QYHkgH-tUJQ2MflvVF6IIxksdO865qnnxA7fgsJkrvLYR5EFllJUcLYWuyc1uF2_walvJUYgR49fGAfmNaucvo-ZIQzzXYovX42C1m_VhtfK07YDaT7l6r3SLsgLqpcg5MoX2TItOUn6X_C5Odj_D32bcSno5CGT9NkDE6pZ5nDD-taQjDwR87ByDogbS9mYqqGgCyoJCKehlsKakS1eEnyyije_GnzM8AH612Fmnmpu39LE6rD6sxyDzZGhHNq9TsAN0xI70Xqa-HBQ04XAaWpi0ABTFqQJU2tmIQeig-tfukx0WUzNs1OjBPR7kYOSR435ybqKAmcm1VjzHtXybNt1yGhIAaA8OZDhEj7qTWGf0V4RwHh77ZjIf06Gb6PQcmXRTHDzEUGck4ExtZl6vpFll0UL_xgGIg4KDD0H66SfknHgBtmnig..%26ch%3DAQEAEAABABQQ7pfm1yW-GB2pbCuBMPsck9rXv_EJkXw.%26v%3D3%26pg%3DV2ACLF3NFFAYLA3HO5FVGJ3SZA
+.netflix.com	TRUE	/	FALSE	1799822359	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+00%3A39%3A19+GMT-0600+(Central+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=963a1204-78af-4c74-9963-9c253e9be500&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BMB&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799822358	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQetIpmuEOuvNjlU5Us26hVWCi0vRqwWXc.%26dt%3D1768286358430

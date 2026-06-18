@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 1
+– Email: bbg26@newaddr.com
+– Country: ES
+– Plan: Premium
+– Member Since: janeiro de 2026
+– Next Billing: N/A
+– Payment: COMCAST_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 1
+– User GUID: OWTT2476WFGRLHBEOJBOCIYU3M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794239214	nfvdid	BQFmAAEBEP46Q3IBkjQpuoevUMmJvn9gxBI6Z02JmZWk9X6tdkyUYEZyn9YbdPMQNK7hYE_kosTVjIAbVzwjbuins2wTieor01gX3B522-2FC8BOilJTrGIJkccGVVMNfmQP_YI36m1yN4K3PI-Molr89FQiALes
+.netflix.com	TRUE	/	TRUE	1794347985	NetflixId	ct%3DBgjHlOvcAxK6AyYg3ED-3GlGIrw-cxHoBG4iM4aMo3ihxH3UvtVWYLNRktce0k8CN9JVDVXM5FDxXWQ6c00iWO8ngmjsSSYdGSBF5EoiqdMalz9Tvq_HhSRq15y_VksyE2UGKz41OHP-RP2PuoxfHGLC-T5GThT5H7gR1Y090saZjTMVIJloh6TaHWzZni_KUi4OJzhS0zpGeam5QmFzaIEEvphqbYhd9pqMV4ZEC0dzPrWflxjd_VQvsi9Jw_eoQH30oDAYJyMlPstywPNaFKudM-OHq1ROgmia18ScswoBdMZsZy8dUD6qlqnc8Ix4Lp6plw42SRAr4qtIXMAYvHrf-AVxJAIggKoTK1H3ytQhDLJIOtFwohRxY0di3HjbPc4SPTk-ZziHe1TnvRsTNcsepAHSYmdJBS1UDKyC7wTC5OjLCi2xWrqp047azDekmQ00sOyKuP9M3tL5w1j2IH37VeGZBzno3me4wfto8F5WDPt6KZQa8G1c4TJsKew1YKj0pHov408Mx5EZ3CPyQnlSRZKL6PpbZrGIPyGerv-1cOy_qAV09Avlmdd6jkQqWRZCD0Dj3fcYYAS0tCNhUtr_SrQYBiIOCgyLgNh7ZdUuM6pngco.%26ch%3DAQEAEAABABTvMbGBfxLwCZO-j4GmJ4m29iKM7LA5puo.%26v%3D3%26pg%3DOWTT2476WFGRLHBEOJBOCIYU3M

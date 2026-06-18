@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Hugoooooo
+– Email: lolomas1982@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: enero de 2024
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8802
+– Phone: +34646621973
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Manuel
+– User GUID: HKI7Y57RNZGSPPIVXZNAYMJHM4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1800047628	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA3iReIj5FitO45JTEEhEvcgA6BAKhPQVL1gKYzwk-YwheT2Dro-Un2Wd-8OFY8NvC1FkecAQNcg9aZ-w5DWSXEZQIc95DOQcmnWq6noQ2JoZkd0fmufCmpbU5EfXBgxRXZfMxzRHY4Px0HGMxkYUvVjs_GRIswtuYZS-Dmb0KzOvbi5H2mbca3l5AGgt3eCZCpUG-kjlx6LldIRC0f5duqqNU6W7lBSpH8-T2KHmkWA9QFpqJBBPHmiuxDfowx3abNQUQb1FrRJHFvckzuKHz8REcKo1DC0fPMP9ZJLtvhnLk7J5_D37CDqrKqNwCh95Dkd7x6zdfgF7ygLlXZAAaLUQUAOPLso1flRCoDP9KY4S_6hSwenP8demGvhdyuAohuM_NZZH8L7Ku97oSwNYg4d8w5y4MFXIZfhtmbnv52BXIhSjgwM7tKSMaa6j6JpXUzWkFeiu7HPBnJju-uu5ZahReFgwI_E-8fMV4snjjLh-mGm6LiHwN7-VvzHxR01N_ZhQGAYiDgoMwtUpLl29s4lxM-m5%26pg%3DHKI7Y57RNZGSPPIVXZNAYMJHM4%26ch%3DAQEAEAABABTB4m-NDtn2-fwirNyHoDmZ4fY2ls2kJj8.
+.netflix.com	TRUE	/	FALSE	1800047630	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+22%3A13%3A50+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b83b3ecd-2ccf-4ed6-b4ed-02dff9e1fd59&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BCL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800047628	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfoNvf1EI7H_eHW5c7F9nPTXpG0iArfT8.%26dt%3D1768511629441
+.netflix.com	TRUE	/	FALSE	1800047625	nfvdid	BQFmAAEBEHC7BWAtn1VwsOigFCM_qCFgNyyBP1bn7GwLJTDLJdi2Cuo3gELmOuboxIH7A2bJjmgUNkWOAoIjH_M_IpMRGippOFYax8pNSfHsjW6TkS9v4MKipMBKDr8D7Ww9nA3tjLK7kaBWQy8QVFeuJugBKr5z

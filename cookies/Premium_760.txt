@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Jake
+– Email: lopezchinese@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: October 2019
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 1406
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jose
+– User GUID: BBDXGZ6JYJCZNO5NOUKDIJ7QA4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798249809	nfvdid	BQFmAAEBEG-CWIE11SJknMBHP_GZHxZgtHTgOvGxpNmtbUJOLPZKLGP8HwvpdI94itx_GZ6vsT364yrg2SR-XaWzEadjOtDoUPcIHNI6vMZBD4QsBh3bjh38pznqSptoxWLgPpdQR0n6xZQYLPB0cSteleowG4ci
+.netflix.com	TRUE	/	TRUE	1806215622	NetflixId	ct%3DBgjHlOvcAxKCBFx4mcgSLtfutgOkb9BNPrQXIPcQ61RCoUg2x1Ged_2N_wuCtz1KGj_gP8k8UaK4HTG78dEoVGOTEaLYi0SInqBEb_OFv27GTDGvgilyC9hvU_gvjHtVU3HTHMmyFacyfYqi41Axda0NWlbypW-qeP0U-6bVaNr9y_tcMbglDLSvsXUSIfPsbItLP2a12qlP5tgqhuHoXKlU_z-GIWecMGzQw9N5sVwDTpMORB7d4z0qvdw3Nx9-j8P5OsQCHEPCunvm8ntDRR0aJsWAbMe-QlguyWLPlnIv5aYy3kw89J_2kEm74zqOQxjpKXOQkETpVcxsYOqaFxE7ViAtG61tG92jtP5ijqf2qHZpBacSeevs3anXqieLLzpHrXIes_b1Ve61uLjEw4H5vPDTKDHIX9FXU8Js4HjOSSuoygVG6YgxzpEi103iK9oU0Bh-zMonb1_A4KFq2-POpkfAS6uie1jWZfo3HCBDRlMwodLBFe9gl6QYjY-gJ5WwYdRlFe1YkutF8ToyeraxaIJyZbVQE_48h_TCVjmbpYtVFGFeM4dm1ov0ygu4ew2NDUkirNe2Dlsb3AstgLqnjYuBXge7EYgDpmWetGU-bt3sddaFlwJ-sjGIxobZmqRGxeviRXvLM1nXxp9mvoM6l21PZcm7O7zHxL_7Vy-kCCMAhd6t_1jnpLUYBiIOCgwbivAiQU_ciWalEsY.%26ch%3DAQEAEAABABRt351sBmhBeAvlxAKEppG87s7znKo2__Y.%26v%3D3%26pg%3DBBDXGZ6JYJCZNO5NOUKDIJ7QA4
+.netflix.com	TRUE	/	FALSE	1806215623	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+02%3A33%3A43+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=abe3798e-0d4a-42a3-b26c-16f13d8a2915&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alição
+– Email: cristinaapcorrea47@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 7844
+– Phone: +5543996703886
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: CRISTILONA
+– User GUID: B3OSJYZHABEPPJPDVVWRHSWVWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783792315	nfvdid	BQFmAAEBECv9786_QYVdosxwR1N7v-hg60OJjin0PI1NFkHp9PjiXPEPz7jkSFJ5OhrG0ftIh74kYSfyZh8nUtH0m4zNdA_4vTfvPzKfkWkcEg3L-aZCrGqfyh32nYTb6ZvUynOyu2SjQPNyx1o_ImdHfGPEhHrw
+.netflix.com	TRUE	/	TRUE	1791057397	NetflixId	ct%3DBgjHlOvcAxLQA8Ak4N09ufwbzuZrhNHn84gp8Org-DQ4t_0SOVOAfXxVmiyTNV_b0KBo3TcUsBhIglOpVWUmnhb01T9E7jiv93MVH_Hi50dbyDx7aF1SiYHDPyBCDjypuQctqCRvMw4PpJgjdi8m8LXInp5iaGxDlp-10SAE8LpJKhIvo3G_6z7DM9_ew8GCdG58lztQCFGAoNU0vGBnjmvoOCC45qBepjjxaoNDEnRP36s-azbVUUY5TatxwOJ0F5f7lMxcrcxiLNCtVJld6v-9iw7Cw7iBDMhUBeDhvmAsg0UYfUkJg3VRvHSjX17xYOhzKb6Wt2cezrWFCZPfC-gT6Vr6OXwrU6QZ_ZQGIGNX7n3t6oFAxvVGlrq3hXhI5TvAcUmSooMY8NGXM23FMWSojzhonkZgB87lCJXJg937CB1kdvm_6CZ-QYxzpd13q7Yi4FzZDik3S3jA0KK0xMc_jhdX6H17FjA_uonhcDDKeT9uFf7jB79ENmFZIX55_6czI5_3XXeOjpnsxqTialhk1H58HbrFLgp5857oVzORFyjczBtvBDTBBaiqCTTpOkYZArlR0XZgCijKW_u1QHCqquon8jdKzAa6JBuk_WGQV-C39LKgCF16GAYiDgoMMa8YDCTNt3_ExezU%26ch%3DAQEAEAABABTbx79WCADIY_SIxn8mVq2wmlxDLmzRp4A.%26v%3D3%26pg%3DB3OSJYZHABEPPJPDVVWRHSWVWQ
+.netflix.com	TRUE	/	TRUE	1791057397	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQjq6iuCyvQHlLKlpXaniyrT603aw1WX1w.%26dt%3D1775505398157

@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gabby
+– Email: dignaulloa0987@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: April 2020
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MAMA:)
+– User GUID: 7PS2HM5BYVEUHO25OVPYWSZCZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1804471461	NetflixId	ct%3DBgjHlOvcAxKxA-yEbOStSY7BzJEj2bUsusdIjFGvd0kSkzHtGgFpTzUvXfR4zYmpAa0_eerjb12Bc27R0Bk7tsBrDD7e606uXsi6-j4C6UcTIDmGyQYuYcas3hooyMPXW6JjRCDLYEk5prNCvGfvozRX777IBnoaSlCStc0NrsJWIoFpwzufvqgGbA5hin4cPhaR2KwNh3yX0n7vXZoJs-WcSYmk2ZmAQXCjkit398RJbt6ERmOSeBv6jrsImMwgUmbaLOcFjNlWAUquWW2U13zzmszOfP8ZzPatCF0twEwFvRXCpVshYUPZGu7In5BqAZ4VGwLV0dkvRIkf46MtW5hmhHKWieMQpPwGpR7H--yFl1RRs7aTh7LkjST6o1qJRnP_sI-ZuYD0lashSmrto9LP00Suv9lbsIFsAP2bl9JBJXZ1jaN5NvQrlguSsKmKErI5XgKsI8F1-X0AzE870VJalxUhZl2cgJU82O4UXbzdhAozBJzl3-whjP1AIiW8NwsHRwiGE_afFib2OrKTTw1JJWTwir_lxOGzP-HUypz1_aUYSiTwLG5z-kUiq-tg60wy4JvfM_aPPCcYBiIOCgxLkdU0fkk-OeVmD2s.%26ch%3DAQEAEAABABRHxK2iG0UXAgqEJbhqFMDSAu45XxfM8Uo.%26v%3D3%26pg%3D7PS2HM5BYVEUHO25OVPYWSZCZQ
+.netflix.com	TRUE	/	FALSE	1804471461	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+21%3A04%3A21+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=163f4bab-b55f-4010-a906-869c92471a34&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

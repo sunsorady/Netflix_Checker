@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: diogo c m
+– Email: toptelas2024dg@gmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: novembro de 2024
+– Next Billing: 2026-07-10
+– Payment: DC
+– Card: 3780
+– Phone: +5521999315108
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: diogo c m
+– User GUID: NSPZJZPY2VEVHMQZLNKCPPWBWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805987896	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKmA_hiQcU1geCoCoVN-EI1hFY0EaK97lyFAPYtzKxgzouZ2lF8IESapuGzx453vdXKpoaddnU4HWIKkGPiqZQxNOcFakGlvBa_rZ14HqxaiB7b5U7KfwjLbdK-2E-ubGUUQxMBbzUWvNABe06jiDFxYQyYJPf5kEmE3Xtd1aUOxX7WCRX6I2RH2dwdxrDjGlCd7VWaWCEKEDePVSNWZztEtfvAr31AHxNICkhCaxwOD7yRwkNF3Fv_aPzgVadRpkLeIUw0pJ7d_XCAuJQFY26Nzw5OyNtl_TFoyb9SdawWBy9Tz_HfEwAmvy5pvzkVnU86qB46GWetW-hLs5rbhKL8TyURHCdJp8p_yRELariosPmTxVmF6ACna_zRec3KHaLhskjIYBT2IXYp0CrziQFqdjhmjYJ-2W7FbWO6HUMKuc0boFMH_c88__x9LeVS_SsA88vH1MP7Bae_WLQwRUQYlmSBvUaiQ1YcUj1XEOLx4w1tZ2Y_we0Dpy_O7bv9mUfsudmGMZ16GL8ya4do3xsemXzSq_xi4whuGn9guekpMDvKwOF7J5qgGAYiDgoMDxAoWvyHKzTNyHRa%26pg%3DNSPZJZPY2VEVHMQZLNKCPPWBWE%26ch%3DAQEAEAABABSLFD6afymu7KcWpK4rznEE8wKTfUABF5Q.
+.netflix.com	TRUE	/	FALSE	1805987896	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+12%3A18%3A16+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0ea1b8c4-ceb1-4bcf-93b5-c94deb937091&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805987896	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSVR5Bb7_tslc3dJEv4RvbRHz0fWEvDiks.%26dt%3D1774451895665
+.netflix.com	TRUE	/	FALSE	1805987896	nfvdid	BQFmAAEBEJD0RFKb_wxHtUj4o6bDCZJglq3HN6XiT_HNCW3eCwFnxSltxaVRzxkilEnz3GoqcG8jKTziIxgAfIeyibr5PZbWeWqIxZztXC7ahpbHWB8KG7s9gnO4VxLHiIQwTe6iZTbXk2XENPlvifGwbyopU39g

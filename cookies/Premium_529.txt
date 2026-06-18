@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Dad
+– Email: robshortman@hotmail.com
+– Country: GB
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: N/A
+– Payment: BT_INTPAY_EE_BILLED
+– Card: N/A
+– Phone: +447955922638
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dad
+– User GUID: PJKZJCROXNBS5C3PB75FLUDODY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785760236	nfvdid	BQFmAAEBEKYzEh0yNGUZykmwGZVhbvlguo8PBZaUYpStzYxpmzOfajDs761kHsuZDQo43mJC2rPCQAhoOMW3OcA5yN4wbZgSARP5lTrHB8hf-J1-9TcgEpTE9VZFHTxtlCl6zj_aaYCSMYktZLb1GyInj0FSCbIb
+.netflix.com	TRUE	/	TRUE	1802966662	NetflixId	ct%3DBgjHlOvcAxLfA5H-5rLpUfzf5ablCSMA1ZYpMQm6OrPPpil-87XTM_x4YfSqQef2XZKjxgo1_4H_7yHSmWfSi7gqrakKnG_zQcQ5HDw2IKhPa51TE8h5f7ps70K9R5HorGpYqkk9xzvUZ8qzkDGzhkqb9V7CM6rt-xcelHTtn18ulJONHxWnePxxVzBmp1nBGac2V2RMdajUCy3MTH71nMPYOXH2H_8WuaeIjfqNEOasB6O-ATrJlBPZ41nVhIVFC4eAO1HmY7SoBzUi9YU3jhrLgHosfIiIppCP1q1Xb9olrzjgWqiMgrz6qizvmVsmx-TPVhnzkFceNLCzn44Ed3pNJ7aTBZygCMsh4Cx-JFvFmn2Flm3uVntBoAVtJZjF5QGY4WDmkWr2S67VH0fnO3yCZ6bT_Iuq1WSPDb55uM0wbdItfHoomlTQ26xGUMli4uFDa9_SqXlVaDVO3PhWdR4DgsJJmyDNy1WtdcQWOhvqGrJ5siSZKbhjMNbIz3fD7zNR1xuH90SHehP7tVmBLl0c03DPl59OtvURvBlieNo-HwbtOfcHFBWxGkghluzMycZKi2PPDj-wMbPufqubnOIPmmIu3cAt8bHtucrpyfrWOAZc5TYRC-Gt2jP4R_vWUuGKNnh19PhhGAYiDgoMINPZlCJ-CjApn38o%26ch%3DAQEAEAABABSqO5qpFwYngVR0DExStfaON_WoommE7us.%26v%3D3%26pg%3DPJKZJCROXNBS5C3PB75FLUDODY
+.netflix.com	TRUE	/	FALSE	1812328714	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+01%3A38%3A34+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb4f2598-03fc-4156-b680-b38b4a614b89&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BWLS&prevHadToken=0&isDntEnabled=0

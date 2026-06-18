@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Anneke
+– Email: deteringmaretha@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 1320
+– Phone: +27827791694
+– Quality: UHD
+– Streams: 4
+– Price: ZAR 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: M.
+– User GUID: BNQ4OQAOOZGYPAJTTPAYBTO23Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792521693	nfvdid	BQFmAAEBEDeojseUwZK01wnRSZR3m4tgsB_pmp2QqxSPzJ6bW-cf_exbKCH-KgeBcpuipU-q6mTKsZCPyhed3kFIcbx-Wte03ylAoQorquANjXuB3xC7yWe6s1YMR_RjH07XaYylBVtBUqS17iBj1a21YHuhG2y1
+.netflix.com	TRUE	/	FALSE	1808672144	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+18%3A55%3A44+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12b4cfd0-592b-4b4e-aa33-6da4e2c007ee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808746728	NetflixId	ct%3DBgjHlOvcAxKwA0anXvAkZ94JNNyj__Bvmkp9FBwamiURUr0cOhJVbPiMSy-7CTRHnOuFuu43QYNCiP0m7v8mR2ejDbiZWtC0had4fT18JJzWFt5RNtEPv2GoeuO6Q-uka_q8J8LJBP1mhZguK5xuKcwacAcd4_vRn310KfVxYtlB4keXdqES_XIqHzAHss-Pll2xSOcOBr7r0LaE42vOFCLODhw7pW16n8iuqkLllTYDkQ7b5-BZsXFfLX4M8E7egKrU0WxYqo61aBSo6_TQlD16RiyZMpBk9U0sJSmEfZJftVss1yFcAwbkxcdJ0BRERnqBXhpfarw0DZBg48ymGOQ1fxJ0-egK0Pk7eki0uuhRbbaC9AK5RCcDyKysWZ7TorqUpTXdRyZTNtB5koAaryBvxvDa2v6Ad2A8IziVQ2CB4DQkWxVg-41GagkstVr27KQMECJium8Ybcox2echd9B4bke5OEEyU95XJhJCF0gSQN3Fo7S5rmEdikOq_ZyCozoNfPJ_7dGQJPsfyXW5_VH9pHSa6qgAiNFSOjV4byHtnHucRIqtzaYeNJlpvXy9LuWtMIQr9od4EhgGIg4KDJT5fRIkWwEVGm2GGw..%26ch%3DAQEAEAABABSid8gp2TBAH3P3Ci6WtKUylonTHQyR_to.%26v%3D3%26pg%3DBNQ4OQAOOZGYPAJTTPAYBTO23Q
+.netflix.com	TRUE	/	TRUE	1808746728	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjMGZPih0x8QhYprvMMsezbMqRX3GyE7A.%26dt%3D1777210727032

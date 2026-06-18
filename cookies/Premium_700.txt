@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kantinan
+– Email: Novaglapper@gmail.com
+– Country: TH
+– Plan: Premium
+– Member Since: May 2018
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 5097
+– Phone: +66818657478
+– Quality: UHD
+– Streams: 4
+– Price: THB 419
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tharisa
+– User GUID: BJOERRDADBG65KUB6PY3XGL4UA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795245019	nfvdid	BQFmAAEBEH46_8tmiOliV4T6rs4o4o9gjDtmaNOz9kJmlmIwjSj9EIAHgr14ijT5gcei7HOuLm0lPsCsXtdmNhH0eBB-qBFd5sAc0mQAyYPnK3IQbQwheGK9LnEAIhhGrOdxaEja3aUFDJw1fx_n_v9CBo2FHHDh
+.netflix.com	TRUE	/	FALSE	1804650491	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+10%3A48%3A11+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=675cd60c-fffb-45c4-906e-ea8413f05482&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1809489436	NetflixId	ct%3DBgjHlOvcAxKGBOFDSkD4GdrVR4d0L2Rtyqyeyg5-q0MgMV6npkXwaoJHKQMVq-p6FQDUxkTAW-kr_XymvSLYTZAukXYhbrLscKUP4axkM-Rz9IGlSkBwuX5LLgzP0I1dPPldsW8r1pUQnyYymyLQ8Wd5P1tot8MjfnIVYGTEnOJjgpTOuw7_SJqnQkmkfNvbJHQb6dHK4BpmDa9ZTPW5LY8t1ZcW0fdjBKfYv1vxo-VoNx_DPGAGb7aPnu5Z1ZgARxWfBWS7NdTMuaOMiUHzVMbPmEczpf_X_X39w-gTV_jZBps_7uTj9dp6_QvgIzzkrfxhQu3d0Fdecd-q-7qFPmIYuyY4GujPNlzjYv0HMVRtZjP_rCCEDYo1x3FJnijNOOXZTIN0iDSXvm5KkJmCEOV22onRRWD_BZXTAB__vUvbs6YdOgpH2J30fier5wliJY21XvHbJHlFPGEHKstv6OGx9TUQCCRV_ioUBtDMzcTJXNngtKjxciB8aBPQOfCuZX63JsWVc5uNoB6H_cJQ7uBuWOwrt-nn7ISWo0l5rP_QIdCvzXAEMb3Kfs7U5YSpn_4AHeNUp2XhQJ2CsCfxGJvclD1Fw4eRWqUY4XC4uYTB0E_5Pe1T5Nwey3JYrC25SX_U5Oq70BFMHtki2VFW_SRLJ1JQX2JA6Ekty2jf_B2tdpbKXerntMANzUfoVgBPGAYiDgoMWsW2ZqA6CdDUzJ5X%26ch%3DAQEAEAABABRQqSNHb8RCWdNOkCzc5LXn-XiN4U5dTRo.%26v%3D3%26pg%3DBJOERRDADBG65KUB6PY3XGL4UA

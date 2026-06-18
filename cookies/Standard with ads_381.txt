@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Thaïs
+– Email: cataphracte1@gmail.com
+– Country: FR
+– Plan: Standard with ads
+– Member Since: March 2016
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 9613
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: €7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dylan
+– User GUID: 73VROP7LSFHYHNA4XRGYMVVFAA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810680840	NetflixId	ct%3DBgjHlOvcAxK2A2_Ol6gLCHIICkP6Wp-rx-6GS8p5ysCVMbS7WvvB5s66UPwQpxyNOka0cNasUZjZU02_Ru5Q63hl0QmpPsEGh4cew3koG5kESsgPiYXXXA4ZVtHq5kdNzgbFIS-4VKSf5HFtoD9ZQfwtJ4auZZ64qdRhshd-vbI3ztY8F7D_9ZVU0hvP62zeQB8DrscZg8x0xzZ91trv3SXLZPBD0rqnFXf4y4lvcULjJHokgcGiz4GvI-kZk3_gxPR_VKisZvpCJSKIXeqvN-XZS-KTDT-DkpkHQ42uw8AQN0_cWXkReCOoI9_S_QZ4xRRSqTGWIHl8G3JUEAFtxx9DM-TbrE_8hyeJWiLUbiHc_7jpxSDL5hK7cCnajfQYz3cTVUAdr0AVpW4BVQ61uJPcPvg46X5lYqo3t682rjjBFLOqmyqi6VTn1Ap15RRmA02DUK2vMKLkUwfqPQ4nZykn-N98iYMg4QYGJ7FiWl0EArAP9lUUqgmQzlaQvs4mM61QllQi2tInrCPzpZPQfIV0Stlu-AHbOQAPzOhxGEBGra3sSwoitTb0KlKt4ghc1c7z2vAhbZKT_e0DmnDWNBgGIg4KDJVmFxYMFnSu747dWQ..%26ch%3DAQEAEAABABQyCJZQneqqJjmetWGQAY0jzhWu4W2xvPM.%26v%3D3%26pg%3D73VROP7LSFHYHNA4XRGYMVVFAA
+.netflix.com	TRUE	/	FALSE	1810680847	OptanonConsent	isIABGlobal=false&datestamp=Mon+May+18+2026+23%3A54%3A07+GMT%2B0100+(%D8%AA%D9%88%D9%82%D9%8A%D8%AA+%D9%88%D8%B3%D8%B7+%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7+%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A)&version=202604.2.0&consentId=8466e443-f309-4acf-a076-faad22302b7d&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=FR%3BOCC&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810680840	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmf8pHGIyqTjinvYpes2BKHTrBU_PIKcc.%26dt%3D1779144841680
+.netflix.com	TRUE	/	FALSE	1810680841	nfvdid	BQFmAAEBELsj4iwmiTm4Oz1uIuzSzSdgVdMKyLS0nnA2U2bsRoF_dz9BlfHed5w5_2DqPinLLZZAYjsFhQB-UAJy8WZKPCUNj60SkrxzFn9Pqr9LctqfKUozsXlcPvPsOt-P4Nur2uOei3wt1jzkJ1filVU7PEzn

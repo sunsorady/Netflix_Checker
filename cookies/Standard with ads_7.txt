@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aline C De Souza
+– Email: aline_jaisson@hotmail.com
+– Country: BR
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2025
+– Next Billing: 2026-07-07
+– Payment: DC
+– Card: 9116
+– Phone: +5548999403718
+– Quality: HD
+– Streams: 2
+– Price: R$20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aline C De Souza
+– User GUID: HQB7CBBAEJBURATNLLE3G4DGIY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801765527	nfvdid	BQFmAAEBEEbSs5WHpBchD3v9mo_7J-Fgy-lng2GIAy1Y--3ThmXyBtowq60BCrwqmhHilLj91BuutaIhSzxWj8aDqJZ9ng8FuTXolQwXDgMDw_PeSoq48Cu5KkX_hSpUAeLXoW1-Hc5QYj0h7tIImmr35qqpZH0p
+.netflix.com	TRUE	/	TRUE	1808316632	NetflixId	ct%3DBgjHlOvcAxKTBHMghLa80ZUEkeYTdiBTRZFyZRnZCXyMkyJDQl0Bkk2BgqeBMIBxM33xS5bbDDizsG0UgmkRNsp8ClWMGayOG3jOuHSe5nVquNSsQe9sDgdn_VsS-6DZD4OiF1SmrGK8ohI5uW81nH2dLfg9kTte6U2sqxC8mAzYr6p9EpYucU-NRi6tpzgv2PwBsloUQ2cOF5mX1viSGf0xXYrg35tpedDOOOkrZ0GLIrQnX4g4aPLw-1tVeooceQCESkkpVjK8k18Zxoj0Ng7jddiyIqdPaM3IlFs1KXwyyjmZ6AkDqUXC5cUolQ_udTxz7v7f8W_EsC5kjhgoVKupspMfhIR5aRvNEriraZXYwKQdLXzecLpbMWFLvbj10kP8TR0Ln4quVDzbW41DArAVofOmqa7li7WNdq9EVhNm4XHcODZGraxz4qtShKfvy3k22YuEs7de6v8AnHTf3hlHN24yNJdHmLb0Rs4tzyT-4OUTidx7sRQ0o4GRsMiLvQxnORDiyOMSiSr45Lm71Go-7Vr6Vun06O5QVCPi3PKVVS_Y5huPyFzfVFOZ_bgujeGzgvMtF0LZLeioPtriqUKRpm5PCJeI9ngSP1pUCam4tbxzI4Z-IovEKWLtI3pTcouhTCSByv2xjsQqvRmIahDCBTXetycEYtJXrbF4whtTrx82SB_wZRA1gLOcLQ4_VigQMbPgv9yJZyArVBgGIg4KDBOsyY8xNP6m84IzkQ..%26ch%3DAQEAEAABABQVR36-1ixzL3WRcTfDUG6oQgz1KMBVjmo.%26v%3D3%26pg%3DHQB7CBBAEJBURATNLLE3G4DGIY
+.netflix.com	TRUE	/	FALSE	1808316635	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+11%3A10%3A35+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=300249f0-4568-4fca-ac5f-d04943c34bd3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770570383867&geolocation=BR%3BSC&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808316632	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRK_R1lDxfTlwv3cyMG7_2OT1vfusH8Uwg.%26dt%3D1776780630982

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: gthiagos
+– Email: gthiagos@icloud.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: fevereiro de 2026
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 1442
+– Phone: +5528999080640
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gthiagos
+– User GUID: M25LTJAZGVEKRIGWZA3EM4LZUE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803168476	nfvdid	BQFmAAEBEPwnpbe_N3AZ38HqOSKMVnVg9qMyWNxOKBsO9fCIkBBliQyF7L8yQVWngUowxHxXkSMq4mgq2781GA65Zis_ef40D01gMTNCEkLMfxgKaamatL2-4mSMad4mWGjwCmQciZU0_n0TPCs6LiRM14wU3AD2
+.netflix.com	TRUE	/	FALSE	1809389698	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+21%3A14%3A58+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=edfc1885-78d7-411b-aa65-06affb58768a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771631700102&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809453143	NetflixId	ct%3DBgjHlOvcAxLMAxMHXgwwrWFHfqr4aoRq70ep1XRVim-CzPNuHz1OHwroGERnToFTN0UvQSy6vTAFLRA1a6PDnH_FpqSaxXP8YFGpBHIkFxtYO810c5UJVv4rnKPXBolqVbzp7xNCmA-kEEVWVn1iZ7v45SevzTRsPR17VfbngsW2B4WICnORY9VdcSq5B_ouPQKN3PBguoUpAggfetF08ZAPFqsC2ab17a2F4UoJNHo3ea_0pGiNxp32WCzi2QfMvUonkIudGTlZm5pQFW5U0KI_DOhDs-V7A9hbXK6zOU3R9czz-gs7avZTzXQ8gUZDXwxhHxXQcRFuSJsAQjdDoUPQZjq8UZnoojdIHZEe-6R9hZ_FN5tw47KOwBZw6MJWriA48gNy3-Sfrrb0izW8wGanG9jdpAHGk7YRUm7na43QZMqPyD5aetNZqKbD-PBselE2Q7ByoROLPuNjVi6TRCrZyT1ehxKqP3SMAUxul_Qkviouq5Nuej8D18YmK-kggJiwwkWH_5v8Lt5uD6Lc5NdMZylzHHZtdybfmWDw6vdmzfFIV5gb30SJLRQ49eRX-Fyeoc5GIPWVzjFbhWmrFWGMNm6tecQsT1a32TddJJGPPd1ROIkYBiIOCgxhXHk2Ao5-Ftfad2g.%26ch%3DAQEAEAABABRxJHsnMXpvbomygc-WI8alEG_40a3VMmY.%26v%3D3%26pg%3DM25LTJAZGVEKRIGWZA3EM4LZUE
+.netflix.com	TRUE	/	TRUE	1809453143	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpeib5gVt4bEW5Z219HjgDlzo2rMz19lE.%26dt%3D1777917143063

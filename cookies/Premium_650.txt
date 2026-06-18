@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: “Whistledown is power”
+– Email: marghieretta124@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: June 2026
+– Next Billing: 2026-07-16
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639287663148
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Elias Manuel
+– User GUID: 6KJ7O2QUCBEKRIIG3ARBNUYQNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804553226	nfvdid	BQFmAAEBEM5j9rOKt4Iqnvg1y6I4-4Zg1YFCw1KMu4OICI3Yq5UG9DDhwoN_vHrKNas6QL_atK_FzQvuK16FT1EvGbjejg9gMiM9x9UrklS1aQnyqwnCwwyXKVWH3z0RoeOHLK9osrPkA1SsHRE6ZhPijXNNomPK
+.netflix.com	TRUE	/	TRUE	1804553232	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRAw0WNdb5iE8CivdKVTv2fFL9pIxk4qRYIzBe2Sungbuyy5Gdamv8OVBHtGap0v6XbnTG4EGu_ljgk7rKCB5YD9LM8B2qBsUyWq01f5NbE_cqwcaH6IfmMyaBBHo7anvIxrdLdBYeqDLtJYFRKGWDzqxghicf-jMGanKNb0nN4v6koQ_CHzc8tnCqBl7h0Y9ZT_NvRrXObzrZ3a66DTB8isJb8DzG3K8JIzFQ8m88y_zBlwN7i2OQGCt0CCLoYAOAia8ivQPgJCGrnY0QPlfETL4vRSqDWawkYZA10X8W8csFSGsYMhdR_QHbhUAdDgsQ0K8svKlhnobNn5VarAyc0DXcgWKqu6ITRSbXOuneX1_x-2ZwaxX6gUl6rtDcSyG2zXKUPEfth2-JXm6UBs2KsP4gpMllKq9cKW6FOZikDLmXde9TZi9u_zJL553UkL-rjbOX3liy1B4S27d9jPA6SI09D6NQCunpeGQNjdlZFMnXRc31SRYirnSsRIUS7mlwWbzgllPQC9YpIU7cE2YoDDXaGAYiDgoMrJEUWq91bBjpksFx%26pg%3D6KJ7O2QUCBEKRIIG3ARBNUYQNE%26ch%3DAQEAEAABABTQvAdhBuLhvyyk83T2MmQ7ZPJvWgN6NS8.
+.netflix.com	TRUE	/	FALSE	1804553234	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+08%3A47%3A14+GMT%2B0800+(China+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6289d5cf-dc2e-43e3-86e0-b38ea4da7580&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773017215797&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1804553232	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTn0sryJqHpRybR-RlDYn-p0vvd4kR-pU4.%26dt%3D1773017233542

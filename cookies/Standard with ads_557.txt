@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: LUANA
+– Email: kuky5286@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: julho de 2023
+– Next Billing: 2026-07-11
+– Payment: DC
+– Card: 9460
+– Phone: +5548996263300
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: LUANA
+– User GUID: BENY3N3HNZH2HOILQDKY4WDOPQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806793075	nfvdid	BQFmAAEBEIIu5FoJv9wFKM4oLOxQc1RgroB8Mns96iEBTmQo2Lhlti-DJE0kV5_49nOjUghp_0qNp1LyLAIcuZNyFzRhMQjF9ZPODwFFfZNsR-SxcM9RTHVw6oCBtoYIzMJv71h2SR2e0-XkuUHE4G41qobF5bDc
+.netflix.com	TRUE	/	TRUE	1810859506	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8rTec_vLD8SVGv-0FNtAvFMiV6lavVezRJvtSA-RqutWiRAVTZM3IgNbXn6MmkOupMSa8svzXEpFS6zs_Su2mlUQU_LkKVYlptQBkZGhHgrJwkuas056NPLL7c6JmBsk5GOFlCa29DbKZbcqSh_F2yDQvKc9MUVxbMbaQKrW5GQgXRsA9o9SiLtkR-nTGad3bRXRNUl5IG1g1_kRmT-vV9KmorOhIlqD67mF3_GNBnhrHNI8tstEWs1xlFSyUO_86unKzhzDS0GwTNYKqdNvGMbktz-8vhQwJZO8mxnpIvN31jyuzSlItwEIJSm0U69JL_BXnGV15Vqj3U70DMAyDXrIob_U3Rp6SOL9FHXH9DfzOO9VUJYal8VXp-GpvD3wXYHI2rR1yf5FzU8WrcWmLGEe07ibj4CFwUPUHnWS-G95bDj0iGkxgwXJay5LU62aDXrBO7OCE-kz-sYItnoJgGSBSjL7FXbHCxP0-CQy16h_0f2Q045BNDvuFyHTEmFk8eYwho1-iLqEQRuOcXwylwECrsc78_7eNkYBiIOCgzmngfQNRR8vPTN31o.%26pg%3DBENY3N3HNZH2HOILQDKY4WDOPQ%26ch%3DAQEAEAABABSv8Tcjzpl5xCna_Fc4WlwDhMfWIi2NxQQ.
+.netflix.com	TRUE	/	TRUE	1810859506	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRaLlRbzRFDNcdxSb1FlXaqcouPm1xlNjA.%26dt%3D1779323505936
+.netflix.com	TRUE	/	FALSE	1810859526	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+20+2026+21%3A32%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=592164a7-97fc-43a8-8760-85f2ede95850&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775256978220&AwaitingReconsent=false&intType=3&geolocation=BR%3BSC&isDntEnabled=0

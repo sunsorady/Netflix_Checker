@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: jules
+– Email: poivet.anthony72@hotmail.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: janvier 2020
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 8418
+– Phone: +33674600459
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Peggy
+– User GUID: 2D3CWP7Y6JG43BBIAWJCTLKCE4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809253123	nfvdid	BQFmAAEBEGBhdIoQrGmATNrRjK0ddJhg0J5ClkTyMKqKrggVE9Mzo5VPn4Ve0exl6ma4z6kmCGqAwafvKVadAFZbUg6siY6HY1GbYAHV-GMmaitBpOKETuMb4m7d6MX_TUVTL2CjoAhMdhDbX7BDa6uac1uf8b3Z
+.netflix.com	TRUE	/	TRUE	1811869876	NetflixId	ct%3DBgjHlOvcAxKBBEwkZC4kra2_vsDGe0kfFczBmL_1u0fkXsDWa4FzFs6_a3DAWon1DNyOqg_1pUVZdCQPoNzC9ujUt18cfcWkJ8PiBc-r8vkSF6xEzTOw-wBRJcrOQ7lxODxwz7qif5QuqI9lrm8JvhngOKLyO1ayew-tryy66df8fhuCCFdUn6WeELAE4AxYcsE6zbEMa92fsJ_0yZl2dulmktp9WC97OlxMp_lDd3Cn9QKoxz-Md4MWgaOll6XCP-6FaCt0uyOppqaHxf10Hjz990ygFjRJfCeEasokWsHh-uBojXXAgr1yadWl7ArO7_8TTo74Ned_t_48swEjSDFx_BDy8goSCjelhTUTft7UodRqnb5sO3814QcOiP3lisFFIQ7JWBfHzjt_XXnKJ7rKgTSBDuriTA9vUiGW7VnSOg1MvL2xDVJ0CjI9E4B_TQ8J3qiptXIZyqj6XWR-hwBn1AEQeO_DBGuxV5-AgMsG-bd-TKYA0kR_DmCzZSIhX88RLTqfC5ddbP9ShJ9CIS2bVtW31AqGQ1sOZu30LliiX7mg2wnuo584M9rYvDyu3UcyWqUZzTgeUdlKkOfyv-2HmUNPc16uSZZ7bx3SnADpV33WmVc6cQZHE_qp-dHiOm-yO85zPHZNiSfLVqcH6SDlwLsyTZEle5nSAcbHLCKqejPUUlm5MG-ULhgGIg4KDFHGRKQnDIzGWARPmg..%26ch%3DAQEAEAABABTR2qRno4RbOPx24J4AqL9BuEOgO1fmXu0.%26v%3D3%26pg%3D2D3CWP7Y6JG43BBIAWJCTLKCE4
+.netflix.com	TRUE	/	FALSE	1811885957	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+23%3A39%3A17+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c5326b80-1ea1-449f-bbcd-23af133e472a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777716793463&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF

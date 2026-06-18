@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ser
+– Email: sergiot3000@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: November 2023
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 5882
+– Phone: +34672104910
+– Quality: HD
+– Streams: 2
+– Price: €8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ser
+– User GUID: 4TEEUJULBVB3JHGT424AU6UWEQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785950467	nfvdid	BQFmAAEBEKbqAazbyyaSRmIF9Xu2rL1gm43X8toRJ4NRXZ9qaplC8mqX3gjWNOH9CBv8PNhbEPpQi_xiAEAiyz7w8p9nJJiJihUfPFIc_iZIrP2H8pQ3lgs-Onx8mT7H1DKwSHCGn8g6sNRZZsCNDizrqYKEccG8
+.netflix.com	TRUE	/	TRUE	1787750174	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Ap15mPb4H3f6q6bxtjrC12uF1z2oMoo2gWObgBcXEZxTHKxn18z6VSv7fNwgmcVLYJ-L1mG-DX5Td4ieHVMlfZk6eAKPf3rR8IQr3RREfUxUYDKCkL-AUciFD5w1thfEoYt0QOd_uWKLS28fZ9fqra-GF_huQyYJBs3ss_F3hCsaYQ4-4RrVUzyn95E7xJatxji6au2G1sdWxkiBaMHGkus7SVB8vGD4-7Ky5oJkzyeumpgnr7D1WvyhSXayqTqGNKg7Z1QLRitWJ6kIfoh9R1fy34F0jICGCd7n-q8FLajMtyZa7SU9gRelKFh6KY_wbYnqTppmCOiySE1wVWdONC4pglhZuW-9M-F-Rfr589WcKbXqDHfVsQIJNxy99G5pZzYLMdZIVIGy4EYpWPH7yuWLwTYDGTbJhzoo1eyflSzjOq3RPaUX3KhP6P8Pbtodt8Fj3jxe0HodTIZz2vpkGL6crL3fVvt1WNzgRjsiToxN409qUHX9Bzsp9xgGIg4KDLyVWKJrecv2uVxuDg..%26pg%3D4TEEUJULBVB3JHGT424AU6UWEQ%26ch%3DAQEAEAABABQkVL-CGY-l3IouKYb3Cg5Pmey4Io7bskw.
+.netflix.com	TRUE	/	TRUE	1787750174	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrucKjLW9z_vhGmeczLbZjWBeE-F1TJh8.%26dt%3D1772198174504

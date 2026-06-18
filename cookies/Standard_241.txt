@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Js
+– Email: stgefr@web.de
+– Country: DE
+– Plan: Standard
+– Member Since: November 2024
+– Next Billing: 2026-07-13
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +491707863980
+– Quality: HD
+– Streams: 2
+– Price: €13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Oliver
+– User GUID: FIR5DQP6N5FOHI3F3AW6N3TT3Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1797088451	nfvdid	BQFmAAEBEFKhLSh4PGKuSQ6mtVtaEGhg6I2vs6O0dlA7JWQ4dfA0WVMYi20jMvo_Or_WjTIzRSGwC-A0fOK1N1emw5xVIn8caK5BSrWi6G3EQxh0_aGm3tdkgRu3dCn2lVS0gOppy7ValzBdyOCUidSDt0CstJlu
+.netflix.com	TRUE	/	TRUE	1800743049	NetflixId	ct%3DBgjHlOvcAxLjA0r4G8hJutU5795mVhv6fNxSH0xa9Sjb0CsoGQnEsEJMvPcPr-UX3t_sn5MPGPvuOpCklV2H8czJYKhX1_c79tOAM_sP0GrZQmfRmP8-sDe_SPhHbPUOnkNMCnZ-vTezoazQ4mBL4oEn99V1G2mItIafP1N-8P_Ke7fPDTvxXewscUMtBciFZ0bqMUs5KXqLqfHWt5oOBg1xNMbjrJaZF84iW7j18z5ooQ27kUfx-1ale7ymRPbK15BBr0CvxTvPro6O4Rd7NwneFqmxfcQ49mA3r_pWtM87ZwrAU_PLXRGcL2M0b-YeqFQJtDT7hBEevMEBkYWDcmwVv-HB5Sfa4XIg-PA4LyGUW8eKlFHJhVxNBKKDPrxSM5n8Y0VQxeWd-8cGoYR4LwwGusPRVVJ4Bhw9GcFo4uRhFdYtfHMzUwP5bW_pxRvZV7VPNFaYyy1Pxt2dvNn36aJ91XmonIQ0kPJTvu35N0-r_7sKtVMdh5M7wULVfLBo1g2M9mwJXzig65tKj10C9xBqxpCe7vJebZzLm6A5eU1u171BsKjA0VT9czT16ji0dH9SaDHawnmqfYNQtEYHH-1tLL1x7Hn9S54BVR_spb7CQnyfeEvnR1CXsztl3mcrkI2-dlNFBOwEmjvQVBgGIg4KDFHKrwBfocpsTokTlA..%26ch%3DAQEAEAABABTc6MEsW6x33accIOV9a5XMBtUIvGnQsFg.%26v%3D3%26pg%3DFIR5DQP6N5FOHI3F3AW6N3TT3Y
+.netflix.com	TRUE	/	FALSE	1800743049	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+23%3A24%3A09+GMT%2B0100+(Central+European+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3ca8a099-b1cf-4dfc-9530-ad86c6b79a80&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BRP
+.netflix.com	TRUE	/	TRUE	1800743049	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0kj58el-qMlRwb2677ucbJWfY7e69R3E.%26dt%3D1769207049089

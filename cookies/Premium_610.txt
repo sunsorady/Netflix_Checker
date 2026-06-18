@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Barn
+– Email: mikael.jansen@outlook.com
+– Country: NO
+– Plan: Premium
+– Member Since: mars 2013
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 2089
+– Phone: +4797979790
+– Quality: UHD
+– Streams: 4
+– Price: 189 kr
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mikael
+– User GUID: PKALOZCDYRG3FEFAIRQJXRATKQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804523150	nfvdid	BQFmAAEBEFojlY3PeHvaaT6RudZP8FZg3QvQ-WJtYEQhwJlCxFLC7BBTvd-BV02Yqa3I-v4q5kXolbX_Xd2XxifTHI69Ri7p47Z3kWc3bqkJeIAZEigB8qTD1rqdZLA_YKQ4n2bvqahR1gniehAthfeQE0ayyxQV
+.netflix.com	TRUE	/	TRUE	1811855286	NetflixId	ct%3DBgjHlOvcAxL8A2rh8wy7qMHaxe20p4MxQaY1W-weTkCTNo7wCUWtoNUmtRiO4a8j_4wpxIVCuaB0bg7WBl5B5qoRfV1pdeHpMzcX2gPxECjN_zsfRVh0zXf35c8J14sB7EXw7BWLOL31-YRcLiCsrzryQ35AdRg3EbTwwFES_7wxwS4HCo6gaMTD2N_-aaYNNKzSzVpwaQ5udJOCYEgPj5maJ3VUSJkJyciWHzUfEAAcgoF5syuods5kAmI1kz41UDC9RlQaFfdSK98vnvqyv0W2lEFNv6GvuBGQMwfI_fx2CqRMk3io3H58FqfRrC3P4Cqn6hiI4Q8trNZcSHsXDAFYgLJLvdyov8R78qlVx-lKNHeBaWOkLT5qf_UKnVOgrOaplk8aZI5W9Pw67zaqlw9YgwNsaDxCr5mmQMr1v-VegJUCkERhN3ocDvgFk5bIeAfEGh7860GrC96WbLoEB-Mwp51ylO2bdORniizdXhSCclTe_8Ox30ifv0IvoOFSrUlpyjXyU5Q4KmokkdFEsNtPuIzjL43uWIfGa4726aHmE6ZQzVr3SsrmHpE6CCqE7VgIdBKJMgLt2WEHQD9IXxhEEnc4H1Ym2wLs05Q3KHVLrw49iW2_ONChFwUflO2rIbApFw66JpL8yEL0eh60p2vU9bRYlg3zoCrQpfbqnhGspMZvLTQYBiIOCgz30bZSdCfuB1mzDeQ.%26ch%3DAQEAEAABABTLoPXz4CBc36pMeAtAtgj-NJoapVF7_8s.%26v%3D3%26pg%3DPKALOZCDYRG3FEFAIRQJXRATKQ
+.netflix.com	TRUE	/	TRUE	1811855286	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRwkEQXAyIYaIujo3FVuwEJS_NpItY9Kak.%26dt%3D1780319286760
+.netflix.com	TRUE	/	FALSE	1811876502	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+21%3A01%3A42+GMT%2B0200+(sentraleuropeisk+sommertid)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e223ce88-ed2c-4c9e-9afb-f2a3057e293c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772155998464&geolocation=NO%3B02&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

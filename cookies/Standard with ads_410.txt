@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Angel
+– Email: magyabyan84@gmail.com
+– Country: MX
+– Plan: Standard with ads
+– Member Since: January 2024
+– Next Billing: N/A
+– Payment: TELMEX_BILLED
+– Card: N/A
+– Phone: +528110152541
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MAGY
+– User GUID: QOJS74ZRQBHPBJ6IQ4ST6JX4ZA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803940420	nfvdid	BQFmAAEBEC7h81-PJjz79ZEiIv2toj9gawcSFuEv-hii5iPVqLw8hBqyJ6mQdm0srLPlFmid4TugvLTRtmEn1ayIsqUpRZQ_JmqDhT217ToZ3I_hY8Za_qYlDaH149nHd-_z21Yk1SPe3qCBooqjAs6csf78Qipk
+.netflix.com	TRUE	/	TRUE	1803940451	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AllBP0UZEldcHtcSbLO-NO0OqmGMA-ZXW4Cj0bSUI7T8rC-gezM2Afcc-Tcjmi18YGXfXKPWj1HvK3zfI7U7IQHetzUB2ZiwihADe71XZcnRXTpAtWK5OJFhozQkwxwfGv7KbRPHuIAEpLq4rWcTdoA3waw9qzH4IAkh5DrG8oxWNSZqjsUVk70xMv9uytPQpF-xXRxHi4OyOmHMF_LSF-hFrdjletFfhQtFYuWhLjBysJwUz4Yp2CMp4-94DGD6JOU7kT_L0h-HcpPhwEBmmsYoBXMW99vMpR81zx1uQcOUkKpLEOTiE1xvK723zjOhXgIk_xaph5lacuL68WUKRDdlxN-WIxUgQ3PG5VsUiweYn8muYAcymYQFqxv8JyzPeg8aBjJsVNd6x9Ry3r0S70ohAZz_owHtzzUWCsP8PmLryvZmj6R2Z4IJw8gGqKAdtgiEnc9Svx3yRez4v6i9j82S230DOZJXlfdJb-Dwa2cdPj1uk3MaCwvoURgGIg4KDMiQO6tPcZH-xygqlw..%26pg%3DQOJS74ZRQBHPBJ6IQ4ST6JX4ZA%26ch%3DAQEAEAABABSpRu-c00ZJYu7xeRZQP0yiSDeKvv3OQGY.
+.netflix.com	TRUE	/	TRUE	1803940451	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMq-pZz03Ri2J1CNGahIDNrCHyWH5k4Ek.%26dt%3D1772404450676
+.netflix.com	TRUE	/	FALSE	1803940935	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+16%3A42%3A15+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a345275-c631-498d-aa2c-6f655de8f883&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1772404318704&geolocation=MX%3BNLE&AwaitingReconsent=false

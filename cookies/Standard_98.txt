@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Malakou
+– Email: salmanmarwane@hotmail.com
+– Country: BE
+– Plan: Standard
+– Member Since: November 2022
+– Next Billing: 2026-06-30
+– Payment: PROXIMUS
+– Card: N/A
+– Phone: +32465873386
+– Quality: HD
+– Streams: 2
+– Price: €16.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marwane
+– User GUID: OOMIOLJJXBAWBAE3CNK5NQMOT4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799934223	nfvdid	BQFmAAEBEO0zF5gg9jI4uZqVbY4VOk9gjAPusHp_B757xzv8lclsKLjMBRwaRbzUTNedG_NV-9rUwyUkq-jCiAxx_ncVDNqW-iyKHnSgMEj0HZk-kVjPG3KmkW0A-sBD2VNxHMVilzRoKqas8oaLOn3eloV-8r5C
+.netflix.com	TRUE	/	TRUE	1799934235	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAAwffDjX4n5ULGTvikdfav_cb01hn_WF8jlUYUloFK4OAiGwWLt9ZR-gfpbqyeBz2JfmGy7U3EMvRDISH3m33X3kEFX5sO6wG16CQ5DiXXPody5l9U8Xw06cWfKzEDuLs-2gwZ7TxuMXoE16TV_leXH-9HClsGJSYXf2EDicMig85VsUzoLoKxCi7VLuq_FMBQyj9YJKU-L1fCF4NHpbhuRmKqBsBKPTWXHe3EgeTL_FAU8VZ2hz7IaUnt-BZmwZAGSWrPgSfc98a0L7q-m898l2gcVtAkkXXXa9bj8GGtL9zxkKJRGF4GrbNQVStRpQXj7gt91FeZHnqvBU3S182QNKxG6YfV03-FFDGpJ-1OCWjWGm8-GKyv6he6jxj06uMt9_AWz5R3igKVOPovk7BaihHXKfE2iyZAJfSPJbMwBl2nDd3-h23OcroqhHhSp7K85pCI1ygQzs4fr5Tu5RoPh-O66hJiaVGzBz0bjXQ0wA5IxHx2Xzykp8xQahCV16rthgGIg4KDFH_83cbxzSDhcYJRA..%26pg%3DOOMIOLJJXBAWBAE3CNK5NQMOT4%26ch%3DAQEAEAABABSxdaC3rhLEgaJpPDMukxFdUWCYLLNx3W8.
+.netflix.com	TRUE	/	TRUE	1799934235	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT86Ds4cVl_etAPCyP8bg4Yp1JVuOI25go.%26dt%3D1768398234998

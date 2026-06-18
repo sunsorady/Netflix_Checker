@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giova
+– Email: floreswalter2474@gmail.com
+– Country: HN
+– Plan: Premium
+– Member Since: October 2018
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 8691
+– Phone: +50495013105
+– Quality: UHD
+– Streams: 4
+– Price: USD 13.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Walter
+– User GUID: DPEAJJGFB5AGHAIZ6SZALYIOVU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1787848361	NetflixId	ct%3DBgjHlOvcAxLhA4oha7xcBFkEzqUYrdul7MfcJZ2cHjr4VlvyNsCMjYoYThawGGIfxk8P-TzjED26tFl_cCwQELferTZ1bHizBawjDaWCvu8ct74krSmxCcs9e9yHeKey8Bbe8qaFGNroLhsdv35Id7Z50enTWsqIUOoxaWmYhVr2bbK__8FxR_13ZVFAZBvx6YM93siNCtoQPyQ_xAsMQLYmKsriYBQacEYtAVOEGg7CEFrMq_UE0bFs94GGSCdcX4IuoHYrkRLCTYKlogPKf3ZS5l7r4udfNHmGSJu4Xa_b0Wmv6zxZa8HwaRbNn8hVIO99wLn79xLE71v4NdRMg6OO-NZ1U5200_A0k_zwA38mjN16v-YkhPdPBX4ixcA9bCJTFUUS3KkDRPS04dk_q4b_3F9RfcqbLKWQmbETIzoHFLIXkHFOI9o8gZrVDssqCictExSm7mO5AOVcQ4AYrDb58Fzu4-KMUSLRG76j4YV4T3q1fsakhPRrDEMBl9W9C3E5dYZscY0GxEavIkm2ZpnKubROpA2uLBvtqcASR65W9jvIkgbHz_S8BS7VHmViCo7K1Duq4sMOKroEAuAsy2j55_83mTWiW9gT-4igabhyk26r2fWaCQZrAw8k_N7z8aO3erP7uqd7R-sYBiIOCgx94Pjr7FkMxCM8BYw.%26ch%3DAQEAEAABABRQRa0Nh4n7EhuAIDhT-W5n3hQzuYe2JQ4.%26v%3D3%26pg%3DDPEAJJGFB5AGHAIZ6SZALYIOVU
+.netflix.com	TRUE	/	FALSE	1787848378	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+27+2025+11%3A32%3A58+GMT-0500+(hora+de+Ecuador)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=59948f60-6bf6-4d9a-8141-552d3d890e32&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Carlos Jr
+#EMAIL          : leoalbfcosta32@gmail.com
+#PHONE          : +5535988547854
+#EMAIL VERIFIED : Yes
+#CREATED        : janeiro de 2019
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (1297)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-15
+#DAYS LEFT      : 27 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:34:54
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1806595072	OptanonAlertBoxClosed	2026-04-01T15:57:52.374Z
+.netflix.com	TRUE	/	TRUE	1809619184	dsca	true
+.netflix.com	TRUE	/	FALSE	1806595184	nfvdid	BQFmAAEBEPAWzb7ARgn4eTm-aI-fXLBgArO1Bs3_u1O2UUG4k5um2J1DdjshcxxNdfc1Mz3YbkVoVLfLXqYiGYglxKAWAxPZXYkOy1Oaeg9NivyoFZZ8fTxTijoCNRCpNQquRR2JlfzLhdP1TQC4ZKqc8q_bXdNV
+.netflix.com	TRUE	/	FALSE	1808165346	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+17%3A09%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=592e012c-c652-47f9-a4a2-667145eaf715&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775059072842&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1784405343	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784405343	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784405343	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1808230786	NetflixId	ct%3DBgjHlOvcAxLRA8987sLj8p_xLxaSJUERaipspv_PgN3OxBdJzl5sq6fZK01usa9sBHiLBx7Efst92cmt2h_QlOc8Kwv7w8QGQX7rRhHjGT2p_GeybboOhlh-CeXRgvLcEyRFnsj0uv_gnESD7yhRRvpJ86y_lEJaAXspcl8V4P6G4Ckut5CpVl8OPK5EWOSY_ZuZ2tCPSa9Hb-pHElsHAbbk2huIA1nd1qnvAQtWGurzy5CaJXrWUK6_Kxvalf2tUGuRM9g3A5SCCPrDUlExXB7iax0etdgnW03TV9bynSwC5fo2ZShszuvnPN_xEo2omCQmXGe5N-aJ3zEnEvw5xJbCB8p6IKGIVnOxfgAodhWu_KkX-glqgiCFgNHfG06dRiS7Y44_x06QuYgK9O6580wQLLq-u6x5w9AaalJlAD-iSKcywku4tN3K3wCf7CyKx6MAiTEMZXF0WXUa65ETboOJu2Bn2kaowpzrQnYXhHQVmEYQV48YlPRA24EFUZEtUc8fQwSyOcGNXgWseJ7pPQFLu08y_MfXKj8nVvGBFx3-jfwQk4fRkBkjG0p8EsvL8OWA0EV8hxmPhiN2yKlDtPPG6UUX8Xd_LRFKvNEm7FHT5JDRi5FglKND1hgGIg4KDGPkpP5CTArsq04OzA..%26ch%3DAQEAEAABABSgzxRd7wQipfvdxz2MTz9vY1Lemykde5Y.%26v%3D3%26pg%3D344QWMFKYVFQTJZXP7IEWZNCHA

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mp7vsevr
+– Email: mp7vsevr@icloud.com
+– Country: JP
+– Plan: 広﻿告﻿つ﻿きス﻿タ﻿ン﻿ダ﻿ー﻿ド
+– Member Since: 2025年11月
+– Next Billing: 2026-06-18
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +818019689642
+– Quality: HD
+– Streams: 2
+– Price: ￥890
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mp7vsevr
+– User GUID: YXV5MTCJBVFL5B73QVKMTTMPQY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795006335	nfvdid	BQFmAAEBEFMRdHWfzRw-08M2A6YauuZgx04Dg6OJ19nKSnEj1Mm3Nw7H2mGQSBwqpGMlR7EiwJhZURx0c-734jdbaEMUSSiDV2TT99vlR4QRcLXXm-nccQo8znfNE-fjissiSbxJSqLGFaQfu2jGlh7MUbrLpZZt
+.netflix.com	TRUE	/	TRUE	1811060715	NetflixId	ct%3DBgjHlOvcAxKPBJbax_ScCZKBKdAR6jUVaI94ps0GJkEea2wyLOdnTUuMX9P-P6oJ0Tr46VacLi8QOsFwatMAK8tZqt_jcnToyMX-OgQTPQYbsSD_oiLpn8smvr_Wvlg5S4WKj5-9ljh0Xn3eSsp1acASpQdFr3Oq-F-VQVccE3SICw8dJOSkJSUYrwbsPh_qUuMbrrgY6QceyqkJuv_cyrXRxlxTS8yRJjzJVn1Wy7XpRdveboSXZtngJL1OvKJUzp6yemYcc6xlRn9GqlbxXjoku8-U0i8ZMv4eWGpHxLIOmqGZZpElftOWLU-K56Lc46vpukPNReq-Q8On1LwHRGvzlJpD-RgcqupLtRDGMOOuO1unrS4kZOlYVUK-i6t5dbGMn5IG7Khfym3aF_qy_nNlym6H-M3XEUj_CfVQSHx1jL10IIpnSFa6D-vbX77rrWZeeIeAZuaeklmljJCGigZBl1G0UAT-WZsvMCu_911k24_g5V2sInz1e3zlcXNcKHF0Vtja3RMQgCGKOR8qjAjtDfa3MMVwLT2MHKNDiPegMcRICc_JrkKq_qt79FrTDUsyMKWrH5Q9IrvgCv3LsqcXWj6UzACqxK24FO8rGAZaNaUZWzDXUakWOdgEyO4QC5SrX_VyZMvunVmeBahxcR2HzEKN9i86jRHyWGYMeACQODDtKmUWPfy6AOxt3ycYFVFouN7WfHA-GAYiDgoMweeAPNfAlslqkjOt%26ch%3DAQEAEAABABRv5bfkkvkS0bUjC7yRmuC_IWnSto3AmNM.%26v%3D3%26pg%3DYXV5MTCJBVFL5B73QVKMTTMPQY
+.netflix.com	TRUE	/	FALSE	1811060716	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+17%3A25%3A16+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=228e6747-5304-466d-a547-c2fe5ffc94b7&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811060715	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQPn0CYNCVSQ7-H9T2ynZ7wXxitDseoEIM.%26dt%3D1779524713989

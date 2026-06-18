@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Javier
+#EMAIL          : javierminano706@gmail.com
+#PHONE          : +34655920712
+#EMAIL VERIFIED : Yes
+#CREATED        : mayo de 2026
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:32:33
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809538275	OptanonAlertBoxClosed	2026-05-05T17:31:15.718Z
+.netflix.com	TRUE	/	FALSE	1809538324	nfvdid	BQFmAAEBEKcB0t74UNlEBjHYRFAniqVgXfrrdOnvTshAnlm5fwIe2Bgv2fUAz4suj1iOnp7Rcn_m2x8cWOB7jNhdJQrqjH55MgaHpp37wl5J_fy9oIYYLhEo-i4ZyGg4Kaf41bMAflnsoVVsx5OYRzPdlXvNMnKC
+.netflix.com	TRUE	/	FALSE	1788793503	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788793503	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788793503	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1781019468	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1812551736	NetflixId	ct%3DBgjHlOvcAxKJBC8bOTN84QXQ6e6mlQYrxD7OAdEEqUosrNXs-VA_zFu_ui_i4dwMqdVA0wtnjVxpN14A3egdq3O73TqqqIovjIT803Uqm2Hf6DNErssJHCCM1t_8AIt_8F8Fd5icvRlmJED5r2iu0T0mEETXiqEZ2sGD7p86RslEIoeTNE1oKgLRJ6_GhZ8jBTOXh1JKsGVYuQoJJYTW7M0f1yg49k6YoSoVb8GGuqIgUFrvDdeR_K7Chc5khTrn5tgH4OF-GqZ2pcHjusVFtaz-RD1QiEkM3T8-tv6U9tr0TAGNOZgS7jT6fcYqWU-hxgqzoU3XCxjszzm8QFhjT_NoL_KEgcX0P5PR7nQS777S_3W1KkWf7XtG-aXwxZbA3PCb3q4pd0UmrvMgPN7XNJBsdwpgl8GJD0NGP0lsaOrxRKO7-fbAe547NxUf6-B1n2tVL3E4doLRINXGoGhr-zpexkMU1WsXWrTE7Uimo5UYIusbMXiEZ25HwSVe458sjLeo5Bx8crO4vp4HnnlTL3ABGhW41fbHtAGM3FjkSdISbwukve_EdsABvBTZ0vn94iW4U5xmiriaiy-d6S0nqEACk89q9NdkTzjByndgbvAWJJuKPGXQQjOiEjvzxM12-A7YeAOMWJkW4gEn9piNcjyyo1I7seYurRi4bTeP6Om-YOB-rQQ0HPgx7hcG7lStKjjtGAYiDgoMRvHc_eeFFEETT55H%26ch%3DAQEAEAABABR42KlNAYW861iSnXjvSRl3wsmFRUH9heQ.%26v%3D3%26pg%3DLNQ7O53DLFBUZC5TVN57Q2N2TE
+www.netflix.com	FALSE	/	FALSE	1781102136	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1812551736	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSbWDblklxcni5Bml61yP7Djy_ms6x1JNA.%26dt%3D1781015736284
+.netflix.com	TRUE	/	TRUE	1781102136	gsid	06cc2ccd-cce6-47c4-9dc0-ae644d59be4b
+.netflix.com	TRUE	/	FALSE	1812553504	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+09+2026+17%3A05%3A04+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=47f1809c-be16-4789-bde9-a5b5a54d3d6a&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&crTime=1778002276074&geolocation=ES%3BMU

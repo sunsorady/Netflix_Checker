@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Francis
+– Email: frankobama101@gmail.com
+– Country: NG
+– Plan: Premium
+– Member Since: Maret 2022
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 6016
+– Phone: +2348066518539
+– Quality: UHD
+– Streams: 4
+– Price: NGN 8.500
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Francis
+– User GUID: AVSX7WIURRCIPLN3LTO6YEQGRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBELBwEhCP8Vkfn_OTaOTBtgJgVKltGG4Rr8Xt4QZOUS1wNLNNLnjln1yQvKzL7ThI6BQc63CHY0dqiQuhl68qp7fSx627P5ym_09MZNbAHP5FrHUGI_yjUlw6lUI4OjUeqpPXuoG3LShrXgBn7EiQpNfh
+.netflix.com	TRUE	/	TRUE	1797071711	NetflixId	ct%3DBgjHlOvcAxLxA4sVhDhAYsd_9SJw3pkWYIqCU_sO2d-dNAMYudRT1OrpJ0U6wnzrZ7gLLRoopk9QipZvO8OgyqM9S6VmLOmuoAx2T-6DNLTEJqi8hNkZCxed1z-3Le9QkmsrgG7pnylMsRj6z7dd3rZ4m51vXNe4yrvhIkJpkm78vnXMROfw5x0E68514VynaUUtvPYXW45yhXjrw6HgArw5ikJba4Bm-zelyViRjZ1CpJop2rnzn3P-f_HMpNSfyseqdxszZPg-8unA9K-zxCS250KpnG5IJsWHIdpcH0h3vSTFUU1TLinxu2W6gjn2LuPXl9PNFtZ9v2tP_IJl06LQNHo1uZ-kH2Mh1bI598Eml1iINNgIaYlE25Iuv1AfGh4JRrQrHiyQkENXXXAB5kvDepqiVBQjsVNgy4du5XevI8aQnUpkBbx5yeiFbI9HbyyDpMnWdsnfR5P_8gciF-vNdVb0Q4M4plTnPA7uMmt4_Oiemf762wv94US1u3tNPexGVEkfqdTz5GJMUjb36_U0K4p6ryWlQUYM2R-6270MWp5AUwpyObOeKBgCnyg5_QxXKYbSVgaUG5bWP8FL7hg2INkhjWig2mK4NLTJq8td0ABcbIaYH2-oQYM2y9dWZ-xBj7mDz5A0g72_F9ZUsIchk4A0PAtU15I4GAYiDgoMxpOT4SIqHX0VIs0_%26ch%3DAQEAEAABABQjwXMMxouS1iUrHyKXwgs0hQw_s1kmC2Y.%26v%3D3%26pg%3DAVSX7WIURRCIPLN3LTO6YEQGRE
+.netflix.com	TRUE	/	FALSE	1797071721	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+12+2025+02%3A35%3A21+GMT-0800+(Pacific+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2e2ff81-7f5b-43ab-b26f-6e2193aaad5c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797071711	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYsXkAIoUus-IbdTUpg2lbCGj9jYK-VTQ.%26dt%3D1765535709851

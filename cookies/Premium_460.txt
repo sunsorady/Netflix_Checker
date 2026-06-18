@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Letty
+– Email: quintanacastro87@gmail.com
+– Country: ES
+– Plan: Premium
+– Member Since: noviembre de 2021
+– Next Billing: N/A
+– Payment: EUSKALTEL_BILLED
+– Card: 3408
+– Phone: +34600042152
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: TATA
+– User GUID: UEQUWS7HW5AJ5ACRQNITJX2OEU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789147706	nfvdid	BQFmAAEBELDi0XGRdmBFIwaHtEBzGStgscFVnLfzR_hklZ7Zrj_arpk6vqt5HvOso58OVTw3K8bP9NtmzE9f-pvdrAfXASXUAmBGrMm3Xzb0u7uMLR8t-vp8zOad9azFn8hR2hXlkQsfqjHNOFNB8j2P2JEgeQVt
+.netflix.com	TRUE	/	TRUE	1809524844	NetflixId	ct%3DBgjHlOvcAxKFBKiWuB0w1Yvu4RYopHoWFGZJxIJsvg2I455W1nSw6j1qCfXBNtpiW4uUvl--EByXFgBPnj2_EeqBq0cMApBPSACH26DKb1uXjKPOQIphMe-EaJb4WbtFw_GXNu6e-Lsb50ZobkV4mZxhe5RsdGpSTMt3M-bP3_xgf24N1g_Sc-vL3GDluEk0u-it6fdtf0NY7CHlLQPvSK_O4AS1l9AWm2uKFHq60Kd78Nlw-bgcD61OBPOoXE0xm3OujLzSesJo9Cr4SR-T_F8dAGzYYY9IkImepyCjmLolvCNY4ePCJf8ghHbElX8etM0r8kosuFYARpyzCE5cs0a6zS3y-3r72fYCxBVMh7jLPWTW0dLh21HunRjO3gYo29m7cf0ca9mM5ggkrAwxqOWyiRuYbfSW1Q0Il1zgNevfCdg3L5OW4y8cxyktRStvC0yi-Nst9ZArUM7cf-FWvBo7jH2w8ckFNdxzReSViQU6d1UyE2h-27sdOyHsvBNvV7qrRQ1DW1iIxkGfg5TYo_qkdS8ePDFkCA9UjLFACC7bchOOhiwTBrhd7YozwpCfPANlZet9AHt6FrzsXhWWXGtD368E1CVIy1ldmI_yoE_H-45pX5pqXkgxE1jbs2aRBoI23GMjzMfk65wNh0S7ZhTs42lzU5mffl2f4_YD773qFqLjejUc8gCWQ8wzWpcYBiIOCgyiZKgKTf3x5YoXRFU.%26ch%3DAQEAEAABABSL7PiSx03y142PZuFCkDxXhQqyK7_ZLWI.%26v%3D3%26pg%3DUEQUWS7HW5AJ5ACRQNITJX2OEU
+.netflix.com	TRUE	/	FALSE	1809524845	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+05+2026+15%3A47%3A25+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fe4abe90-0834-40da-a02c-ab6f8c0811c1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=ES%3BPV&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809524844	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSN9JZAWQEUK7WJ8drXVPtfBmWX8Eva37g.%26dt%3D1777988844411

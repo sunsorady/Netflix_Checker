@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: sharramae22
+– Email: sharramae22@gmail.com
+– Country: PH
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-07-01
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +639275425961
+– Quality: HD
+– Streams: 2
+– Price: ₱449
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: sharramae22
+– User GUID: 7PVU66KBZBBJLP75XWY6KTRXOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803040885	nfvdid	BQFmAAEBECFzfKwgXaCKYp_F1NvwaWxgfjrJxRIbdHYwi8ZUT8bLuwrZWsUvVq5gl9rW2IU5V_9L39_X8vvviPe4vvkqIF1NFxyrG8tMcNNLQh_VdGF64CL4uScYGQWWQ3_7e94gCOzm3mrwoclukKxs5EGoLQyq
+.netflix.com	TRUE	/	TRUE	1812621642	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ5ckyIxJfYNKq5EJkUrbjzB2lcd-CVsSA.%26dt%3D1781085641175
+.netflix.com	TRUE	/	FALSE	1812636848	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+10+2026+22%3A14%3A08+GMT%2B0800+(Singapore+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39b96a67-f254-43eb-a534-45cd27fb5674&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1812621642	NetflixId	ct%3DBgjHlOvcAxLTA3JRqEYRbbnzUbWhGl8SB9W0eOH9lO9xqhLSsnGuAeB2TfWLgElXYAKdBatJ7ZutOTx6RXs8Oc_jlD0bjXiB9V3zkrWY-51OGcKA2oRYjlvDoS26vEkYWuyteRRTIomiZ1OUABbYL0Nva5cKijwxWWkZsXE7ZMUJRayVcWxEgaPAJNWw8UoYH3QULBZRsSQxI6wEUmorIQ0xzyLg9CGfpWzhKTcVboVHOq_06XvUkc2jWWpjR6MVI7dIgaXggAudw7U7EQ91xwpHeIl7yCm_msxLd9RJpBcWoyEvTMnC-0_bGwScG9KKG622ue25zGOL1UjuiG7sclzyaYa5JKcIkrdvJOYr_Yk4w_dcugwdJSoIxUTO2K9nUAlXQ9paCKjpdnx3KWVmrL_1_EBsF57fHuFwBDjrZu0Hv94ct2h6dfyLQc7wFob7Czl3uTJ6xhKRZ3YC5ThrUcGERgBGvGaghFxMnA_nsXc_Ek1IXGT5PYddYybk9ImW06KFMzIMquhQzGJjN-6TdWd1CW0j9ij0Q5yF5HcjCAxQSGNwZ68KQc0qyS2t3QJI20C0M3aXzpqT0fdZcT3W9dpTl1fCeIUHxtqgHcxkVlWlrQeXzlgCjNubmbunGAYiDgoM9d9wJ2OOJu55D8U9%26ch%3DAQEAEAABABT1agDqbm9XeqvSH-UnlEGszj8GLURbgfE.%26v%3D3%26pg%3D7PVU66KBZBBJLP75XWY6KTRXOE

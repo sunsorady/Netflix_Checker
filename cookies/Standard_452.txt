@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 키즈2
+– Email: wldud414@naver.com
+– Country: KR
+– Plan: Standar
+– Member Since: Desember 2024
+– Next Billing: 2026-07-13
+– Payment: CC
+– Card: 6847
+– Phone: +821025250414
+– Quality: HD
+– Streams: 2
+– Price: KRW 13.500
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 윤지영
+– User GUID: FNMGYGSMG5DMZKUW2IW7JT2JTE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788425264	nfvdid	BQFmAAEBEAmi3ZyBGKHt4cY6JUxgpXVgNc5EO_Xw_BS7B8iqgbaSlAYCn2SoPv7DLqlET3-oJ_jcWZFVxlzg-NZWoQ0N59cBLsk1HqalNsxDEqzSTK2SAwBBaOSy9K12KyOUuO9cTuE8At7daCK9Go7zneBqmTtm
+.netflix.com	TRUE	/	TRUE	1811569357	NetflixId	ct%3DBgjHlOvcAxKDBJJngezTCZ2Q_cnmRy2HCmtQyNHlbpj1fVlPxuzrVpmQJjF6nuyda6gyHBU88t0fHfcgssoEx2ZE_XFJQ9u_R088xNTqRkSjSVrIAIwHo2cW3_yZNFP4xFQ8CjovWoxRHLIS3bfrHyU7p-rbI0dwJ0XOfHm2pTlg3t2U4um2WHstnPt1hmH0QikLyclsBzXw2lbLIyMAlk_1OyYcejHFMLs4Gv-mF_TL0k5_c6wGMj404KAoYjjLm5nji-07GIA2MIQSyrwI0cVQB_kLgeJM34d66Ogp1KtxAuBALx6m-BrnzjKGoJlHdI4_rpWFUgqgsDO2E5HGIdNCR56ihXIe6MZixYm-44bPGtFnEshV4NdavASogMcgobOHSFXUpRiV3Yy9xsvqNvnbj5a3ULOQQLG7V5Evbh_H-I-84V1THb9toH7zp7FoXwqvJoygfh347BAr7Bdf5wjLqr6HbACwzzTWds2IGHSM7m-3H8pFVemQqw60RlHMMIKtSxzwwf7gVAz_cn4Rvll-_ldOCEcxaR5p3ehNujelqPkvM5XoCS2L1wmHLfj1w36a_iTcAQ3EJbdlTfVrVow0NJP1L5fcjv1S_sWYGw0RiBv5_FGZmioe2_RDuRlol376FDyAOM3e2m4VKB6KfVI7Evt0WTFK1dS8Gx2OEzdqbC8aLnYnd864st73GAYiDgoMuyRKiyfbhKr9jSOj%26ch%3DAQEAEAABABTK6iHL6Sk85xHy97bazJEqfWX-PG0FONg.%26v%3D3%26pg%3DFNMGYGSMG5DMZKUW2IW7JT2JTE
+.netflix.com	TRUE	/	FALSE	1811589425	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+20%3A17%3A05+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ba26334f-347a-42cb-a490-31262d535684&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

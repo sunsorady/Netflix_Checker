@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ZAX
+– Email: lidiafriese@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: February 2024
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 7054
+– Phone: +543777618626
+– Quality: UHD
+– Streams: 4
+– Price: ARS 19,999
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ZAX
+– User GUID: TUZQ7VT4VRDBZNGWIZ556S676Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809962837	nfvdid	BQFmAAEBEMsWuFsDddi26vNTi7ux3chgB5S2ZyH7MCnu5BAOcjHBfgcCLaNKe77Ci-fk7eMcOeLdzy4NFUTrOSoJPJC4WxPlDXaas6XU1QkbEAa9bjT3hqDvH-WRnXVcNXjVJAhzwptqlnm7G1nxbkQeIqw_rk1i
+.netflix.com	TRUE	/	TRUE	1811106904	NetflixId	ct%3DBgjHlOvcAxLmAw-3Ku00YldZVt0GZ2rV1UUTBnGkWhgw6oM3OmHNsB_jDbjwWMktAmveoLrkR7qAf2wmvSL_gBgdbN9w5FOaeYwSJX9LWbZvfcxPVaPS1NeKvGeG29hizyHi2Fc6uVtZ_HCLIIyb48P54pjNZ8_427dj7mOUh2GaBlsWmomvjUVelihlOhXYdeiscOE0yA8BjDOf0WMOSav-9DkVCyqKJiyT82bl6s4m9sZq0ZyRe9S-CIn7U90T0ltWE3oobcZ3jmgR04MoPZ-qdudcELpwb-YslJ0OT2498tXhhbeKU4QINbJ9u6ZEhvfFHEHQ9DCBIhErAAY1DyeCEC-KjTPAL7nw_hOi6HwqhqjCc9RWzSpIhcJqzBXmwj7-FQNZ5mkViYNzihA4VMtNPEESYH_E6OXmOVpUzlPcn5SgytOun7OEozuin0I4aZrX21GiflgaBmoIaZ9mYOhPdXDZHL41THe-dakh9PNt-gd14_gAcY2N9kLNRysOoRWAe7LNgNVUbAYlbdgwcyfIjp6VlhIEfgizGcgMjmrvQUYr8E60mA2qGRwUjWAekH7QeEdLCo05Ios9jtLozX0hev3JMGzy37z3gXI00kNiR9uBAU4mJlDS0sron7c_TY5MMvWL8Rc2Fe-mTCy9DBgGIg4KDLdUE8KlsmRzCbJUTA..%26ch%3DAQEAEAABABTgU2pbikz87geIY6v92cHpcZb12V9ZcQo.%26v%3D3%26pg%3DTUZQ7VT4VRDBZNGWIZ556S676Q
+.netflix.com	TRUE	/	FALSE	1811106906	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+23%3A15%3A06+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=74b624b1-2921-4d25-98a3-9a1eb0a0b929&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778426640259&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Clifford Griffin (Big Red Hungry Dog)
+– Email: bigreddog1293@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2016
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 2917
+– Phone: +18127010576
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clifford Griffin (Big Red Hungry Dog)
+– User GUID: 7COALRK4F5EF7BDN67SB3FQMJA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810364159	NetflixId	ct%3DBgjHlOvcAxKtBJwgRpIrYBM0vVKKT7gNFRSIkkKEXg-y7kQkPlqvUc-yrHXUQLg7BjGGT9fyBOOdLuisrtwI7uGtwbj11sx1BpoWJ8YKOw8lO31Xmj2UXq7gjS0BjSV7AZuNIWsZqFvjFOpGzqFpGN6PNsqKmiGuh8h58H-aSL-vLChV5n-TMpwwQ1OOzrgUWwLz3Y1Xk_O7A1fRnDQf1ggdHkv0XZqbiR4kj09mSUDKb6kuNBJDCy1bPKm08YVBk_omKXf1TOfdCYE6W4TRpPwqPa9iA0PWKHn-9xVAuQC7YXbQJH-q6xvfx4RwTYpFmdPbMt2M-cAC2rci2zHDNjd2qxiVcoCzh40PWyBSOMNOUGnBw3UngPjzinD1fJMUI91pHTJMv7o9H9ATd2czJ8hJmDSHe58tUxyWsPHqZidgfrf9tvh6KalxRS3hcl9tDWDY9hlsOq53n_6UnTVP4ukbNnyCeXfezk0R71OZ3AUnLU7FXph5_SQoTmVGYVZ_iG8Cd8eeh-Gge8IPq-4GCncs9_KHIXax3RaymtLRmBbqljVH6yNe-gBoPN4EcnvCFh56ouvWKVgnuo9uQNTvqx-kvpLAWjPoOvws9qDY5z1qwixgAi0y0j_RBlycZYVocgzQokjx5N48rKB77U74vbr7cTBA4X4xYlTb65eFnSoBFvEZ-FP17okGSGxMcEZMSCBOLccPJyjHmwy4dy0-f-Q2y3VWAfoE8l8lmEiNulrGIogA_aKHGAYiDgoMxOWkJAw-89GJBnvX%26ch%3DAQEAEAABABSwVghrZqUKY67THbU6PUkTBrk3e-CJuJE.%26v%3D3%26pg%3D7COALRK4F5EF7BDN67SB3FQMJA
+.netflix.com	TRUE	/	FALSE	1808740698	nfvdid	BQFmAAEBEDLKWLjfZIrq02EhTblLIFdgcteTvIQF_ibE-lLtPgkpu-_SOQy02SPIWnaTZrmrpe8BilHyaUuUs7HXfNa53NKPE3-B_H1zczJ__fR01XPyXZiqhVIqcn4WosmuDcUAUmagYQpYmNzn80h7YsukbXnm
+.netflix.com	TRUE	/	FALSE	1810364160	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+02%3A56%3A00+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=90974fd3-21a6-4432-8ca1-8b1af7107954&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

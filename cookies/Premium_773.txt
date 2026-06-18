@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: cici
+– Email: music13.mx@yesesco.tech
+– Country: US
+– Plan: Premium
+– Member Since: marzo de 2024
+– Next Billing: 2026-07-09
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ana
+– User GUID: WJNRWJFYJNFDJDXPXIIYZBY6G4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809417937	nfvdid	BQFmAAEBEImnQF0oaZck1PFKgeQVCNFg0vGGRu_C_i8GzeUlm0zySM6ZgGlGhcuJYKhM4j-XAr8kpsyi9pfpYfYlvAxonmLoEKy4OIXPL0SqB28aKfvkruiNIiRCuHSRepVK1TzSPVRIk_VUr12AFf9h9sIUXBLU
+.netflix.com	TRUE	/	FALSE	1811828076	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+12%3A34%3A36+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=c6f1839b-16e4-4d20-9d3c-91b76f91f93e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777881646491&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811830372	NetflixId	ct%3DBgjHlOvcAxKCBE35viuKe8HkvZuVNppXmuI2LhCF5feypyDH8P4ibt7vJ8ROw5LcdbBi9gOEkkKeBP28_rPD-2yubLhN8R4uc-X2TMKGn7XxMJZxpx6zxJGhlSGubrqSvNAHrfvpr_kJWConNNw9qlh-yNxLMnDGbxI0EBq0B7dGHvHdXsIEkT9Ec5UYL8eZdARbOIjrQXHf2aigyzmZymQRWXWN-QYyWAXMRYIprCjf9fdEmw2IzjxSDRFaFxphW8yHH43FbRyTm6X68EAeqs0jnthrR0kOa6O4Kr4XqoUFqJEVIPqcwHYwbdwuyXZCrNuI7NJgV7ckFHVeb23W2X8Uo3u_ZWVvfA6KwK9n6br2TaHah-hTH6y881qiGUIsxqhozRHAzS1HafD4xuO2P4A4ThJPDInZs8TDoOJlMvoaxlhL3apFaymyzOpTU4MQPe4nok9S31BkqoLJsLDypbOZ4rf4rqgH9BiOQEwZt79qfoc4AIWato5TGX7kAlT9lJQ2hNhaCSIP462EgvMNqbsyknizDNq2QJJQE0bdu33nFhklWQcV4b7dr1KRHdSnECukPNeNRusLbWdnKf3LvnTxYY-lM1LpLUgt_5y20GPT7f0jhBSKp2WnHGQ6jrx6tpUTdf60mXI_1otvdcJO3FP-8VLSY48eiqmRAoBDsnw1GkbJL5tnGhRUbyMYBiIOCgwbkI_2vgvBQAsl4TA.%26ch%3DAQEAEAABABTjcE_lyZFuOt2L-xDtCj4mUoHBi5MAYeM.%26v%3D3%26pg%3DWJNRWJFYJNFDJDXPXIIYZBY6G4

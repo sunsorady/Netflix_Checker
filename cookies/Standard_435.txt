@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Clara
+– Email: clara.lazare@hotmail.fr
+– Country: FR
+– Plan: Standar
+– Member Since: Mei 2023
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Clara
+– User GUID: 74GKKL5GARHG3ABRRFK5K7OZTM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	2932249211	nfvdid	BQFmAAEBEARpBX3qXx_WS3c4gMebSmNgBi69P2Pxk_NtTLYxzlymNTw5SnoHiZqUrEgcGzN6yWKS1gfffr5RBWIXkUk8Ys1lrXZ9AgUSBQ-PiR1XpXYD6Wc1grdndy1x1ZcccOpa6Sq5N2kCM0zkTZP0jRj6hTuV
+.netflix.com	TRUE	/	TRUE	3031424096	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRSAFvlUuWM7o1G5OX3UsMNVb_SV7OC40I.%26dt%3D1766791753957
+.netflix.com	TRUE	/	TRUE	3031424097	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AjmRdLFeg6MJn1zOq5GFdKKzHzykhEV_fsbpkdQDIA4qyBaANkICHJXARBr02KjKvKJBbYWjyAYXG1PCqeafX-UErQsHYTWzKBXhFSclNOvsEEu0HcFIvJTZYKgafoqLD69r9ARd74V9u8Y6eiiV6menUUWYv_MUbJ4b5POb2GgHc_iDUN9Axh9yEpxdEleKyG9YZVJHR_KwUZy3uGTtNFMLIVywBSSPZ9G7grWV8HzjDr4KSB7gexgozT79PIDS9ktUAzfCDf0UefrUPH4KlR6PYI43Q37-hUsnFVitHrbg6VVhck4ePJNVf70OHPc2NyN1eAZuo3w9lnLbJ7XYSamUEFv4c44ANfsKySBdJHE4_ItMZRkjmnqgxneaNuLxpn0Wl2quwSKEq05_us1q4el8N7AyGh2H6K7TniYsCZ4VxlsO5PTJ5jW-0mgpbnT1Ko-MY8K8tMKdC0jlOyjCFS1oauc2q2hiYZvnDDAjJddGa8R0HfVK2_3UGAYiDgoM2HrHkcH8FlUG6HLj%26pg%3D74GKKL5GARHG3ABRRFK5K7OZTM%26ch%3DAQEAEAABABRsb_gDKLs-F0Rx_GQPLo7jFetD3jSPuT0.
+.netflix.com	TRUE	/	FALSE	3031426272	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+27+2025+00%3A29%3A16+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2607e28-62c2-4c3b-a1bb-153701cf0756&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BNAQ

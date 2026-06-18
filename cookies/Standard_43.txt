@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PAU
+– Email: jorgegarciasbd@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: diciembre de 2024
+– Next Billing: N/A
+– Payment: PEPE_PHONE_BILLED
+– Card: N/A
+– Phone: +34630318492
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jorge
+– User GUID: PF5UG5S6FVBY3G76CNSONGNKF4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784151574	nfvdid	BQFmAAEBECVbVN2XM7skrF6j8FxmMJ9gqjwvu900Y3u52RklcehgL730j8uTsWoJD3rKNn6sKiqBEYX21-UunG3wLLg1EJ2VYhkZTYzd3bgPtaBeApRxRvDB-WoAvmDuzgo0jvzh-bejMzPSIgtYdNT7diTMcf6Z
+.netflix.com	TRUE	/	TRUE	1784151574	NetflixId	ct%3DBgjHlOvcAxLdA1amG1w_SGON0iScXdEFRs1F3QIGtxf-z3FiLC7E3Rp2OApj4p9f1_dmDciWs_6V2j_cvM8KPLePFzUtCQLyj8OR3SR5lkJbi5MtaOSwok-Mghoy-45ns1ceHkQnmKMAeZSqvsxeX9wL4nYL1ReSyjX5g98DkyAOUqSeMndLmyXiye7JnVEQtID7eDvckve6FUgXlYwhvz56reKVla9L4YsRKeG_9iMJxzZKWAsqn2XLmr9hw4z0SLhonzmYj-E2PscgGAmpMiUQYqX4GYbbFsv0ppN7OG1lTLd8Du5-nxesY_yV7fcNE_wSRmyFxGgshzxqPJcXypigt6ztFnrEJf0yLKf3u016bsD0wiVcbnhyw9Pe4PdQaL-mOJLRR6V_vRPyBtSeldIlJ9dBip9ynUTNPHcAHR8ZEYhBFDVkRA-ZGcsWA6zOxbZmvlNur8tUidNXv8UZPGYZmrqEpIUqgijMs9otSY9BgXxuPQ1VHpClphQtsERZdOXNw6Y85jF4pOa65xif2ywDEcZ51bXTVqlm_l5nARpqjAFsNL7PuPcmL909E8v8KFm5-cD1Qop5F4CDySh2K3xrx8NozD_krt8_SiPbmMmdjxQbplD6GGW9dyDHIyH6wotXZFGIFhgGIg4KDEMofWUubCNJSBR6pg..%26ch%3DAQEAEAABABSGbbWMr2fL00avJrUiqtt_ywzF1tcb7uI.%26v%3D3

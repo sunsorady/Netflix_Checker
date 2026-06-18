@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : VINSOY
+#EMAIL          : mlle.dede@hotmail.fr
+#PHONE          : +33662518038
+#EMAIL VERIFIED : Yes
+#CREATED        : Nobyembre 2017
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (6514)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-02
+#DAYS LEFT      : 14 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:27:43
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807746377	OptanonAlertBoxClosed	2026-04-14T23:46:17.995Z
+.netflix.com	TRUE	/	FALSE	1807746380	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+01%3A46%3A20+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=871d1432-d4dc-4eac-9154-14700029ed41&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776210378590&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	TRUE	1810770376	dsca	true
+.netflix.com	TRUE	/	FALSE	1807746376	nfvdid	BQFmAAEBEDvCgsLNrTigefNkEObtK51g66zJS7lXYKRrmbZYYvCMMVt7fBu7oQffwHa_52Qg66s-GatIO22z7z-Q4Kx-TnnK_w0rT7MMZPHrfA7pz7zwScrnpgJCp2dGT5uinj9dT95FP-GeDJw1zkXJ5Og8p0Bc
+.netflix.com	TRUE	/	TRUE	1810397859	NetflixId	ct%3DBgjHlOvcAxKVBI7hJz8PwquStBYxL3956Fp-tp5ip_2b9fmj88hzA66E5baOtNKxL7r8mXF4gT2_hi5a_rRaHdZBvCtqkqI8cjQlC5o-elYSmAkJY601sM3xLeFjz8UkCvocNDd0LDYDo0iGDLjlTUFw_Aubf_COLgldOxBzOfUiTg3lvbDvvcCu9JCYj4f6Aup10QYGYFW7ufdvYjW_-pC5F1frYRjYcqRu6pCKpe2BgrPNhRA6MiUznFjaDdVrkKFeFCPyq5fSC9-i0giXK_lnsgJdXBxiGQO0rsaDPES55qsKqCmmuYQTfWDnkzPZqAnK8W0JKQXfzCC1PpkxITXczJ43kT5NKjWGSQ6ao7H2XF7N3GJOU0-jQV9ZFFYWIfHiaq2rhhqNFEi5IOjWVgwNNBR3L_yg5UbqCUIBW7rJKdPp60dIL7FsZ8QdURSTuqqn5H6UFKnfCCvP1XRzaIZ0iowz7lBRn_FpXDWI7KAClUi4FF7NrhQTD46r1AMkNBx4kHT2MF-lQ8cOYCzMLrlE_XfbHXLXM_uEcIKZuh9fOMLejsP8LMee97ZWA3281tZULkuV2gYaWoru7pgs79FPykh5yo58STQXpaPD-Y61JTvezJ8X0FzNy8qUyKpmQwmYREiWjq5ArYxm6G-HDREMmgEbhRAiW8euIZ00d8HUKjNGNF02VS0JDsfKj5ZrpVTTr9JxhXX5K4GkvN4sGAYiDgoM6zvvpPaP8-PKON0w%26ch%3DAQEAEAABABTJXPL4epsj4qty5l-AcbmruorFp5kG0oA.%26v%3D3%26pg%3DNR5YHJQJWZHONGYRLA7XTVZIWE
+.netflix.com	TRUE	/	TRUE	1810397859	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5wJQAcU2OFnX0_wD7E6Qz7XvJn33eV4s.%26dt%3D1778861865583
+.netflix.com	TRUE	/	TRUE	1778948259	gsid	54da1a2d-f28e-4b44-8b72-05522a44eef3
+.netflix.com	TRUE	/	FALSE	1786637860	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786637860	netflix-sans-normal-3-loaded	true

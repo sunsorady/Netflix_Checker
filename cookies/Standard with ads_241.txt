@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Konio
+– Email: patriciafourage@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: avril 2020
+– Next Billing: 2026-07-08
+– Payment: PAYPAL
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mozer
+– User GUID: PX3DA56TURDKNID7IK22UYKPGA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783623127	nfvdid	BQFmAAEBEI2-BAKqEavnl9YYMVXlb_lgAzvVTOnmbv_t0eNLfG4wshbaS5cjouM1EyvN8h3Q3tqpouux0Bqe_CfGj0UgN3lGwPxF8PrPCzMN1LfojBZSN6FogYwGo6zJ1KSB_JzsOVKwbOohfuIbsyf_Mk7bCyKV
+.netflix.com	TRUE	/	TRUE	1803580840	NetflixId	ct%3DBgjHlOvcAxLoA6HKZoC9snB4QLyjUfz5N76VGzugDhi9NHrPeI184aXzkQFNmt4Helh4aAmNPO9wTVZ5WBGXzBIt42WjFVuffempKDWQ88g8c3iwl3rEMX0D7bD7rYNiPT2XNBE1GGapzdvuWHuLWs3sfAngvxnrghhFfYA0xw-FIa1S4E1_u3KViBtiAcZHeQZk0kRlW-3ptC3IFkDUAgyd1q4EO9Yc6c5cY4Ap-fq4naksMUTRZCd7TC7eca9GiIj5XHuE0lLi9c9ZwPG7jTMXNwuP7JyNbdmjfcTAlHJH3GNYxiZERBAPqRqIEnsUn9eZpfBEBgot1mbqx1Wzj0mmOnl3A4e4MW1wfUAVFafZrWdBPMjCUETEtnwhCDgE3b0Wfe9RzGfZpXR4TnDdjvbnvmBiQuH191NMa0qzjKquxbC2js5kvergKJ2NlwUNvvhfmvMgUrRJotUvXFunSxbCLCMNt8FlB-prBMw4seGeM4bdfWTwPbba4LrYO_izhTQev9CIqebmih_PAmsp1XiE4yfmIYMlJrqFRAZd4bAb001b2_wxPzvQFP-GQYoDsErxvz7U94IwDVRj6aXvdUoyKjy4tqKb6Rrdks4kOA5jEmoE02UL12kf482_zVjpXuzDADha40xytb9Bbng7XKVYGAYiDgoMObbsz2lz9yZx00vQ%26ch%3DAQEAEAABABRMSjrgp4NUg7Xqh1q9TfFoKWlACsvvtmE.%26v%3D3%26pg%3DPX3DA56TURDKNID7IK22UYKPGA
+.netflix.com	TRUE	/	FALSE	1803580841	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+25+2026+19%3A40%3A41+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60b7e53c-0404-45aa-8460-13f8aa82f178&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BBRE&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803580840	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-F6zngEjOU8lYHjjux2mLuC4Hd3KGdqQ.%26dt%3D1772044842569

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Daddy
+– Email: elainewhite1214@gmail.com
+– Country: AU
+– Plan: Premium
+– Member Since: November 2019
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4702
+– Phone: +61419332327
+– Quality: UHD
+– Streams: 4
+– Price: $28.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Daddy
+– User GUID: S4VJN4WSYVFHLJNNXFAZEASITQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811319409	nfvdid	BQFmAAEBEPbJ9izAEUk-uBIztTFWItxg-Jeo4wBdA_CyeJUl0BYFe_PxrVHyt1e6jdbjwJj_ZWc0AXDChgLVVniB0fjfJpskOxOdJJdq-3u1AP5MYT12ofaQ3qNtDLBmFtPgFX9BAnZ9WENwflaAYmGJOIBgw9Dc
+.netflix.com	TRUE	/	FALSE	1812095880	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+15%3A58%3A00+GMT%2B0800+(Australian+Western+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e2fe1c74-7043-4b6e-befc-1ede3cda9c29&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779783409307&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812126586	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNtl9KywNxCy6x-8O64o3RQAmfwael8f0.%26dt%3D1780590586125
+.netflix.com	TRUE	/	TRUE	1812126586	NetflixId	ct%3DBgjHlOvcAxL-A93VbhazYKsud8N00kiZ0UB6rTfSvggcy3AqhxzOf24RnLQekHl6Li7qNj7_4CELBK5OzHrJbSDU3xq3A3eU6zPs5Mk2uqNPd_lE9zXGAbo8JPEG2JGC46vvNDXLsACT8GbCHZe3bBcFf8flPucG0RFjiTpGmRBBB5QRk77NvbvD51Uovyu_JhnQUvokSVF7ndeY_YN70IoMNZAUF7YYXgJaUur_Ks0L0t_3VaXd_XGu-LLaAD8AhDKSJLa4Sxg2d8FTfgyIAkYVlAwQ2PoPrmM6y9w0bxmXyKRixn-XXLdhPEkdm6VlrtCVMHtdQqhuqDKFEdE6e4ns0cira3T5EWhxy7n-imfU6bt4LLfxeCdtF6iCkR-ve6S__ZaNLueqjE94X5xMJmAYszkCWTddm2Bnr5Epdiq-zGVgf_kdp6PvG-dDo-X8W9uf6MygoTC9WGo2p0WpZ7-GLKgYc5z7e0CHhPU_zukC3ZqXFBASveb0YUWfYMT1U7IdPd_mFOFAdboWDMaVZMOPuBj0WcnGaklbcxaWDgj2gFUMQEB9WC8Zhg0nTdP567ew3CPg03LcEYk9iskctSUZUUPEwsk1RqBrWqGw65HrokdbDWrXbJpT-6r11JMTy7s9X4fxIJlWNP1W88AmADROKr0j88TYk-QkWJJOKjCrmhThsM5FnBgGIg4KDHiZxgDdTR5g4X3hXQ..%26ch%3DAQEAEAABABSybWvOS230NOP_MVnjuSux9NsJDDIlm7Y.%26v%3D3%26pg%3DS4VJN4WSYVFHLJNNXFAZEASITQ

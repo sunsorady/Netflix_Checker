@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rabbit Javi
+– Email: tinajerojcl@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: febrero de 2020
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34693534354
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rabbit Javi
+– User GUID: UUJSUZ6QKZHXDJUE3XN5TWSXOM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1785713458	nfvdid	BQFmAAEBEBNY6CfGethzjBIX0ZtagddgdhnagKalrzmAXOaut8HiUnBrhTyQmiTyFNRnUXpuYSUbj2GSIDWvNa7gES6JQmsh3DUQuN7LD_ikPSkAmoBbHqIeZUCT4uhzP1jNCHDa1d83bVHlVJzn0kKEur_NazkU
+.netflix.com	TRUE	/	FALSE	1787244005	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Aug+20+2025+18%3A40%3A05+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=460cb1d9-b960-4962-ace6-56f3ac88e98b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD
+.netflix.com	TRUE	/	TRUE	1787658193	NetflixId	ct%3DBgjHlOvcAxLWA-gkY2UMkvRF7qVRYIkjOxT5qH-r536pwH_4ZOz83DL5ZljBDbsql9KjxkmtEuLuDzXS82gKf4IWcALC4Bgp6gaLl7qgh_UV_np9D21hJbTO9PdSuwaFMkkgkaPLFvpkS5K-usX2MssydqeMsrxqkkMyHthU-mobjgycJ8TqKALIOuEhYVDoWBH1P_wsr22Pb-XCMkfs8o53T3zgyIUEkHaqsui0A1nEoofzTLHArQkJbFS6mB9VFrPpx_T1Xy-6Rrs4PyDXCN3P5Rg3vYMmO-sJ809kIOtKKrzcJVkF4Yh7paa-dw22rSLkTWns4oNnRDv_qr_8IAoZcEpD0cIza_qkB95or0z1XvBFwHwM-H5tR085-wCuDmNRX24RNppme9-WA5601VwTMmzy2j3MZ-ws_qyo-BmyR5bXQmWWSu5jDPS111kpvG91JR-ycSq-r9zQUrAvZ97PyftlDsL9hz4ClUYek720G3Ldc-aiQ0OHxgp7YSnSO0iXtzJaFiN-6l3pNI-PSGDG0tCogmXnz1mgszEgqGnFDHhfLjyUvB5R043HkjGCDksadhcHV8Wv0sK-l6jQBpERE8mc1K8eTyxWZp7GwevptwE71Ang8cE-bRYwhUljGAYiDgoMTj0iVsD7gnZmXvXd%26ch%3DAQEAEAABABQGeK2R8h_hQYMKHmCRDj0mO-6vuz2QWNs.%26v%3D3%26pg%3DUUJSUZ6QKZHXDJUE3XN5TWSXOM
+.netflix.com	TRUE	/	TRUE	1787658193	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDz6iPT6iVxlxt-l3W2kNKBu7lr9N2Eqo.%26dt%3D1756122192354

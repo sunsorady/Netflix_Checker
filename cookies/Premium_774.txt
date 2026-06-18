@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: mxrdafully
+– Email: mxrdafully@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2026
+– Next Billing: N/A
+– Payment: VERIZON_PI_BILLED
+– Card: N/A
+– Phone: +17342585708
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: mxrdafully
+– User GUID: FW3YVOJOFJHWPJOFZ7CTSK3KMM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808064546	nfvdid	BQFmAAEBEBHwKBsoi2l4gIGR9-vJQrBgq00VhseGn98EI_dI15XPEuDAXJdI02FSzJismRNNU0g24UzuNg3w4gMtXswW1q6PeOwzLaxq-aKOZo8_vy2n9tJ21cmAkmbv_SIlW7Unl1669DpOJo3bFuwrkaXOkSKV
+.netflix.com	TRUE	/	FALSE	1812196177	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+07%3A49%3A37+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9ce6fce-ea8a-46f7-beaa-75b90835ba1d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776528490773&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812196190	NetflixId	ct%3DBgjHlOvcAxKEBNJ1y_CMsO2trZz1fJLJ1QScYfsA-v_W3MplYT_qq6Vo-8MQ_1lwl0ArsMtr2zCShAU-ZV_7RODh8f69EfekE0-5QOcADkDcjECDFDXd8KIoJezHF8pciAt81jwlHbByXwE3nQFXMhevekstSdm2CMurmd3AN47ds1V1fPsRO5X_Dey-ZEXRDcrTtpN6FLxy4tgx845R3rcpOjCTJK5d6p7WzbzdegG_bXVVQzge2RYIuIIOefELu3YQgw9Y90gAVkZ6j31NQxETTs-OIQJStki2huwmNJoKOE9F5wi-WvVBSnkUXwdGHTkgQ-sZacHPFQfqqdw3b-XR-xl69p-bmRNK3sWq_XBNOoGuOzJ5T-Cf_qH_P2XMar48IO0PhqCLxqbxK1dpf3qHpufW8etTq5j0tvIYFi_TP_QgciCw74BH2AcmDao6-LkynjPdqylLHEWJugSFBh0-e06pMleAf660GklagosaotjSQmVYSoSqAAlMFCJaK1Tn_KLYdY-vn49Os_pErgaCsVJlRp-t5dpFukCnBoXocA-dI7Ylr7dMtbEt8paYf0XKFT4jHBBWNaNNfc4HpMdSfRynHtGmsXevxnRUHiF_ZDScgV6vFzeUDCdkql8d8bKstXyxCvv36Y_oWL6h3Z07goBZfRavaRv2u_iIDFdiukBdF6AsDkNwY2vCphgGIg4KDGiBvxePN2Ov0toxtA..%26ch%3DAQEAEAABABQ4Eb9BMrkCOajwPCqZWpyTm_xM0qpFmjU.%26v%3D3%26pg%3DFW3YVOJOFJHWPJOFZ7CTSK3KMM
+.netflix.com	TRUE	/	TRUE	1812196190	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTWSnIghenQjksDpEc4ziRlMkvHShoLDEA.%26dt%3D1780660190074

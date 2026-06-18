@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Carmelo
+– Email: antoniocappelluccio5@gmail.com
+– Country: IT
+– Plan: Premium
+– Member Since: June 2026
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 2074
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Domenico
+– User GUID: HYUXDV6KGFHBHE7Z77NWOD2RBE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802301361	nfvdid	BQFmAAEBEPImueIpX_zFy_HLcfvnsm1gFsPYPGFCrrk0UL2IPiXt6CTKdRA9TYdAkfIG69BslzrqmrlLUstvwXzYb92p40xP3xb54FpnhLBs4sJbaiSAL6i1fzpIKWO4UM7-Kbx7Eu1LNcqR0-AxI_HcK7efOnKD
+.netflix.com	TRUE	/	TRUE	1812047073	NetflixId	ct%3DBgjHlOvcAxKFBEwiWXsooup3YVWYTr0VaRf-150-psdnvbavTWz-qL82DGk25nRmuEl88yEjj_8dIVh9LgheVG9yS70nELT_fPMRYfiaa6iKmQJWTJ8-MxqaIwXrS5fbhHenMB1MySYuHeS3qvMzDVAWKUBZhNHHeRYnfRcZIJX4Oo6cxfGW4zYglTbNoAtXdRywW0GgWo1NGVRM7Q8NdoZwkKvzfwbW08CD0PF56a7a04Jl8d1te3807_e7i2ebNEF32gFE8sqSnRX6WpJWxXsV0z_7Gix5NXEgD7oOB-FysgcCDoq2x7UJX9TZqkvAwvbO56qZN882erlxHlE04_kylykHpNFkcKJin3tVs5X61l1ZhVC-9BXga01jRUdlWKSM3UI93KYJx2AnJ485MAjSWhzSqqA71LeYYU9m5u3q8k23Ioujgi6FoHONKAJNXXuL_jt3qzFc3nEsjSXH9la-q-Orgv0eSAUCoKmc6RtxqPA6PNxuUrL8ZGVueJi3Xn8QOpotM-PX1m_F7WlHxxFpGtezYQVdHNq8LKYKJpLS1AelEkvpb8HRHEkzZ3DCaNc11G-_Y6SSmtcN9haJvyadnHL4aJJUJGFgxIZ0W-O8TaDZvQMR34Af1k02FLIZBr8IPEp6_LF5MELAeaYHMjud6LnE5hwLbyohSBfyQ5sQ8gVVDIF14g4L6v5yAsIYBiIOCgwxCL1AkkFyQYXJNPw.%26ch%3DAQEAEAABABQ6O2yewNLd1LyNyABXHowvqJDtyxMVS_A.%26v%3D3%26pg%3DHYUXDV6KGFHBHE7Z77NWOD2RBE
+.netflix.com	TRUE	/	FALSE	1812047073	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+20%3A24%3A33+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=e78cfe26-155f-492c-b8fc-f66932d6e974&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1770765363434&geolocation=IT%3B21&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

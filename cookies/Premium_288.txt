@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: İlhan
+– Email: kirbogailhan@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Ağustos 2021
+– Next Billing: 2026-06-30
+– Payment: CC
+– Card: 4666
+– Phone: +905320537691
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: İlhan
+– User GUID: TCLTQADQG5HOJMR6UA5IWRMZGA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804436163	nfvdid	BQFmAAEBEHa7bKpp8uvVqnzluADND7VgEa0y-NQH6nNPYD0KLU5_XoP28--ePT9Tr62riXb33atR2Uajtr3P89TmYcbBEqTQR4PbLTGG4iwEurqtV0fQ0W4_H74urmXSsTK2KuWIAKnrTewlF_L0AveEiu_lPKPG
+.netflix.com	TRUE	/	FALSE	1809371597	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+22%3A13%3A17+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92227dbf-ecb7-441c-8428-7ebd4332dc02&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1812105014	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTW6iVvWgBtt_3Pj9F-xlR10FK-X0JApxg.%26dt%3D1780569017048
+.netflix.com	TRUE	/	TRUE	1812105014	NetflixId	ct%3DBgjHlOvcAxKEBAzlMc8yUOH3-flhiPeb8B1cjnizB0dUaKkVMQsfx74bJgOIWBf12erq_rfIFXgHRkBzA4db6cVeeI5ugqCUP-UAS1Mn-MDEGf9XrNusrRLUc0yZgiLOvVT_Npn5ImBNchnpPZq4XOcwAT_T5DHgUJWdVQ9JF8WRl4zzwngvKMnBuyQKUXb02qgxBwSbFOtDlEOlFER-VG5M2EcNhgs8ptTXgwssOYZFcTXhN9o0t6bfUgpuRWWO-UWAPKNhzIuxE5WNP0dxfxT9V3VvcySgWlniELJeU6dL-kc5EK17Bs1x4WBGIC1APK_8MlE7ADIydP-244HlosCUAJf090M72ump7h9bVeSNCZhAiW7tJJPn6YGXU6EGhjxUKgl83aD1zehyijBaCXAD761MQv2HlQigQL495PfvYbI3LDt-bxDrjQ2ZtkogH8X3ZzswPMF7JzOCHo_zwPjsnLGTpu01uSWPlGUq1FR_MUMBhUJjUXhGJ-n_xVg8ZBAQz-rqO31cvKDd3767ZF6N2Mksmubgq5jEExSbB3wOnzI1ASLuUEa6rQ0Sy-51Oshol9-gfNqzMuIsnJ3CJHPiti1tnAcV4JjjEZktgXlUxeMIBIcSko65s7fbs8McA0-pm1IvpY1bn6vA5T9QurMyhYpB1IraOjPTgsvj1TikjzuIjPOlBdZU-OOlrRgGIg4KDNoy0dNRB5t_3eYwlw..%26ch%3DAQEAEAABABRa8hgw-9_PxWEzyJnBErZXzHEEPbfSwyQ.%26v%3D3%26pg%3DTCLTQADQG5HOJMR6UA5IWRMZGA

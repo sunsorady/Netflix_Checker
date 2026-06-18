@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: M
+– Email: masamijohn@yahoo.co.jp
+– Country: JP
+– Plan: 広﻿告﻿つ﻿きス﻿タ﻿ン﻿ダ﻿ー﻿ド
+– Member Since: 2025年4月
+– Next Billing: 2026-06-20
+– Payment: CC
+– Card: 9290
+– Phone: +819077491052
+– Quality: HD
+– Streams: 2
+– Price: ￥890
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: wasabi
+– User GUID: VY5WFIQYR5BTBFMTMOYNJ2AV5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1800027424	nfvdid	BQFmAAEBEE7W5w2-MTW35ab-JNu-b8JgZUlZn-L5MKoR6GUr08YF9Ofue5xfTrFUg_GPcZvnPN-bM4r_njSJ-w9_D0UX9v9mhtOkdgd0TJ9KgUtO2yRfyE9hWdSTK9ROK5yU9wPaVX51myP_vYpP39xWO0xTHBiG
+.netflix.com	TRUE	/	TRUE	1800210464	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Ajo8cnjsfDnErrGZtYDZrhw0zlEXXOovpZkt4s11UKo1N-OoJcRpaP1czuXhHTc6ol67Ko_2mVLbEhMkEEF13tUoITW1Io6T1Zxff_Es8aVGQh1Id0zOeESERb6FYc97uPrDQst6o22Swmjz7nVKJ9ns54g2VrKvpf_CFQlV4IIeLJ-dMYKaCk2pTsxqoeJCp1eMn_4Lt-gfx3l1MxJu6TT1SifIeYaKxhp8wkAirY_pWxJtjIATO1z5xkX-YW9CrB4jEkeEKdrPh7o1XOpFl2_mchOjBZZ6PfybzMxaslx3t-XgSaEl1ERwtJwpeEhZI30VymK8COLPVl0LgLiXV0aoWohhIGZXAhi43e8sU5GvpbwW6T5bWjpyTy5MC1qlYDSzpLHRtlkRLE084JamrcVYCZ4NmKpHfndItbcd-iB2Yx6VGZopoULxQMQnmMPtMFolF6aOouGEMGSZSeE8k3dQft6ObSmcWGYatMIFoElhVSE9W6CUKz-6kiJhGAYiDgoMLd7eaM_neMWGOttX%26pg%3DVY5WFIQYR5BTBFMTMOYNJ2AV5M%26ch%3DAQEAEAABABQceQ2S8F5j1j5kIy7LRoLMtJkn-k302Js.
+.netflix.com	TRUE	/	FALSE	1800216821	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+17+2026+22%3A13%3A41+GMT%2B0200+(%CE%A7%CE%B5%CE%B9%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE+%CF%8E%CF%81%CE%B1+%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82+%CE%95%CF%85%CF%81%CF%8E%CF%80%CE%B7%CF%82)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=291be490-4799-416a-963b-e8c535b33624&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1768491095236&geolocation=GR%3BB&AwaitingReconsent=false

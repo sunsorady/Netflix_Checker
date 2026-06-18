@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Carlos
+#EMAIL          : promasajes@gmail.com
+#PHONE          : +524443410946
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2019
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : TELMEX_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:20:29
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1797028912	OptanonAlertBoxClosed	2025-12-11T22:41:52.301Z
+.netflix.com	TRUE	/	TRUE	1800052906	dsca	true
+.netflix.com	TRUE	/	FALSE	1797028906	nfvdid	BQFmAAEBEA71lbCGef6LSK7KpbC6WrVgM5LJw3EaQN_Mle4Aj4UPKogOwxeHXYPrYGfxf4LffABlMfpjzGTBo1vxAs1NSX6azYCv9Ls7yrveynlUkPuLxHjzdzCgivd7yvlXeC9uUxfoyzS3FmHxDECuG9TQ3K5v
+.netflix.com	TRUE	/	TRUE	1812301207	NetflixId	ct%3DBgjHlOvcAxKEBBlT8yDad2Ey_LlLbhU6WsCDuYHulHydrIC4n35cqZ9pkYHNuOyz4CyosYicQX52npIFDan6BfDOMKisBP7hB4TUcBjtVaDRBrgrvbkMDAvis2ROTL69XDzibjIgzXWmAhpNdDOdiDLG95oA_QbF0w4gUnF3VPfmg3WOAX-Ek8wVl2TX1tUtKWkWLqu2pYwFNk0BWH6nTZtlwu15elH__2kD3i2UOSNplZKgs12pVd6mApBeKiTJN33aoS4tiFwJf0U5NZgg-vFH-7qeJL-xRFAplcs3u1i6HSuplnwMLOBg_TfSPijFsR5IW6tah0MJy_7Jalfvki4sSkQfFcgUnSxV8smY4LSfWqye4ovYL1lcwjK648LoODIOrAyIdGjWAtV2K1wk8I__rKlXPThovc2yywgqqjN7DEyeCA331UUMgj6I_b4kn_ByLkMoRpS8N1sDTwk43nA2WrBz6-HEimUYMBO7BcLKLfNwsR1LBrZ00Sn9PLtfiqaF2LW6x_dxHQlhOGWzH_PREsOyxNUSzB3-GLg_aDCETgsEFZQOUgUraV0FAcZL9wOEoklhmTA43tDF4XITX_O0hOug8OxgeuspTwLahc-st3XFQSHxCGfj6R2CFcXodkglA2ohNEmbo2rFOTVn3w4boj9s8hmXVWJgl9PJk_BovBbCS_x9Q-q_mvj3kBgGIg4KDNTfgLT2uhVWheX9Xg..%26ch%3DAQEAEAABABSmoZLK8i_Uvh7BGq1GIEd6-FX40mpCalI.%26v%3D3%26pg%3DMRUUI2NPXRDSHDSZT6SZQ4HOM4
+www.netflix.com	FALSE	/	FALSE	1780851609	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1812301207	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSM15lwwHILSD_4wxEW_s9JCrZRgrebNfw.%26dt%3D1780765207599
+.netflix.com	TRUE	/	TRUE	1780851607	gsid	6c51badb-ce10-40e0-a435-09975ba3ae7e
+.netflix.com	TRUE	/	FALSE	1812309025	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+13%3A10%3A25+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80e1b133-6d21-4e39-b9ae-8848fa3795b0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BNLE&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788549024	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788549024	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780775202	profilesNewSession	0

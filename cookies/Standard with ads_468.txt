@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Jayden
+#EMAIL          : kellymariefrisby@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2026
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard with adverts [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6261)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-09
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:23
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1806279321	OptanonAlertBoxClosed	2026-03-29T00:15:21.826Z
+.netflix.com	TRUE	/	TRUE	1809303649	dsca	true
+.netflix.com	TRUE	/	FALSE	1806279649	nfvdid	BQFmAAEBENYlHDYdXk-Otk5CSVmrMbhgeeV6-u22TUefiGIKHvg9kHGpU2GcQYVBwfoYnbgh8hzp3gsFMlkJJHJkRychH_4jJcH2qR9td_siLrtm3ScClJFKSzePeaVs5PrFL1NPkw28N79l3St64BaRfDC13wAH
+.netflix.com	TRUE	/	TRUE	1806794633	NetflixId	ct%3DBgjHlOvcAxKCBI4e8c_OAf3NwwET3ZxNnYIs9X5UCAxI9BhvhtuxO9qPyW-aDch6sQY4v_jHYK0akqR5m93-EJ14vZ1oqofzbLUQZspoOt8WT9nZgPa6jAfhitj4ZCBV3-bTLPl3gu82BxO9avafbaSfilXu4Mmzl6NxfkgW8Bvbd4FQoZ_mHYYVnaj0OQlq0BVZGf194-n5_cshuAQV3MVi1FMshMM_Ue4oZay3OlTY7YpBgAuCfKF5vAyNwX1EZPwXfRz8DQpxB2vmRnLeJv4eL5OJJ01rPaIMv3lNmjQaMOR_i4U8yINh6hLS5AC44iNTECppkMLYjHGb_yi-Ry-xYZZppcXT3PlZwUhCEq23VY7YzTjpfnN9fESCStpzzcmEzdyNwFxQC7D9PIH_D8zToen-ARs-p7TRIzY4nUWRN2KO-EVBUXVpSKYWLUGFlz2uqyaPdhcTAufy-TUI-GGsUI_tyFr72ZuJl_uPtc9r9kjVygRtthXMoOXWNDLAKlRElxv2Xj3S48WPMFfeeYBO7G_8tz4QCa4VMwpzb8WT8Ph2mVlo2o-8JNKm_l8spCZieIBe1McEX6Jp2BelrsnT6J3dgEvLv-RAnNo7nNHS5yOclxEIILqB1qxZf831aH9gR_DxfOriI1cznlxckh1Fwafi8_mWr45bWp6VElqc4tMUC4OlpZEqkFEYBiIOCgxny1ObeCfJaYsaa4E.%26ch%3DAQEAEAABABSoUDoJePTfuk9zT5RgQCmGVTe0u8V9cH8.%26v%3D3%26pg%3DJWM3KIVWJBAGRKUK4HFDRZO6VQ
+.netflix.com	TRUE	/	FALSE	1806794633	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+00%3A23%3A53+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37c3f952-129d-4264-9a85-d36e85a35752&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774743322150&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783034633	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783034633	netflix-sans-normal-3-loaded	true

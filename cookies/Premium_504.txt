@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Pierre
+– Email: soumsoum999@gmail.com
+– Country: FR
+– Plan: Premium
+– Member Since: novembre 2014
+– Next Billing: 2026-06-27
+– Payment: CC
+– Card: 4977
+– Phone: +33612737055
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pierre
+– User GUID: KJCPSDTX65F5ZB4JX3XQPSCYHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788894825	nfvdid	BQFmAAEBEB_0Jqi0NAtNruii5DKtyLFgnSCdqgSuHF4GBgxH7TT_zBq48SamnWGkfqJ6NxHzaT74YAK0UyERErDElPg-fT3E7iKxzcRClvl5tu-W_DvCvaWXsdqH0aRrjpV04wIuc3eHr7Ey2Zg-lVcTvMmwWisR
+.netflix.com	TRUE	/	TRUE	1800044633	NetflixId	ct%3DBgjHlOvcAxLsA3nBByR5mV_yWCFepJ9P8PY64iaV3M86krPQXwrGJXsD25bp9n0YT1VKs-Ekn9yb4dLoXEULDU-kmZkm89BAjpA6-A4Trb4i2_zL49N3YCOC1oiajKvW41ezhwmsmSZkSXUsK3wquSqUKT5nBuFmcYzqX7U0coh4_H2DunQjpuaDfeYkPVtrx4depvp9doj872ZSKms2sl8SAyitbK2TirdyE7Ry2glDxuM_WXSPMzvzNFoVMxk6kWPc8wWZ2CsfTvI_3mI6Do4jq1-clbCGg5tmupfd2hzRv4Xj8D8NqQm5FAomUzKI5E9naFwe_Qz14llgD0XtQPgDqLESqXoRf0s3LyH5EfOZdKxirR7eZmx9Pj7JCnjZdaBpbY0I3dLCr7ybO_rQiqBIwFqFUVGeADaIbqNTO2EXEqQQU680AKm0rbiNwWxL4aZX6Kp6j32LBpsht5oLDCsn8kejWV-32MLYwqVM8ZFIOq3wRonlNyhcLIHjqQ-ownFOWnzZvTjUnFc8I-BxWl_8dhbIhvWSspiUK3MKlX9gO5d9Nq0yyuEnmA2nG-zBJNcsmEDtpIWxU8N8AAf3yrWxAz1fGY_BwL6_2VHsIVobDkZhb0YScWu8chVYTTfHE54ahvVnOfU2_TvFSyYANaQ2K0Ll6BgGIg4KDFG1eV_hYBKgB4665Q..%26ch%3DAQEAEAABABS8HP8dNGGGiGCYlAsRZN3YZwh_WgjGbP8.%26v%3D3%26pg%3DKJCPSDTX65F5ZB4JX3XQPSCYHM
+.netflix.com	TRUE	/	FALSE	1800044636	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+21%3A23%3A56+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=217dcd8b-317b-438c-9e6a-1ed5fdf001c2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BHDF

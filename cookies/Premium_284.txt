@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Baran
+– Email: erays2017@outlook.com
+– Country: TR
+– Plan: Premium
+– Member Since: mai 2021
+– Next Billing: 2026-07-01
+– Payment: CC
+– Card: 8589
+– Phone: +905458253010
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mustafa
+– User GUID: 2FYQJYCW7BHNNIWLSH45J2MCH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1809173634	nfvdid	BQFmAAEBEN122-_udf7CtclrWS8Evdtg1-tMmdwZ4vu8tMugIypDJsZdIkD_olrAaEUiJHMw5wPEWeKO0N_yYR_xy63K3Gbhe00LIjazsg-vtnyqiypMhJE6WVz4UPb4kaY2Lu9ORX_00OqbTd3fsTXTRT8KaNVk
+.netflix.com	TRUE	/	TRUE	1812310565	NetflixId	ct%3DBgjHlOvcAxKzA6x5DMuZlm06WPdhoL6kn6q_TQNMwS79tHCNVeiVhF9fjSnW2E_GynEk9qLZkqdRXwUwZRsiBvMcToNO-x8AEQDJMqaM5oiZDmn9j2oS6Kbdh-AvEqSU31YHxR8dR5VQN_f8QqQPyLBvit2jl5b3jsNdGmPJJTKaRMhVqJbumMJWto9pSQaGEQPtFmqOIeLFfzkvwExDJj_9YYT9rAhLTyZ-VBwqDA7KyTAYAao4xXCkmkNHnRYOSk560WcPScwP8geS4hbQ1Q91jJu7TAQLb3359VciXAQq_KM8Us1McN4inF4LDdi6Yu4bgyX-V0TcQJ1jgTkyyIql2XgvlUCfY89LShyXHKW6uF9OZsTisWxx9zaQ3-oNdPsYPYD4Rc4eY3S-FCeYqGkDVChMUgRVWJrlw92z41k-R_L6OhdcWiCcUkZhjLPII4FNBa66L4MeilhS-lsY-TPtSlOBoQRHQKmP_4J37FpODvp6uJselY7tXSY7fQUD4UCo2inI6pGToIWxW02KG0To6PAa8bzkR5yNu52ot5GSuOXk3dMZnK5fBd610X4bGfqBJbTvweJWrlwzYBgGIg4KDGLNtO7gMLETTP_7oA..%26ch%3DAQEAEAABABSOUYiOR7BDaPZnAmG_tBmWmfOe1mp3sHo.%26v%3D3%26pg%3D2FYQJYCW7BHNNIWLSH45J2MCH4
+.netflix.com	TRUE	/	FALSE	1812330088	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+04%3A01%3A28+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=2b38585d-8d37-48a3-8cc0-ed0ce8a73477&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1777637619910&geolocation=TR%3B16&AwaitingReconsent=false

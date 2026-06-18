@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nhero
+– Email: mariamartalara2@gmail.com
+– Country: AR
+– Plan: Premium
+– Member Since: enero de 2025
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 7807
+– Phone: +542804880219
+– Quality: UHD
+– Streams: 4
+– Price: 19.999 ARS
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Maria Marta
+– User GUID: URPMY7FYWFERVL5LXCPKD4CFNI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784234204	nfvdid	BQFmAAEBEMZnjb_sfcnDexImcMJyLjdgrq6Dhmm0O1lupZlE4fFxG7FXTf_3dQLU-z2uXrC-4CGMQxNBbhM7fmNsE8IWJpfRnb3LdvXk3ItiQxziCQB7HLu_NdN_LSnWqAi9OdAaAjji0uJ6dtL4EjPKSZ1JWEjQ
+.netflix.com	TRUE	/	TRUE	1810043424	NetflixId	ct%3DBgjHlOvcAxLJA_8mO5MW3dRw7B1NlRu_8XdFwmkv2z0LHhMKjvJExh5KP9j9XSUkYImBoLc1215hjLeAXllSdi9_wp3mKq3G6KjH3o7vEJbpIOW1WYp1y31pbMDgql4sNwkko1_zBfNRSvfX5aHmJZs7Ney5T69hmpr82lEzyLjgSp3ubY4J084cjHdfvcol3sdeuhw_TqGJG-Pg3rzmnRNZwKAnOjxrEwzEEP0lSQ6hXd9MBA5QxTHHnHuWGUyaG-c1eEUFawSCQRCP2MtkTnaIccO6veLENRy8xzOm_BRtBmS8v_jbbqweiA2ArB1OxRXQ6n6pNAxUShBkjArDk1vQOqZRSTOKvejyNoKOp-gPcURKJ3yjieL4wp1By3boluhd5Smvub1lxpZRz32S5xYi3hrxCWAihaJMs-0nhS03s3JJO9JZS-JxXVHamIKIyjZsx1ZHEJq5VcJcd56Um6cbqMs-Gpr6l5C0W3FloyFXEsT5MFe5mTOQ766m_JQ-Ia18eJBkt-k8HSYfgNUPfSDmKqFYG657FiSPQXdXmOSywJ5AeQt-y0OrLxahqY0JKbOSeBTZ3ZZZaPMkqBDzkrBNlbGYXstWBjir2U5Su71DtMsYBiIOCgySlg10NymLqzyrtbE.%26ch%3DAQEAEAABABQIDwghnermIk5LtPbz4G38ffQ2u0fdv2M.%26v%3D3%26pg%3DURPMY7FYWFERVL5LXCPKD4CFNI
+.netflix.com	TRUE	/	FALSE	1810043437	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+10%3A50%3A37+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14f8a966-da7f-452e-bbbc-09c89371fb2e&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: brothernet49
+– Email: brothernet49@gmail.com
+– Country: ID
+– Plan: Premium
+– Member Since: November 2025
+– Next Billing: N/A
+– Payment: TELKOM_INDONESIA_BILLED
+– Card: N/A
+– Phone: +6285819060837
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: brothernet49
+– User GUID: SE5GBI64XVDHBHKCKDG646NT6M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807767600	NetflixId	ct%3DBgjHlOvcAxKPBFI-BYzkDiXDMWTOjBvtNDhswR_lvSUPLSREYanBaG3_LKCyfeleBuyS8xFZYuvH4P8c5O3Ii_mT6WeIy3pRTsbbpvXegmP4pzEfrPeaJIw2AOjv65vSgN6ChDEOedt9dFarjXipWrZUxgqPyhqx-Z8-j4YuGM6uMQmIWQcViqC1sU-wBbBiVUkyStbbFnTtOVRwzselTEUQd3OaYZh0uKRAeJz1HCvBkruaGWcASRzPN52F78Be92ydAykzEPgIdawVZAKU82Hrwkug1tEjx-u5bprDKKr_Kdo9Pbw0cisgJ3sDtKDJJnG-Yx8ag9WQzG4s6J2Hd5p39arUtKusHP6vp-pxgIte_b3u_6Y5C-1DHoun4zeOfMUqBPHZPhZyZqcgWqj44S4SXN_7Untmx5JCUqN4Je8mgEBrr5Hjh6dmahHG9Ngleh8DDM2bijHlBwXisSSQ8mjqMrD45BQ8DbpTjXkjBgY2shtpgIGnlY7i62ludTTJKZdR9bgDB697KlZN42AmWNahihmlNcwAzIGDAXpAwwiSZkxihUWOtwzWOLhNfWD1K6R-0qoUAu9fJo_hex_E629hBMGf7RukDhiO3G8Rh0nKCWFmyj236zxg8nmSa4VWPTmm3Mw-xKUMBs_uI7lfq3P6ZeR1B2Q2_XC0nMZYB2mtdhIJLb42tbgHE2P65HwIaA9BkNK4RMi8GAYiDgoMqqD9uKd34ojgpAGW%26ch%3DAQEAEAABABQdKl_sqoKUMtcrdzaAegaB7YYw6gpDluI.%26v%3D3%26pg%3DSE5GBI64XVDHBHKCKDG646NT6M
+.netflix.com	TRUE	/	FALSE	1807767601	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+12%3A40%3A01+GMT%2B0700+(Waktu+Indochina)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2327ca11-8a96-443d-89fa-2ec22ead8386&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770431243668&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807767600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRNar0n9fhPAsfVVBxycMg_fN_iGyCrc4o.%26dt%3D1776231599949

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: neslovers
+– Email: neslovers@gmail.com
+– Country: TH
+– Plan: มาตรฐาน
+– Member Since: สิงหาคม 2568
+– Next Billing: 2026-06-28
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 349 บาท
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: neslovers
+– User GUID: FQ5XHKKVTBFL5FQ2GD4EZQQ7XI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1841406510	NetflixId	ct%3DBgjHlOvcAxL-A34wTauGHY9bWbO3icHdhw2wCJxsXNtoW7UqAuJzzEaLvni3C4sYDdaXb7YX4qAYnOXPYFKbeNBlq1CLsh3fQSneWEAt6lIkZ5ifiLYEhogfH1JD4Za_175-LbcSWtbONtYgq4EOsfjBIpcpCxvV2S0zfqTy8hPL22ydUwnzJcODmwUBUI92w10PbjJDl2cZUyP1gYnQO-lDGlxVx6F0YUJKbUPV5FydL-CkFqZyLP9jO-I-OB7qOqqlKLi9_gcdJmszM5WvZTfzTQ2gcPq2lvSjAY1G-BazKfnquD9xIs6x2S-wMIKDTEsX7_hvUXY9USM_-pdH8UxEc68hWe3MYWkfx86mVtpgIHJUbAA16ZnYcaFPs-59iGU-immvDA_ARIR94gu8WWx88PuPl3QmaJ3f_qCa5RIys0V6j-D5yeN6d449i_ZXPpiWWsAuniJBIjlmiwNiaMNI84RP5XEzqCdSdu3BNnw3jmnqUm7mmsrvl0jWW7d0q9d5nAkGmq79Y_RSNnYZQfyty7xq7imnHsCe2qRRmEPc9tZBV317S2nxuSzAMUBWJTSKRfMODJkeEfyNivE0KfnfYqrhkl_nvHyvV9VUpMiiEzl3J_od-g0cGiLWZa0LlPlCG3ffooQdkqtwh5eGnEvkXoBYfpC-6X6xROit0GZIMK7i7vTGrxgGIg4KDDVqFrm55w_gMY5RCA..%26ch%3DAQEAEAABABR1wtXI6dmIP9qCEDD82Ao22XCfCP6e5sU.%26v%3D3%26pg%3DFQ5XHKKVTBFL5FQ2GD4EZQQ7XI
+.netflix.com	TRUE	/	TRUE	1841406510	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTS5mfGdKo-vFgx42uWgal2q7UOMlnmI0Q.%26dt%3D1778248110679
+.netflix.com	TRUE	/	FALSE	1841406509	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+20%3A48%3A29+GMT%2B0700+(Indochina+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58d8382e-1b0c-4b64-ab8c-c3c5798d9148&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776689778635&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1839848202	nfvdid	BQFmAAEBELuQGOnqmTJjFzXcqrSd9g1g2tTqIVVDplP5twWEmNG4GswN2V1FKAbdYZdO7_RQoQ8A_GHMDeX4AJ0oPE2yIys7sRuxLJhTIjfbgeOmDU2NTRBb01IzA5ANLLBktQ-y6cnPfwmbqPmP_8JW7PE1pPXV

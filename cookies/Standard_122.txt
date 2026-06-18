@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: PierreMickael
+– Email: pierre-woitzik68@hotmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: novembre 2024
+– Next Billing: N/A
+– Payment: CP_FR_BILLED
+– Card: 8475
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: PierreMickael
+– User GUID: NQVBAHMAYNAHRPJZTOUZNUIQIU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803188633	nfvdid	BQFmAAEBEDZ84k6t_nTI1nLqQFhRXeRgSvilOgjeHLj7HUFpEc1MF52CiuQaWbJ9MMqzukIsC9tOZh-okrG_yqa8HzBYpg3gDaUsXZYqg7805g7MrnpwyGbJq5dw0q-Q0DkPevxNLSrnLbtNkL1Y4KGnOmDSl4P3
+.netflix.com	TRUE	/	FALSE	1803205840	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+11%3A30%3A40+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3434969d-a488-41fa-8cce-4fe881f972f0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771652587625&geolocation=FR%3BGES&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1807369505	NetflixId	ct%3DBgjHlOvcAxLEA0OXwoLFtYlA47gpczv5BMANUgMK07VWy2ym_TrH2jrmo9L6Aw4Nf5pbndd1RaIcID16DW6paDt2uRr1JSrl3VPa6GbnZlYwQemeKAhGeU5i6A9RtO0rLp_gSoHNS1W9exIgdcOw8PDfFYIs76qzFnX-FJ6_CuESTuXfm2ukafEqf2JfynTcUTk4fy4qqCkU1WUEt_krBnPRjk0ESlxC2QDZoBWBKsRfWRiOf74-CMreaLCst-BPQTaFVwWyhF29YW8-zOM5g11U74mt_y73PF_f-ETB9B_dT3jOVPg4EvuDWeXnFvO5NuVLNI-GKJcLhJQkm2oxaKXwYmpD2sObvvInq9cJ-MKo_oMm9rhTyvNxrHo65-pLDOW2E2Vh-MNgxmmGUG7ZPJJlp83OJpSVQYsYFXTICWkWwED_bmYeyalIwjQpj__PRLPNfWogay8yb12KVnw-IRooW6AdDFZ8JyfyiSpy-ewpxGdCfkt5frey7m45sPBCdrVD5bCznmfxFo5OXJxaJfarRJvhsYXBF7G9SJKlJtUgPzmwoBdBq6Qft5rquJFqWXeD38yL5xYmXIB0tw5207YF5Z4Zvv_6aiP3ZVjXGAYiDgoMxAH-nckWd26qFvkF%26ch%3DAQEAEAABABTp4bqyaYQMu1x_Dg6uTHuxsysS5pDvSHc.%26v%3D3%26pg%3DNQVBAHMAYNAHRPJZTOUZNUIQIU
+.netflix.com	TRUE	/	TRUE	1807369505	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSEXg-Xwz5QQfI6wh29v6CvzXF6r3m99WU.%26dt%3D1775833499428

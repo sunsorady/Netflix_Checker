@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Papa
+– Email: matam1@orange.fr
+– Country: FR
+– Plan: Standard
+– Member Since: octobre 2018
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 0767
+– Phone: +33664788383
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Papa
+– User GUID: N5FJO6GCSVB7VPAF4R7O727TCI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791011794	nfvdid	BQFmAAEBECsk6g5t-O8YDeiG7f2mXoZgAiyKfDUYQjhJNs-ezAUgYPh8jyMdSShh46Tr1U_nNuLxdKD2VONFoz-Hvq0U4V2PYKw9p1ylfvDr4rCkrsDdx906-fMmcaF6hjuSjJL4M8p7c_nTbvnXdb0-XsdpejTW
+.netflix.com	TRUE	/	TRUE	1804688084	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLvAmgxsOcvb2aRmReDhfYCEvnKMeC3KrYixah5YhXF5bYRPiiQbrPBHbGH2Rb-8Ty2qxXs2vm84HvzzH-DqDifrbjVZzIkByyJTVk8DHvTqhvKWLxDjZAZNuO24wO0IzczXKNMpWbpglVxlNi9mq2sKrnXk4oY2ILsHfcFhJdQzjxOcBJCPhcRNjimH2mw3dgGdNRqUALO5rOHTqG5ZPOSP5-XoIHXlfoof4aBK0FcYRGSXdQrJlLUzFA4GdpCtFURG40SPxK7cYTEgN6QXEY49rvgrLum4-IjOZujMlvsnlELJf_5AOQkedAWBtyaSWZwP3q2oYpc2sQ0_Tt5jbPsV82SuQxy9fRaihOD8b_gPOcB8zuACp3b6To7RGFtAcrywXZzE7KTQIoA0_XODAiN_RSe8g-Lhioghn15xD4vaqs3zJs39HCU-9cX9n2y1guxeTtN763kX1B4pIiXvro3RR5cwtkU5BW9xjMgjYR3Y2gYBiIOCgy3meI2DjghLEeVUdg.%26pg%3DN5FJO6GCSVB7VPAF4R7O727TCI%26ch%3DAQEAEAABABTsAUtNBksHUDYNbDCjcLu3zNF4Zn8lJvc.
+.netflix.com	TRUE	/	FALSE	1804688085	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+15%3A14%3A45+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=afe4b303-5a98-4616-bd0b-6750c6fad0af&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=FR%3BOCC
+.netflix.com	TRUE	/	TRUE	1804688084	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSyAeio-tLTMmJEjQoTKfyL4C7mCoU1EPQ.%26dt%3D1773152084520

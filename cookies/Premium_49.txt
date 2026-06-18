@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Fabrice
+– Email: yannick213541@gmail.com
+– Country: BF
+– Plan: Premium
+– Member Since: September 2025
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 2507
+– Phone: +22676339070
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: yannick
+– User GUID: QQT7LSR6MBAKFPHBX33ZHIGPPI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551684	nfvdid	BQFmAAEBEBW9yAaArDCL4leUh-XXDZ1gE_0kDP1EfJe_ZfD_Erc-4ChnF4ugrdOOQn2u58Yj9YgZLqn214Wlx7BzY70LdGalorf4jOV2UBlmvnHiOYz0eIu1ejof3XE6Hfx8s1CYflaWRludxe2HMQS_DmmlKzAf
+.netflix.com	TRUE	/	TRUE	1783551684	NetflixId	ct%3DBgjHlOvcAxLhAxMl9xLHb5bP6g0HcBWQElmi6Yq_6qbtwIhgrpbzI1UhgeNkOyO56CFDleV8kGZd6g0eyWQ-40d0LXaTLCPLw6LO8mzjaN_8DgBuq5qw1x4lEFOwMCCfpOt-ziWDH_Urhim7OGFdaYrG7wVJm2vMUT35KK6jIri4Z40pLBvAWdOGYoPokv3A940vuzZejH7Vk3rD6lYiX2hyUfQO4EvC8SPkZGH8qCfytXSe7noZPf7Oz4uCpuJkhpWz8RtV-t3_hMWn7s_JDf7IjncHFvikHvOLOaK8cRHEaoPkXxETM535b-19TKId1X2xxqoqBBzsaKKL4vNvR9x1z8E82mVayjWS-htnu_UspQPyAdE6ENvCh7EpXfE-2UkR0n2KgI_hV_IPxKSfZAxj9cApeKnvCV51hYegVd1Svc984l7ff-NEkVWg7iHLkPWOKJD-JyUzPajkSSiyHilzQS8wT2iK3rFJrkaaU3LbU1e8zXBS8_kqB-p3VCF_WUjlcQiYCqFHfj214kYHwlv3kAunYbHRQTAYJS8wIp_oW4vnc-bXNF5NDTo0crAnp9H43fp0mFMjcXw4afm3n6iUsqjas2Fslk_E-d4TUbQBODQOqwaKMoUGmPtxtTxxDBmO63FS5oYsugQYBiIOCgyz0MDIbzWi_odEQvM.%26ch%3DAQEAEAABABRUAVvyFd2HPx7Fs53A3t_wyUHcxOP0cd8.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783551684	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+10+2025+23%3A09%3A17+GMT%2B0000+(temps+universel+coordonn%C3%A9)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83b69e8a-9d54-4b6b-8d4d-a02c6eb1b2d9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783551684	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRujWrdj4iHtFmGfqmc4lsr1GWHPOH55so.%26dt%3D1744326550484

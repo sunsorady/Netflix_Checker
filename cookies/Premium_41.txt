@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Poka
+– Email: gmcuenta.14@gmail.com
+– Country: AR
+– Plan: Premium (Extra Member)
+– Member Since: November 2025
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Poka
+– User GUID: P7YOQ27VMNEFNL5QPU5N6OSC3Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1802664445	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA5SoDZKzt99AuUPVNO7X1rCKz4fn4t4ZSSNfRo6iC6-xdO35zzgBpQT39hOcNzeyMMwpJh6lfEGZcrQHvXIjzuoPmoLV6IZHI2WZ1NGtMfA1EPE2SZ_4GF2b3CVF6_K8Sp1-bp89H4-ImWIT0VEgylz9E63nxT963At1anhGPoqq7SBe9G1EI3MBVir9YJ2ptqDX9IhASI9pxX6xKfT6FFSQoQAuIQZ3kGuyuGn0e6-Ij_Z-KhCNq7G_DxMFzBHRy6Udg8RAagEdruTfMj11bYH5YsrIKnU1vyde6Z7iO7PyaprJp-gmRv3ZvbvtxyF07GkOYwi7OhVKtl8cAfm63_sqWzAYuRbXXZbqCjeWRWPMUavq6T5TdgoEeMPZBFlfVMRWAmYnbWiLJuwmMfELb9EozPHFGFAKTAjnZmwZScB7K9z2HAYXLVJl07PqLITdpD3dNL0LEhBO3GbPHgtTnCQ01Ntv_nRosKXfle0jtmAw0_aP3mSJcEFSuvGEoFa1tRxJ7rcEAXkYBiIOCgwkhjmaP2qoMvhxYrc.%26pg%3DP7YOQ27VMNEFNL5QPU5N6OSC3Q%26ch%3DAQEAEAABABSgmSKYq1n8fGlDeyJcrbPZZN_l0Gxf9xE.
+.netflix.com	TRUE	/	FALSE	1802664447	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+01%3A07%3A27+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37fbae8c-5b2b-4e51-8887-5987aac9c986&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771128445309&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1802664445	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFsGfSBwnuJ7CU2D65LbnK5Be7guefT1E.%26dt%3D1771128445197
+.netflix.com	TRUE	/	FALSE	1802664445	nfvdid	BQFmAAEBEK2rn6DBs20QtGQcjounojlgv_Cm5FxXLlciL2KI1Lda0tXKHLBvrp1JMBjKXvCo1Tyqg38-40_oS0Uze8UCZ3IZ3AQR64qvlJeG_ne4pzvwx5fu9CuUMhQzfe94c5ok1qBgiBIiW6Mtx5ncKrIXOT5H

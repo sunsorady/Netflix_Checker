@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: ABEL
+– Email: dacarzadavid@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: mayo de 2022
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 9000
+– Phone: +34638940206
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: DAVID
+– User GUID: 5ERP2Y7GYFAYZLQPW4ZWQ6LGHI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782232367	nfvdid	BQFmAAEBEEU4CqMRA2LNC5DMkwMVh3hgeSkKPND6tmPy1N4AsydBIoF8_N-IC_UWPnyv_yH__vTiQRhfELtP1anrEThg0h75WJebI9-6ZD1DOR1FVSo4bLEZTJtT0XCosBPN6ieAwstnvZE-c6PtwiRF2V3Xe51o
+.netflix.com	TRUE	/	TRUE	1805651402	NetflixId	ct%3DBgjHlOvcAxKCBGnmQ5h4x39dA6C-VLsc4mBZ1nOXBgMYIfoReRNmbizI5vm7t_gD2U2CzcH6Hjlc467l61z7kU1Q56XGnNFzdUNqA1Z-X75Yk0LOIGATdk6i3HZJbCxr41zoIVQqwg8BGZn0bil2dhazqrhUiM3vh015OerbPwJUncd2qJLl3Vba81pSCEe4kd4Q0MrrzCzCQrpHZtP2LXGhWFflfMi0NpgXYymDsHlcVkLjFjukhXe-ixs0tdU5RJrX-nMrKUJL5va4svwct9Zj4gGIoR3ef5L_fowX-44Xo_3MGZeFCOm11fqdZEVjF4jboj6TSy_aKFQ3lcDdCz2Vomz5nmFzC9RC7WkcyfL3EW0EMrx8b9kASYxGtudUaT_E8QbJW1N3LlIDyFHUv-OOEYV9HU1FA7idp62eqdNc2KGF8tF6DxqTJw5s_PwPdSYoahHt-IeAtPWKsHaVAJ-e3TA8llKAXwsX48RdpfeKzDM3Dwf-9fq4K9EdwzmX7afonM2QrdFEBftov7m3Nn6xhEDR6Xpgs_pIjXS0gnEcklKwARF1xeAg1SbQZ894J9xetY8M4CViMgGdNvB5idlG_G8a_HJCtq1ENhsdg2FgNO-gWp6C-cMawXyKnpHN2l-un85a-PpmbkDR2NJg4Zldoe-Kay9oAv09bPFtrj6yhjWjbIh47vWRx8UYBiIOCgycBmaR_7ISaPqXy-s.%26ch%3DAQEAEAABABROp3GPOt6ZyvIu38sWaVDS_7gzS1d8xvs.%26v%3D3%26pg%3D5ERP2Y7GYFAYZLQPW4ZWQ6LGHI
+.netflix.com	TRUE	/	FALSE	1805651402	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+18%3A50%3A02+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=73ccba77-c434-47c2-9e50-87ab2d74c4ed&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BVC&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Inma Muniz
+– Email: iaminma03@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: December 2022
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 4859
+– Phone: +34696843144
+– Quality: HD
+– Streams: 2
+– Price: EUR 8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Inma Muniz
+– User GUID: FEZI45TQTJGPPFOQMRVLGPTG5M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806018432	nfvdid	BQFmAAEBEL3cuLDtacrCbqn_jptFOplgB5232RgO4WWYhQ9ehYlexOdxyc1WKrwoi2o7exhzcTGnxqG5qvLNP4ucNMIpsYQgcY9Z7RRiee9w-SPlb9BIM2XQMW0aYZY1xKfeRF1UbVAflDtqa0wGY8TpBPyoOlkD
+.netflix.com	TRUE	/	FALSE	1807830287	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+01%3A04%3A47+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=15a6484b-b2cf-492e-9f42-090423284862&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1774482418959&geolocation=ES%3BAN&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810125772	NetflixId	ct%3DBgjHlOvcAxL_A4Et2BdRdzQjGFS6jYDor9S4cFAkWYtp3j3Mtxy0ZJzhHtnjlNq9qxvAOFjSzF-Ljzmm8k2X924Cgt1kPByr8xSJOB9YRt23oadsBPc-JPPSGg_rIwAZnO5Rasd16m8exgdcThTz9by130yogp62VUXPCTqjyBpBnMhf2CVwWl21duXxmgMzzywTXOwd5K-2aRkFKV322IjRPCPdia88Gxevwo3d3HWdWDpJw1vcNp4ZiUXFAbuelMCQFG98cuFStufM797X2vIbS0XE3J6H0KQInFbU8f0QK54saAss8uRcaSyVAaSXgpTTN9Vl1mYjPztRDihhunbyOs3EWTCp4nGza1kQHDryQyVJ4YhId_jlDN_tUL_rE-BCpf5XW1fSWrdFwMk1t3IK0kS4UkVEmP1EPcXQr_RjXTn7a5HT_wNuA785YYq0rwZC_Y7jbDaZ5PdDEctGYRRgHzttAcOcoHmus74UIjTQYPo03c8f8pXf3A0kpiP473O3vlOPSIHv1iYSL9nEcHKAat6Qsb5FQETlBCA0y8teNbC0VlN4klp1mTd7iMg_FQfWRnD0p-ZBpMvLH6bfnK0xji-X3KXg9rAgB2IpwafnNtLPuiUfDwtiDo3as7ZA8dPFEBYdxdM8SWFw00h2G-w93p7tajndAnhVcYCZYaypxhwoApIT-sYYBiIOCgzYOAh_SU2DjsnmeRI.%26ch%3DAQEAEAABABSTAKDSuLldAStOF3WyhfCHB6Xk8lXSfXg.%26v%3D3%26pg%3DFEZI45TQTJGPPFOQMRVLGPTG5M

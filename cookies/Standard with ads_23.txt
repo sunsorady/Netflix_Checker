@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Pablo
+#EMAIL          : amigoamadorantoniajos@gmail.com
+#PHONE          : +34636452385
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2026
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2747)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:06:17
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1810559595	OptanonAlertBoxClosed	2026-05-17T13:13:15.725Z
+.netflix.com	TRUE	/	FALSE	1810559689	nfvdid	BQFmAAEBEIZB4VEeB2BH8FRvcUKGbydgQY98ldvXPdzzfPhLh_GR40I0R-yWy0Z1kBR09llMnm3nvbEhOESvSLQvTp3o8yRkZ8RifOOdD6Hq6sK4EWyzPbdl_hVNtIABZMkqC4k2oPbKsitedrICniDshTJUxCfU
+.netflix.com	TRUE	/	TRUE	1780000392	gsid	a4165e67-ce93-4364-bbcd-0bcde4090200
+www.netflix.com	FALSE	/	FALSE	1780000406	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1811529656	NetflixId	ct%3DBgjHlOvcAxLjA8tudNUOuUsH9DgJNLCIG8jDrcqLlrq7LBVET92m-qn4Juhd2Qh1IH0XgFoCaQjl8myWB462btg4j0fKbn1tD8WcSXhwAh8D3LGAxzHq3GWsZhZ8Aq0deN8H2MLTHg74FcvylPE9bl1kVgfiZL_JgSJmGDA9rAM94CL7Qv5rP-CO_LY1yAe3c7QkWmnCGOURmhG3ui_STCoC8wRPTZfIj3s3ZaP0JmMKxgwPDY70K2CsOILNtdY4unIJMZQFRkrBBsredsb-XzzuwKNg2PimYvZ1zlYP-LVbhE7fuXZSHXttApLQvCqWkAePxI5afP1V64CEH71cShhm0XwCBLW1xPTZG5oNOO8c8USoou4WRanYAQ7sPoU5g1jw4TBMoojHSs2K2wK7cOJZGnDaL66761fsw7qpt2MoXWOD5ffMH5Ht68rupj5keUfftKkGWR4jkkqWMV-Cko-ZodglzIIf_bmOjxu2APzp-0gqXGy4SvLJEY9d4rR62wwsdSwOq4VMSIASbA2nZc4SrM2zJM48LsP-IQQ1tKFcMsMHjNmQye-fVX2UMZHI8ebXRye3qB4MoabgZfqebZT8WNaYYESjmr_2ZZh0xT8SlLIXPqPpj16N1YvKMAjBwInD0W050RuRcA51ZxgGIg4KDJmZ3SJlj8GcOXz4qA..%26ch%3DAQEAEAABABS8BKOqthelbTqF1NtjkhtEOAJcukcDCAM.%26v%3D3%26pg%3D5SBDX6ZGRVHR5D4XWNOOAVCA7Y
+.netflix.com	TRUE	/	FALSE	1811529657	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+20%3A40%3A57+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fee5b033-88aa-40d4-8b6e-97118aee860b&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1779023596103&geolocation=ES%3BAN&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811529656	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTj7Is7gsWJ36id1LiUlytw154PAFz9FUM.%26dt%3D1779993657334
+.netflix.com	TRUE	/	FALSE	1780004456	flwssn	0c577e85-595d-4570-a425-9750aeba7c8a
+.netflix.com	TRUE	/	FALSE	1787769658	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787769658	netflix-sans-normal-3-loaded	true

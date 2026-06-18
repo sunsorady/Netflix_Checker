@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Líng
+– Email: yenlinh181994@gmail.com
+– Country: VN
+– Plan: Cao cấp
+– Member Since: tháng 7 năm 2025
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 9031
+– Phone: +84932612813
+– Quality: UHD
+– Streams: 4
+– Price: 273.000 ₫
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cleo
+– User GUID: 46VPF2VMBBBGHK46JXYCL6XMT4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791785194	nfvdid	BQFmAAEBEJcHsiKWfwziVcEVcfszX91gX97eXliqQ3DPA1KxKMRLSt-9nKeha7LwJ3G6laOn2X2g6OxhClA1gEyyWkYmT5_8YVsSvkXYLyQqaMSQ9X00AdazNe2Rv8J_eqMn-w5tAxfOb-OdTYKLBiQMGuP3KcFU
+.netflix.com	TRUE	/	TRUE	1803189418	NetflixId	ct%3DBgjHlOvcAxLhA-AuWHPKwbMhnoz9HrkyepAvFD6KuJLOjcYhe1HU6p5KTWZwxTwhbXIl6_wrKgrjeLIv2D5h2uwyVQ6XM_ygLErlBSPBdIMqlDH9HkHc2AqGPBzK0yLkQYLYyTKZkrrRRsC84oz2dkhCIIsM6yLuUqeuGfAH21LzsOwoM_A25X9dm-t4eTpLu46zOtnqWI5QEIN_ktJpWT26vj0QApAfB_z8y26LEd3anZvz9wBz3SCfqUanenGMWKSS3oGda-Ya4vzWEXzRbgCtrF7g9eqsx1YEzrPi8SXRFPnaDs-tiZZsLSvpmODbMEAR2WLGD8ZlGRiE-QCACk18a8PYx8aA1zJJ14AMlX36uxYVBoiqdXfarKczs2movcxJoPgbHorYoE7STWd9CSn30Nlgquafah1_rWC6Cyy4d0je-bmbLnMNojG97wymdPDa7UhG-JFdsidSPHq7SRsTR2cDbROoQHsmS5FHoxCvCUtYdstRwFsqaG2p6nLUF3ffWohkHa_u356bUs7qSWIjJTiyUtqcwO0YWMwy-i5OP3lEZgLM5hDyyPbqX-3QjXWVbI5kv8sWKC7LYJpJmP_qwrUNz8V-Q8G864oS5zkdSUC0yKPvT0Q0xLMMrArAGLjeIsbyhQb6tXsYBiIOCgx5Cy1_BVuXa9kWqcM.%26ch%3DAQEAEAABABQcurlkwE85WS0pmrSPpINlltk9HkFcjQU.%26v%3D3%26pg%3D46VPF2VMBBBGHK46JXYCL6XMT4
+.netflix.com	TRUE	/	FALSE	1803218743	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+21%3A05%3A43+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35ffb8d7-d999-47fa-b733-f242ba408d58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

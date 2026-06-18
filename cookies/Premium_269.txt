@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Viktória
+– Email: viktoria.bandurova30@gmail.com
+– Country: SK
+– Plan: Premium
+– Member Since: March 2024
+– Next Billing: 2026-06-28
+– Payment: CC
+– Card: 4898
+– Phone: +421917257465
+– Quality: UHD
+– Streams: 4
+– Price: EUR 13.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Viktória
+– User GUID: FRZH6NGG5ZFWJDAN437IEM3GWQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782413821	nfvdid	BQFmAAEBELDwpPU8ifhJt6JC15Svu-5gtn3pNtnfoHx-dd_rwb66YEJyjoqWe5LyJNr6TrutNRhIWx4gnDq5BT3BSUn0RF0j-iLYFV32RIjsF2f3mQ8eWXBL7jn9PHzDx1ISIH95JnhlKmuxtdSHWbIkAO6EOHZi
+.netflix.com	TRUE	/	TRUE	1797874361	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Apd0-rujMVhraSvwHNgVPW2v3G9BmTQn5Q80T6o1yyKNJFHWJg4fkwRYRo7MHIUX0bcjH21WRQLLu7d6yqY1kMAQ0rogz5FmDx0vk8Es5UN4eFVMtJw1cb9ykSOyzPyvHdRyMkl8Ys-C_tNWfwhIdhQZTu1JwIB44_Z5Z_pp4hFAce-1bn9KH8XLCwMnkbJfY_B4X5zgg4J4yiDMHPwp9fmdceggCHuhUdqIedaEwmiVXGo-ple9Z6NJwmaFm5hw0PLjCYyGe_x4IY-_MShsGiZVMnb7RpA4N1CRaD0xNiUaQ1qoeT19p67qRvK6AJVr0njF7tBmFTXWJYSxSZHFKwGSBpkSHVB_DI-xl0wFVUfsiTGe-nnpz36BKC-o9Ky1772qtiN5uAMT0WI_USPeNmDBG4dsrVXE8X8XfdJVLUXUvmMM4U90YDueTrv8sRwSTkbvtKtSSfnVyTHJ-aWTLJJbvANMIMuxowiy4xLLJLsYi5M87tkz452dtTsYBiIOCgxuhuJBTXrAM7cxQ1I.%26pg%3DFRZH6NGG5ZFWJDAN437IEM3GWQ%26ch%3DAQEAEAABABS-ILRaXp72EZ_UO7_jGkGjbJc9Czj9CPQ.
+.netflix.com	TRUE	/	FALSE	1797874364	OptanonConsent	isIABGlobal=false&datestamp=Sun+Dec+21+2025+18%3A32%3A44+GMT%2B0100+(stredoeur%C3%B3psky+%C5%A1tandardn%C3%BD+%C4%8Das)&version=202510.2.0&consentId=057960d6-29ff-4128-b5cc-372f81fe278d&interactionCount=5&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=SK%3BNI&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1797874361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJgSRigJcfnRW8OE5xUWF1_X20SQmIdjg.%26dt%3D1766338360379

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Semih
+– Email: 0770semih0770@gmail.com
+– Country: TR
+– Plan: Standar
+– Member Since: November 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 6183
+– Phone: +905551403120
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Semih
+– User GUID: IF7GSJDUGVFRHGP4WKM7HHWBAM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807121309	nfvdid	BQFmAAEBEBpNHrv8WOCD3GHzJL4ZxPRg9JN_jvnuJNz8ju-d-2Qp5qaoKpHN5R6TmWUy136hNdCZxHQiOkZq9zsHz_jS35PpjAm_bbAbEZfmO4MT7JIVsRH7cSuPnRrro0xByx5I70EtWreie8wpES2sCBTbmS1p
+.netflix.com	TRUE	/	TRUE	1810930087	NetflixId	ct%3DBgjHlOvcAxKzA2XUZL2EijYWnz1CZ0qiF3xeQ5xfxhxW4tEzwc9-K7WRNDNpEaMCJFS6_89Lm49EAMsYLkRQLu6T211dqyV5JYcc4Ojr4Sd-WbY5rQ9Q-JzeuetKEBcj_a8VATGjLmWw88TWQtT8tbcmCyxcEOyoBNLWFc8LcDK2bbcAbETLc4CsaV0_u4Z5kB6UbYMj4jA5Zc8yZ8bHqb6ib4qfDtxMkm-SB6nh6tH8mcj49R7OXnPbhyDCvp3hfVQrEkmXYbGV4E3gqt90a8n3U7FPXwRAcmCwLkvwkFzhinns1Vtb59C-ll4M9I7utZ8mLjseHwhsd_qFVR2F2MTHl8R5ZoWrO9jj-8FoEZXxu6CNdUWR7iLHkeC3XLnUNlFFmLhjgmOT_FenzWkGfMKm6qg-glb4MYb3lOb8p3x9TF1pEoN6XlR8rUt2O6_BHN_D18djQUOrh5O8IwS5bAgfRTTMB6VjUQAMrI07zzQ2aE5O3vuAOsqAADRFC_j09VraXneWJsc_6JbcG4hFrBTgVXYHuRtsf0brXwRpXG_n3mH-_h9vnobX9uAxyoGJPUl1TgmyELrueH7WVhgGIg4KDELKvjr9sssITio2sA..%26ch%3DAQEAEAABABT29nAqZ9kn5ijlM6npIOkovvbv5SthQ7Y.%26v%3D3%26pg%3DIF7GSJDUGVFRHGP4WKM7HHWBAM
+.netflix.com	TRUE	/	FALSE	1810930089	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+23%3A08%3A09+GMT%2B0300+(GMT%2B03%3A00)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fc54efa8-7647-4e01-80bd-9ceaa15d7010&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775585305148&geolocation=TR%3B07&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810930087	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZ8c5NGU7On7Wk2zmP-ZYsjPFJObk1hTM.%26dt%3D1779394088915

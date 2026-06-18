@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Garret
+– Email: garret.preston@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: August 2022
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 8474
+– Phone: +13159220319
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Garret
+– User GUID: GS7D74ER35B45NRZF7GYQKI74Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784056907	NetflixId	ct%3DBgjHlOvcAxK7AyIfMfftwybiKzOfLGyA2T2Eu73kWUsHdPz8_BU5TFbwjBwf2NdS-Dt0T3xCGPnSrXKt9d5MTZLx82MO1eRHCU1i4knnYQQuaEOV9r0MCzMQoLH43iPGwJGh2pPI3eNbIIa4Tfv3G7m6psaovDthKLonBHDQF4cHQmppfxo-E4gOmhSc1bJuMQC0zp4EFA7feioifUe85FDzRMEWWbvLIo4PtE5hUrkmDvz9P-KCxoohfZ9BUH6B9YxXTf1LFAHx8pGhAFOf-CnO_HG2gP1rz0iJiiT5GqKd_SYrCIxNlBDYpZuXwU0B_Ln7JMk8LgwhNaYgDNr_i_dm_UwTaisYhEoV1dFESRPi-XRVTrNpdsgZUVJbzygvlq9HOv__WWd0rXad55agmsuEnSAjlmAtgM4FSNuVGMByVIhIxmieWhabCIOYxFLyQHjQt6xDLj_XCE7_Nn3lkkMMk1VvOtkF99lSc5t3tCaTiqvETxc-PS1x-lBbrIhcMMcvfWRSgFMtZ4kd5bchIQiMKwYqN_CArmfoYhKNRwnf4bDo8inkEtrG6wVfo0gQD9-bQcqy8dRQbYzUiaTX0LvKu4cAGAYiDgoM80VRGyJTqgS2Mfdq%26ch%3DAQEAEAABABSGXi68a3LeIjUwToC-p5ZoDVtbvqAFIb8.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1784056907	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfoc2oszms6KL03RPnFM-DUedWLhxpE9Q.%26dt%3D1725066387789

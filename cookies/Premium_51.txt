@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aldin
+– Email: kumarchikku@gmail.com
+– Country: BH
+– Plan: Premium
+– Member Since: June 2024
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 6429
+– Phone: +97335352877
+– Quality: UHD
+– Streams: 4
+– Price: USD 15.79
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bapi
+– User GUID: GWJETGW6TBH5VOUZWUIUJE3SGE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792665917	nfvdid	BQFmAAEBEDt9gnRMti19HJbjCU6P67hgIBnoWlb0FGfImqgvlRuKr84HrUcD_fJ4P0nbh96mXXBL-wDVcuX_VK1IBz-63OOo4Gy5zMAciFm5vgLNpqX_sog5EJ0NXPkxZ_5FEDifFYG_SfuPpB_gp4JKnfPkLGUv
+.netflix.com	TRUE	/	TRUE	1809617673	NetflixId	ct%3DBgjHlOvcAxKDBMGWH-22HNq6Y5pnnPOoS6vj7zNGOigiASLmeajVTPEt_nyZ4RQSZgbjIegHXdWFsALynqvNtl1rnzB3AikAViSFCHXKxPzPkzj_05_dLu27_VEQeUaTsbAX4YpRrrNfFi_uk8hX6soEGHhiJljK08QyAP_zoJmnBLPzxZvROUlzgyr2Jr2cY1Oi23q1ACqUYu6cF5wH9Yzc5nHevjihp3PN-z7yfMAUX5gm8qa-c2diz2RdQs45MhrlIFsdvRUsz0TwS4hGWuG9-umyb3a2re5dN5QxOtLLHveADawQH1uB28P7RTrazK3TyOedHQ7Tzq7f6sfg6xc1ifeIi3JFKnvAbY4ra99HZbWajKouLnd8dX5yiFJyk1_Ej8meTcbfumfTOI0eNDJ5NPazEOhle0EzFLKoncVLo9D_xc_5ZtFW_u4yhIxS1uySAxla7oMThQYyyk4IPtIgCJVJ0FDYlVW4WIJpuKE53WVUIDa1CmfHfhH3aYNu5JI_PSe5SM5VoP85OItoEZANcAY2_AhRQEh4rSYvhtmQRlz-J3xREUnGkjmeME_Q-TCiD6lfqcpam84jgt4C3zrklP3XWp5IxBBZxGwJwVaF_Ug1EDz7WNqfjqCiaQgFYqK8yDHkVFnAwg-WGDqzXiYkO_Pr_sVMfUysJYRhDfFqvPva3vBogxaA_Z5yGAYiDgoMnkgVsOJ0qZPfJznq%26ch%3DAQEAEAABABQRlmaQWouGKphAKvwXNQLeZhvkgBFlPVA.%26v%3D3%26pg%3DGWJETGW6TBH5VOUZWUIUJE3SGE
+.netflix.com	TRUE	/	TRUE	1809617673	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGU8fnEM93utP8uka4zI2XzDxl2GzGyAI.%26dt%3D1778081672293
+.netflix.com	TRUE	/	FALSE	1809618180	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+21%3A13%3A00+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc400763-47d5-4c39-a67a-012e364a0ac1&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

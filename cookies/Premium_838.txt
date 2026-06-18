@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abeer
+– Email: ahmadalsaudialsaudi@gmail.com
+– Country: JO
+– Plan: พรีเมียม
+– Member Since: กุมภาพันธ์ 2569
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 1600
+– Phone: +962777111990
+– Quality: UHD
+– Streams: 4
+– Price: USD 9.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AHMAD
+– User GUID: EL6AIVPY35BDDPRQCQYLP5E6FY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1806599430	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AoBD5K5L4b7G9aiSegKw6-RQZuAZYwmx41kCpJujcK86UxukZESOft1AyvWZlD7JJRy-ohG6c1J2C2Uv8gN5oyhlHh1EHW4eTwmfoyDpJeMhZciQvPCtqmhfHQYxWZS0wPF322XbzzGoL8Tp8bFvqK6iwjVlkxJx-P2uIFKvQYGkg9DZ7UqQZkm2vMNPQ3yVZuvITdXW4KV2oDp-UiUpDNu27HihXqPyp-D5MnUwg3dE9bIlmYcxYjDkzITB5cAEr_vPP9HBiA5mhUcmX29tIE7pTFCXgSnCYWgnqkBTMR3auLkS91LPd-A70AM04wVAGXizOR3UJKXetB2_WBdNdGXmNNSrVJPsvM0zkdmtBp5aZbuYa70tKgjqVRCmPyPJ_0qg24yWEYS-hWQk5DuCrFaI3_6ChHAaoknM7wU_H4xllvySYo4Me4h88dkT8MozA4OyeKSSJKOZAONMaIqTw4eLsBiHJ5DknZ6mNSEVWk6Y24Y-jkF8Eo1MPxgGIg4KDIvFRhAlPK4xxPFy7g..%26pg%3DEL6AIVPY35BDDPRQCQYLP5E6FY%26ch%3DAQEAEAABABT54U0cf6np527StFurjlcXBSiM2v88GhM.
+.netflix.com	TRUE	/	FALSE	1806599432	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+20%3A10%3A32+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=488ff2d4-e9cf-472d-b9ce-62b4ea4a89eb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775063315056
+.netflix.com	TRUE	/	TRUE	1806599430	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRh4iDjhGE6YKGELKDjNAxNkgtVA_vW8x8.%26dt%3D1775063442954
+.netflix.com	TRUE	/	FALSE	1806599424	nfvdid	BQFmAAEBEBhwcaw03vCvLklshyiZVvZg5ruZ5zdYOxjNuLdpcZAQCwdDu3DEHquHgxSsvF0Elo4GDLfEwr-Jb1Z7JZlPDO3LA3236TnI-9izWrpGeS1SD1olX3pLMzFH_fFOHfC9S_1kLsJ76LK6eH1J1x5SZyuk

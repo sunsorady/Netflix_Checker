@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : valzancar
+#EMAIL          : valzancar@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : septiembre de 2019
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : ORANGE_SPAIN_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:20
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1797185090	dsca	true
+.netflix.com	TRUE	/	FALSE	1795448719	OptanonAlertBoxClosed	2025-11-23T15:45:19.647Z
+.netflix.com	TRUE	/	FALSE	1795448714	nfvdid	BQFmAAEBEJAB84oG1RQYtWH96aIyQaxgRQ6k-SLWVqbzDHcG3wuxnpmZXPyZ6qLws1G6gM-jA3zKTwOegWbQfbbTkQa1EZCcU1o5Fr-9NjHShvKCkTD4xf5XI5eah7BbVbiXrjk_7Qh0wAyZ998YeVRSsejHkNDH
+.netflix.com	TRUE	/	TRUE	1799097553	NetflixId	ct%3DBgjHlOvcAxLpAxr6DhhP8hcPXJmxxVXUDE_H5tUZPbFbly1sz2Qlw7O0BkBraGhphI3cMd6JaKElXjlXunMZGclWA5w3qEmuX7_lYsvCL34ka2oMwetRUT0o14njacB_kh-XckUCWkqG2ZOkOWdL5gAbv-9k3MKCoWtdtYEa4xHGHmfL2kohrtbw4IA5ce8CcUGCwpOuDnngjDq4SJDth4xpcyi8vjPARtns0ioJbzzNd3e9b-WiXTS1B_JpZmTM_X9bUVF8d5VbJ2vEVJViLyrIirM8fSm9-j0_zn7Cx-irnDL17GBABHaK68lYey0WN2Ti_2xU9hzUyhJASjfQIy96Q2Jvk42bJG-74LjG8Dsre3Zrech5KDXQ2CGeFdia2xKGe8WtGdEK_VBE4RyY2QS8m2EFyDPMv0dpwGdYp9eY63jJUIuZyzBfLLNkTlYwQ_t6DQPJjB90BmYZkzUDX57ZOCRgtvXR4YanGOIjAe13b8AQ5k07izmJSlceXAjG2UjG4pDZJDomFLJ5Chyjpjq_srdqdzHiGpq_841d9CBEHbco0xXFbkiOpmUxSsodd2oQNLLPnZ-pal1mJv9zb_hiz0IWLuptM907lZ2V_mPUHZU4Pa41LlYUvxwsL0VBe61ZJe2XPRYjaMmYSy9VVU0dMhgGIg4KDB978zL4K-7ZTQQ9wg..%26ch%3DAQEAEAABABSj5sz4Mjxxi4SMRAcqKkIDv2F7owkYT40.%26v%3D3%26pg%3DVZCM6ES3IBDEPAD2BVKSAUU3TY
+.netflix.com	TRUE	/	FALSE	1799097568	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+22%3A19%3A28+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b81e3aa0-ed9d-4baf-8048-a6216932f0df&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD
+.netflix.com	TRUE	/	FALSE	1783982023	netflix-sans-bold-3-loaded	true

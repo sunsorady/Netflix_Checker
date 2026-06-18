@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Camas
+– Email: jose@joelsa.com
+– Country: ES
+– Plan: Premium
+– Member Since: agosto de 2023
+– Next Billing: N/A
+– Payment: TELEFONICA_SPAIN_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: jose
+– User GUID: EBWRDD2RJ5FMDCKKLWQH75TB74
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799078725	nfvdid	BQFmAAEBEIdU_N92BFhmhuuJokiJJPlgO9ZfY9sOL0vChLAxqCynlhTWs7dHTqide6agBRdLxA0lawhW6Phw11xFbXNzkNaVECZ5C-soL6bQDQp7alpxaY4k7CQG2M1vj8qWzGDU449AGOa8hSfCo-ubnAaWIqK9
+.netflix.com	TRUE	/	TRUE	1807283559	NetflixId	ct%3DBgjHlOvcAxKBBOFTphOHQYH2anb28iplaZQ3p1AKZSauqUxaJ3J4ZppIIffMTbEgge-CfEesttbuUZeiyPQOSYXmDB8rVjEDEgGUPq1eqiOyzd1iTCwXH_-qGyG864Vq7qsaDOwald7hbQdKOrtUOVqHZ9L4x7FaBhAYghf1irJT3wAljZwvrWWbYXZu7KIcIqGr9LxoTDx0NZQS5PQ-zSTVfKhb4ml3VPE_jbMlopzfdDY9T1li7LK4x6xGgoJWvdYeBdI83wKm-yoWdpsEhIB7YznhX9GsuJMw-XAbZPss_iHIDxZy4UuYEIUjH1HM4tgSQyD5Ku7a1Ynxh2cG012m6rap5coZPw-CpFiTbE3-e8GJaQxD6SAAidcdo7QRXIWxacwn-1SF_oU1CCgDHebaYvpvVO1NOA1_TyjjQk9W1Yi_G_uIlyECnCTFrB_M017gjyzbcc6lSsxxEfmdvrafrpZMmcBzeU1Bwy-mYaRWgjqN9aePW_BHiNRJnI4o2NUY8KH5HbZOvmKc37-WaBnBR832qBQjTava34SpB5rtxNuryVLoeRDBuhzsQKZhc6nZUsonXByrzlanFfot4xEs9JL9DqBNfqCVi-uaZcq08VBQ_MWnj2nElCnEtPwSTICU65m8IuCcbd_TVamwvgosDVvE6G-y412-_E0UnhFXmv7YJ-M7PQjPQhgGIg4KDLI4ugT56mpo5VmQUQ..%26ch%3DAQEAEAABABTTCbaidi2PvuswnA0LWnLZpSysU5Qfm8U.%26v%3D3%26pg%3DEBWRDD2RJ5FMDCKKLWQH75TB74
+.netflix.com	TRUE	/	FALSE	1807283561	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+17%3A12%3A41+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d521b469-7db1-45ed-88d8-e0a11b9c99d6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807283559	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYm6wqV0qjNvZKZyynXvs4HgDQJY7-LNg.%26dt%3D1775747561673

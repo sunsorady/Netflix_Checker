@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: JarVis
+– Email: nikitharoselin@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: October 2024
+– Next Billing: 2026-06-19
+– Payment: UPI
+– Card: N/A
+– Phone: +919789688216
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: nikitharoselin
+– User GUID: SBH2HY65UJBE3OFRHTM7MV7PCQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798301521	nfvdid	BQFmAAEBEELH6n0511pfJmvYFLytTUxgmv9S4dVgiKFBxxyoIaCmZkLjrkNsF9AeuNAlCNY0_nJOtdF80kO1TrABnDufUuYg9nSIun9vbSOGyDAAXG0tCrSMJf_E06Wz23J26QIWvnXaei8bFvmry8VETm-rSRRe
+.netflix.com	TRUE	/	TRUE	1809861054	NetflixId	ct%3DBgjHlOvcAxLHA5jRlxiKdU5r7AjRKyU5cB7OIm2PnUZ5Y52DNnLmiB7jl2xA1KZjfg3W8nqj1nVMlRhRtzHwwRd3PgbifKEB_uBCV8YNsJ_0IKWiAIFQZrNnbTXvu4kMWYj2jGhbKlPW22Q9II7XGyip3W_3EGxcyt992X1hQ_6ofDH5u2_Cj_c85C8StRcCYHt6BhOUV7UUPewTGdaTvQmzDwoyaNK9nDBEcWxAkigdTnyByGOgRKPfJTAkkm7FC3XsdJ5YOV0CPGcgRCkP0HC5iLI4fMvXphaudo4cnKkeXeEgESdGxa0PqBsr9RYqWcr72XngqZ2sNQvOo9MfJoK8_TpuCo3sd_-kwLbmLzsyXFX0iDEzDJgL97vzJzR3QdN_boNmj1rUnnR9TEouSeZMVUa3qw0fPF1x_gsgG3eLyIxrakIGhorpACjbXcXdd2cz_eOaFG-60PYYRI2n96IFbCjLv8Fd2KQ2JoMaIcoVyV5CXgPSdhMle8z3Y9wEhsbmk2obkSISe3vcOAG38G2e_RHG_FEVjvrqxcn8GFn9U0F-o8qKomigDZDfkd6P9_s5RpdPzmESeNAJ7l23ONnJO56pcSIvx4DuII1vo_UeGAYiDgoMXcv9xK5aw8_tA2n8%26ch%3DAQEAEAABABSPMo7LsK8JXV92wY1tIturDsQa-A2Y8vA.%26v%3D3%26pg%3DSBH2HY65UJBE3OFRHTM7MV7PCQ
+.netflix.com	TRUE	/	FALSE	1809861447	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+15%3A17%3A27+GMT%2B0400+(Gulf+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e8fab69a-b1c4-4371-a6ca-ff83e4ceb343&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

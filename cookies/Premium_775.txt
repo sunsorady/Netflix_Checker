@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nav
+– Email: navinmohabir5@icloud.com
+– Country: US
+– Plan: Premium
+– Member Since: September 2023
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 8753
+– Phone: +13365886722
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nav
+– User GUID: 7V7FJWZY6JGN7ISXHRPZ2EHBOI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801421740	nfvdid	BQFmAAEBEKvdiJweJd91MbHCKa07AiZgM_7Z36C7SED5ozLDiEQJZ5wgmbvfTXG8UApW-S4OyrBg2ou5apSrpEk9D6IMERhzJRJuIMoctIt_Y96kia18Yw2GQYbc0x4XGyL2NFQ8AGyTSOatPGjyeGBrERiznbcJ
+.netflix.com	TRUE	/	TRUE	1808171756	NetflixId	ct%3DBgjHlOvcAxKmA3EiNc2HtIKw54gaDILCpl7DRfNWEdhNX9uUiLBAcim2HvPYAzSnOqs4EtcNeMbBk7tYd8QZ_5R2wrBLLf3ayQvBfaYifktfzRIgPeyEOY9Er07DVezYvM_ZJymqN4Rr0p9SUoss0TqUce1hb-lXYMjLL8g7WpEAYY5ZlHA_GPEiZe4wW8g4vw8UtNU3as31-q4SnoADE6RpkDXITwVb4RjiglUv9ui2zl3LtxjFC-ZpAqVE0lTD2svYaKZ9pX9RqS9gy2WNth638IPlOV_mXPbLc3iLn29FUU2cBGDK4vtvI2xcBQMbT6PgOVPMjAwVMhOTH8bTZ1wzPKsPtyI5mV_2pqufyP1akjOsYCr0BlRDLb0OmtRPUeErs_DnC8z3Q4vbbnuqeuXTZy31SW9Xy212q4HiLJUMw5x2U9z8OeTfgtceRWN4_DC9dAZNU6O2NJ9Qbi4roDwSti7JtWrKI9yun2IXk9Z2OGrI4bTbeG2QaEoEHRKFnyC0e6Ki7RblSHEA3GyAb2guz32IrpD0ciDBrP6AqXpw1ooDcm40CdIy6JyHGxTrGAYiDgoMCrcH6r6iMdphpaoN%26ch%3DAQEAEAABABSM2_4l-lb37DjJE-Sr6Q6v5lApLwuca-8.%26v%3D3%26pg%3D7V7FJWZY6JGN7ISXHRPZ2EHBOI
+.netflix.com	TRUE	/	FALSE	1808181758	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+20%3A42%3A38+GMT-0400+(Eastern+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39c5afdf-c5b4-4833-97ee-79f108d20a36&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=CA%3BQC&prevHadToken=0

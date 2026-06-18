@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Erica
+– Email: ericacauane08@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: maio de 2026
+– Next Billing: 2026-06-17
+– Payment: DC
+– Card: 9125
+– Phone: +5511934393137
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Erica
+– User GUID: 6OAAPA5VHVBSDM3ZYDCWYKVS6I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810590487	nfvdid	BQFmAAEBEH12HoeBZxrZg3FFdh0gtHRgriboaWIH-wDFwkz0UX7EMY9-COjJHsqEYLNlHKJxOpBuMmUBQajVGRoTiYHIzuWzRX3eLTt1AeU6Qg1O6dFSX67JsoBVDZmt4vgsG6m-G1Oz4PvINln9FaBsqfSghVrB
+.netflix.com	TRUE	/	TRUE	1811611334	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA5s4d66OoT_qftftHM4d1gCuUCjLvwTBqP7a-jfup4_vaN29V5smatz50-IQeKjh1km-rPpVDLLsP323FZZDnkuxqqEQqZVLu0mNDSRvdhDaImfQzmWoaULIn0lhXhSjTlXpbI2oTeAzjEDLdaJn948DJnZiJxme8WjCL0UFcZwTADmiCbDPt0KGNCx-mu9ffgHLJNCwxoFgypPielJBK9j6Q5u8J3nfesT6QkqaCE9IYKJMK7TBj-4Yw1Veiyy-lV490MBxH6Qsu2nGEy6Yo3P61CZ_JL8IFFhBUo6HWcb58JmbWEyU1slPQ-AgFpnixk1HoiRgWMhMc8Tz5Gl47jkKoAAetuIf7N61Z2t9Zuk1ji9uVuV4TUthNhwcAK--Dca-3Dq8c2-jHF2HUbgWVpKBKrtM-svoopmSyXHP6ucoKpk9PP6Apmfs1N3UQRkucwxEuRVed1qFnyPk2xsbhmEEGBiXsN7YLTlcw4sqN8_UYRQ1r2f019URrCOLx74g4syRBm0clxrBy2Mz0kgIoTuYhKPiSoVvzFkYBiIOCgxY1jHhFv_1ch0BFA4.%26pg%3D6OAAPA5VHVBSDM3ZYDCWYKVS6I%26ch%3DAQEAEAABABSi7d1pp_uF2fB2SokqQT6jt_-HNpjHF78.
+.netflix.com	TRUE	/	FALSE	1811612058	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+14%3A34%3A18+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3124d6f8-8418-4fd3-af6b-ac11b7834654&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

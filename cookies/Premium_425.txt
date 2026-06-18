@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ivan
+– Email: maxi.wagner2007@gmail.com
+– Country: DE
+– Plan: Premium
+– Member Since: mayo de 2020
+– Next Billing: 2026-06-21
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +491729097303
+– Quality: UHD
+– Streams: 4
+– Price: EUR 19,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: maxi.wagner2007
+– User GUID: RCDZYY7DRFGRFPNT6XTSON6YQE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807741644	NetflixId	ct%3DBgjHlOvcAxKEBHSKEh-aZuzmiNN54ygbbPRJYJOqOr0pdXX8vlOszxpTVr_hyWZUmvsaDrso5h3cKD3c02ttJqyMnt7PSBcwrlm7P4B31jTdxW7O0nyGXJvxEFAMuBaSZNM5GdMXEX6q8CmlMKBYVRBYjH8egC7Pm3C0Pagl0ID58zHPQyY_81m9yUyIrfP0tBCHoXfuCxIw1XjcGD1cnMq7CWMYrp8V9a2_8EJO7JPCtsS2qYKpV_zA2hPERwr11uEiSqSHurfrnyzrdFGUd4WlbMrpYRoTT9-1rRIQFciy7ncYWI6oAhLY4twRdwIlagOzbmO4m9yPsL-M1TIriJFRDmofgjPOfY-qX2m7-ZhidTTLSOL00ak2U6QvyiaEC9QJPW0qCDcKaN7Anre0oQhJjFwM5Mo_VbIvHL4LDFtmDDJYQwIu9Md9QtCVciO0KO7oC_X0O7CA2ybqGUBmahSrakt7xNpL2CnfWwgDw5z2Cxe_gmnxmRjfU-Uuapq_yKwqacZq3h9cGsBVIsQUcvXYRM8Ru1mpm2MSN7e8auichoLGMI-BW557GGSLmx_Q6jUVFnowoTFlSlzK-Bz4-2MbbvIxS1uHA1AK5SkJ4tYm7DrdcvEOdxWbfMiUu8GKNA5pU6xb_Rcl4Bn5z9nxqWfXPQzxUY88ffQUXykYmKVQDvAk3kc-ysszgaM7KRgGIg4KDFGIi1UO4PzlWcolwQ..%26ch%3DAQEAEAABABRGeYtQIMdLzF6bfPmdPTJmYlB9DBrIoWg.%26v%3D3%26pg%3DRCDZYY7DRFGRFPNT6XTSON6YQE
+.netflix.com	TRUE	/	FALSE	1807741647	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+00%3A27%3A27+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb9b6721-792b-44b8-bfb9-f3fa5291cf1d&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DE%3BHE&AwaitingReconsent=false&prevHadToken=0&crTime=1776205647416
+.netflix.com	TRUE	/	TRUE	1807741644	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTrZPnEKT8ccz5GxDLhx4UwBBqMvnnyoug.%26dt%3D1776205644379
+.netflix.com	TRUE	/	FALSE	1807741643	nfvdid	BQFmAAEBEJEXf0ALriwvtbKfMdz_QBRg7VvjXwtOf3lae833jrT3SvwI4A_kNH9N52iLuZvHddmE-mG03HBGC6u2xJ30nxvY6eFAZEUi1LgYlrnu4upnUzVZiCLNFFRfvxYi0WGNUsC_pmPdXOlJHvAzWBKN979j

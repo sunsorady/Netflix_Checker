@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 24
+– Email: lordofwolfer@hotmail.com
+– Country: AE
+– Plan: Estándar
+– Member Since: noviembre de 2025
+– Next Billing: 2026-06-23
+– Payment: CC
+– Card: 2493
+– Phone: +971506470711
+– Quality: HD
+– Streams: 2
+– Price: 49 AED
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: ahmed
+– User GUID: MSHYRDILOFHM7MSNGTKCRI5U6Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808769562	nfvdid	BQFmAAEBEBqjKNM_gu3R6ghlKm1Y241gSxjRwOuyKTvk5kEmCPrxTBA6C-RekQ8cZpD9xsOWGfIfdvvOocr-XPpcjQaU7jIRgKML_6Gt9ZM2PRNI2TdWR35l67upv-zUGz_hreRlPwD-EAiXeqtPzA4webrxWN-p
+.netflix.com	TRUE	/	TRUE	1811789798	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWAx1dg88eImtFHUgnpG6Coi_PTdPc7KODqaN4ah9OK663IRXmN98Qr89ZrMZdtFJ3Z3qWaFnUag2LihQmLmylPLQXs8bTAssBgWv2rJtC7RN621C__w0wgtjgX81Y7HJEN6WNeWW5ngbNBfxpBK4Vbk8mQ3F4wwm4y3KuPVGZgcHE1rD1cVV-pHD38t8FiQTyruTNkvDdSQqMB92oBfBYGqU3-2CxB0L8NAqrZ92pUo3JHbYhc4YxjA8oiQqkEhE5vogogCUs2fnZC7L6oURfmMqf_xXLA1IxlpK7JinvlVE1KH-Qb5G08dgaqA762FDGiCk9wbgDCz2WBr3po4loGz8cFtLQXuFf_x8QUXqLc7TtHqo4eMfp2VN7Odk-zuKviVIOXJAD0Hm2n6CLaqYnElRbgo_pmfdc_AUaWAEv7lUzKTzniyZzDxFAvlXb-0s2GnPH1NEGdgyBtkk0gjUiw4BJavxi1lm54OSN_hb8HJQByBRSkywt72eYZKqpiDCZ79rFq72arqdEao_N4mMWvnYu2JsUtJIYBiIOCgw_1xt_52i9IguI46U.%26pg%3DMSHYRDILOFHM7MSNGTKCRI5U6Y%26ch%3DAQEAEAABABTR7yt2n0aRGP4i9JiCnYugySeE2Xaips8.
+.netflix.com	TRUE	/	FALSE	1811796866	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+00%3A54%3A26+GMT%2B0400+(Gulf+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=ca7cda95-4247-43f4-b55f-63869031a62d&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777233539761&AwaitingReconsent=false

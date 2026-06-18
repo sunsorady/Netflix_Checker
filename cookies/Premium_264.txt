@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SIMONA
+– Email: simona.kapun72@gmail.com
+– Country: SI
+– Plan: Premium
+– Member Since: octubre de 2025
+– Next Billing: 2026-06-19
+– Payment: CC
+– Card: 4401
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: EUR 10,99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SIMONA
+– User GUID: A22F3RPNBZBQ5BRNZLG73TBZWE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1792689764	nfvdid	BQFmAAEBEOeYgfvpF5ue-vHCeU24VL9gXmjSrL4G-Q7DAiUuDn2_KR5jCfKr9TxIPEKpNdjTow-ldX2SmFWAYAUld0i2ccK4cL-gBcw4gYXH0k4DIeR8NtrGOTmR_0wYNCM9WFs-fDsbvsRTjj2BTxk1FDx2HqqK
+.netflix.com	TRUE	/	TRUE	1800379900	NetflixId	ct%3DBgjHlOvcAxLzA8xmNi5LXvr7FBEhspjp0Pty3DF43LqzS0X9L-mGIoBxGU0JlLVXhh3Pct_I4VxaHoWTIIDCSUWabLk4ObKrlnfaSfPexDg7SDGcfWC1FG4l-EGJPuOKrGoZQhXnLeuIft3zfS8LLaYqWq1VAeTTqcDRFpbYOHGocBW3FYdmX4Apn81C7MT68kfmTeBINBipJL7Qe0cppH-bq9kARl9pge7U11DlYAw0OAKkFq36bVhT2_lh83xgeQ4Lj-2doo_KWsafMUJ3jZTiwdM406TUzIaXRUlZ9hX1g9pKUy-BopAmDoP0qi0GwryJ7-XFqgmLIKbwfBXsqQhWc0VqOkOLC9lByJDb5ePFDV7-P2phkO4ON9x3L2n3pKQUviUo2INhtdqs3Re5qL00J8snzTSW0Uott7ZzlaN0Qwj88EH-mAabGojurt236Ec-sDbyoIZW2lPq2gWBr3suvTmcJ7zaPWJIbXOzvs69ysvbiR2etshTOb6Deb3dx96xe3mhEvFw0rAoRUPoM0Qfjr82-4YXdSJGJ_c9sDGj0sv4Z5jTXU3LYS9atvaRw2lXJUavT2eruUWr8f0NZZR4hZjKApI2o9JUWAIPr6wO_AEXVeVCZhfKio5KV6BqqcbyrCH5YOkunD2rsTVxdpCOiJ7qLQIwe5hAqfsYBiIOCgy5Gqm7S04b9cSVnuE.%26ch%3DAQEAEAABABT6xXxwMfcJ8ieHvXImD0xqK_AF2BHzclg.%26v%3D3%26pg%3DA22F3RPNBZBQ5BRNZLG73TBZWE
+.netflix.com	TRUE	/	FALSE	1800379902	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+19+2026+18%3A31%3A42+GMT%2B0100+(Srednjeevropski+standardni+%C4%8Das)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7bbc9edd-8399-4573-8673-3b60f059cc97&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SI%3B061&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1800379900	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQBV7IzOkTNc2pQwX8qzYIbHKazOhjCT9U.%26dt%3D1768843900732

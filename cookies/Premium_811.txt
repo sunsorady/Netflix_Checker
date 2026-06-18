@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yaya
+– Email: ybakayoko316@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: mars 2021
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 6863
+– Phone: +16462512341
+– Quality: UHD
+– Streams: 4
+– Price: 26,99 USD
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yaya
+– User GUID: ZU7TZ7R3KJHIPMVDRRXC4JG2RQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798625122	nfvdid	BQFmAAEBEF9Q__V8gmwboRGcdVCvUhdg_jp4VEax4zF5fSb6chfBcsHllDv0jJOoTafXSTvzaIYbtUACXICjpcF6QX_4fUHICe-rdWvTO9OlOYD2W3GWJDS6MDcX4glOGrucTBrleZEViH5L9AOtUMjU6BKHGOBC
+.netflix.com	TRUE	/	TRUE	1798977314	NetflixId	ct%3DBgjHlOvcAxKvA57EDo0Z8_a2v58Mu6DJJbiezrcwecoriJVpReBlBcBvJkZ1iP-Zb9jN6A8lyzCnLEz_wyRJk44ojOSyiGOwofHaZ8-howLZZ7X0fNv8uHKS0LvzhexZb6eba3bAOtKgCjeXnITZTuAF0X_OE2ABbku6UMAJvLMyAh537cBfiV4-lEvC6iaO_v7Rtss74iZ5yIzw-IvPqT4mtDlzzB2tZRAjZ6E00t_s16AqKxw2FHsaua78WCasgiOiCBHik8BB48UVjJCetzWLilxlxtbI_C5RJcK8NcwUdXaYS0YIXjB7-SsS7s4C4LQFrifDFDBtdwjUtdQUnfmUS6hkpVL-aILF-WAT1yBEWWUvn86AkPFX1zn3gMqfv_Zgr7GmUNc-fBI3NBekRdzIAx5uRPNNY1Rtf-uiPsVapYkZLgzclAh60VqXgLXve-kvBUS3DC3MbFcZXyFEDkx43eQ_7ihjXsE_1TO7Jjs5c6rzKVR4knq7oTCoEMD3yP9AgEDQwlJ7rSqUjkeMqLfpZtFhc1ajAMTUwEdctbBL5m-M0Y9-E8LPAoZ-k43iJOmSjA8kecFlGAYiDgoMyjgFNT7eRa5T7atN%26ch%3DAQEAEAABABT54Ysg8PDSgkonC3QiSs1P1f8sqsW86fY.%26v%3D3%26pg%3DZU7TZ7R3KJHIPMVDRRXC4JG2RQ
+.netflix.com	TRUE	/	TRUE	1798977314	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8Gt9gOjp48-oEQ8Ek1Ms8gchjFLws21E.%26dt%3D1767441317284
+.netflix.com	TRUE	/	FALSE	1799013742	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+22%3A02%3A22+GMT%2B0000+(temps+universel+coordonn%C3%A9)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eae92686-447f-4649-ab5e-92f968427571&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Aisha
+– Email: bruna.palles@gmail.com
+– Country: BR
+– Plan: Standard with ads
+– Member Since: December 2015
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 1027
+– Phone: +5511988865923
+– Quality: HD
+– Streams: 2
+– Price: BRL 20.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Aisha
+– User GUID: NQV4FSUU25CY5J3CWT6NLHI7TM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806183747	nfvdid	BQFmAAEBEFL4F5AnWWMY3qibUbJsf8ZgbGoKjProKiTUNqGVAwdCTc69Wa4eEX3VwzAbwFVtxAUVt5ntk739QH-ZeuYqaCtEre8ufsXVwjE0arLMeJrz1v4mA3Vlqb-54uVW1YGku0PX_YNeNHWhxWy9QF8MHqUB
+.netflix.com	TRUE	/	TRUE	1809915888	NetflixId	ct%3DBgjHlOvcAxKNBHysJhZZy_hdod9qP3rbOAxdJ6jZuuPiiY8FsF3XuWlmJZazyiPG-rOyFvNtrQyV46XunAhQHSkMA2BdWu1R4tqBPPwSGia7jjM6bN4T6xntLwPR_Lax6HgXXOx3WD-O9DIbPgT48jLDMAbsTce4CzRc_P1OYh6mPfV3OY6EzlDxF5XeFFWmPsW6zUa4F6UFZiaHpDfXJfsqbtHLhSbV4O5hzEAzS_voQM_cU-vr2ylUqvz3gcP9tLO86VPr0JSCbbbgiDCp3zFWI937fW5XNzwpgsPfSE9eI9IWyBYLcX2Q8lyE6bsazQHb2xIHmVJkLUzKoxXNB3c6e-7niUrjmH_v5oyBNUa53ySJu3QlJSBvbkOnnnmQVGEYlFgaKANg-RxYWH_qcahYrNwK8ufdsJWNMpGrHPgAuCYZuDOx-yxCvxIzChJJ1yXmJqadzxrrX8BUG7o-1175LQXi6prIoPr302sRqPpmBhiPGDw_rV-8mL2py7Wu_LHGZN0r_4f_LQCQ2MFZkrGrkyoVVrm9tvFmewmAPaJUmBCZQnvNR2YBP78lwaZMgqnYAk9IGEik1USdVQ1Svxhy99-ByVY1jB08eKS5gX9ZYhMWi86-fh6yE3QeKntdxltpHl0qdsTYAHfVn7YPwJ9e6F5GDJssomBKOmMxqd7bTb_cDt09YYJSpnsyeCj4Dr2l52aAuRgGIg4KDGkASG_otrOArieXNQ..%26ch%3DAQEAEAABABQjNEDFKGo_KKz2qbRh0D_u41aIEpCfjM0.%26v%3D3%26pg%3DNQV4FSUU25CY5J3CWT6NLHI7TM
+.netflix.com	TRUE	/	FALSE	1809920475	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+10+2026+00%3A41%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5de8a34a-4bc0-4898-a411-61fe21441dcf&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774647745501&geolocation=BR%3BSP&AwaitingReconsent=false&isDntEnabled=0

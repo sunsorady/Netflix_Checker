@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Biloute
+– Email: mallebrancket@gmail.com
+– Country: BE
+– Plan: Standard
+– Member Since: September 2025
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 4387
+– Phone: +32499846484
+– Quality: HD
+– Streams: 2
+– Price: €16.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Biloute
+– User GUID: PJL3AIEDEFG73B5CG2TVLQFNLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1789409760	nfvdid	BQFmAAEBEHNWcP9KeTqdhEvBs8_gJepg2PBumRdop6IqW3Jm43UKkx0ftJmZgg9-zL6JFZJ3aPzmk5XfTAkJXoySEnSImMhvSCCTd-6LWwkxJVWnbQOMP4TCUz9Jh4MMxFHAbi_6bAGovWPaosecy4lw3ASRkrXD
+.netflix.com	TRUE	/	TRUE	1797858225	NetflixId	ct%3DBgjHlOvcAxLtA0Co1IQZ7i7mvOE1vMo_20Fh5OyYi2NAYi-vfmyn6w6l609cw7HO5qQsIRiSbKFFnEH6acTin0CvluWe_FPRqfDEpiDa0Nsjd4D98G4-VylRK9CwtthtyDbS_xg_LSAKm1BQNBKknUpuFNGtXGKQJ8LGblFwRIQAKg-gkJ8MR57HVUlzimDDPWta7_cxeVkYaJ-Z1MXPOmTuvDwbGBgtPvnKm0DnxIsZrxnPXfzmJQp5eoDHQoGS8o1OGW21mTcJQTW_y7apJzge0oGP1MPsrA71DVeclChrd9xHyhcLYQQhKs0uUgqoqaJqQlyoZ1H5ZIMBR9pn_TmaJBnD1XtmeX1cz7XmaFLhmLPPcaGrpFNCkYNKJCFchN3ejUZb5VJH6KwgJFcisKnT-jzzOE5cr0Ib2EmYfiG4XI6kn1WjEfq3spbCe9S04S-EsaIL2HnM3Wq1kR6J2KN3cixoCl6K_4NeBwTVovgnTHbirRCJDkWmKcg23QZqp_SkESIlARYzpfounh1lzL2BA5Tzz8Wspy9uMD9zt4WRElolVd7bX1KtCqOFO87kcaL_xOjBpd1kggEs1OdAJKVRY2xSR_16vlprLn-ZkS0pND_p9YUG7-dntfsbzz3ljm1uqcMP0SyYctNHSceSVUO4X1R46xMYBiIOCgzDABmOWNyw4pjVumY.%26ch%3DAQEAEAABABTe59aiOGKrIMkxJSBToT8QlSLInQ7xH5o.%26v%3D3%26pg%3DPJL3AIEDEFG73B5CG2TVLQFNLY
+.netflix.com	TRUE	/	FALSE	1797858225	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+14%3A03%3A45+GMT%2B0100+(Midden-Europese+standaardtijd)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bf3b5efe-d813-4a6d-8e48-a5ef767647e9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=BE%3BVLG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1797858225	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNzXS2vrQd6_yLQ9wIRyrqXzr3PkNB1Tc.%26dt%3D1766322223980

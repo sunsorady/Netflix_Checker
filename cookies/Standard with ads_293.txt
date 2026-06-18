@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: emma
+– Email: susylele72@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: gennaio 2025
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 7356
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: emma
+– User GUID: 2V6GIPTO45FPTDF3A6UUBGKA5Q
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1798817110	nfvdid	BQFmAAEBEIkOr2hcLqts2Tc0l8h47mpgiZHSvGy0kmT7Z6WwkLkwBdscvBxvkyaT5OOVakwiUAfyEutZnnvlsht_WXKLyPoQYFlZhZ-bWDFSoH9qotJOD4IwQX2uS9T0UTZh0z7qFuHXPdYi8Ym4ejp6kd9YyX5I
+.netflix.com	TRUE	/	TRUE	1803228517	NetflixId	ct%3DBgjHlOvcAxKeA3PqIr0sDZ0idISjfdF48CBZ6iG_rV2RBOUXxj3UJNQQCe7279iZ3EuhbcvjaPM4X75poxN-6mgZMpzC41lfRiJToEmLbk-PRhvfL9Z7ADXQ-KNyjwvp1qGklyFLB4qQMctCVB0QnhOMeLho68FYLtF44n7edLhVT-B-lcmgwghfiVx_9N12FNFIUWbpxUluPeKyxwblMOvOWpjaaieLyu1vs-oVLmB4JTkfKo9t73mf0RgYSDcNFap4Hn0Mhryn3Jk2etVaGO08gZ4iV76pClmzSoZtQYyu4YIhjpZRxq9G7Q2VRF4TN7iOjIdCnVr2QAvlOc4JGEJKDfTuUQYPaeOYYtonzC52HIinVuqeSCOITUOI3rz40G7TM9Y2NQXw9NijE81MCpvEULEqPuR_A7AM28pT8VpA89sovzSMEe-XTazNDHI1z5xY-s6tMxQ5rKopkEbBcSQ0-JraW1mbPGLBxhTVWmKVe35xjUJCz0sCNCuqSCPVbih1fMFrOvbZOtntrVNVlYmwjiN6CyE9KvS9bJWTbhrCpAV0AQQvJhgGIg4KDF-v0Rj9BDA6scVUyQ..%26ch%3DAQEAEAABABSH0Bg58S2uRs00Ddk0IpjE9OnwbelZnMs.%26v%3D3%26pg%3D2V6GIPTO45FPTDF3A6UUBGKA5Q
+.netflix.com	TRUE	/	FALSE	1803228514	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+17%3A48%3A34+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e89bee0c-4d79-486a-b662-0037dec8c11a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=IT%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803228517	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTnqXrIpnrqYZAaljK97U_J0lKqWbd6HLk.%26dt%3D1771692521013

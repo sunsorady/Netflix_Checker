@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: julenletemendia
+– Email: julenletemendia@gmail.com
+– Country: ES
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 1604
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: €6.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: julenletemendia
+– User GUID: YIN2IR6SMVHT7B5IKYATDWJPRE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807899910	nfvdid	BQFmAAEBEEfNIQKRH0Nqv1FnaVVVAlFggJdCLqC5RNSlNQH_NL_X-ZY2FEt3HCw7ZixUK0eZ0dqLzrYlDSnvtEFDJLCjqGk0fG_bN9JgN7eg0JsfebPwzr8NCLBoZK_b8qax5Bv5d6d0_7YlEpxUHKONs9vMhpWU
+.netflix.com	TRUE	/	TRUE	1811751163	NetflixId	ct%3DBgjHlOvcAxKZBFsL3Soltv9XTIM2h7eUixpA4RKl6B4Mc9jpqg7hnk8blnWZvEg1EIomh0CJrx9BECrkXDkTV2d68xeMeItFzT_1h8xDclXpRk8bT5-5TxGEWkLP9LwnUe5yfqadIEHOaldejHeF70nzbaB2r7hWxrbWILUFWh5qlbNNoOKvJJUB8XvWoKZdeaKEx4Kxy8Odmx2PlwthimkaNy7m-sOQ1nBimgEKizxzx2WWDq7_TY-C3-EViUcL68eurH7uV2G7LwO3UheepHkWo3Lulm3dMxBgoMviZD3eSZQkx08A4Zdib2wCkheS-FnY4WEO0jubCVyCACvLtxrUSmNKnjZFzLQPPM0nJwVdWdGmUL62sbj3XEme1xS4BI5rFqW1QRIbfglrwRtFA4-AWNrbTgW98FFQNXvO0tf-MThCfvNSh7COkJT0CJwB8ZQ6OSnz0kQAk5CDsFCesAgC9b02ZpDAq9xMDpXX9-v90TPl3dkeIYr3i1vkafi4UDb_qNAOZzJtwGJe61Y6yr-R8SmgvZndZTRJhBnVekOyXX2wPTQkv9B2pDMo4x0QDm4sbAIjymNKLGwG4qENYU0FfggEmyJmcB48KH0jXzuOJw-U9c8bm0NSGtBX4kQxwycE5DOn27bzyeCffdrEmxS0hsukuVjdAifFDL2n2y4Ft7rX8Sc-DPAOp2emoGFZp0CSMNV4mZTMuvdfIrqgfmbvxRgGIg4KDBhqmpXxwpiBum3ViA..%26ch%3DAQEAEAABABQ0pOKEDZM9KtdpyHgEdwP8YT3cxFhhWeA.%26v%3D3%26pg%3DYIN2IR6SMVHT7B5IKYATDWJPRE
+.netflix.com	TRUE	/	FALSE	1811751164	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+10%3A12%3A44+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b6331104-8ffa-4e80-9694-65aa600261fa&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1776363894612&geolocation=ES%3BNC&AwaitingReconsent=false&isDntEnabled=0

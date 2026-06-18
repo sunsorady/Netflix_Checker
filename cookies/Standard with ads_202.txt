@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Izan
+– Email: pastoriizanelsa@gmail.com
+– Country: ES
+– Plan: Standard avec pub
+– Member Since: décembre 2021
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34682213768
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pastori
+– User GUID: PHD2TMOOVNHXZGQUXWAEPN2DI4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811163566	nfvdid	BQFmAAEBEEVaJjr9R2bN52M6QRZjxdRgp_1em3TdHo404udneqaAfq_xnmGU0heXSBk77_VjcQa1HuZv2rElRTrtoHh8q6UWxfZTGOmXzGNJkxWLxyR6i6cznOa7u__458pjIBN98CH6zN2lqvfpH1HngPgzMcjQ
+.netflix.com	TRUE	/	TRUE	1811781097	NetflixId	ct%3DBgjHlOvcAxKyAxsVEk1BKCwvllL6_B4_CXvhQVfVPi6GpUmPJw2m1qHqo8Y3RDPpkF0oKd64l7zrOkmPWickaZun9xwoHEpcFqtDaBqVZ1FoUfXDaymgp_BotYfU7pkz2ddpOewv6QXDUcKzZsjvdwaANcOnCAhL0J7PUGHZC9V48kKyoceKyHizaAkAyyO0NakMay8KXgMp9jdA63IOPnLH6Y1EGLpXaJBBrmoXnRBfN2jZ2NQ83-9nGuCHPWvsYWY33SNbxAdwh0BW-joNeP7yw0QKGdPvMsFNbBrMeGD7C1OWiRWvwYiaA8MiggVQdtVAHOZcDALSZR5ujnPaGyFCgSu87oP4yvikRuDlBUhneLicquVi8LKbpl3ZRKJalTFwWGUDgANoCt5lQ2JuPR8T7Faga0PVKEEa5sxuHy0iUd3y6cIUwQYXX9H8j6ccpeJUga1zBr8Po6l3DY7iAmWoyJ40M8uaNczPW-mHEHC9GkDYD3_18_L7hGyYPBDsnHm4szb92rH-q5_F4El4RfYluWt1e31riEPoVP0RAyLIHRy-f8lGfCyyy-Lo4EMDqnYwD5YImzIlItfaGAYiDgoMFmYfzGaZtJq84e0c%26ch%3DAQEAEAABABRJSGTG1kKXues2_BZxFWT0qLn2KoyyFyg.%26v%3D3%26pg%3DPHD2TMOOVNHXZGQUXWAEPN2DI4
+.netflix.com	TRUE	/	FALSE	1811781095	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+18%3A31%3A35+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b1363fac-4ea9-46df-85ed-fe6eb554e85a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779627573773&AwaitingReconsent=false&fclco=&intType=1&geolocation=ES%3BCT
+.netflix.com	TRUE	/	TRUE	1811781097	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ4euWkdGRffna-o69Mc8kqiWDegh4fYLQ.%26dt%3D1780245097286

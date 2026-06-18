@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Teti
+– Email: dr.tetinich@gmail.com
+– Country: IN
+– Plan: Premium
+– Member Since: August 2025
+– Next Billing: 2026-07-03
+– Payment: UPI
+– Card: N/A
+– Phone: +917629883269
+– Quality: UHD
+– Streams: 4
+– Price: ₹649
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Teti
+– User GUID: KHPYX74ACRE3DF6QTLOPRMJKMY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784269044	nfvdid	BQFmAAEBEOKSgkzhNDcXbp7QWjHffTlg_rVMHizO0WM01nn5vLD7UHCWGzuKgsGNTvtjw6KTA8LS_W780PynAPTsujMIR47gJLAU1BCOY0WLnnzxrnSJ6F_-Hby0pbyVl_AI_zprAE0xkBtPxATuIZ-BiABK_V8F
+.netflix.com	TRUE	/	TRUE	1810323434	NetflixId	ct%3DBgjHlOvcAxL-A4Gn5CjAq2Y6vJCLp3QiTf2pVbADky3jzGQkaLcRBzPk6kxjYh2Xazu6TBrL_NxW1xiKkIayg1y-ps3UN9Msf3jght-t0uNOuM4ankTN8dJ3v1wIOMw6ZNT0BoUCVJeS8s78rO7J34emoUTJ0BuCWJv7nHF6f7qdSNFGhkG8gTb1nv94m5DhlWk6Rs-ljXcBeeeHzH1Lo_TdC_XKpoGVu355TyDu-1XaIuGdv1c-hP84dxmYFDbAOmzqq3NAfn8F0Rk4pXevxHzZGwMkR03GcuaKHMPnoCsapIupSDyejANHvgzSMQovafKkv8E5EXmZ_nbEccGmPafbGl66MmZ9b61bKzgPcTqGUGshnoc0SIG6BeG46PdzvskrWU6neGs9QlhV7vs-Y79WJyIVGFyQ5O618SQ2dzpF6z7knKQbHLvnF7orsRAwXfU9ABKn2veiNnGLUmIJSSHyt97ok0YVPYmZCmVr4o3eWfaGypfFsLWfw2SWGWhF3PNm8tguDYrKMrvuIs1fCcerp9OXsoCPYHiqlYsKx7g1rhsiWPVppzWAuvAO0lpmBfwvGdBGmW5UEb-pjMvOGgb0vYu8IR_foQR4ATvvSAv2ipmIW0J557p4wYlMnRrCd82QJ6vScR6aGrmDCNF-dtYxPY1t00GN1Ja-ZmY1xacKJc-jxaJZmxgGIg4KDH-uw_4_LDhhsGvN4w..%26ch%3DAQEAEAABABS0hRC00paPIBHVTHfpTnivygQiaTEhlPo.%26v%3D3%26pg%3DKHPYX74ACRE3DF6QTLOPRMJKMY
+.netflix.com	TRUE	/	FALSE	1810323436	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+01%3A07%3A16+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=20b6418c-c7cd-45d8-8960-7790ecf5ba59&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Katie
+– Email: cordellvargas2@gmail.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2024
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 6971
+– Phone: +18325084116
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Katie
+– User GUID: A46HPOPSMFDTTMNQPKL5EDYG6E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1807494487	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA8O8f75pwRLCJzqSMozmrjCLW7S9JBHukh5XA1bZZTkfxlhXG6O5syWFE2NOvQWKDMYo8zZ65BldvYbyWEuUwsQNYxH7Zh8WGyIIFmUhsBIZGVxx4aD9SWHT9suOhESMdziY9Z7ZhcMBZOnf53oGNK6rhSWOSTvOV5gYhbLE-C9FBMyxnBE9hm0HJ6I2wQIlNVK8GC75LLLtjo6LLam94QtcIRJ1OGQY2nrN-SefYDl5UoJUFDQ8MRlogavmAZcQptzDWiKfjjTbLCD6WFfRtApC0XcKK_ais6DDOIjLkC5P6C4iYQHWKFWfWH91SOu3RR83I-5BMgrLHXKAaRK6KIe5uM-KfKrfgYkeBAgcmDYoO8hdpcIWrzHEtTLPuO38KhUDggev7CZBK8wJgjnEMFL9DB9d2ybOZu03xJIudKCQrx4ei-Fp4hlfphydz9R3_QNWCFGMEGyzuSRYvnQgQ1LaMD4wa5yn2pzK8hRGwKbIGl0GonXmrG8DNu8U0IUHfIEuPcegfLkQfbezwCI84EIKypTBvtj_hywLmzPOyaQKTPIYBiIOCgxo6kwvnbgpqEmDYvQ.%26pg%3DA46HPOPSMFDTTMNQPKL5EDYG6E%26ch%3DAQEAEAABABTujluFwjMwAQqBbY5-OQiQYYWwEY8CcXQ.
+.netflix.com	TRUE	/	FALSE	1807494487	nfvdid	BQFmAAEBEIpqiAT2A3RIvZU_PPctjdZgH6SKmcESgWFl9E6oAPVpqS4FctyJFdSJ-ty0d9LDudccjk3dQuayYnIyzXM4WlqbTzbINjtAWogIDd0AWXP8CcODrifMfbFiJ4g9tZ1VGp9etOHydX1KtoglxGE_Cwgm
+.netflix.com	TRUE	/	FALSE	1807494514	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+11+2026+20%3A48%3A34+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=12ed82f2-ca96-466c-9fba-cd62d310a589&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775958472162&AwaitingReconsent=false

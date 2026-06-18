@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Eda
+– Email: snusratm@gmail.com
+– Country: GB
+– Plan: Standard with adverts
+– Member Since: February 2024
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 9471
+– Phone: +447769567397
+– Quality: HD
+– Streams: 2
+– Price: £5.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Eda
+– User GUID: NJ7W54PE4VDG5GQ5EZ5QYBWTNE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1788793476	nfvdid	BQFmAAEBECXDuLlt0m2G3Si_CswDMOFgG5VDPBMT7qqRAzkwxg9VBEDNuJ2Qfs7nfedZq_HEjc3Z9tBrlaz8ukl1LnuAsx9VyY6NmvaRlwkVBl4vCiyYZcZYc9iVHs57jArY9VzngDGl2EDwTncnWmOq3L784IJw
+.netflix.com	TRUE	/	TRUE	1810752895	NetflixId	ct%3DBgjHlOvcAxKGBMte25O0jU4HAmOSJsA652xQAoYXZn_daJJorHpl8yohACPeT1dTY9y1K_GuQowzhxBZtiVRCJEIvImQoZD1NWKCsRGtWu4jkICH6ZZfkqKc90rSWKacyoYGf52bJvAWZW0I1ZDcPYG3k62ruHMRgwZvDY_481LfdKAF5Zf8MGjJ4NbA6iL5kS3bh74uQM9JMUD2g_RDrC4a9T80YRqcO6dozefZT8Qhwpx-KRL4lMUxu9A2g1YkDlOzszbF3Iop822fBzSNAazQcdYfV9bJiQDBl93gaiJ48noHsXRc9KH4QZnp3ptYUP5o2TqC7QZX2nM3uinqqkDTD10B_MPZnMDht8gAoLonla_wU-8TZaz_wMQ1mnpz6KijVDwljGW7DV2HliUPlW2LJeA5C9t88XlMXZMVQ9DhKop1MAHvxNKf1a8DKqjxDv93e3nDHnGXzjbJe7iz3s58IKFQDQrkw0JdVnUgjy6wKr8ABtC__yWQWA_Fd2cedMi7FwwUBXnInPz0c-Mg1fzlU95Ic_uTyr-aUcCx_jg2m7IoHyu7KfQ5QsS-HhHaCHAZxMCHUJsZ4r6ILc_R5sQ5jClh2HHeUzRValu_mWtTolQD_zLkhrx53VASPbL-_G2NV06Ma-jbv6_TlJk85ar-YYO4vjsInzgcJGzUna-qGKpIPpwSg6IQERuwZj3iGAYiDgoMZxKDddURr-CcgXcH%26ch%3DAQEAEAABABTLM39E2hWPbIECxsr5MoJ2eV4nKXRK9wI.%26v%3D3%26pg%3DNJ7W54PE4VDG5GQ5EZ5QYBWTNE
+.netflix.com	TRUE	/	FALSE	1810752896	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+19%3A54%3A56+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=130afa3d-8884-4589-b3fe-28d75c957179&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810752895	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbo32425ExOZ_K90Lh4fw9bLb903gH3N8.%26dt%3D1779216893256

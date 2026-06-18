@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MiguelÁngel
+– Email: mikela74@outlook.es
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: abril de 2023
+– Next Billing: N/A
+– Payment: PEPE_PHONE_BILLED
+– Card: N/A
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Míguel
+– User GUID: 7LOQOVEOGFFWXNZSPXUCXHKO5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794948803	nfvdid	BQFmAAEBEOWMQisWfQVNlrLNJIyjjhxgXpjyJU1QZlpB_vqppBgH25GBCUzvmOF3A6rQTn1DTDEBjL-pr-Hznz8Y4m1xdIPeI0d6WUVYiFFy1SNhD7xvya7yNir12m9uW77cBMJvuFNvEj5_QV9YC_paYLIIoB-t
+.netflix.com	TRUE	/	TRUE	1812487491	NetflixId	ct%3DBgjHlOvcAxKLBCRQgDSqAOyxXzBdytOV-ifOn1RJgI6xnzVXnZp7NcCXa64_qdc_W85Ik3y1otka6MGvhnUTd5_c01xVQPkjAG9-OZnkLGqgiP3qfQMA_Gxv8a99IwU1QuuwlSU3fYj_i8GXOell_1S_bpvTwVKsj2TFSBsBlR0d_U9NtMyG_YveL8qP5Vo3AfmYCRBJjnPvxsflc-gZl-4DXnCbHol89T7VBlHjBH7p6Q4cy2xCsFYUYmLye5Vzc36s9brVSoKwRo02FMi2wCF29MsIXggUGIeskYC8Vcc55bJF_Syy-JhBULlAXt-GLkfSeLWlhmdLW-nkDK3lOUSoD2yc8WtZdigSG5AjMm9No2Kl3sqamkdnnbChI1MUJA9Nt772-cdHGmGSq4kVI3JyPSUedugXTl9X1pUbC3-2qE3a32FVEq4sSm1rJGIm2bV_cyl8rUSMNrvyo4eXG_i2AF9vJNhQt7OYtUgZfqupgcc7Mud0DeoMX1BpgjqpywR-oqWiHyiLOQYTFzqsxb3kaha6bD7cQpm4utoQeK39jsXVa5rHLCnvkFJMmThFl-wTT5AzujAfrrsPJTCfEeeOqyKE2JBdkCAgPcPdfnbvMVFdKLB3j1ZXy7ZdIUEJCFBO-wGBuCiuEklNs72uicFf4_fOD83Wv5iiP3xKxi2xMvvsoCM02EjevBQd1TQg6cSWcrkYBiIOCgxcUxKam53R8L8jwLs.%26ch%3DAQEAEAABABQKaYZ9kq-6L21ZW5KMa4YekDLrVvrxRg4.%26v%3D3%26pg%3D7LOQOVEOGFFWXNZSPXUCXHKO5Y
+.netflix.com	TRUE	/	TRUE	1812487491	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSeCjjrRVEyfQufpxTUUBCi0KO9f8fijeU.%26dt%3D1780951492443
+.netflix.com	TRUE	/	FALSE	1812487675	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+22%3A47%3A55+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ef8cb088-4ade-4733-8dae-47573563d834&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BGA&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

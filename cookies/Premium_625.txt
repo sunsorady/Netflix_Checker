@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kymatt
+– Email: anjielee9@gmail.com
+– Country: PH
+– Plan: Premium
+– Member Since: June 2025
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 6045
+– Phone: +639266566599
+– Quality: UHD
+– Streams: 4
+– Price: ₱619
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: GIE
+– User GUID: WZMELLMTXZFL7CDG6DMIVO4WH4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783551687	nfvdid	BQFmAAEBEMPVZ-fG3NGoIOoWPd4KLQxgPIpJTL5GqEZGpNC0qgkvZb-iWYstNfEYVItfjWETsz4Fc9LWcGTwyUPq65U6l9yMjvEiDLSfCOqJV0zgj5mRdzPHzbv8umqJ78M3Kv1w6rcaWtETquAlPjoJ4AV3tWG7
+.netflix.com	TRUE	/	TRUE	1783551687	NetflixId	ct%3DBgjHlOvcAxLiA7fM65BBRkXC4rGbKuKcrBuNFRqduRJF7LDKJ9u7Z0ldnoziYp3R9L9M-uZmcyYKJxvDW99KAfmB5vsHSIbBcNva1AmedJ1t9QNa_c-nw42BRo7C-VtgPg9oYfNJZstl96tW-nNmIXluGun8g_XwmQKtLjZv_OwTdlLf204zcGy0Eg3rfWJXxgzrAXUDUVUTGsxu1zL1tVwqE9vMOV9yLIH2M_3MRTOZcKCntYvZoMgGADd9hYGjXO8kL6FhKY9RKS69tR9uoplx-16lcUVs9onaL1zVCCE6f-wK-eZTA0P0c3Bcw09xeexz71SzD0cItI-otrNMm29NOSe6igcg6N8Q0l6Jpe52TIy1HOJlOXpnKoGbDDt08fOcPZgbw9MyZJ0cV9XFd5eHz7NOgcRBe2PQSIbDWC6ldlPXx6olZSM2WmGFgXWzjfZAlcbIh5JTwCcf-fBgupqeaQ_ym3NkfDibKhdyXC_ugDSjWPUlVbD7bzHXblfp2vWkrLkRE-qgVGv81Wa99yZNBA5ieugJDmd50zXLMw6aU9PaCwXo0zvFzcgW37vCGms8DqbvJt91WUcprXd0MfB94dC13vXYGVgW8C3LP1IX51LeMjJZpsIjIfwEDiCaBBt_bhFvmbTBqSuAGAYiDgoMnOD7rrZojPy0x2uG%26ch%3DAQEAEAABABSpldkOhjPGQ81GVQbcdG3sB1k-nhGDTMw.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783551687	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+11+2025+22%3A36%3A53+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a60dc064-5901-4bad-ac01-eda3bffe4f90&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783551687	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTGIBuU-Oa4FATCrqLNl1Kq1sMsM8A7IDE.%26dt%3D1746974397922

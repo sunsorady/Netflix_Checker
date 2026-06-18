@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Anil Kalekinge
+#EMAIL          : anils.kalekinge@gmail.com
+#PHONE          : +919284505877
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2026
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-24
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 22:12:44
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811143263	nfvdid	BQFmAAEBEDLs4tj0Cuj2Ir-jNgYKU5hgMDj7Gc7qRp5MkbrSLp25oFYTN-4YucyLeKAEhtLU1OxjArFhjHtz0yegxWmvhQkVq_Vmr_hqEwSjN3EDubNRNjyFXkCMhmDcfF4rUcSHv0IwPbpKj3mz2jz6jMkj1OD3
+www.netflix.com	FALSE	/	FALSE	1779732765	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811182370	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+23%3A42%3A50+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4aab3a81-3ca7-4275-b662-ec76167e8d88&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779595385518
+.netflix.com	TRUE	/	TRUE	1779732763	gsid	061c85fa-b599-4d80-8725-1f67603e9f65
+.netflix.com	TRUE	/	FALSE	1787422365	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787422365	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787422365	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1811186979	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRs8XmurpxasGZcmoACibUdRC7IB8muKzI.%26dt%3D1779650979935
+.netflix.com	TRUE	/	TRUE	1811186979	NetflixId	ct%3DBgjHlOvcAxK4A_VOtxonLLzDBszK-Azf9Sc4sE7kAn-c7TRVL_1n1ITmoxOZWTkvRU5l_T0rIOSpi3SLUC1u-WO--CInW-htMcSbHvpiUR2FjCB-HTzKoUXeebMLffupW1zx3tS3q2YVvHU5aDrLTX6U6PVaJsCq_eyfaldeObJCZ7OCSPOt568NGpwwTm4eHugq20AqmqxBvTiGOsF69eGaa8zx8MfXp02e0wAJTWBzHXVrb9Vs-NP0SgQ-cLGyX88PxtPZbvVzqan80VabqSH1-JzaPkJZ8JYlWRbaEi1nBvaAqaEgKYTjUaZNQ4KBDwQY3jgKnwSaDBBbeskXiDdr54OpVKBvxFRQFTgEDRvWwFw-GUofXQ6jQth6xqdwvu3d2c4Vmc4ffgc2vjZPVB5Ly4wyNLx1lgUVfRZWLOvC6JYa6kIl0xwN_LDJHl6pCrzE5lRjYRLvx-ngpgibs5JAxKFT_BtW4rwK7BLjsHdh31SX6ER_4HkQF2DenTKU2njyxnfRKRnb8_3zG2O4Q1FmbgIrOgj57GU3JcXoqgNP7IA6Wnh0qUsjH7M-eyh1ZIzDurIyaSQ4-xd9CETWKiCEGAYiDgoMQMu9q8rCeDVO6eE9%26ch%3DAQEAEAABABScIevyI6ECm5dYOWoQ-Hsk-bEc2Mywx0w.%26v%3D3%26pg%3DFBVPO52CLRDWTDHY6MI2Y4GKX4
+.netflix.com	TRUE	/	FALSE	1779670711	profilesNewSession	0

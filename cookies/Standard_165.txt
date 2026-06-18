@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Abu-Baker
+– Email: nata_de_coco_you@yahoo.co.jp
+– Country: JP
+– Plan: Standard
+– Member Since: March 2026
+– Next Billing: 2026-07-06
+– Payment: DCB
+– Card: N/A
+– Phone: +818030791692
+– Quality: HD
+– Streams: 2
+– Price: ¥1,590
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Abu-Baker
+– User GUID: FYKBWBE4JVDQNDGGGJEWTCPJPU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805456309	nfvdid	BQFmAAEBEG4zlVpnKjtEjvlEPZ0QiMJgB_StckUZgj7DTRpgmb6ontXc3xPf3B7j-eCekV-mA14Y7QYtrgWmz9tKzfF2zYliZavi1-W5gU0VuDVUyj7k-rUE4ovfHdkrN8Z1vlBWyc6xPOQ6wxi6MgHfdhumHQXa
+.netflix.com	TRUE	/	TRUE	1811028301	NetflixId	ct%3DBgjHlOvcAxKBBFTK4FVSIUQW8PzpUh4ozFdJ42pTmtoFnajdR--_RJeO2aNPM50wfajMvtQQo6aYEkvdg5k8YbChPi_syhmCxp3ekc73S-OX3i-sI2P3MRjfDH29RD5NRn4ui_qphqAxdhx-9pOkv6ZHSfm5L1JsbeB10DleVWcCSkAg-eV9GUUSmBBQjbZsXz2xu3VTQj4OBxTh5xETHsvOvWz-VZYcxYTPqp37GguT5bG414l7BJZTMFSs2pdA5yulf8kLx0RpYYgEScy9qkNgsdm7b2Ede_vXBWGVyofPjpAOQa1CNKEW4CD3DkEIxAq5ROOXq3S-x1e-bmye0Zi-D3kdK4KsZxlFS7REsWk6z0wKvVN6kqldsf2Yu2qqdc3LOIrPgsxFg_40lSVDeBlkLnusrVJ95wtd8OLCzBw-TJ4j1BFCGIpgXV8vvUvH_nnyDHIkomzkuGE4sI7YzNokmy349yIOLQ4kDdlUFmRzy8acCb2qJ1_ZEX91gL1dc_Z-0rDYIPssR7C8ao6UXPZb5dhPTqbMLROqQfLQ7-tQC6kMDUWzEoZuT6CifuyK6AWgcZ_yHq4JrdLi27AUqdsjRZiy3lKgOMdjmQUfE1c-2dBy3coR3slz1YuKDMK824Mp_prDEZyVG6xQkH8dNknsrCDuiqYoNGvrVt-lzpyz-_F1oOa0trX7ABgGIg4KDOrKHY5AlEvHbpbEfQ..%26ch%3DAQEAEAABABT-XSf0eX5Un2mANi1n9ffHlVV2_EfMIec.%26v%3D3%26pg%3DFYKBWBE4JVDQNDGGGJEWTCPJPU
+.netflix.com	TRUE	/	FALSE	1811028302	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+08%3A25%3A02+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3bd4ed48-af07-4a4f-8409-6f6cc4380950&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773920261809&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

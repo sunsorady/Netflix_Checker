@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Martina❤️
+#EMAIL          : france.binetti17@gmail.com
+#PHONE          : +393487159580
+#EMAIL VERIFIED : Yes
+#CREATED        : octubre de 2024
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2056)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-17
+#DAYS LEFT      : 29 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:24
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1793446476	OptanonAlertBoxClosed	2025-10-31T11:34:36.452Z
+.netflix.com	TRUE	/	TRUE	1796470578	dsca	true
+.netflix.com	TRUE	/	FALSE	1793446578	nfvdid	BQFmAAEBEJsxEBXTznvhm2JGZ7xuIRVgcyQnrhzOC8I04tAScYvkF2LCRxt8ITU-w7eFONQeTl0meYAujo1O6ScQ4mr7poF9hGulGE_UHNxDkBKbu3IX_J8lxfPYLNxxs7K_vk7Rdf2js1f1-EclNHjddtNTeEUU
+.netflix.com	TRUE	/	TRUE	1808942900	NetflixId	ct%3DBgjHlOvcAxKLBDcl1eHuhKIwh-OzmuM7FY8sPuDcgHsrmLiGLbZj_3qcqfV4lb88vXIoZ96vSEJDl795NiWZJ6vcZYFz8mN9MrDZwNZ_m9fYhJz0VQPLnxcn6E71LxWRncM-3tXADmaLcSS2OpQh8E_eOZGF0CSn-wRyu_xPNq_4IZTNMBB05Zym8PydHE9xHa0rx_QbipT5Rsizr1mj3bZobqyPyI7UAHFFhWkJXkrCD8ieQXIDBfwhYGwoL2lFl0VWUEtmRSKiNSYjuteu-wB_XC4gCZB8sSwRYkLW6cwuEsqNPoWHxNxe-X0Qhzjx8Yax1UlfMW1vAHErsFgHqH1ixtJvgEST2UJW-C0eam-2vCfgvu9GU7vevGa2d0TZ03tLSrTh0rKnPMI8gwX9gi9CSLSQHqtKWYzW2UgxH5_-RvNQiIHke-ucSgWHnIqNT-7qxMuNgTQsLT3FGDFE3Vqt07bBAj4mGwO2_o3kBQnBTPz2rZ2zs_qlioR6PZnPIhzQmqpUz10NGRHRFEssfq00koY-i6wUSXRKZTSJuC6CkvOlLhsJvqSKpgla3JXj406lGPeF743aqcbb1fiUXjMXpKPNF44F4XdKAZEknK_t7eU89MRqCYZQGDa6zGhvQ1qra6KLSBMRfgR8XHlZX4W2-DqnZ7bgf-SeDb19kEeeZLj_k5vc4cxHNHXsPw04MsfuoRkYBiIOCgzhshM8Inq9KlxUkQM.%26ch%3DAQEAEAABABTnZcN2yo88aidUQmzJ8FF0roeIjaMJh-g.%26v%3D3%26pg%3DHKDRNIN45ZDAHIUTCHJIIS2LGI
+.netflix.com	TRUE	/	FALSE	1808942901	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+22%3A08%3A21+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ea396e3c-00ca-433d-8614-8862bf9e46cf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B75&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1785182901	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785182901	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: AlonZo
+– Email: alondim2005@gmail.com
+– Country: IL
+– Plan: Premium
+– Member Since: October 2018
+– Next Billing: 2026-07-04
+– Payment: CC
+– Card: 7397
+– Phone: +972546965104
+– Quality: UHD
+– Streams: 4
+– Price: ₪69.90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: AlonZo
+– User GUID: PPWF2B726NEBRKEGO4SGYWYOZM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1801931531	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA-AqI2hn17wpPNXYlW3JJlJF9Qd59qp7e388pVKRdM-CtmJgmdAodlNrD1guK2wIetoqCAhQ3BOkx3GiQcQp9V-j00WoLaRRJjHwvodHzl1Sw8hAXi9g1u3eszS3pmcYYdPK_KJAE46jO1lYUhZm-qsZ8kA_b2lTBWkJKF22AQPQ83IZN_WAstgQzYnlLOWAn7Dq1JD-MmNgDvYz2KJhVuGsJ_hPrQYUpEtPARJ_hg-oRBMGmc7Ads55hWkhLb9yYyDFhLVl6ron0Ci3ryktge5W86ZISMA4XcB7-Rwvje5TwcbRLerapLZVa2n4mQhPYW028N9HOX4dke8vd2kU5FKPbCQ2Aa5UiJ7ilGTWqOfupbyJEEYp9xwNK4XRxWARx7j-Rl12OyVgrFX-NzdOvFOVpAjZrPYESCKzvJnv3f69iNQ9xFEaG_wFIDFoot9Wo9_VkWmwEYcNr9mlqwCretWvNij74YXLDL_i7Q3w5MfLzhCTD0p-EWT3Llk-9oKlq3KYUS_ukoZkGAYiDgoMqJ1fZgQfKADxx8ve%26pg%3DPPWF2B726NEBRKEGO4SGYWYOZM%26ch%3DAQEAEAABABS9MhWJSWXpUihASxWJR3uRMVZS3UXBrHI.
+.netflix.com	TRUE	/	TRUE	1801931531	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSuwaidZ2mLp4D_q_UP2iqOYuLwvKQr2w8.%26dt%3D1770395941170
+.netflix.com	TRUE	/	FALSE	1801931531	nfvdid	BQFmAAEBEEWUw7fQ-mCp1SScFvEMy6Rgva1gHM36coeEUq_DP4i-Hg2xPt94ukhy21FBpC9Z0ogm2s6xoBolIWUPl95Z1posNIZy8uZOf7WdvLhHgntB6qlPMU-IML1X6-codoPWKzfsfhunWYOY3qokpeChFr_q
+.netflix.com	TRUE	/	FALSE	1801931564	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+18%3A32%3A44+GMT%2B0200+(Israel+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4af37a79-9905-4ea7-ba82-570681f0ad99&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1770395455751&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=GB%3BENG

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Alessio perfetto
+– Email: marazzotta.officina@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: maggio 2025
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 4052
+– Phone: +393207875969
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Santinella
+– User GUID: BOPXWUU2CRFSTNZLE4O4KBCHQQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEOhutYjVps93qTjcuDJtA3ZgfAqj8Glm3-q9jS4Ul69yOlycUY4OBWK-ODXg3xObNZFncDDjpMPri4jy7thgNrPrNlsEfBAYRY-FJxyfngiQPQ6W_W3zW2lWBdQHzQtr9QRckwN9RnKyGoui0Ayiyj9n
+.netflix.com	TRUE	/	TRUE	1803573409	NetflixId	ct%3DBgjHlOvcAxLtAzct_TRW-M-ubN7Lu90Ot309XnZcidn8W22U8c_ATct2eB_H2Df4F0B5YEudYYoWOCIBgY8fXS71W9XZ9uSlVBfyPoZygBgEjgCP4gAV-4buQfw25NXn3538i-4Kcl2DO0pgvQ44f5Xa8HowuvWvbY871QW6Wh3ZvV3obF-D-13j5zV3lDRaBesgje7fGum-7rg2bllBsE9NZc6eG_rO-thiI4iYu9bWdQCIk7mGC5JI7_5z2_jH_33684SHwQDF5ovsQn9SoqQ6Dr3HpYP4sBZSSxWVz0qai5fErIvwP28J1Dj5u9OX3_MvlshiUUlULfp3Kikhf74wynKrXOdxX0TgA9zrBI68ga0hSGpFGDEFAqP7dd0y1-1hwHhAgzjtYV8s3GFZfOHS1-xqFbhSTojs3zaXUxZaTwSChoNK_hNV4NHDQ0st6Vyjc-gFLkR5Ag6SBrR_Zs8hbJe3mtm0UmQFWy17WkrLVtHXPWHNDqIsF_1dQ7l2oOFfCOsoWBZ16WKxEEmwGsTaIet27IqO7REKsQ5T4H6to47rXwSzX52O5enNyts1Jd_7q1p7-Jm_fy-EHU-VPyHxWEYJ3QNK-AGkxvrCg95VMeNupezdTB8zXYLKLW3GD8-l7vKlfnHwBwCKWbUhn3JrtI3kd-0YBiIOCgzGwL5fBh0ftue9pSg.%26ch%3DAQEAEAABABRHH0exthtbXc8GozkYNnH6TGiTgUJlV2k.%26v%3D3%26pg%3DBOPXWUU2CRFSTNZLE4O4KBCHQQ
+.netflix.com	TRUE	/	FALSE	1803573421	OptanonConsent	isIABGlobal=false&datestamp=Wed+Feb+25+2026+17%3A37%3A01+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202601.1.0&consentId=3d3bd727-9e29-4528-82b6-2a305c2b5aea&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=IT%3B82&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1&crTime=1772037421876
+.netflix.com	TRUE	/	TRUE	1803573409	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGaakCa5lQEdWSX8Rg5Uxeu8fu7lG4D64.%26dt%3D1772037413037

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Double_sided
+– Email: moedzys@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: janeiro de 2025
+– Next Billing: 2026-07-06
+– Payment: DC
+– Card: 4177
+– Phone: +5581984640145
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Moedzy
+– User GUID: 3TCPHBPM2RC2FLDYIMK6H73HWY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1793787911	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA7mY9qkXyYBe3qBN33bndWGO-RiAcuyffSioAS7Au-utn8UOehSpfMh_TLLIErF8zNDONDJAg7pBQBsY5xz4AkMIoayVvR4R1K72kpL2z2iw2oZS7nS98KhPZf91SXoZ4BQXclBQgKO9l4kQ5yw9ICHtNxmVublHVSVtfiTiV1V3nPUjxalmN6henvrh_IgpPXh8dUQ_4W4f43PwfU5BvRQzgkIdw0NR8mTyDGdopupXUuhfxVd90_RKsEWoFrOUUtHgreor2_YQ5HOehq1gZ45CUDMEPrd17GtfL-BnslYMaiXThpNavvuQ2u9LJkPQDozyy6Sx-wWahysBsjs4YuEKX7khx05lnfJbXXCC9Nx7FSBJkT6jXBMOG2mXtalxF2QUUzJKOP3hNbkTtoxhtdmodhnPEM82E01pj8ygu7hS9baY8EBg-3rDhXPTajPECXMiSjypmnuXMc_GU4cUCJeOiAbbV5Pin1M270ooLDSUNUnGO_ZoAL0rTY10uQzZKRgGIg4KDEqMMoVHvXCmagdJ_Q..%26pg%3D3TCPHBPM2RC2FLDYIMK6H73HWY%26ch%3DAQEAEAABABQGnyue1W3LQLa7LSRD0JLK_U0k19qLXjU.
+.netflix.com	TRUE	/	FALSE	1793787907	nfvdid	BQFmAAEBEPCES48IpyyRBvqwAf3dGPlgcYwqwOaisnn5LPseryhWok7cFR0mXfjowDfHsWJ1p0c6QKFfbGAEUzpyaJum3AwQeVpx_kfB9LRY2Htm7ZLLwImyNRI5j9aDzFxnWgV4gKiYcmQxB3L0_gPJGIQEA3mL
+.netflix.com	TRUE	/	FALSE	1793797343	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+04+2025+20%3A02%3A23+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=47aab566-e364-4518-8831-398862f237bd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

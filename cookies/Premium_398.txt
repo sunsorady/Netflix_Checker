@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Andrew
+– Email: bruceas@gmail.com
+– Country: CA
+– Plan: Premium
+– Member Since: November 2010
+– Next Billing: 2026-07-07
+– Payment: CC
+– Card: 5500
+– Phone: +16049162249
+– Quality: UHD
+– Streams: 4
+– Price: $23.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bruce
+– User GUID: NLI2BWKKMNA47FSTC4AXCOZYMA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1788756772	NetflixId	ct%3DBgjHlOvcAxL8Awj38MIee1ZBoFIQkiEfFf8Rp2YkjxkG5LmsEhrQ5tAqJP5eKFDaAcOt-LT7djXQvwI-jBojWmwqvpmwQ9XpgoWw9O-mMNUCMh2fpzLzgoe-HtyULrjgUYjdAFN4-j5x_QbkIt7NbWnWdwuPwp77uOIiVv-wFjoIgv7NsJ9I2IQuuwxKEmCgwfXEluenLU0rERO8fwE0wcJGK8P75tGfow3ZeSZGJa2LyK8VF9D95k8WZyv28W4m7PxyaHD86JnfY5pNQz2CQ2J-FtcVdvrfK_cGDLEqfUavvRqXfSMWpKGPA7Gfcu21KXpB7JYPC7HRSWJCuXdThs1WpJO_9t3L7BRJunialsmihikahkZbNl5-W1rj7qPPiEpY2bLWZVpCSTM8O8cTuPDLCy33yPbeowFyIQVCgSP8lpaMf_tK-FXO3H8d-4TFSXyJoCETAsdiVGdzoScvbwhnTEsNowrFdA1hccaONDZ0-G9YuFYnToAZ_sZl-EiRb0o1Qkc2layNcM3sHpBQR1k3dBE-mCP4Kq4yi3wkGBB-vZWKMssCar2w8X-MGpIv64bT9qGxXhjEjj_AHx_M6gONTQD_ITCDMAwnNJeoWNSLd-RH0nWoVCgdtRIIfI7RQ3QX9E_5FsrT2UY4ohCwPEDvYpbZXUNZQntSSBzaUcblK0JMiOUYBiIOCgyxbdFzgRMWs2AuWno.%26ch%3DAQEAEAABABQz453vHZZZwSyWccx2Jb9lOczzoA_4mKE.%26v%3D3%26pg%3DNLI2BWKKMNA47FSTC4AXCOZYMA
+.netflix.com	TRUE	/	FALSE	1788756769	nfvdid	BQFmAAEBEM9eNboxdg3Q18XBugv08G9gfLyKzLqQ9XYEX5hucuRXsBZQ3YgJJOYmjseoCoaaqbrISmYt5vvr-HUh0PmO72pbBLA1SFhuglsTiA3d5uQJbrXqYtPPesluWXYEL-fmdCyxtsMpNPj4x5qp0nhDP5Wy

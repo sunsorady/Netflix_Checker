@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: pharell
+– Email: alichoumali.us@gmail.com
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: octobre 2022
+– Next Billing: N/A
+– Payment: FREE_ILIAD_BILLED
+– Card: 1890
+– Phone: +33769946681
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Walid
+– User GUID: PHUT4O4GMBBDPLZ5CD335355BY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1807466961	nfvdid	BQFmAAEBEBUMqqVngQFRTf3MH3NpqFRgcT2NZ4p-bbhGuuLEN9GhqX7dSr-NPH7cwiT5FcP_8fh1-xrQK25Kf7GQIWrTc1r5tb3WRUn3LPKs8MfiEPeekZVAR6tlHhs-yRYWbBbKaFE_c4ZPKa0d73lx9EcMR0sE
+.netflix.com	TRUE	/	TRUE	1807620638	NetflixId	ct%3DBgjHlOvcAxLQA89csov9leb49-u8y85wrguMReT7b_9cIxmVfNmWp5gIj23PVjgO5TW5ukbNE_ZEGwzocZ2LfdtjRFhrvj5vGqWNoGTvl7aOHWQ292hDuCyFoAWD7CkzAc22F4sjIITEuq8_vTp6nq00zJ5zpWAw542Un9-DWlRq_IWek9eGwJDfFJRkySe5GtwO5IesP8zP12iXKlDb-NUGH0d_nRGybduVDAMYnqZTneO11lP_-HWCxyx2HDdN-FxkGZ6w5LKNLxs7QtltfmtQt3bkdeGjOWbAw6PUsp-H0Epgpqq9nL2W5gJDixwh5gy7ed8KSbC_lE9icmCFwDITXQDpUlEyI83aiEZfopIcMHUjBweOvtoBdboMaydjMCrFIVGH9XkZ1l2ja0IdLCM-LLX6FA7ApaUeHkUG4NfuUzaiJcDfe8sLhD2wSH0Mi-geOMpS-zf2FCkF5h7nkaDukekUKHuVds0hLeVQ4LUs3SsZSnOYej1bmRiWMR4s7pkg3PYljDmElMV3yNJHiRn1PYEbt2kznBui8nohW17251iWLo5OieNI5EOUc5dBtlbi2m-VsJizs9_sXZGQGrQjjLZRBZ7bcCKVqQix2KYykb2PLTaBnl9YGAYiDgoMKOGuvsFRMRGUBIuH%26ch%3DAQEAEAABABQK6LyRAWk2NXr6x6nnFU6x8vcH0DH00Qg.%26v%3D3%26pg%3DPHUT4O4GMBBDPLZ5CD335355BY
+.netflix.com	TRUE	/	TRUE	1807620638	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXII2oUIXPAQyr0CR2-Gbym7WtCXMCPsU.%26dt%3D1776084639912
+.netflix.com	TRUE	/	FALSE	1807654410	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+00%3A13%3A30+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=288a2ee1-c18b-48fc-bb0f-93f23d4de8d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&AwaitingReconsent=false&intType=1&geolocation=FR%3BPAC&prevHadToken=0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rodo
+– Email: rromo819@gmail.com
+– Country: MX
+– Plan: Estándar con anuncios
+– Member Since: enero de 2026
+– Next Billing: N/A
+– Payment: MEGACABLE_PI_BILLED
+– Card: N/A
+– Phone: +528443287703
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Roberto
+– User GUID: Q65XR43W7NEARHX3633YLR3V4A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805399212	nfvdid	BQFmAAEBEO_QJudSkSJYTf_JBsjmQAhgZfrmDHmtIT3Cuv-KvKoEsSfroLsLqgyvn-G9lkMCbA-LO7IF5sIjIMkM9d1E4qyfly9F48_jN-N0VFdWZzC4dxMWUQbpYIPBZGjocuUgCX_sbZyYVlk0avPztmLTTXoC
+.netflix.com	TRUE	/	TRUE	1808479777	NetflixId	ct%3DBgjHlOvcAxLiA3qBlwek1IBqtYxJVXeVawdrXNy1TaZe_MmwJof9fTcpTJ80s928n1pbUefqHohT4QxJ6B4yCswmdnB_fIsen_tooklFAhxAERsImz5d8j8Hdv7O0ffsE-ZYQAWBEP1w2g_6RaDZk8XbnZiC-Dp_q7U7-sJ-ZfAxsrsm18u-9ZbdwbP1gwXPViY4MhLxYKRboftlyfX9cMkFyQAYtDbMcmeRU5TtJUc9iV2pbL1FG3ap0kYlf1BdwcpE_hGTCIUZYqamHOaW2GwY3DmyjUG3Zll0jCOG08pUK0Q72wzh6A2VT1WYEdLwFKtfvFC4CB4C5BB1pha0TodxCzMr85W1N8RFbbcxHFLzRGwKzee56LHORtmRNntjFWV-lqK4i_kxr9bpfHKnTyFjCPz_yPlBRNXJug-kHT3LGx62gh2Uyk9WIsb6ulsery--6YJzcVmQHNQz9VDy8HGuuHlSAZ-q5GpCH7MnhEIAo5h5TlB4VYCUL8QFLBhGJdmwCbbIn_MGHiFRlrgl2dmk4L1XmvDSWYfghhpypn1x47HBVKftdPzz6kocaG0UsCd_tYbK4Hjf3R2xWCkiP6apsjuiyGvFQJkWKFKxmUR-frVZoiPpGKiNfSeKj4CdFksaCKC5oxdr3YffGAYiDgoM5GldvOjMVBEI4wOj%26ch%3DAQEAEAABABT-jDRoAiI0ndvfRNO_aJrtYsoG4RDlzN8.%26v%3D3%26pg%3DQ65XR43W7NEARHX3633YLR3V4A
+.netflix.com	TRUE	/	FALSE	1808479778	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+05%3A29%3A38+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=885c78ad-c879-4fbe-bbab-2a00a2feaf6d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BTAM&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808479777	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTL0d5pquVqDRxzEcMPUrwomFA2ykYlygM.%26dt%3D1776943776699

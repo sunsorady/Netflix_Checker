@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Tiago
+– Email: JoaoTMRaposo@hotmail.com
+– Country: PT
+– Plan: Standard
+– Member Since: junho de 2026
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 3171
+– Phone: +351914756982
+– Quality: HD
+– Streams: 2
+– Price: 12,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Tiago
+– User GUID: ZE643TAJGRC2NCPKGIPOE2ULOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1795472095	nfvdid	BQFmAAEBEBnkG_B28c6dWcG2rADJaNFgKISCgrP63Pa_HsMjyu7bwBboJpivMUIIGflyiVMGw6vdvQvu0s-Y9-1jEv9YB3_Fc02td637X1NxdPxbdPrdd3yAAMrqavoj4CAJT24SXTU6pY28i1IGbfZNjn7avIoA
+.netflix.com	TRUE	/	TRUE	1798811719	NetflixId	ct%3DBgjHlOvcAxLCA6RxBC6VW2qKALyCFaaueCqzUwZegUxwVIUKNxSPXcNOlJbcYTCytjZw5uaiR5S67O2GqF1CAN6J2ofC_bXx4MbR6uhPe0aA1IQC_kT0ZhJlKWGcRPV5BQy9bEJM8d9LWa8hbW_pzWZZTeZfxvAC6m_iiSrXHmG8H5wtC10peevKHuO-1bQQYUcWeTlALfg_wRe06RYrgJ5Ai02laJX6xGGCLb_2l3ElPqArlJ17PVAjaP2PmGYYgVN_Nu24QTEpi9T5MSB_tbgg6RWdc-q4EH02ZChllXvtRdfBJVCuSPCW45BRCy82S9HOOUpbCocngUh0l1a-4Ci79mPnrpNTZtCkp1Z_oCGmmN1E-e_ezry3YjrIiCv2dgfaDRPVFyhkrvC0z0NFVHm-Q2Uw0u3pnRsNCeb-lGj-n-R3ERfrvClAOP1WDgKVZzatu2ZH8kGr1ZVdiDNyM7uBlCUCnfYyEnI-sYCa3r0Z36aeD-qeX-oe4UIYUT5-ESx1Y9Yz_watuewGXM1_gBLUU6AUzPn-7h7snwlzCybUpxBEiiKsnMaLaBAKFozWvkL0A4zDUPOQa5yuSnl7cKD8_M0eh2DG8M2gaxgGIg4KDFo2oBJabqRVdTqJNQ..%26ch%3DAQEAEAABABTiZE1T_X00_Cwn2E_0EOVLh7Sv3k4SOIQ.%26v%3D3%26pg%3DZE643TAJGRC2NCPKGIPOE2ULOQ
+.netflix.com	TRUE	/	FALSE	1798811720	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+13%3A55%3A20+GMT%2B0000+(Hora+padr%C3%A3o+da+Europa+Ocidental)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9027803c-bb2d-4d2e-896e-26de1c760c17&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PT%3B15&AwaitingReconsent=false

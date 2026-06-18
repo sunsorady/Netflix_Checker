@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Mard
+– Email: suyash.srivas@gmail.com
+– Country: IN
+– Plan: Estándar
+– Member Since: octubre de 2025
+– Next Billing: 2026-06-22
+– Payment: UPI
+– Card: N/A
+– Phone: +916387104055
+– Quality: HD
+– Streams: 2
+– Price: 499 INR
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mard
+– User GUID: 7QRORGJUNVA7DIMYPYITYSPCIQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791471699	nfvdid	BQFmAAEBEGTWGNzq8zzDnkX5YgHD3FlgMT7LaFgpD0h2pTtCsAG3fDNE3_dASwYJOyozLjKpwqHIm2koXuNuyFWz8ED74SXZB9hvMgX-qCzYxunuXtPGN3bWn0Atp3Pvu8CaV7EOoFHrnu6MH1xsrlwnvn73j3X1
+.netflix.com	TRUE	/	FALSE	1810275631	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+14+2026+11%3A50%3A31+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fa63e302-c715-4327-bbc2-1e2d6633bd5e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810275630	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKYA6j-C_ZvScKxQmLMYOqeloU74EVj63qNNTNCbbYazkyzowuhd7lZpBskvZOA-2pnyjZtqfzgYBbQth2UI4EH9uadpcINZrUtwKV6VxzfAD0luLBHCkVzf2vIrSDjWZt1CKiv9_leE_mw6xC7rdMp48K8gmHV36WCJU6bC7HhIYT05gqVdwytwNEZ_QVOCxHypgEDE8wD4p7Gxrf8WBHn36RSck1OO3PCXkLEd2q-_ZwrLRuS1pEnTslPqJKggMf2dIqj4L6inFTwvyLymMHM5lBscQLyZxkf1wddu0qt9ZBiWNMtNSfSrKfIOcmnwS-T6oRn1_VvEdcZcetD1OvHxET8RtHXV1Ssd4JYG_GgUtJSaM_02hFLjv7OvWnUBDTXLmnG5jwQaF21_S3ducezrqYvffsMVevjjU-jr4n67eNGYj6vByg5pmQbmHXBKMkZsScAbZynWL165fN0lyLsqjHpf2CqT-xSULETIk_-Lq2nnNYuWpeLMEPm5YR-nhYPfEaA4PgTtp3PY6-ImY7oSwirSZnID3J0BRgGIg4KDDncCtx0LDYHMP8ylA..%26pg%3D7QRORGJUNVA7DIMYPYITYSPCIQ%26ch%3DAQEAEAABABT41MUsvwRj1-C70ugoc_joiADMhdihJu8.
+.netflix.com	TRUE	/	TRUE	1810275630	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSxof5CmtCB6wREL67Rzl3NgM6mrEGxYh4.%26dt%3D1778739639393

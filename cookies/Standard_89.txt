@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Karol
+– Email: dorotailawa79@wp.pl
+– Country: PL
+– Plan: Standardowy
+– Member Since: lipiec 2024
+– Next Billing: N/A
+– Payment: ORANGE_POLAND_BILLED
+– Card: N/A
+– Phone: +48515874913
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: dorotailawa79
+– User GUID: OITB2PZB25BTLCQLDQM576V65E
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799608833	nfvdid	BQFmAAEBEDE35bAL4RH0mIy1DkCaQFVgMBeVfxc0szdrCMsdu_aXHGEuRFefwSYFJfC13NlJOl-nCTWXo0TdgfQR_x9mAajMbL_4CKDreCDTpY78occDzHUrlwXHXxZNWn0ksOZMVbEOa_Z47SXtGyP62delYvhm
+.netflix.com	TRUE	/	TRUE	1803645581	NetflixId	ct%3DBgjHlOvcAxKUA9gzNAfJ_rN3A2g3be_Cwc2OIUQx6s7XC4VPbFJ3eUzaRshpQCqFBfkHIO6uGq3btUs14NX0Ii_EOfNgSgrdQ6RrXDeUhLanicbX5w0laaC1LcLntfzBDrnveu4kt1T9_09pjXiPhxkND_zXHDTLZLtKWXCG-UQe6SCnRfVtnTF8ujAKJfJGgdnqeS3fVO4BlnMuh7JTK8wKgDSr0fI7l-sM1_R9kbM_kkSsBop5Fwk2zZOAmB_r8EzHvABeQGVLfAsx-CJMKiIskemccBYO10WLVkGbLlP3_wTDa3p7BqomW1GETbSLHAQ4PQP4soDAC388kMO9uhnHlMd24QOYth3riY_CeuE-V82cbJfpi9me5TFlsnb10c9B0zyN2WMB5O0qX-r6Jjee-Q7p_mtClBT2YzioqwLdVTwhEc-2bFgRcr3cMNIEGtZwYLou-S_-90UAUWEtYtTk7WL4Pf-z9aUeBL1gjISr44FWAjC5_5gp_mpX0VMdIycRNrRqxO31ntGj6PV2_OXNYaL9rba8XXB-QSm4GAYiDgoM6Cbm4S4fM9t34LqF%26ch%3DAQEAEAABABSe-P1Bg6ByQpZbvF3SVhZjfl6Y8FuBx40.%26v%3D3%26pg%3DOITB2PZB25BTLCQLDQM576V65E
+.netflix.com	TRUE	/	TRUE	1803645581	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRkBwMocH2B8Yr8IUlM1XV3ZsXO8-CCkio.%26dt%3D1772109582914
+.netflix.com	TRUE	/	FALSE	1803646464	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+26+2026+13%3A54%3A24+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=550d0110-2c34-4b67-b9b8-25e81180b07e&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768072859980

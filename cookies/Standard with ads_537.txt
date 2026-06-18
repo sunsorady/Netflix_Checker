@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Melhor do ff
+– Email: elenildapereira012@gmail.com
+– Country: BR
+– Plan: Padrão com anúncios
+– Member Since: novembro de 2024
+– Next Billing: 2026-07-06
+– Payment: DC
+– Card: 5592
+– Phone: +5583986441590
+– Quality: HD
+– Streams: 2
+– Price: R$ 20,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Pretinha
+– User GUID: NZ7TSFXAKJD7DAMXPOSKWM57UE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808609787	nfvdid	BQFmAAEBELudombXQ6aYwoIB5C4fz8xgoZd4SYddpwjGvjtqU3qWdPj1iGdLudOGgh-FSXpG3OdcWRzgWs8TSaHij6zEnIMbOfFHV7JJfs1UrfXCSS1uCCVI29_efmickY_NRvGzyNwLIG_wpND2Q78smrfA08fT
+.netflix.com	TRUE	/	FALSE	1810491408	NetflixId	ct%3DBgjHlOvcAxLRA70_5n5IWZfj_I9CS9zddJRIorDtmtTg7QWDZ07hDWaiRva3GHUP9Di-zw5KmIqQtUgDeMgcR1rXfNmQgYkjR-a0Rb2PLCi_9k2bxEmC0S8ECJgleDbvO_XsakxMLAZlE3ZVcCigROdAzyvXF4RzcK_DsYe9oOEhVgKYSOyNf2QSRMebA5752awabvPdZK7-OadtsbPOMe7FDzcd68DA0dE5NLtPVC6CvUZ2ABMOi3p90-GFjq3wl0ZtdlRXhY46IZY1AirkXSNNpQvfSGT9WLeDojw6qPhDyDbMbXuzm0nUKGEYoGXE0rACPRV1k43Oo2LWzauxeXSaCRQ1emR30AY8iuUlo2TnYwqAF1eB0zySzlGxVDZ29-me_vmaWtD5e5tpx2zVVLNGEoZ6Ja791KK5r8hSNro4ZcBq8ekv8rd-hNNsh3WJRrciSax6emERgzgh8dK7LKD6Qx7ZrmDs7eQbRyQWpy9YOJucv7yAQUWyGrVmAdNU55AfAbpFwiq4TdMTrAnh2D6sxBUsVmH08g2X5dBXDx1PP-QcJ2XRaNztq36uJXtuU4iVwsUYAeLDm4v0mqRQTgIdM7httx4nxyJcZQVaXhYKmXLB1CuDhAhLThgGIg4KDKGCj3_PL1UTY1WuNw..%26ch%3DAQEAEAABABQAI64GkmVlp9iPOuA1jVkZfWLpra6AFwM.%26v%3D3%26pg%3DNZ7TSFXAKJD7DAMXPOSKWM57UE
+.netflix.com	TRUE	/	FALSE	1810491529	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+15%3A18%3A49+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1e8a8b04-c072-4f59-a893-89d0c31cadde&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1777073718531&geolocation=BR%3BPB

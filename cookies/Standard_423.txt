@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gökçen Duru
+– Email: gdnacitarhan@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Aralık 2025
+– Next Billing: 2026-06-24
+– Payment: CC
+– Card: 7788
+– Phone: +905452441636
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: gdnacitarhan
+– User GUID: PR6PUG35RNDGPPTFAD6KLWE2DA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808149446	nfvdid	BQFmAAEBEKLNwFSSgKtpU4sZgcFLbnRg1OFvu5hjGAjjAUhCdd-YkDFe3vc4vK57eCPi7IyjyjW_qOgDLMQEUqo_U84SmnP9WeS7isu5v76AU--pDD7VA0ESr5SHIomf7nIUTg48ikmsYqI-dIqklH81YFe4uq6t
+.netflix.com	TRUE	/	TRUE	1809283561	NetflixId	ct%3DBgjHlOvcAxKLBFNcngX_rGEoKTUprqzcOHV4TsexXFuRYDM0OaUQRHW0vOTQ6W0cFM5s0Z4EeJKDnb5eGtEibTwMDpF1PAI3BEWWxtXEXH0TCUlD4bxx5QQ80B369lx6Xgx-bxMkBf77Tax54S1G0j7R_8LSQRKKoXGHRUsgaMaXgB4juuGxV-N3RVDtjGt3AxR-9_zfxC3qs6gqtAvn7d12WsW6VwJueDmYH6bZF3cCTJ_H5YG9rWYsSGsNQ3YQXpSFT1riSUaDmVpx_DGJr3VqihnVI_SvoSyqZZan61yqOLR7iTMawqEuWyRNrHT7INHE80Gb1hI8pdZn4LLTOgEiU-EmZwOQuJBcGaGTpvyH5ou5j2c_bcnvyRJZbcW5AujlOXMphTIs6ZXU3XOOTEoQwz61FJRgeWQvmTEYL6jz50onqf6PyuxWoNS3BrbCnDlOoxunwDhh9ckk2iPh3TgKrx6dOOhmpOUtgBa1Qr0uDi_ULufXLQ547sh_m2C-JxMDwSay2lP7TWlP-wjLtqbFUkprriiFC5KOoa3TpBPFRLJO2r5LxLjERuL_Ph93nR543UsCMTEG5Tuv9XJKORkUxqrGpc-jqCeocxZ8QtL19OcBJ5n2gpa4Gsx-Afx1bhuTP61U1wdZJwQuKdfLt1Kh8cA2BS9kfAhnH875xCsXGEI52SVP4SKxwRhmtPvkgTHuMwMYBiIOCgzoyJbVdTkrJCH8tEg.%26ch%3DAQEAEAABABQKnvpjxrP4635BNHHhjSCgQjQ9w2md9dY.%26v%3D3%26pg%3DPR6PUG35RNDGPPTFAD6KLWE2DA
+.netflix.com	TRUE	/	FALSE	1809283561	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+21%3A46%3A01+GMT%2B0300+(GMT%2B03%3A00)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2f18e890-15d1-4340-a7be-3ab5a34a41d4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776613413608&geolocation=TR%3B43&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809283561	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR82QBGgeClgc2GzvbMJpD2YcXET8DVScE.%26dt%3D1777747557243

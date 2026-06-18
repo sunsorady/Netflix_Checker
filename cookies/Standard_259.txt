@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: doudou
+– Email: chateaurocherdelasioule@laposte.net
+– Country: FR
+– Plan: Standard
+– Member Since: juin 2024
+– Next Billing: 2026-07-03
+– Payment: CC
+– Card: 6440
+– Phone: +33682963527
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: bientôt 30
+– User GUID: FHF7SSQZMNHDNEJMZAUUCX33OA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	2543159752	nfvdid	BQFmAAEBEHNy1Nnj6yj-g-wggpqgsX5gEhLAcJojsz3e21EPLpJL2yo2PSZE5hQ7FkD4I6tm614T2dzKXl8Vx2OFMV4Sosn8J5BB-oqAiUrFr-VtQQpwU8IH40XaUAUi4UOKSlxuFDhxzjv5V-9AKUS3UtsylcB9
+.netflix.com	TRUE	/	TRUE	3966043506	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGi2DYt7I0TZNts3LY7DFC31UH8JxGzag.%26dt%3D1772021344395
+.netflix.com	TRUE	/	TRUE	3966043506	NetflixId	ct%3DBgjHlOvcAxLlA5I_fgYnhIBfz8Psm7ZDF8uM-Rjupb7oRtOFl9FvSgFdjPWiDbho_fWPLsyO_CTvfkO0-ul4VsrnEsD8TUvCGFhacYh3bz4QOIk9vkB02qDJMuZy5OJ5yN3eY0mVvlgqoPUVfRGmpTox_8rqVZrYu7sAyP1RBHJrtazkJWJhHyJIware0hBd5A-n5WBX5JYCu0XYkVfvcnWxDCtkbnQ78S_6RZYBvBKEExFMvKcvIUQZSrxHerNydwLuppP8x4G-vAdXwEHCeVrRm9sQVk_Y3mGwN0T5LDocAPI-d6_5keZsmt3RoIYyqpTkZk9Xcr_vvqmsZGgoK6OiZ1c3m-xeQH__hga6diYWahiz2uR8KEsa0fg4hgsjB9A-95eFF3ADT1fVxKw3_bQsqKJAqF0U1lu8PjZ_wr-NuOhPiYXwFSqL3Zmffru0QLVIXpzPni6s8y6QPNxAtnF8BDCf4ZExFw9cs2gaoeRML-45igOPFeB0a5zsYFL049TrSZOIwPM46uiTR2VJXw9QvINkVCRO1gmBEvOqnNcBZQCQ9NyCrnh0o0WI_oZMA897VOKvSzp1y2ytXNJwy5GO-ga2OSLRUzSqr9AgEiGuAJ3uVFeW7uoe8YkEt24H2nHRl-Z3ZPm_yz8SIjg7GAYiDgoMk0ScY4eK-n6CO7it%26ch%3DAQEAEAABABRXZFgRhMb4fExdG0TxHcc_osxbIuI6QdM.%26v%3D3%26pg%3DFHF7SSQZMNHDNEJMZAUUCX33OA
+.netflix.com	TRUE	/	FALSE	3977294976	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+25+2026+16%3A16%3A32+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=22fb6794-2afe-456f-aa54-db48337fe0ea&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BARA

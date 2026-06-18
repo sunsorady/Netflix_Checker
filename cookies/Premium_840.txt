@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Nine
+– Email: hmikway2004@icloud.com
+– Country: TH
+– Plan: พรีเมียม
+– Member Since: กุมภาพันธ์ 2566
+– Next Billing: N/A
+– Payment: TRUE_PI_BILLED
+– Card: N/A
+– Phone: +66832418456
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Nine
+– User GUID: KAUU3SOWY5A75LHAHN3D32F7QU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811246690	nfvdid	BQFmAAEBEN--L1XPNdLT4NTkjN5mZklgddFgNlGl0uum_obeSD2sC2VjmE_Mm1RHhhzXkU24SNKUlaNfN9xXPA93Na72cXzY8S7WwVkSyfer4oG7H-V8oVAH4gWlckc9g2a11PfBf_x7AD6nuzBhahr4mN6MSZu8
+.netflix.com	TRUE	/	FALSE	1812224050	NetflixId	ct%3DBgjHlOvcAxKLBBF_SF1fHuwnqh-UFBHbyfJiU2nUeeSn3Gv76V50JvwBiabTXWx3uwQprED7JwALl3Dt3IzBP48R-wC1XaZ0IiY7eQiABGEIYsd0rec7JewWZ_-kKPK7Byw1CZ81JLqfRMQALolG_ejuQYF94JbCFXg2EK_gX89NRvUYFTk5NFQzzy6TvAqlhZKgiyBi3mwUgAoUTD1pdbLb7maSA6tx7w-yEnXJpmeUYWTBG8Xq5unnYcVcAkAezMkLqcM9O-LEnB3gMK5TQEhrF2wG-pdN7Ly5vxpqMb02kiQciDJwcPQDuPNtesE4UyW5WrhguRa1hrIimdyQMQhR8hpgDvHm2-5edkrGCfYu9AkN9ZL0zy5jhh02fuprMYxQHtjyE44mnh-yrI4ULIWClTSFSJ9rLKaB07SgmZoV42FxeP0W8wPQxwMjNcRPexf2ggFKi2aCwpGhr8rRC-8BzBjcwf--oFWNwTa95FCywbvfgHf-PajV9Jaoo5rxhAtjV-ZLPF5S5_XmeAp73et7_c78lxgjVFcNq_oWaGETfYnNrH8Tx7Bo4KbK8_ZSzajLDPDPIUftPi7jxjSy-DtfHfOOwIfmVtehkCIaG3wgoZg-A6oSW-LNrOg5Sdaup6cIoBsGYUwnyqggYjx9GwBOwrV82ZVS-NTBAaz0I0OsLjT5p9jFhrtp0_UjvCxZRKqgOZ0YBiIOCgwNdxtOK3sO6nPSdx4.%26ch%3DAQEAEAABABT6nTO_hg-el0FlyCsUKosWuukSK0QFZUc.%26v%3D3%26pg%3DKAUU3SOWY5A75LHAHN3D32F7QU
+.netflix.com	TRUE	/	FALSE	1812224055	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+02%3A34%3A15+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=08b35abd-833b-4d08-a00c-95f41d5996ef&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778750793716&AwaitingReconsent=false

@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Greg
+#EMAIL          : xenovia.sword@gmail.com
+#PHONE          : +33760576788
+#EMAIL VERIFIED : Yes
+#CREATED        : septembre 2022
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0050)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-07
+#DAYS LEFT      : 19 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:32
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1798066212	OptanonAlertBoxClosed	2025-12-23T22:50:12.635Z
+.netflix.com	TRUE	/	FALSE	1798066218	nfvdid	BQFmAAEBEHDYMxw10lTC1pjEI9EBPhtgfNumAEdBbutBNegApKIxWC-PT17braPAHDscgA1-53KEytuJyZpsvJSmoudUM0TXx8k_AEYDps1iv0ql7AXPjJQONmiDUlqTj9i25GFXtFuhyD5RmKTx045XAt2ciSdD
+.netflix.com	TRUE	/cv-fr/title	TRUE	1801261257	dsca	true
+.netflix.com	TRUE	/title	TRUE	1801261258	dsca	true
+.netflix.com	TRUE	/	TRUE	1804284617	dsca	true
+.netflix.com	TRUE	/	FALSE	1810675033	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+23%3A17%3A13+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ec292c74-764d-4f11-ace8-178d162db075&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786915033	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786915033	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786915033	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1811371051	NetflixId	ct%3DBgjHlOvcAxKHBLZhmT7DfT5_MPVKwZde4HxEm5kUfhpHqzc3u_8z0zdhjnSEkOAe0loDRj1X6b_QFep5Ex4zn5xny0dUkbTQgkxI0vMcBQjA0Y-c0LcQQjC-KK_2B6fIfQvbf7A7CNEMkFqKHraqoDg9gEFLexHczzTJEtrNzE2L1GhcA_db9a5jwk5_vIuMaLc2Bz_FpRyzKVUZaPH5kHkD4YoERVnzcVT2bQzHWacNasVDDyh8hkCfuydhqV_swwayQTGotPbCIeF5Ce612kC1f14N4HciJkVmqzPyebLudLoZHH2yCp99G7i4jM8K_1C7uPug5hQeSfdNuLRFJbKo0Amc16VLQnt93eiJjke1NKQTX1nqYEtkpUvJ1R_qCr76157eIr4YOVTRF5xFlu9ChU21EzQXEDBNwDYPsZjr6gyNSAptsaPgivUGTYs6WalhtrjbunVI9ztp7x1lVx8WY81DUoAKX2kjIDsCsZ65uAhn-wGRZ1anqMceD61tTratDDjiWQ4hMQZoavhqzMMxbUWNQ57XE9bf96JcP3t_2tFOUTqCnmUbp8DkJM33m_jS2ycNMd7BE5qXWXeYg8EvCFC_90goavhdKIYMiJ1Ax_FWC_U2Yt90T98-NqBFN2k_WtEyJZKh4ctFOX5xWucnCF2aMD_63LkHZUJwqvjMVAE-CNQI3U42jyIjtTmWPRgGIg4KDHUzF_HQ1tFTRj-66Q..%26ch%3DAQEAEAABABTntmGxciohxMwWzacjY7Z9FBJccBm9Dgg.%26v%3D3%26pg%3DL26PHQ2KHJCTZNBEL5JCUJJIHM
+.netflix.com	TRUE	/	TRUE	1811371051	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTXElDfp2RmwWIgUgxtQbknGH_6-bp710.%26dt%3D1779835050188

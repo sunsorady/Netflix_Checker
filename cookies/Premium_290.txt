@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: welat280
+– Email: melik8007@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Haziran 2025
+– Next Billing: 2026-07-09
+– Payment: CC
+– Card: 3140
+– Phone: +905338175193
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: welat280
+– User GUID: 2RZPMYW5FJFHFIJOPS3PSFMJ4I
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1811355031	nfvdid	BQFmAAEBEPW-VAoUVTg9cKSRukj--qxgAQ8Q5q9FTlQVs1yU-0c7ikfQbvfGuxIgtfMuv6ZufBSgrM8mcH046GHAIJC6sCDQ8a3ks1SjaIGy7KzEjDELeiANLj199ffXEi5hM5e7cAS3zR53QsJ_aD_WSKz2FpJ9
+.netflix.com	TRUE	/	FALSE	1811584630	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+12%3A57%3A10+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f990d7f8-ae46-46cd-93a7-d8e7ce1e9bb3&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&fclco=&intType=3&crTime=1779819004663&geolocation=TR%3B21&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811854728	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS4Ttl8JeLjAivI4Z5WOnwNzoSnU03Mk8E.%26dt%3D1780318729174
+.netflix.com	TRUE	/	TRUE	1811854728	NetflixId	ct%3DBgjHlOvcAxKLBGj5g5811vI2bDYKDtltpI0UpnxYBg3ZkQi5MCHF4jgYJYuDJ4wRLIJo7IIAGNRP7g7rQOeMZXmx5j5BCCmlAEGl-oSBDHJPm2lYxXy7t7nwdK-ehA__i6uhMEIyGhvJRP69p8KNjSAqb-70x-ybzgL3XDgi8SCVtcwRQ5gUMa6y1ZwxE1wRxQTZFBXmh2lqdmurhbwTe_qzWRMX-baoUryXwrWFuqYeHkPTwwslmG1q3D0kj-GMKW96v-fy3-aH6upGRmTRwAFMF89slf0t0R-BlNt63rPhonTA_TUS58SF-AUESvLutmkcBaUAiZCB1FAlXyR-7zEpp5yFlDM7xHVxqAWlMuQCS11uS5peMXWERFXWWjatgvRbRQqYIEBvaHLsNyDuNK2QXt1EmYYtFguj915AB6PNtRA0HBAmUJ7pJSY9Y_zZlFsPazsiwBuZKd5x-eMjfWgaY40vVzJT97vK626Bp0BEwS5SMoJnx_PKm3c3zeZIX-fy6M_DO2rY6PwHyDm3StqDtXhF1OXkdV-93PB-kK563L1-Y0zBQGv-csnmdU5J-fJKcnzvP-RYu41H0gNYvrp8E_WOONJq7ciQYFTHRfNwPvq7-dz0ZX5PMhsNJTx5-ZiUKnYLE-9_MkyertySflvzqVEF_E9Rw2coYNtouxyjebI_ZskqX0jAfpjzJqnTY4EHn9QYBiIOCgylY6itHBkwmBXGQOI.%26ch%3DAQEAEAABABQu6sM4FW-CGCi1HVjWugSVXQq5Hp6uvHE.%26v%3D3%26pg%3D2RZPMYW5FJFHFIJOPS3PSFMJ4I

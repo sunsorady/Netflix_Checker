@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Brian
+– Email: maeva.g81@outlook.fr
+– Country: FR
+– Plan: Standard
+– Member Since: January 2025
+– Next Billing: 2026-07-16
+– Payment: FREE_ILIAD
+– Card: N/A
+– Phone: +33780311843
+– Quality: HD
+– Streams: 2
+– Price: €14.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Brian
+– User GUID: PASAZVBDKBHRNHXIE5QE2IQ3RI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1810751627	NetflixId	ct%3DBgjHlOvcAxL_A-xK1CCN15ZyP1DeK7d3RAm6MoOHtNtzoRqfuK-N7HosnVfcDyTKfLGbEPmUqCw6KdX9h3o2ucPggminunaHRmlIJmK4TikeQPTK_MmD0EqH2PWw5y0pCEXm9ZqeHxM1UszLICcWuyj2tGJdhfhvh5042rvy_fWQI-bxgu9yUO015xukfs5N__RC5DZt8hbIR7Wi1sa_6Txhm5tInAaCIhAC036MR7vNxLpyFYGDv2pFzKB1L4uAa3dZzrQdbycLJ9rjRxi_Wylk1uvVxPznUZ9aSaLeTiAvsYTOiD6cFHmS9B8SDd0BG_yEg-JbwVUdWGsMb2J6dy9NCMRonloU6TFkf3wmMdlAbhGjjJ3bE1Yikl8tNNGbEAj13pghZz9p3Ep_3tb1xC-zLkJ_ubpRaCNZccoTBOMOPz19xwO5cxAlu0ZrFKwu5YlhwR3EsxdEl2L9oOI8PjR48cF35kyVTtcmiVQQatyjelv5NQ4RK4H_7TULpN-FQViopOaO1cWpdA7wm9_AWyN3CdVTKm57bjFKeeMG3AgFwGYojiUIQyDQQqbFTqssuFb5eEf2EaQjatRY31MiRDmETga9gOeVmWi4106cwpSFphEzRjTsnxEtWgEkVfhk3GlIT8KlV381lBO11YrJT4Voc6mZ1CQcc2vmj-EC6Gs-9aqMmkl7LYgYBiIOCgxsLxlxCrKuTMeeytk.%26ch%3DAQEAEAABABRAWzXTgHIpxeHgizvs3_ns3YNTP0RAhvc.%26v%3D3%26pg%3DPASAZVBDKBHRNHXIE5QE2IQ3RI
+.netflix.com	TRUE	/	FALSE	1810751634	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+20%3A33%3A54+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=337edd09-1bd5-4d47-ae47-46d26ed56568&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BOCC&prevHadToken=0&isDntEnabled=0&fclco=&crTime=1779215634560
+.netflix.com	TRUE	/	TRUE	1810751627	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJLPi1I_FOAx_W6nSpAw7tE2sHtPQE6-8.%26dt%3D1779215627746
+.netflix.com	TRUE	/	FALSE	1810751627	nfvdid	BQFmAAEBEI3-OZiINO-C0Tv2dcDi_nZgGx4xcPqxQ6OBSXs1efQXmu9WjV9YCewkowWdHtkyPjDYdw8vk1iEFTc98RzmlkQaQlCUhpeLwrj88HuO8GxkzMlKwnoyx-b2P7kULSBcbN-WM770ioUtwZuy_-BHYcg7

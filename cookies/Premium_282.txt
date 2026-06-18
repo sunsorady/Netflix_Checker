@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Cagan
+– Email: dyola35@gmail.com
+– Country: TR
+– Plan: Premium
+– Member Since: Haziran 2022
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 7867
+– Phone: +905052643944
+– Quality: UHD
+– Streams: 4
+– Price: 379,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Dilek
+– User GUID: GKU6YPZ7YJDTLOKW72X7TT2ZY4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805050645	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIAyazffnPxfbvuIMuPzL2pe8oVk7MTLcUTnpDJg-x_wNvK-mQoBKni9kwwwemCtq2QVru4y0x5zxWOiUwIwfI6VV32DWzW1ORdNr_ttaYMh5egwibDoVQgZsmkAzHoaJ6X2THegBOiQg3mOomRayna1ZeOi1OdYpvKPx5BaxxCoWJlXNah3H1ej_Dc1ZHi7j8MQ3iq2d-FovriwhE6h7Re8thviPt0K8uTazD0nlFCHzIxPfEGGtVX2h2Xu4Og7wHq4XPZrrmxH2PmFrjRKS-7ALKz-l0gqLeC2R6y4dirdUMOPoZCtTfpbiXXwbiq6K5BSabafxMk2YeJmXvGg0l6T1cviK1rkQGZ_jU8MeH2cFuT6i6AKS4IF6rKDhoC4qZezZM30YKvFMrc2E-nOzsC7Z_8awB0BKxYm4lPQROh1NwxGlRH7G8oIXH320ArOmJ4dRR-ivTmmtGsygqGezh6lnd698tskE9EUbz_jJsjUeJd7uv_3gDCkph3zxqTqM9iBqCdW0Olof8GAYiDgoMPN7VqCv_nBGwJHoN%26pg%3DGKU6YPZ7YJDTLOKW72X7TT2ZY4%26ch%3DAQEAEAABABTQnLaahBeKKItK2Wo_p_DGP8h2u6SNAkk.
+.netflix.com	TRUE	/	FALSE	1805050646	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+21%3A57%3A26+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f87d8d5-6d7d-487e-a4d3-db98ab683443&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1768058580708&geolocation=TR%3B35&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805050645	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSv9yKb0K5h4Gk4zQaxIHDb-Hsiaqyz2FY.%26dt%3D1773514726879
+.netflix.com	TRUE	/	FALSE	1805050645	nfvdid	BQFmAAEBEKpU85xtW8fo9yLHNaHoFx5gnPuhWqlJacgVZ9w839TLMHBLVlS275xArMFeYqr5S5WnJ3CGQwCmJPZcCdp4jBE-e-iZDpG9YkaHAq_wXm42eVkEft4cZgNhtCYautUV9kJ914Pfz28PNs7Byh8XSx_d

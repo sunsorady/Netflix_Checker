@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: 1
+– Email: mldordenadores@hotmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: junio de 2025
+– Next Billing: 2026-07-14
+– Payment: CC
+– Card: 5470
+– Phone: +34655649868
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: 1
+– User GUID: Y6QO7KKDYBAKNJEMDDVLZT4TIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796212206	nfvdid	BQFmAAEBECKu3RONEpcZEmbFWIlGsfFgMACcwJaMIvmcGi1CiQ4Nrd4khElcd-ONuI_QXE_Dqr8CyeX5_aTHj_eUK2bQWKUtN3IxPnC9Qq5zRGpouf4x3PoK31AxvFG8mH4D0s0fb00sIbU7Nu5vDci9nKza1lpP
+.netflix.com	TRUE	/	TRUE	1798815795	NetflixId	ct%3DBgjHlOvcAxLfAwLLv8_AAinf5TKuYtvHqVLSswT-ehbEElhmtQ5S19PjeO-GJJjUv2weROKD46hZj_yC9DWgwWuPSFIaRq0BAzz6MD0KEHQwMZgGkXQi-A1TCniiidmxLM-z1m154CWAnShtghqrBSMtJlDQlZY92ADrvUFnigWRoZvy5tLcA6jXJujYKJXoaA3JeLYzMweMooxikgSfiSKqMGsrnDs-CvqG1ABWVg14cWXg4yHytOdTpnNp9gLd_96Viegot-PBSEY2pKNg4cm6FPZeuNtj4YyUUoD5msPMMud-r_SDJlrFta6S1yO9YwY99ob74b8KzeC198kreQ78ne9t3MWaDQYY90ZYetBoUgV9-L5z6uy0mkdPfQZ2NZC1hXY4YAG7XVWJPzdJITZMY3yBWD347OOGvAY8DTm4t5dQwqcw_XogqQBgIY1MJC2NLra7vBgnv1P5sdOLIQ0xW5Wc6fj_XD2nXK702L5YXztWm8udK4pyvfZLWHgKK-B3cYRSLhX67QlEzOixO2zwcDEW2Hwn-09eJPnncmUvhjsIS671mUOd0ETOYPi5VoTtRz8zvWEVcac4Y8hNNIUFK2-iIH5XZqLinfV1Bzk1IbN7S4Xmkey2u_Jj745Yqb-hxhMwdO1bGAYiDgoMFRAeZgpBZ28fQq0h%26ch%3DAQEAEAABABR89DHzdYSh1U-H3o1TqDfgQd71spxFGJQ.%26v%3D3%26pg%3DY6QO7KKDYBAKNJEMDDVLZT4TIM
+.netflix.com	TRUE	/	TRUE	1798815795	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmagDkxiC4prv_NoU9N5N6RDa8I0EZh6k.%26dt%3D1767279787833
+.netflix.com	TRUE	/	FALSE	1798850422	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+02+2026+01%3A40%3A22+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7517872f-ca42-4500-98de-670a56a42028&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAN&AwaitingReconsent=false

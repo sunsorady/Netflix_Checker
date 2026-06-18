@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: NoTape
+– Email: notape1993@gmail.com
+– Country: IT
+– Plan: Standard con pubblicità
+– Member Since: dicembre 2025
+– Next Billing: 2026-07-01
+– Payment: PAYPAL
+– Card: N/A
+– Phone: +393331250354
+– Quality: HD
+– Streams: 2
+– Price: 6,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: NoTape
+– User GUID: SGF3N4JSBZHT5GQLKHMJF2VGOE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796163406	nfvdid	BQFmAAEBEPlQO-uYF_epCdE7jblGmlJg9WqKAakTYOFGwkfcyC3cvCC3kF_WdssMq2bars6wpVp0kdAXstohppjREX6qQFd_VTYiRrnNFaE79YJLnia8Et6Vo-bm-kuXb1Gzy1BfeWbxQTn7I0XlHL-wsAVp41E1
+.netflix.com	TRUE	/	FALSE	1809359025	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+17%3A43%3A45+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fc0b9464-66c4-4516-badb-94091e44dbf7&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B62&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809359024	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA9JzNHcq9LVDDFdQya5yrHONNorvpkExKH2SnDPBd3Gs68Y1fTxo1g94N0-zdl5YkPaq_WpbKHguRheZUhVlbb9wCgtz1OFPmR9o9SghGG7tjkaOAjQUtJz8Q_WVdcSfAiC3yEDueah2BOYLJZZTiUe0pYsG44bj1X6WNr5rZzDd9cXFN-PmoX7mhvms66lZcFtx6hg5kqXbrKJTo-TGwBHpbCuPaTPYgaAPYOJLeQJ1uLs6UAsnrrFVkAQ2k_xAGBRnNtopbK-nK3HOZNrsj7IAPTPfQ0eqxobbrjmVT_cHGpE0-v3_MZRyfb4a7UeQorIltpx-oxoJO1gBKjv-iwrg9g7iuRhfNoJia91EXsxYn6rPYJu1yzjjsIkRZ42bORxQ-mpd5sk2a_Ncz3vVE5vGHITzpI0lsVJbsTuxc03Tv4gyfffTgsTlfy8bmxWF8nsedjPU_DBMlgZz0TzeG8cEfM3LirweSt92HQoXsG9pCUyeDxm1UROqGXnMdu8O7AMClMZoCZACFjORWDUryEhx3hosaTO7GAYiDgoMhA3TQJhb9POuVyeI%26pg%3DSGF3N4JSBZHT5GQLKHMJF2VGOE%26ch%3DAQEAEAABABTWvN3iLrwSGjashfs79sZ32ZLtygoLjbg.

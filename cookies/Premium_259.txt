@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Bashair
+– Email: bashiix8@gmail.com
+– Country: SA
+– Plan: Premium
+– Member Since: August 2021
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 9163
+– Phone: +966507811757
+– Quality: UHD
+– Streams: 4
+– Price: SAR 71
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Bashair
+– User GUID: 3X2UUPUXJ5CULEUEDASNMJPRVA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1810440132	nfvdid	BQFmAAEBEEBR37TKGL7nkLCc5p0rZj5gYDHKdhRFUKxngrEwjCxaIzO0UXqdEvqD5ijC9Fjnkbya1oQQ7HtQxTgBLlNgX9ccL_bVwWd-pi8_J8xnWiJrfl1clPbx7fh6vKEUdCBGeYqw-SXCOi_ngGlWtt-aVKs-
+.netflix.com	TRUE	/	FALSE	1806898714	OptanonConsent	isIABGlobal=false&datestamp=Sun+Apr+05+2026+07%3A18%3A34+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&consentId=86d63a72-565c-4235-84fa-c7e8e367cd94&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=SA%3B02&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807432245	NetflixId	ct%3DBgjHlOvcAxL9AxaTdnPKafaSHi-YW5oo3OBoCrTKFBRf_N7JIm4l6umKTlZ56kQ-odWeofxP3Y0h2QtvtlrOBDAg6e-M4zLVwXYOucyZfo8d4r-jjYVGyCM_wRBDLlhjnEZNH4KkqMp5U_SWCHS8QRlJxM7CYEKk6rBme4smLoRODsiZyje8rTAYokFxyksr9WIboJsfFdLlPtPdwI0BJjPMTLzTtWpjswWYayjYbYfIPMVldU8pPjLcXZBVrATvo3ijhdgi2b7OBLkYgzu0juUUL9B-76LlX5eznjEHYvXQjhIQD3Pj16x3y0mHuZMl9XAwV4uXnx3dH8ng-r4HR7I0jPrPQ6bvti-M7GDw7sFXsauMutMgFFqO1O5vYmlziif6d1mf9kqW1AfSLZkzSxFsYhkd0LC2dzfSAHycONKr_sCNF1KjH55iAeN4noHrgK97ZjsJoaHptUPl046SKgtBfb3brU3icRW3Zk4QpMJ4J30qdVKR1iiTARhY3EZYrjQHryzK2VAcrwTV42WwXkJ6wlhSIIV5xdQ4PUbMng7fd_XqBgTJmW8eCHwz224CT1c117crrecH3KADG03dNpSc8xf_SFs-IuKS0DmCzaa-cZjPmlRJWZGm3eGxv43JH-3uAoeQFJqaWQgAkgqvMwnEbouNkGV_sycJRuZM6NELVy_puXcMGAYiDgoMOg4CdOeUbKrvg39I%26ch%3DAQEAEAABABSLQrmkqT17I1ApZv2yJe8N_3Oq0LljVbk.%26v%3D3%26pg%3D3X2UUPUXJ5CULEUEDASNMJPRVA
+.netflix.com	TRUE	/	TRUE	1807432245	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRs0zHDQE9F6oeRZqnUTG7PhtMNj7y11yg.%26dt%3D1775896244922

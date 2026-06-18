@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Elynxx
+#EMAIL          : ninatchou974@gmail.com
+#PHONE          : +33784993551
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2019
+#COUNTRY        : RE
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-10
+#DAYS LEFT      : 22 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:37:14
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1808574146	OptanonAlertBoxClosed	2026-04-24T13:42:26.774Z
+.netflix.com	TRUE	/	TRUE	1811598171	dsca	true
+.netflix.com	TRUE	/	FALSE	1808574166	nfvdid	BQFmAAEBENY9WSs24-kDfQdlMGWmWONghjJshzKwqg-NXcMUW0bc07JqqBgTyVh6oToLwr5H4M6baITX8OLyrByyN1YrlF5YzWTNNp9fysb7xzkUGYH49S85YxXbjdIchR4G91wXsKYu4yt7sevFfi5dGXefwU-7
+.netflix.com	TRUE	/	TRUE	1809815621	NetflixId	ct%3DBgjHlOvcAxLlA2-_IssfrcHD36JzD4hFTLqOe5qSD_lg2M_2zhKKwyxq_bX_IZj-CWU-iJoj5n3PbQsze6U7y1ikll3Bq5VugsGqYdNTcUZ2zsTU1pJv4s3XzGpK08WtRNaslYIP3bUetxnLqEQ8vDwIPNbUXSK_cuWVXFA5rnRI6CeX7HQ2qwwxpNK70rs1SugRsbZtL30aSnvvLzT_gG9jTgG39hpTIR2HDghF64s8b0CWolRrDi5UBCGpD3KON8kyMyQWQf9DeTRR2NTl3kkThLVNL8D4SruGpvq5wQL5nPP-6-O8Dv21Ef-xYET9s2L8sEFX8MzukfZcR-nt0ODWv82ziR8ZMWbLM1XzAZh3wfEJ1NJPjJlrIj7oPX_1XhUIbQ7KPnplY7C7M9SwhR6YOZPG4SSarvI0nR7d8xLlHytbchaPfYhvUvnRBT1sRNM-FHPq4NMheGslTaK9koJ6ibJq6S8gN0Jb4hZXhyPOXFwmHw4SaadAf7m45C79OhBevNwGCC0HiuFWl-j7YZYgRjDo0k8OkRuSfrdCTXk7KrdJz0d8xLlYmDMm3WJ7O7tCPzN8zqGXmm5JzyuCOWwErwDc-vPd2b3MtxVcmA1Vb43U0mh9Pt31L__QLDCv7mBJWcZmGCaz56EbsX16GAYiDgoMJGkkH9OQ2p6Gs8fb%26ch%3DAQEAEAABABTvRWxc6xanuWIPH8RFfFKdRBXmwMZl8tE.%26v%3D3%26pg%3DH5RIMGTAOJH5BPHOE2LQEGFAHY
+.netflix.com	TRUE	/	FALSE	1809815623	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+09+2026+00%3A33%3A43+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=13a5de60-99e6-4443-809f-9386cfd44ad5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1777038147118&geolocation=FR%3BPAC&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809815621	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfTysxrDyHlzIdm2YoaSesntVDzBZdb0Q.%26dt%3D1778279622387
+.netflix.com	TRUE	/	FALSE	1786055623	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786055623	netflix-sans-normal-3-loaded	true

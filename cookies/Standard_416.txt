@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: akifgemici534
+– Email: akifgemici534@gmail.com
+– Country: TR
+– Plan: Standart
+– Member Since: Mart 2026
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 4064
+– Phone: +905524710069
+– Quality: HD
+– Streams: 2
+– Price: 289,99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: akifgemici534
+– User GUID: LXBGX7E7JZFFDLRLU3QOQIO4BA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1805831120	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKmA5gphs3d2fWM66w87eJ-BZFB5CBNX_ICEbb5yLBZ8PDf3lRmiwDEvf2PNwvJ6B5sB7JUqvX2fWerm2yi8238N9TWDSfpTmdLWkRcsjSJv_0rqioXJYON8QlE_iX3FVlUNwUAsK3lccrN27TLKMTxP0kZ-ZhaeInPwC3nGUn7fga9iT_3kLBRWkwQAObcvbhOwrSjqW8UoW2tBCMzCMl-6LlZlec-l4-gsHOBlRwosr_sGEFVYSCEas0XcAtTor5WjhRfDukORCDwN0Y27f9mh8oW2BIRrB5JBh1y34zF-dSyA7sWHXYRgPN87MIieaHKZZjznrrvCHXUCGmdhUn3n0WkOomjCZmBIe4bY4lv_UGaZgntxO4IY7KqmsneVzqP5pJUgyQ6AumWUHye3jtqohaAPLnoDMAnaxb6vHvXqAODO3q8Kzvh6gI93f0y1msWTNyFFRMXBKwYGWxjfMGrKH-avepNxoUw9lCqkfjWRrhMttgiZqfv_uzSVnuTFvxnxh1rXnPeyhiOBOYYDMSDr5kazYnSy8NfP4fxYPnpZRt21EUER16TGAYiDgoMNAHgm5d3bCT32-w1%26pg%3DLXBGX7E7JZFFDLRLU3QOQIO4BA%26ch%3DAQEAEAABABSEcuis6aS3VokwiuV6Cgmllrgoa8Ad5TY.
+.netflix.com	TRUE	/	FALSE	1805831121	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+22%3A45%3A21+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a0af0a9-c23e-4ea7-9c88-db588b9a88a0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1774295083966&geolocation=TR%3B35&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805831120	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSMdbOMoVCIuirEMDJ8CRPPx0j7GQzPpeM.%26dt%3D1774295114792
+.netflix.com	TRUE	/	FALSE	1805831120	nfvdid	BQFmAAEBEKrM5rcAXoSBVGbgfbZSJJ5gF8EP62PYzXTMUykFI1DzLZuZ8nIqgrXkPyqJUiWqaqCbXgNQ6nF3YUCt99rQYjd_YP56GF_Z9f3gpP1QfOh8-Dy2gT9fSkaDMo1Q55Bwk-dMWhX5dvIVzffwzkvByEnk

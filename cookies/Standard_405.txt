@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kaden
+– Email: monsterjeep@gmail.co
+– Country: US
+– Plan: Standard
+– Member Since: July 2025
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 1165
+– Phone: +14177412085
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Christine
+– User GUID: W35RQHKH75FJ3M6FTNTNO7RGOM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804725683	nfvdid	BQFmAAEBEFMGCZ-XMNriPRt-wbr1oVNgWjtYZb6sjn6Tg7k41kmFXDf2nueRWdqUZwsHAVC8iev9C-k7zXBpmFCB19RNwtPx3guevv7yxQpa3Ep_9aZmh6XtcZXhTgpI8_o8FB-qVKSaocEv38LRFjnK2yGwMYJI
+.netflix.com	TRUE	/	TRUE	1809021813	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA-346Zq8U6DUPFnfRXbRzNjyDO0XXlLDu8Nm-TK-dnOODce6Rnn0yVWKZKnyy_HYfhUnSKdnB1r_9p4go1VbSzPIuZUvNw32Mo2MjYIytU8rBgJJUvmvaRAa2DK-5ujlIIlTJMKLmWeuWZSOykJ7e-FH2hXqv_TgjZQmk4W6Eu_FDiemDlCeIbOxb4yxRADiFewVFXqENh7Y08dhFoKfyT11q56hAtoonARbXZnbc8XwXaNGK0XSO3ue3fAYXMFR1mKgS1q_eNQ3rzmolqpnGsAeofU7YoDBT_Zdf80DyGPfPdtGfVde85a_STE7tjSwbQkYiCpZF2-CLgNVuEgq8zTOdcKmvsV5AVviuAKXGtA95ROLqpqKv5YV_jBw8t9i3ubvYl8FffaNV-zw5h4bdrOHWTJmQfIEcEhFHH0sOM9hLGpakQMqjyT1yd9Ur_esXv3l89qlUPNAwWLEByTDRWN_ENxFXIsUBeuBwbAg5A_wdL-_nrt0n-NewiQ4XajWSgIYaphHAInGG_jIg3-8QCH6U041q5RkGAYiDgoM-6NKaTlTKw4cveRC%26pg%3DW35RQHKH75FJ3M6FTNTNO7RGOM%26ch%3DAQEAEAABABRf3q27AB8rPIGEQcL9Z5EUilZ9aRYusD4.
+.netflix.com	TRUE	/	FALSE	1809021815	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+29+2026+13%3A03%3A35+GMT-0500+(Central+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a9af545f-201a-4389-86c2-d9c54d7e4d6c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773189627878&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

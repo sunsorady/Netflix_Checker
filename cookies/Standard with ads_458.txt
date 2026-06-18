@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Shanna
+– Email: shannag20022004@yahoo.com
+– Country: US
+– Plan: Standard with ads
+– Member Since: December 2021
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 5926
+– Phone: +13172603727
+– Quality: HD
+– Streams: 2
+– Price: $8.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Shanna
+– User GUID: Q7EORIYFIFC65DXFZKTSXZUZPE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799201404	nfvdid	BQFmAAEBEGdzdhIPQx8cBxgJwZKDnuxgtsP9XkFe3_QU7vZJCCX5lIZweA5JXC6tVlBZj3BAlGvDbOzxXtlBNtmZwkUPeLZdNHtXHCXzF_pVdQcR8296oN690Gy7PljCd1ymdPAoUL5JvrUedDXOoHoes8YMzoOY
+.netflix.com	TRUE	/	TRUE	1803600990	NetflixId	ct%3DBgjHlOvcAxKRA1r8itznp_aW27iYDfNOsbHGXjqtRvAsPdVpK0XebrNVElJWkrsgFIO6MKE_FkT5xUr2JL3qr3rvpwOWdlHO4U1GNO3yN7cyAiQNSYSqhq_5rVTz0vhiQHh1eiAH6n7PVyE3vo9ul_lWmxauICP-K1Lerfh1WB_cd9Ew7dIagMk2Rd0sFZDw6U6j2ertJE75VUGRJJGxHALagmTVfoDLoFxt8tmILoDO0RfpYfgJSXUSMGKdPaHe7viDx3jpKhd9-0GSNQXelFBlZf2DwQ3qS8H7RBs_4aE2CkxoyleYtPlxc62QLljZ7Wkq5HrMNXI5oM508bDSUVenxDGLyEIBq2nIN6AUumGZUockIxdFf5zar-myS7w1ew_8Q355dO2oE1kayzYPyTBkefExGUywgoPTMxtyWmj4pUhmoxSBY0UyqVgzdwv_gnD7uKQpWu2zBeLtUCeMswG7ykHbLoChKknSirm5zlcxD8c8VowGteml6R8DTnJRKHLvERhJkIEwVav1XqwqIR35_AwMhHcNQxx4GAYiDgoMq6iwkibq7gBLL6Jt%26ch%3DAQEAEAABABRo-aJH9dEv1XKTmiaPymLZ5lxtrJ8McOQ.%26v%3D3%26pg%3DQ7EORIYFIFC65DXFZKTSXZUZPE
+.netflix.com	TRUE	/	FALSE	1803600992	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+25+2026+19%3A16%3A32+GMT-0500+(Eastern+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5de5817d-f8ec-481b-8c17-c30aeeb6bf1c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803600990	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfTHrbsxxit71pCFHZEV5nT0aaTU-KB3E.%26dt%3D1772064990426

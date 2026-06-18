@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Camcam
+– Email: boutin-nathalie1@bbox.fr
+– Country: FR
+– Plan: Standard avec pub
+– Member Since: décembre 2024
+– Next Billing: 2026-06-22
+– Payment: CC
+– Card: 7979
+– Phone: +33614454347
+– Quality: HD
+– Streams: 2
+– Price: 7,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Spanish
+– User GUID: QFSUJGZTLNGH3ABJ3XZKN5CW3A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1805831721	nfvdid	BQFmAAEBEBTZHlmytI9Cm-Byiw8pzMhgoFVtS8heNt1PHmB-2Go9R19u6cc5lY6pL9EsHUkID0VKpLcD64gAOD7M-leftzFKU_XRvY07HoB2srOCrREL5_HPwxRTtR-_dxXI7JQTmdC2DsAEjKtkb6ePyScJbIs-
+.netflix.com	TRUE	/	TRUE	1805831742	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AgksgVI2bjzqSJYeRKqlsZYrYocdQSmDQpz_wfnnXjMuSAQ1xXzbwafpb6Tsi-JmMpfXm3010SVLOG8JRgDywsqdoHkgysYvxpdecm3_Uk7MF4mibZ92IFZ6uxf9KjGcSPSmEc2-k4W4lI80i9VX-obO2UfR_UK4TM7skBcFKXEBTDt6IzRdLTcQAW0ZhUU6MTpDxTi-S8VcfuQuMUjNNDQ30q-k0to7RTi-lY7JJMc7fJENoTYXtcwZm9OYHHkS14av3rjHBDtd1_gpOu9PHUPUcztzrSXsxFCZ8fmt-psHrz0CxMS4ArXEpspWTJZTf7ubMkxUQSFuKsXLzGCf40DxCTbc7LrgOBfyUblfI50KzjPDubyvy_4vJjh6gUSUGbGPX8nSyA7ANSwEQRd5P3seSK5eHh7GpSe9Cn2mjfJC5mrlPYmrNdUG3ZOgifnC5QYSsi7irn_blDfLyGembiqoVKEps-MQlj4BiRnTfGcsOKLxB5yQQAsrVboYBiIOCgx3M2Lu-9BccQvN-6Q.%26pg%3DQFSUJGZTLNGH3ABJ3XZKN5CW3A%26ch%3DAQEAEAABABQ6L9wbT8-MYXMQommWLp-HTAA7Z2EQk7A.
+.netflix.com	TRUE	/	FALSE	1805831744	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+20%3A55%3A44+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3ab1088-0ab2-4028-ae94-7766a6a5f474&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774295728135&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	1805831742	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQPzjTk_38JyRMaswxE87JPMoXd81v13Sg.%26dt%3D1774295744332

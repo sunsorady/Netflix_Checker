@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Weak Here
+– Email: biuro.gamma@wp.pl
+– Country: PL
+– Plan: Premium
+– Member Since: February 2022
+– Next Billing: N/A
+– Payment: CP_PL_BILLED
+– Card: 1112
+– Phone: +48573315498
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Weak Here
+– User GUID: WXFOLAJ5DVHMDF2RLFDG3YJFLY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804267340	nfvdid	BQFmAAEBEPWuQ--mMxsBLqmvYnY3VANgrSAAOtZUS3FjKkTg_bgJ9ezVkbW3aS1zlGU0d4Mol_qf9zXuOjGSt1K-Lcln7V1lppjUFZBF5kfOFLkt-HCFjJb9w9y_rQgXknVzy1FPXBvHGFtONUxC1ZIkDOkDfqH4
+.netflix.com	TRUE	/	TRUE	1809886156	NetflixId	ct%3DBgjHlOvcAxL9A1Lc5c-fDg4CEyuIQHlUUkav0jPSA1yfPJCF_ydI17tf4h8lmNZfEM4rh3AUNRFKQDfsn2-w2yh4D7NaRUe2GGJj2aS30g6LiwaZ2SKRaIixuy_7VHOMlOZIMP2ggq3Z8H4kQ25ttgZH2a3yHGNbGMWyXh2lm5Gxn_eIPQx6p9Aj6h2z3v2Zg-DjYl-uissZ_fvMIMxzCeF_hk4SPXPRB_V2R7mnzocA89y-YZSerZryNuB8ac7JBupkame-AE0v8sZwjm5k6luRyG50Yn6YEVpi3Bsx3fcRgFc68VNHSRmmvt7pSNrUIK_nkaWkvZp7pD0iKSLEIKswgnPBJCk09MzYQ7kisCf3e6FS7LXzZoSf2lCCmZVd1aP5DdnRYBHc0I5E14sPRXBfilGEyptzxoU_ekAG5DkU0GnrWOWMAej3xV7MsfUBBipLwVj61z28wKclLsSv6Bz8qokxdPhkfF9ooPfAJpWrZF82rKujw_wdwaHytualEAdrrkIfrH__a4Dmc7JzvHzbGrhNzMacC0RBSpEcVEiwTTyNUtMws_HesUw8CacqunfyD2PoOc1GaHYMSG80bRYtqafCpy0zmTo1LTJOhWhJozAIs4vk4gtzmKScrJuA5xj1I504XdJhK29JPJFErPktY3aV16uGu3YkUoQTHaCQ8TFB5QDCGAYiDgoMD3kyBxs3M7gybQaa%26ch%3DAQEAEAABABS5brjmkgvNBSPRouRXXeF1wW3e0BRz3_4.%26v%3D3%26pg%3DWXFOLAJ5DVHMDF2RLFDG3YJFLY
+.netflix.com	TRUE	/	FALSE	1809886160	OptanonConsent	isIABGlobal=false&datestamp=Sat+May+09+2026+20%3A09%3A20+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202604.1.0&consentId=555c0cf8-8a4d-4c12-beee-9272d12722b7&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=PL%3B24&isAnonUser=1&intType=1&crTime=1772731346226&prevHadToken=0&isDntEnabled=0

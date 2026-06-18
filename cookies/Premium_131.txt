@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : kanna
+#EMAIL          : anjaneedevib@gmail.com
+#PHONE          : +917989451837
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2024
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (1123)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-01
+#DAYS LEFT      : 13 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:35
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1783982023	flwssn	918e1de8-3148-4648-bc27-48be80aaf6e2
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	cabacc8d-6de3-4e07-9120-38bef38c4849
+.netflix.com	TRUE	/	TRUE	1799509788	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA3Gmj5bLgN_FD4Buzl0sbMASjDxSLKJMk7UzjC0dUg_aaL1ntylVksxDjg-0zxKQ6IFGk_LZ7xSQCQ0jTRPpyXYOLyMyKI0TvmphXh3JN2K9amyTaCGcG4o88_TWlPPWX39i3sQXb296adHD4nKXQpL3Lr5LQE9gPhQoPLO5JeWVqhvLhCTlZvpGlT42kG5Xmq9FhsfQq_dVpgrQH8f5153YJ8_Yh-5RSV54mHohEPC2ze7xbH8D-yI9amp3PIrBf2w_0tS2fs3wShFVvZQPTrMx75v73hXwMVDSbGSlSBbbRDBcq9_aTi1NWbuum44QR4vQwNj_tbSau494_50v55bQbyKYUBR6QHbGskmf76B_J0T3GG-K0Ak8fX_LVMQjjkYDIFAI9IoLtplhnR7g5YqgmfobM2FhACrw9J6AdPS8X7sZ-_n6f2cm3RU2G4mj3EDqLbOrZAPcyVC4cl_peirZthYN79W9dkUESZNTpdTmfA5Nbymyhp5Am78mqN_p31GpgWk0yFIYBiIOCgwPj9UiZWr8ztDgchE.%26pg%3DZPC4OZV5S5EPFD5UQK2UCO3M54%26ch%3DAQEAEAABABRB2Kp9XqVKhhUkJJhCmvAscizKMglvTn0.
+.netflix.com	TRUE	/	TRUE	1799509788	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5R1J9c9w5vwlEkFiMtHTx1gngk31Pm4o.%26dt%3D1767973787563
+.netflix.com	TRUE	/	FALSE	1799509788	nfvdid	BQFmAAEBEPw-u-D8sWtbj1yRypa2hqFgXEmF6P_diVGMrzq1kvMhFsMKeHAhSFDZicXB9esYsNTBYC-uUWfEpZlhunzEs16oAPzijMl5AZQY6ZAKeRvZqu_ij7iKFR6HOZPNIRCbLCooQmkDtsgy2gqAdRwiZpue
+.netflix.com	TRUE	/	FALSE	1799519095	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+23%3A54%3A55+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d3ab3d55-7551-4187-8487-f1fef54362c1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783982023	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982023	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0

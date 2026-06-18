@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Henry
+– Email: hoegee.rob@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2015
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 3005
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rob
+– User GUID: P3CZAJZ6BFHCJBAKEX2R7QKUVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1782775970	nfvdid	BQFmAAEBEOhUUTmnYfk-jSWd1NZsdTlglgZQvTJpcVapEFwCRP0RSu45yQX6zOgnvEf926sAumaTcjPQmT6HcaExX3OQnXckEEk-jv8IJP4sQOQaA40lSu6rgXeHhDHQZN0seLRuV9MxNonI_vVIU5Mu3EcSK2UK
+.netflix.com	TRUE	/	TRUE	1807844200	NetflixId	ct%3DBgjHlOvcAxL_Azsbe-3VoSWpd1-cZ-BYQ9FHUyE1noYJPQdnrSnBAOER-dWCPpU4FnfYYxyesQkIvL0Bo6BokHcI-O7gicRnsnAOXsQTKpBd3FhDRa63GNo0GGQYAhMc2-CCXKOfhC3Ad0gYJKvyW4eKgCRzLtMg6Ff9r1wzPr6pc-sCypvHPb8MglGrSI-KhAvUE0JudNQmJIPTHsdgJ6ifC6RmMtiZqPP0SUm-8yv09g9trQGaVQ4IxFkw6uv9sdaKzRatrtOTEDOEwsMtqtoWzXusKkvLQ38IZvgR7pTTy3ngPsMpL3q0WrTPmHWxuCQuY_Uh98iJnVkZYYbHag3ov4MY4nZIBhv8g0xUGbq3q7mJmBm7B2_jBWBk2O1MOkHx4y8qm7RkmcTI5utn6BwJjzzneB1D5L6PKQM763SwccORK87fSyeXqW7mFQCJcNOGhM2pQ0jZuLfvph6pRuaCdEFblYKyFzkUd2QTO3OpXQrJ9LXV3kp4ASn-SRXGhFErYDdGvGkvvXsl7NOprGhmCV_SwtuWbsuAtvA4c6yl6cA2QAlaehkwal1p1vE2HGD2T-7Vwhh70aYbfL6r10qqIOs60QWlk3aNk0f-yvUrZE9XHZo5Tq1dGSNkof5vfhJIVqJaalsHGm22toRp2oLHJAEf6rq_yQ4Fen8vxTPfZ2nAuDIiZdsYBiIOCgx2GLqHkpPoFD2Seuw.%26ch%3DAQEAEAABABT304BZztdJeHC8YaPgLfOp-0Ae_n_hU6c.%26v%3D3%26pg%3DP3CZAJZ6BFHCJBAKEX2R7QKUVY
+.netflix.com	TRUE	/	TRUE	1807844200	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKexZpuTMbiFUisZnj0IqjvpsexBTYuDo.%26dt%3D1776308203229
+.netflix.com	TRUE	/	FALSE	1807847222	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+20%3A47%3A02+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=902363f1-ae4b-4174-b829-5fd47b3243a8&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

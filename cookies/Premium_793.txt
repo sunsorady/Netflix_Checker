@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ian
+– Email: shrupertus1@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: February 2025
+– Next Billing: 2026-07-02
+– Payment: CC
+– Card: 7681
+– Phone: +12052380038
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Sheila
+– User GUID: ENZQI5IMQVFEHLF7I55IAS52VQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1798789062	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Au9zeQdGJYfrcI-y6e5vz-tcpw13uN71U_TZ_L4ny2Z06dqeWfKMkkLl4g_zXuQhfuDpyI7cTfSiEDhWCfNKr0J6q-aw1q6H1nu6378InOo9CJyjh0W67aikQEsWt-tCddO3ssjz7yxRezupsw8wl7F9No8EJIdMIqx0Cq3uz1iC4hpGJROu-PhME2PvzqcY1VY-aGm3-ch6h5_lov8rsK_KfmDUwjNvBa6oAV72HaZ9R3xO201AJSt0s-H7JOK2k_xg97x1mhv0NQa2BdUQ2c3ch-ol_3_NkOh64rEO4rm1XHO7Yu1862ZE5ThAWkKwBRk2qLIZumiRR1joZ52wzd2dZjI1eSG-od2u-IDiG3NPn1l4AGfrgGLwRIwB9Blge2ZzprDvtYnOTNGxFF0c3OyDemM1_lkcYK7PIrYxsOvQsZbVYhrwKq6bHfbH9egvEY-a050Q_kxvimUqlogjbm5M0RGA4XKUPZhcdCAOBMjX6-6jUqDflun_FxgGIg4KDFoyFLX56DtTqJJwnA..%26pg%3DENZQI5IMQVFEHLF7I55IAS52VQ%26ch%3DAQEAEAABABSIjPy_OdM5XybffnY7BqMTa6xqM1uWxto.
+.netflix.com	TRUE	/	FALSE	1798789060	nfvdid	BQFmAAEBEJAY5eY9qj_1VhEeTv8YqY9gVwUxLSwb-llO6pt9h0hT9utFkYF0i9L2UT3E8KA7SRQxjNDN5xIt_BsK6yy58XjHdkv27ScLyU5coRGxxFSOKlviV-oeAizTyeBuhOeY2iVstrwetY4TuACNQyP0Wds9
+.netflix.com	TRUE	/	FALSE	1798789103	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+01%3A38%3A23+GMT-0600+(Central+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58319b7a-dd65-4e24-83bc-c1cbb4bddc4b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Greg
+– Email: ingrid.hoarau@hotmail.fr
+– Country: RE
+– Plan: Essentiel
+– Member Since: septembre 2022
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 8201
+– Phone: +262692534529
+– Quality: HD720p
+– Streams: 1
+– Price: 10,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ingrid
+– User GUID: XHSZ2TARWZGC5EYKR6575UGPIY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1797001762	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Ah6L5JRrAfRAjgcvRtd5tVRz6pEM482xsa_mv_JURo4L0rIPxZlrr6pc1C5RC28dFtgLMxvwp0gY29tHL98M2bZByZgcypEfb17yv3ucvDvyyTH5vlnZdVpnth46EgV9V49_aCL9G1mkgdeDLjgv2Tuw7_FJilkQIHwiHZhM-rvoctYivS5dCM1eQkKQpJuhJ3IRJT4eSKG0GX6iAMRhfwuiqqq5J9ZnGaR2n4YDqv_z1aeTcNGm1SOG2TR6V6x5N4LnJDEehP6xg4MCekGkucFsOBx0ZNwUUzbincabtu-O_3Brl1i99x3ySPrB_JLdeO7t-5evhiqZcwnf9bhlWfWbntC0jTQ9wxyE99bnnnFDzRqEFcOyJeGJd173PxcEqovfUBN9g8LZ9EO49hKz6NT6KfIYVsYx2VJt1I__cgMvEmqByoi4CG5loM9cyBKI6J9LUE19EwanH_Yh0ik10lq1AaeDfNcTS0EAZpJ1wtklxa29p-Sy2KsNHyK7kRgGIg4KDIG3QSTwMqGFHVk31w..%26pg%3DXHSZ2TARWZGC5EYKR6575UGPIY%26ch%3DAQEAEAABABTu5_Af5X6O0rsRmI49g4FY4YxwjCTZ-Wo.
+.netflix.com	TRUE	/	FALSE	1797001765	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+11+2025+16%3A09%3A25+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df43a56a-4efa-467d-b817-c4207e4f4592&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=RE%3B&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1797001757	nfvdid	BQFmAAEBEBiGo00PvwtFQETiaG2GJVlg6SrYAlhnuaFaAsnMQth9qJs_P1r1CXTKYgNYleEttcwZFP4wpb3Xv59RecAVqLzVXAh27Wb5XV7azeYsypm_mrkjr77h1zv_L33tT0IAYAIPMl21_nZmGQ44BLyY8xS_

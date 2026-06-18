@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: El Magnificoooo
+– Email: lebarreherve@gmail.com
+– Country: FR
+– Plan: Standard
+– Member Since: décembre 2020
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 4294
+– Phone: +33771736975
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: El Padreeee
+– User GUID: AV7WMQ4KOBCGTABQS6KIP6IO4M
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802554105	nfvdid	BQFmAAEBEJ4WPY2_D9nPYhzrITLzuaJgJV9ExCJfb0SmBGndtZDRl0a_uXR8tyAnqVZdqQlZGY_NyVOesNjdIGeUIm6_WddNELsHMqW5pWc5ZBJLeTfg3uQjwJv5tasOP4vc20BzClfEgje1rOGWTittYcqy3HPz
+.netflix.com	TRUE	/	TRUE	1809173406	NetflixId	ct%3DBgjHlOvcAxKLBFLXCIDp0wS8cqaeOBBaCtEvhi-KZdUOql_rk6Tv1igX86hFAv1no38_DbiIafADvXHdQnayvwdECWmvI9zmTW4MdcjbBxGBZcxB_jrg_0APIKJZPwoSJo8ZYeCypfV-GAMJHHQJlLxDHYhPLgwfkFYneQ5lnnlLbQEUlo19zcWmMd6TSkzuP8xJuMewiLq6jCoHZQDFbLAZBVvW9-2XqSFwEONTBYFrERi90N7FuoS6YYir77xyAwzZaeeS_CK2C9aAFgJOrVHUcG2c1MCLUF2h8ria5YbpVsmTxUcT7e6Uhg8aIQBwfjUbPQQQ11pN4PzWhUQPCbGsWDHlTfA32X4Pstz2QqYxRxVM8Pyo63RUjqKH49YGiG4_DWeZaMGCqiHW3D8LgmS-lAFlA1Gdq2KIGHlEQY6OlphiiNFKYfWaAq9PCpcccE_ZG5pb8sPdVioTngwZlfss4j0qw5Nr8Xl7e_EXMKtHTl0vl_IfVo27Oxf4h5WmEuAcFqGK-n19JjZQ4LzLuChz4K50MoPGOZgwpB78oJXZsLMaESuS8oEfYdqlvK2u2CZal2o-LNHGCymetbNgeBeQUJR0CwEMXU7zs7GRxA6zvdFDcNoPrvuggE2N-gIAS5poqrkjXP_eW5fp6y_WTvfmCAw22NJRAmeAH0UURo8zA0wM2EtUYEjR4UoVGVinnJmn6-QYBiIOCgwNAdpbRbv7vlSEJjI.%26ch%3DAQEAEAABABRKsae7g6y8A7SQ86yuVp0qUDopwOgJoq0.%26v%3D3%26pg%3DAV7WMQ4KOBCGTABQS6KIP6IO4M
+.netflix.com	TRUE	/	FALSE	1809173406	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+01+2026+14%3A10%3A06+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ae28cac-5132-48d8-8951-d8a5898b8c87&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BCVL&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809173406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTMKJt4QfishSKNyjQY-M1SdxTaxGuZzNA.%26dt%3D1777637410403

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: msa_asa
+– Email: msa_asa@icloud.com
+– Country: KW
+– Plan: Premium
+– Member Since: April 2026
+– Next Billing: 2026-07-05
+– Payment: CC
+– Card: 3750
+– Phone: +96599693329
+– Quality: UHD
+– Streams: 4
+– Price: USD 17.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: msa_asa
+– User GUID: 3MPPPA7U3ZHWBCQWT5TVYDRC5Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	FALSE	/	FALSE	1780205558	nfvdid	BQFmAAEBEE0TAYju3R6ns_M5rXYMIsJgCACrdrAIf2kjq0jxDNoFh9qOGCWnCtqZGpnZdcbZfGCHrWDN0kEjQaFg2EzI6VDs6Ihnz-Zl4sKq6cvEgQRVTnM7VPW1qejnlPL3EG9FhFwV5eTX-viq1vkm9nMOjwGK
+.netflix.com	FALSE	/	TRUE	1780205558	NetflixId	ct%3DBgjHlOvcAxKxAx9BUEL0fNSgj2IBUKD9eYYpXy0e-9fXX3FlOpXM3eiHsykfYrfn-mKKPB7XnN88XdDL2sUPf1KhbS2eUM2JKeMn_bk9fBOQJo9QnTvD_LXvr7gVI7mOHg6APq0ZJTHpgSTwGitnaPbBRrR-lpeeYM_ayeC6MnlKDcNwUGKaD3tZixGLWUWAefDl3CQ1xmYXxfliEkChiFB38lG4uCo4OaSPgtDlBtZQc6Vnl8a70VjNFLAV5zg_6zZ85vZbQZRp4tGW8yq6T8biJvzWolNxnUGd8rrTkSSHftJ2w_w7g5JS9BL8Tj_Y9N-iAGy7-uBie-fobgpvt9wz-Y0A2osxTQ4ltQozeInT-MbRpnqwujfhubUd75DZfCqbjRyFH9H0WxwJeze4BB82geeF5Atb1ZvRK7sPNX6P5JuJY26Mv8iwmI-lEoAat0QNkO85fYvJdVtc-_RZUCjUE8x5JSIrFfmjgCBpdLyjAS-i9zcx3IY25eYd3K2bKFRZdxZdmzmeIk0XT7hotzAX14ZhMumR5kUwc-pvxhnOzjTPemD3iikWekO4fFISjNQuFzzwtptg3D8YBiIOCgz5A0Ec_txUGtRSzZM.%26ch%3DAQEAEAABABTbL3gujBW2I8BXWjniZXtQdQ28TCVoNzQ.%26v%3D3%26pg%3D3MPPPA7U3ZHWBCQWT5TVYDRC5Y
+.netflix.com	FALSE	/	FALSE	1780205558	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+12%3A44%3A24+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4ddc948f-b47d-4a12-8f23-ffb55e67a4c0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	FALSE	/	TRUE	1780205558	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_OS_zWPxESATGrKgVLtOHiU31MIBs2yY.%26dt%3D1776159756569

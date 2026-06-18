@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: hannelore
+– Email: hannelore994994@gmail.com
+– Country: FR
+– Plan: Standard with ads
+– Member Since: April 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 8618
+– Phone: +33754328052
+– Quality: HD
+– Streams: 2
+– Price: EUR 7.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: hannelore
+– User GUID: FKO2QHYT5FHJHLKGOTWIR5QCLA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796745110	nfvdid	BQFmAAEBEHcsjIj0l8mW-xjD05wkagtgPd655mX2d6xj4Ft_86xzju6KJE1Zq5PFL4AT68Wa2l6c_40VHDAMzx2Hnc94_9ZSOjvYif2gMT2VsKhiArMLOaS4FPQP9MLIrEpL0Aq44bjvu9Q1dxjLUZasGGcjyTB8
+.netflix.com	TRUE	/	TRUE	1807809514	NetflixId	ct%3DBgjHlOvcAxKSBKfZEVKV01S19ubz-lg4u-5rOCDvOxr4WindC1_zz42dYrK-9dSALoJGrPjwApAdlnlok-jaw5QKIJ6HPLSjQHgv651lhqsXXtVOqNjtqNpC3g4wEFGW3Hq-bf8GFc70np6CA8Yv1IdgJOwORyFTXXhcCIr6vEsLD5mwJwgBB13WYHl4LfSRteAMxcvPy90USViyeqSrSzcTCZgeqYS3pFOmZo6Wzuq2505DyKswH9EtpvhD3Wxo2kBiZMlwJy3xs-DAKyvds_AxMddEtJg-wi9rbm10Fy0TJamI4AxIq8K3BjX0doBChkgJcP--rsa7pBMTnvBIJXqDpHzMGKZSOMGEZWbnUDw45K94NPXvvzm6AwlHpDL0X1K3O5S3yGWYAeyylLCyr7lUxkdyMlU0b6tHosQd40-5JPVOBW_vHymqLUbNyzZ71i0r1sHRrkVao0I_iQr7xOFreGPii8pBrTV4xH4fB7yHmxN9s5lwJKG-3obBVvawnP-qsOjcC22NDrc7T9jd4OvBkIxSc_tt7wPa0mtBPuDqbmgleY0lbp7gp1_YqMMbBXj0royel2_Czwz5dL8z2wy0TKy0CGcxcJ6ow1kpesZ-aGXPeiqTzLWxKG1kvrdy9csiS83xsG8YV7tSc-VLwh8j060XqYE4zepPwhB1aPVHoX2ApeKo-a3YiNJPRGRyvFEwfrkjmKg2_bU-GAYiDgoMNgQpya48TRuK9-zC%26ch%3DAQEAEAABABRZXGRQj42rE_po3N2p4DJaoO0DpuwJM4o.%26v%3D3%26pg%3DFKO2QHYT5FHJHLKGOTWIR5QCLA
+.netflix.com	TRUE	/	FALSE	1807809516	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+19%3A18%3A36+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b75855dd-9343-4102-ab9c-dfdc471d53f9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BGES&prevHadToken=0

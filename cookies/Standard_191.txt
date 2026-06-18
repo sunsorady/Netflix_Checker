@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: DJ
+– Email: jwillinghamjulez20@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: December 2018
+– Next Billing: 2026-06-17
+– Payment: CC
+– Card: 8414
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Julie
+– User GUID: GTZ3JUKV2BANPAK3JX4ZYYSUBE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1802135441	nfvdid	BQFmAAEBEOwClIM_miO9jhRIvFYs-QlgVPXXa1FZGLy1j34xfCrdLmbGDya7eeklbzG8t0MsG5HHRdxR7uyQoHucNbyHnmWBWYNB3_b5q7acWSJ6lARDYDY_s4sLbB5TD0hlfwRNOWimPmtpSsuXJ6QSi1teCUQg
+.netflix.com	TRUE	/	TRUE	1806641045	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA0zF8mDyng4XvPwHBiCmsRzTqevQEA6PKpI8MRNZnfs8MDeuYXB9o1nj5yVKihBXLdgkrIzLIdkGwzz0DVEnlBAB1p_CZn-Dc8X_rKAewuU3fwUHpxZPLR6lZdSdoZn8jjjJMZAksoOSJ7OgywaylYyaVFvdPv12chLbDLr5T1Kf-0sJSuRrt9VKB7TJP8GyXhPQgUqXZR2Yv6R744_1z0vTHgR2GTzzeG1jR9YyMId8S_dcN3Eonop05ngtPUXA18_pkQGM22A5RW5k1z6zeuU3_G_MCvpfo3lhq_YB8Dle74c-w8_jMszu6SA4uvXV6jF8g2souE2p2BA1gPfRx0JQoA9JeXB2OGejJaXaHdodDA8XbYR2k1DAg7NFfg-A_efkNSWSw8e40gvF5P69sPmxkUCvXgcqTrRSWd5O69cnYynXEWE8G9VlxFScaC99fRL7NgNOV6Dr9_tihFoV7bbgpjDFQZE97MDNqPDj_C3dHbzFdYJmlYsPyd-rFTr2YdYQ0NBOcIOax4H_OTvfvzszNyVzh3gYBiIOCgwvJOx4pLgfTmLyZGk.%26pg%3DGTZ3JUKV2BANPAK3JX4ZYYSUBE%26ch%3DAQEAEAABABT6Q2wVJYtm7U40_LmkrvU4kOojiq2CaFo.
+.netflix.com	TRUE	/	FALSE	1806641046	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+23%3A44%3A06+GMT-0500+(Central+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=21ea8a1a-4100-4c81-8691-0107939e709f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806641045	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEYKqLQ6UedNfUhNCVQoYXfIPThuGN2TA.%26dt%3D1775105041653

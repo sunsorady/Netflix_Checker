@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Giles
+– Email: beckiupton@hotmail.com
+– Country: GB
+– Plan: Standard
+– Member Since: May 2016
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 2555
+– Phone: N/A
+– Quality: HD
+– Streams: 2
+– Price: £12.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Rebecca
+– User GUID: PQYOFQQC6FE2RJMGPF5SFNGOHM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1783963511	nfvdid	BQFmAAEBEBo3TYDqUmQOuFFiU7Xf-htg0bhcvL_cCghRY43MKIcmxXHUdBg3mXcwOsXrZmr1pNRese-aH06wY_UIML-U_MnjmIk87KClTjSd0TcIxK_EpyuUtrTUmXIscbcoex2KCy-ZBOL6w8BQZSjSqEyXFrvb
+.netflix.com	TRUE	/	TRUE	1791734444	NetflixId	ct%3DBgjHlOvcAxLmA8M8jyTJ9zXDKfuffmUjj3vlKJiLI95pMEvl788iprnnGdMalVsXBsbfbLEFmygcp_fS5SLLe2eua8Rk3z8w9-Xyd-Dy3F9Q2fhyemhbmsZI97-sLUWcsQK4gR68uSzbQQDHf9PwP_gYksU1KW1OCAg0hTr9E6UwkCK3Crrzf5LJd6h8nwFPjwD4M3WZxGPA9iR95yXntf0lTKXM9u3doofOxhxjNbJKo2B2Vd9p-UHXGk5AX_6BIm5fKTNByz-__GqY2sYVkkWWFzQYIC6oiV10t6zDjQyXM8SerI28p9gSJ93TWQ4oxIK3erEYQD5ZsK1i3lbRUz_ooZb67pfpq2QU20wd8loFrIci9MzeEb2nVakGQPL1gSSdxwuekXbzjxTgHy-EndwllJM4lTmDHL2AbwO-agKutb55d858PPGvh2FUFeuVD7wzMUCNccY3eCs2ofmGFHxeQKA0OZlVNAuRbR3SEeOvV40dfr1JUT73OVmar9F4PRtxxG-chz-Jsdy2KaoX9APaV1ojT_sDHwYQwrW73iwTHWScgY1hSdGlIHcUFZPi3ghqsUTaD-wQNcfOcmplolaiUFQoIMGtgwtPaZginLAce0Zx3DRLl-LsCwjWLg7ix2zyeMTCMRLPrfPOtYM7sxgGIg4KDAm2FDb1basv3JS4VQ..%26ch%3DAQEAEAABABQrGhulPHLTdUfN7_k7wva0BDXHLtDAlJ4.%26v%3D3%26pg%3DPQYOFQQC6FE2RJMGPF5SFNGOHM
+.netflix.com	TRUE	/	FALSE	1791734446	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+11+2025+17%3A00%3A46+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a149bef-daa2-4a28-894c-8e6a45c3fbff&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	1791734444	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQIt9Ht1M8kJ8_cEhb-vSk_B_xxQThS-Tg.%26dt%3D1760198443771

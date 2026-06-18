@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Yaqoub
+– Email: yaqoubalmejadi@hotmail.com
+– Country: KW
+– Plan: Premium
+– Member Since: April 2020
+– Next Billing: 2026-06-25
+– Payment: CC
+– Card: 3731
+– Phone: +96594006632
+– Quality: UHD
+– Streams: 4
+– Price: USD 17.99
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Yaqoub
+– User GUID: G3LOVKGS6NBBVNQXDAQ26KI66U
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1799236063	nfvdid	BQFmAAEBEA8eMTeg2YnxBLXJJ_L5oItgEA9MA5hr2B0cF2fuFYECsUZsG6ws6WBEiCl4uJJvW5C1lyQm8Eyy0BSjEuMrziENmaWw22sUZtz1nsNRNz5fmG6t2k1E-YO8vnYOwSJv5CfDt2U0qe_OUINAHa5mJ6qg
+.netflix.com	TRUE	/	FALSE	1808169517	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+00%3A18%3A37+GMT%2B0300+(Arabian+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=371b57d2-e925-4c0c-a441-cf9482e31f4e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809693238	NetflixId	ct%3DBgjHlOvcAxLOA5QgEhTtWw66aHwk5GmqmHJWhy_RHA6flFmYQypKQiZlF-ZAU7sWWHH4GplQ2uIJ7rbqS876mOQVJoxNJLsOu5vM2gxXDl9oeBbuuR8xp_uN3GSswvd1UzmVw-uPiWh73ybn3fy4RM2CTLjdTGAtkFHK_GlWL9E5ImzuLjV2yLNLv1gl2yHObVsZ5hJhBFT7IfkDpZ9A-ygLoWj3wBP6YvCMcg63cGkRqgkUJSqh6tsVO5nUB-wKerMYlluskUM3yKYRDuCrvz4zLrNZ8gel8PsMTetNTgQdyJoI_0eCb0pauubtF3fYjNBiE0bzxa3jcvCieUGh7OiUaxaz513OiPy7K-HOAyrbStuPzWSDPSHT4Wy3FqB2FdnF1V2XoFK2U3FHcnS0830SMAAN2JwzDR16talYJ1tTDBytsWv4OpnRXrvBS12duDM2yYVGV77ixDCBgj-c76OLq5IMPaFsT7i1hLGsd4KISe4wZF7Y4yE4wSngyHiPCGe5JDRaUXX25bMl1xWclavrPpbkzp4j9WOLXGjcgyovKwlJokTfEXeAF6PmgaR59eOE27jcqDjiohP2gvQN5N4bPb3xOMCgz1PFonMiCGdvfugikafVPRgGIg4KDM-BPXJFsikS0WI4PQ..%26ch%3DAQEAEAABABSul9LnSXaUjMlUD8GpqDsIJlKWlcUX2hY.%26v%3D3%26pg%3DG3LOVKGS6NBBVNQXDAQ26KI66U

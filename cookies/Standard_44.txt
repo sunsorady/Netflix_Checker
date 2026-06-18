@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: josedira8
+– Email: josedira8@hotmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: octubre de 2019
+– Next Billing: N/A
+– Payment: ORANGE_SPAIN_BILLED
+– Card: N/A
+– Phone: +34670015364
+– Quality: HD
+– Streams: 2
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: josedira8
+– User GUID: TTPLFPMOUNHODMPX363JE7YDGA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801353753	nfvdid	BQFmAAEBEFRa0jmy7hqcTxf-JTQ5l6RgCRraFpKAePUSZ8m2US2cw7nbtXvlg6I0EgZNZ34HlOce0uN85eQdzM9MUPAoPjtw5FXnmE8NOkN5lQoeIa_pKxfRXyAoQjMoh3H1JrjcuLADTCtI4VMLYd1R9NIHJ0Eo
+.netflix.com	TRUE	/	TRUE	1812477026	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA4Fc3GBWdHJTIgg7dZkiZWEn2MtQuOSY2dovVA5wjiIw5HeNzn6IsvdWR8b3tdSQMyvgN0SVmXb-fEC0suFyYmObe2Uk0jop2XtpZMvo3eVj6iqfL-M6tAjUZ38BRcC_wecuYozh58Vm1J9yYcdDIE65sctRLq2aFjTf1iys_HCeu9tDvZiltOWuoezOBVX59wg20JJ0HeURSPMf3ffYmY12t6RRWf_YVFnqWadzQiE5gwTQou0Yp9wZqYQ8Nb0wtx-kgn-Kavlegqslzl11t9DXKWMyeXINv-smm4RoQXNNghJEec_PQ2Ij6Gb73Uoa0-0yxXlwqY9oUJlDy8i0Q8CaXVMdlfkx7d-SYU1VjBiZEWrsHeqkXxF38gpfU17w7IEbKGozHtPnpbzanUSzSybFKaoDOtrnV5YkgNbI-ifOwPbZVbNwMp27OPEbHK-uYk9P_4Y-hUNnzguKHyMKnXJ1pm9A20HQ9odH4mdNhF5QLuqGx1vngNYyhZp6SKAC6SM4TuCXiUaW6k4cW5WrCetJkmXh8RgGIg4KDGnNwE5VEkrGatzLFA..%26pg%3DTTPLFPMOUNHODMPX363JE7YDGA%26ch%3DAQEAEAABABS6PyrRUeONREDxWA0HIPnfcET4Mk1_oac.
+.netflix.com	TRUE	/	FALSE	1812477026	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+19%3A50%3A26+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&isIABGlobal=false&hosts=&consentId=0efd7e40-2c8d-444a-9c60-8a7bf78a0a36&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1&geolocation=ES%3BAN&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812477026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQi5gs7wDwH68Wlv-rrYIfnp_Jyd1oWbTo.%26dt%3D1780941026097

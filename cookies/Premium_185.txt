@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Itzgab
+– Email: giannia2@alice.it
+– Country: IT
+– Plan: Premium
+– Member Since: October 2017
+– Next Billing: N/A
+– Payment: SKY_ITALY_PI_BILLED
+– Card: N/A
+– Phone: +393476403939
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Itzgab
+– User GUID: PRP6DXYMHZDHTLJHAZ47V4B4MI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1799869294	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA7N_cfzFHnEVwZbZaIPYY0puPLQFjlol5EC_8q-0sOE2JMeyNftMrynGNZhO0EH330gE0qaLoz4ZNkQi6ufpyndrpdv_2IGbuKDTUVkXHP8spbUALHDPME9kqCZ8FDyRmHDjxWNLDgDO0tfsYtnWt8_R2RkZiLQa-soNftk3HZIZDaN8wvefeTQUO8dnO9_pYUhrRpf7C-CYrwwGqjKKlihvJ5tx_NjTbAe6yiPe6TUj5e__wnoedXldHP-IaYMn4IjZfLvqj7QV23w3tnA5oGSWZzm8r8un_0JRt0Q6UD071sGb8FLN4mQ1IxGOvTmyChYAc3FJBYlT5X1dkwm71M0urIqRbQwOcoM0w95_V-ADKd8KwkmvbEJFJLLUTMxxGG6L0kYYwXdYrkqjXbweR7VUyC_0wSmPlgCvQ8WMbyslPFIy1M2uZpL6vcssXOd8ThvuIm9PmcHSvotaWDweISSY56wikHbKurwgVdq6-izMuj-7wcFmEvHBxCxsgyHQC9gX-ZOFuMYXGAYiDgoMNoZmfpp-tyJnCiYQ%26pg%3DPRP6DXYMHZDHTLJHAZ47V4B4MI%26ch%3DAQEAEAABABRhxCKE8KtHeFawLrbSnW7DVl6G39miOAg.
+.netflix.com	TRUE	/	FALSE	1799869294	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+13+2026+20%3A41%3A34+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=314d824b-4e46-47eb-8e37-3f090bc6ef72&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1768333290270&AwaitingReconsent=false&intType=2&geolocation=IT%3B25
+.netflix.com	TRUE	/	TRUE	1799869294	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSf9CBPD_-j0pVWyhqo4ktWHm4XFBLwVfw.%26dt%3D1768333303330
+.netflix.com	TRUE	/	FALSE	1799869294	nfvdid	BQFmAAEBEGAWb0luCgFw6I6YgkYq_LRgPuCex6ADBRoucumixnPwhwMp5lWExc7eBU34lkPaEQkvV2qTkRz7FQge4GVsJt3hf2MexXQTQwbYsj1-a3P-rB8zWIPufw93_218msyaEdDR-LpBbHzCjsPwX1stVwKa

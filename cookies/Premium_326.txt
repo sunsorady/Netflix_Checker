@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Janice
+– Email: junejabrahams@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: enero de 2026
+– Next Billing: 2026-07-15
+– Payment: CC
+– Card: 1310
+– Phone: +27824688292
+– Quality: UHD
+– Streams: 4
+– Price: ZAR 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Momma Bear
+– User GUID: XIPOBI5NMZEE3OFVXR76QX5FZQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1803926283	nfvdid	BQFmAAEBECCiTzjAWI9RG-OZGOlyHVRg9c6fy6dO6Ybj1LiARc-nQkWyi_TPGVBYf23zfCk__oFfh0sjCJ-3RRkJ1W5LBsPqoLtDz7Vhv-J0-2Am-AxRqpJm9n7hy25wnViP4pPIldmmGbmJ6Z47MzLIiqUErFO2
+.netflix.com	TRUE	/	TRUE	1808751524	NetflixId	ct%3DBgjHlOvcAxKEBJzCZyYLCX0OZ07ZvDSJ_B6C7f98OhS6ogvOQoSshVYkQEn7s29JbhUfF_X6et1pdK0FzR-czKS-5AUle29bBcz_vcBNfxsyjb6zGFzNtjFpKh25vabu0E5HvTM0kdXvKP_cbtloLUpq1XRcitJ-mwWFtl8NI0Zie1mIg9TjcKAT0l4yTUI254qyOF2zwVBOB0IHkzC5dhdhXZx-5q-Ro46CxV9-ypalrcUJpTw0oI0Xg5HIspbZMfvZVZtNivpro0HppOn-c6eDDYqnB6MqTNL_NoWX7rL8l7axesIO5m6ElVreOUlNBhJejOS_3mpBj1NlIjPkMo_prbrYa5Zfr8OwEtpA3Axh29g28NRzaODo4taLxWRSmfkwi4pK1jxQ_8Ci-kUypuwSHj_uV2w35vE0arcVK4zmIekoj4IKdcn6O-MejtvcKOIO-_xdnoYeaxrhVIwQonUY9D7ssEQPxoTDayPN15p6WuL0SWqvT7Ww5izeIj6xEc7Pe2ADOH30l9Jpj3Em4_IEgSzX6MJCpUGIwgVDlHmzgkAtt1CT34bMAh7uv7ciJl4H4dbwe_F4TB7DmMvdqT10TjNzWO5qZyNOAHv-1ARkFEWoT0oCp3XVvJc6wCX6Ntvh9JeBukRdE6QK07Ru8mkcQUI-oFvTVgbIJ2hDXWeEnME3MgnOfUIcMU6p0hgGIg4KDE_HEOHvNUURby3gvA..%26ch%3DAQEAEAABABS7PJ4-_r3AJYxsC4uoh9kISoKyitmmUqQ.%26v%3D3%26pg%3DXIPOBI5NMZEE3OFVXR76QX5FZQ
+.netflix.com	TRUE	/	FALSE	1808751536	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+16%3A58%3A56+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=878bd0ac-ea02-45ec-94e8-48df49e41fd4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772390186719&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808751524	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRAbbW44d37ghEhAA75Y1pBOHh6xV42hyY.%26dt%3D1777215524249

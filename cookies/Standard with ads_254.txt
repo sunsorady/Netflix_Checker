@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: les gueux
+– Email: adrien80100@outlook.fr
+– Country: GB
+– Plan: Standard avec pub
+– Member Since: août 2025
+– Next Billing: 2026-07-10
+– Payment: CC
+– Card: 8872
+– Phone: +33674635836
+– Quality: HD
+– Streams: 2
+– Price: 5,99 GBP
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: les gueux
+– User GUID: ZGX3F7KSUZFMNN6IZU3B5WPN4Y
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804512918	nfvdid	BQFmAAEBEOZ01JMIeejoEgccqQlZIohgVkZLthQt-DsyrrnsoN4jStYX-zTKRHgSiYucq008bKVMphqNH-ikUGuKA33H1O2V2-h2Q2dRHJiUCK8zwS0rnCRcDXX4q19IY_84QVQjCsqacgZ3zTUDiYd_U-L54Bh7
+.netflix.com	TRUE	/	TRUE	1807346924	NetflixId	ct%3DBgjHlOvcAxKQBEkVIEWc2fykP35DMLjKZYXYz-f3RC0d1gR_gsPuN4q-on79_Zt5PqM5L1xX5g2mvb6yVDiCT-_CMlSb9LdSaQ5qi7-NT4BJZCc_PHgzBYBVklahEGKY8J9nVI-514gxHuDLVDLFk3kand7kn8MQSDJQ27hcV_MdDQ1CCpvsytkks7KQeDFMtXJmlv5Zd8QAEd4XrZFMMVXoLrAkl7wZBfQaozgQ7nBaj4KOb51vOFYpUYNc4mgZmP4Y38q_SyTMRAPiYyxDP8P-KFLVTPkFr6dLqbVnOPISRnIWpdYu-1UqqvjT69XeMQ-6xcxFe2cHC1Y_80erXpIT2ExNDTzMqQxFXA0trBOoKx1QqIcyGot4OXmS_y5ReoSYtX_qHqP4oV08KIYPqPI4oMwsxHnkJ2Z81yEjYLsGpsOVKfN_D_T1OAa87o5fOhJr3e_1x2PTtrkjGlCh7qw5LuqCLLWfUxheW9MvQmbQ8nj0pF3kco4__7PrudpnpcAAwgZwCd5XPECtFalabFPbIiek39FqDGss3Ah3v7Bxl2FVLoh6Xl8WY1KEtXQEOpogp1jJGi27BWSnoHHQxcR4mYjFKb3-AMeR9iHYnY2V8c7UJq4HcozVhkBMWwTxU8-1a157DArvL2i_i-s_NDvXczbNjwf16blMosxbOE1AuQNcr-f3H3Yl2uNlbUWVZU246d8LC6JruRgGIg4KDPeek0iF4sFTjo3dnw..%26ch%3DAQEAEAABABSr0FbQsaKljNNOasSBpaW7Zxi6lCXI_KA.%26v%3D3%26pg%3DZGX3F7KSUZFMNN6IZU3B5WPN4Y
+.netflix.com	TRUE	/	TRUE	1807346924	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQWVP_Ig-ynh5dDPc8uCsxQSXLXpD3MloE.%26dt%3D1775810924126
+.netflix.com	TRUE	/	FALSE	1807351356	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+10+2026+12%3A02%3A36+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a67d853c-d49e-43f1-88d4-99506cd1bd50&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1772976822599&geolocation=FR%3BHDF&AwaitingReconsent=false&prevHadToken=0

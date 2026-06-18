@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: lahcen
+– Email: elaryfykeltoum@gmail.com
+– Country: MA
+– Plan: Premium
+– Member Since: avril 2026
+– Next Billing: 2026-07-17
+– Payment: CC
+– Card: 4579
+– Phone: +212645889808
+– Quality: UHD
+– Streams: 4
+– Price: 95 MAD
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: elaryfykeltoum
+– User GUID: L5USFKY5FJAF7AJ4NBBZVCGLBY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1808158590	nfvdid	BQFmAAEBEC0ZscJ5C_9eSCaSD6RbwepgkI6_na2FWNdHvi9T0l7iAxxkRgpbnVXMS0uWu_MibvonqOZHu_8f2cTCoT8xe6Kx7EDC9KU4MePeIIs4M55WNxABsJ8HGyEbnSUaigcJMHlWvf7goLl3yUdi0P3R_Piu
+.netflix.com	TRUE	/	FALSE	1809309639	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+04%3A00%3A39+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=de80fe8f-4a81-4a07-ab4d-1d224421e920&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1776622934576&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1809316655	NetflixId	ct%3DBgjHlOvcAxLKA-G1XR2BG2ZhedLRjaiBttwnHy4d1-zdrp5-KrKtjr0d_N4CIK78gfeqDoeMaBjjcbf07ysGRB8Br0tFuJfEzr0jcUmZg6e87BUwKJPEKxqYwmRtmsJkphoUmyDoO8eGZyh8KRXEd8fdFSiBlQvtKJ5Fvs0f8r8IxPA8ii72lwEY-e50cdiZNGcf0ALkM4L2TnPduHQ30-CzagcMnSu4DdY1-uPHfrK6bhO6U8Wk_MKb7eJlX1jYrzvKuF77Ef9wE3xiZ3BjCBc5qltYbe8D-92mOjk8CNsGBUZpMe3FzrYXDYuzXH4kdnQh7XipgCRjqlKIkS6OGmYv1ExXjYZACqy2hlAesjxvn0GFnICVE-Zsi1pZV9ZNjqWSd7Z4BX7FZvvL_mYJiEky4M94U0AcoSSwAiILt80Q-PnLPS3uLh9BuXTuDJ-I1mNRTn7T1h6TRzxQk61kIU6l9MY1FxBkTXyT6HPaxshKlX2AbkI0fNPM6Xas9bahxYtOjSGa5oVWsAC2UlrFU01xrW3N9-1JoPe5YY-iuboizjIdZF9R76HsbPcpeySns5LprUQwDHz5cA1AzxFm3aFFslDIUpk26fZG0hOsx6vhSCNmGAYiDgoMt0obIdXMCnZR3lQC%26ch%3DAQEAEAABABSXR88k9xoioonTi3D1_LcB88Pz7b33Ov0.%26v%3D3%26pg%3DL5USFKY5FJAF7AJ4NBBZVCGLBY
+.netflix.com	TRUE	/	TRUE	1809316655	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSt2cHvZyKEu9pxtOORm0PzE0FdfSEbs90.%26dt%3D1777780655083

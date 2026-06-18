@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Kari y Dari
+– Email: kva_72@hotmail.com
+– Country: AR
+– Plan: Premium (Extra Member)
+– Member Since: November 2023
+– Next Billing: N/A
+– Payment: N/A
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 1
+– Price: N/A
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Kari y Dari
+– User GUID: BKJRXQWFXRDC7KBCISMVKDIKHE
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1774737299	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR_RoKqEKYmI8hCOdQc4LKd_U7fuoaSuFE.%26dt%3D1743201299334
+.netflix.com	TRUE	/	FALSE	1774737303	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+28+2025+19%3A35%3A03+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fbbaed66-d9b5-4ced-ade8-222c9391d22c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1774737299	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEA7y9DslNchhj7lpvC6UZiuxQZ0OJ1OyQoeYI5MR_gtsKqtW7CLAij--Dkn_uUbCA4nmFabi6OMwmajq7dNcnFbHUmKQkewPCg2PKD4J5Vu3xzDak4dGhIeG7fIVp4Wv_sW7VhNlkYMKQcUIkBK-3D1RI0DRJe0toXL2p6fe3Nxp8R_N_CmACbgKjEiCNDnFhJbf9qKsvcE70mdjiHRAumWf_HCtNFJ3FbM6vi6nZOAtvljedryfT9np4fhdVtMkq88sc55wOSDZVrwMnAKg6GE-FkVGywPBmMOHoZvb7n21EsmQeuWO0aiTVQMmWih_sfwpjes2Icsfw6I0nxUChRyASTVu4dil_XsJsV3fsLhK7NjRhaRZTNsyXu3Fqo32dsxH9--3-SCXBBhFfkd0XhoahrMrr2ak09_JyFP3mWK__NujQ_OrcrP9qihM4p5rOEPnw7nTVVFa2J0NcWS1Ifb2RMxEGb94TePSC_VIswvVbVTWNvVg6lf-MIg3x07oS9G8MQgcYBiIOCgzQ1klSmF4Zhe3Rd_g.%26ch%3DAQEAEAABABTl9ovbCBViMgddjojA7xRql8N3_Glw9h8.
+.netflix.com	TRUE	/	FALSE	1774737299	nfvdid	BQFmAAEBECOcRnj2C1qPvg9Cr_H0WCRgx_2zhVEiEAfWKIAxAYDgocH9MqufIUvh_Whm7fuKcVvNtsOqs1OdpwxNQKFnkhKU1GZ5IgtNHIaC0bNVeXVnDf600xGvSMV70QwOQ1Lrw2cEyMNqbZ-Zv0m2-VA02xR_

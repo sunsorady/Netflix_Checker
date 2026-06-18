@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: SOUHIB ABDULWAHAB ALHAZOURI
+– Email: subhe32@gmail.com
+– Country: TR
+– Plan: القياسية
+– Member Since: يونيو 2025
+– Next Billing: 2026-07-16
+– Payment: CC
+– Card: 3615
+– Phone: +905342020289
+– Quality: HD
+– Streams: 2
+– Price: ‏289.99 TL
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: SOUHIB ABDULWAHAB ALHAZOURI
+– User GUID: BJFZOPBFTVAT7ANAQTOEJGX2SU
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791275864	nfvdid	BQFmAAEBEHD6h7qODdb_EL3N6jkwrbtgWRVy6p6l8FvNeySQstaj5Ly2-RcLXp5qrwYHCJAX_Y_lGr7rt5k_fYZnhfM534-dws8wL3s9DUaIU0gN3JFR2hX9I9QBK-1KOsisibFxy7R7AYrxQlORSS9_P4IJ88ar
+.netflix.com	TRUE	/	TRUE	1812967192	NetflixId	ct%3DBgjHlOvcAxKZBCAvYgA6OMCfkGzZoMUXFsmVrq41XcooDSoM9j79BLx5bJG-XXgdJCBI7U8Gd5p6v5rzRO8vSCV-ttTAi2eNifKk__Sir2pVyPsTgyu7auQsviOsSJ2KVQtNfjLQLlsvAmos9q3vahAn-CfWspNHH6UFVYXx_a-zDdlfN9NxtpOhoLI_-KF5dDy0fn-DVAVu6RkTQlaCcE5lCJlfqavJz5PV8OTaDZAHRpF-a-6P0ibV8lovAubuOGDcgZ14ajXVdb-NdCn80wOzxCXjjxja8u7BhRpmiCL7EM4pbmO98vT7weUBsxCjBoR1RdE4LziYgOgJ3md5Z55D52yxvkVTs1uTls8OkRRn3DifCj7v3zVjxM2ek08inuckiHWFPFm0uAOwrwPSyqBscWpEuFEgTJnTDaW4U7h_51_dAViC4bMeqXsna9VL51njtIHoDZKDk58h6gtRPhZJ6zuHGF0OwXq_8HMT9wuDW4c6gwLVfODnUu59TXZxtZa6r8MIZa8sd0sdTYF8pQE7UCYqvuJ2wMyhmKdcLlguV4GbHqC972C4VqChSm-7hqgHOb-n1yLqwNCMcjs7Fik7Hbvoa07XGzmMoES_9RHZmOh603KnR0YcUU3OgaG9LIpuzMiAw7M_OygCeF3vDD2_li4SglwlUlTr6NfPO9dfdB4g5KDNmoF64tUGkDlynSe8dJE8kHG-uYvIxs5uijUbFRgGIg4KDLgXO5ujcg-TnpuNHg..%26ch%3DAQEAEAABABSPsTejy5ipLtHG-ENuPf-zlHYGYhw10Ik.%26v%3D3%26pg%3DBJFZOPBFTVAT7ANAQTOEJGX2SU
+.netflix.com	TRUE	/	TRUE	1812967192	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTd6vdVTzYNO0Hak5zRQ7v5uczDfmFFa1c.%26dt%3D1781431191751
+.netflix.com	TRUE	/	FALSE	1812980949	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+16%3A49%3A09+GMT%2B0300+(T%C3%BCrkiye+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b96dabc4-0ee5-48dc-b0a4-cef4bfbc5ed9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B41&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

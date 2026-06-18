@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : JuanSan
+#EMAIL          : jcsg9916@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2026
+#COUNTRY        : Colombia 🇨🇴
+#PLAN           : Estándar (miembro extra) [HD] [Streams: 1]
+#PAYMENT METHOD : N/A
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:17:55
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1804724075	nfvdid	BQFmAAEBENPH7ZJuDPwjquVdLC4WQTRgR2yC2qnj-fC0-03L_EQmIW9OEbS0s_WKw4ab-JFSNMGaK5Ke1tZU-4Gnw6ipWmb5d2ThGTIX9ZwnkBl7AzwTu9isTmbA_iySam9gf5tLuHHwMGl-vq1FLsVyVjFaENAl
+.netflix.com	TRUE	/	TRUE	1810608256	NetflixId	ct%3DBgjHlOvcAxKNBHwGNWBVwiFXNwTk1zpSe_RebPLnpjIwToBWKcsLYCg8WHWCRxjIS5j5T0ME7Q7nxc_Cv8oRengUDo8VwWrwBjWhSg4CDfc3n53B72WeVxKqXRX2jZJrQPa5_PO4tWLTrw_dNEZ1aD_GDnhpkUHPfkpgN7OkxUzsHs5c6oQDva_v3XulGsbU82pktpgIYtGC1PA4MgioECNlvHxLe_rqe3zwhiyP5yskVgLTLQwRfrtFKillbARyXCRiuOuG_fijvJ6X5AJCJR5geS7XRvuoj5A1lSXC75xcB-nEVhofZ2fGhgzh6K9oT0Pfw-WXG2jPZJ0cBKhhBFrYZlm7JgxCrrn8muwz6tcvd3pFRYMBJKuyXk-YGXHMP_36ihIQBfIibulPRfznKScShxaL3b2n1UoXbkinw2B2DB9WCtV4DiCx609XxvMyDzbAsDGl3Twbo6XZqaBw_GYjQBPn25rXLghgOXCKJuspE5UqPar50-52XizZynTgqhWUh8WZ60q0z562-XS2QAJ5woy9-V3da-6_pJGJmJlFRarh8oMRLo2CUgax9eOiXW5zhd3Pngul4SgOFSi23oR8KhaJvoMiWha4qFJVTMipf2rPDbtNks8yzCmwNk7dHM9NQLrrxRCeUbu3xFOhyFsqjo7qzYcBal5vO3qtjIP0DwEVaXYl7aMfEecqJKD3F9l8pdCr1hgGIg4KDLeYQv3dS4sIeIq-BA..%26ch%3DAQEAEAABABTMZBxnRwwTk8hdxiaHuGd26m4VssrceZY.%26v%3D3%26pg%3DJTCRPSTZYFCNVJNHEX5AWM7FFA
+www.netflix.com	FALSE	/	FALSE	1779158659	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1810608259	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+21%3A44%3A19+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c7598eed-2c14-4793-896c-166a75b78356&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810608256	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQkWx_6UIYiyuhW_EDH7zVUgKk_sVPyIgU.%26dt%3D1779072415180
+.netflix.com	TRUE	/	TRUE	1779158657	gsid	c030c9af-5064-454d-8d6a-837901e96f21
+.netflix.com	TRUE	/	FALSE	1786848257	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786848257	netflix-sans-normal-3-loaded	true

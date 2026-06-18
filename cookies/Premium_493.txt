@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Ryan
+– Email: mouna.arfaoui@mairie-saint-maur.com
+– Country: FR
+– Plan: Premium
+– Member Since: février 2019
+– Next Billing: 2026-07-08
+– Payment: DCB
+– Card: N/A
+– Phone: N/A
+– Quality: UHD
+– Streams: 4
+– Price: 21,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Mouna
+– User GUID: 7GWZGZPJLZFYPDDM3QPSVW3MTQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1794074720	nfvdid	BQFmAAEBEKduM8q7W94ai_YaF4G4vxVgIkBtZEV-M9B_-6hbpMoToQWIFmuGw440KAi1mGVFyi2XH0lDqDhCiiKFOGaHoKTeHgJLPE_n5BnB8obVrfKvVRaVsZXicdqqC2gidi1eIsqjsBjr8l7uDivOlvlT_WTI
+.netflix.com	TRUE	/	TRUE	1797167921	NetflixId	ct%3DBgjHlOvcAxLlAyvzw3ZAe-54w7gx2qsT6HAXHMesfZw8JS1mmrbyyLog9fmEULJ5vJigWcJag7aj0tUw1eG6s_VH4XY-0bVI9fWm3MwY6M0XHUiyvUSW88BBNKeEnmvX6Xlx1sKJwTFbfuiaUpcRn7Vy-1oDaXUh3_lGD3yNV1GxPfcew85-JrcGZFwfOXUYNZ6_TOlIcN2DXYI6k3S_Qh9IVVl2SBJg6hWzS2PBo6HqgdvtW3HI20TwBiZFLaW4prXjzIked_ZF9tRtsAj4Cllmvs22lU4mmIwc4DnVydn8yfxZLJ5nCNPVFCcVIaMyQvqTpfOSXHDH9INeVMqNgbekg7bHRNc_XPURbctHRUvXRrTK6UaAxH6LNgobZHXufkYUi8vmlMRf-m5pKTTIQRNp5wvk9y3j-l1Gi9G97KoImOh7OfdUyejOXxicW3hphyBcb-d5z1mZY-1rNov-_KM4K0DXGQO-cZa22yRp-UIYkRKKfmkkF2zbmHzfXcQJMz9rej73EY7XOVyRvr5VhklzM-K9aFLRxko-XaLoz3zjjcVztsv-S98L80zv1Ph8SYubEjgb37Eujth5x58IWlIeSAmGELfJsnA2tIcc0sZrrEwINkgI5JsWTI5Pag9UrNlLXT_E3-7h4_roVd-kGAYiDgoM2Sci7NRcGo7N4sUe%26ch%3DAQEAEAABABQXZKPsCgPXclym-M7Q98FJH9kMQ6ormXI.%26v%3D3%26pg%3D7GWZGZPJLZFYPDDM3QPSVW3MTQ
+.netflix.com	TRUE	/	FALSE	1797168220	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+13+2025+14%3A23%3A40+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e120db26-e400-4d95-857a-7488117888ad&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BIDF&AwaitingReconsent=false

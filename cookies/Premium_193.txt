@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: MOHIT
+– Email: suepishudan@gmail.com
+– Country: JP
+– Plan: Premium
+– Member Since: December 2024
+– Next Billing: 2026-07-05
+– Payment: DCB
+– Card: N/A
+– Phone: +819077295633
+– Quality: UHD
+– Streams: 4
+– Price: JPY 2,290
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: MOHIT
+– User GUID: MYM4WK4ETFEYZOX63XVGFYC2N4
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1801501959	nfvdid	BQFmAAEBEK81khvT3gyggHMyr7I9FnFgKffhx4ntqbTZD14jpZrWEN40ZdcbZ2XqO4_2pFFC6x9WTJol8D5w6P4heQqWBTGo8ap7TArXQ2K9xga2_lJIWyq-pVupQLxkSBud4II8xoqwoBoSEAnoSN02Pn1vEr7d
+.netflix.com	TRUE	/	TRUE	1804199015	NetflixId	ct%3DBgjHlOvcAxK7AzyW6Y-LfaR452AEPr3YW0ii7SG9XDUG285p1KdFQL8cNu7pK9kmw-tlWXlhxj0In2VUXb1-m0EkCWVr6LW6pJy2OQIRXrW8_PWiX3osszTq0IEbguuv7vjWJeJ3Fwv6J3bWxqIrtPaWR6AY8r8Y1eIS39jbMk7BezYQqr189NMPHtujQSwJ0JWtkQOrmbzQlk6PeR3DAAAWOa3gk1z3LAaQNOtpu6FRUp3xBrtbhEMXlKlo0ElYrP1LgNRfHezssLxot52RE8m1_aejPoo-Z3m8UugXemMwwkCIHDO9cGAbjOXYpRqjl0jQTYwHFaEFRhXvAP1EqLyTrJtl3dbB9IJrUoyU8YWMs-MtXF-raOwDlpa4SbyWxlGX6aX77Xx-Qzkudm7d5Qm6Bu13ADTYEgYhkCFmLfIpVzJGHajuXtbNgjbkZ85pNGZgRVlx3NZzkAePKlUagMA40Az5uWR0OUqoSPSIh0XKonuVcY7AYoeDFr0pYKC1Nb2qWd9YJl9tOEph6eey9vKM4e-guzO7SRzO6WwCRMmNfdP6WQ5oXhgzA988piD4HVysd-AxQRoUqld85dQUcR6-IihIGAYiDgoMx_XKv4lAIxmj1PlJ%26ch%3DAQEAEAABABTX4jbSyrYHdGMdUWxVaTcDTf8M2gwJHEI.%26v%3D3%26pg%3DMYM4WK4ETFEYZOX63XVGFYC2N4
+.netflix.com	TRUE	/	TRUE	1804199015	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfPuOrXNNavMC_xASkyePOXR8rhxzbZAk.%26dt%3D1772663015843
+.netflix.com	TRUE	/	FALSE	1804199026	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+04+2026+17%3A23%3A46+GMT-0500+(hora+de+Ecuador)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=201121a5-3134-4e82-b9d2-d64670f7f350&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770576730172&AwaitingReconsent=false&intType=1&geolocation=SK%3BBL

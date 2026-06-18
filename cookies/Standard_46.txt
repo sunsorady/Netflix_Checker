@@ -1,0 +1,28 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Georgina
+– Email: Luis.carballo1965@gmail.com
+– Country: ES
+– Plan: Estándar
+– Member Since: agosto de 2017
+– Next Billing: 2026-07-08
+– Payment: CC
+– Card: 2037
+– Phone: +34644390127
+– Quality: HD
+– Streams: 2
+– Price: 14,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Luis A.
+– User GUID: TUMBLZVPSNHQPHVR7G7QKBMFVM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1784056894	NetflixId	ct%3DBgjHlOvcAxLwA6_R_tgyJjXp-dpp06k8EfK4lhnLl6IIBgU8APhRY3hk6OCS6oZ8unlU76MtJvs7DVZufl_LSJCBFmG4BgNJvSNW3DeBa5rfcrcLN-pgabX2kn1d9gpgkonDnqg7J34uI9az7qjS2Td22OWO57xc7jpi8moQkxBWHEoKa4vBPBbhB5VibWS8kgNJEo7EcbWpp6rFs6PXz9z3ESQ4qw_1576Dq3yNVNRilPB2F6SZGvKnPmDC8UdOEOD2E2pO460B4SfvH79D7huV-6Wtlnv4IeNxg6APMoy-h_LX1plTyTLno2Vnuzw33J61WU_3GYaa_UbGM_KDTirS9_qDaeT5VwJqHXzK5nmyf3zU9-SfT4NmTDopijuRJAsTyaN4ZaSHn_Z5kRI-jaN-wFQkDFDUPyMOj1wGOTUmjBD8VZlAOiehOe1RFtVDc88bZYLVI5rFfhOm3Rmh9kqQUJvjY5jY8QF1CXE63KBCDBW9MlZVDEkkN2sqHB4KmaDKlpBuIgoJK5g9s9uoQddZnkb55nXK3NQUfrtcPKeAC3xxyd0pPQ0grXHArtmCuWj4-d4eM-Ed3xH3jAdmGy0o7tPY5tn2Kbf8gGyOaENvLNElqjmwBIY6fxq3okxPGKn2pcqXsVu6WFp-F5QPeHU3pws4PPnnCyIYBiIOCgwV4cYNi9UyqbgN_PE.%26ch%3DAQEAEAABABQNXIjAJqPVIpFD-VOQU1VgaghhK3uwAZ4.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1784056894	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+18+2025+12%3A18%3A28+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dd3ae347-e4ca-4921-92e5-c409e9576b33&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BAR&AwaitingReconsent=false

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Rica
+– Email: lebasy.roque@gmail.com
+– Country: US
+– Plan: Premium
+– Member Since: March 2020
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 5223
+– Phone: +12133229526
+– Quality: UHD
+– Streams: 4
+– Price: $26.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Ysabel
+– User GUID: 4PIYQSCUUNFMDHBJYT5YGJCIIM
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806902673	nfvdid	BQFmAAEBEA18WYiAYI2zwUIymUgSIdVgUFBSOmhAeJaITZyH5E9V3ZD6h13F_aE1dYD6FEaxH6A9frKrxb_eD8c9VuB482JGOGBLJH-G_ejLFq2xvzwR94yArETUo6fo6Et208GAVVjVtdh2mOSrXCu44sFWCJu-
+.netflix.com	TRUE	/	TRUE	1810245529	NetflixId	ct%3DBgjHlOvcAxKCBJwBxDBNfr8v0l5CclHp3OJJDV_1vaA0AbXqsi9Fkk2h9_MpYgneIOe6Bwdand-kW0bT-UX04_pkOla2QMEi9V3w17wMe7lqPbPwm98xg-T-0JJga_xCe1n5rWHsO-DhLyAkYjKjomqLCkkNIUl8RmTMIoblCoYY6KPTq1b2Ng6N6sOvScY5dZgUHSGW9xjGhMJcXVC5Ng8KZI6aet5eoKnj98YLgZ5GBG6f_8SRlEI_zhgD1eMjsi94fNfbbY3DhRbkTkRKy3GkVUfBjG3FGZtSaMklOzude1iwyMqmZXPLuQRjgmKjo2Zw7IzHZoj0ULSHk8Xd_UenYxKck1BF8yycoUUenIGRTZHvOmIRuJ8oKmI8dweIdk-zIDCDZ4yo67O17tE_I5Wvih9utBzQPDqrdnFpVJ8x_wzME3Zgv6dhe_BQ5h9jbM-efu-nYtiqUVx4uI6TghKhXs32p6lZYlf8QZtboO9GI7nT0VUO0bHHYL6SVnDrAjDoYKDz_0NCPes8yEmIjP_5J6gvhbdmeDhcCf6_NOg1EKX-LbIlnTRvQarrWLFJcPyjh7uoKi2gVcONJjVRcb7-UlFxvvzrktU8ncNcMR7AqevPfwucP6PMN2JsiHGf4TbWHcZ6rbSt_cngjuXam10RaGzwuBo3eERE9Bo-ZCOvCV-w1DHvzkzbw4wYBiIOCgyUYIQflVVrdIktHOs.%26ch%3DAQEAEAABABTTk7M0aynq8HpK5PJ7h8SK8Fksb4wJiMg.%26v%3D3%26pg%3D4PIYQSCUUNFMDHBJYT5YGJCIIM
+.netflix.com	TRUE	/	TRUE	1810245529	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKMEVF4GIG2UevwkIR42DHVaQwThHRl78.%26dt%3D1778709531224
+.netflix.com	TRUE	/	FALSE	1810267574	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+21%3A06%3A14+GMT-0700+(Pacific+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2dde44b2-7f31-4cd7-b7a8-a7cd16ab598b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

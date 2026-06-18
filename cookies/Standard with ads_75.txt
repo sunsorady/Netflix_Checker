@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Marta
+– Email: mflorespena01@gmail.com
+– Country: ES
+– Plan: Estándar con anuncios
+– Member Since: mayo de 2026
+– Next Billing: 2026-07-06
+– Payment: CC
+– Card: 7057
+– Phone: +34644857286
+– Quality: HD
+– Streams: 2
+– Price: 8,99 €
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Marta
+– User GUID: 7LD452EEJZBURP2XHP26WINTNQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1811866404	NetflixId	ct%3DBgjHlOvcAxKPBDLoQMVLsvImLqwUhmd0U166zYNqLdb-xueOTzzYOzU0BdyCnb9hnLKNI7MnL-4qmP8_aPts_pugHCgJoOVpy7Rje6K7rCN2JCYCPEvZoJtkvIIgoVssrnOL8NZN917iO0F3EmXXRa8bntkNWwkFcKqEV2s2qRTmAfMdycqUw-1KcHmv8w6VIL5TEhtV0njiRHj8jz9aPG3cGm1-8XzaHc56rGAVYZfRrhdH8GcDMDN2ijpup6qi-V3nqflzXqp5QBkEgVi6Hu1_B6xlka7CTvydlZb0o7jucOJITNF2VKQEiRDJ9UIf1auCzuIQ_xWMHlNPj0oqPO50f-NFxaj_Lky5ZztOKD3fAVRUBpWvdyDlXMszJ2CE5qLBIPeQToWposcqLmR1Cxom-7YzcnM7lEyIdOPSpEqzWg1gOKQm8QifGDfvOzr4LPmzp0NanVk5YPtX9wn7upByfHBuTCU4Efg13Fmx7vyHobqdGg47yGt44SfP2W8F7G4uCiEZW3srSc_1Ly3v7Q5rNn0kxjxlR_BrDnS9bx2ejvDpXku2ktQuOSMFx1F8AS311mAz4z9iyeq7oY8DcIEPWNFbrFtGG4ZeWHBjoVe2CPKSAHLZAy3R89fruz4wK2s6yTfxgO-VUuiFeOWgkjJtFRFxc7dNYWEvj5AWbSKMJf__ceXcpbJx0bzQgT_qfdRF10LzeW-DGAYiDgoMUYQL39LoXINJ3Fbh%26ch%3DAQEAEAABABR-8bmNCNf20ksJljxRg4MY3bpy0RiEEMI.%26v%3D3%26pg%3D7LD452EEJZBURP2XHP26WINTNQ
+.netflix.com	TRUE	/	FALSE	1811866405	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+18%3A13%3A25+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e13d26c-e562-40e8-9f28-6406f9d72567&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774643109473&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1809626328	nfvdid	BQFmAAEBEHRZJAx7nr3cTAjwoEjEfqlgquPcIwz3UiPGIpC5Rybg0pd4JzJx302mFkehgekxCouEQr0vePdnRDQIc_sddk_NxIkT7UQG6_PPDTBNsd6y7xUqivjTlEMCRYYtJUREjcd5BfkJ-5Gfjfp-BbWtB863

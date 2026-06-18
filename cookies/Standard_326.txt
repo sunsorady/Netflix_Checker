@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: BJ
+– Email: 54mg@naver.com
+– Country: KR
+– Plan: Standard
+– Member Since: October 2018
+– Next Billing: 2026-07-14
+– Payment: MOBILE_WALLET
+– Card: N/A
+– Phone: +821048441132
+– Quality: HD
+– Streams: 2
+– Price: ₩13,500
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: BJ
+– User GUID: KHHD6QXHCRCZLNWWCQTDVNLDOQ
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1784003292	nfvdid	BQFmAAEBENF4yKDhnmuNRMmBH-tO-WFg1U149z6Vw010fpRS-Nx1lUhn7Gi98fi9BFD47_pWwkMLBBX4lNBWBHl3ATh_JuI4QO_eA8YSzePY77KJvopNdCvO2cKzCNMcJBYCsf58jyoQ3RUev-cC332I38D65Mgg
+.netflix.com	TRUE	/	TRUE	1804246696	NetflixId	ct%3DBgjHlOvcAxLdA_b40_WeyARTJpyUlJnaHeNAGMF0HBtxs61jpE49PqsE3ae2CqOYN1TqQbxOrtuAqKk9pK6qmt54z1yizzizd9hEDlLdVvabV3SZXN4Y-i3806YQ4QnFGpsXhPW042Bd8rMklojC0nknNvT4weOak7wIfLs49Nw_LHhoSnfsiAjXlF8II1lAWzNMinCuPoyfaSALlFm1r1w1XwiwBi1TMOTGeIgqTrGWTifhngdm7MlBf8geqRGj-n9mRWHMe83vUJR08sD0VX1lbM467JBeUmifjHjrqWIWQPfdNdi5YdWD5HsliVwGwhbJ2uAvvpUPZoau3Y8j0WBZ26dYI_XLWk1H1rlJfgWe-r3ZUVSv87tWJD130UQRz9DLMt8syOZvA00Lg9S1wtGnKR-fOzC6Fqv3MMLksNgpj7P02WpZFy_7QpIHE7Oie-u6jPJ_DPynOiIbh5CYqalfabp04_1vtDRuLDqgSQ_57dRNOvVAfYoW8wGuK1TWtA1JCICR7IoB4Kg2dfbbT0Aov6puM3_yFPeScnOMTP3i3HLi6v2f3ySTca2W0ch9wDjk2AaRtj1yGBDDCsh994Sy4E9VGri9HnsQCOFVagiplfZWfufEDeDUvqJqEWGPQewCbCvX7RgGIg4KDGcWobBOxh3ULV8Juw..%26ch%3DAQEAEAABABT_2C9QmBHatbthQFr9_E_Wxz0HZDy1n9A.%26v%3D3%26pg%3DKHHD6QXHCRCZLNWWCQTDVNLDOQ
+.netflix.com	TRUE	/	FALSE	1804246698	OptanonConsent	isIABGlobal=false&datestamp=Thu+Mar+05+2026+20%3A38%3A18+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202601.1.0&consentId=1cfe4470-940a-43ed-8370-02075100b58a&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	1804246696	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSklat5UMMXSou1bq-zaMo97D4tbgGHDjI.%26dt%3D1772710710103

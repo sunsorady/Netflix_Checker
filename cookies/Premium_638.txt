@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Aisa
+#EMAIL          : galindoaisa0292@gmail.com
+#PHONE          : +639350968801
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2026
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:02:05
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1783897917	NetflixId	ct%3DBgjHlOvcAxKXA9xdR6nixRpD3jwb6pOaLdV5KDqLH1gpTlC49av0rkn1fXtbX94xtNLalLCUxDUqawRAUGr49cxlF4UPFW3PtiMx3-KZ6eaxm-ijQW9f4xR-HcESReHP85r1KrIU6QNz7ln0d6-DxE1mzWi8qhInpRdM-pKp6iQ18w5DjvTldWYGZyMptPQexrnyUtQyIRTwni3BKlOhCUHGQpavTm8BcSOLpP8okATiChxsBMb6AUjN8GLPUIuD8ncohUDrpZYkMA4QeA6Y4r0KknI1X-Uq-NWY3M8YgJVM-Vs4VaIwk5AYBcbefpq8o2pTRwyZa4HA_MYy1PF7XszjWlaLH3goohxl46dze1LIT2Sm4qh610wPGGD7SbB7AIbYJBvogp6yBoN2QJtgzyiXIAI6ipDxW8mnlNGo8WyQhEVTll-Vjv9Xv80AD2sOZsJZPcncy8OCtrQrPs6vBTGI0KjQgbw8TCmvKFAhJjdmWS1M8yXl7XHNj-noguKgGrB2F7mYXxWWiZFEq-FgZFGg3U7r27QNm4xihugOFwPYGAYiDgoMM2Pox0eFhduauxvx%26ch%3DAQEAEAABABQri_WkoT3jkSZuJFj5IGXXx0TDbD0OX9s.%26v%3D3
+.netflix.com	TRUE	/	FALSE	1783897917	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+11+2024+12%3A36%3A22+GMT%2B0800+(Philippine+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bdde95a8-383b-4e38-9e6f-c91d4626c592&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783897917	nfvdid	BQFmAAEBEKYiDVD3jcz7UqYKjjsjG0lgjfNYkCYNv3_ryHjkqzHL7iYCTOiSKX2OCzvP8y4cTxS-XSePtm-fd_iUb1vxeP72DFKCndaMvZwSYQvbeLz60uH4AFo3LsZFNwO8KXFP5IxAdmirfHSZZKjAtIFo-3Ow
+.netflix.com	TRUE	/	FALSE	1783897917	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783897917	profilesNewSession	0

@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Sav
+– Email: debbickel@yahoo.com
+– Country: US
+– Plan: Standard
+– Member Since: October 2021
+– Next Billing: 2026-06-21
+– Payment: CC
+– Card: 3722
+– Phone: +18146713838
+– Quality: HD
+– Streams: 2
+– Price: $19.99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Cotton Picking Nigger⛏️
+– User GUID: 2KHPLCCJ3VACBPPJXPFKWH5CYI
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1806419821	nfvdid	BQFmAAEBENDqhe1kGaPcVmS7sO5PO7tgelXlnQ0YmT1DwKRYixSvlHsMnFPBs3_cK2RcLhgxOMpxanYvH_3L3sPn-QKsFgJxLCyJi__OUrJofG6j2anmsYVlUX6J0ezBEZhY29f0ndy71cjQ3apLTjshOK9kJfWo
+.netflix.com	TRUE	/	FALSE	1811834464	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+01+2026+03%3A21%3A04+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e9dfcb1-3cd7-4227-9d17-2f4f609278f7&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1774883788716&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1811878596	NetflixId	ct%3DBgjHlOvcAxKBBBN28ZvZgjDaMDcdGhywq7zyjOWrOjHLc29IfmireAQrdu01_C8OsQhP1ukGd8dvwx36r4xqNKVpQljk0RJaZjE_Ue7_naHatSVkhkUOnBSY2Px9XpAokO35vbJRThO2d7_W1ya7PcAQAwOJuLjWAYmuKJ-Xig8aHkFU1tgM2fVIGxXZPXvvSgk6byxHs7fahtFvgoJ8cbNn14sEv95lOcweJrjxbgfL8JQdF65oKfeM33gU5ciHR7zehl-YO2Sb2coN7UDvmlHVheGbjozBb9ZR1OKACtqeWgdH-uH5JQeJgBanmYcPvErre2SBeMEDWIxgQtGJiI_IFxLDWdl7BE0H0HL8_3EZ3Z9A9EkhbQk4OMU1vEdjBPc2Gg9fbNAyV-b5-eylAXFChPLebWvD1ST5XjK0u7mIxvyzQrYHKbXaoExTU8EnU3OXFu2Q3zs6rn9c1ZRM-m115bYaHQ0h3gPnTi6vfl0ztfHz4Jq7K6fR77SZypKAD0Py0oTx_IWEE1g4HZA9F5sqXOii6PcENOf_WlIViuUmjyWVxpUGw7QnGkWGraWc_PsjEm--N2IW07PlPWHrs33-1g8i4hBXq-fdYHgUwsuTUBRv-fE56k_-m_naL3kaAXz4_Uje99Qnfr92yM6r33Lh7kzhBYVSOE_8j5xZiFr-N1vE2PMwnCdk_RgGIg4KDO3TtNUTzgoYdYWj9Q..%26ch%3DAQEAEAABABRvRyoi9Sf6ONfOweK3g1uexBFMQUE8qe4.%26v%3D3%26pg%3D2KHPLCCJ3VACBPPJXPFKWH5CYI
+.netflix.com	TRUE	/	TRUE	1811878596	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTpweXXge51bxKfD2IHS_l7DpL6XQijgpU.%26dt%3D1780342596866

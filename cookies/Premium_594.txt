@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: torres10.zurdo
+– Email: torres10.zurdo@gmail.com
+– Country: MX
+– Plan: Premium
+– Member Since: September 2021
+– Next Billing: N/A
+– Payment: IZZI_BILLED
+– Card: N/A
+– Phone: +525572107030
+– Quality: UHD
+– Streams: 4
+– Price: N/A
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: torres10.zurdo
+– User GUID: L6NCGYP3NBEUNKV4TJA4VR5ENA
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	TRUE	1808790641	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKiA2KUHpY_j3YjoL04xyxxr07JszHRMzyeXT23JlEx9_fesdAsr6Y7vdl1Cg_Kb8hPY2vjNnjBPU-gc2TQDA24dCdnZrXp4sOvOQTnvbKEphazOYgsTDNw1K5NjTdrfRTe2GY2PDc54irnmrSxDnHa56QCfxKd34n8jzRJpLq5Ys_7Rp1d2UXLleX7A6mecviIkX_yIFCwXU8YkPsVrBR0m069B-CZqA7RYeigWTqb8csV1Fewz_icXQLjoVHRVkKlkaJJskTJhIKqkfPvDc40KxDQb58xqHJllaHPRnlFQOrZpa7rxFc3ht1Ia0hnaqkkiEAh5Wg-gLdtDE_1DA23Y2jBk9aHXCys5mBAlh0TM2g84gfmSA0h1J1_vQepok8gyY70Ws8g3l5FYcyb7IPjv5NvjSyriJqOXLj5PGuYb-fcLDoOKN-Y3UEhFKbV0UqvPsmx0PWeQhjMoQPxkrr0slWgmDspNLkSh__SC3u7sZZZJr711v1kowsoXnpUSczEYPk55fY0z9b0SSP8T8Ip3_MJOaw0c7glyLrYNVyn58BKJEQYBiIOCgwOCEPVnXACwBqjfBk.%26pg%3DL6NCGYP3NBEUNKV4TJA4VR5ENA%26ch%3DAQEAEAABABSUYau06R8Od8smIbdVBsFDRNBTUW_KIL8.
+.netflix.com	TRUE	/	FALSE	1808790638	nfvdid	BQFmAAEBEPt5kzP0gm2b-iv2mA2PkVRgt_gzGGNtOjUHwJdK0PtNt0wPihi29d0PgkB-0wksR1f7ZJGqEvbCZjG9vMlCVwOx2LkdQkRtIX3Cpqlvoui9gQ41Ee8zNbu7hlgr3i5S_LDAMNScXgUorSfWKta4KK3I
+.netflix.com	TRUE	/	FALSE	1808795546	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+26+2026+21%3A12%3A26+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=9a6f7728-0763-433b-b89a-33bfdb494f0e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1777254562282&geolocation=MX%3BCMX

@@ -1,0 +1,29 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Gustavo
+– Email: assilva2005@hotmail.com
+– Country: BR
+– Plan: Padrão
+– Member Since: janeiro de 2014
+– Next Billing: 2026-06-26
+– Payment: CC
+– Card: 8328
+– Phone: +5524999793181
+– Quality: HD
+– Streams: 2
+– Price: R$ 44,90
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Adriano
+– User GUID: MPSTAFFCSJAZZKHAO6YKNQOOGY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1804992839	nfvdid	BQFmAAEBEN2e_0I9s-AQHSgDjl52x8hgXKzowhf2EkMocYxi-WnWVYpeEo8PALkjWHX3ks3PZ5mM-pnctIKt0I0eoWw1xUjvNAYrPwyu7aMYJ1XsCqJ2b8B81s4VQK5_ct9vxBQ8DH0c3xoamFHVOp6FzAFoYDdX
+.netflix.com	TRUE	/	TRUE	1812142525	NetflixId	ct%3DBgjHlOvcAxKBBMCpC0EsPpm2bJLAN--H-XkKjGnmLxWhGUmWs_hd9i6WQwPrUIlShkr7xIAkEodlctOdU9WDUBb06HZuDfg8bOwNw7l7lsL6i_1wa1pttfjnSfv6ouxjlKyNW-iRJ9bW9M8Td0AbRHsBIDRN3dpGtWzUkPZp0CyuLXTn4ajkgUyRFFhsYAswBmkflcALlXPZnj5SUinIgc8RzGFYJ3kVDgiMawl4GrqB2-KWuJz-3afAbC0m2SkUDImt-sAy9p1HYlPAYWpp7nEjWPL-NygbYjmOk8QCBSVF6KBO2X31ZrFRhsO0IVvgTddLHnpJS0djdVl6RY4yn-PcEanYfDHTF5rwAHNHqHgZBhNiGQJS7fclhvav811DTAK_yNmcFPFLwQgWbgBLZiiO9AEpZfVR3kH_6Fs0RpZNCqj78re3RZCzdafGqnTgn_Sew1SsNCojcczfYVG9B8Ul3sSR41iMa1HP0ixs_yEvucb-B5W1bJ78V8Vp1w5kKm-6qRutPKFvo6znns1-de3DbvgXVg7msOK2lvM2otx-sUswoF4NqasrypR-Er4dRBFvoV4TepBkCbGIYr4jRj8RxYlRLswKC6lfd71Q0K3rQDgp-j2ArOapqT4AFkhaBsr6XSfEe_I6kZyAIigU2UJAwPltGoULu_WtHwrVvjbJlAIzv1s_gWIXwxgGIg4KDIBazYeQ9ejATMjOgw..%26ch%3DAQEAEAABABTCzEYlDYsRNInGwipRD3n_XUChN1gr4hI.%26v%3D3%26pg%3DMPSTAFFCSJAZZKHAO6YKNQOOGY
+.netflix.com	TRUE	/	FALSE	1812146860	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+04+2026+19%3A07%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=390b55eb-3a90-4b88-a8d1-1ec2f0b4300c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768004152141&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

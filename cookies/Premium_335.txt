@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Westgemine-Guesthouse-PT
+– Email: vadinhoafonso@gmail.com
+– Country: ZA
+– Plan: Premium
+– Member Since: May 2021
+– Next Billing: 2026-07-11
+– Payment: CC
+– Card: 6437
+– Phone: +27748294417
+– Quality: UHD
+– Streams: 4
+– Price: ZAR 229
+– Hold Status: No
+– Extra Member: No
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Vadinho Afonso
+– User GUID: UM2VKM7AYZAALEG2NTS33MCQ6A
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1796794640	nfvdid	BQFmAAEBEGNN8I8andRGMpiP7M1mDpNgdw-5Tw8n3D9M8LPkV-96MTYy_Jml2e4TUPJQ8Jfjfoskrsfbe1IJ12MmzxC5VJmIDYknNzW45iCKzW6nbSqO7BCdC_J6EbFfWQSBhyrDa1oKUpkeJsOMgbk8VIola3br
+.netflix.com	TRUE	/	TRUE	1807785991	NetflixId	ct%3DBgjHlOvcAxLgA61fjV7dfnGvgXiHNur59AcK-Lxa7lPfCv4s-G3bTvtuc1G57qY80l7k3U5imAto9ZFfnhedOhDKABjTbWB6qbZLGIjMjmuapXfQUacR5_3WpTLjxCHWC2Qh-Mj-s_0LhGrHNhjrYy8mLFMjjT64DqvUqNoObK7G9PDtLTrWI7QNOmy3vVhxC6EavvdaiNpSopfVKHINpZBrvNJlJfpjUHzzpW6ZV6f6N94IXeLwps6z8SEXgRCGqWN8aUc_6PlOxSh7HnfznGDKLQcx6Oue0l4YXP8mXRjzK_C3hvbzDM59W152aQo6BpFI8GISuGPh2HPu48P_mfhCjh2UF5dUPYoikpqfTYWIE4Npvdy2nMcN_0iOLbTCv_dAqUTVwKenGb8KGAQLY1gUmcm-TRrhW4U6AFwl924FnErkDBgPw8iaUoTJdjDMEDtcjcABy27Jx4tHtGXLgif7gE88ptKDmKXINP2T8wys1tIshCaoK66flSCYTAxgMoUEpWSPcofi3ToDMtCqkBhOKGyqeCjucRyDD68G3-_-NLc-hznywNZ-lLTu7gzR_ZpmkXtuXlYzTHssqwkFQwz4I-NUV9XJUAmF78cpDZIN3pLevqzmVlHGFmdhw5GgpH9RwFIWxd3dbxgGIg4KDN2g8DcglOZAhkhxbg..%26ch%3DAQEAEAABABRd60N08M4er6yFbyBvck5-nJM1V6v_KbQ.%26v%3D3%26pg%3DUM2VKM7AYZAALEG2NTS33MCQ6A
+.netflix.com	TRUE	/	FALSE	1807785994	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+15+2026+11%3A46%3A34+GMT%2B0100+(West+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=edf48a76-c620-465b-ac39-fff8e9b3ae35&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1807785991	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSByCucTBdTVka8IpzMNeKfiMeqSZh8i-8.%26dt%3D1776249991122

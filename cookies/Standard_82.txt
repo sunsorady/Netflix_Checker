@@ -1,0 +1,30 @@
+═════════════════════════════════
+NETFLIX ACCOUNT DETAILS
+SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
+VERSION: V2.0.1
+═════════════════════════════════
+– Name: Renzoo
+– Email: jojovos@hotmail.com
+– Country: NL
+– Plan: Standaard
+– Member Since: december 2023
+– Next Billing: 2026-07-10
+– Payment: EU_DIRECT_DEBIT
+– Card: N/A
+– Phone: +31622006800
+– Quality: HD
+– Streams: 2
+– Price: € 15,99
+– Hold Status: No
+– Extra Member: Yes
+– Email Verified: Yes
+– Membership Status: CURRENT_MEMBER
+– Profiles: Jojanneke
+– User GUID: M6DPOP763BHGHMAROSVYNSRVVY
+– Admin: @hydrax001
+════════════════════════════════════════════════════════════
+
+.netflix.com	TRUE	/	FALSE	1791691811	nfvdid	BQFmAAEBEMvVWXLGvDf4ntgivnN2MhJg5rPcJ9Y0BBik5HEp88SFQR_jOiRGB9PBZQPj5QitwLms2G6z-otMhVWjf442Mb9fNchFqp-FHrZBvEpwD2a_915KHPy08P7aUrZ4KuIIa2-3mSwEMp-j4JCKOYookBh1
+.netflix.com	TRUE	/	TRUE	1810069406	NetflixId	ct%3DBgjHlOvcAxKABKmRI1P75FKvme8j3pGW6_1TFcS3C47dWOBW7qkiZHIHzByA2X-SUpv-nzAPdHOfbIQ9VkXKmdKHBB5ToT_1vyLFNsw3SzQ0JpCXaTRNBPFuqayjMkYEw3O6RtQBWC5boVBim8ILdLKlLuszedAou8Uq8FL3nTXHsUwWZIFq-ulbmznbpBDM9_7KRHjZ0YieNqUb56fw8k2yw_WgIC2oTjTKYJjvlRd3e7E7tqG4HuIa5K9lvGFS7vrO4H3mGBXvfEKozM2mBSLYdzvC1k-IjySRLr2tCwESbRKx9hlEYceY8tTOeIxSi6STHS5dM0VSlZa6nq1LIVkEU7WayjrM2ok7VS8Bb0U-FQynM-0-PRJrym9r_O95uFdkKoFEfgiHutDaoODEWcfkromyuOXWmKTowAdrRn5rHX4eUWbGcay8EqNItWKhQ2ykJnxADrCa1bTSeZ24ReV0y15i_jPmQYmI0VF0szouzt3lkullTCNYYEffATfiwm04tFwHCn4GPCF59HuvfwW-pxMHY-V2GlysfhmOWkFQdq73kTwfizjtrwBjj8HNDteynHzrO4H0kkqP_2RrghxxHv43bYVuJRLDrTIAAZxaNr-FBkSZR0YjXYn0wkHfIsS_9OciflqIdleU2mh7w23d1kJrnzJxbF2ac7YYwuuLGqilYTV1uzUlGAYiDgoMtCcdhqpueL9T2XqN%26ch%3DAQEAEAABABQFNxiV-ZS0y51ayLLojWToyVYi9Cine-o.%26v%3D3%26pg%3DM6DPOP763BHGHMAROSVYNSRVVY
+.netflix.com	TRUE	/	FALSE	1810069407	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+23%3A03%3A27+GMT%2B0200+(Midden-Europese+zomertijd)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7cddeb18-b3f6-4d72-a698-ad855ab859e9&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=NL%3BDR&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1810069406	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQPJNZ7bJtR9RkjEkNcvVazZv1VVmKhgnQ.%26dt%3D1778533405487
