@@ -1,6 +1,6 @@
 # Netflix Cookie Checker Telegram Bot
 
-A Telegram bot for checking Netflix cookies. Cookies are publicly sourced and this project is for **educational purposes only**.
+Read Netflix cookies and return a login link (NFToken) via PC or mobile. Cookies are publicly sourced and this project is for **educational purposes only**.
 
 > **Disclaimer:** Everyone can modify or adjust this bot at their own risk. Use only on accounts and cookies you are authorized to test.
 
