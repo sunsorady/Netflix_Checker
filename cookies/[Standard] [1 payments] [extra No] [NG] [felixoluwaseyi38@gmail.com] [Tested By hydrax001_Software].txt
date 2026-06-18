@@ -1,30 +1,28 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: VINTAGE
-– Email: felixoluwaseyi38@gmail.com
-– Country: NG
-– Plan: Standard
-– Member Since: September 2025
-– Next Billing: 2026-07-08
-– Payment: CC
-– Card: 3517
-– Phone: +2348060405999
-– Quality: HD
-– Streams: 2
-– Price: ₦6,500
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Felix Solomon Oluwaseyi
-– User GUID: 46VVSEGHBNBBNOMKS2KJGYULLQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : VINTAGE
+#EMAIL          : felixoluwaseyi38@gmail.com
+#PHONE          : +2348060405999
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2025
+#COUNTRY        : NG
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (3517)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:16:01
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1804412408	nfvdid	BQFmAAEBEAyDcJvH_6XAxAt-AldVtvhgnnp58bEmX8IVqCEwf691fw_NEBtswAIjiHw_BtTeG__XS3vL1jhh7zX1JgpowF7nV9xDW13y01LdFy1qComYf14ZAG9CdLYabfI_-6ZxydJQXSB6vZzDcrvpJm75V9oR
 .netflix.com	TRUE	/	TRUE	1804412447	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AgAbj2SXkWmzkt6cX_FBBBwMwI2giGrISFlCojmrwNcUFwYUtdF_zLR3j7VJUpmChE1qRGfH9i-FCwxRk-2H7UzUkweE0X595f6EGpT8kQDfNXcZrPPe8gog8rGRC6vqIQ1fTN_v0J1EVEspGV_5C7p5UOCvn_14hVum1dLdoRjqyv-vAooT1_kinIGB00QeO30VbT0sghiFLOi068aaqF1fUWuLQEHZDCpCnxujkd5XQWN57eJHNXd_AtZywcCUVh8DJrJn3M_ncJM9z-HFVN4mau79_zLD3h0l4HWtFyDPdg_CaSFqEcw61Ublt03Vf5htXBuKHyoLuJpQy45ojEDkZ4j9nPle504hC9bOz_-7eGZjjSUtTCTBYBqcfMBJ6aWpV1RtAtK7j_EfCxpWu3RfDXH04MZbe-2AWr0y6S-jO9ZNL3x-4WsAunBHd5SIjzvdc1OJh0xQDMWpkEDGZJM7IZOLXAowZucBb8G8NO-HcxcwcVIDg1KKYktQ9LEYBiIOCgzrydIvpuBcnpjSZH0.%26pg%3D46VVSEGHBNBBNOMKS2KJGYULLQ%26ch%3DAQEAEAABABQM2PmXFyxrg_GXU65SRzpTO729Y1ZaOsM.
 .netflix.com	TRUE	/	TRUE	1804412447	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABScDWNjibf_egKorJnQji7sRIPv04lTAs4.%26dt%3D1772876447242
 .netflix.com	TRUE	/	FALSE	1804412536	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+10%3A42%3A16+GMT%2B0100+(West+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a4f764fd-487f-4ae2-81ef-5b3c26db5332&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772876408158&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1780652535	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780652535	netflix-sans-normal-3-loaded	true

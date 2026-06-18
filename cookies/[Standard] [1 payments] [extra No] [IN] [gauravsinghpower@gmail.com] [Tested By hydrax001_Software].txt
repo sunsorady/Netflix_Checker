@@ -1,29 +1,27 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Gaurav Singh
-– Email: gauravsinghpower@gmail.com
-– Country: IN
-– Plan: Standard
-– Member Since: August 2025
-– Next Billing: N/A
-– Payment: AIRTEL_BILLED
-– Card: N/A
-– Phone: +918700370392
-– Quality: HD
-– Streams: 2
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Gaurav Singh
-– User GUID: XRFYOBLMQJDZLBZB4A4X45KQN4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Gaurav Singh
+#EMAIL          : gauravsinghpower@gmail.com
+#PHONE          : +918700370392
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : AIRTEL_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:29
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1805790361	nfvdid	BQFmAAEBEBb0aTq4aP6F3wB8k2A2stxgubQOEBmQKKX_JUWhXKl9TBY7mwdyuNZ81NgYQ9JwkfN5AlwvqZUAVlXm6-AqR3RH4Mbg94C66p_3MM0yXt8wUq87_OxqE1fLHvvr8X0nrfNJliE9O1w6OV5z6up5ka86
+.netflix.com	TRUE	/	FALSE	1786438453	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1810198454	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+13+2026+12%3A54%3A14+GMT%2B0400+(Gulf+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=05b3b55b-83ec-4051-b5ad-04173eb1ca59&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1786438453	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	TRUE	1811767260	NetflixId	ct%3DBgjHlOvcAxKKBB9L616ZleM7L26ZVqf2qJwh1DwGlqgaFFUDf46I8mlTNoDiwLIWrZvaqZEQH328iloIkOOnmfqbl0vd9iFzn-F1CA8Gq_JPsmCxPCPS3kM7ion1xvl-iptxyCUSzaIcI03PoIrDsUgE5epEIlKrwoh8bfpi-aIQovZ9PGM3XnbbsptxZXEGSZLu2xUkqHbUESR5GJ5g5OuuJkpqIb9ePjFW30iH8fk8oT-4p_Re4VuqnJCRjbnjo5291BwgeOuO-CjVwjfXLqDvrDHgPIAbPgNfnO29OMlyOJuDrLFxNYmKekyxM9l-jnGAcXF6lDu7bmQ1d8c7fBRwSlEa8VqA98Ny_2WFULuPGGU1MMEcBfSLdfOxSuCSpqypkAN5Wv56mwsg3OxUahZDa_qsM330rBr0-0G36maD2U7cLZmTyjG7bKcYYAxYfBwcdiQDRIFt9I9ngKwQKcU9fFd8jFOee8ePev_URxrWIQIVuoZR2Dhi6rTMVTPCsV7WYX4ol3BnCIrcBdYsC46u9YcMxOGIgRriugbzBAza8G4jhIJOXmo4ZusNuendKNNp8_SX0BP_cRMrES5JYL7QY_XAvF-UASuxnd_C2GSXsloYqjdLd_bITJzAeAOiw5jNlsqQrAyu59gqRy0MlZW8IytV3I6wwdxh0Wd-sg6KLBS9CbgBHz9em_asCbQCcG5cRBgGIg4KDH7qqpDiVW0q8irn4A..%26ch%3DAQEAEAABABRanHRutNaYn9UqsnIm07Y7RtaPpFRGiw0.%26v%3D3%26pg%3DXRFYOBLMQJDZLBZB4A4X45KQN4

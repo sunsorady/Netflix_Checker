@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : krnshooter250
+#EMAIL          : krnshooter250@gmail.com
+#PHONE          : +66610599595
+#EMAIL VERIFIED : Yes
+#CREATED        : พฤษภาคม 2569
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : พื้นฐาน [HD720p] [Streams: 1]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:34:02
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809649152	nfvdid	BQFmAAEBEE7oHE3ZQ7N9ZxF0RDwRA_Fg8ozVFQS1l3hltJvqMWSZsHT12bVcNpJT97aDVfDVWVa27cE7HKTIlEhgsrBEEV12ouzNId9J-WDrqnkFPm1zR8F-oZJCXSMcFGcnxfX2Blw67Brjv-0E8_P1iCspeCNK
+.netflix.com	TRUE	/	TRUE	1810668809	NetflixId	ct%3DBgjHlOvcAxLrAx7tEzfnLz983IudqQnAwdC0IEqbS_fpENO6xXKAXpror4O-phkvhazIUVptX6E2br8ui0SDPJAqEMWs85loLRIfx-PA51ih3qoV0mq44PuKCG3dEYo6cbtLHqZxEdSBqA80dZ1GXcS7sxbDF5GWeuNYXWNM2JMCclyR2dkxLMTOb9HJa6fbkxQo6l5fuKmpPh0fwEhZ22RVW3KMYakv5nMQfcOtLOIg-L-t_aCFsJTGnxEfc40mS9oQDIXpu6bB5-miNSFba4oS9WA0l-J_ehZtwYxvVULHqY6jw6cZ9UnjqDhAIYxSl6ygH9WlPq5FpLiRyerIvVtjHSIOmAjl1i9MpQdT8sBQ1SxMhCUQgMWlDXFBpFFuhRIceyLYuc_u902MeU_Qj6wL__jkeI0mbfqMMul1NKIq7OBb8qgTSalHxZpj-wAMP8dnuqLElGa8anRZStFAMA-wUcMrebs0FH1Q-yMZaMLNaRBDQoaXat1hAB8YNxfCOnR9U79m4Nr9MUHDz0at0a9LUqzH5OBc7mejsUdta52mB45UuYxArl5H7hhRAiW5OxmDixfDJncrBNTGXvvbwd4O3R6eVxWwuCqGyixlupNIrszG-r5D8hu6Jgb5libtkvd2YM2lKoxGQz7tblus3k0vNlqrGAYiDgoMYnir5yHJxdCtf4qZ%26ch%3DAQEAEAABABQO1KaL_ttCfWuOLISRCEcR6twf7NLylVc.%26v%3D3%26pg%3DJRNKFVXJAJC5JPJBEZT2XYJ3OI
+.netflix.com	TRUE	/	TRUE	1810668809	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQggsI9IVWHefwiyGBi-bo5jL3DwQqv5Ag.%26dt%3D1779132809749
+.netflix.com	TRUE	/	FALSE	1810669021	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+02%3A37%3A01+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=805b1f3f-fb79-4d10-bfa8-0f80dcb8d449&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778115353688&AwaitingReconsent=false

@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : FERNANDO
+#EMAIL          : fm017293@gmail.com
+#PHONE          : +522714017718
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2026
+#COUNTRY        : Mexico 🇲🇽
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : MEGACABLE_PI_BILLED (9875)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:01:59
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1790026489	OptanonAlertBoxClosed	2025-09-21T21:34:49.664Z
+.netflix.com	TRUE	/	FALSE	1790026530	nfvdid	BQFmAAEBEIQeIOZX9iWvnPxlx9sFpAJgZocqf6uvYY_-__Hxzz6clxE6ubrTiCjfqJn9dE5fS8g2f8t_bdwCf4mTOJWszZoeKu4YBGAsPQUIveQtkZ3_wucbY6SUv-3rGwfPemUxl0bYbJVTVs5D_2mF9-UhJjbT
+.netflix.com	TRUE	/	TRUE	1813969969	dsca	true
+.netflix.com	TRUE	/	FALSE	1811143276	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+01%3A21%3A16+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=17520b36-d9c1-4d96-b4c8-8e6b59ab1397&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=MX%3BVER&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811143274	NetflixId	ct%3DBgjHlOvcAxKPBMNwoYUqATGaDQ2mC8S0EY7KLao_nm-8Or6D6JLDsSwv7jujGw_QNXAarAWlEpSPu5CfHcRkc-OddxnmwKENK2335G3W-JgvMUx1tp_236MKFtlHitg-7LnxUJXZfajN1upXN5r2-34ar7L0g1N2KtGT9SvesSfc0bXh7qmAjRg33SUzHcZpj5YZkkvyKmQjiH8wR9DiVhfQAqY7AqOj6W2pYOI5-EGbTgxFsAWS-XVIo4YFm3hQRjHid-hXGx6FF9vqt4CYJv-AJjvMB_JJHpwKlNc_mvTtWU09f_I5DXivJJMUYcCfRmRkl0X66Cql10-SBIiEPG32wlsgRCtB4WXVEGVi3RHht-33dPF1UuzJoY91bfTVAxBCI01rx4v9FNh4vXGqmJ1FtfkYMRIlj8e6xSmel8WCumJC-3biABPQxrlh_7oKsBvnxbPHsJAXZdiLoxuJeIKIYt2qYtj6XFVAQI6ndWmj9LMcINMWbRaUw5Jrh6H8y9VSJhMfUt9o3qj8MiY0x6h55c8mUvkDDpfcvwSUT1DyIIPctV4NSjbG6ejnWqmNkhLndYHR6Q_UKb2gAz4LvhsQtmD3lCcvKoBPEIYhRSS4fvnc2OjE54hkffLXvKv5LDwgWxwOUMV-Ml1VMLxvJQn4IzNveTzu-X6PA4vgpzhHJhalw7MIniPaG5gbzVuP2ou1i9ju7QXFGAYiDgoMskyHyDVy12jtDoW5%26ch%3DAQEAEAABABQ6r91EgjBiqx3I-LErKfe9SF1Cp2A63Eo.%26v%3D3%26pg%3DWHK5MNFACRHJFGYZ4HIJFFAZ34

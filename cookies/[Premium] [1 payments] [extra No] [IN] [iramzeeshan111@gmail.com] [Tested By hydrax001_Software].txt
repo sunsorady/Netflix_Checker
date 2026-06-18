@@ -1,28 +1,24 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: iramzeeshan111
-– Email: iramzeeshan111@gmail.com
-– Country: IN
-– Plan: Premium
-– Member Since: August 2024
-– Next Billing: 2026-06-30
-– Payment: UPI
-– Card: N/A
-– Phone: +917017530493
-– Quality: UHD
-– Streams: 4
-– Price: ₹649
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: iramzeeshan111
-– User GUID: 3JAKPXYMKJECXKU2RBHGPLVSE4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : iramzeeshan111
+#EMAIL          : iramzeeshan111@gmail.com
+#PHONE          : +917017530493
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2024
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:34
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1799664024	nfvdid	BQFmAAEBENmWMoPn7LXumiJwUGqXJQVgBOZ8_xPPs8TiWSSMgQKUJJPo7CnlPeklFV6YKPqv6WqPOd_WFuyR2C_rxvpu5UHWnFq-oIE31e_4V0tttl9KZU6Gunu4Cy2z_EurAKqrthuQwnpmjLWD23fXOm-gaJTR
 .netflix.com	TRUE	/	TRUE	1799927017	NetflixId	ct%3DBgjHlOvcAxKmAx11dgxgeae3zrL4l7k_Yds89xtJ4G-mhZdfNC3huXNOuevbJMd_oKcZJEKTYO2XcrqvjWq-nVXkdRL3hZ_1ywIgp8EN0bJuFjXqCdInUMEtpU3Ueou1vaYzucQ5qNPmtJsaVfsVoFCSOQNTFsam17JhceRTGw_mfB7v9m2vtmFhj-TwDdpjVrw9UdfeCxJCRttnhmX37HrIMtCjm0eS7OCgtK2YNwfhi86y5oQGChPJ4sljAj-D8vJJs3hwg73K4Bqt8dZ5UMsBMi7F9HIDCGmYo5_lGv2O808Q2c5AERnxHFJgEaSNGYfXB_QTcY0ujZDVWEnyt-Pp3RJdWMU4Db_k4EfYCODdVvTsGPbx0q-VcdwBX0cyH7QOEP50KXFY3vGZfrLqUTIOWNlY83m3w07sHerdb6w12IeotSes4eMO5cBBmQSIKSJcM-NlPkmmwGdKVpqZQCYyk5xUnJ9R6hPd-A50fg8tXktNJTrrk8QqPF7-tTAIFsl6fXZx08SzvydAyndMembnOlOjW-byXcJd26wMUV_sfNUM2isRBDnhZRlXfdpnGAYiDgoMGzFWax5zwNmYHikH%26ch%3DAQEAEAABABT6THdoCj37-kYldnN2oBxvJdEzLx0K-aI.%26v%3D3%26pg%3D3JAKPXYMKJECXKU2RBHGPLVSE4

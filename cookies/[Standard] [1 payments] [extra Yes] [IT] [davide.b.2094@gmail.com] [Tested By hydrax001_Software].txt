@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Alessia
+#EMAIL          : davide.b.2094@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto 2019
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-22
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:26:56
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1794000999901	nfvdid	BQFmAAEBEA6bf04VnZF2V2EuEjnbrWxg8WPkolinO11LJ4pCrUD-EeezVyxZI3aGeuCCYiCjDL-mLDn3ivqquol3WHA5LySEFXIrcji0tDK5L8D9wVqyvB1qyHreSHptPzV-mWnV7fUVakEwYZKskVL8dj2rC37Q
+.netflix.com	TRUE	/	FALSE	1794001006000	OptanonAlertBoxClosed	2025-11-06T21:36:46.564Z
+.netflix.com	TRUE	/	FALSE	1808344494845	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxbi-TbPr-xvIOvAQtzZtveWkv0t8Szgw.%26dt%3D1776808495466
+.netflix.com	TRUE	/	FALSE	1808344494854	NetflixId	ct%3DBgjHlOvcAxKBBL5l3WNJY3x3YhTkbdBZ1ewD2Qlpzl6pK4bi2AbZJpkTSuXKiLcgrAl5W7Kms8NkzSneVMvlW1qkPkGWt68_mntg5gRxY9d5I85MS6DSw0gmEuBcrwYjG8saWGPPebzNq4ircnYadEQ3MYXNzsGgXkYP9LjENotKsZk22EmFppkrcmG89JGXEWAmBU2CxSoRxOZ6tQ2SMLgrG5BCkH1TzSCIJ3ouiBrJKcrED8nIighltltR0vvhuWUetSQ0dxY94CzigOUfiC_VjhEcWYXItsXVoCL9b2qrYNpOqexslDHo87l31hetHiaavTURqODZdb30LkVqszbi8m7S-yhDX5tRY_y732wOSLMUGXPtOCSJLWCQN9rMTDT62RlzjE5U3XhiFp7QqApPH4wZAEz2VZ0gm92TQ260TamsmDxZRdv6lUoI_IAZTDvF_cgg6DenKc2sALrM3nfrHqFbPPuyWhn9AMTBmNimvh5507F7ImSRMzHY-a2JFzg4I_qobHpKrssmEIT-PyJ12MGr8Rh1BZ0WykKuj2jvUoaxETc4tsw4RmVC1DFqXVk-OpH3YFw1UBJZPVqjnPWlQV4ibiKotzDz4B58bXaibKE-LokNE-iyiC7uZkkVjqJ7IdpapIG0lcccmjw4u4B0_CRp2yTya8A6wTzNA6qCEF6xCxfuaVsgBxgGIg4KDFNr-xs20n3lJfzXUQ..%26ch%3DAQEAEAABABSKJEbp7Rz3LRasgOHFwxsGcPRuqFofpOs.%26v%3D3%26pg%3DT36JQYNWORCQTJ77YY5X2HAMRQ
+.netflix.com	TRUE	/	FALSE	1808344495000	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+21+2026+23%3A54%3A55+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=292973c2-3489-4559-8bc8-3918c0d76585&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=IT%3B25&prevHadToken=0

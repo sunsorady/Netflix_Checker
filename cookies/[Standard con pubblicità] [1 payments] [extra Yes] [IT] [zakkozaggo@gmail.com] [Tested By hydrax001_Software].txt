@@ -1,30 +1,32 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Youssef
-– Email: zakkozaggo@gmail.com
-– Country: IT
-– Plan: Standard con pubblicità
-– Member Since: ottobre 2024
-– Next Billing: N/A
-– Payment: TELECOMITALIA_V2_BILLED
-– Card: 4259
-– Phone: +393515148157
-– Quality: HD
-– Streams: 2
-– Price: N/A
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Zakaria
-– User GUID: ARU7ITQNGRBUBNGFXVLVF2KVAQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Youssef
+#EMAIL          : zakkozaggo@gmail.com
+#PHONE          : +393515148157
+#EMAIL VERIFIED : Yes
+#CREATED        : ottobre 2024
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard con pubblicità [HD] [Streams: 2]
+#PAYMENT METHOD : TELECOMITALIA_V2_BILLED (4259)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:31:08
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1796909524	OptanonAlertBoxClosed	2025-12-10T13:32:04.689Z
 .netflix.com	TRUE	/	FALSE	1796909798	nfvdid	BQFmAAEBED_OsrRNqQ1ZU8BzEgwOxXhg7Mk5sBNZ7qZT9CVSL-mq9HqJWn5uHmCFYj2qas6p_QEueWccRYFOSG2phJaTnesX0GxdB1Uvpg0W0l0Atv3HCeLJnVs_PWjx5mGndEw5FqHwTG992wnbpwAORztMvkG_
 .netflix.com	TRUE	/	TRUE	1811957726	NetflixId	ct%3DBgjHlOvcAxKHBAbwIqloL1-pEcOBvFd9YTPUv2szlsJw5zbulTOjxMVHebwcT1thyKoafUAhYmaLNuwMaajhny6dRX5QIdRY1a5CF8LiOqCvu_cizXbZ32P1LarF9aKeUv2eBCoDPo6DCxvTnjA3JHulMNkgecriWblM-HE7LhJeM-Mh2fii0-BbFMCs9-EM2_3-cyy_QRkVfeQ-cIbXKPrpBTXmfwHAcosRs-H83VY5e5jRv8Ql2q_FI2dE3NHltx8YGbFJYgCcN_KJfK3PQwpzvabmdXksBC4fgszrkdoYfIvQTtqonCzA-yCqQZI8Z2UWpcZvh_bz1_-LQ9zWuXcWAeLUbOCBbiKzahgFqBXFc6ZS3-UW4PpD7zaSteXiHCw6Lt7eTwAwNUd1-E3K2Ztnatl6uyCa-SSg5cJsRZ8SL28RJYqGba_4hE446dBn-Lh2bZOhlK0bLHiQOYMrcdzRp5S6-rByhoTLz4j0ihhz1DTwN9_0Eetq8I_I-yS-_gBxAPJI5ojQQuNVkCExVEmmmcq3CrKR5eXvuFLTRdbo8zo3tVppHhrBlG2j5DcyPQBoVxsr5zAUySF2WkkW38lKGL3nxyXL-gtfB-nOUBulUuEnpJ80xhH5iVv8acNGO21i4XRKbd6LeVR1NdNwfjiqpTkTrUo8oUY8fbgyLRFfpbfVCA0fM8Qih3qpKk9athgGIg4KDJArCRacMlKC0UbbVg..%26ch%3DAQEAEAABABQsTOzBCae0W0Bo2WXEbu3gSOMyNajWXGc.%26v%3D3%26pg%3DARU7ITQNGRBUBNGFXVLVF2KVAQ
+www.netflix.com	FALSE	/	FALSE	1780508127	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
 .netflix.com	TRUE	/	FALSE	1811957727	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+19%3A35%3A27+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16fdefd8-6bb8-4369-80ec-53cb5ad3b544&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B21&prevHadToken=0&isDntEnabled=0
 .netflix.com	TRUE	/	TRUE	1811957726	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS2RAc71_-U8Y4NK_ZMhfvbc34_vcyWVfk.%26dt%3D1780421726190
+.netflix.com	TRUE	/	TRUE	1780508126	gsid	fdc47050-94af-4b55-8770-c74209eb1c4a
+.netflix.com	TRUE	/	FALSE	1788197727	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788197727	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788197727	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

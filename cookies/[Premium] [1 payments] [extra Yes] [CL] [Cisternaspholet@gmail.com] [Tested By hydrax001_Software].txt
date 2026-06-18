@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Kukario
+#EMAIL          : Cisternaspholet@gmail.com
+#PHONE          : +56953888353
+#EMAIL VERIFIED : Yes
+#CREATED        : diciembre de 2023
+#COUNTRY        : Chile 🇨🇱
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (1902)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-16
+#DAYS LEFT      : 28 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:21:39
+#==================================================
+
+.netflix.com	TRUE	/	TRUE	1812507838	NetflixId	ct%3DBgjHlOvcAxKRAwGMUnAzSbFp3_-kqHZy0cmDy-q7UiMLIOw_Y90e0XIN_yMh_LBfoen5jkUoUZG04swWIEsVxp2jIiELvUVvKhk8SMy9gS6IrwSBCXnk4VsqMZLwpcsEWqIsYlA7BvUdiDtr6JQTd_JAC3a2JpIKT6ctOjc5v1U_I3aE2RQEo1LYskxDZjwvfrnnLgeNmGngh-HEJNBq_4qdFSgQkVSL4DXuFviSk762cO9VwzlJdONYi4frZQJnlj160C8OuNm7yISRF8e6tkS9S5GDUSLAFFYIwdDPb6H6BTiRYL0YtRShjzKZYnOfJaILIkia00g9npUB84HBaK2gKeYmpSgK5nnT_a0DzDX5QlLkllXXKA952WwnS3MRYfJWOMSqQUrq9H8BUBGfwZtmT13rcfRJnSox7aoFn1MI9Kus8wfav7is93ce-gMwiJylFrw52Q18z1KqGQY9zPhTngkpeAIY_5MiFxAaG7Khix79c2FaRjAawtuInssNui5MuPR7qMNgWiNtv6IvYlL92bArA1ABkpR8GAYiDgoMOEuOf0_nTu7qWgvX%26ch%3DAQEAEAABABQaj4MSfRPQ8vqEpR3CDFuC0WpbykSAkk0.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1812507838	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpEd6pTknJqzWuOxju-RpY0-qNlPdxyTQ.%26dt%3D1729914467819
+.netflix.com	TRUE	/	FALSE	1812507838	nfvdid	BQFmAAEBEKU-Z_1axCVDJs9UCviAGmRgfINx1suwt6KF8MvhhgEUC8JKZj0RcWPhqGcee91Gp5_Kj4949bSzXfn9Bk3C_BFGvJ0v-1ZlzNCWh-RWplxYAfnvxV8YbhMHJ4epEmOZXxCFDa_3iFdFWCnsOMaY5t61
+.netflix.com	TRUE	/	FALSE	1812507838	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+26+2024+02%3A03%3A19+GMT-0300+(hora+de+verano+de+Chile)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68b19792-06af-4131-aeab-b4389a7b0462&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

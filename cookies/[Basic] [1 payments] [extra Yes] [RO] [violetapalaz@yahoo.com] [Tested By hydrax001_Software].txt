@@ -1,29 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Mihai
-– Email: violetapalaz@yahoo.com
-– Country: RO
-– Plan: Basic
-– Member Since: January 2026
-– Next Billing: 2026-07-13
-– Payment: CC
-– Card: 5052
-– Phone: +40752120111
-– Quality: HD720p
-– Streams: 1
-– Price: EUR 5.99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Mihai
-– User GUID: M5RAKZGJMNDSZO6LH375CPMAPA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mihai
+#EMAIL          : violetapalaz@yahoo.com
+#PHONE          : +40752120111
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2026
+#COUNTRY        : Romania 🇷🇴
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (5052)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-13
+#DAYS LEFT      : 25 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:27
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1801255351	OptanonAlertBoxClosed	2026-01-29T20:42:31.766Z
 .netflix.com	TRUE	/	FALSE	1801255366	nfvdid	BQFmAAEBED_6U1zWv76wD_dVPVGs1dpgnvIYV_btnfw_Tgjgnzkyywd9fIpYF9DjHrosX4Hjro54OzpUCTG2eVZIdNfL544o7T9Vf632SEkS-0VgEuScKqlGXen-YnQI4MNXIZgsod_5PNJ2kjhX7_bbR-TQXTXQ
 .netflix.com	TRUE	/	TRUE	1810662401	NetflixId	ct%3DBgjHlOvcAxL_A-0_fEkSCZ1jVgAes7P6t4VFPZGKgS7BxPg1Y3LmOcqXGvQLwPQC9ZElnWHBtcSoFGCJH0iYyfQ8eClgFCKYP8sBXY6u2YEeV0veg8E-yImMY6h3Oig3OQ0e3lrYfiF0S9oYoousJ22IqibcEUtmdYhcA51EHGtIMDQzkz5WpOLMB9pbR3sCtwLggeViif4CkyzGhRZAk8OvOySxGjwhFNOl83WZkCRWQzY9VNogj7dTuAoGpAdwsWhOBAlj-t4NhuhPfzbMJ6PUVVPUoaMqytkW-bxBZ8II14AR-y1nLMBix4bCLCX6wGqAtLwzPRlCjvhyVoMX7CCH0N2MS07jpQrk00l_jMTgN6aSsUqZTT0dSjY5Mc0WxSDBU1x04uWzolGIdJ1Xl_4UdjL0r9RNN_Gs-u1i7bEvcXUtbd8lwBlvCOftJ05EGNDV0kFFdVHMOAHW4tgU11P3Ge5FyCXGZB9gewyc-MCy3i6wDWPOah4St32-UfmcpwzAaJGlD9bXGrIWQioVz48by-985fDfhk35pH9gASWOJegT1Tc-bHXnyKJ9PHAOGWqbIrreVBQGGjGBOU_mMdPvbKjbX9_BcbUmgDDqeMd3IUegnSvalZ6n-ZvfOFeDCpGyZPFEApiiXx3jxnjjNeJbBz18vqx43nUxUUesTvf0-ZXeu72TabgYBiIOCgyQkrEoZiFQTewdyKQ.%26ch%3DAQEAEAABABSWYlq4iRaqRy3sSdE4Kk2fiAHala0R9jg.%26v%3D3%26pg%3DM5RAKZGJMNDSZO6LH375CPMAPA
 .netflix.com	TRUE	/	FALSE	1810662401	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+20%3A46%3A41+GMT%2B0300+(Eastern+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9d621754-958a-45c4-8472-fa699932d8cb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1769719352229&geolocation=RO%3BGR&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810662401	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1GuiN3vOhXT4SsEdtGnjEUdFCBcd480k.%26dt%3D1779126414466
+.netflix.com	TRUE	/	TRUE	1783982024	gsid	a6aa1075-fc95-4cab-b07a-f61b6e84611f
+.netflix.com	TRUE	/	FALSE	1786902401	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786902401	netflix-sans-normal-3-loaded	true

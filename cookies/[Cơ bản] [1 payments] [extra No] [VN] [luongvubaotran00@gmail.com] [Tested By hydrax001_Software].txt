@@ -1,28 +1,24 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: LUONG VU NHU THUY
-– Email: luongvubaotran00@gmail.com
-– Country: VN
-– Plan: Cơ bản
-– Member Since: tháng 9 năm 2023
-– Next Billing: 2026-07-14
-– Payment: CC
-– Card: 9496
-– Phone: +84845291919
-– Quality: HD720p
-– Streams: 1
-– Price: 114.000 ₫
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: LUONG VU NHU THUY
-– User GUID: 2AZJ6VPP3JEPVHMG5LOVUTHHDU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : LUONG VU NHU THUY
+#EMAIL          : luongvubaotran00@gmail.com
+#PHONE          : +84845291919
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 9 năm 2023
+#COUNTRY        : Vietnam 🇻🇳
+#PLAN           : Cơ bản [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (9496)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-14
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:27
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1783982025	nfvdid	BQFmAAEBEGxCJKXV-w4C84o6Ub2I5gdgyGozEUxHgeUyvJetQUjxT8KSLzkiQPa0FddxxCYGHfs8wmccgtz7ascmJ2BRPSy0auYluVGGsJSUtOsDYV1NCQByIdsfYWGNDuUmyRhmnJ9MHKcI8bx8fNdXFkP2Wf96
 .netflix.com	TRUE	/	FALSE	1783982025	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+20+2024+18%3A36%3A57+GMT%2B0700+(GMT%2B07%3A00)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f7222a3-db26-4464-8e90-cd125a49dee8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isAnonUser=1

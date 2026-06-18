@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Sarah
+#EMAIL          : esanmartinnunes@gmail.com
+#PHONE          : +34698272601
+#EMAIL VERIFIED : Yes
+#CREATED        : abril de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : VODAFONE_SPAIN_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:06:01
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1800913323	OptanonAlertBoxClosed	2026-01-25T21:42:03.464Z
+.netflix.com	TRUE	/	TRUE	1803937422	dsca	true
+.netflix.com	TRUE	/	FALSE	1800913421	nfvdid	BQFmAAEBEO6GVSe1Ia0foqfwkZpvI09gz8AfUJut9FMZxApQsbRTCM0enkCO0bLUaoiujCXGzmedqNsjvbWTgtohAmPAVh0tYLvsBMYTcWLa608KqeSHBvstjonNnA5RrcE65OXS2tilchDuFnDZ1YqHGMLDF2ZH
+.netflix.com	TRUE	/	FALSE	1802281442	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+18%3A44%3A02+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5445257f-3852-485a-a62f-0d42222148bf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769377323976&AwaitingReconsent=false&intType=1&geolocation=ES%3BVC
+.netflix.com	TRUE	/	FALSE	1778521439	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1778521439	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1802969278	NetflixId	ct%3DBgjHlOvcAxKwA_8_fb9akc_-0VdWL7qtPwAEFReAxXs_bTvwq7uAEBnvkLjr73329cslsM1EOJ8tojCRHkjIIcbcvZSZnwpLgKYMf0vWY9nK4HRKc9mm3QIxfhDL8TCytRBWyfCXEBlteoAs2Jt9vxO2D-1TMqkIC9KxUIbkaB1yVtPsFVnbeUo7C5wZy2yFJuQ4CZE00krcRJwEJQD_M_d5Y8wm8gkQ9ePYYVPCf0dX_ygMSMro-tCGu-grTtaj2ApCyP2UTya7umMOP81zdRYZs0q9uKrJUv8qNin-ReLKB0fSorPkh8bF8sfoKyws_TuMgd2MgwisBiE9YyHCzKze9hbC5IcnEfr17gFCHWU7pbMU1n9DjSvcu-HKkDI36KuZphDgsgg8o9lDBCVfqaY1g7SEXT1_17VVXr63k6hXrc_Ic6H13pirawTf6BAqjdSLMPtO4MMxTS81wyvPx6I6qB80S_w7t8vCX3-p5kSupBTOlfpWY17ZgId95aTQH94UdGAHD6EEiTtXtS4k08zLzlZocFEGgpYjcQlDouZUHbNyEmL7XjWGRxtqfsvUCiakSgXldkV0-xgGIg4KDJKaOVF2PikCXBJDTA..%26ch%3DAQEAEAABABTFZKnGo638GNYyZnoW8Y1xHOCnIooXFtw.%26v%3D3%26pg%3DZPO4VLG65ZH5DODIO7MN5U4ZRA
+.netflix.com	TRUE	/	TRUE	1802969278	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThex4GX0HDFw_hajH9biexl5Fxr8-owCk.%26dt%3D1771433278536

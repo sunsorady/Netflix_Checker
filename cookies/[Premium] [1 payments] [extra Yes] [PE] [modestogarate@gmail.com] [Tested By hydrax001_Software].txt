@@ -1,30 +1,31 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: josymir
-– Email: modestogarate@gmail.com
-– Country: PE
-– Plan: Premium
-– Member Since: mayo de 2026
-– Next Billing: 2026-06-21
-– Payment: CC
-– Card: 4261
-– Phone: +51933133148
-– Quality: UHD
-– Streams: 4
-– Price: S/ 52.90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Kevin
-– User GUID: 6FGX7H663FCNLBZXIHTZEEPLPY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : josymir
+#EMAIL          : modestogarate@gmail.com
+#PHONE          : +51933133148
+#EMAIL VERIFIED : Yes
+#CREATED        : mayo de 2026
+#COUNTRY        : Peru 🇵🇪
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (4261)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-21
+#DAYS LEFT      : 3 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:39
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1811812837	flwssn	f0b05e47-936c-4d27-ad78-57af8ffa05d9
+.netflix.com	TRUE	/	TRUE	1811812837	gsid	416b7fd5-4bd8-4ca3-a6ce-85896979daa3
 .netflix.com	TRUE	/	TRUE	1811391239	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKQA81wuCqJhd5zufVFHDVUSjO6k2eHG9eeDIhYV8Vp3kFYrf2nNlchonAC6m0MAm1dRk-VFuvOWUGDui54howrn_uW4A2ZQSg-CfMYWhKiXb6qnCtOzA2RvnmCDTmpzVtQZJPXgA-5cN1UbNw_hUi7atamheqxKFCrBjCG3fEhPisJfqrlLar0XEbEjdROXDRAmAonmt8gXjaDM3sNluYewB7dYopmHha7qqMZlTpSakwlP0vi5A-B54rn3kPKqBJidM1i8VfR-2BNSuPTpXK7AKWUVOFU5NnS_VyuhxxY8LCrZnFWrJyoPC0A-I0EVI2_PgYm7q8nMnpv3rxVbtEOyyxo7b6AHTpDl9ty3wDiXsBtyUgMYShk_8meEh6hTVNRj3lseOY31A8h_5wJj7otB_OOgvlbiQCFuKvsO4V2epuOqPqAVWiuCQrlO6stEyZkrYzpzyjpL78A0TxYIGBI5p_rtJdTwXDsFuI9LUpDkp318uZ4wABiSS2pzUqnN_N8UQqnSWVhlCOpvzNU4ZYAHeoYBiIOCgwQsSPbXYrdta-XucQ.%26pg%3D6FGX7H663FCNLBZXIHTZEEPLPY%26ch%3DAQEAEAABABSJCOFNhPGOw0w6pC82y8ZRpMZ6ub8WpdI.
 .netflix.com	TRUE	/	FALSE	1811391241	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+23%3A14%3A01+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=b2f595ff-edd8-4cf5-9403-dae8bfcb5de5&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1778034396516&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1811391239	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSjcdIsiMMQ9dO6_vx2ewSlVTTVcl1rNNo.%26dt%3D1779855238351
+.netflix.com	TRUE	/	FALSE	1787631241	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787631241	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1811391220	nfvdid	BQFmAAEBELZOGyMZY62t1EykmP0omoJgIim4xOV7OZ0xKoE-USXB_r7wW_GjSru-TtHZ4fsyXwGIHST70TLcjePWjZKIKpnhhLE49N-4gIT_nPuY5VYHlLfh1IVnQJVQKMPubJNphttpdBwuNPUkWYwWy2v_uAGe
+.netflix.com	TRUE	/	FALSE	1811812837	profilesNewSession	0

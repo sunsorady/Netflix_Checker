@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : uhhj
+#EMAIL          : hattu7131@gmail.com
+#PHONE          : +84975766456
+#EMAIL VERIFIED : Yes
+#CREATED        : junio de 2025
+#COUNTRY        : Vietnam 🇻🇳
+#PLAN           : Básico [HD720p] [Streams: 1]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-09
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:27
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1812728157	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+11+2026+22%3A35%3A57+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6e5d5dc9-55ee-4f2b-870a-2f6eb444abc8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781192144930&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1784031204	flwssn	a82f2cee-c0cf-405a-9a79-1f3e71ce6f9b
+.netflix.com	TRUE	/	TRUE	1784031204	gsid	bc53c345-147d-4bea-bcd7-1daed0cad587
+.netflix.com	TRUE	/	FALSE	1788968156	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788968156	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1812728151	nfvdid	BQFmAAEBEMPhATZAaMGWxg1OHd0VGOVgx6wmY9Sm0ZY0Nxgf9iFDH3gdL2fHGS8aH_kl8o8531Dfj_pfHfiGfjkRrSkv2L6YBPuOkjGTPg61f1RYityeCPRZYj5SUv03Gwm9PKE6KL4wxprIfydXxp6EkKkjMdLZ
+.netflix.com	TRUE	/	TRUE	1812728165	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTAwIKQ8_S1e9wAijH2zUyYhiLmqR2KMxUvM6w6SEUijLchQzsk3XlOnJ1vgoL_h5nfzJz-WtJhsbn0An890F_QZWYDXPV0tq6ytQuC1XXpFk-i6mNiSml-22O9cVjkUyiOrCwaXSEJ9zDtvbqTyC8LVBPoUIYo13_QgF22kfj6jlwLIsXbaLJsqZuz3UMmB9167ykBFk5SpcZTisCds0EDlfnM5gZteCGq4_LC2rPfyh_huM7RP9YQJIaH8qMWfqOkqi1IWPO99JMk63iABPzhNMkbjw6HUFO1rAqIBv_KrEhg-4S-QCMTldCqvsGedDo8heQfMyjEgFIA9_alLaoGp5fTEsRFhQfpmttq11BsFX1d_TCT7mhZWxlgBe-74O4LZq55aIrJJTogt7J29O5fUYY6_p4-1RjMziDVJ98eBLf7I9SsDmX6Ecieef_jhEgv4Vm2P9S3dyNJ4VwRT5yvv65SCpSF6aYPlfhcNojMuMaTDVh-T-KCebRSSzkKitZuCVZzAvbcNoezTRUTk7qRVkcAOcYBiIOCgz4XJHbZUylI9-RoY8.%26pg%3DL3VIRAHIRNG7LBN65HLBM5ACKE%26ch%3DAQEAEAABABStc_TivootENxhcj1pcKSZoYAv-5MWrmU.
+.netflix.com	TRUE	/	TRUE	1812728165	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSWI9sfsv-p-z_SyJMPz8X_fD5rFqobtPI.%26dt%3D1781192164696
+.netflix.com	TRUE	/	FALSE	1788968168	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1784031204	profilesNewSession	0

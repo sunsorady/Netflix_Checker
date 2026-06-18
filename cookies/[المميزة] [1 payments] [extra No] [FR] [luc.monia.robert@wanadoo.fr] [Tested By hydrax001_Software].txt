@@ -1,30 +1,32 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Gab
-– Email: luc.monia.robert@wanadoo.fr
-– Country: FR
-– Plan: المميزة
-– Member Since: أغسطس 2015
-– Next Billing: N/A
-– Payment: ORANGE_V2_BILLED
-– Card: 2275
-– Phone: +33680259813
-– Quality: UHD
-– Streams: 4
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Mounia
-– User GUID: XX5CGL7JTFCNTCJZMSSSXNKJ5M
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Gab
+#EMAIL          : luc.monia.robert@wanadoo.fr
+#PHONE          : +33680259813
+#EMAIL VERIFIED : Yes
+#CREATED        : أغسطس 2015
+#COUNTRY        : France 🇫🇷
+#PLAN           : المميزة [UHD] [Streams: 4]
+#PAYMENT METHOD : ORANGE_V2_BILLED (2275)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:07:04
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1791919960	OptanonAlertBoxClosed	2025-10-13T19:32:40.272Z
 .netflix.com	TRUE	/	FALSE	1791919976	nfvdid	BQFmAAEBEAnXLQsQH9wukU-fQbDZla9gbk1CNEuCNduq5LmyOCNXTTD6LHPPMKWsb8a-0GuNbEDVFL0pBEQFVNrjltnaVtL5LVzvNjueO8F7YCZIAxvZrNZxLKLNPWEn4gJtCjTw9yhC26NkhIKUIeqW-MdRQUKE
+www.netflix.com	FALSE	/	FALSE	1780433884	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1814907486	dsca	customer
+.netflix.com	TRUE	/	TRUE	1780433881	gsid	0e8e4ea7-6c3e-4f57-b30b-ff6d338f2816
 .netflix.com	TRUE	/	TRUE	1811927404	NetflixId	ct%3DBgjHlOvcAxKDBKPtn5NSZF5O6WiQaRrniKZNfvBHe-fr86SgW6zUWxwy0Qm0hG4s0DwR1jaZXyeJDVMkEH71XqUCbyNl9CMA7yIca92iu5URxnA-WBv2uyUFAEo8DW9b-JC_3RfAJY0EnOUzuPBNY4-qIrpXFInSP1jAQZjfmtoGg-LxhdAfw_KCNRIUsKTfCV4WEB0cWB7Eb8jrxtsgxGBNmlYEcaBRmeOqFdXns02wcFsCONDkZNkOn03vMiUx91P9nRWTxz-Iqt3GKp3OYY3V7yHp6A_BrR5EdMLpMueNcn4cFkKmcMV4h8h5_1_Yk4wurG1dZBCCCthxXNcYCN-YJDFyRRZXJh9BBHeBxv6J4pMy38ArAvDQujTV03cE6vMufFsyez0solBQYmrtgHRNCHrWYqeVBLqWhoMTYHPm5Ia7XCi-cxhJQ5_OID2KUejrlHOqTUtDr0eIaAUo375BUg3eNCYeujWNH2hA4rzXdOHtLJsUpYDM5m4Z0z-ZQkUnMQV1E72_FqrjvKZal5lSvzifq4GGKJBRJ8y-A-e5cIjkrmmh9SjMh7QsZspWUdCirik9-2hJs9ZawHWID70-1r1wuiHWCSasHF3av4shRUSU7ofOQMenqcL13RazuoDdcP964xr2t4XiKDrOV0dPB8HSfaGJ-HuDpxudtB1JjiLlGuHLt26UYj8jGAYiDgoM7XJwry1tDURpqU_H%26ch%3DAQEAEAABABStYcn6DpidRbfiFJ6vG4LAWf9mPz6-aDs.%26v%3D3%26pg%3DXX5CGL7JTFCNTCJZMSSSXNKJ5M
 .netflix.com	TRUE	/	TRUE	1811927404	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpFwBJABdrs5Grg53-9cuPGQSvw5PmF1o.%26dt%3D1780391404200
 .netflix.com	TRUE	/	FALSE	1811946691	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+16%3A31%3A31+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=063b3573-7b74-4840-ae9f-44c68a7cb26a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788186689	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788186689	netflix-sans-normal-3-loaded	true

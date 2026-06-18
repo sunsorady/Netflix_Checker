@@ -1,30 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: 원피스
-– Email: 5510922@hanmail.net
-– Country: KR
-– Plan: 프리미엄
-– Member Since: 2020년 3월
-– Next Billing: 2026-06-29
-– Payment: CC
-– Card: 0258
-– Phone: +821049436610
-– Quality: UHD
-– Streams: 4
-– Price: 17,000원
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: 곽동진
-– User GUID: NGWSFRADQRHNDODJD7VRSDEBBQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : 원피스
+#EMAIL          : 5510922@hanmail.net
+#PHONE          : +821049436610
+#EMAIL VERIFIED : Yes
+#CREATED        : 2020년 3월
+#COUNTRY        : South Korea 🇰🇷
+#PLAN           : 프리미엄 [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (0258)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-29
+#DAYS LEFT      : 11 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:36
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1803209259	nfvdid	BQFmAAEBEBOTH6xianMZ2xvy5oDQ9dRgBr1hybV56o42KL96uc0KeyUBugfVzb4SYAuZu9uavBgPCmmQMUxdcQqYjP76EuM53R10aVSOXGA3HhmHt4ql6jCfJg1mhSPOKFa_scnHbdecX_4ApnfO_dxJ_JucpZi4
+.netflix.com	TRUE	/	TRUE	1783982024	gsid	9d36aee3-9d23-4c5f-9f6d-4bcb0bb91625
 .netflix.com	TRUE	/	TRUE	1812255033	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRsGl-o5yMuwJoPtTgcGbRuVP_mlkTr91c.%26dt%3D1780719029762
 .netflix.com	TRUE	/	FALSE	1812267384	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+16%3A36%3A24+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33091039-c78c-47d2-9ed0-b8d92660176f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771673260000&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788507384	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788507384	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788507384	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
 .netflix.com	TRUE	/	TRUE	1812255033	NetflixId	ct%3DBgjHlOvcAxKHBAEwuOEaH4lY_GDcDVGg6ev__fN2vEJ4rikJ6c_Ggdw9QnFDWHQz14UmWkp5kkLXtZzS0tkgnmyXI4POU9lxfleWzNmWp2NQzKXCRYwVHReezwfCTAqOE9s1yLOqVeSaIaiz6VAY8af10PwPf02C3-KezEPePqenGyZ_F0Jdwa37JYyJ3fAGkNnd8eCdpbCbFcEpHW6CMylx_8OAqO2vgfrRV_rId5nKTs7P6gIrkIIVZfZlqg067V278XrMxJIVZJDZYi1TMJK10iy6jEx1IQ5iOFjM53oCSNIwxaDQSOjxjpSBA9kbyzUVJQ7zrh-EW-ZI_z-T4RRVbCJ1TEziyW9-_N--Ty4YWvo4676LODEFGVBJP7627ZgvVfWJexhPbyENdAHbpdDYPq3kpRy8Sq2wPDAlaCSZyDrrQeFIODyONm2CezwtksVXCuj-X8AzOjFmT6MK8LLokLlyj5m2HM1A9ZbwyO180OY9CZAOL8m5YKBjqEOLezgS4KRcYDqPWws42e6KUGr7YvnzGgYJn1ULG91U6LFM80n8zqrMzcDuj2jEir0iVoyfw3Y62p1PZPxgsw3c7M2ZDis9Z0KV0oUzU91BiwK6siJW-7Yl7Rxov8p1a9xtlC58O0uYusFvRy7W8R0rCChM79Rffj56DSYWvH_x9t73jNMkUUiDpBaDXDoJzfXj1RgGIg4KDODga6AigT4W-45tQw..%26ch%3DAQEAEAABABTeGnEoBL42vsHnMeGfrMWRyxN1LjfxhsY.%26v%3D3%26pg%3DNGWSFRADQRHNDODJD7VRSDEBBQ

@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Yuji
+#EMAIL          : betosaturnino@hotmail.com
+#PHONE          : +5511968608336
+#EMAIL VERIFIED : Yes
+#CREATED        : tháng 3 năm 2024
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Cao cấp [UHD] [Streams: 4]
+#PAYMENT METHOD : NET_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:30
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1793806656	nfvdid	BQFmAAEBEMjP4CCb-lAy9EicbQXYeDZg1vUZqeZCS5AZv7sx9SzaCccO_aP8KgvJYmHswXkRC8UC5l40EeQvz61clUxx-h92vO9dOpBuKmo70LMHQV34M3ZMoWR1gePlXLn5X5fT1Av13K9Lpcov5hxCaeIwLmPX
+.netflix.com	TRUE	/	FALSE	1794437098	OptanonAlertBoxClosed	2026-05-15T22:44:57.706Z
+.netflix.com	TRUE	/	TRUE	1796417257	NetflixId	ct%3DBgjHlOvcAxKABDm4QrCRlCqL6-gdSWD_c1YvgtIeu7__l4-UXSIX-8FU9hOxOoV0iHDghXXUAd0UvIFsRp4VXM4I7BviIRIa65QaHjZSU3HuxngYgdgV2Dra8fU345U_5dD2xyVbE0q7Htp4Gt4WupKIlXmxjP984PU25IWtrb_c1zYiGTIUsiDDvLqo6IXLQn3kRGrdehgIv1Nnc575GVkZduO6ymRj9A6WE6f4AXA3TFTS1sePYqN6fp-O5MGBJNDvNSynQaHIsViFte60iXuU80GPSO1kubyTSmT2ZOLyvsvB4ZHnnlfB9cNxbqwGHnXtqZg00H2TMCO8lJMO4AV3T64vYWJH87itvKK9VVBrHn5K-GsJiifK2NtjOw1sJmdkRGLj1ebam0sNk63E_GPWr447-p4Kxp3gi0yLbZPQEcyrnflgOsFX3FpxCSvv4mmGrYwj_VDIJWcw2h9oigetDYIAxCtmIAdFwwcMnJguttX3FzCvBgHcxeihhiTrAIcEXwGj6cEPfvfGfUKOec9Y8vO610ViIoVZPdn_b-J9XndbuCr3vrhR0Qo6XMEOKlvGfwIsw025pMvJW94mlOzUd0eFBbZw7_4PZ79cch5hWFzZNJOB_9GGLGuODpKJVoIuT6WaQ1l1BDbdf9QKK6b-wePO_SM67dDxIfgCObF7pXL_4Fatp3XUGAYiDgoMNZqlj5ILOKyG3KKM%26ch%3DAQEAEAABABRmojawau7Kz4L8u8IswXCDuOQmAjYpQBA.%26v%3D3%26pg%3DY4SYKJJVW5GXLKCKIV3XSH2FMA
+.netflix.com	TRUE	/	FALSE	1796417259	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+17%3A47%3A39+GMT-0300+(GMT-03%3A00)&version=202604.2.0&browserGpcFlag=1&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=407eddfc-854c-46d0-a6f0-b53ccb47dced&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1778885098493&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1796417257	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTAXuPZswo5T6JPYV-jmaKR2pHSBakyCs0.%26dt%3D1780868418406
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	119a7ef9-693d-4f36-91b9-ad09744f019e
+.netflix.com	TRUE	/	FALSE	1783982023	flwssn	fe8eb323-cf72-4aaa-889b-36762cff6a5b
+.netflix.com	TRUE	/	FALSE	1788664728	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788664728	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0

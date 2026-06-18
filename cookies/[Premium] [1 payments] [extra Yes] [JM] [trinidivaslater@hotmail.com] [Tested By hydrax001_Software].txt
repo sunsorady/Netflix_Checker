@@ -1,28 +1,24 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Daniel
-– Email: trinidivaslater@hotmail.com
-– Country: JM
-– Plan: Premium
-– Member Since: March 2025
-– Next Billing: 2026-06-28
-– Payment: CC
-– Card: 2024
-– Phone: +14952012
-– Quality: UHD
-– Streams: 4
-– Price: US$9.99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Josanne
-– User GUID: YWEZHSLHUNBMFJTDKPRAGPLDOI
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Daniel
+#EMAIL          : trinidivaslater@hotmail.com
+#PHONE          : +14952012
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2025
+#COUNTRY        : JM
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (2024)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:36
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1798049527	nfvdid	BQFmAAEBEGjNAw54TjFKic_mcQAdZFRgTBy1yCFzDdbs8Yp0Oz7bHZvneAkUdUV_05eeX8QTl3w2e32urjD1Mv_0Y-zhtOCYK8mCY7IMiUfVGi171cvNwiVQlirKjc6aKRVdPbQpJpnj2ZSpxTyxz8YkMCgcSwLI
 .netflix.com	TRUE	/	FALSE	1799012618	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+17%3A43%3A38+GMT-0400+(Atlantic+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9725c97-387c-461c-be0b-f5d462e57c0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

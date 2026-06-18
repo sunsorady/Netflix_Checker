@@ -1,30 +1,28 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Ajay
-– Email: sanjaypatibandla@gmail.com
-– Country: IN
-– Plan: Premium
-– Member Since: December 2024
-– Next Billing: N/A
-– Payment: AIRTEL_BILLED
-– Card: N/A
-– Phone: +919848144038
-– Quality: UHD
-– Streams: 4
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Patibandla Sanjay Kumar
-– User GUID: VTSOAHNCVVAQPBI6ZFQSPT52TE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ajay
+#EMAIL          : sanjaypatibandla@gmail.com
+#PHONE          : +919848144038
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2024
+#COUNTRY        : India 🇮🇳
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : AIRTEL_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:35
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1800179397	nfvdid	BQFmAAEBEB6gqVDCyMbdZnBOO8eLn-Rg8phXJVAW88ghVA8P6KdSqYd-VJ8oExHKqFTl6hYX4ezive10eu1TopuxI85jB0n4Z3miAQIz0NQ2DTBy1l5CavJd4C72XEToRRHi1ghU_7KodXZi29nZjv_RWQkGzt3X
 .netflix.com	TRUE	/	TRUE	1808479717	NetflixId	ct%3DBgjHlOvcAxKwAzaP199onJzbCwqG8oLL0_UtEMNw1HpuqhqPRxmSiLm16NkbLXNfo7lv2tQDfkJyPs9O1zUB9yS_fxspLiwjvNfBeNpSwS9OJT9xTWcGhBoDd46WBuRK-wyCraJ1FcRgTyLMC9klz7aMMH6UrHSKUD2OMdHy-VwU-kbSLtUazw77TLBmgK529fZCPBFS9vlpMQ-gCes1fPICM-KUIPy40yKq6kHiF2nolTjPmTM-hXI4BgmpJvPXMW4OuCuY7SguvshwJgTEm5sE8iJgV83wYaRlcRBqF3yL7Qp95z5gyhwZucQLwJiX5B0Y6q04eGfw5vFb4G5OobljQwAC7YbNpDUOBd7ZzkilWncf3n41Mh2fqoyAubmfPSej8I30FqPnYRcEdAlBByZdL_ZyBzd6HvHmaSGEQwdb04SWRtOsxDCHAiEkRIIavpyvjCzO5nYQaS_ppI8Lt-QKRdZPIQ8rRdoM4hoj3nTWoB-RPY5xNy-o1G58XfeOzQYqGxbi3BnLmNQGsPZ0oslzbXYY1VVZvRtweaiWornT0CJm5wjY0dZgW4nVuni49BZ9KG2wze7A4BgGIg4KDHTvgzUJGb83rWAq-Q..%26ch%3DAQEAEAABABTVVLlTJIzZ-CEV054-jikOoLAf6oQTSt8.%26v%3D3%26pg%3DVTSOAHNCVVAQPBI6ZFQSPT52TE
 .netflix.com	TRUE	/	FALSE	1808479718	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+23+2026+16%3A58%3A38+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fb6892a3-a729-472a-b8a5-a69051ce6684&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
 .netflix.com	TRUE	/	TRUE	1808479717	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT2l7n26yGV-KLOiTmKf8AIsSmR--d5aJQ.%26dt%3D1776943715488
+.netflix.com	TRUE	/	FALSE	1784719719	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784719719	netflix-sans-normal-3-loaded	true

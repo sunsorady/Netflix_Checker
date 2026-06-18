@@ -1,0 +1,34 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Samuel Souza Ferraz
+#EMAIL          : samuelferraz193@gmail.com
+#PHONE          : +5512996307867
+#EMAIL VERIFIED : Yes
+#CREATED        : julho de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : DC (2830)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 22:21:17
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1780266942	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811716544	OptanonAlertBoxClosed	2026-05-30T22:35:44.314Z
+.netflix.com	TRUE	/	FALSE	1811716565	nfvdid	BQFmAAEBEIELtHKKxbH6kDHcWvqQuwpgaQVq9D14WEqprXkGCasAQGdltHK3fJulSffFnPh-lQLXyLHgdEaHqltDcu8_9hthf8CLSAOGbYyLwHWr_-WBjxfhq5JiHONvXY3heuldLb_SnnkmJvnaDKpcNy9a7qbU
+.netflix.com	TRUE	/	TRUE	1780267198	gsid	009d4432-f7c1-4bf5-acc4-4104740cb80d
+.netflix.com	TRUE	/	FALSE	1780202480	flwssn	a4b79c6b-3939-450d-ac66-9adcf7784d41
+.netflix.com	TRUE	/	FALSE	1811727713	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+22%3A41%3A53+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1cf45003-dc40-41db-b71e-55ab9d31bf0e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1780180544911&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811727712	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA1SDTDNIQdUzdzWjKioxQW__KuIme_xFwN_mA797FgFKTO_kuXx4ZFGn0PUtwoNr0TjHIPv67Ax_K7ZduWXihJabOxtW2-s2cH3unIPAnAUDsUvOQGT0OrS_A3FhcTaHqgB84sksTJJn7dVkDWuVFT3m2bVq7jWl2UpbQJOv0gMYT_I4BoX8wb0vAJ7wJBV-lomHTY4Y1njb2ijxA6Ehtll-tagEkAnz68RsfGLQ5i7UPoycqrZNs-xWlcBbCr-Pmrk37U3yctxre387w0fFs4yggVmxxn5bVAsnnNTTmqLGONRQTmSlhGDfzkB5-6FTCeQLsL4viz9Li3ymuWIvS7HCNxTpWCulVT39FazW87gt3iXs3HJPicGwVEElQZBJ5gNR3jOPfIkQm3igOo47e8-0IvHuqSlvNV0R7dluamCi-Q0rUhWSqbZG8_q_cZ6DbiXxAzs1T9X9ZxSL1GjIPkMfLtQayMp2N0UKsuqVed6uMQ3Pi3laIA0Baz0lYz16Qmv8jOcl_dLwQOrL3FYM6EpBrICOI583SWoYBiIOCgwUttrUjgXOrM7lcGo.%26pg%3DL2BRNTVEWVBYNDVTO4NILVDFZQ%26ch%3DAQEAEAABABScSE1NhNsruhoBtMC2gbljALxS3cqNto4.
+.netflix.com	TRUE	/	TRUE	1811727712	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRcnEX2K1TCRTQ10hL8AORy8CAgxzwVOHc.%26dt%3D1780191712942
+.netflix.com	TRUE	/	TRUE	1814751713	nap	BgjduevcAxJJ2aUju7Od7Vwh3uFMoOhofYZ4p_B3StmJxsum_nJZlBX_hdEqLk3xZJR2_1TMgHgJIcHlykvgVc6wHWOoV0N5w0PO-WP-gOYAYRgGIg4KDM4Q4C4L43gGQE7lTw..
+.netflix.com	TRUE	/	FALSE	1787967713	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787967713	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787967713	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

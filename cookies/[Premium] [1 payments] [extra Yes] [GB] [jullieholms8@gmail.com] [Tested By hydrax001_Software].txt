@@ -1,30 +1,32 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: dj
-– Email: jullieholms8@gmail.com
-– Country: GB
-– Plan: Premium
-– Member Since: September 2025
-– Next Billing: N/A
-– Payment: BT_INTPAY_EE_BILLED
-– Card: 8533
-– Phone: +447551589994
-– Quality: UHD
-– Streams: 4
-– Price: N/A
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: jullieholms8
-– User GUID: 7X6QRUYFQ5EM7GEL7S6TIPOKOU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : dj
+#EMAIL          : jullieholms8@gmail.com
+#PHONE          : +447551589994
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2025
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : BT_INTPAY_EE_BILLED (8533)
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:32
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1803310113	OptanonAlertBoxClosed	2026-02-22T15:28:33.354Z
 .netflix.com	TRUE	/	FALSE	1803310378	nfvdid	BQFmAAEBEIxmMZYZ7F-J6KfCrLqr_Jlg2Rj3S_4LlNGvgQgvkV5Ir0BooVbBbAFXERK2p7fR2YPaAZGdCXGgS77iM3RKjbqS7cQm6lHvNd44ieJzmYDaeogAWJFf7FptTLNvIOqf7REDR_y6DElwwqgaNovrQSn6
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0
 .netflix.com	TRUE	/	TRUE	1812446224	NetflixId	ct%3DBgjHlOvcAxKwA4LRSxdBdoqoVnVeC98KpwDpW1Npa7ieBJ8qh_ZceiXk9hPKJstuu08wIhfcoyKXKWNCk70jsGfOkgbccDlptH9p1Ga--8GlNQYbkKCJNA0xMT--G0kWDlc3JadHmDT5SrRVEHUcUmMHzTXP7LQWule5SmOKk9C7qethM1UnYpjxebyHYdrlyXwHqHKFuuXW2AJ-FHZR17qr9xINCs4O3L5-e3JVLhSSHP_AaMJg-Ejcc8bNCvAs7PVyN2LkN2qcy6voITYaGsn_PkBKkfmIoJRHB03ZK5wCRuN-Debi35IvnCt-KCHiCKdkD-3GLPTvoeCiqcrEsi2u1lN6zdPTR--TJH1EI7fPn52gYTq2M5F8hnsJZCWFnoEkDZ0XJz0AF44M9X16sCargSqFeIx1BKN-BB2TJUL4oHPESXoGe-5L2DltkdXFRRoLDH6AoYSpmJ6qqwnUEir0-st_fYKwRKBQ584tpei760aapCu60vuh4HoqwY0zwjSF2zWp6UrOk6WnyPl4seOwmGejpSsKnQqPc2gOgFm188sOAElHr5nWtiSVf2MsWETbeiWi3ja14xgGIg4KDPXz-emMaO9LPzoZfQ..%26ch%3DAQEAEAABABSzIXTh0PMd4Aft57GVaOJJXevZZnrfbu0.%26v%3D3%26pg%3D7X6QRUYFQ5EM7GEL7S6TIPOKOU
 .netflix.com	TRUE	/	FALSE	1812446225	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+10%3A17%3A05+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1db650f-f28c-4600-a788-1c7f56e90d84&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1771774114154&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
 .netflix.com	TRUE	/	TRUE	1812446224	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRikERwkc8TqfeLLJFuDJNyGz6ZRjIh35I.%26dt%3D1780910224426
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	e5dafcde-4bae-4060-928a-1b72fdec53ab
+.netflix.com	TRUE	/	FALSE	1788686225	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788686225	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788686225	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

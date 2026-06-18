@@ -1,29 +1,27 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: ihab
-– Email: ihabas@msn.com
-– Country: NL
-– Plan: Premium
-– Member Since: January 2019
-– Next Billing: 2026-07-16
-– Payment: EU_DIRECT_DEBIT
-– Card: N/A
-– Phone: +31638240109
-– Quality: UHD
-– Streams: 4
-– Price: €20.99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: ihab
-– User GUID: I55GZX6A7VCPHKXGUETCRFJW7U
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : ihab
+#EMAIL          : ihabas@msn.com
+#PHONE          : +31638240109
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2019
+#COUNTRY        : Netherlands 🇳🇱
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : EU_DIRECT_DEBIT
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-16
+#DAYS LEFT      : 28 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:39
+#==================================================
 
+.netflix.com	TRUE	/	TRUE	1795456307	dsca	true
+.netflix.com	TRUE	/title	TRUE	1798041149	dsca	true
 .netflix.com	TRUE	/	FALSE	1801928096	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+16%3A34%3A56+GMT%2B0100+(Midden-Europese+standaardtijd)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1a7af063-a056-403a-8d2f-5530dff35012&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BZH&AwaitingReconsent=false
 .netflix.com	TRUE	/	FALSE	1811095279	nfvdid	BQFmAAEBENN9yC44V9IKl8vvR8SoE7dgZk9gQXOKFDobY1iES2e91EyPdwhptQRmhgdSmywSN6UXW4fug-VDkOWQRObP_usr2LcGQIVduU5FyJKkGOKXQNY20TFEJ4i-5en5Rg2chSbqer-jcuC0f2Red5q1-76K
 .netflix.com	TRUE	/	TRUE	1812010455	NetflixId	ct%3DBgjHlOvcAxL7A9x8l10SqziBqvChPqA9uBEpHRXcqFW0AK4e5mq2VwAlOMawmdmi6OxQxJN6doPHQCx7mJJD0zGq-cBjKf48sanUfrwVnFLDhhkaqo6DG5gt3ClzRCzn0GeGc6p6DUcBskQ6kpwJYRQ66HsbRDy34PlUxSwBEXkpKpGf34V1kE5POrdXML_W6BWd7ludGTEu_R2paWdxmWngzor9Sked24_WixTs2mH-kHlFAOgqRAPxs4TQBMMgkf5Qa0Fdd9WAIhQDXlA0cVUAb6xFxHFBe1nVE8ipW_nN3WG6gRASh3Y-8PwcwqZ-Pzh3SA6Dx59mxadh5YCC2Oh6-PC7EUIM2wZzMrYY6HPvkiz9Ost2XSa--SpGRsd4Sq6iIQEVIGCokLCVTUQJsQgL2HprounFg1f4b_4M4fvQ60Z1_hKnF7hzV81iAdMpuCFnRYooKjhJ5vYdgmvsGr8IZ33zzapfuuNUUyPf7hZTEJgz1WvjsMiyhnCX_KyfSLozNzIY5Xo7etcNcJvC9zyldIBlkLQZyVWWX9fA7w0409POy-ob1aVvUhclX12vUEtdtXy6RvZQkiYq9XqG_U7XRsJX2Lc0wAaXQx8n4iTJVz0CIBxQLmRMDYkmUVLtIpb6poQUmJmqnByiPbEkk3blWOeOD684kF8So0GQUNVijD2zghgGIg4KDEbbJXG39N6CBE16Jw..%26ch%3DAQEAEAABABQpJ15gmQ2A9e7osdPXWqvlVJFeLxDq6P0.%26v%3D3%26pg%3DI55GZX6A7VCPHKXGUETCRFJW7U

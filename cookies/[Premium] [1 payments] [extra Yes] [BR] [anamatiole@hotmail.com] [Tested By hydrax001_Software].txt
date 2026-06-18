@@ -1,30 +1,31 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Paula
-– Email: anamatiole@hotmail.com
-– Country: BR
-– Plan: Premium
-– Member Since: November 2018
-– Next Billing: 2026-07-09
-– Payment: CC
-– Card: 9850
-– Phone: +5516996399693
-– Quality: UHD
-– Streams: 4
-– Price: BRL 59.90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Paula
-– User GUID: GU7RMPLSNFHWBMYGWTQ2Y6JMJM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Paula
+#EMAIL          : anamatiole@hotmail.com
+#PHONE          : +5516996399693
+#EMAIL VERIFIED : Yes
+#CREATED        : November 2018
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9850)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-09
+#DAYS LEFT      : 21 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:29
+#==================================================
 
+.netflix.com	TRUE	/	TRUE	1814529511	dsca	true
+.netflix.com	TRUE	/	FALSE	1783982023	flwssn	9a7166f7-b16a-4ec9-b816-db9b797df7a2
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	42644086-2ba3-4dd2-846f-76033bb56872
 .netflix.com	TRUE	/	FALSE	1811505511	nfvdid	BQFmAAEBEIqb5pc6a75GpiQZS1TWr0FgspNjjDjsCa_kZxy9jIVGQfHLhRTKlMs5sgicu0sT3iyoB0Ak_8Z_7vHDHUcFQVwu0tf4NMAebjM_j1DkU82TooQ3jLdBuIAP7_6D6jeCeLkgfWpaRA_LRp6WP5IWRV7C
 .netflix.com	TRUE	/	FALSE	1811505539	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+18%3A58%3A59+GMT%2B0700+(Western+Indonesia+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=204ef84d-8495-4f22-aadd-07b0a06dbeec&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779969516790
 .netflix.com	TRUE	/	TRUE	1811505536	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFnvToC8U_Kva7-WuLYp9rA3eYMA_Ge0A.%26dt%3D1779969498341
 .netflix.com	TRUE	/	TRUE	1811505536	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA8iPzfFSb447Czu_Bu4_2PGbJdeXQXysWrkxGQeyYZNhdfxSTl74NpzwI6d2xUO0HFJ5W_IlSv99_0RaoWQ2PjhHsigDCDSziw6nrqOBprSETjHDfiQM9dXMKrhWBvyaTw9VuchRgo6usUP191_p2Gd9OlaKBzK4f2sgDrx1TakmBh7Kn6eR7IREf-MCRTNu_5bkA1SQfua_SQ58H0e9Y8cZz5BG_IkAcBsh8sDMq8fl1UCuvA4nRlfAuu9Rp1M2ucsaq42dbiiy1BV4ao1kOB027iWjcsiMCSDVEyRxA2Ho6LLLxm8TAg0uSIMUJBmB2Q9ASSlfANfBcQbrRbvnNy0IoDrJaG-S6MuPjbQKiesmrYxw1L5qr_gc_h9xk_V_l9TSKOtRWGRQNJVKoP7YcUlPav8arRGvGCSd4Z5YV16gON5lmykoARvgkbm6NAA_l6ON136g9BTeJ1aI91RMVcA3gDvwHXkw0flT31ysrAzuuKMzNmxQwaozFFaGlrIa3B3pD3cNDLGndvrrnhTN0XF1EM7CehTGA-YYBiIOCgwyt1lW7gdprPmPym0.%26pg%3DGU7RMPLSNFHWBMYGWTQ2Y6JMJM%26ch%3DAQEAEAABABT3Ttd7tpiKo-coBCFuUbDwoRE4NCJxVeQ.
+.netflix.com	TRUE	/	FALSE	1787745537	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0

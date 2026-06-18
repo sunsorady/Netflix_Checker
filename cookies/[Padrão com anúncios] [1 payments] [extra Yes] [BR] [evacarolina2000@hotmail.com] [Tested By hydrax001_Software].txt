@@ -1,29 +1,29 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Felipe
-– Email: evacarolina2000@hotmail.com
-– Country: BR
-– Plan: Padrão com anúncios
-– Member Since: setembro de 2017
-– Next Billing: 2026-07-14
-– Payment: CC
-– Card: 2143
-– Phone: +5514981335538
-– Quality: HD
-– Streams: 2
-– Price: R$ 20,90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Debora
-– User GUID: ESEL6RMMOVA43DSQLZZR3D6JSU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Felipe
+#EMAIL          : evacarolina2000@hotmail.com
+#PHONE          : +5514981335538
+#EMAIL VERIFIED : Yes
+#CREATED        : setembro de 2017
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Padrão com anúncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (2143)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-14
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:20:56
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1811133277	OptanonAlertBoxClosed	2026-05-24T04:34:37.241Z
 .netflix.com	TRUE	/	TRUE	1811133456	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA6omeJmgdRUOV4kgMvAM3KZ5Kx-zzCKnoSR99XZcxaJ-E2xxqGKJogmpYsvADb78brmQYVm9YedEvU97uRz8dhtdYo_rJRxQFUe1PKOCfNCV2wjorBpBCs0Cz0oIi1QkdPHhP-FXcCkQN6abCGokOX20hT9_dMvv7MP1F7UgiAEmWsVQhCxqmh9H5qtMmNq0R7KHoDBOPM-KAEG-LWNdR01iJSEz6gCrh8maHu7kjaDZCnptiQOI-vOOhU6AddrV9Hy1T1n_eokKt_Hy0Xi306FPM8kQSwTCAqMhJhuS-rvOp-BnnRFVv1sbZahBz5S5N58giupETFq72ia949zNTJeaWHYQiwxJKktv6kFG4j1jCrsUPwz2WKGFcEPLj0dVRi7Hvh5RXZEVX65O4WFj_Sgy0bW1lzmOiBpck0c9tvXANhA46IaYuk6oIhbHkGqDEvcUlU9D-HXy5DI70CTjzf5-bH11MXC9dE0wVfjLsf88G3Y1GoE6NoPtafanzfyKivA3EwRlVU_iIyseZ3kgG0tS_RU3yOkNidMzGAYiDgoMmXYMgNM6YonuSBK0%26pg%3DESEL6RMMOVA43DSQLZZR3D6JSU%26ch%3DAQEAEAABABRF0VcdyL00qsC2wsXJv_PHspl2kRCqNOo.
+.netflix.com	TRUE	/	TRUE	1811133456	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3B68nyxL4_rLc58GIzSdAZBBL4viCamc.%26dt%3D1779597444972
 .netflix.com	TRUE	/	FALSE	1811133452	nfvdid	BQFmAAEBEMSN5KSkFvbv1Y1YWQSAoMhgK4tSjQcKExn_NopfXT6TMjUEQqkm4529uhpyQ1h11hnWVWaqNr9PajKvsDkqYh_Zr5kMOLDjcitJs16whq2IGFy4SPn47bd9uo_DKMBwyg9S8FnuJRv0xJm1wgV5Yt_X
 .netflix.com	TRUE	/	FALSE	1811141255	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+24+2026+03%3A47%3A35+GMT-0300+(Brasilia+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=2c4e5e87-9fe9-4cfd-b639-981703351544&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=6&crTime=1779597277655&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1787381255	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787381255	netflix-sans-normal-3-loaded	true

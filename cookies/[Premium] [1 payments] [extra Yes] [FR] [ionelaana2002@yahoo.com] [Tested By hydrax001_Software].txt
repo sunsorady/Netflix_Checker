@@ -1,0 +1,27 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Alx
+#EMAIL          : ionelaana2002@yahoo.com
+#PHONE          : +33641520849
+#EMAIL VERIFIED : Yes
+#CREATED        : January 2025
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (1929)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:03:27
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1779917527	dsca	customer
+.netflix.com	TRUE	/	TRUE	1787164698	NetflixId	ct%3DBgjHlOvcAxLmA9HXmGPKy33AW27_Y-TjgEoF2sU19UrL_Vkua2wRZzIZPlQfH3Y1jh5E058jFPxNTU7ssqqgZD1xQYzvWT4whehWGqz2WOr4HrQ92miOtgO94EglWlR3iJDZOGMNKqY63ASrfLx2dqvft9cy912QYpSEYBf-zRmJoRjcud8DNmHSpMIw7GZSMg6A018ChWPySi0vI3gnQW2EYcX7Ue_do3mDjgcm2r9JGRFMBUAYjGTk1XQBcEaHXB2fZE6lNxO3Xl8wsIFEedA1-eQK3k0_VYH2XnKZw6dKamFbFqc1DST1gpNG-0WLFKOt-qza4O05HtNmMFqsWMoMDB81vheojwlSKKOAFjVNb9IP7bQ_xhcBNxdFoBgLyWVK-gyC9z6xFj8r8uGPlUtU2abULJsk4zp-o1pTyt0AosoC5AZf3d3-s6CUcHh72Yf9msbSm_FSMAoNPaXBzgEaDMWzg-l6osRV_F29orTjFM2Kw8CzV_1LAnI57Sfr7tnQ1IjCikFKnOD1sm935DD8JTth95gAjQ4diXthyVlMgvVcwNG3YYIB3aQCRwyJn787r3HT-5mwwsmy-8yCVBKkOW0P4XJjtsPZkdgKcFkqKI-yBZNuv4Z6iupv4BZV97n6tpmw6FcApji4_Q-kpRgGIg4KDLEaTArSnIUjDTCUpw..%26ch%3DAQEAEAABABRL_Lw6g6r48FitPMTV09q7kyT646vbOV0.%26v%3D3%26pg%3D44UZZCIBSBC7TAPCZ2GVFIFNSU
+.netflix.com	TRUE	/	TRUE	1787164698	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiILw8zC12ruKwkH9_HKC7JZf-PVYHe1U.%26dt%3D1771612696778
+.netflix.com	TRUE	/	FALSE	1779388696	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1779388696	netflix-sans-normal-3-loaded	true

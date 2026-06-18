@@ -1,30 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: justine
-– Email: jcr404450@gmail.com
-– Country: PH
-– Plan: Premium
-– Member Since: April 2022
-– Next Billing: 2026-06-23
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639157815169
-– Quality: UHD
-– Streams: 4
-– Price: ₱619
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: justine
-– User GUID: 3GOYPFNPMBBHBK2B4FJRF7J25U
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : justine
+#EMAIL          : jcr404450@gmail.com
+#PHONE          : +639157815169
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2022
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 5 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:39
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1799039499	nfvdid	BQFmAAEBELTfwdfcz0X-oiMH6SWIz3pgd6dRbS1oSIu-kaFHieXPsbPM-qcticjkyvv7WI_jcLjAW6J3d2e0gu74_3U7fdsdwBTDSdubMzsgbptgCJ5JbXkpGxm3zBe2Ij6wwT7rucMSMK-I3ECGzYCUH6JtwA2d
 .netflix.com	TRUE	/	TRUE	1808036691	NetflixId	ct%3DBgjHlOvcAxKFBHJXabhG8KhM6TpaCJREl7zJ5Dte9Qk7k_cpENjys16PV2GfxqKUu4sQ0J7lSnBMrnIoXdPpT9YMGXqPJNlQ4TfzKEZo50m7C-y0s6bpPflpwYi7maEbqDVSqDGIZ1k_VCdbkcX49e5BmwPjCqRNj7XjcGYrIkImfplsSEJk70Gkh-GINI2lkfmxO5wgRCSXxFWiMTIH4a2MNjkp6FMeEohLTx4SSWX_nNx37xgNfXHrrnSdWyF4yMGEmJhg4r5WOjUWMtkPYeKKWoS5ctcF6MmIiHceaBGiJ1JfYP7WshdIiimjes-osU8bdkNXtRAVtw3k2QD38QMLaOT6gsWNAcoz-uozq0VA17RB4NRroZxM9MUeOkZ-cpk17bfYcnY0xOHaziByJugTc2-YBNQ7NfA_kqS1xExODel3juzIwe92O1kUEcaD00NnuCJ3Jq34YI1avnf6Y2g5VQ9lVMe8WyH4TSb2Z2sA8XhG9ZOjXdIlUmjLxnlay0ID_F4ahAFf7ZUTOway_Xzb2fE5BTQDEG3ACqO_KbCIBA0KoQBtRt_2dlmvSoJQqexU_kN3g1hR6UzzVruFBJLh0qjGrNyTb6IkQT592bptjqIieJV1o3Q1ZXl8AhoE2L5qC8wZ4AqBWBitbantQHiQgiaBvlapBKCIXJkTpKHg4j_GdLl9HtBips6EELYYBiIOCgyVK3r-a3PzhKnVPPw.%26ch%3DAQEAEAABABRbQkvT2xn8iON-h-sH5V-yAOBQKJp9So4.%26v%3D3%26pg%3D3GOYPFNPMBBHBK2B4FJRF7J25U
 .netflix.com	TRUE	/	TRUE	1808036691	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRBHjOvI6eXCwodJKsFGWmsikOzxwzAAYc.%26dt%3D1776500691094
+.netflix.com	TRUE	/	TRUE	1783982024	gsid	2070013a-ad75-46f5-9f67-30322202c912
 .netflix.com	TRUE	/	FALSE	1808036696	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+16%3A24%3A56+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9c444f4c-34e2-4cc0-a681-228e155f1c8a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784276691	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784276691	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784276691	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

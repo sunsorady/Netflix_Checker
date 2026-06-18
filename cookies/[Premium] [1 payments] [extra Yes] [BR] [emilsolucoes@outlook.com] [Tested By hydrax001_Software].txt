@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : EMANOEL
+#EMAIL          : emilsolucoes@outlook.com
+#PHONE          : +5575981330784
+#EMAIL VERIFIED : Yes
+#CREATED        : junho de 2025
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : DC (2434)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 22:56:21
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1787626488	nfvdid	BQFmAAEBEE69N7I0740q06wamj0HGS1gRAwJLL4iHBgwv0yJZD2U-o2hlUSnnTxdBoFJxF44xI-cXQUAstQAr8O0mvVwmA-iJD_PWD_JgGwVVWMlodWX4ZtcuxyE2mkFADFr_COBcIbdaRekoRgb-dUz_-EtO9In
+.netflix.com	TRUE	/	FALSE	1787689581	OptanonAlertBoxClosed	2025-08-25T20:26:21.420Z
+secured.netflix.com	FALSE	/	TRUE	1800046724	thx_guid	a571a43d2ac126ed49fad647a61963fb
+secured.netflix.com	FALSE	/	TRUE	1800049037	tmx_guid	AAyASLu7XZd1Ke3tzA8oNeI6unQRh23WU6X11jIxOVaWLfPESq3ePbUD-_y38nhA-1wVEioTxFhQHby_bteQc-Js1yseRQ
+.netflix.com	TRUE	/	TRUE	1812072296	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTLNLd072ar96SppgmV_IwAiUjaMDAxGPg.%26dt%3D1780536296792
+.netflix.com	TRUE	/	FALSE	1812072915	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+22%3A35%3A15+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fce9eca3-2594-4a1a-8b39-8afb77696c3b&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1788312915	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788312915	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788312915	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1812072296	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAwSIL2sPn99CowLW0A_1U0Sg8EeABPWw1rAKTVK-qn6wR9_IG_memZytj6L3vOOG-0_WJPqoHxi-IJCv5Dl6UaLwQN44uqs15ADkhogaSoRDfwk0ARJctt5dPSPk0l-WcSeEwBHU1AZ64x80oSUX3pN-pDfv2_CT3-RxxspcT1lZVRArdet4__-8iib2_gAmsU-gNY8HaPrSQdgd2fTL7oYREtYCIOkZCF9UFNEZve_s3TVrwXhTKFQcQJNL8Bln2LwVo41BSlTI16sT9lb_MYLQ1s4EqfAyv8w8rxQVSYI2FlAlkG4o-m-z9lmn8WiSusTgjYFVlgNlJukbf_n0zVDm48bchf1YsWUFliAFd7Y5wkxtYW9txr6apP0vpM4b2qdfzfX6qhlkAoF_CiaYT7UTDgbPFiAti8XuxKAZO8PdxDjCNKIv0scxR2q5kIlDSb3U3SI9YniRLnmGy4Ll7_fw_CZ-NmdBjqG1Qm3tqwtKSdZ_Kdpi0-aOeDPtk2dUwnIwhO500fCuSNguiQhm3gcy-xPBgCXqxv7VCRgGIg4KDHOMdy3CoHwv93zauQ..%26pg%3DUIF4JXX2PVAETLEGUYR3BKO6AU%26ch%3DAQEAEAABABSfz1-zvZsz0bmQIjVlqRCdwvA4UqYKxII.

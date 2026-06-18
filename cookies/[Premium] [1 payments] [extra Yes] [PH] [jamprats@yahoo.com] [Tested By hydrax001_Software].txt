@@ -1,0 +1,29 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Juan Diego
+#EMAIL          : jamprats@yahoo.com
+#PHONE          : +639157292979
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2020
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (9827)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:43:41
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1800795047898	nfvdid	BQFmAAEBEFBpJbw50v4tiiFED29mLS1gE2vYj-KAdCYhu8Uvl4Na0GniI6mazKzbr10KxPGQFiMaAcpDGTDHUXckIkr_r_ek2nkdfVbLd_bXk6mg52sFjXDkuG5OhC_Ckx10MwdHbru2hi99NGDehiXfSjm2XQ59
+.netflix.com	TRUE	/	TRUE	1778834839770	gsid	7074d8cc-8543-4b52-b25a-bc24fde5900f
+www.netflix.com	FALSE	/	FALSE	1778834840000	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1810284441723	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQboPrkV19u4FzmHcd-N9SS_RbzWD7JlNA.%26dt%3D1778748482350
+.netflix.com	TRUE	/	TRUE	1810284441723	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA7-8VJPfwj2PtuHA_D-2Tj_scZRxiPlaIFoJtOrBEGrc_-Sunj5JpCPs0ytbW_edc7BPC58WpAPPMExIzCCgI9ql_sn4mgA9rVcdjxVgXUlGOsDOM5KINIfcweOpPraT8ffat8Ff2oMtD8XpbBg1LV-AY3s_gqcgv7Tel0givc5SuQ_BMry6dOvKGfZpC-vJ92ndbv1HY87o3GAgMEnaqzeFAmrygOcAzKpy2765wOvfG3KQhcsUn88GiHYzi8webLUlJt8PeF6MuIyraKx4rVU2Zu8szwSQWLTgSTF_TF25zriVkLsa7pX_3_Xkq1W1AkSOWlYmsSXG5uZNHsnNI0jgjJiaOl4xo1mBXxqqXOSghjZ_Q_mm38BlZBc3Inuc04N-x3rA41GxQqTOIAuxvq8J11vv_8yUFjjsH51BwpU-Mcd5bsEyiYZB7hgQTROpul8BhIZb29aq04ygoa6UwSyN_Hpuq4It48Y5tPbCj7bT2frtgqtAhXNM-znEHzeQqMneL_E7u4GkrMYkJTwrLJ_j-uiDHzky-cznjEqjGAYiDgoMQrXF2Zn9cPJkYFAs%26pg%3DBYY64HLBCBGYBF6XELZ6QTFCLE%26ch%3DAQEAEAABABTkqiEgiC0DJ60QR5J_ObYdmTAPj0yqiQ4.
+.netflix.com	TRUE	/	FALSE	1786524443403	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1810284443000	OptanonConsent	isIABGlobal=false&datestamp=Thu+May+14+2026+16%3A47%3A23+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&consentId=5a9b4cd3-264f-40f0-984e-8003afb9e103&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=PH%3B40&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&prevHadToken=0&isDntEnabled=0

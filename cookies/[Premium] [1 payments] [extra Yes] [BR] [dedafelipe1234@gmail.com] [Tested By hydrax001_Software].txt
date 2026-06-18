@@ -1,29 +1,32 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: negrão de mais
-– Email: dedafelipe1234@gmail.com
-– Country: BR
-– Plan: Premium
-– Member Since: novembro de 2023
-– Next Billing: 2026-06-23
-– Payment: DC
-– Card: 4175
-– Phone: +5511968387745
-– Quality: UHD
-– Streams: 4
-– Price: R$ 59,90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Felipe Francisco
-– User GUID: 62WZ7MJ6ANE23B6HYDLKFVBO74
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : negrão de mais
+#EMAIL          : dedafelipe1234@gmail.com
+#PHONE          : +5511968387745
+#EMAIL VERIFIED : Yes
+#CREATED        : novembro de 2023
+#COUNTRY        : Brazil 🇧🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : DC (4175)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-23
+#DAYS LEFT      : 5 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:01:37
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1795395037	OptanonAlertBoxClosed	2025-11-23T00:50:37.658Z
 .netflix.com	TRUE	/	FALSE	1795395040	nfvdid	BQFmAAEBEMAyw_QPumLJU8_jKRLxtpZgODenqATY1fEe8EaQhL1XGdWEd3IRgsqywlRbmeFAr0NJ2U6RkBrrjfwMRD0YzX_Tnyi8cMzn5MDzk56S-Ok_XqiYGj4E36MThrciR7i1Auom6m8hTw7VapgTP_pzoX39
 .netflix.com	TRUE	/	FALSE	1812245703	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA6SOcb0s0MC0eIqd6WxG82V52CrZmMymB9MhQfT4TGX_OThf8ghcDLhyirAG3xnjrDDsYXFWcMcVbyhIWNX3VAbQ-GLGjOYHU7bj2DQbC5QvG9y56pvjKMiXJurQ3KozHzbkMtnzhg3Xvb3-V30RH-dRGrKDkJGFFj6dVsjfcU3P2w4Md7UDCfZ8oI5arj8zA5u7YzDOBqzjnjoa5okRZc3PSo62zxTw83Ym4Aw_CRHTmnEWochnj9U8QEVr-_xdIbK-kG7DlVd9uKhP8x_xpXwDGsuowUGwLeFC_pWKmWZ7Y7rX7nc1tT44RApn1EMvUlBWGYkzOnt7PfQBiGFTePk03-oXXHQfxRnYq7cEqzuQfTacgS7QPmIJpL7IhJpWSMMZejbywE4tEkbwYAoYC-I8Y90XhEOZ6FqeerpBaCMqOX-i5XNU2cdx6mpRAutC-Ttdaa2z8MC_eiTwdV6TXpYU2kgeyTP9qli1k6PrmiCDx8ltblYepUfEhDVNBVe_h7TPYgex9TDtMbDY8EzOY0NFsv3h-MAGG_jb935GmRbYicSGGAYiDgoMYaA6DBe8b2fzybeK%26pg%3D62WZ7MJ6ANE23B6HYDLKFVBO74%26ch%3DAQEAEAABABT2PEr9jwS3g5el3M94FHuJ7zAUsH0xf50.
 .netflix.com	TRUE	/	FALSE	1812245704	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+05+2026+22%3A35%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=655c3be8-1333-4421-9bbe-0d39bd16f079&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1815269700	dsca	true
+.netflix.com	TRUE	/	FALSE	1783897917	flwssn	c48b6965-dbb8-4d72-9bc4-b2d86b77fd22
+.netflix.com	TRUE	/	FALSE	1783897917	gsid	8e65b571-12b8-40f5-9926-8a874e72e26a
+.netflix.com	TRUE	/	FALSE	1788485704	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788485704	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788485704	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

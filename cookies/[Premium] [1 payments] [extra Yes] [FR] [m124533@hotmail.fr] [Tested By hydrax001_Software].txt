@@ -1,0 +1,28 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Mama
+#EMAIL          : m124533@hotmail.fr
+#PHONE          : +33652201336
+#EMAIL VERIFIED : Yes
+#CREATED        : Maret 2020
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (3626)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-10
+#DAYS LEFT      : 22 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:31
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	3921784690	dsca	true
+.netflix.com	TRUE	/	FALSE	1795891196	nfvdid	BQFmAAEBEL0F1GvuJa41sqeKqHxKtEFgp5hEV0raYQbUa-xlkFgB6hyoQHMESz7rOlCbwpaNc-PWNHTFj2sEsHY5fWzkZXBWQVVfQRwVY0bhtwIjDNqm4412ohj1huClxaJrzcrLZK7SITRsRRtAd5cuQmHmdl7X
+.netflix.com	TRUE	/	FALSE	1808995781	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQW7on79VnzSDdJt6uKoTHxjEIGpGPYqGM.%26dt%3D1777459781362
+.netflix.com	TRUE	/	FALSE	1808995781	NetflixId	ct%3DBgjHlOvcAxKNBKBxulaAvAAXuaosE4ljvCTrvrHoRJKD2fYLVRIrXqGnur4zs8utCiKt4dIPZoadUazmFisxETPVPkM1ah9XDizVOBS25gl7Clpmjbrjt-QK4KEYTptDhppk6UkWcjB4arhvvpsRBIER7eKoRGq9XbV0qqKZ42UJG8d0ZEFC3qrdeVTnkoV-kydns7Q_iE5dTHl0Z8GKPT2CO_QBOZTAuNdmJRPjC7zHB4c_2ZWTgVkxv9xzrPwkR22C4cI2PFauKUZU-9k4RJs3NGTxUi3ZJC52Ub-SYY9ySTp3ss6IDHrqN2UmUVrBDSXNBNw_NrYW3PIysKSD6igDJzv2QT-5MuIFep1hRbaJB8ZmCXdGzI_KRn4UUGMky0EkFAY81eVDSDy0Gy_kvziiD3e84QYU3EJHI9tmAQx0Rgg6AfV5NPuzksHVrK2NwKvAZltdX0yNMFOWmiPMwKWZvIXQsShu6YFHAhPbm701aIpkkxwWWlrEGT96c_XbHxpMZswkgwHT1F4_XO1jwTbx1e0jVsoJy0LtFfyPpm_DTmamD6MBdomckjivilTClZq_EbZ99INGZFv0UWrQYv9qiiOEmwkiX0FrerujZLzVONwrCdfaNaL_0OFgoN0MZQBJAz4JpLkmMsD3W4QXN_rxgLgQMd_mc_MxOiNyCDnXTFrLFLyl2e_dkhsyoxdLSJ5ud43K0xgGIg4KDA0NDn1ApkzWNJl40Q..%26ch%3DAQEAEAABABRm2L-14iyBk3oKJ9zT6fFXJ9hnI40qymw.%26v%3D3%26pg%3DARV4U6DODZDYDBWLPOUA2DW67U
+.netflix.com	TRUE	/	FALSE	1785235781	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785235781	netflix-sans-bold-3-loaded	true

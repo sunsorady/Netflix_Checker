@@ -1,30 +1,31 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: juankonoralma289
-– Email: juankonoralma289@gmail.com
-– Country: ID
-– Plan: Dasar
-– Member Since: Maret 2026
-– Next Billing: 2026-06-25
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +6281329179117
-– Quality: HD720p
-– Streams: 1
-– Price: Rp65.000
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: juankonoralma289
-– User GUID: ARU5UXJTIBAMLER2KLZPNR3KEA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : juankonoralma289
+#EMAIL          : juankonoralma289@gmail.com
+#PHONE          : +6281329179117
+#EMAIL VERIFIED : Yes
+#CREATED        : Maret 2026
+#COUNTRY        : Indonesia 🇮🇩
+#PLAN           : Dasar [HD720p] [Streams: 1]
+#PAYMENT METHOD : MOBILE_WALLET
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:20
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1783982023	flwssn	c69c601f-70dd-489e-9d95-2e93ac240b93
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	b12c0d1e-8d0b-4bc0-a3e7-3cd8dc604833
 .netflix.com	TRUE	/	FALSE	1805444603	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+17%3A23%3A23+GMT%2B0900+(Waktu+Standar+Jepang)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ba14186f-1eb3-47c6-8aae-e546b451f94f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773908600862&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1805444600	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2mD_aeD8StligEsfwZD0PKYOm2GzspQk.%26dt%3D1773908599296
+.netflix.com	TRUE	/	FALSE	1781684602	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781684602	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0
 .netflix.com	TRUE	/	FALSE	1805444600	nfvdid	BQFmAAEBEFBxpSBfrUbktIpLBhLtAw5gf1Vzux-ljzRJwZvM9aTLjqCgQyV-oE20L-PJ6JDOu3wnUstekEePK3M7PIS_sENB4VWEwwNT2qRkUD2SL4tGSb4CkSq9NHcbIQcwKmKQwc-wmuO0vojbjOxVBnCNfqJx
 .netflix.com	TRUE	/	TRUE	1805444600	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKMA5YGlUV3yQNRl_ifOnRI-0rWgV0NrfQSawPlGYm4CmyXMs2W6-KdGu8q-V_HCvBFOy_FXm4mUK_5XwqR93EXzSk8HZhOV70Jcr5oOSU9t0Y6Tl7zJtKhFa7nee-AHNdtEvrQItmMCtO9Fu1JpsUFvr2FcBP_h0ntq83WIxakj5IgTftBxIPDb_SNrVn9fl56C8Bn_GG_zBQF70imJY_jtmR46llcimUCbQZfHyUWwgBzKdH-Rf-vPljEq4WeIAaEE_olT1jaZsFkwq0l4J8I9LDLvHErX5KKmIYlal2zPgAP-fbzeeP6hjVRQ9frBZhf11l3Gl1cJcxlfo0bQyBOzn6XQhEMO7-cZ3EgvyzSVlr8OG09XRxc3f8U5x1XWnWUUj-yhf7JE8y-HkV_sVSwUzPvIc2WYuZztebiRvCTPQxVfcqmUdP3KIAYcA3ePGUlGgS6E8JFZ-2lcoxfbSjpsQwCKuoI0Xi7sB_0iUlFIHlPd1BomCRrAw8DbomoBdmvMvgxyzZ3UIlt8kB5kRgGIg4KDBTv4e6vY0F_gOYgHQ..%26pg%3DARU5UXJTIBAMLER2KLZPNR3KEA%26ch%3DAQEAEAABABRCLUy56Ky5gXtSinfirNUo8NSPiSJK3pc.

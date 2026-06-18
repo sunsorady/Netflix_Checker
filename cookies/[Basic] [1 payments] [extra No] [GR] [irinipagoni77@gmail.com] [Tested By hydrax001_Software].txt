@@ -1,29 +1,28 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: ΛΑΜΠΡΟΣ
-– Email: irinipagoni77@gmail.com
-– Country: GR
-– Plan: Basic
-– Member Since: May 2023
-– Next Billing: 2026-06-28
-– Payment: CC
-– Card: 4003
-– Phone: +306983055169
-– Quality: HD720p
-– Streams: 1
-– Price: EUR 8.99
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Eirini
-– User GUID: LBBB3TAWAZEDJEK2SIDUJRMP3U
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : ΛΑΜΠΡΟΣ
+#EMAIL          : irinipagoni77@gmail.com
+#PHONE          : +306983055169
+#EMAIL VERIFIED : Yes
+#CREATED        : May 2023
+#COUNTRY        : Greece 🇬🇷
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (4003)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-28
+#DAYS LEFT      : 10 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:19
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1804274790	OptanonAlertBoxClosed	2026-03-05T19:26:30.194Z
 .netflix.com	TRUE	/	FALSE	1804274793	nfvdid	BQFmAAEBECYZ5-Pxmmxh1p3v42bJmW5g71IlK_KhdRlXkloK-nPKWoF7GbP2RcYr9q3hfP1nSu4KcujRo0wZIZ4xxslfw8Y_iMApK5_hBFG9EZxAU6P8RZfrIwOg5G8ji3_vPleawknD8ngMehplrpcLs24moRap
 .netflix.com	TRUE	/	FALSE	1808535177	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+05%3A52%3A57+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca2d8fa7-a908-4eec-8138-718b25b65ec0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1772738790808&geolocation=GR%3BK&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811859998	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1nJYc-TcXBpF_qO-h8f-r5rEKENjJk5w.%26dt%3D1780324000596
 .netflix.com	TRUE	/	TRUE	1811859998	NetflixId	ct%3DBgjHlOvcAxLUA51WrXTqVXgla1TbJ_NcxlFvDTqaT7ThrEOS3RvBKhCsl6IkaLdvoRgi20WeEZ9MoUpehOHKqEtLJhaSsoGidk6WHaPGIkzVFenyMPuAN48ROY4w9IplLiJcwT739HnMLaSjvWiv90vPMzXT59im_iLuEPDzdiJIeM7023biaZ0okP6Oh2yjyTE3Bwc8oTX4Z6btcHFALYJthA7vCyEWsncyclprP11xwNLhelAn0r5pMlBxeJxS0-KZf2EG9_ANg6aGN50QiUixErq2VBa2lH8jYcnQOZHbu9_zizlO3RkGqMkTwAYmB3jf2F1KbUqH0Oo74Ah8ykLtOEs2NNS54LoSQ8I-JNiNI6Swdf2UEVfxdrwzhz4QBk45I769seD1dWW8--aZaZ0wqOJLBii18Co3eA21vv9J9ilgjFA4h_hUSfirwtXaPFZn04UPTIjty7NAZbJkbAJSjpPdjy5wgE5141L3EJV_bo4kKckZXi0Hh0sFPZ3KCf52xHa-lRxnEwRovOn4D3TYQdDNotgXY1lhYQpJ997n6-DgJ605o7CivM5q4Yr_NRkpg4r810mxN8-1dvV0Jey74JTarkSLX9m1CDW7_IGvTSXXeJxfhDFK2nfHpBgGIg4KDH3g70dDIPrAoL_oig..%26ch%3DAQEAEAABABTWBIg8XnWbHtrykBGg2oJqqhMI6L1w84M.%26v%3D3%26pg%3DLBBB3TAWAZEDJEK2SIDUJRMP3U
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	5f73b52f-7fa0-4d7d-913a-2522879a5026

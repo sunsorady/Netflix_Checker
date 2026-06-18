@@ -1,30 +1,32 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: aynis
-– Email: nihanasena84@gmail.com
-– Country: TR
-– Plan: Temel
-– Member Since: Ağustos 2025
-– Next Billing: 2026-07-14
-– Payment: CC
-– Card: 4040
-– Phone: +905071904927
-– Quality: HD720p
-– Streams: 1
-– Price: 189,99 TL
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: aynis
-– User GUID: F3WLELPVN5FU3D2YIKRVEFIHFM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : aynis
+#EMAIL          : nihanasena84@gmail.com
+#PHONE          : +905071904927
+#EMAIL VERIFIED : Yes
+#CREATED        : Ağustos 2025
+#COUNTRY        : Turkey 🇹🇷
+#PLAN           : Temel [HD720p] [Streams: 1]
+#PAYMENT METHOD : CC (4040)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-14
+#DAYS LEFT      : 26 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:27
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1783982025	OptanonAlertBoxClosed	2025-03-16T20:58:27.751Z
 .netflix.com	TRUE	/	FALSE	1788103999	nfvdid	BQFmAAEBEB_kAeBlQBD5fF6Fv_F4YExgveKPkvtdxLQ51D58Qi0OhXc2UzWKqQtkXNEdjfFRfYInr4yDyCP7jgZYvLQu51pqvQ8GRusfm2B5OwwJ2UChFnjcbuIk2dFUZsqgDVAZsKvvoNjadLbyoHO5_6Lf_Wow
 .netflix.com	TRUE	/	TRUE	1802720610	NetflixId	ct%3DBgjHlOvcAxLpA6J1gf9jzENCsO921gFM6k1pWJmFsxcKDLTfeBoNCXhZPW4NzJm5PzRLYCl2Ww1JTmew-8lV_Z0Ns73Eh9bBY8Mz3NSNVBVIILReeKtbVuhQtURZ4sPkfPis0wuO2rBdINcMC2US115oNWgXrJrP7tG86XY_iALnmy1zy74xhv_mWpYRbna6y4HH5MWsegxAw6y_n_GWQ_pLOM8tbuES5rWLi5yDNLl1GJBHGoI06gG3nuOApkEESq4c32QA3WNJdjMJPRnuW2qowxn1I7CuwODixvHAd_iirogp_PGzHvmkwWc1-3_38rmESPddU8a-7Re_O8Ww3VhbFOuHedoOQiAWDg3_oVC9YOm2aHB1YUSQJ6wdUbJkTpsVwk4LnX2jpqQWBjlu9UMTlOLpcrYByDJ0dnUYjyRn-ptxnCqSObt2rMAX8Um1Cof1Mzarqs7qTPi2J5FOmJdCYXTt4QiGqy10QRBfR_6GGH2gAE06Q7HEaTJ2ASHnh3QVj7BxIcvI6f9kVSEwJJEejg_eB4W49LQEkZj8pZMojt9IEZVWC_5wsNxwi3UyUXCk_gpihsvuK9IdLqWTr_avWkxMzJuHvqM8SqDQCT5g8rT-Im6J_XGrLxigafUn3-Ec3NNQZDHvIEA2aHWBBFY8nhgGIg4KDDQI9dpy5IMiTvCahg..%26ch%3DAQEAEAABABRDXITjNN-2ou6B3KSTzTIW33Ex2uPmop4.%26v%3D3%26pg%3DF3WLELPVN5FU3D2YIKRVEFIHFM
 .netflix.com	TRUE	/	FALSE	1802720611	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+15+2026+22%3A43%3A31+GMT%2B0300+(GMT%2B03%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e0f32e0c-d869-4208-a2e9-fe1b63eba144&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B34
 .netflix.com	TRUE	/	TRUE	1802720610	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzVzd1-T4Mhnl3zPQD1NNiXwHsecFgyAU.%26dt%3D1771184610123
+.netflix.com	TRUE	/	FALSE	1783982025	flwssn	3759c599-d540-4312-b846-23a2ce947bef
+.netflix.com	TRUE	/	TRUE	1783982025	gsid	9c99389c-1557-4d2d-b4d2-2dfed307921b
+.netflix.com	TRUE	/	FALSE	1783982025	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982025	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982025	profilesNewSession	0

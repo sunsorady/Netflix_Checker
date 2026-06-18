@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Tutti Qui
+#EMAIL          : alberta.stella18@gmail.com
+#PHONE          : +393248869527
+#EMAIL VERIFIED : Yes
+#CREATED        : ottobre 2017
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-26
+#DAYS LEFT      : 8 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:13:34
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1789807772	nfvdid	BQFmAAEBEGDLr4Ux9ue-GPs8IQZMwqNgFboKXXJnpTI-TyL4p83sUaqnyb3faVhD0HdDHa0aHKBP5ckfwMLeABvSvpzHFblp4ZKle-2HsKARo2-O9CSWGeQT4I7UYA5Zp9l3Rq0pyZyk5gXKUui02UZ5ou9Z6-oF
+.netflix.com	TRUE	/	TRUE	1807705000	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA22PdXexOt1NYQftZCgeGDDw__zUktENGqiLk0yCAUv0Hv3skoBTIV292jAm4Ir677wi3ZeyR9HGTTA6GSSFgc04h4Sn0d-pVJ6AQ-5OyvBvj3RuFpsYpbTjI_NHUHxz7Hcfe5GS8cUmoMUcxIPsJ3RfF3Qn4mOtdNhY6Va2iX5kjgfW1pvZ0DyG6rpX20x7xUzZsNQjp-pAKIAAVnTMn66LiV7kAIyTLXFahH0g9zeoujGJ1b3Kfib3oVzC0Fyyn6hJFKpJPCLQd9HC3bsvwgnUkmUf7dVC2HlikWLS_MdKv5HIPOX_JAnCVPq0nFcGw_FiH21mZPD-gp9OOd-6-i4VN-1w1do_p_wKEXEC1So2cPxqMbfa3Bhocg2WSSR7iKINuJ0lRpaU0NimXbgDVn1K7_55kOrtgEej4b5utMq6RWSier7SsKsDTjMiS7k3t4pv2z3LC0zxyyKCHGnInLcTur5xf9O_5T19sUPxD1PL97kD9mtFXWSkzbi4QdwtpTXjm_IJ3VRXqN8pr9tS4Zy2wLHMQdf1Xy0gp2ddw60YBiIOCgwdlDn6ewTKo3iw-HU.%26pg%3D7V6RY6ZQIBFETGRL5HKQE4XGSU%26ch%3DAQEAEAABABSLdR5c6dAnlyq_UrTGj8LvAbZw5UqFzIQ.
+www.netflix.com	FALSE	/	FALSE	1776255401	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1807705000	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1XPPHjgCjcpNwZd5Xs0NY1T08mD92Lvc.%26dt%3D1776169000658
+.netflix.com	TRUE	/	TRUE	1810728996	dsca	true
+.netflix.com	TRUE	/	FALSE	1776179795	flwssn	4e8dd404-4a23-487b-a507-616e34563044
+.netflix.com	TRUE	/	TRUE	1776255396	gsid	24fe6a11-d6c4-481b-94f0-25b678ddf63c
+.netflix.com	TRUE	/	FALSE	1807709450	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+15%3A30%3A50+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=50edff3b-048b-4b3c-8176-61d1e9fc5279&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1783949448	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

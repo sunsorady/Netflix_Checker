@@ -1,29 +1,27 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Baby boss
-– Email: souprayenanais@gmail.com
-– Country: RE
-– Plan: Standard
-– Member Since: avril 2020
-– Next Billing: 2026-06-30
-– Payment: CC
-– Card: 6032
-– Phone: +262692967934
-– Quality: HD
-– Streams: 2
-– Price: 13,49 €
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Anaïs
-– User GUID: K5IA53DDXVF3PBADY4TV62FK6M
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Baby boss
+#EMAIL          : souprayenanais@gmail.com
+#PHONE          : +262692967934
+#EMAIL VERIFIED : Yes
+#CREATED        : avril 2020
+#COUNTRY        : RE
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6032)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-30
+#DAYS LEFT      : 12 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:30
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1783982024	OptanonAlertBoxClosed	2025-05-13T10:17:42.796Z
 .netflix.com	TRUE	/	FALSE	1783982024	nfvdid	BQFmAAEBEE73T6V8BgkA91H5ink5kndgNZ3Um71ahhbqDGG3Hcy5N7oF1T9HQy823wUdSa9msHfTqr9LP0n8FSU1jsIPZ2BTnG-NvyPO-HU_INkKvHqnstjowHqbwJrN8H654goRSYI-Pb4AZXN7_qezut4vT8ub
 .netflix.com	TRUE	/	TRUE	1790183677	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6ArM67_DHjqnDZBJt00qfFoo_PszucEHsJ6vcW5BGnIOlCKleiIenwYbhEouWL-sq7PxPsBm2KKDw8iLtqyQaGfDfg-zQ2e2v-4CiR8UO8Df2T-xs40ZGC6TXBVw_ZZIdITnmyJFIj4aJXrhJ0lwCaVOVz1F69KWvkT_thyhtxD8GMvYqEhSMm7vpuL51hkFrbkP9RX4Nv3LPGIuYinOfnhwLtkCymIRsxUbcq899Ba98O_xarpVX4yINQK6BWKIP4FY6cve-skjuytVJdLxfQEZTrYN39X_NCJawXU8ciUdj7SHl4KE9E1QSRg4lXwPm84bop1DP07ce8ex2Sw33WDfNb_QBzuWRDelmAmyiPa754LFAEOkFzvJMgjgfCAALSh0lIt6Jt6nYZ_7sxaAAbDOUrAQRosHXtk0STzF4mAfpHuhuseYLFPBxVKLlVG2MmZ1J0N8R0yCqQHqGtzfkFS8lrKBaQ25AKvV32-Owrv6eaRdbK8UvCbFSlxgGIg4KDD5gHTSclgqOK1OgaQ..%26pg%3DK5IA53DDXVF3PBADY4TV62FK6M%26ch%3DAQEAEAABABQy1r82KeG0BkOg933Wi_4JuzYIeEOZREg.
 .netflix.com	TRUE	/	FALSE	1790183679	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+23+2025+21%3A14%3A39+GMT%2B0400+(heure+de+La+R%C3%A9union)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c6f50f63-ffe3-49f6-afec-ea4bf1e52168&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=RE%3B
+.netflix.com	TRUE	/	FALSE	1793207673	dsca	customer

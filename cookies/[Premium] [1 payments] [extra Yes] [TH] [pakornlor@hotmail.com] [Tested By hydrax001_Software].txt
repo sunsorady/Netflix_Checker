@@ -1,0 +1,35 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Aoozyyyy
+#EMAIL          : pakornlor@hotmail.com
+#PHONE          : +66899229059
+#EMAIL VERIFIED : Yes
+#CREATED        : June 2018
+#COUNTRY        : Thailand 🇹🇭
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (2504)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-11
+#DAYS LEFT      : 23 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:41:19
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1785091488000	nfvdid	BQFmAAEBEPy2newrQJM54MT87rA-DdFgmqHjuEzzS0YaIN5C6i03zR3xhT__q5jeY89jm2HKdw6Dv2qqAjMuU99782koFFojv6E3VyWV9ZVbZyoxnK7GcQmfcDySvkip-Lc9SYTM3UnzqC66zPUEhef9VuPhw-4o
+.netflix.com	TRUE	/	FALSE	1771666456943	flwssn	3082c32d-b575-40c2-b815-232b21bd332e
+.netflix.com	TRUE	/	FALSE	1787126804695	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787126804695	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1810886805000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+15%3A06%3A45+GMT%2B0700+(Indochina+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4f2125ea-b99a-4164-85c3-a6807a8b35d8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1779434706615	gsid	a9e8b829-ea01-41c8-9782-62f79cfcc1b0
+www.netflix.com	FALSE	/	FALSE	1779434707000	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1787126804695	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1787126804695	graphik-normal-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1787126804695	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	TRUE	1810970089187	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTbayelPiL1I8iZZc2ez-6gBeDqhO6TZc.%26dt%3D1779434088741
+.netflix.com	TRUE	/	TRUE	1810970089187	NetflixId	ct%3DBgjHlOvcAxL7A_goq7a6aT2yIv85HCYQo6y5OAUa2h3mRzNTTQ8ZYakA3zBQ4OPaHXMhRyQ1qkf5xXWORU7xtaQED8KMku69_KC7u0vxAA9NurmSSVybvpUb1vRujwNB8OpIg6xuLuqWzdmmWa7XN1b10ql8CIjOY4DRflcOt5AGr5crMYztCMpzDT-h18mtZfKUlDbdxhoxunk58jboUQBTRQx1KAiNTwDlfcBmGxSk6mjsP0mtifOj_qd6cn9mJnlu3qJ06kLS4lTyse62pqPpsGe9MdnZJBqR_BJO4pCG_v-QbPjEuf3r07gLX3W2RLM-i7bpRHXKOmHd82uU6XoMvtWNgy1Q_HDBgSD27CEeRiA8HbsdP6tVY1AvqZ2BndcHEjki6bgkP_Ke8HJeDwX1xWR5SMCuooiOLOUXsc17t0c8slM6dBYKQFr--K_izjo_Vx5RZSLWVpJbg8SRFvdJ1-k9mKb6bYnfIl_3I0Gn7yDZRaUS1gHTGOFILX6fdpZRhYPrE3VZiLz2OKpBCv8LC_DAALUKIrbRsSb88wJGSYiCd1aEVji1FXTNEcQAWcGBh20ejk4SV4e5BonUhBsViiR3mYk0WGXOxn235DPIuiRCBF1DUuhgrHsp7qZKngw_Ph6r1mTWv0gsv7Yz5G8svM2V8ugqyP3V6A4EcM8rg6NWzBgGIg4KDMZLDX1JjsyPN2UoZA..%26ch%3DAQEAEAABABT2BfVPfyOzf8KwE2lnabEZRAwR4RnyjYs.%26v%3D3%26pg%3DZEGYDOF6NNHRZPJUMIYOYWE6YE
+.netflix.com	TRUE	/	FALSE	1779435988800	profilesNewSession	0

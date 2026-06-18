@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Roberta
+#EMAIL          : cecilia0970.cr@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : novembre 2020
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : SKY_ITALY_PI_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 22:59:41
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1795811178	OptanonAlertBoxClosed	2025-11-27T20:26:18.999Z
+.netflix.com	TRUE	/	FALSE	1798835181	dsca	true
+.netflix.com	TRUE	/	FALSE	1795811181	nfvdid	BQFmAAEBEDIcz-_JpELhRl3c-lFoKExgbZbWOBcFzWkXXoRUJunEnv3llM7anJtopfLcXL3q8D3XLYfTQeLSO-TisKjmB7IL2QBWq2Sn3KhwNAdPpYqyKvJ1WfnMphu67irAn3SK9LVmlrJtuR77qRtX_qESTOyz
+.netflix.com	TRUE	/	FALSE	1796778241	NetflixId	ct%3DBgjHlOvcAxLPA1auGr9fciMw1HksDYkX7BQHu54-ruK8oSMg0_NMRukOsPPjj3cXrQGDDhpl4ptkOXHhnlQ2_fwxhsrQtPW1U8RcD2sbTpYSnATNagLpsl_Xu3ouw-ekep-dWAa80NsZ0btJ5NkZsmhGCw-Z4izCCYCOyjI0nZY5zDEdb5fTxgyh90J5SOdapjlh4ZMehOddth2siYXH1h4G2oh3MaQOPu7Z6p3bRJWE0aH1TKv4dRB32McM0DwHP9y18l1m_TXaoj9lmjMTfNTtqmkzpszbdAsYn4klIOGUN2u3P1KopKxamoudzqu1ThovJ-8IHLIJWhft7_oqn2uH7izb1cbpsY6EoF6Jhe6jwBO82zNfOg3_FphICnGYSguY5gdPLKsiht-2K5MH8I0zBZdegC-PUgbywIxCknqBQyuOQq75B25JrKNMISWVy61ZwYPZ4CxgYioT-HuYTOKaKjjoxfuhuVT62HUsHft-i_8CeCAYvjfZCECnkoMBemED5HGWqeRvSQMWjV1EZW7zV7jyGpUNIPzTyXemT8OBCQKAU65OQ6KBjjTrxnJheHq6agONafsGwlTF8G8I0MVF6J5eGwfBWfHmubv4DL1b3gu_EAebRNEYBiIOCgxvKSV4QRmiGz6dd88.%26ch%3DAQEAEAABABS6jaW9s1OrC8Gfr_bbBX5J2MmnE3ndE3Y.%26v%3D3%26pg%3DVMANEPXJLBEZ5GP5N4EAOHJUHQ
+.netflix.com	TRUE	/	FALSE	1796778241	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTi2c6N1AhbMfnD0g-1IzluBQ5sldnmSzc.%26dt%3D1765242241415
+.netflix.com	TRUE	/	FALSE	1796778745	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+09+2025+02%3A12%3A25+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=66960580-6028-48f9-bae2-fdf3be31d726&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=IT%3B75
+.netflix.com	TRUE	/	FALSE	1773018745	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1773018745	netflix-sans-normal-3-loaded	true

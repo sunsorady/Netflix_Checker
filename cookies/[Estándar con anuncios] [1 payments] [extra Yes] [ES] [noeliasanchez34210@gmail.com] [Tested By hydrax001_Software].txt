@@ -1,29 +1,29 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: enri
-– Email: noeliasanchez34210@gmail.com
-– Country: ES
-– Plan: Estándar con anuncios
-– Member Since: diciembre de 2025
-– Next Billing: 2026-07-15
-– Payment: CC
-– Card: 6346
-– Phone: +34630986781
-– Quality: HD
-– Streams: 2
-– Price: 8,99 €
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: noe:)
-– User GUID: PWEVSGAVUBBWPCPHJFGHKJBOXU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : enri
+#EMAIL          : noeliasanchez34210@gmail.com
+#PHONE          : +34630986781
+#EMAIL VERIFIED : Yes
+#CREATED        : diciembre de 2025
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar con anuncios [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6346)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-15
+#DAYS LEFT      : 27 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:32:51
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1799278492	OptanonAlertBoxClosed	2026-01-06T23:34:52.553Z
 .netflix.com	TRUE	/	FALSE	1799278635	nfvdid	BQFmAAEBEHRYNDEqXjeKg5sWaHesarBg43rrfSYkOlU9ipgWXVVfA2rFzTf4WLi8NfuiTVVW-FUSqryEaUFEhVPmGGBtdjlD0w7vrvS5AojNPAjCuNl_nCQvMROtsAVX0cxRDD_GtWAc1a19tiNiIZfBj6IfeYkt
 .netflix.com	TRUE	/	TRUE	1809631581	NetflixId	ct%3DBgjHlOvcAxL7A7ybssrmh9oibPUB14tKhFK_PYNrkX3WV4r51Fb8yrlFcPqkeofdwSAfeajLdUqzY43m_S-Ih-JGynX5U4wKGZOXurfmW2Dm_turvlLAeVxtET2q0U0AEnFcg0ba_6zONavF8LaKZPtmI-BIs5CPYQYjElzZfnfJCQi7-VxCTWJsv3AQlX8kQxz_gmsInSaRmV1LaHZ20a9dxAX72eToqRP6c1m0IoWY_LLnP7P8P6HfBD_6hFeOMFlOXfDCB1s3T3KtyDw6cabxg3OicBN8C06XE3oAYvKQE21cl-JyQDPLHS34BrZiFUH3faJZK0oXI9J3wlDeM_0kfWJLVdW4sA4Cwnz7IxxBb00bp8EXsOhUFdUvgSwmKGFtIqOwNqfO9Q5eu-VLM1Byo2FeknqhbSn4D6r59sH4xIwlMA4RAnAUevuxGRo-hZMppbNfkr7xftQTrcAlcLLB2TRm_5XQjYrdc9yn3rnOpMLUbsyisjNEwu7ZncK4r0iU8TJlOfjOxC1Q9NTfsPMnmPzelmXbMjpOQOdfC5IeWe_HhBpooOeaEDmG2J2_ozNfNMRRfGUpz-j9POg02rtNOUw5ilYJGJ-2VQzquyhZCOkQtUCuQb5oImpcbU33iBbifsHTDTBPMEXF32Wp4jou_XTwt7PandGNjhGh_m3ajSNMvhgGIg4KDBNQxzcQDsJmnmZXSA..%26ch%3DAQEAEAABABQKcL3iV641IDTLc3UY3eKiXbJyomIjQMU.%26v%3D3%26pg%3DPWEVSGAVUBBWPCPHJFGHKJBOXU
 .netflix.com	TRUE	/	FALSE	1809631583	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+21%3A26%3A23+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7e34ae90-9406-4ffa-8b7c-809d8dbc9295&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BCL&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1809631581	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSVCP04fN44YK08rwaPAVHSifXv_3ijZw.%26dt%3D1778095581430
+.netflix.com	TRUE	/	FALSE	1785871583	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785871583	netflix-sans-normal-3-loaded	true

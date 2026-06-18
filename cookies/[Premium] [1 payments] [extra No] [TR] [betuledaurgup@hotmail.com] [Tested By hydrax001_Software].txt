@@ -1,0 +1,33 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : EMIR
+#EMAIL          : betuledaurgup@hotmail.com
+#PHONE          : +905353388154
+#EMAIL VERIFIED : Yes
+#CREATED        : Nisan 2021
+#COUNTRY        : Turkey 🇹🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (2635)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:29:22
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1707646208	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1705080059	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1724926208	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1705080059	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1705080059	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	0	sawContext	true
+.netflix.com	TRUE	/	FALSE	1721902295	nfvdid	BQFmAAEBEL8WIGD1SH8F_IKMIdYO7f1gBQkTwtTg2a1mSaxuUnOWQ0qovuM_YhA79YlEGIu1zuYT6FemnkEJA1x4MSn5imNuuulfh5JPt0TB-dNIx7FpWfvBrfSrnsn5QfVPU7e6mGx4XsqZIBuxMFG3avCc8WgR
+.netflix.com	TRUE	/	FALSE	1724485789	OptanonConsent	isIABGlobal=false&datestamp=Fri+Aug+25+2023+10%3A49%3A49+GMT%2B0300+(GMT%2B03%3A00)&version=202301.1.0&consentId=ed269422-b607-4128-92bd-3935fa36da8d&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&isGpcEnabled=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1697314858	flwssn	9a8c85fb-6b3b-40fb-a55e-9302d4b5eff4
+.netflix.com	TRUE	/	TRUE	1728840059	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSs6u4qSW7dLsJKDkqqoF3lw2i9re9LZDE.%26dt%3D1697304010047
+.netflix.com	TRUE	/	TRUE	1728840059	NetflixId	ct%3DBQAOAAEBEDA5GjN7XEZf5M4nLqzEhkOCULVB5x59NaLuotKArTueBF2iTwcgcza8wdL3cAeDf7ZgOZkLCHvNg1eO-45VJNYMj2iEGpYG-cauyF3t2fmfggXdxU4wB8CWuSyVV3CmvYZeoTozhd6qEIuXDgps6CkVBjGYmOeEODvGSDhwYLcs1jFkcISKpuYIFnyIeMPslES623fej0Jf7gKQ9lE4zp9q_QPgPkOq48u5V6_Fm7kYQyOXG-dA_snOz7iVE8q1ObGuV0L-rkn4VM8PagJ54aVODKcfW1dV8rHBAFEirZXt5IyJhVv8wtF2emgAmlvOW4xvKaxGaS5EE3tuN8ELqwZo0-VejwN5XWI1LD26oEFWe58OtQ7zr4-RVUpHC-RoNkpctDmVo_W2DemAxfvAAiqFWfRf_LrfS4UNKtcQEGpSUb5328orhaTGr2ANILZV7rnCtxZHPYsFdnRCFFqd5gfAj4n8PvxDxQ5h03Xh_7WZa3Xb9UNI8Jg9lS4vYT4eOwSY9caxf3JJVBcOkYMxVtDK__tYQzqlQ8o7RV9n2sekBa8Rjxgkm3Hdf1qQPjnpgkbNz38fgrCM0SClEjrEmHKniIGKo9u6jRH_vQxM8TPXD5cNCD4ccAqwURusy7HkMHpuUxzKsBqXbjbYHoRrksHt9eyH_IOFnpu_EiDGxjKQq9bLyhCGCuN7DPJ_je79Bm4yJXK2hbd023EPl7eDf8QdniSA4eU0VElXtZ3h41_Zg8JQ7Y3FnOKJE3obQTQzU--HEaUhZ0bUI6wb98CITvy1QKjGzLoxrJtM4Z0WQzzguZ8.%26bt%3Ddbl%26ch%3DAQEAEAABABSNqT0s-sWhU3RZhAFmJjVhNirKTUx-FJ4.%26v%3D2%26mac%3DAQEAEAABABTlyzzH-lcakifzU9uThVM4vspxqoFCWl0.

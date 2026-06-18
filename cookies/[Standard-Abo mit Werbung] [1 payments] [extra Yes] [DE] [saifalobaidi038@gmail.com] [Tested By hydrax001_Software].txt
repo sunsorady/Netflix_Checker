@@ -1,0 +1,32 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Saif
+#EMAIL          : saifalobaidi038@gmail.com
+#PHONE          : +4915731804277
+#EMAIL VERIFIED : Yes
+#CREATED        : April 2025
+#COUNTRY        : Germany 🇩🇪
+#PLAN           : Standard-Abo mit Werbung [HD] [Streams: 2]
+#PAYMENT METHOD : PAYPAL
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-12
+#DAYS LEFT      : 24 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:39:06
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1807899331	_ga	GA1.1.789365077.1773339331
+.netflix.com	TRUE	/	FALSE	1804875335	OptanonAlertBoxClosed	2026-03-12T18:15:35.720Z
+.netflix.com	TRUE	/	FALSE	1804875622	nfvdid	BQFmAAEBEOtwgyPU7nLjT7PmDx4ihOZgzyCBO-3DMdhra99EgqsQmHDfbtIlrA26z5ABXb90tu1RID6AmjbFL0p8AJjADbPyc9RRLRw4W207tD6avpvb_vuweyL_lNS7O_IEdRbRS-bNmQ8yFd_7433_btRKEzDD
+.netflix.com	TRUE	/	FALSE	1807900095	_ga_97ES2RWR2T	GS2.1.s1773339331$o1$g1$t1773340095$j59$l0$h0
+.netflix.com	TRUE	/	TRUE	1808065971	NetflixId	ct%3DBgjHlOvcAxKCBGGTnFE0mLxKubK2-4nX5R4kBl64ojC3LhBOX6qhJEAJf6_42TTKjef6_kqnWf4I5h8C3A42k1Gb1lUDr42lvS9n8lg-zdX_kFXrbh8zBgVI7R3DPQgGE-LGixfzSXYGXEukhOIvZzisQFYLnbftM_sC2s2oyxOphdit42x83kfICX1kl_95z5Ir8IS6kE2OaciJwqsZpTWHojOjMP0ANdkQJsbxLa3YaytbOo730OdQdiV4HTNv4HAY3JO1nD996fUEIBZLjQizmLa9o1B3WkXPfoU7iyZTq406qHHC8Bxv6KD5RhGSXVH61vKIg-rXtsAnvNLTTUKI6WA4e0PM6KlXJD4a-WqapFPsnQuVCDxQtLCRtM-Puzg9zRepn5CGN8ONu3qWd3rimzIiaBk7kGrrYVNY0K4-IBohII7By2Vt1eDVyXorPBL0hjKYXMnrWXkcWxK8v2U6EV36brrPl1ipG9RkXhdkhYyMWcMdsXnL_Z_p3Hz-tuvM8jyt9l06VSSUZ4YLWMTHxxlTLS0CA8E_tFX0qwPgjiTGUOOwSC9DB6TcR3xHNm4zAu9tSaHQdfJdblppebxpdJ6CgTk13DFVdDd1zhmB9cwVQ7h9jkpLY5gNE8Q6qQwQjjtvliJcydJoUK-JzYsHJuT09NuG6P1cQj6C1B5JVLBRws0Xo33Qm6YYBiIOCgyHPVkScM5LXhneCs0.%26ch%3DAQEAEAABABSeNjmgRQgS6CepDK27OKttCbbYLMGDfSQ.%26v%3D3%26pg%3DYJ3Y7LGNJVGZPKIW6U23HMVEKA
+.netflix.com	TRUE	/	FALSE	1808065970	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+18%3A32%3A50+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53f13571-2e2b-4e02-a673-6977ed28e17c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773339336141&geolocation=DE%3BBE&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1808065971	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRadCZYTSd4DQJ0lTFOpA1SHC3ULkCtls.%26dt%3D1776529971544
+.netflix.com	TRUE	/	FALSE	1784305970	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784305970	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784305970	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

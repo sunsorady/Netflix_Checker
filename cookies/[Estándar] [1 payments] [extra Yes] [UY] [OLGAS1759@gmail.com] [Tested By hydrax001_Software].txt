@@ -1,29 +1,28 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Olga
-– Email: OLGAS1759@gmail.com
-– Country: UY
-– Plan: Estándar
-– Member Since: agosto de 2025
-– Next Billing: 2026-07-05
-– Payment: CC
-– Card: 0041
-– Phone: +59897913648
-– Quality: HD
-– Streams: 2
-– Price: US$ 16,99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Olga
-– User GUID: PHZM36OAYZEMHAJR4YMJJBCMAM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Olga
+#EMAIL          : OLGAS1759@gmail.com
+#PHONE          : +59897913648
+#EMAIL VERIFIED : Yes
+#CREATED        : agosto de 2025
+#COUNTRY        : UY
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : CC (0041)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-05
+#DAYS LEFT      : 17 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:02:06
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1809372236	nfvdid	BQFmAAEBEOZz1f84EdTTFAJoESVEpvxghm_YJ1P056xWR7EwNvEiWXcc791ojh9cgYXsNR3iEevQc2hvbHDpt_5FSDi_ryJ8b28nK4NXokjASNLN8AJbkdZ_CRV9b7unCaCFNjb6C75qsR3Q63HBzsek7HVvVUfJ
 .netflix.com	TRUE	/	TRUE	1811774246	NetflixId	ct%3DBgjHlOvcAxKLBG0nFXI8L3vy5EY_75UYIL2rtjSlOlPUZLg3YIKJ75R4m9luSdAtOeVqQpLrZoCXzkYjbxowIMtY7C1vnJlzS_Xm5x_z7UfDxtrrB1l_OTN0FjYvmYW9ui7cuh-VWh9GR9P7VFJCap9dI-iEXmY3PTdD2yeb-Vx3-tmZSebKW0InWpL9Xh3IiTnN9kwXDlC2WIurvSuOHg7aTrTGoUt5QedV5ZMRJJXrwfIu4jU4wbaVauKJiVstLuJMEq-vLQOYI6mjuoQC2he4x5zEiZf6lfZTBgnHpBzTOVvGpT_j1T0z1_AQ2bEPCssoO_ulDGilCe-HxoXVGzYLD7y2vrR2cPk43zbeo0EDfbn79LpTiGzG2EaeFpB_tYZN1tnCTPxdzZXOjP6cezoVyIDUQMBYkSkY3a0ne8qyzyw9G8fsAssa-DKwB2Ln8bZQXmNX8uFmktOruuicN5bShG8MbUQ0OUYYR-fiBsd_I9yII80TBV6t148T3lJTXGFMV8h0axmeZ4TJaFESxdwUPx8AX9-sjk5VErkxZW9f665Y7ejMERGm5tbCPXDptHJ7Sp2_jrb_CUtMqRLST7XxNDvPZq0fFFSxjhxy7AuflJ7UWgnGegCdkNkymbAq_6qYk3CWAdMP9IjoEug9yOnJz2-AC9vGp2y0sSVe2283TM9OGwv_hLJBysYt0C6zpueOpWwYBiIOCgxzVJsoPrTnBM4LMqI.%26ch%3DAQEAEAABABSbrlKHlQPIAnELAnAnu6B9jTRnAqMuT5w.%26v%3D3%26pg%3DPHZM36OAYZEMHAJR4YMJJBCMAM
 .netflix.com	TRUE	/	FALSE	1811787430	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+15%3A17%3A10+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1680b928-8085-4866-a40d-76f86b83e9e8&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1777836176738&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1783897916	gsid	af9d9aa3-d958-4571-a05e-09cd42048930
+.netflix.com	TRUE	/	FALSE	1788027430	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788027430	netflix-sans-normal-3-loaded	true

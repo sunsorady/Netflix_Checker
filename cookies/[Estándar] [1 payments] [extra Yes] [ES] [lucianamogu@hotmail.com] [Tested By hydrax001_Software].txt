@@ -1,30 +1,33 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Luci&Juan&Noa
-– Email: lucianamogu@hotmail.com
-– Country: ES
-– Plan: Estándar
-– Member Since: marzo de 2017
-– Next Billing: 2026-07-10
-– Payment: CC
-– Card: 7115
-– Phone: N/A
-– Quality: HD
-– Streams: 2
-– Price: 14,99 €
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Luci&Juan&Noa
-– User GUID: HRV2PVANXRCFPKAMQX5FNQ6TFE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Luci&Juan&Noa
+#EMAIL          : lucianamogu@hotmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : marzo de 2017
+#COUNTRY        : Spain 🇪🇸
+#PLAN           : Estándar [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7115)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-10
+#DAYS LEFT      : 22 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:15:51
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1809808231	OptanonAlertBoxClosed	2026-05-08T20:30:31.787Z
 .netflix.com	TRUE	/	FALSE	1809808283	nfvdid	BQFmAAEBEDMVF_WPtk21CjItfreubFtgHGQvJYhvNkgVkVGk0z_W7Gn1xYZaPfphf5tK4FgKnDLQ4zHOIHQog5F687FsSbMNc0xlJigOuLiwTU2UPJUuiOBpWc7gpKgRuUSRgAytKucUTrH-OnsMWroinCf754uT
 .netflix.com	TRUE	/	TRUE	1812233545	NetflixId	ct%3DBgjHlOvcAxKWBKWO3XSPwL_XKdRU2aDV9eY30Pz5trRgZqU7SVE30yVl4NRgar2pmPcpP8LRfy4PbnZAO_k8DXPHYvgjqJH1wShAQ8zAdjCt6uqkxYScT0PH0axsNY6jisLsq2VloJt0pjCslhTbQjvS0JPBDiFOtOrgNAYFT4U05sOPKOcal0f_gKNFQc3EXOCunvjtcKrRJTV3zniv6cRdEca-ajljt4h78xXzVlYowpDTERXMQu8eL3RM4HTNH2I1pHraWcEDXm6R2I3zPFpT3QAuwE7yCkse9cHQSOoEdtXrqaSElvY3PK6TN_MWIuX5GBN8qmPip-2ZFaEzZsTci0qy6BK4FKWz3HsFox5b3MAUevjY1xWlXe-yUkGUcXqlt5F7AJ6SLE3BffpiGZPWJ3JOOGuNLqbmdyIehDE7KFW4-VQPiOYONB4kx6B_5aow6i5Iz4LshC4t0pRXev2pVw9JB3jZhl0_u3EW9mMh5U4h7mS4F_SdWcsgI4hi0t8NwNGaZoPiDGztKkAQQNiCmmGicGFtDDOMv0TN7ecscKZlERxyJ4Kw5QomakPTcmZAS1Wnr1xhmvMjdLlbnhN-eejC6xzOHsygHrhzMwKyINBk1t0CxwM7zr488igf5pERNEUXwpPakEjUjf0RZSesiSVvw4XNWurN5tIaQCJrhx1djHlhvFdrQ_Z-M-R9IwU1r4owyUKQzu7lqXO4SxgGIg4KDAdy7ldTnC88AkIzNg..%26ch%3DAQEAEAABABRJ2jzOQOmrcV6fVxKe9kZk2dB98ecAIIc.%26v%3D3%26pg%3DHRV2PVANXRCFPKAMQX5FNQ6TFE
+www.netflix.com	FALSE	/	FALSE	1780783945	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
 .netflix.com	TRUE	/	FALSE	1812233546	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+00%3A12%3A26+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=e849cf20-d63e-46e0-8f63-06676f5e6de1&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1778272232137&AwaitingReconsent=false&intType=3&geolocation=ES%3BMU
 .netflix.com	TRUE	/	TRUE	1812233545	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXbRpAGYT5T4j74e4S6NUG0UhUTRl-u70.%26dt%3D1780697545562
+.netflix.com	TRUE	/	TRUE	1815257543	dsca	true
+.netflix.com	TRUE	/	TRUE	1780783943	gsid	90dcb9b9-4052-410b-93ca-68c9bc486666
+.netflix.com	TRUE	/	FALSE	1788473542	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788473542	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788473542	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

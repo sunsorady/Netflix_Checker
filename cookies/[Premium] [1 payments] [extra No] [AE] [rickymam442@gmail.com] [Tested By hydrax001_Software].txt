@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Abdul aziz
+#EMAIL          : rickymam442@gmail.com
+#PHONE          : +971557236363
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2023
+#COUNTRY        : United Arab Emirates 🇦🇪
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (2071)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-25
+#DAYS LEFT      : 7 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:49:50
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1809541061	nfvdid	BQFmAAEBENrikJC0fcJKIs5Ik-XDrotg07eXtoWs6gMlvH7sByFse2ypl7wniyfrNV9Y7iGh5MXzeVitCZSADXVJpeGRoqS2Rm72V3sqjAluFvLQ-1RIacxLvHo6nx7ttTxxHY3trBwyFx3niFzW4K68j6neVyIA
+.netflix.com	TRUE	/	TRUE	1811338466	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA_xea8p6n70blnFNOUWWRGJQ_h4CWR-OfJc4N9lMQBVGuI1LvFTQQDIL5iZF7HsJmvxqqDaNcg6AzSXYORY_lxqGYdLoL7A_MqT7zEdzGpQ4_BoI0gbM1CIYZZLxoTeMOMUd87Udp6RB7fU-mCQdOlPx7tIblZnH5tg33W_ld9FgmMNTOvmKeAc9qLzXePBcKrvgsvnMsPRJfZfoF1_kdXA3lwCm7fc_7XHFYT9bbRoudwB6El-elp0kenmyTud53Zu86nJgJdTJi6E_tXiDIIwW0q9h1iuMXribmCYZmnKSu1lYZ9S2hDGbYr6tV7tJzMiHhaxVpxqTcUKN8XnOQEj-3lvZjdjwHKfi7uFgSEuU6dSyurMaXB5Y2epJusUljl_TgviA8B7NjffWcPyD7oTyykmrFNWHAFlppU79KMA8EWLhYm7AP6-QMVD-h38X2NJACa6r7Boql4-Pkbb4mXDUSXnthMn9I1yODucKscs_F7SVYdCd-e1cnCxRTFOhDHxbChgZnb_Kp52TnNgjhLf_QPE8k6dVLSOtBS4POxgGIg4KDFkJFqFA0Cqmw4M-1w..%26pg%3DGGJADPZN5REDVKSJABBYUYALXY%26ch%3DAQEAEAABABS7YxGQd27pnh4ZgzdjcNGehB_tQQi-Qmw.
+www.netflix.com	FALSE	/	FALSE	1812320339	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	FALSE	1811338467	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+17%3A34%3A27+GMT%2B0400+(Gulf+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c65c5e58-2f3a-4082-80f0-8a3c1a074435&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811338466	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS04tbvy1qf4jsrj6f9LD1BELWojfyGnco.%26dt%3D1779802477409
+.netflix.com	TRUE	/	TRUE	1812320339	gsid	5e4d26d2-b875-4bb6-b2e2-6f8ed771487c
+.netflix.com	TRUE	/	FALSE	1787578467	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1812320339	profilesNewSession	0

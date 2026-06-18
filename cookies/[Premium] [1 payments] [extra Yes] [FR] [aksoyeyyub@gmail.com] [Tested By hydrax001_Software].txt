@@ -1,30 +1,31 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Eyyub
-– Email: aksoyeyyub@gmail.com
-– Country: FR
-– Plan: Premium
-– Member Since: décembre 2019
-– Next Billing: 2026-07-08
-– Payment: CC
-– Card: 5560
-– Phone: +33769828877
-– Quality: UHD
-– Streams: 4
-– Price: 21,99 €
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Eyyub
-– User GUID: 56HTOXX4QJGDLJICLNZL2FS5WI
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Eyyub
+#EMAIL          : aksoyeyyub@gmail.com
+#PHONE          : +33769828877
+#EMAIL VERIFIED : Yes
+#CREATED        : décembre 2019
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (5560)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-08
+#DAYS LEFT      : 20 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:30
+#==================================================
 
+.netflix.com	TRUE	/	TRUE	1811418133	dsca	true
 .netflix.com	TRUE	/	TRUE	1810389829	NetflixId	ct%3DBgjHlOvcAxKFBEPj9Shqc4WL4M7EDDVPk0Ebg-YEkp6QxIurTuAjJd5t1KCjBiTCs2rQwNb5v1qMO0lIxwa2ZDrzeS1XDSZH-_iXLXks8eDdmf-WojalECFzsgqjz2AyUn4o1jePlprfhyns9EvjQShyMw8hx2acatuMETToISWl_QQOMcP_MohzclgN2gMf8DfWjhLsVnAJwIHb_SLhWg_FiPV__-R_X-fohzlE0AwIoaDVqE7X5s_TZ1GmuxB5C2kClbjgVhYQ-9XQliOthpCAwhrHlVFWsK6uEFSgrwseHIzR-jkfqXtWYrOu3kcGb5kmXR37SOGN7cNDuUO_rdD5EsgTTFggGazsAnZXgA99kzFgaU8TSI5VQZHIhut0AopCV-KpXO9pkruVukkjWy8QAyu4e4OPInw76sAt_tDj4Nrkm7EwsoRmXMX5zsCsb4UsrQLCOcj7ojeT5doQXzHfMdis5BgC62QM1Cu3iSys2J3wYDiQ9khri1DWynRKIYk-GFhlHIvdubD4yhSZ5hAXMU14BSvri6KLHza9kPuCl-hkQLy-H5SJ7Wg-LLKba0l676IZ795mA9GByRqGs4Auj9029U2uwLDPWyd1acWhTR-yefrcZQwI7UiN3m9A3tKlXwsCmAptor0KSDY71mcNVBWA-b9SV0EcQlWIFA06nDxY73sPVuRhwGO_WGwYBiIOCgw7mASAwyii1TlxrrY.%26ch%3DAQEAEAABABSSKXdujvE-kR4Fpucaz-SfBV7srLx3ahc.%26v%3D3%26pg%3D56HTOXX4QJGDLJICLNZL2FS5WI
+.netflix.com	TRUE	/	FALSE	1810389848	OptanonAlertBoxClosed	2026-05-15T14:04:08.017Z
 .netflix.com	TRUE	/	FALSE	1810389848	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+15+2026+16%3A04%3A08+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70916ecf-c853-4788-a83e-67152f5bae9d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BARA&prevHadToken=0&isDntEnabled=0
 .netflix.com	TRUE	/	TRUE	1810389829	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfrFLsShusxprHWa242kh8vGGqed076qo.%26dt%3D1778853825241
+.netflix.com	TRUE	/	FALSE	1786629831	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1786629831	netflix-sans-normal-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1810389829	nfvdid	BQFmAAEBEJnP3hVJutqFarUDbdBWodxgg1zFX5TbZIpbBMZ8S-PH7Rs1o_2l0QwAulytaoUqcixfL6UZnR2uzr2RgoLpeTlxxoJPM-qouXO7rXYjEjkT5qhQoGDoQpCs3PzWpr5RF_Cai41Sv209DcCCve3or3ll
+.netflix.com	TRUE	/	FALSE	1786629831	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

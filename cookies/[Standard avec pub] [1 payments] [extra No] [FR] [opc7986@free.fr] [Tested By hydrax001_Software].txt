@@ -1,29 +1,31 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Doudou
-– Email: opc7986@free.fr
-– Country: FR
-– Plan: Standard avec pub
-– Member Since: février 2019
-– Next Billing: N/A
-– Payment: FREE_ILIAD_BILLED
-– Card: N/A
-– Phone: +33622442261
-– Quality: HD
-– Streams: 2
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Super maman
-– User GUID: 52LW4MAQ5RF55JTPJTBC2LN6GU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Doudou
+#EMAIL          : opc7986@free.fr
+#PHONE          : +33622442261
+#EMAIL VERIFIED : Yes
+#CREATED        : février 2019
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard avec pub [HD] [Streams: 2]
+#PAYMENT METHOD : FREE_ILIAD_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:21
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1811964326	OptanonAlertBoxClosed	2026-06-02T19:25:26.733Z
+.netflix.com	TRUE	/	FALSE	1783982023	flwssn	e7b79ca2-9c24-4742-abac-0dc734d44c4e
+.netflix.com	TRUE	/	TRUE	1783982023	gsid	889366e6-2848-4c80-9932-89a5b4c0b024
 .netflix.com	TRUE	/	TRUE	1811964579	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA7MUq10UWYXibTPcczGvNVDe74WddnUK7D4XSzQ_tdkBjPTM9TsKk4cYToMu3WLs6BHlaMWYUZHaBrlPbLbcKQGLy3GAvb2WRqXrP9CMOav7D1kWDk2O6cvkWuZAQ-pP93aVt-MOlUw1CifrV_EMpfb52OXP5vWreS-OoWHlPyAAtUrVZGNgQaNbq5yc072apE_bmgFcrcAf8280WTTJUM0bNVqY1o-EXvJTiCx-ht2SmYou4eocV-WHFchQlaRtRGBfWX8U53wu3pLS7xkypB6QL3tUnpFhYlyjJ8r48IQhWP6N0j58Er3Cmvd01B5Vv2m_Zr704scHzUnISZFsckwXy3bAc9Z7SZu-LzQs9NHFsnyHeodb0T2URdPzdLzy9Jo2Wm63wG5m42vOm_rpFHIyMkSapO-dw2PUpYAKwcxr2aT_tNZ97QC5uaNa1srK5JCiI_qoGG1ruu5ibU4QfZyLtWvC7y1BNU5XTYQUHnFCtfe8GIJ3HjQ7NkGvPxoEVWktrMMK_ZCf1aOojWazJFX623qZinWFiJ0bT8sYBiIOCgz5gsYpqPBgyCdcCgA.%26pg%3D52LW4MAQ5RF55JTPJTBC2LN6GU%26ch%3DAQEAEAABABRutgor5MHq7bMPmR-Byw6kq-nZVVIEdek.
 .netflix.com	TRUE	/	FALSE	1811964565	nfvdid	BQFmAAEBEDdpW6u_SU5MhGyLkz4H1oNgVWKXYdBKuq7GaX3DTyE3X1jC25L95YzKerph7jCRfEqIz7VyB7p7MAydaeO3B4x4ZgMdHl5IHB-6UtnfaYJ3iybRJ81qZPmK7rRREylfzq8fdeTh9BMMVKJ5TlQS9lS1
 .netflix.com	TRUE	/	FALSE	1811964581	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+02+2026+21%3A29%3A41+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=562d70ec-0a24-422a-9458-a6116252e2db&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&fclco=&intType=3&crTime=1780428327085&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	FALSE	1788204581	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788204581	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982023	profilesNewSession	0

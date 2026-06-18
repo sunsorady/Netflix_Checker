@@ -1,30 +1,33 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Ilan
-– Email: stephanie.bonifacio@sfr.fr
-– Country: FR
-– Plan: Standard
-– Member Since: avril 2018
-– Next Billing: N/A
-– Payment: SFR_BILLED
-– Card: N/A
-– Phone: +33675041277
-– Quality: HD
-– Streams: 2
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: stephanie
-– User GUID: W65GTOPV3BBNLKREGWV5Q2Y5UE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Ilan
+#EMAIL          : stephanie.bonifacio@sfr.fr
+#PHONE          : +33675041277
+#EMAIL VERIFIED : Yes
+#CREATED        : avril 2018
+#COUNTRY        : France 🇫🇷
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : SFR_BILLED
+#SOURCE         : Netflix
+#EXPIRE         : N/A
+#DAYS LEFT      : N/A
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:39:02
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1782739805	OptanonAlertBoxClosed	2025-06-29T13:30:05.888Z
 .netflix.com	TRUE	/	FALSE	1782739887	nfvdid	BQFmAAEBEM5mHqbLZGAHlV-zJLwPPXVgPl8oRy4KDpFZbE2F-hlCzTm2H12zkZngOvPF6SzhLeTgYkX0LPdT4QaMgwvwMibO0y6OtIsrqoHuiYkVL49tLJLnvXe_gAueOZvA-NSCS5p51iWRYB7eoFDRuVgJOhQj
+.netflix.com	TRUE	/	FALSE	1797882940	dsca	customer
 .netflix.com	TRUE	/	TRUE	1812327884	NetflixId	ct%3DBgjHlOvcAxKCBCwMmbIvvxnfmrsZ-mQLHQli0fpX--pws5iIDk7XBhV5V6Zhu_1DrfdudRetlaZJB_o2rI0QslnRWx3bQp_7M1CPaUWmDugXUR-00PrRe20UFpPyyWi_-PBxb_dU47RbEkMSL-1quyWjP_9-erpSOKXX0x7X9Mxew07Whxd9YnJ3V7MfFphuYNgU3IJu4RjtVrwNaW_kXrMVZ0DhXOMJKyTDaukHq6qxUuYz7xPXJro9Pa3SdNLA_-khMz1RMtjGlpUII4sO4PU98fI4GfoHoRMq9J-Ec-PPwOgaf16-hk0k1VEoXqD-7G2f79rGEkYWto2kxRb5RI2nty5KJE_KVKk85jOFSuCyLKqY-wO7Xai04Gp3b_UUVf1V9fqt2TzrLkXdzWP1T8_YLou_WfM538NCGAbyXlSeREaxWaWC2l12_NP74pFy_kVuVZZsEDsIPNpp9zJxVWITT9ZuiI1TEIGZUtheu24lUZfY_3Jul2yWqSbPyw3vluPUiixMiNZ6dYYEDxLsxr8PLhCucsdZjWbfqL2xSW0nJ5En3hS4nHG43Rlo93WyV1lW4MrSrJU7Vh63jt6fBiJWEkWeTTeKoS2xspDQ42v-dM4A1ZRqtigMGcxsf1-9RUomCSTTer4j5cDC1Jd5eFxXe-plVw7bH74Ceyp62bNUPKm0OmAb2UDzzBgYBiIOCgxw49q6EdXZy54AUU0.%26ch%3DAQEAEAABABRZCSWreUS2wHnQ1Uj9BTacnruQT12LXDQ.%26v%3D3%26pg%3DW65GTOPV3BBNLKREGWV5Q2Y5UE
-.netflix.com	TRUE	/	TRUE	1812327884	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5kWYJ7eHkz2xMtk9FmQvjdCwwrSQNLwo.%26dt%3D1780791884135
+www.netflix.com	FALSE	/	FALSE	1780878285	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
 .netflix.com	TRUE	/	FALSE	1812327885	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+07+2026+02%3A24%3A45+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=50cf463a-4721-4753-ad98-008d623c7b60&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812327884	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS5kWYJ7eHkz2xMtk9FmQvjdCwwrSQNLwo.%26dt%3D1780791884135
+.netflix.com	TRUE	/	TRUE	1780878284	gsid	59b1306b-c4a8-4ed2-88e0-c71213034412
+.netflix.com	TRUE	/	FALSE	1788567884	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788567884	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788567884	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

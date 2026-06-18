@@ -1,0 +1,31 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : main
+#EMAIL          : gaharam649@gmail.com
+#PHONE          : +821038213125
+#EMAIL VERIFIED : Yes
+#CREATED        : 2026년 2월
+#COUNTRY        : South Korea 🇰🇷
+#PLAN           : 광고형 스탠다드 [HD] [Streams: 2]
+#PAYMENT METHOD : KT
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-22
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 23:10:17
+#==================================================
+
+www.netflix.com	FALSE	/	FALSE	1779698825	OTSessionTracking	87b6a5c0-0104-4e96-a291-092c11350111
+.netflix.com	TRUE	/	TRUE	1779698823	gsid	e1afe622-e5fa-459f-ae3d-10f1de9015cd
+.netflix.com	TRUE	/	FALSE	1811148453	nfvdid	BQFmAAEBEBDZj2_4NDsLJP461kY0eMRgBu5dNffHtCIDvybluMPEEv6bdnSf-rG5MbCTgVUHA9XdT_zh1UJ4TP3TIE8TWgTXExgVk3WXa_0JA9Vwga4TQkupOpnfh1XY735MkmVHiAXJ_08Sh3gXQc_OLO4H-WY5
+.netflix.com	TRUE	/	TRUE	1811194005	NetflixId	ct%3DBgjHlOvcAxK3A2KMXvuErrMMfJAXuKO9T4jTtteXE1bZAGwt5jT24rMEBeL6F8RM7eO_T3pfknotQUMR5C09JSd6w2_xUwhem_7CM5oiQ2m6OFuiF-3xDadm-zjz6F9uDS-8-DZQglPzj5_Wgq1jGn3kMQ2FofdCClGblkxCeyarsiJkMi0xM4ctfWbA4KuQt9KOaRheVWgJjpH-V-4AqJIE_Dg99FOsheVY0jyMtaznxA85tz5TSBIBDuLIMdCn3yZR787t1R8w7tkTjQf8IJnDWjkVMTHB2kWzfxjOZLPEw-N8HI27nIJHqfJsSi3CVIQK7UjfamhNyDq4qB-wElRZbLwE4oe7WxrlCBJxErXgbjAXQ2uh6cYcMnjlGjgz_tebmYecj0kLYJG9wGpPEESDKhrEUGWil54wpD7ee886JIAuRO1UDryUq4RJ1uron_bvrDX5N33KnldJRx7KL_Rb6aGTUcyvktk7XZDlf26SWGf5TpCk9hYVylh5baWfLbKnGQoQNNFYEbETjPjOehpt1UT968ZgMgUMFoNVIe7T8cARh_xVP3qyIYSNuhOaO1mz8NfmswVM_e7OsmJc88AYBiIOCgwl6YV9YWd1-tYWV3o.%26ch%3DAQEAEAABABT9oxNjhEutf-RN9MuU-xCqRo3gPnjmZCQ.%26v%3D3%26pg%3DE3JBLUFTXFD35AFEUC3RD4KCEQ
+.netflix.com	TRUE	/	FALSE	1811194016	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+06%3A26%3A56+GMT%2B0900+(%ED%95%9C%EA%B5%AD+%ED%91%9C%EC%A4%80%EC%8B%9C)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f605821e-111b-4719-92f8-c10fb2c851af&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779612430163&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811194005	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQt1w4Y84XrPP-RRxdfbdOe4BJOXzt6lLA.%26dt%3D1779658006045
+.netflix.com	TRUE	/	FALSE	1787434015	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787434015	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1779662896	profilesNewSession	0

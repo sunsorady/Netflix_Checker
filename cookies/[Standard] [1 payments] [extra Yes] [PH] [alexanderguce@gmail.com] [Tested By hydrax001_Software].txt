@@ -1,29 +1,29 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Alexander
-– Email: alexanderguce@gmail.com
-– Country: PH
-– Plan: Standard
-– Member Since: February 2025
-– Next Billing: 2026-06-21
-– Payment: CC
-– Card: 6387
-– Phone: +639165258776
-– Quality: HD
-– Streams: 2
-– Price: ₱449
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Alexander
-– User GUID: 4QKFS74TAJB5HLKERDWWKAMNHM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Alexander
+#EMAIL          : alexanderguce@gmail.com
+#PHONE          : +639165258776
+#EMAIL VERIFIED : Yes
+#CREATED        : February 2025
+#COUNTRY        : Philippines 🇵🇭
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6387)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-21
+#DAYS LEFT      : 3 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:53:31
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1806643967	nfvdid	BQFmAAEBEOY6QPXIhkDGgoucBaMhNUBgulLBi-q5A5gvYKXNQBK2pF31ojxD5TVlbbXJ1qUDaedJMZnEhrX5ZhshWg4A5E_qdIYKfyvy7kfKZB7WZDpkuB0NRZiLzpznrcn82fBLkoT0tFln4TqXKoSh67rw49rR
+.netflix.com	TRUE	/	TRUE	1783982024	gsid	63d3ebd5-3dcf-463c-9e12-bc0cc3e240f9
 .netflix.com	TRUE	/	TRUE	1807021228	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA_ho6OSmRkkeffJs1aMMUo23ZiAxxzhgECAARDcab_cXKSKHOKQqSiaJbP70hjKWelQ7JYOP7ytPVBg7g9KvRu1tQYvaRBbx1ISIXF9nRJiIuBxuCsULIXViOXZtEckFlcjgwSEqE8YA1oO2mcOB7joHVVDCmZAe-sSaOqknmMa5kviCWStxLoIm580aRBjPcX7rg-ikgz7aE19EYoAde2bW7XSxonm6zCi0n59MTJrtOgcN8veNgpN28KTv4udzq0g8sek7pRosQPHbCaJ3SZ4XO83tezfUODpXmwpNbyZv2K0sg69B-KLWMoXFmFzom7sEOfb49eap2fvkbX4CR61-ijyqC83cVlZvPbOHKN-LtpiE1UzN-4Dg6iCFOzzMm29fJKYdeTDdIkZY9xNyoXY7NrWLbjuHNcyx9OShqsl3OhgInDLavy0vAeok-w7uLNu1tibboqf-boqLrMxr-DKtw4VZSF9wVIvw6XUnlSsdimG286F53I_Or3atDwUV25Uq5mnb2GBOpABjYyGFicDgq-gf2h3zcv_7CxDtGAYiDgoMJlT5EMslUlIZ-r7D%26pg%3D4QKFS74TAJB5HLKERDWWKAMNHM%26ch%3DAQEAEAABABTpaxhGB5N9PSiIsPPu918K1LWG4cevr_k.
+.netflix.com	TRUE	/	FALSE	1783262528	netflix-sans-bold-3-loaded	true
 .netflix.com	TRUE	/	FALSE	1807022529	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+06+2026+22%3A42%3A09+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=86672016-eea2-40f7-96b4-a38542dadf34&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775107962485&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783262528	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783982024	profilesNewSession	0

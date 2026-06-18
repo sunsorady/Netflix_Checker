@@ -1,29 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Destiny
-– Email: flordest2@gmail.com
-– Country: US
-– Plan: Standard with ads
-– Member Since: March 2026
-– Next Billing: 2026-06-24
-– Payment: CC
-– Card: 7834
-– Phone: +18062643043
-– Quality: HD
-– Streams: 2
-– Price: $8.99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Destiny
-– User GUID: 4S6NI2ZPPFALXD3ELZN3YXS47M
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Destiny
+#EMAIL          : flordest2@gmail.com
+#PHONE          : +18062643043
+#EMAIL VERIFIED : Yes
+#CREATED        : March 2026
+#COUNTRY        : United States 🇺🇸
+#PLAN           : Standard with ads [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7834)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-24
+#DAYS LEFT      : 6 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:02:00
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1811248898	nfvdid	BQFmAAEBEEPNSG9lHDrcMwUDmicLwoRgVbiGhLW6Eqhml6YGsFka8PBien6VLLjshJhA3xUo-62cpXiHheYupCZjasWYYoB1LidVxuDZK9rtPSFivjWZz-UFxlPhUXqY0ss6jbFGT9YRRtu-MmZNtNoI8x_B8zlj
 .netflix.com	TRUE	/	TRUE	1811784293	NetflixId	ct%3DBgjHlOvcAxKzA40U9wnHjUKQm6CxuKjEdOOyzvhbiYO9Fk_ZYiK-RUI2LN0WAf0r5NhLbVyl3oFIneFuaiG_KyWaoKLwoF6_l0pS2NPo_pjhNbjleK7miiv9cq65akBTsdfb9xSkgCRThHVxc8wk1L-PglBHbxHMcPWUrmGqcsDCygK29WeZFxsLlX4ZdKta2oV_VqND9yE3Gz4jCXAmDGS7J3jfa4e323ilKVmDUUFe2AVnh0sUPInAPe_tHmgybnJwRcR5UW4c2xJamNM9mQ61kHvNYXxzJcsAa9QHtdqZ0lHW0NOeOMj-uvKaRCe2M-53pZLZxVa06oNjjpdnm42dxwQaxKhGcPkRx4rwoz4wUlGFFJ6qpXmy6950eVphqDuSm-CjX8xMu4-44aqHbe5XwK-dauIq8O-hl0LjxunKuMEgurGwqAFBRB1LlauZ-wunURb0E4987GDzt3pwKZUjspKkSjSTD27g2ttOUuMbzpxSOEASipusNragDM0OKNwxUZr-TwAK54cnqOPyC6XNqSaSTKpLASSbX3f0NnLLmOMz_fpsXZdTP1cyFCYMhJ9BdlbHqJwrJb9GuxgGIg4KDC3IyyBOlo1-LAfI4w..%26ch%3DAQEAEAABABRXlrdJ7GMq-XFxyXBDXWTCNs3AMKNsmlg.%26v%3D3%26pg%3D4S6NI2ZPPFALXD3ELZN3YXS47M
 .netflix.com	TRUE	/	FALSE	1811784294	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+12%3A24%3A54+GMT-0500+(Central+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=40044e86-2d6b-4ad3-b4fa-b683f426c606&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1811784293	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7KotqrStBFvCngd0Txpd5VdAPd0NgOrk.%26dt%3D1780248294206
+.netflix.com	TRUE	/	FALSE	1788024293	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788024293	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1788024293	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783897918	profilesNewSession	0

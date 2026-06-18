@@ -1,29 +1,30 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Sam :)
-– Email: sclements993@outlook.com
-– Country: GB
-– Plan: Standard
-– Member Since: September 2023
-– Next Billing: 2026-06-22
-– Payment: CC
-– Card: 6273
-– Phone: +447729261127
-– Quality: HD
-– Streams: 2
-– Price: £12.99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Sam :)
-– User GUID: HE5XSTWNM5AFVIQ45FX36AFP64
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Sam :)
+#EMAIL          : sclements993@outlook.com
+#PHONE          : +447729261127
+#EMAIL VERIFIED : Yes
+#CREATED        : September 2023
+#COUNTRY        : United Kingdom 🇬🇧
+#PLAN           : Standard [HD] [Streams: 2]
+#PAYMENT METHOD : CC (6273)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-22
+#DAYS LEFT      : 4 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:02:04
+#==================================================
 
+.netflix.com	TRUE	/	FALSE	1799753629	OptanonAlertBoxClosed	2026-01-12T11:33:49.520Z
+.netflix.com	TRUE	/	TRUE	1802777974	dsca	true
 .netflix.com	TRUE	/	FALSE	1799753974	nfvdid	BQFmAAEBEJ0vJvhVnfqDPb1_x_z-UZNgkYW2sSzvlU9Mf4BO5Fh3YCWpLsNZnqimW7RaZJ3bUeRp7_0BnJp1Es6ehDH0GtQcU30f5Q0hm1jbwTLmOd32bu1FgxQ0jjS7v-5SB-ae-OpPBIiDW5pFa2Tj8PPiYHxH
 .netflix.com	TRUE	/	TRUE	1811533364	NetflixId	ct%3DBgjHlOvcAxKNBH-WssbvOaUKK6D6NgXTqpta9RqIrKTxgpnsl7ApwugGVAd_FqNAZJrPKoCPuBbTakEPN7lKjf_LqY_rOZ4SY_Ah7SswFqFWx7yZZFj_jdO8W3P_OT2XZ08Ukatj7E2A51hdINJu43m6UmvzPxVy6fyyh1ayYaShvlG962DVQkP67ASMdjnNWAywIa2t1fdUhOx-6d8iPkSAn0B7yNiWsHT_djBMYMCeg32WecqTKyMc_T_OP_8fQxx4Yr7EXWekU8TFq4bwVj1AzJRBm5zGGfivvVsZs8yuXybxDOZ2a_pUKvtQA5ImwZCtwL2DnQlIEpwXkMmNclu-4641jPc9jPPAgGIMnGp2vcwDiPbU2atmzb6PckM5qev4UchoGaDmnG08JZ93s4fwfxQcMpWwPAdhWHnQFguB71vPgFTnHBaK2tRdet9A_0LizrvsHwvJsevbdnDZ9zP9vcBAx3K4n4DwOVTybxQmBbVgiqdzM3AeYzEwFZISLsBqzIu-ndnTmxwV9DpugSd2OaV29rz57UZEAHvftt4cjwgvXYHysVBPpY905XZYAZdOA-0z6p8aefAmPzU7H1aD5HWQvAp57A63ZTszXMQij0SWJFk4V5R_78e3repjCu2M6P96VpRuyq13ytHoAbJs4X7tOurx-OTqLlHVCDMlENaahHHs_Hc0lynLpyu0vSAdGjUpKhgGIg4KDIPiPyOphwicYW197A..%26ch%3DAQEAEAABABTQ7lGOy3nX-NYV21O7JDgXw5fyKCcFYJc.%26v%3D3%26pg%3DHE5XSTWNM5AFVIQ45FX36AFP64
 .netflix.com	TRUE	/	FALSE	1811533365	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+20%3A42%3A45+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77f5a93d-6649-4f5f-98dd-c1369df9e1bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768217629865&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1787773365	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787773365	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787773365	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

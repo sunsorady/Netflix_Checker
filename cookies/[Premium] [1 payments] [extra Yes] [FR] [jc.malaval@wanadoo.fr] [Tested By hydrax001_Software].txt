@@ -1,0 +1,26 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Lachlan
+#EMAIL          : jc.malaval@wanadoo.fr
+#PHONE          : +33673034714
+#EMAIL VERIFIED : Yes
+#CREATED        : février 2016
+#COUNTRY        : France 🇫🇷
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (2348)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-02
+#DAYS LEFT      : 14 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:35:06
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1727021222	nfvdid	BQFmAAEBEKrE01fsSv_2vwOmIQ73n-VgzQhtN2QGwroUjXgzLjvwMZ_xW7RPbNhi9Cf2OCvvHWQWSJuzgULEN1DM4Wg75-vC7Dpz_-R9oZP00a1wecTxlqXvGkrXQ6aFqyZLiI1C4-m0f709rJqhv8vp6E4Snjrl
+.netflix.com	TRUE	/	FALSE	1727021223	OptanonConsent	isIABGlobal=false&datestamp=Sat+Sep+23+2023+18%3A07%3A03+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202301.1.0&consentId=514af9c3-d082-4136-822b-5c54e15a5547&interactionCount=1&landingPath=https%3A%2F%2Fwww.netflix.com%2Fbrowse&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&isGpcEnabled=0
+.netflix.com	TRUE	/	TRUE	1747998166	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTAzKR-PuYeCZCCoWhC2nbZliRtT46Hkz8.%26dt%3D1716462166259
+.netflix.com	TRUE	/	TRUE	1747998166	NetflixId	ct%3DBQAOAAEBEAoQm4jG776j0OaBJ3sHLF-CYIjbAgLXN-8P45tWcLEefDAX58Z056svZwqcuAOIMG1e8mx8Mr79tJu0IvHzHnuC_or3JMH7YGz4sDaqkro6djk64ZUpCTx0fd7a1KNpC-HrWyr1M7egmpdFTeE9EOuxQeUX0D-Xm1XEpoot7V4yK6hDlI4GXiD4pZ-B2KA_tp3Cs52iZuYc3SOfwwuukPBx88W27aD4xFvYCSXzDapIq7lzqUYTP37VDlF1KOKXM7JeJFd2xNltn9-AFgOB2lUn9-Hom4ziw6Qo9MD_PMO9UQ9X7YR7OpNkys0owSvsgPdP_kTabAwcp6S-nmRO9pPJpsufzUZYv6HVTJJCrEqQmIBLeiysEqz7No7TcGUG6Rrm4lhar9aM8bcKrmV4CT7V9g2RHq2HWjaW5VBysLq3uxqh90ji0X77Zg7OJjCEgGW2vqV9WN9rgQ6y7EWOzlItDCL5Ct2XiGU1C1XmRYgTpRG_PsLeXIeyeCxQc3hqIVgaRf1Ma5jeKK8BESjh-0i9sB6ICVPbo9azS0Vkh1q1oqda3Uc2DZATdVaPUTzVa9cQCZgOTs5UYEAztNqOSV5eGnYsBYd6-MRVw3lQPUDYgHjZGiw_URyaBUQO6kCPWuFwkZwBIltiVAigwyFriKv8OLMu4Ig5ogh4X2PySqsID9Gn1hU6LBJnmmcc8lOt3U_EfxFTnrcNg7GrDVptHieRsdFtP6lOB8TRLl780rJjKWV40_Yiriz0kpI07pD9wDPa1k3GysxXnkiSlieC1szHUy_c6gbLxphoBzBI-ToB81GzSkMFfVk9QTdc6QfG8NTW%26bt%3Ddbl%26ch%3DAQEAEAABABTl85Q0ZabXCZN2YsimvdgYliHAua4bwp0.%26v%3D2%26mac%3DAQEAEAABABSbYfjQaAxtIoEt46Sxm56atYa7hPi86Wk.

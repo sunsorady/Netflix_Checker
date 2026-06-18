@@ -1,29 +1,26 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Yuniel
-– Email: ylugo1985@gmail.com
-– Country: EC
-– Plan: Premium
-– Member Since: August 2024
-– Next Billing: 2026-07-03
-– Payment: CC
-– Card: 8700
-– Phone: N/A
-– Quality: UHD
-– Streams: 4
-– Price: USD 11.99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Yuniel
-– User GUID: 3EJMFGQNENA6BICPYV46EUNJCE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Yuniel
+#EMAIL          : ylugo1985@gmail.com
+#PHONE          : N/A
+#EMAIL VERIFIED : Yes
+#CREATED        : August 2024
+#COUNTRY        : EC
+#PLAN           : Premium [UHD] [Streams: 4]
+#PAYMENT METHOD : CC (8700)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-03
+#DAYS LEFT      : 15 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:58:30
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1785801699	nfvdid	BQFmAAEBEC5S7hiB6i8krJtWNzaw6oNgFdgzGAo6aYh1AFxAcIY4m9-SInMlxl4nTOe81Wg3VT5x_uHQKQxoeuR1E8_RehMuMxsQ937uRO6RA0PCUdXcR_1mg_17m1HxHfcgYndsCz0jjWJMCR-PfClbJVedYSuS
+secured.netflix.com	FALSE	/	TRUE	1799468359	tmx_guid	AAzWM3MC2Z1xgekmz6U3LaS8d1MfBeMCcRUOmFoMSoIKhZeJaRhKPm91Wwow9o5cEM7l9ESuhdssaDPEaoD4qQTs4vFG3w
 .netflix.com	TRUE	/	FALSE	1806896393	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+22%3A39%3A53+GMT-0500+(Ecuador+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6164ada2-4303-44ce-b9a6-59aa20f98087&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
 .netflix.com	TRUE	/	TRUE	1806896392	NetflixId	ct%3DBgjHlOvcAxL1AzwPA3NNuRuep-n7_PDks9UkXN63aZyjNZBoymaWXYgvOlhzHvUhFaIZk7pNnMn4KrPvLw8w3OgTMKYohWxwFyakYVjgwZKvxhcw32R5ByJC2e1puEfuysG-5Db6urKy7ujQy4z73lrwa679-4R6ei3Yk5jXMXy7kO00Qn0tuunv_vvT4hpX3BD3FPkXaud7QaEteZRsRZbjjfsMkJnorBif6M6JOFQTcSgAQ8EV60hKFsxBZitIjM7xTH0R6vlhgOj2lsPxkPewDEMc2DSk3stGMTtvWuwQgmR3GEwK0UFgTVAJiDXhEOE78gHfV7VM2_quSf0A7m9QvOjFusogvJdj6N0y6lgDY96bu9W5Qo6buFfyfJXedQ9_mJv_Ht-3WZeuTde5MWAuY2mxqLvC_PgRC0M8jPTeIRNCDkZZWbNR33UCto9e_ZR-QTM-hsSIMtfd2xN5Xr472QtWHCTAbukkiCGflg0KT6s7PHdmBdxurJB4QmOA_4SvL4XD4492eTa_F0TzJZDG73UOgnF3_EL99IFreo1lLHhHbgj2Mo6Cx46BJY1HXnbpDFAiCn7Bz3fppwdJDqgOD9CjsH6349LzyIFJ46M7zVDNpicdIkGgwt8LqXrimqbxfLLpgJ7z2FrauKvIEhgAQC-SVjD_U2b2YIfROxgGIg4KDFUNDSfzOIdNoZLrsQ..%26ch%3DAQEAEAABABQnKAbux03H1NmSGaXtlhiuBml9mIJeLe0.%26v%3D3%26pg%3D3EJMFGQNENA6BICPYV46EUNJCE

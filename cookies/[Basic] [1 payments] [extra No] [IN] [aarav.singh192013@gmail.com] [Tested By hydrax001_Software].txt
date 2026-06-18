@@ -1,28 +1,24 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Astro
-– Email: aarav.singh192013@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: December 2025
-– Next Billing: 2026-07-06
-– Payment: UPI
-– Card: N/A
-– Phone: +918340781622
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Astro
-– User GUID: WPU3YCJ7OBE3NAID4WAJ7KFACY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : Astro
+#EMAIL          : aarav.singh192013@gmail.com
+#PHONE          : +918340781622
+#EMAIL VERIFIED : Yes
+#CREATED        : December 2025
+#COUNTRY        : India 🇮🇳
+#PLAN           : Basic [HD720p] [Streams: 1]
+#PAYMENT METHOD : UPI
+#SOURCE         : Netflix
+#EXPIRE         : 2026-07-06
+#DAYS LEFT      : 18 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 20:09:21
+#==================================================
 
 .netflix.com	TRUE	/	FALSE	1796394005	nfvdid	BQFmAAEBEHndMbFzGFaAd4w3b3D7lR9gFL8q9Ut5WAGPteDvUdTPvI4UFHwKRmkt-602V_Fl7SDb052ipJQX7hRNYnTdli_uZMTBRZcSES8_aLMlSXZ8Rg77TDMJ5LKsoQF0FV3egOH9R89vUZhrL6Ad5_R_PHzM
 .netflix.com	TRUE	/	TRUE	1796483069	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNLeSUBEngvrguCAbbJCu1O1B87lcE0fo.%26dt%3D1764947072833

@@ -1,0 +1,30 @@
+#==================================================
+#NETFLIX ACCOUNT DETAILS
+#SOFTWARE: CookiesSentinal - Advanced Cookies module
+#VERSION: V1.0.9
+#BUILD BY: @HYDRA_x001
+#==================================================
+#USERNAME       : il king del quartiere
+#EMAIL          : cociorvalucia@libero.it
+#PHONE          : +393206074349
+#EMAIL VERIFIED : Yes
+#CREATED        : gennaio 2021
+#COUNTRY        : Italy 🇮🇹
+#PLAN           : Standard con pubblicità [HD] [Streams: 2]
+#PAYMENT METHOD : CC (7711)
+#SOURCE         : Netflix
+#EXPIRE         : 2026-06-19
+#DAYS LEFT      : 1 Days
+#PROFILE PIN    : N/A
+#LANGUAGE       : N/A
+#CHECKED AT     : 2026-06-17 21:32:11
+#==================================================
+
+.netflix.com	TRUE	/	FALSE	1811242182	OptanonAlertBoxClosed	2026-05-25T10:49:42.930Z
+.netflix.com	TRUE	/	TRUE	1811242525	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKrA3gVoH5WuGHB7LRzK4-XHnfPXEnASgww42zFD0AYEH7SnvjmrltyhXvmiu-ZKrk_dc9fz5NpjHqcVwNYHZ2rdXJHDGzrB4DxuucAqVIPzz2K7X0r2G-jtf16hXpGk_H5yYCiDEr1XnTwQ_lrFjggYUVbsMMcsIZilU0s_MobmiXL0OLlxZZMU6jy_yxJTDV20cjMbbKjoFpPQaWpf2EvD0av4AhfD_6Si3ompsc6Q1muzQWh6nfygGR7pTSEz7ZFUl5VnkXRetaTIknNbHEGwZy3DIWBkrzvMPIQtRYBxi5HUozztVxFjlKGmv7P5kJd84E9TI7KQPPJ5s0Ke0VoItC1zE7Gecy3bWXvkLXcHTEHp-qUVIPKMS0s52kGsITKLCXoGgP1ZLjZF2Zmtxdpa_A1sfcqUAn9XTWZZe1n04dGZC7l5g-f6ES-Ao0b9Bt0tj-RIEHl29gZ-62plYRVRhgc5Iizf2t_AdRA_q7ryVzkRsVojN37AF_8y0vgDXnhREXzcqlQBTkHFVSrptodkmqp3ZworZ62OWSVTzla4HslOc1ODFr1WppsX3sYBiIOCgzfUipwxBC_pz1N1sk.%26pg%3DN7UHCCRPWRECNHU346QW56KKYE%26ch%3DAQEAEAABABRhDsKxkznMMEA7IBwlu_8KSAmlj9HQrbQ.
+.netflix.com	TRUE	/	FALSE	1811242526	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+12%3A55%3A26+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=4bc31b24-7a9c-4df9-b283-0acc43b9c20c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1779706183170&geolocation=IT%3B45
+.netflix.com	TRUE	/	TRUE	1811242525	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRbg9yOZwdWgsw3aTaGFb8pF7z7spK6TlY.%26dt%3D1779706529558
+.netflix.com	TRUE	/	TRUE	1814266522	dsca	true
+.netflix.com	TRUE	/	FALSE	1787482526	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787482526	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1811242521	nfvdid	BQFmAAEBEF7MYPzYy02obuJ7V4gU6aZgJ8FtV_FprIdZZCShDcQCEJUd3SuX3KkvLhre9-y5UL1U3y1Dkz-MfE2OnbOcbo5R61gin6BLk9sc5LTw9gcLF6oYcxqQ42hx1bh0qMxe96z-CnvY0GoA_5_OniKjQEB-
