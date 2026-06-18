@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: NAVANEEDHA KRISHNAN
-– Email: alamathikannan@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: September 2022
-– Next Billing: 2026-06-21
-– Payment: UPI
-– Card: N/A
-– Phone: +919840504056
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: alamathikannan
-– User GUID: UDAXXEQYMNAVJJVD2Z7JH4NGIE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1806141793	nfvdid	BQFmAAEBEFU1RgTF5N_VUR5FYcWBckBgvMe_309_zgIKQBfeeoNGtkf3uf994XQBP3HE415tW-mKGoV4jMgygFIjYH92cSfjITdQxHRhe0gWYYt40-9WZzchfaOaBvSmshCoG2iRbYzwvrzbTogBZv0EpczXFa-T
 .netflix.com	TRUE	/	TRUE	1812891520	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQnbHnIB26BR9DKHz-MVMzwoH0xmm-vkyw.%26dt%3D1781355519479
 .netflix.com	TRUE	/	TRUE	1812891520	NetflixId	ct%3DBgjHlOvcAxLBA5EV_nkOBlX0mRzNjnR9cSZ0yTfpAcGUu3yzmckmQvRCkorRAF7iwaBnB3zakRDtrONYgYSZFurbam4RK0HCiMWVWkCo3z31uJQSmp51MM6P-dBSksudPWw264AGQDJg4NQi3ASQeGcGOvudDDJJ36WFQQdbhP9953deBPL_EgxbUSaoJDXIAeufkYJPYhjeqO9N27ZMKSXPf-70krb8Pjh2U4Q5jpAgbKXxuHKT4GOIpLda4JoMzBqNK2CoOOyq0-aIw1Pfw5hh-T9I7zn3PbV3GsZCyjii9U_c3u2OonGonbEBjUVTim1eTwc_wacfu8xj2k-n_rdlwCEQWYBYNoFjAFYMWWFdQoGhqtJvsPO3DPtlQ5ZolC3jGsekuOWaZKlYyl0bXtCe-fh3dcGOeS2ibb_FNvhvIMvrfPdL55WdX1ewPxP4dgahe8aGpGn-HSJZbZ9siLlvC9qfBGiiCwuTNVSPJrF9yPzeubUT-PRj-v0AHevZr2vbApgEiiuQkQP7sHMANsN4f1CCNpmJ6gSCXGS1p2Xsi0j9p5QnQLcJ4zX9Xo55iSQgFeBRG7GAlG07p4bk82SdPpBYKdgD90SNGAYiDgoMSMdiUcvBpwFv13Lk%26ch%3DAQEAEAABABTJpb-4HfdVybOgu5PPGDwc3NzdsuAeQL8.%26v%3D3%26pg%3DUDAXXEQYMNAVJJVD2Z7JH4NGIE

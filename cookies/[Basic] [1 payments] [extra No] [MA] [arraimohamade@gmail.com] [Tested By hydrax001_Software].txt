@@ -1,27 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : arrai
-#EMAIL          : arraimohamade@gmail.com
-#PHONE          : +212609463775
-#EMAIL VERIFIED : Yes
-#CREATED        : December 2025
-#COUNTRY        : Morocco 🇲🇦
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : CC (8108)
-#SOURCE         : Netflix
-#EXPIRE         : 2026-06-30
-#DAYS LEFT      : 12 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:20:31
-#==================================================
-
-secured.netflix.com	FALSE	/	TRUE	1796595511	thx_guid	cb330b6a3c79cee7c217b8581ed8d759
-secured.netflix.com	FALSE	/	TRUE	1801738776	tmx_guid	AAyqGDPPPKaIGxwvKt76O4LZKyfEgArL_oYchyQpuSBlcckYkV98DKASe7TEq1A4QMN3-lUkUGdmhCjWRoseaK344_fl3w
 .netflix.com	TRUE	/	FALSE	1805848442	nfvdid	BQFmAAEBEL-Y7jB9oI2IDu0JsBlPgGRgTO86mMRAZ3div0D1-hRPsSbwTqlzJ94KicgNqBoTS-AU2_BXM33kCBprDwSUOEPcXgaVDoCUHIKiIYb7HsNhOaLCqL97WZuTXhXJMTPFTDu9o-H34dE1p0W9US4VJrSe
 .netflix.com	TRUE	/	FALSE	1810684977	OptanonAlertBoxClosed	2026-05-19T00:02:57.155Z
 .netflix.com	TRUE	/	FALSE	1810703717	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+19+2026+06%3A15%3A17+GMT%2B0100+(UTC%2B01%3A00)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68dcd087-2830-40be-ad5c-f636eb34f309&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=&intType=1&crTime=1779148978519&geolocation=FR%3BHDF

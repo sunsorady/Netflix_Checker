@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: ritam487276
-– Email: ritam487276@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2025
-– Next Billing: 2026-07-04
-– Payment: UPI
-– Card: N/A
-– Phone: +919733487276
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: ritam487276
-– User GUID: XWTNVTKTSFGMFK7QZSWQLOEKKE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1783324294	nfvdid	BQFmAAEBEMxTj1weOMKbsnPggXqUKxBgAkK0UB_LsWFC_uUGBhzyrerhae2TstaPRAnuUhvwNSdHe5CCZqVaoj5zD02n6dAaKrkY2taYWYOpTs3HOEgvFzwzSq7ajUTvWjVDcJyIBBkHGVr_cYBTk1KpHBZ7RpaG
 .netflix.com	TRUE	/	TRUE	1808640607	NetflixId	ct%3DBgjHlOvcAxKJBIufDZ2eIEfaJM5KbttyCs9oacjsgcjC1YBvSXFNqKgaIwY0jglH-FoAvVDEjJ-qgNuzclV83f8eGXTiah46xMUuawvNmXYz1UbbpOu-VA0jIjVreanO8LeoRs1ACpzl-IksrsFtSUZjwItqy3AZ8YE8_jy90BsckV5tdGefVb-bsxq1JUZD39ZcLDHSA1VD5FBtvaVagipJoqXJdMBkBGBCjpYaXB-QCAFjpqtbeyW-Z7OIz0RwcJDrZ7FGeBvT-FEJpgf6K1UDejWY0BcqcFqRYA5ATDZgERrM7UJyh4RYt4ttrWVtKc0rRKUysVeYioXDgN7RQqLvGUyWXsSaaaQ3c_dHL-fbTW_RpD9JyBzi5v3h0jKvUfW7UwbhP0diIgIIBU1vduEmng3IQTxtnpXbgI8_X4h8lmjtO-z1q7DYXSfGVomQyocN-GTZhqIzwLSZQlQ96pgyjW5cLf4F64iW0YOlDVFcT9nSdjnOhGFnwU3zj5IIjKxi0N6B9PIlTinvtCQICVZrf28ReZGAh41arLJfFVsF_SytWFPisKEnVc3IQ2AykMFKJ8yFxaC5ILbCUh3o6FL49TZWt2W9bfjAXpGFSxToyqqXmHHGe9ajTvdf_rTp2W3Rx241Wb7K1SQaezuFgxywJmPCiwkev8sQFF1sNHsIY1iVC4vlex0IFm8BFonmdqPbGAYiDgoMcJOAHtk0P36kfodm%26ch%3DAQEAEAABABRjyfzLdoehL4_bmykyFCGWfyy6uzHxeDE.%26v%3D3%26pg%3DXWTNVTKTSFGMFK7QZSWQLOEKKE
 .netflix.com	TRUE	/	TRUE	1808640607	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1joiphGJdaVyHkSroA9VyKFNnsrOFdkI.%26dt%3D1777104607664

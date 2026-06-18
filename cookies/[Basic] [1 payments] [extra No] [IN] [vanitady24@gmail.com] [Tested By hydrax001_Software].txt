@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Chiranjeevi
-– Email: vanitady24@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2024
-– Next Billing: 2026-06-21
-– Payment: CC
-– Card: 8732
-– Phone: +919849445445
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Gadam
-– User GUID: FKJOK37MJBG7ZHXLBWWSO6FBXQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1779293214	nfvdid	BQFmAAEBEPbWMngUIuc4fJekI8NKJhhg2JE6GIm_Z45Tl-LUOTgyi6o7RwaWptqE99dZegYt88FnQMDWMCF4tnDCwT8eyYrkBfMs8cZ4KWtQH1iD_A1mlDctp5UxMFcmqf1-PyrC2CZBpZonAcF7geHAH39ak7oj
 .netflix.com	TRUE	/	TRUE	1805966180	NetflixId	ct%3DBgjHlOvcAxKJBMpJuqATvZKOqcA5v9k3Pqur-n5p0xEtJjdyQBpuCtdDSfWLNlh_HY910-XD_p5WmRcPujNwjrpikmcx2hM9T_80QYfK3fHJbB_SokzdYxRJEc67Fbd6iSYx8pe1WkEuxpsUsso4ZJkVXH-1bpWqBGn6TQaX62BQOvfuLxM9EnDKa5Em1plTZrtNju99jbvqK6Yt1nYb1DBJt2vZfjdZiROpBExQa8bTGuZiwFziIIjhY-xmCeutjm2OqFVS8dY2AVO7WMvtvC_kOnZpTJLzvZ74udhQ3HZ0dKHJD1tmg_2nKfhwrogwKGGHq5DmWlM8T7DDS33Q95AdAaC1q5fIBno1tcvY4Ey62R4hRy9_C_ean9B5SHu_3NXF9t65ZLP47Lw-U-BYgBWxflET2ShW2dcL-qnftZeoqCbLUI3O_rdC4WMCYiRlrOWKOfKysAuPIfNe8aXMi-ibah4AlaX6kxYvwn-9Yf6Ux30jfQYqYwZnxftjNr4LhyoEoph2LHF_t2DmBhKX-rhEAcl0iU6vd24M0WR9LbZj03N1UNDjLBjWrncS4ETqtp5mFTkJjNl6Xv2W7-UU7RpRljMn6P0r3k9Y7zmtOWKutYphu1AX4n-GuNlUQG2qGZyGGgiMAFzdcVYXiGp9Ea9kFbnR9Q2FsDjSMgMbm-sbF9l2xpfuz9r0wt2HKSorbzF-GAYiDgoMPEKHPXNVc9rQPK7u%26ch%3DAQEAEAABABTjhvcK5D-OLthZN4qDxDFtEtZYB6SXQJQ.%26v%3D3%26pg%3DFKJOK37MJBG7ZHXLBWWSO6FBXQ
 .netflix.com	TRUE	/	TRUE	1805966180	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLm-sEj873fm7Fdo8_VIGoXAEkrAhvbnE.%26dt%3D1774430182323

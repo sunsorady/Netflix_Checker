@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Qsen.trifonov056
-#EMAIL          : Qsen.trifonov056@gmail.com
-#PHONE          : N/A
-#EMAIL VERIFIED : Yes
-#CREATED        : February 2025
-#COUNTRY        : BG
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : A1_BULGARIA_BILLED
-#SOURCE         : Netflix
-#EXPIRE         : N/A
-#DAYS LEFT      : N/A
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:19
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1811504689	OptanonAlertBoxClosed	2026-05-28T11:44:49.885Z
 .netflix.com	TRUE	/	FALSE	1811504702	nfvdid	BQFmAAEBED30E1-xeV7xQCblDeDpp1VgxdkDBrMkwLwnu8qHtARdR8LgffmfVevY0GKYbGtIjp1W5Uh1_mJ2RFEBe9wzVZHi4jbz2CTbBUaroKxaeS5-JxljNreIRq8atgv3MbPNZrfYPUy93y22BWGC04A4bA4s
 .netflix.com	TRUE	/	TRUE	1814800081	dsca	true

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: santruptajena
-– Email: santruptajena@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2026
-– Next Billing: 2026-07-13
-– Payment: UPI
-– Card: N/A
-– Phone: +918596900241
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: santruptajena
-– User GUID: SJDDJTSGJRAO7MQUCY34QAJSNM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1811261165	nfvdid	BQFmAAEBEMnPr1uQs7PsL6mtd-hg659gHDHyS80ReVovbRSPlwFiqRALJJB8jy6Mq86O2QcwpAtbEfCTFAR_d3f4R9R74GtB-icMp8xaMxg8z3bvONiqoy9HCuaU23lmDMPdGc_Z9fAL4zXrX2H2s82Wh8XNKLye
 .netflix.com	TRUE	/	TRUE	1811490262	NetflixId	ct%3DBgjHlOvcAxLmA16QTiRXQ0NlHZiEogbrWm8ZMSzNrk8efWxIurorrltyGmunL1eAvBlDIY0HiuppbLdgVTdyeJn5HN2df8IwdqoXLmrfAy1rzBE6KxxKGNiAkhaNwoNhmDPB49Jg1OBKLYpq54RcjkhujMXaKBfqhKn3zUcvu_WScSkJCbZS7YGBARq0MzjPfGtFll5z86TzktfqrohQiYrQrKuIpnBPLJEGNtahIKUHX5jRkMpcB6vLejIQQTnhp1gOJCNboWNSCpsx8AjSirF0WwCkIl4M1LXXtzMvHjFqJrBDBfHjy1W9gnIT8kb5FdsWJ-f2aZV4YYiPdbKLVOIrOzxdgCO0B0ac_uMBBhFo2st-9fv8wsQO5h40IFRHNXrPykIOdjWF2Cz5z06vtc_RYjQCbPsiuFkGGDSxzskIClfoSeduHaC8kUi7eJ6-hhhwpE84zf2VsF70r4F4KIx5ar_V7aVPh6TnQ0OmX-iW_C5tu_qNQyjwVb2UF8zv4DOj30BPSVV7FBuPvUOlUw9DB6QV4XFbzjoKCN2MdLhL1xHvNpqUyXTmN29_S3yfhMvyzXt9THrjHsTQebNokvbXAwUkIjvBqpqZPPDFrYuNsD241F7XfD6sksUXzXnQYiTyes_88SZi4ZeoP4uBzxgGIg4KDJBraChl8J1i9jq_mw..%26ch%3DAQEAEAABABTz7aKKBqusJiH0ZyLPzTX-fW4sAiv3RBg.%26v%3D3%26pg%3DSJDDJTSGJRAO7MQUCY34QAJSNM
 .netflix.com	TRUE	/	FALSE	1811525015	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+28+2026+22%3A53%3A35+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=fae85377-e9d3-47f0-a875-fe081718a3dc&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778077599618&AwaitingReconsent=false

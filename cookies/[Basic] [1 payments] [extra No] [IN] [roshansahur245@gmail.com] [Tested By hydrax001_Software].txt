@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: roshansahur245
-– Email: roshansahur245@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2025
-– Next Billing: 2026-07-16
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: roshansahur245
-– User GUID: TZWUUKJUJNAD7BFKTX3JTMVTTU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1786002270	nfvdid	BQFmAAEBEH2YfDDZsjOWnXYkUv-HVK9gxoRMx138Egl1Dw1Ka56f9WXhxy7V0UUROB5j210uW4967JUZsqBlZLsO7m4tWGMMSsvB6mLZqDeso0sD0LPwv_wYgT4mZ9fs73gKkJyT3E-BLemXMNNKGpf6grLu2BU6
 .netflix.com	TRUE	/	FALSE	1810442283	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+10%3A08%3A03+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f9ce81ea-b8a1-4992-b1b6-93b68acb7a43&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
 .netflix.com	TRUE	/	TRUE	1812770945	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoLPwfuboqeECfKDWxwHtEEIF3XKEKCsk.%26dt%3D1781234944431

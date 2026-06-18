@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Akky Prime
-#EMAIL          : alafiberim@gmail.com
-#PHONE          : +918077833937
-#EMAIL VERIFIED : Yes
-#CREATED        : August 2025
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-07-06
-#DAYS LEFT      : 18 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:22
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1804183123	nfvdid	BQFmAAEBEGcZtNEzv-OJPccoL7rnORpglV8j28sYrNhioc-Pqv3A_NRgSGRb21Sd80LXpnrg86J3pnFROiozgdjYYkoVWtFCrZkkieo9_s62_ksEIshmD0SxfbbGXcyYT0_wpjVtSghUeCQqkgkfjeYi4zMufBPa
 .netflix.com	TRUE	/	TRUE	1808739549	NetflixId	ct%3DBgjHlOvcAxKIBESPqikKaRgEEucp86DaD_hTW9gCiLWN6LNGf66D3EizM_4iEadgqnIo-Dk29brGV5UoZDYnukW82a6p4zNvR-xRBVqAMCbrMyIMPwi4S1yVmTOpoO12ltqwLxoNtMajC2RqlOySKQ2aWKRIfqUCsI3QfQfTzWGwZICB9u0DduF1Kp1CuTXV2tDzKVrihUc8joVSktdVfgujRBGP97__CA6SMjesKWk6nkcNh0hgaPQ7q3W5tf8jaiXlrYaphg_rSboiIKOY_AbNemu-NpQ9GCBr64SBdp9GWaQzNQKfs8B6jZQTUW2TSK6hbY_UVD-OAc4iFWwRZhH5xHJNK2ZSukQRVGIZ14LnhzDyJhPCa-d3MoJ61IwAV_CRZ2wdyKLdTAkvwK9pG-zYr9Ly5Xp_FcjbwM6B4QWR7UvqsoIsOIz5PkLzSVZQbbBYK_bDaG2nDJPvwNRNChc2xHtq0-pVm6fRr0ZmFknzkAc3UT0CCCuDkg9qu-OugVmGv44O4akoLWu_h_ntr1QW23s-AmZQYWI4slQecPxBQf4xkmjC-24XVruncdr_CUDVXmmVTl3Qy6M3uKYKY4rEVSWtKUkzs8aIgXVkglrtO-1D1Tr6emy7IZ21ssHOuoZ7sk-gEWb0zj3IoURY7hlTzTIv938fwA8yh0qosHvcYSMaJGPmNMYkCYzoeOEbpzsYBiIOCgxBFbjbrIwRaD6TGHY.%26ch%3DAQEAEAABABRAZgDvICFq-6nsSOYU4xq6CoxXug4jkZU.%26v%3D3%26pg%3DX7B274OKSVGXVMFPS7FSDAROLA
 .netflix.com	TRUE	/	TRUE	1808739549	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXSPxIew89o5Sc6wcr4S49KUWZ23FcKfA.%26dt%3D1777203548243

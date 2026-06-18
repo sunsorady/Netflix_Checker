@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Darjo
-– Email: darjo_petrovic@hotmail.com
-– Country: AT
-– Plan: Basis
-– Member Since: Februar 2024
-– Next Billing: 2026-06-24
-– Payment: PAYPAL
-– Card: N/A
-– Phone: +436767783249
-– Quality: HD720p
-– Streams: 1
-– Price: € 8,99
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Darjo
-– User GUID: ZVWMQXU4MRC4XIYEL4JYJFSAFE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1798411404	nfvdid	BQFmAAEBEN235fVYwyYIKpqdJDeszdNgOsrFcAV20pJ-Y9dx8ZiqrH6wGsB5kT2XLCjTc-l-Y0sM9jPXrjGCyLFByWlq7MOi4hqZCaoHdpp-VKffnTWoNq8CGbwww5vahtDoiMysQze5W-Sl9gL3snERINSEwJIc
 .netflix.com	TRUE	/	FALSE	1805714203	NetflixId	ct%3DBgjHlOvcAxKFBCzVhvl8AQrW1gf5N8QRlXVU_zAV22I1YxRR8rLU1KEtq_Z6jnrtVaLQPVIdv2-IDlzgYbIEyzFaCSF9sL9tO9uOtrYB9hILyQh4lse8PBvOE5fuuHnTm66kdQY5O4wGKopfm7pPKnOPv3XOKxioLrSh2J4mAY2VLFnWhfAHeEB-PpFXvgZtN2Jvuj5DWCVCcVlWvJoE-SHEcz0dzITvmQ6cFNQQJ8vAsqghrqD3aW0q2FvWNAFe8t_KMX75CArEpzS2N23gRjZd2wBo3FMwNWoR7I8wd8959Dcbkwbt2ErNpin3Ljje5oRpA1IBV2GwMZl6klib8T7yErR-WMXTVratccFngcUn3SM374B4Lvg5A6D-bOTy7BVS7b4k5vNndojEUbt_6IU2yRDPmK3Bdd1yck0NU42CtottB_Xn0EoszerlvOmXZi5qEO_hNkVz3S896jmssgfhhMqHHUmyC0QEyEqdGDjzNOmS1R3llKFqyTEU6alFLOsfXYtkGVpAty0dIcaFxfccVvi1TziEBymyWRznnQ9A_0P0pAqjn9gPNYJT05P8eYaBXf4WtsFi5szyKaLmFQgPWlqNNV9j0S3xxswMVOnYoNr-Vj08UCcLPPQBRW7MCT1R_xuUsCH-9QddxINJ7jcmHmRqC6jljM7GddNRdmlFdnwnIWAhwfqtq-BNmCoYBiIOCgx-3blxHzxsE9S5iE0.%26ch%3DAQEAEAABABRd1_KWx9mcEXt_sBnecczx0iMu-iZt1IM.%26v%3D3%26pg%3DZVWMQXU4MRC4XIYEL4JYJFSAFE
 .netflix.com	TRUE	/	FALSE	1805714206	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+12%3A16%3A46+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab94fc79-8bd4-430b-971d-9fc98246ac2d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=AT%3B9

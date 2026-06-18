@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: shaddhabalbudhe1994
-– Email: shaddhabalbudhe1994@gmail.com
-– Country: IN
-– Plan: Básico
-– Member Since: octubre de 2025
-– Next Billing: 2026-07-14
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: INR 199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: shaddhabalbudhe1994
-– User GUID: SQQMUVGGMRF4JMWKJMCJXY3XYU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1811670290	nfvdid	BQFmAAEBEJsxPuNp_OUW0tSLuGzJbXhgE0lEwBn_J9Y3tTZRvd_piDMMvx8x-TlhHp612npNuUOBu_XAUJPGzJnFl7xUXcDHRqf1ykukcu_FLqM0vYKkW0wwIh58DX3joi90guhaAx0vHAbuBkywGFh8M3F8vG2S
 .netflix.com	TRUE	/	TRUE	1812905894	NetflixId	ct%3DBgjHlOvcAxKNBOImLukFCwM3wAaSQttH_zyld46MKy_lkkUihh2Jcwb4uV7kO1pCvlpx3iwo9kURN_NZIeFv6F_Uzg4Gyzq4ti_4MbqF4GpXy9ZOspfxVa8HZC-3O7QTuuTKnjPnSY92tmM35oj04gsFSt2lyrAFJ3NZAw0Yr7pCXjn-bsgboYXCwyXcOCrL0JZHxfsz3xlAdhJFxtMbkj0JwlbqCJl6MISDpwIj-rLFPz3Y-zTHuf3rdu1iV5M1v_GRnPgJrV0ShL3EI7tah-0Sy4fVF8h5FH1WyR7HphxgjJfpH8ChYVTQuOcd3IPRsu9s01wnCqpGj1XBtOBYfYGWiwsV2YqlrCVTdP5HtXepnqPWJKbfLH9CtBTda4rLbkpIbSjEmnrGxsXCs5wLVOcNGkI-5qitgiC7mPPOohphAyfX-3xBM2AdTuYc3d3pBPQPgTkb4W3pg0Q8o4l6EU8vQ6Tq_r8fxfqkZ8etz8aL8yDx2LWb9jNu2BZmIWWawU2AzQdhwTYTtUwk5vyuNYg8y11YS4h9JKfYDppG4ZXY6YOUWA6WD-L5kvwRdeCIXLTc6s7NxwJ9sO8Cu1P1F8rn_JdD75XqRKeDgR4AbeJAxv2GeqyZfpf1VXvD5CY8bBFeQQ8i3uORcxul0n_7NTQpQwEiIkoJpnTMfmNEjjezn7hCBsQjedT8PulkWbi_pMFa8_W7RhgGIg4KDLBKGa3OB7JlXWzwJg..%26ch%3DAQEAEAABABQ1UE3GGTdJyPiaiVOdcPFdcjBU7ekG_aI.%26v%3D3%26pg%3DSQQMUVGGMRF4JMWKJMCJXY3XYU
 .netflix.com	TRUE	/	TRUE	1812905894	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ4c-_VcjHTIZPbS7WLQL5BqXlbW69F4pM.%26dt%3D1781369891589

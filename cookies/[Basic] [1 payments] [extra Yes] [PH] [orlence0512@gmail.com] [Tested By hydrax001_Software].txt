@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: orlence0512
-– Email: orlence0512@gmail.com
-– Country: PH
-– Plan: Basic
-– Member Since: March 2025
-– Next Billing: 2026-06-30
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639858518697
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: orlence0512
-– User GUID: FMDQXVW53ZAADI42LQHQLHNGKY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1802657437	nfvdid	BQFmAAEBELHDb4jzKTV8nxXiDuZPUBpgrUhab2UQZVAGL-QsN3OjeWPUSSWUW-tEB_vQpKqYwBKSJe8ayS5GZpx5s42lZwwAURFhbhTERHzu9h45U-4p0H9gOWsLSv-erWZ8e0XPeHZmWbTp-fiVrdtTsvStIRC6
 .netflix.com	TRUE	/	TRUE	1810484799	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA5-zjfE_32kYQknNcIos0LuD1x2EEh8PcGRFmhkxFQQqFWofMp-VoI_OSXgMCTMknEVhPbx9vD03uDo2a2nMtt5uF_hym-8Gynyg36f-EJNeAIOtRaF6HBaPDmboHp9tPGYBZrsa0miHAm7nSSuWkKNNDG9Nn_T2_JP8tYC4ePcMZdilb3CGOpJvb2FS_4XXfLaK2OgeyxwLnlfGjilcxEPDd4m2hnebxfnj1fEqurRcWarid3evXwmn_dj7JjxC26F6UkQffPBIXCn-F8uqcLfHP0SWvl6zkctDGAo0uTMWXBJFn9yr3jMVGPdrLSObW560grmhxrjO6UEv5QmUfW5j17-fxH3784rmMw_miPHAgakFjWfuQ8If03vZZ_myScgzyjsQysKYjUVRarwN3EoAsw-Yq6Iu8nFHyGPpXct9gHuXAgLOUSUyW8R-GQxhYFEe0SlM2OXva1dX7Oizyh2_9HdzDYtsbvtPEzJWUATLGTGIfwn1iOi4lBNdJwyvBQvsg7MsBHtUtuerGCv996G2KdAXxBJFun27TI3dgZAYBiIOCgwyFWS2sih0r5wDi1c.%26pg%3DFMDQXVW53ZAADI42LQHQLHNGKY%26ch%3DAQEAEAABABTlZzPpkw780nrRHYzXxGSox9SQ5zDnCsM.
 .netflix.com	TRUE	/	FALSE	1810484801	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+17+2026+00%3A26%3A41+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ad3071ce-8a23-415e-a45a-babc091ab136&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771121348954&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

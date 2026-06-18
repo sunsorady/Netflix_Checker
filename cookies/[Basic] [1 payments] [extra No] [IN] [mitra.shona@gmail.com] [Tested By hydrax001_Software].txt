@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: mitra.shona
-– Email: mitra.shona@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: April 2024
-– Next Billing: 2026-07-07
-– Payment: UPI
-– Card: N/A
-– Phone: +918859785845
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: mitra.shona
-– User GUID: 57PO4EOBDNAMRGEKCSY67DF2J4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1838221537	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+22%3A35%3A37+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f5c4fa96-7ca1-4459-9423-4f5aa89d4763&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775028687650&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1838187087	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKoA402O_vCo7PLl2peM9lYwsY9ZDAZhP4akV8_Plc9fOzvwhST6fe78OvBzNrAVCSSeo2WUEWeRwnR0P8FLsEbH0bLdQppltBTie2ANaZsRNRjvwZj6tM7qN3z3-ft5sLO01mOjro1um2-qtqZnjGkAmQDndW_m-vhZpO0mHgh73chpbg6Cpe88y5UHHAn0cpYnTHLSg05OgEk1l550L92rtepd2a1ZqiIvF3fOuLsd2DpPYX__N2qwukBu5L3W1bREEyoQ-B7GmUfJ6RuxakfFdYuBgQUq9au5Cfa7PwppKqeJ8rgIGG7tbhiHbmmjQYQqjgshiDYzhghTCm9d4ZpDa7B1Yj8l572C7L009q_D8iBDNyTS43NkNQcMleC9mXhq81iWLiHjSTimJteDrk_sR0qHu6N7qniCYubH4SnBkyBYJTI7e-OruDr1QfYzQufGHHdPrhSIhauyiRFEzDRei7f0tdigJ8iMUee5TOzQHv5U8dfOPeNpgyNOGC5AFYI-5_yx_2EmJHqVeA0C5mxjoZwWxful6U3JgclBSvB7DoEUFCcrxdgw_IYBiIOCgw75iW9EukNUn3j-5c.%26pg%3D57PO4EOBDNAMRGEKCSY67DF2J4%26ch%3DAQEAEAABABT6thhNE4Vi_lymmhfQBJrs43VUbU6PFBQ.
 .netflix.com	TRUE	/	TRUE	1838187087	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBikgHGEJdGIDBtEyxfwZGK33Kn719ZG4.%26dt%3D1775028688031

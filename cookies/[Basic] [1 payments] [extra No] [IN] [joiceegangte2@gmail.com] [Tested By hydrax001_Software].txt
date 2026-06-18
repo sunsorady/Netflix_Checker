@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : joiceegangte2
-#EMAIL          : joiceegangte2@gmail.com
-#PHONE          : N/A
-#EMAIL VERIFIED : Yes
-#CREATED        : May 2026
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-07-16
-#DAYS LEFT      : 28 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:23
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1811766844	nfvdid	BQFmAAEBEAubTofxR5k2wZJJqeBUniVgwGdWCIXrs3jfhvy3gmjgwEB6VSBOTOd2gJl4RQ2n1Qgw-rxxNCtPEx65qzU3fiOSTVoydY2trnJip5RHRlZh568BjHJunaEjimHVMvn1aAtQmAVEf0IFPts4gLva0LSk
 .netflix.com	TRUE	/	TRUE	1812208572	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9EQPKnosW1H9j8_K-xZIMeppkVGY7qn0.%26dt%3D1780672571727
 .netflix.com	TRUE	/	TRUE	1812208572	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA4rhJOfxvexAgcwCROEvDD3885b1cBLtscqrr--yfxvCJncpo-2njYXu4yj4ocWJSJHfCzJGVrvFvLZpra9SIzXjgEfN-SX4peVWTPruZ9CpeXG_vIBWBEpgDHPeuWEILwj849bNKW0Sg_ZI7eO2b_FAiSh_7ovc3yWo6Z-cpwX8pkWzWVAL3iulRr7uVoJ6SYoMNpCZojoojMc8emInRtsW7TxJXh3jep7c8Sp4YisAPt0RlDaGRhqt7ePIQOwwgYnVXG7jcUB97QptbWW4LPTehw6wD0zFgtpd-bht1PM_n9l86kpuI2qdeOBJ1vEXhXtvN_iQmH6YUGYQT85qqRaXg87Cghb1VlVST369Rq2mi52zfFlnfvE3-XV8dxDSEc52_YoHWQt8_S9o5MxZ6FRNgSd-ximngdfk0b6bW_rxViZH9xMt63SxWgajeoY-rQVLoFQPF9LknElZtln_KomQOh2D00z8yw9zeajzrdHDthOdPEKuLAvhj3COvrVuFRB5V8_eLmK8wHZCMZsNy8Q8FF6i2Jg2CmVf7bE_GUAYBiIOCgzaYuCkCBzweAoPxGc.%26pg%3D7NGHR74EQBCAXDBV5RFKRMWBN4%26ch%3DAQEAEAABABTd9eQqrxfpqz6bkdRcqXIIulpzUrGPacw.

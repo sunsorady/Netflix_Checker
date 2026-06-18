@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: jayaprakashsethy7610
-– Email: jayaprakashsethy7610@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2026
-– Next Billing: 2026-07-14
-– Payment: UPI
-– Card: N/A
-– Phone: +919398247610
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: jayaprakashsethy7610
-– User GUID: T5UB3MMLJRDGHA4ZXNUJ4W2OTI
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1812957220	nfvdid	BQFmAAEBENRcHiUXAEA7ahvOdKV2fsNgjCdVPCIMGimoSXINAhj-DwtgLgh9Lh5WclmLQK04DG_-WX9Vf-1bx3EIiXTC7YAVkE2rQ2XBbE53yzhij04ACSLO8HCltXkuR3vET5H6WkziGFYRC0qNk7bYKya246lv
 .netflix.com	TRUE	/	TRUE	1812957227	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQg1UHD-ejt2aZqZ09Ak_9i3yluoV_ripY.%26dt%3D1781421233124
 .netflix.com	TRUE	/	TRUE	1812957227	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA6t2t9tWDpl8mcMJae-0PyS_fUcxsG129O4rVD8qDtd2ri3fcVXkmUjDUFT9Q7lAciXgiZqEkOPafigQQ3DmxHmPEi1y6jZUiG7fL8NISHj97agTVFV5RuhkexyRkEpmmwPh2cjW-5SvRSzFWtkPgfERQ17-_oXgVI7W655HdI7cyKWPVl7T3gjdxUS_jx30_lMiHKhauERKIVJcdMR4-YVU7TLCjbE0I_74GSUmlyflW_7CAWw5ibA9s9uDRqmlmwT9EsB0L6rfW8T63ifDPDLBssdFTLsoTk0vcknDxqTCK4GrEhihtt2wySN2qS8DUqTtFLbp7fno7r0421VDVolfKEnVFzk916xWh8nGHjld-zu-c_103eScqa-AFydBHn15iuOq02t4_Ezme7kN0n1BQYuTodidRlD_2RukRo4uRFcCKiscgB-FX9MT2DssTt1QT1DGSvsMbdEBMyVucwdCKH7O_pcLuBd9cNFDKEJ8p6V2S9jbcSdQC6xI0NdFtID5hDugi0jF0XODePJkrZVU8wz2bH_vIgthLBW9VVNGJ0KYGAYiDgoMSORRBBSLsHNNHxhW%26pg%3DT5UB3MMLJRDGHA4ZXNUJ4W2OTI%26ch%3DAQEAEAABABT8ZIy_TpfY6dJzFXFVBlwlor3dypuoX_U.

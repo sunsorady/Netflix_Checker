@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Nico
-– Email: miralles233@gmail.com
-– Country: PH
-– Plan: Basic
-– Member Since: November 2025
-– Next Billing: 2026-06-20
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639942478583
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: miralles233
-– User GUID: TJ63X4GYUZDWLFNX7YPMTU5WAM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1794391645	nfvdid	BQFmAAEBEKKasirqQrqvzTRII3EEEo5gSkGRNbMicR_26r0xEcI9NNFcuCQuVUTnMooiq4-X2WRAnp_DGc7eb6rlP1ZntlEB5gEBAf-NUcZbrjs7vZHTp9YIVvUitrtSlSBXQjayS5zubu145f9pELbyDnK3LF9n
 .netflix.com	TRUE	/	TRUE	1805693086	NetflixId	ct%3DBgjHlOvcAxL-A0wYh75TegXKWbELRnRiftqT6cv8P_nnukLP0_IQUKgj_CuKWcm-RekPcwx7qjEHOIPVVh9hW2aMxEfaCrg3KkcX1nDvzS87PnvAGlqTLAuVBQiBUTUA1tTw1-0slePxMu6QD2XcjC122DpD3HvnAryAzJ0MxAweVor4OYVXB8o09iyt4254LYM1ZNHc55KDSAW4x1HHzrph-p7zaOearlt0NyvFw7uxZm2W_Ausuw8JWOl5un2ymKRdKXeOdN0hb65gm3fOvxRRUcIlMzPtmu_0oESZSqNb_0ly9UUGVCmsOtL7SwTxgSEjEMLyizW2Y7Z7VLCUTJv-ptUY_KE5QXkiSCkaBPDwKRXc_IdKgItxRV9HDvPdb6fDbZzdj9LhrjA7J_dfoYSdxp_NXT8a4wIY-RjkWS3grC2Cnof8A32qczg353QSvn470nRf2uejvFoZxQ_HqEkF0sJ4NZ4afRGF4OY8sZB6-9GkiJGMISpsitlQH5RaKROIDILJdzqT1vGNwP1nA1HX7KQwsJOd8nW6m76PstRSLIkZ-qgXgbmOHZ0Z2MUN6Bcy4dcLd9QS0x9kCEqzzPu_R8SD88igr-cvsDVvOpTB9TgAeNqq4WIOipGCS66mlo6c8AL0VEAsDS_8wA5fU3zIO6EcRLx42U3yUXUSQQDJJvbgQLOE1hgGIg4KDPF37oAcy_5awadfAw..%26ch%3DAQEAEAABABRPq8AEMLjC_ghNQ88P3tBTAcQkiWrQFM0.%26v%3D3%26pg%3DTJ63X4GYUZDWLFNX7YPMTU5WAM
 .netflix.com	TRUE	/	FALSE	1805693087	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+13%3A24%3A47+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=027bcf98-2762-465e-98fc-1042c676f39b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

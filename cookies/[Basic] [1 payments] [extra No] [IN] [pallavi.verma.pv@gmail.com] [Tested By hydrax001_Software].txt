@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: pallavi.verma.pv
-– Email: pallavi.verma.pv@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2024
-– Next Billing: 2026-06-26
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: pallavi.verma.pv
-– User GUID: 3JDZQN2PEFA3RPBU6QJ7EHFD5I
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1798727062	nfvdid	BQFmAAEBEBUNV0wtZOOAvL2Qplgy8TVgvy8KUY_lxGU3X6dg_CsAguDmWPsEfdB8znpjkR77OabvbPlyX95bQhaRHgYBwLJazDbr1B90uDX8nhiziQNzZo5i6C3wh0iKwW0KnmAbDsQw5XECsCAWqJCqEITmb8BD
 .netflix.com	TRUE	/	FALSE	1805452201	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+16%3A00%3A01+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a657b61-bdb0-411e-b120-4e3c729de2c5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1806388077	NetflixId	ct%3DBgjHlOvcAxKTBEgnRHid32wuFatd_kc4EFzK7g6t-Kpj4WRKeepA3k4OotjiTinjtRNXp45988UHLzQAAho1IieKxfCLrwER2cQ5Dk_BeUrqd96-2jbv1ieNljE_SyG3HAMjtR_JtwnVmP-kAlP10jtVBeb1qHigzqkxknxrfHLkCYJ9URY2wgmC8SXqr-YxmNCNjpf-SAFAl54KMiyO9jlZj2iFI9Bs51fwNr1OHpmoA_y9VzUc6f9BCzpZt0Deq2D_VllPtp5FF-5henTFyYTb1zoOuuS4jpbHpPHi5ZqiYWNVEnIIDFX98AfYUZ9Tg8OMTIpCAjCe84PLd0sG1MGvpzP-BPLb_ODjGdpihbRcDU5wK07ArnKMxXaCK9z7-U7_UlcVoZsHssyDHpr65KC2rz3BKDu02xvHri-wYAmVl617m5cJrMqcG3O9Kasg2nBUJkUahh6ffDZJ1f5rODCgZxJl0REevvUMjV9T1NEy4MH69eJTngana-XZ1_9hIFrhx7wgEFFesOGtoLWD3RU0vVFnGRcXyzfLCG4hN16FN6Q8_MwI5UQH2BhFQeJ48xo_VrN6_Y10ArIEUmj6kea7A4AVwmWyR0_t_bYu9fZE95wuo_tDX7iJo7GawiZWzqQwwH8t0kFDnneF8dcfQa14HPaZY35gND6sJFKD8pCN5lyH4b7qR85R379zY_Spg7vY2eKeec0vVEsppBgGIg4KDOzQ1cYMlFsvZZ3hRA..%26ch%3DAQEAEAABABSlCZauW9fSv95DFdEQizqGFjxP4V7_oTM.%26v%3D3%26pg%3D3JDZQN2PEFA3RPBU6QJ7EHFD5I

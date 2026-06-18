@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: sahilnarvankar91
-– Email: sahilnarvankar91@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: July 2023
-– Next Billing: 2026-06-25
-– Payment: UPI
-– Card: N/A
-– Phone: +919867171932
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: sahilnarvankar91
-– User GUID: VBZN3KK5BRDWVC2Q4YDODNIQCA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1812967372	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+15%3A32%3A52+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=da2e4ebd-6063-4f5a-a0da-c622491f7c68&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
 .netflix.com	TRUE	/	TRUE	1812967371	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKtA7pY9QMMxP7icXDxG80KIoQGDd8LFc3Wdq9711IBZYfxhTvpLmsENxii4sOqzLjzjKKR_nASz3Rlj8vehGmfZvCDlXbiZLRbpK98M5EoryCy1aNWQRSnVIttuIrGeC0fJvuvv4acQeqZO-FTZzW6645mR9j9u05bWbPdMYv3APKRLJcc6dIjw534dMEwk-J-M3iwAu7KP-pgXPCXdH_j0v2I5Wc0A0hQVMf8kwVZx3em1RkzwcTLMIcHR8yeMuKI-gFGcrW37_SNnN0FW4QPjUOeqOeCjRqwqgnXDWg7DHj2GkrkjRh0faK3fQhjn8UA2PsSeTmnPz36vKbCSDimUbOccx79kByW8gs0-7WYnaSgpTY0jaizW9kW1H8hR6srsvIpPE9hp7S0KRPmQ3_WT_WPoJJtaYFxJ-4NOKy_OqFoEps7wbIRkMO8mJwGMnz0-0eUJRURtfmZqn65IYqizgbyqdq1m_a6GQlT3iUTMkid1FRFY2u50KaxklxBZ0FDo-eAWmBHYuX4pWN3-88DblmxGn5GUMK4IhLbLQPYJEb3juhOthwfsbre4kfHZhgGIg4KDEOz3R9kDDhxuLYbwQ..%26pg%3DVBZN3KK5BRDWVC2Q4YDODNIQCA%26ch%3DAQEAEAABABQdhsQai3iBOYs_kEVhIoZQ4DPx4Ay3YR8.
 .netflix.com	TRUE	/	TRUE	1812967371	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7xdk4Oy82ohLeNOTaAuU6pvD1T9DNQUo.%26dt%3D1781431356011

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Nikki
-– Email: niharikanikki470@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: April 2025
-– Next Billing: 2026-06-18
-– Payment: UPI
-– Card: N/A
-– Phone: +917032088729
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Nikki
-– User GUID: O75LTNL6YVDKVOE53FG6GLE2RM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1804605733	nfvdid	BQFmAAEBEJZsBpmuVt5M5S93gz5N8j9gz5cJUg8zZw-b-WCvmxiYf0M_O6QgehFLN0TxLmZJ85DAj1Ey-IkLmGKEVpvLzYu1ryvVXug9SCRzcChFFPf4R9bB7JnYaQG3FhpjCaiI8v-5LQi-NjRoWz2PGR44Dfk5
 .netflix.com	TRUE	/	TRUE	1811469859	NetflixId	ct%3DBgjHlOvcAxKDBE6CcF56JoZI57KVPK9HkJP2-Ir1kIQfz93u_rmrDHiij5LTpa0LXbrDLvPZCY4eb62wO9mbWrFVT4W49QAViZbVQ1BWnGcmLFPOKuGrNKehH-gjRCjzOan7vnD0gXqsRl61VBzgyBbHCnlrw-1YNGw7sXBnssPaSu2lN8svUQOhA8x7faO5vnP0mMVrA-QNJMTubeTaLP6SsJSWUbRm-NtFDsh8kYMOsYplEKi3uphxZ-fJZTNmwcP-gIE0QU7w_AWmnsKLlE3ltXj7vuD9pLjq_7so7SJ6Hlrwe29NSGtGEWVc4FLsQR73sTOkFpgdl-IF7lH7YyTQV2wzxc-G8CgvENAD9yb9KuMVEIOcMwcX0gEsa7BVsJhr3P4LuURfl_YJCgIGeUqI9EEWTslLrFSISPHdEn1SJ2f-3_gMZ4cMi1b648vzjfijlY5GHMxpvP6RAt9qLpBFmfCeh2p_Lg99oIczmtRohnbMBQ-o5ekyZyCjbzTnr11c3IBrfc_ag6gXNyVjg3fjIh_2Jski8ncycrQo8J1LzoaOwUSxu9vK6B787BjuiLQlSHblBAgDdXWua2a3588-m78RFThyzuDNUUCjWvIM3KY-1daCn8Q_82dOfFgLe67aifCCxQtFrZOjjujkt8lVfvvnG13mmOSDsHUtvax8NzAoHL5BadL7g81uGAYiDgoMyWUyl8IUMPkmWN7A%26ch%3DAQEAEAABABTOcLIEuMwL5S_q7XSeqWQkq-UpHcpcBSI.%26v%3D3%26pg%3DO75LTNL6YVDKVOE53FG6GLE2RM
 .netflix.com	TRUE	/	TRUE	1811469859	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQXT7AcwLzCjHA1zR2COla39qWH7UMkBgk.%26dt%3D1779933859647

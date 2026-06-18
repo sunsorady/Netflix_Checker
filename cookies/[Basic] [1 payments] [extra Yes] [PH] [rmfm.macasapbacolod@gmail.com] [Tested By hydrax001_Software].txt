@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: George
-– Email: rmfm.macasapbacolod@gmail.com
-– Country: PH
-– Plan: Basic
-– Member Since: April 2026
-– Next Billing: 2026-06-18
-– Payment: CC
-– Card: 2865
-– Phone: +639937919928
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: rmfm.macasapbacolod
-– User GUID: RRSSNKNYF5C7PAK3KO3AANZA3A
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1809838743	nfvdid	BQFmAAEBEF-5O17i5nhIdZ-A9SRja5Fg1eOwAcByei9Iw_I5CxNLLCYzb5BQZRU4FWwLzSCRYsguCoNndLeipTBkcaYUHkN7qtx9AcBU0YThCHT9NY3DoEaFB0bTpWQu3V8cN5ceyaO6RSHRsVVu3GHpNEfCMkU2
 .netflix.com	TRUE	/	TRUE	1810034043	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAzJjGpViS7F5ppezoYXHX2zkKVQtlgW9LunYepoVSMhhhmSg2w7GSqJIe6bifOjRjNZKca0L7XCAqG9j5fdDXk-xjLf3sbuH7VOmci8FMdUTE_XUGvC08P8SuxwyDfwhqSXVT1Is4JjQYJw11Y1uPH3vCJiESFeKQk9MLLvn_ZiOzpeti78JWtoHppib9FU4O6mSFYkId8AxrszwzBsra5oMqH4sQgkAmsCmO5T8ardTZfSI0FaNYBivlIw_fx3rvcb-luIKQellaWUKyxa5QqdESfZsicu5Y7Aj6beRL6IfpI7ysmhMGufEjStHjNsIu6ZkWnc0qSfApZUN_-SEDCl5Z58mu-XLVuGrtRN4k2Wj7xXEsVic-1DK2lSo5dqepTUvK1lk4JOkEK8VDSJZv54PCIXjJtzj4ZC5ye3S397m1tzMuZ6J-cMvlD5o6_bRtIHqZ0avbE7VK5yKHriFlcp5-mtcxajGCxiP_iu9XzP04wqkQqqwnRsJ53vaIVdUpI7Q692HEjZ64DD1-bRCxL84NLGpWLBqXV8HGAYiDgoMG61XGB-GhoFEzQyY%26pg%3DRRSSNKNYF5C7PAK3KO3AANZA3A%26ch%3DAQEAEAABABS56H9sX0ZjpYpAUyrv6787HW-UqoWOMlI.
 .netflix.com	TRUE	/	TRUE	1810034043	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBcQjGTSlBS2EwRLEav0Cq9AXE9-PRP8g.%26dt%3D1778498042921

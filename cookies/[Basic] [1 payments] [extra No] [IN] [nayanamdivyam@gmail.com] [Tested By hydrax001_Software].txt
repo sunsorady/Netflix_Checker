@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Kaveesh
-#EMAIL          : nayanamdivyam@gmail.com
-#PHONE          : +917995654427
-#EMAIL VERIFIED : Yes
-#CREATED        : November 2024
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-07-05
-#DAYS LEFT      : 17 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:23
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1798865757	nfvdid	BQFmAAEBECK6-CwTj-j_McrS6ISCaoxglIaBHt9DUIhf0Oq6DbhGVURr0d_sc18swj6uo76LmKlBf8_YHtUNaBUunjdLuNqM_nI3xxx3vaHvSBVX05TLdj9hMUTR5r0aVXSYHHoEu8ofwbY_nnrZcnphWd2AhZUW
 .netflix.com	TRUE	/	TRUE	1810010553	NetflixId	ct%3DBgjHlOvcAxKFBDYgJmx-UaKVZkoVo0K1cJbApoQgXYTPOq73w7r4f-nPKTGYdd1OfgROG7fRJTPRKDb_DoKdGTwbQkLYSqRJn9FEuUYH6-xjJCoH1nOjUUl5IEBwAdYCeWIoI4N2WCHtEK2WIVNQ4jt1-uhDAnCol2TZHpbK2EIcP1NRsZ0IzwCvjJ9ZnkpATw3zxtO0uLBriW60WwJoFjPwOx44vWbeKLWXCCR49L9AoDc3HIr-7pd0-2TQSaciS2_V-m9hAQfAaxcDtR7hCZDobYocSDosz3AaWuJ_6gqDR6lRydQjhcIV34-Bi6jB0EB9tkgt9tPzad9ma-qJ94NAOSISXlQIS0eTkQCDWwH3yys3O_qSrjshaWJY8NKk6MDjjIaMKg9N_ZkrG948OZ9QrhtMJ8ccd7Q5c-X-G7X4piCs0AwitywYjDo90HT3kTvfLj24JGuBYhCIZV_Go2ovBXSxhQliO31Qxq0lpq7JYIkfwcZqaERdAF8X_Aq39o-TqVLRLo0s_GeU-AzTK9gORwVb6yLhK32NVyFbeQOfNlvfmFMXN3WWjxp5EYSCliHG2OOkiBrnXU-wK8jjXktVF2Eqhzc2tHUWfQZV-xaBS5IMm7g5QgXCz51YFVpkZptEHKe1xeAuN-Vldj4ylvqWqR0uOic4ajmsobj_Pgi4N5rWubtudwmlAu58XtcYBiIOCgw7zix8BaH3dDjWC_k.%26ch%3DAQEAEAABABT_dIt8tmGtCrqnWfYitFPTB6FZq6_vwsw.%26v%3D3%26pg%3D37YETD2BCJCI7J2E3M5X4SUMUE
 .netflix.com	TRUE	/	FALSE	1810010555	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+10%3A12%3A35+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fae1003e-8086-44bc-9db9-928000392fb5&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

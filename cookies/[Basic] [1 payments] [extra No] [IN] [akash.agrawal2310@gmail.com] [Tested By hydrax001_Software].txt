@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: akash.agrawal2310
-– Email: akash.agrawal2310@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2025
-– Next Billing: 2026-07-10
-– Payment: UPI
-– Card: N/A
-– Phone: +917017171039
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: akash.agrawal2310
-– User GUID: B6NTYTD7GBGU5MFGXEEBSKKKHU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	TRUE	1782993509	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA79bFbhWnV1HZE1uLmUqKKqS2FHuWd9VdE7SB8Lxk8uPdbtRb21tS1BK1E_oQUh0QQpRo3KyKRv2iW0_lkbX1h1kYloKKmIFRYYES5KaQUER3MEU-yqFy8C1xDHIsEiBwWMObb9MrzRpkh4shbw2UIYvDP-1ePpcQaI-kz8X5EGiX20S0WR6VW08hhYP14Zh2kKJ26JEURA9OtQrHJIvQtjK9Wg9vEq3j1bTn4-I44Vpkzh8KQX2Ehm2e1R_HT_cAG1LCs4o0aMMpVocj7WHvSJ2nWEhNYBpqShDCD2GgchxESNpjh28NvpwkwTXYXdLbzYCjs8dZIgLeGaL6luVT2mHLL-ZT-R3hPrMsVCtQdEBmrOPu0F6sp6wJpLReTYJFcXzhpRAkmOqlHZJ9mrBmzKAGy7akHpy8WB_-geSM9cusBDYHG9MpZllfzcmQLjyklUsuGDhrsNsVnpbv2EBVWbq6aVjFPO75PpVbD4qcTxD9x-hDHm__ViK6_poKBQaWhpr43gaUiweGAYiDgoMgA1kOohKjHp_fVao%26pg%3DB6NTYTD7GBGU5MFGXEEBSKKKHU%26ch%3DAQEAEAABABR-Q85ZS7eAfyCW5z7wOkJ75a6t5ZH1LKU.
 .netflix.com	TRUE	/	TRUE	1782993509	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0oCzqgFGclrOcAS8Yvh2SqIeevxkpVoM.%26dt%3D1751457508625
 .netflix.com	TRUE	/	FALSE	1782993509	nfvdid	BQFmAAEBEFFTYhUhdYAmzcP5HSG6S1xgOQGCx4hWQeCpESKZ36Mg_ZmsKyuqeWXFhwZzleqO1mycpB59wmsABqEPoBiPcbVzRr0QWh6XAdwPymqt8vYxBxaeYB4J4LmhV3qYuNUva-RmRc2OHEyHe8_c0rxOt9Wg

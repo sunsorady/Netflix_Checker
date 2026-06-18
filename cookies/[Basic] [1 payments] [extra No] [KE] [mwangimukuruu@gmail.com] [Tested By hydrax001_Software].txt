@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: mwangimukuruu
-– Email: mwangimukuruu@gmail.com
-– Country: KE
-– Plan: Basic
-– Member Since: May 2026
-– Next Billing: 2026-07-13
-– Payment: CC
-– Card: 1648
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: Ksh 300
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: mwangimukuruu
-– User GUID: M457EJVVJNC4RB343FKWLM7ONM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1808687692	nfvdid	BQFmAAEBEF-6Rna2MFltoZ4ED1FDn3lg7z2b4naWtajuFOUalc3nU9Na7IstEyoBAewRE4XeTlmnbEplu0qk7Yji5BHr-ULAsijZ6ZdGWxST-uw9ZIqBQBqh50HZyBHtUATaaGfbSw0HUXXWvRgxrwSdL5ZixjhA
 .netflix.com	TRUE	/	TRUE	1809371850	NetflixId	ct%3DBgjHlOvcAxLUA7HOsQQiMTsGi8aA0Jswiw3y-qCaoWjdJ6qcMG1fnhvwH_ct9xDsiAoa-G-Ta5g4cWlv8wO8A4ilHh8lc934eEdnB1d-IcM__vfJ5CVO3eNNBg9jGR8s9aZqHLBbzHYLF0Sd_p_NRKc3EEFcPIgUf2A5j4CEPxvBvgdItTpjbMTwAPi6MQNCniRVPL-W5ACVIrF7eYpsvzPlpHR2jThIJSnA4EqsddcfhudWYe4O7WgvYjIAH-yuLaJ4eyHrakX7QB-NqHomiGjP3TMw1EWe58LC7Pvnl87J9btQZ7fR2FQfdUh3BFqlqsRwopCuCiq6obqDXrtcJ1iA0iCHwlT_n2Ze7rO4Q0IVvUMM8xFVWoCAJt7bR0WKkOF0H0BIUVtjurcKvLezwOzIFNU-3Cx-GE1QW-tCvCDXpwMe9X6rIAhkAiUQ7PbzNpuxsuZMHYPvsnEOBM9FxUuqN8oqILNfybXCPe9mPKLIQbXzxQZdNkKTTusXSwCjPmC2RU4Q-4gjPPuUJt5keYIJyZ9idoo7dexpQ2BbviPvEFx-Tye2paxeYBzSsqv4SszncsEPpyZx86b45TinneRNy9T9j2Q5SIgegImMjQGZ89sbrburKqkEEXrkUhgGIg4KDNcSVpetrXteLG4ljw..%26ch%3DAQEAEAABABS7vG9qBFn8IW-TH66BFxA7y5jIC1Mx7fo.%26v%3D3%26pg%3DM457EJVVJNC4RB343FKWLM7ONM
 .netflix.com	TRUE	/	TRUE	1809371850	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhAhpFD9aBY64Hfb2OM3fvG1XKkcS2uo0.%26dt%3D1777835850750

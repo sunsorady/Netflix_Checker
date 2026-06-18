@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Jeevz
-– Email: elangovanraja75@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: July 2025
-– Next Billing: N/A
-– Payment: AIRTEL_BILLED
-– Card: N/A
-– Phone: +919043452454
-– Quality: HD720p
-– Streams: 1
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: elangovanraja75
-– User GUID: UG5752RRJVDKLJLXYTMOOWC42Y
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1796915123	nfvdid	BQFmAAEBEJ-v0upDGPUM8Wm99q8QzwdgkiXSBcZwiuOw3eYLvTLBhSWB-jO9FXsvQ0t3XvDS9Mg39gKPIFGyBrVZBmlKSPtspgaF9OWY3ALi0rdo1mUVS5vgo9VilnftQ_C7mw9pWImJo6Hx1T4OcvDkWsYEfAJU
 .netflix.com	TRUE	/	TRUE	1808673656	NetflixId	ct%3DBgjHlOvcAxKDBP5c6cBieweFbg0hXzPOHC0wq2UlSSVgYvjXNbISSaQ8IgdEvKw1MFsMUZEM_LvuFBELnvvwDAYbC_AjaGc_X6he2K6N2zXenAEeRgFwNtxSvoP0tpIZaFEwTcl2L71dltJDrcKcux73e84_TmNwA5waLnNB0A43lFaMicPZgvz6KsyMPDppbR193qCWpckWpzlcUbRpGu5f9XBKPFzot5A1GIqnngCicSLuuAiMySvi0V0W3Vm7hE7ofZAeE3xusShVCMZjlcTzsyJyXLt7TxAZpUbUalqhHXKb9gYSodlQeoQ6qWWHoIKgba3L_7ytLFvS2QoiaMVE2D4XDBTipDNnF-JZzm0n8vwolFzkYJpXkYul_ao1MvXRWx-HS0-4dc4DUPoYh8yzSYVewMmIKfpOTLsPBNBYqhRXvez2G46FHcMaYCet-b5KLGt013lLIJQD3aIEkfs5W5vdIWMBVwPEziBloWM5d4maYEexR6KZCYUMma1XoBaaMcHEolReWF-HQDqGRiPSNfTIcrn8viIQpS5o3DJDS-KLsnnpZafpLPbYaJCQwVSoojUfdn87cX2UcUA5EWjLnwlCEhQ9JUzbKL_QQIMUvP5y5P5_VAcuxDV-KsSydViIhFgMSXC_fXM2yPmI3cg_-J2ds74jUU7KAYeYxjmxLFZw6X-rL9_KoMsHGAYiDgoMiZWtA0ani-MtHgCB%26ch%3DAQEAEAABABRN5ZvTo9zV-NbQ1lg2YMUl749FozRaiac.%26v%3D3%26pg%3DUG5752RRJVDKLJLXYTMOOWC42Y
 .netflix.com	TRUE	/	FALSE	1808673657	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+22%3A50%3A57+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=92749ab4-4655-42cf-925d-b772ccde9b70&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0

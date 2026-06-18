@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : shilpamaheshwari041
-#EMAIL          : shilpamaheshwari041@gmail.com
-#PHONE          : +919871595661
-#EMAIL VERIFIED : Yes
-#CREATED        : March 2026
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : AIRTEL_BILLED
-#SOURCE         : Netflix
-#EXPIRE         : N/A
-#DAYS LEFT      : N/A
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:23
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1783982023	nfvdid	BQFmAAEBENOXOch8DiFUWWQnre5NdIlgQuqumU5O3kwBeUWFnV57WJ6N_25Uqz7CtkLGRL6k8-CISBKC-fJ1S8k3y5oEEQKbb4n915CMJfNLkx2uUg2A8ELlmnpWsMZxuy1NQF8Z1PKNhiWT78fzgELPaYGctLuI
 .netflix.com	TRUE	/	FALSE	1783190598	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+05+2025+00%3A13%3A18+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b833e66a-896e-465b-b3be-1478731626ad&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1783982023	gsid	9ccffa83-bada-43ee-b115-e4eee82afe66

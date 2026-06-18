@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Shreya
-– Email: neha3526@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: April 2020
-– Next Billing: 2026-06-18
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Neha
-– User GUID: 7RTNTJX42ZFSPHLDVI3LMFGTIA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1803972724	nfvdid	BQFmAAEBEE2gEiuWhnOfeg0Ku9nreNtgUm9MNrJAcnysByDLBXay1G_ZThEDXmbuxosHL8i0CpwIT1EA3Y9go-KloySBW5DvGVgHvdNTRXR-90uH-8w1_UEfvSqepdRzxuKvPTjnhz8z6Y8XR71kZaY8uYXzRAJn
 .netflix.com	TRUE	/	TRUE	1808820274	NetflixId	ct%3DBgjHlOvcAxLoA7xyObZiOi6_bYfzEIEbffcuiBzX99fuwvromKz3MTOvZLWBBe_FR7XcB2IEmIgnTtaJu79LwcHMxsbiHbVAJjFM2YHtSbgWCf9BLeIthfX0tZyZRaBr_SKeKvVzYjoAJTeBeEwes3CM-FGncbHkM5YsJzFsPmw_QxQWC1JNBK8RFM-ca0Lhuj1YiARLjIwtUzQirGfvwv6MtHn2IM_IzynZMPekfYuCd8V4JwF7a10iWOXSNBS5IW4GYVCY8-_kxbEIOeTvHMp_uJLnI1gygJC9XPzu2lzf2d_UOKBoHm_vVyL-OPhndk3tAhbGv4DS_b8YivbCo3Sesc72mYo02G9T2H1_ib-z-eCE47XyyCfDgqZxOjLFJYFmIEVn6zGB3wuTRm_wvVHulhxU_vVxJqY3vRqxji78fGepNs3UVGxujb9K8FN6wUjdG5o_gpWsUcl3GHGDAh007NK4G468a8c9FIqZw-empXpOc30lzCigq7FQJ7yakG6ykNorPEIEODxHT88EIqCXxVQRshLOF0K9x8ZLb0uHBGbpNk--qjl42YTfcue2kq1Su8oAaLZ-TpfjEUNpjZn76NfNN_tOEecEAMK2TnsIXdKo8DLql0w6kERdN1XEgGFN0bLl0vad5xvfCwsBaIRxGAYiDgoM3T2Brs1NIi31xwQp%26ch%3DAQEAEAABABQ6A_REau828XlapiokEj2rzsJL3FelM5Q.%26v%3D3%26pg%3D7RTNTJX42ZFSPHLDVI3LMFGTIA
 .netflix.com	TRUE	/	TRUE	1808820274	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLuzmiA9QXFt2lkfuj3AtRjae-TfI2dLY.%26dt%3D1777284274579

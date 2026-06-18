@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Nientss
-– Email: hariniaina.rajaobelison@gmail.com
-– Country: MG
-– Plan: Basic
-– Member Since: March 2026
-– Next Billing: N/A
-– Payment: CANAL_SUB_SAHAR_BILLED
-– Card: N/A
-– Phone: +261320500789
-– Quality: HD720p
-– Streams: 1
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: hariniaina.rajaobelison
-– User GUID: YE7Q5PPJEFCT5OAJBUGUIH3QEI
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1804758519	nfvdid	BQFmAAEBECsHlG7zIoTVVnOW4GqmtypgOZZDTnQ4CgDFC7J41F1qctEsqKHWVKPfV5to1NntkYCr8fbas7tNaleKdFEgxsg-31TE0Z1ZiT2eke9x0az9v1F5Myz6lCndR4garMQKv5etz0SZqzCIXLkUhWBRgUzL
 .netflix.com	TRUE	/	TRUE	1810017880	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA-H-xbCNXxVCnIA-f9APxBsO_NXH38TL3XAREqdS7ILP13REdcEeOMVyfUDYuty-YrGn8stC7Z1syvJvNnAgE_TSfU4nwl0YnDruOT0F87YopVrkvcMEuEIY8Uzc-Ua5Maw4DIjfRYyTCAJjFNWMRg4iF40iSEmJCVTBrRf7jxEqxsT0WWeUKQGBpz_Th9DgPBSKuTV_Qfukv-YOZ9buMZ-V-4IZs9SeQtjZMDV-vOBbQsg9PpQKEjb0Wyey5-AoAfl6LagWwFcswVqwm4UB0ijWG-S4olqqjhb1EQTZQiR2k8HL5vlSn8SzVRSig48y_etnYaf_9NMKl2n0mFh9cZEGjQB8jPNb1HsTEjsqE1w5zomEUQ67Fr23P1APrDXbce0fV7QVGuLOb3fG-FsQLjl_AxQOKs0YZxa4yAesZJrz1hkTD4TRqycTuyFjswZRLn8xrUnsaMt0J5ku4nvONUzrnmvWlhDCkv2ce6Q1XSLfWe3921SupH02bzIoa_7SVn4XdNNoa5zSdShFP4scNVtAFQhO0m-SBOcYBiIOCgxB0iQF4d2WdGVB-w4.%26pg%3DYE7Q5PPJEFCT5OAJBUGUIH3QEI%26ch%3DAQEAEAABABTdI7ZAi_BsDI6sAUCkiSBlykBNSCOpEnI.
 .netflix.com	TRUE	/	FALSE	1810017882	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+11+2026+09%3A44%3A42+GMT%2B0300+(heure+normale+d%E2%80%99Afrique+de+l%E2%80%99Est)&version=202604.1.0&isIABGlobal=false&hosts=&consentId=ee91b1b4-184e-4794-af25-cf8f3e98d62f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&browserGpcFlag=0&isAnonUser=1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

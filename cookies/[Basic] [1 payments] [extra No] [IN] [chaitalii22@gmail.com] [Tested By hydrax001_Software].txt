@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: shriiii
-– Email: chaitalii22@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: March 2026
-– Next Billing: 2026-06-29
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: chaitalii22
-– User GUID: O74CQL4P7NCODHPBJBOALLCVVE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1798793761	nfvdid	BQFmAAEBECeSyOog17VCDTgAt34DZexga1hY2p81htrjvSx-r0idIFIrVrX-S97w3Zk5uxw81FZxn-Vwj5nuf_5xqNH0TGHf_EPecUOOmIkbCEOiWnFlZzQ1gaToIedcNdmv3bx4r7A-oMvlBIncbXI-w7Q8Od24
 .netflix.com	TRUE	/	TRUE	1800699218	NetflixId	ct%3DBgjHlOvcAxLkA0-7jtMhuP4cciQ0gQyLYTcbH4vFX0u65bn3KRcpEinVM3UMUa--DFXRICicZ3Pr-Dem9kcygADZbWzQWeZjs9Sh-MBcx9lJ7G2Rss5WRWeQ8R59ywhL97JTLkNk42goENoYU_wKqWdz81_gk0CcbwAT87cQB1MIj-yh2p6_X7ZyCEJE0kQuwKwK7GY5cJTSBrIFx7jwfN74rRmFUOnNq8-iYI_wdsYRUPMcNcl6LJi6xljHtg4WmJJ_n2q8KjcgWjtEhuZO_UeufHTZYMSvpdVORuJKTOWPhLLVO6Q5WGSatkRvQ6DXHmy8KLwyDosduG6nYHga0_l7bB40-zQDYSbPaLzpvrmh9btuTZhN9zn-N74cg6TgOc9PCbfdRzX6qoYoXlrboP4chV6YCPJKKtX2pyMBP57FCNeCjavMfiqlZExHXGnX8Bg-ZMQ7295NZyzaUDMSItl_t9h3TPhJmLP8XZLlJXBO6-JVGlcUTL_3iTH3BpUs7aCGyWOhzPErN9WHMBdX76wJ7JBfuYC36BMdi5zC85KTiJqoGFvuRTIcMIQl1vHHJl9WQdU5rEo8zCammPR7gcaPE_SuYjOK1pc_BwMS7bqyw-aakZea0gyR5YL7ynxLc3lfzT3075Oy2yeCymcYBiIOCgzp4yZ20pAP1O6fv8w.%26ch%3DAQEAEAABABRIG4pqpqzt2UWs8iMsjKZ9yVcseWCS_gE.%26v%3D3%26pg%3DO74CQL4P7NCODHPBJBOALLCVVE
 .netflix.com	TRUE	/	TRUE	1800699218	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxqE9GAA9Wl5URdioXzZWBrx6PuP3dhko.%26dt%3D1769163216244

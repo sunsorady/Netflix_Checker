@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: seetaarya28
-– Email: seetaarya28@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: January 2026
-– Next Billing: 2026-07-04
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: seetaarya28
-– User GUID: VDKIOZLPABELVDN4GKDGQAKYSY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1805124090	nfvdid	BQFmAAEBEMDFN-PPpzm6zIyAh8Bv5UVgGG1x-hu-MGxxwHQDAG2kSbyxfOZSqVz4APGM32qkMuYLq6oCj3DKF38ANIrY5H1NQ8NKnBvBnSGTkwj1GV3sy9BYe48jJWFttYO4V084T6H_ohQ8Igw0kuSmybjD0YkK
 .netflix.com	TRUE	/	TRUE	1806161800	NetflixId	ct%3DBgjHlOvcAxKFBGfTwdMTRk-uWQWbWT7HPqk3ztVYbZrD4M2xFzSjekyzn_Ru9QmUbkQVTXEDVCwMDgrqG0XPv7dB1JdS2-nRTZHL-W83dOvJhXpiJwEDsxE28ifTSLR5eAbTeV9nDR-E1gRqChxcdK9us7jgCAyIuu8oTbtAEAOI43UiII7U0VgW5EwsCLBiqHPnknzhXmcj3rN6xUK4bU1mZYTA_Uxhr-h6Kruu7nPVfFqHSX5bbI8egBc8ZaqVLgnCzqaQ7J6rAiw56vD8JT7ZV19FxNXPP0Uh0jbIWFm3J1-1Ma1K3UpRA-nG-lXBfc_di1cVRwWOEoZgBstJAzUF2cB5mHTyshuHk9_uww8U2H_73IeSJhxATz6F6f9aow8dWAItDHqXjhLrrIprkbw1mZ2JrwmiudbvVco_fIANNhrmo8k7ZiM06mcbImgGrWUiAb7Ix5KJHpbGJpaUvlUMLzU2tgX3nU6o-2Z4XWSem6y2VvvAtEQ0SyQ4rs8v2GBq1i_wyQC6tTikelp4ZlO08KtA-a6BNM9IToUzcFar7t9hpLV_NhJjWxcYd2vX6OoKwBBtiImzYQGmMbUybanRd-AgXE9p1XeKIc0U7biwlQIR16Hfymi3vdZSuRb8CiWGds7f5JCwUsLjGLOQdypY7ae47pZqsJTkkzmy5PS1uxyoIIJKPUMSK58wYM4YBiIOCgxPban5JYqr3eXC0ms.%26ch%3DAQEAEAABABQOnEa0l2fP1NdUnYm1A-Y7rTfoZwvqTrg.%26v%3D3%26pg%3DVDKIOZLPABELVDN4GKDGQAKYSY
 .netflix.com	TRUE	/	TRUE	1806161800	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRzA9O7WKAr6ekLLwg74RhvxBrVQ9PFAk0.%26dt%3D1774625799359

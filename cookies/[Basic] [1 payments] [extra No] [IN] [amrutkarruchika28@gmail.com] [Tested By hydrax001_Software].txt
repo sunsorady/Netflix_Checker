@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Sachin
-– Email: amrutkarruchika28@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2024
-– Next Billing: 2026-07-12
-– Payment: UPI
-– Card: N/A
-– Phone: +918380028433
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Ruchika
-– User GUID: BWYID3NEXNB3TNVYWULPASJ7AM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1783241546	nfvdid	BQFmAAEBEIiFd_RthGoOX6Ao1tUfjuNg5fzNNVN6uv6WP7d1bQib9W30IjlCZjXsm-4Yn1dsANlv-Be0DSSTBi9Ix5acAhZtig9mYzpML1Du2v361K2ohoj_targs8DlFkW2nzqxo--XLnIzDW7DnRdGukEt0nYI
 .netflix.com	TRUE	/	TRUE	1812475405	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA9Kr7Nfy38_PDgP14Uq0rkxlBb07FyYM1OK3TwplkiigyHq90tf_d-R9mi-xf-wbsZ6xKIiWAKZt6cSJhFqLhr8rjzvNd3m9sg4eFlxRzTDAo9wgmcr2S3jSUBlDF4gu_AHcs4P4DOPux1rz0xh87nZU2AEhAax1ICbMZpi8T3ivhAPRQH6Gi1Wf_u0XZLELhNNF-EY3UJxRi1DhuKPrw0hFIGam_29QRa0P1Jgi9Xa8wc1vCzAbV4wEUz5V6v6LQBwH-0JPeQOklgbwf9tvIXNfGTj7yV2YMlaiVZ8kmvVLkR9vv9j4J6qphQiBW8IiPen8GlMZQJap3Bo-gOgcjLxKSIwCxIjhqDWw0BJYA62Y7lizKuoftxdpy8l9Dhi4uZlnPjAkMYYLjPk-50WuOGkydbFMcH_s0Q3OQzOP6BpRUIIyjH_35ePskGrKdGSTXbaFTLwbIGy2tyaAIiQNsvi_WJ4OnbNggzOQDOIX2HB-HX6k6Z4GAx16WXe_kqm39hDZUFqV-d5ppy5jNwwa0OBFt0E7lGnX_tfXGAYiDgoMRitW3VbCkEKxv924%26pg%3DBWYID3NEXNB3TNVYWULPASJ7AM%26ch%3DAQEAEAABABQSwD0zz8FY_utPzUaQTYy6PFFXHSYZ6AI.
 .netflix.com	TRUE	/	FALSE	1812475407	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+22%3A53%3A27+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=49763cc6-eaf3-418c-867f-85cb43914eee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

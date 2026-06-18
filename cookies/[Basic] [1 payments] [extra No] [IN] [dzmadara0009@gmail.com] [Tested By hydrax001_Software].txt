@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Honey
-– Email: dzmadara0009@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2026
-– Next Billing: 2026-07-02
-– Payment: UPI
-– Card: N/A
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Honey
-– User GUID: WBUGF6SMSVDRLJCH2TXJ3WM7NU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1798089880	nfvdid	BQFmAAEBEBBLBThM0YQVFesH28EB_vRgH_-OJEPJv2lbGGZWPd4NIU1h1p4RCECcf5MFSrgqDxQ7FGv-Kr_9ikiG_EjA99ZMLI6-EAx9Thvf2Y2ls_YvolfohNN6lah4LzAz9kCezdrrSJTnx1LtNMSddU7d77Wr
 .netflix.com	TRUE	/	TRUE	1812520785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTk4p49OKW89B9xUaGombb71W51cHae8-g.%26dt%3D1780984786117
 .netflix.com	TRUE	/	TRUE	1812520785	NetflixId	ct%3DBgjHlOvcAxKxA5Kdf-i_6uJvZx_yBbQqb7pglFkr0j_oheAly7IuLGHqokJ9SPiPd89j7OB__pufht00UduD5sWW2oCJNGCy7fZYpBcnxme262QKP_KRDk3rWMpTRbMbiOQmAoDiKyaltc1pnCRDLPs2NvlaAslPFMuqBLn8GV9qa9-aR15542UrEpSpQ9bSP6GQy-DleXRWM11x7UaIVCZCKHvoSwzsAvyEWw58ufJ-M0sItUqg16gEClChOsxYDKdvIDhqKSkIdvKkjo6ky4ocdXBXK2tCruTL1mEt1j9C75zXif9UAgRSUXENn1WBOQEUy1NC817I1SPw4oocVNrDuvFP30lj6tHKdZCgOiNiDv6yyPJBdsnBRtTZbhkQlSpuU9OVR0UWmjVDitGqNgHz-W21es6HigTaI65uOyt8IPEXwNn-VVdTYFiWD0DlFmG4mY3Nqg_QnlEE9CtXICnb5v4i8XmTn2ycDIioPKxnoD9sPqx558S-xYEW0cJWTp0yeCoyeeeF-NYaufgA9i1i9ubmJODIQPw1g632HPKT1mRwf5-g1wVLnoI0KsBkvqf9MedeAKr8JiIYBiIOCgxt1Orj1lkQzUQG_1g.%26ch%3DAQEAEAABABR86pOFWK-eWSz7W8_TqWBArz6G7HkKunk.%26v%3D3%26pg%3DWBUGF6SMSVDRLJCH2TXJ3WM7NU

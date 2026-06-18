@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: khansufiyan75
-– Email: khansufiyan75@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: March 2026
-– Next Billing: 2026-06-21
-– Payment: UPI
-– Card: N/A
-– Phone: +449892437850
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: khansufiyan75
-– User GUID: 6ZFGKUSG6ZHINOYY3JZG7F7AXY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	TRUE	1805899355	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKmA-Zi8dpG8Ik2MzzhSPpzX2jJ_hvlzGhR_Ztv8rXEJO887H3e7hE9UAlvj0TavxFC0Ob2i5qkV8_rgt-y9bq_4C5yUhFMsk2i0eu86pmxVSqOAknV3zNEmdWcFaJSFue3ORkDQjxSoR-Sed9rUnneGqYJUBKHMuoqMdTwNBHt7dPwwa_UAePgACQoGNwRgieCRdPVYMQZzO-yaVyuzVQPMh3hc9gIsxo8_wBP_A5s1gK4WOEYQGDT8SDWECihH_OILTD4btxuS9NK5cpUtst5shHM94spDoRSilIVskMs1C6cJBv-y1Jp2a7mgTypZP7v8kOaKxFuuj4LqWtW0VBQFWJaGZclEr0wmKOhaV3-jyCZ8kRs8gtfsposy7K3opfctVoNYvXTqemnSHcJGSmPudS7yXBPHcS-XVbb04NwpQY41GyTW1sLI3VzixsXdqjfiKlU1ElHR6yub2LGI8eRUeLvaB4KH6VJxQwR2Bed1Ruqenu5Xr_vwoopqoIzHsO3umP6Gsi2mWujRjyrPwQpZQZHwVRBbEb5ZdgP6b7g5WzWCOVvJF7KGAYiDgoM2qvaA1ppanD6a6oU%26pg%3D6ZFGKUSG6ZHINOYY3JZG7F7AXY%26ch%3DAQEAEAABABSbjwp6v4PCftgOsu4n4C2eevApJmkMEuE.
 .netflix.com	TRUE	/	FALSE	1805899356	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+20%3A12%3A36+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7847ffe2-e0b4-41f7-b995-1183e34ab601&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	FALSE	1805899355	nfvdid	BQFmAAEBEL5WyApUWNoP57KiP5muqmhg4BqrS7A91O1uTFJm37lautbprbIXtjfu3u_8aF9uBRZ1kyrGxx1kdxJKtUuqei7yjDjvavIceP7KHo2xxpjYP4fikCPVptXHP_AbpsPgGhdzoKvMUPstS9jMz5e8i8Ne

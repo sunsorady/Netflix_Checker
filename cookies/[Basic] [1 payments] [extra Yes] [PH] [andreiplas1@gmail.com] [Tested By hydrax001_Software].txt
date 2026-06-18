@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: andreiplas1
-– Email: andreiplas1@gmail.com
-– Country: PH
-– Plan: Basic
-– Member Since: March 2026
-– Next Billing: 2026-06-24
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639309630975
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: andreiplas1
-– User GUID: WU2NBFH4CBBTNLQP7A4HVHQE6E
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1807318104	nfvdid	BQFmAAEBEB2IlxM3qbDDYsk0-urCmahgCux2Mkma0T4Dy_ezKV19zR5ZMhRqAico1CSUBiA-jdPiCEtZ7R9FVbIJySd11Gliz8Pz2oEmSlMi1Eq06NSxl0Ggugk4eT_aHll_jm7XcaDVx0zPThVvvMeLXi5U6-Gx
 .netflix.com	TRUE	/	FALSE	1812923351	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+13+2026+17%3A49%3A11+GMT-0400+(Eastern+Daylight+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f37f8660-b1ce-4614-98d2-b0a2a19d12e1&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775781964771&AwaitingReconsent=false&isDntEnabled=0
 .netflix.com	TRUE	/	TRUE	1812923350	NetflixId	ct%3DBgjHlOvcAxKFBE3JKFX1HCyYbiNj_gozS_PjJqYY6zRxOdE6eHhr9nyD9kVYYeWrMmBsgSXxp5-RpJ_8eu6cBrZ1rQW8AzkilyTwAWb3GSPutwpgHBQcfkMDCR_SUpQuxH792SUOhoVoRWSXSKkfFd6jO1us1_jEeAhMfD4Ue6K36MZ-T22CLMGM81XhGsLQhsAqqbbMn6hVbeQecRjgSMTHcLVaOFG9ZdxWjoaYKerdUPNTTyFdy4dslMU-G-S2FQs-aE2QZ4nANtPpxMVIXSWLg9AP0x-Ytt_rEWlZxU9OgChcdqMJl9mplP9XkO5nj2S9j3cwUlyyxXaBZY2-OgCvc3PrIlmIpN2GgkPGvzD4IkWYP9-x-Ig6MeXHKAaDe6xPz78-1-ggeNCbumPXmIHvyLy26wQiZZ92HvLuMgzchpVIDFWSfDHdtKsBr4vN_vvZM8FH0OqlKXmbu2qODkBVGv5wqKopRfDt7o9i5A9tuKVZrrSlu33khUwVNAbapveHteCJTM89e4QTycUwM7e6_77TpQM5JADdEm5-MjP-XiVISCUlRmbgP9DXmhdPiPfq6v6JO2kVf1FrbGf2eWYs8v65qNsBjrdtwTYXr7rwkOnUi9W0Dmj6BD7t9MSaAVlr_hhXr5vv4Gtwc73OV8JkYzXryEf3Sk2jAboTkHHG1EU8mNiVEZAh4UINfdcYBiIOCgwa5L3zIxyVs3_EcPM.%26ch%3DAQEAEAABABQfV4RWSn4Jtf_ANLvFN0CbzH60NMyLkE8.%26v%3D3%26pg%3DWU2NBFH4CBBTNLQP7A4HVHQE6E

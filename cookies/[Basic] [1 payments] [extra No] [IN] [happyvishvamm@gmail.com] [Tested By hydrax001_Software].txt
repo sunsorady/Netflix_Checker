@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: VASANTH M M
-– Email: happyvishvamm@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: April 2026
-– Next Billing: 2026-06-19
-– Payment: UPI
-– Card: N/A
-– Phone: +917550155332
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: VASANTH M M
-– User GUID: 6BYTNKNTJRBXPHH52UVTIFETJM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1808140950	nfvdid	BQFmAAEBEPrbGqAvR1JKjlz5PPEm549geYCJCDZ1iZBsKPhcp8dJsDHoWvgI7V8ml-C_29KibCTG9TY8UEeX6Fu5JDD8qTDGZWNoGMfmfDN6Tp0WDtD8PB8x3vAlVJAfPADvtkqWmVKLv5GegspoOW0HDWqc1jlG
 .netflix.com	TRUE	/	TRUE	1808667051	NetflixId	ct%3DBgjHlOvcAxKJBC-otPJzQj0DI9pm1dey_ePY_y67E5ICTvlqcK-dCQ1Ku-Rt2UkJZcYoOgsy7tbt_u1TAWy9-f4HtuH2-EAnCfRbrJClTvmWJI3-_g5hFa2bY2Ik9IsvE4D1Zypt6X_ZakHOTh5aQaKyu7csMigM1SWkq6j4ojzLRHjkc5PIXQF2nyZKuGByRNGpY1Gd_KvdI_BcKAeG-1x-ErIBOCrDDhHir2yJw-f6HTSdLBauGDEhkjWmHeDz671ZiVnLeBrFADBRZSizL8Ef_IvPvw4Haglj0MZB0__Luzgp9DRpseFyOtSSb8PqtLVklal0gZyp02VV3vVnzUUONAtESO-xdBuNxhYnfom9iRJI1gqhUs0tkX-pqnvltulh7hCp2k1OgAnhv2xwtQtQjlQanzLjnr0F7b2NfMXLa77gK8WvaD-zbyGCEOAhH4ufe3J32c3-hgjjGHfuxJ4iDJAdQ73IezS2IAYJLcgmN4VoPk1xX3UkIbl3pLy3emJqo_IKUr5QGwaD7ZAMMACo1rFoKHEb6jEp7bAPl2mF_9QLC0hby_wX2p0QMZlzqL86pFEZhrdB4J-miBms1zEsdf0-sNenw3shdMjl5cPSTnF11pLkV1sMUSn-1zm9qqkmGbzERGvsCz8_o6xOEQvXU57FuBzeGhvrbKlMaS_v9qv7skq0v-NTktyYq4r6CYO9GAYiDgoMd8hkyt3WQUSBUmk2%26ch%3DAQEAEAABABTV0UQgu6cRhy8hKZxu1sdvznWJzziANks.%26v%3D3%26pg%3D6BYTNKNTJRBXPHH52UVTIFETJM
 .netflix.com	TRUE	/	FALSE	1808667052	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+21%3A00%3A52+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a90408a-cc3c-44d8-877b-072db06ad586&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0

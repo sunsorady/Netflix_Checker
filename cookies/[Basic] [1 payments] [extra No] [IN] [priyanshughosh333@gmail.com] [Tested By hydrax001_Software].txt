@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Night Hawk
-– Email: priyanshughosh333@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: April 2026
-– Next Billing: 2026-06-20
-– Payment: UPI
-– Card: N/A
-– Phone: +918420688671
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Priyanshu Ghosh
-– User GUID: C7NWXFOF6RBBJCICEUG4WSMKE4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1808645889	nfvdid	BQFmAAEBEBXW2oWlVCOdO8Kmr_RgJB9gpek49hDJT8xZbTH_HdGLtCZLSzojdQyDMDLxK8DRmKy0t4DB_34usOAlOQOTpcd2K-6Q5x1CaGw6LXTmLUcKCe99GE3XpHf9kLBw-uST8i7vkxpE1L9JFiMbueTLmve4
 .netflix.com	TRUE	/	TRUE	1810211487	NetflixId	ct%3DBgjHlOvcAxK0A0paNHqqKgyPIgGN38XWcoFZaih6e9yDAx16vSSFynnAZxNA9LiAVGyxgQCWKkSnkoxTxfWMCMbgQvScpilMKvI5EkXdgo6PEPsnYBLbPvh9crA-dxJZvPVzKn9N7AlHM45p1oGHX56k2eyxs_avFEua6RyMiCurxuwvmvJVqtpomILJCRzgzpALwcwXjUppEszUGZgUHHzIiLE2O3dgml9f4jFI26e5sL3CSTN4FlkX7YKE1hJfDyRHVA_cJkDZIPLC2xs9FUfimdrMxno5z2OC2T-sxEQtbXgi69VeNmCptuXja5dWMzgLXtzXFCMA-YMUhhMfi1v8_t2pBVbYf0mc24M1aDzQ2ekXs5oxhowBsBB8W4dTjHJ3qsF6aTXNLuDX0zRIyipZBUzdXA4tY7fUManKxhl21QPA_f54srw5DTgeLpP8RfGy2Lr7fXdcja-EQahUMgMtkXA95aC9z0rWEkBBbRmBAwZ1yKuX7fDFoGh8lycxtYEyJiVcMPIsmd2lccHi0rF8HOA4ww0J2s3VRLHnqeTmaKvmWxNRaE0nH5EnAJooYjOknlC9cDyILsh44GEYBiIOCgwXEkw34nj8ixKM0pI.%26ch%3DAQEAEAABABSSt7AmJ9vVR27LSRK7kasb1Zr4k5VllKM.%26v%3D3%26pg%3DC7NWXFOF6RBBJCICEUG4WSMKE4
 .netflix.com	TRUE	/	TRUE	1810211487	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQSJbwc2hvB3qZ9X_YRAt_7iyTJaxclBms.%26dt%3D1778675487322

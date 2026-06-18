@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Astro
-#EMAIL          : aarav.singh192013@gmail.com
-#PHONE          : +918340781622
-#EMAIL VERIFIED : Yes
-#CREATED        : December 2025
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-07-06
-#DAYS LEFT      : 18 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:21
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1796394005	nfvdid	BQFmAAEBEHndMbFzGFaAd4w3b3D7lR9gFL8q9Ut5WAGPteDvUdTPvI4UFHwKRmkt-602V_Fl7SDb052ipJQX7hRNYnTdli_uZMTBRZcSES8_aLMlSXZ8Rg77TDMJ5LKsoQF0FV3egOH9R89vUZhrL6Ad5_R_PHzM
 .netflix.com	TRUE	/	TRUE	1796483069	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSNLeSUBEngvrguCAbbJCu1O1B87lcE0fo.%26dt%3D1764947072833
 .netflix.com	TRUE	/	TRUE	1796483069	NetflixId	ct%3DBgjHlOvcAxKaA2REYp03QLLuL-BCBV_XHAQ_rlNqpl7CN2j9NvSBYH9LIWFIFU2Enyr_0SclePTrtHqtxQmDEYL_0Nm3p0BDojWZ48tMikLvZ6q9Ox-gRg8IFzf0lyvxii0d2Udu1Gc1HfWijSNBIAqFCC7l-iIYj4td_SmvT9Wrz8Ir_oEOyt5GFYh7JzHhk8wUTOIGwAKy70Yqz-k288kZVL3eNX9gvFDOa16BJYuezOn8Rd9QEFt6w_ITfOs3cXPqgLZVnNMxuiF_tBaB5gHVAEapIho7UB0QnoN8axQ5qKcBDX6HaUdriyeg1aG-md0uv1OY4jSWWvuwhCzXmc0NGPGIc15ANzsMPWTa6LFvsQDLHEfBqZBpVnU2aFFzipk0kSuf2HyorJXSWftrvkdktaFTBpGaw6Fzxc_dSzybkE4AjJQh0vVKoxeCKp3yPo7ld9dvau7XKBCZcX388kvl0fetKh-OpyV2nbLrKJXAmri8sq-Gav3fNFI2YWKqlG1SEmo9bHYw9mCBGivPaH2Hk54asJOTXQvBPpsmVdwhVpftGAYiDgoMlv-AOLO6jHO3sHsN%26ch%3DAQEAEAABABQQzasAa3wfGPLbofnioFCq90YJACaJGHc.%26v%3D3%26pg%3DWPU3YCJ7OBE3NAID4WAJ7KFACY

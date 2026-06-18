@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Abhishek
-– Email: thakurakshita0999@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: April 2026
-– Next Billing: 2026-06-28
-– Payment: UPI
-– Card: N/A
-– Phone: +917807649949
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Akshita Thakur
-– User GUID: IP5WSKFSXRFV3BPZLBMHJCS3BU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1812379980	nfvdid	BQFmAAEBEOQLTZh4vp9uZtxbrWvN1WVghmesjefgf3tfxVSotvsifyrWf45evix8tDRILJ_5KEyISuhlfBYa8_sMTxg-grXh4MBNDg6mjYKkAO5jl3t1uLWz86EAsrfp6Azy0WXbVhMZtKhNHGiPwYHnf8iKhDXt
 .netflix.com	TRUE	/	TRUE	1812937871	NetflixId	ct%3DBgjHlOvcAxKyAy4hvBuxKKvRK759nueXAr9dpDY090lhF4NJ3C7qOn_dqus3YkEtZOkXinQW2rOuSbFW2jq4kyKKTqPo92z-bqm5gdCxIiGWoGbhpQxa9-AMAmnApRQHUFt6xVRB3pLt7PKkPaQFBVfrMuegfSZk1pZOjTEeTiXrsz10AoTs0VK0UWoNecrqkxROOQmrPZCgDAMNZx6kGjKR-VC2x1gKbtX0SKFkiW0nIlRy7nDKdVe6nSu-rbehfhNK37oZHaloulP11fmUyK5JdsxrDydEERQgZmIl8D-BEkbaY36PoFn6DXG3kVrLCRewAcbjEmPH38tIzu0oWeMdtoh_1ntkDHFSxW0TTQ7ktUF4rgGzfAmXwDt9Zk1hfHj_03WSqA7i2FSwrTLbQDPEbqhzp0VWGP7Kfu2fSEBTg2sezWbl_1V5w-FlS755dVBLK1PZxceB3pTfJ07Qb6AXp5fhqDLD8dz3nytcFXk2lEZXaecYJz99hUo-kEjIC_ZUu7EHvOl7HOtoMVVz0_0bxyWqOEIOcSSjy1saO8C6n68bJZ-R4xQijpjq746NVGTg8GlwQLrwsL3pGAYiDgoMIpZ4ZKLAvuW5pgHc%26ch%3DAQEAEAABABTjF-WJ6QxHL_TYGmQGwyY1V4spoMAq9XA.%26v%3D3%26pg%3DIP5WSKFSXRFV3BPZLBMHJCS3BU
 .netflix.com	TRUE	/	FALSE	1812937873	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+14+2026+07%3A21%3A13+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=5b61c323-7dc9-4329-a127-a60a57b80071&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: EKANSH GARG
-– Email: ekanshgarg01249@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2026
-– Next Billing: 2026-06-21
-– Payment: UPI
-– Card: N/A
-– Phone: +917357200090
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: EKANSH GARG
-– User GUID: WZZ62HSPQJDJZNIO5F46ZAUOJA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1783963523	nfvdid	BQFmAAEBED6bqwEweJzWwFwpxsgazKtgamQeCwfogZmdprSMu6Oxf2uhXvX_IqXWIvavBe1vtpIuABI_eNjnd6EJgM23S7X7I6WK5BXzuVt-kzxTGp5suc50pBfxRmBFgB0wyS2Kuh5rPYSrjznKeZojTTy-GPHc
 .netflix.com	TRUE	/	FALSE	1806078564	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+21%3A59%3A24+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=8e5c5d56-345c-4318-9546-87459b8f1a82&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&prevHadToken=0
 .netflix.com	TRUE	/	TRUE	1806080986	NetflixId	ct%3DBgjHlOvcAxLkAzGRXyVk1_STm3Nw_4Bs3IeYdUynZmTt5P_O1JUKzRb9rugUpRt-g-UoNOew_BvFQc5g6GLA5Ghtkz3HH6n-G7kaHcBucv4Uty9cid76sUUTLS8_5fllRYiFAVw7gVf63rEThLPrq0eiVFAM81FnnKoq9eGwD25IuzQjPxHbM2H-rNNOs5laxDMoDLzY2q408di3ZtUsTjM8MCHozrXYfMriCahR-Uqg5ick19XrlTSV0FvGf1eFNXXHbs2Et5uRrZI3MMsnJw2RgIHwn0LyvCsXfsg2ndRieqe43ygcxuOyYleqoCGp84FgMeZv9h2E5ILebPl79gqbD1PuyyjlSc5pKyYi4uxuSCOZHrfxjZjGRNYZvM_3CVhiYjbARcsNL5jG0WoCpShIwIzV5jPZeq4_SPRzgoaLttqwZdx_PGxhHQktnz_Adx48gsM0zO39Ve4OMSPfemeVVdkr85vWg4S-EpiLDItWZWKbDuegfRwpOjHy-PQ8vUzqNRPgrY9uCm5hfWFsTjrxI4tENHM2TJQSBXJyGIldsduxh0RwxYyz5GnDtfTT_kJj_r-yLibjHNdxTGQTYaM1iw6be0lKnXzxZy22kvLUkTLc3ncy2RlBKaEh6jREs2_W7CouR4P_Ab8rVJ8YBiIOCgweuzbg3pd_RoK0Eq4.%26ch%3DAQEAEAABABT7XttzCqT4-gZThiXECZtSDExemjrfFWg.%26v%3D3%26pg%3DWZZ62HSPQJDJZNIO5F46ZAUOJA

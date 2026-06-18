@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : kielgella1
-#EMAIL          : kielgella12@gmail.com
-#PHONE          : +639773366107
-#EMAIL VERIFIED : Yes
-#CREATED        : August 2025
-#COUNTRY        : Philippines 🇵🇭
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : MOBILE_WALLET
-#SOURCE         : Netflix
-#EXPIRE         : 2026-06-28
-#DAYS LEFT      : 10 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:25
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1785070975	nfvdid	BQFmAAEBEPE_w2XUiLQDMvLH5lnKcDhg0cAiT0oPDgsBzdLb-gYnGxSvKsasbzJJlzPnC6Z4GZATBeXrQAQ8dOJwQrYsJyXV2KTkfAiDUWdsddKCr5iAizCPLCyEWk7BIOWRIoOaeZ3vYIPMS5mf4TGBMtmHqaWH
 .netflix.com	TRUE	/	TRUE	1812247646	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSwex6iuwoEgwO-FVdIC8bQ4qA3TdcqKk.%26dt%3D1780711648327
 .netflix.com	TRUE	/	TRUE	1812247646	NetflixId	ct%3DBgjHlOvcAxK4A9z1LpqOeEhoQqATkVYnOZxHfz_2F2iXwUuy0kFNlRkGwl1TQEXBvxdtMa6H9JvoDNkZC7kugaPSQAA8YCy_ghrWkf28Pat7d09enQiRnj7Z_sl_guL1Xzu5-PSVGqx-m7h8uDtA1nrmvqonMK2OzSmX_MsyyPKF_-APDVfTbLvOxQntxPF1_FWppSFcnjz4sP1Bakcrf1WB1x8fkjZwCzuQ8BoEj09CUhkesy6fwWfw0mIuA51dPQOZGG-DsPCldlbDG5fk8HbURPMw4vCRBqJOtBaZVpdH9dQYQNaz8F0LoqFs4ZHAIZqAJX14VZVMKdqvqYv8Ui_LgEjpEzPe-OIjwH7fZoy1MJti3kl9NF7VSY1KYiUmY6I4hXTMj6Fx7Ifd1EkBvNZMBAkv_3N1MdbQgdn_NOVw4L00OhWMk_3YPwMzYKADig95Ow392_EN-7NFZDjqR_dUr8GEOFcUlZFnuItnAOYptek9zZqM9iQRgl9Xrcse5YVzm2AFYxtVVXD7lv733EujDuLqEXIiekFgEs9-5JX57MnGpxU96ot73a2oL3tpQ5aMBMJv4FbG8LGkivD4bNPZGAYiDgoMcadOJgfIHEWF7S5N%26ch%3DAQEAEAABABSt7gCRAAHzA1Ak3PB-p-1f-LJtsaKuoGI.%26v%3D3%26pg%3DWGJEJFAFE5CQ5EKWP3TDY5OY2Y

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Jacob
-– Email: slimgeckoph05@yahoo.com
-– Country: PH
-– Plan: Basic
-– Member Since: September 2025
-– Next Billing: 2026-07-04
-– Payment: CC
-– Card: 3863
-– Phone: +639186630091
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Sarah E. Estopace
-– User GUID: WLQYHAYORZDPLOEJ4Z7CNUCWJ4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1810299324	nfvdid	BQFmAAEBEKowuSO4Zi6BWvXrmbgsnxhgpxw8GE_AB6VVPumX5bapTI169OiRVzZX0xZHUyWHtm-NnkHZriPDtpOhAjFyJjhMdTlmbyStoy2xPuPhSemFLtvc-R05qP7axon8SYfrK_mivEhYCsV6gzcxmFuHsxgF
 .netflix.com	TRUE	/	TRUE	1811215693	NetflixId	ct%3DBgjHlOvcAxKxA-k4n8ZWpxFhMCebsuvYwn6KKzh7kr4CFmaP0CpT3L7CWFqK1OYbtb5WjDW7PVTP7QifknM5jLsdw2MfYGL4TGzXjWXZD59Uw0Tt7Gq4xLHoCxD9xLBlP2KTVH986raH8twK-e-vd-OaKRoS2IC0wj_pZsl6R3y352dYZL9FVR4q7ua27Nyx10gdkaEViDxcHQg9kke6J-qxkstjXMrTLbxJTq_yQVkmKv95XP-ZDbDMidQwujzC2YTjMxoB-TFw9XAObdYzx3zJmmeQq2WRAKfSQrHKdg1IxE5aQLho8kunqLu_v7Q4zgqVd_ItWS5B4jSA6fuyM9LcTwA0110SbZi8XrqSHIvotpyE13lo6nr17hQZ9fzrcnlGsLRNc9rJngEsJSTE4ZLK5j2NkwwU8GxJrFgBzKoORvgOCNesYlCzeL46cWULqxjVnFcQkP_0glfz2cjz6Zc78dpHx6A6bLdBpKqzZv8V1nqfTPOwDnrGiUc1Wai8UufercQX67__NG33hAfNSpHGh3BoKE_WhzomyjMH-BCMEFqwJyKaLqHgpMIfLU7_S8n6sSXWhsuRXdIYBiIOCgz9D_YmuHSe5lbXpKM.%26ch%3DAQEAEAABABSVG_udN_EUe19Y5k8Bkd4L4yZcjz1Ydbg.%26v%3D3%26pg%3DWLQYHAYORZDPLOEJ4Z7CNUCWJ4
 .netflix.com	TRUE	/	FALSE	1811215696	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+25+2026+11%3A28%3A16+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=f6f683fb-01a3-4593-ad5f-7fabbe17e7bb&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778657002208

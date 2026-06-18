@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Hehe
-– Email: hussainayman2006@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: January 2026
-– Next Billing: N/A
-– Payment: AIRTEL_BILLED
-– Card: N/A
-– Phone: +918789995300
-– Quality: HD720p
-– Streams: 1
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Mew
-– User GUID: ZVJWE5S7ZRGTBHBCLVRLFC43HQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1801421138	nfvdid	BQFmAAEBEDXw1g8AKPlINcvvv5g8YoJgP-vHpa6IchyjUWQ9IRq8BUBsKf7ekSi6De7Wyr6HP5LSTs7ZiGk8SMNw33ezbaKVJ6UXDTFCn-BiRwAlNMLyo0m846aKAhwGQJH7qqZ_TOOt95m5BgqPDMKmmtEW2Rgd
 .netflix.com	TRUE	/	TRUE	1808638175	NetflixId	ct%3DBgjHlOvcAxLKA43qlaHN6d4ET6kEZQHpOreKPS3ZmuO7qnhafq4YGg3eOKCFW6ktVzBgZkzfRsjJYVS3NXxPzv5MuQJki8mMwiMXPyQhPqrkIubCOsYC40hblGELs3I6xOvrsQ59YeUV28SSqmuqt_1ShgO6j0moPyfMbf0-INbFHgd-OPCnyaG4onLnqc4nq_UiICsvahFzlhZnUY1zA7PQzMxSj2trKzkORLNcIUR_5cCZCTiMPnXGizfw6h8eczSLaDTdF8jbujqurKyK_WtB5ohuDbLiqrvCWAK3QnMW51jrLVqLdDMliaKaEI_fIds6uAMRPBWwznfb9rXrvFPBkqyyL5u6gYKz-BAFGRraUZqETa19a4pVBZhPwLUhEiAz66So6suIZC6Wphv6IA76-7jMoYfwKGTb-G3G7YFAfU81dU9gZcbwAWpcwzrjcNhm_dhO8iTFb5wlTrWvtdgxGb6N4kutKsqXS5gP_5DELN40XZTYaxkGxJ4IxNF4fC3gIM-ZoiP1ZxsmVl2YeDpfWTGSXn8znh8RcaYYdbfxtzm_fRrC6qVQWvG_4aZSa1GEbxVhbtY9SaQDpNCFEHAQH0v7cTXs2J5vecuFBO_HeaC5GAYiDgoMorqQdjuW42MOeU_3%26ch%3DAQEAEAABABRHURkayeG0Z3gB73vFmtDRMV4y76267WI.%26v%3D3%26pg%3DZVJWE5S7ZRGTBHBCLVRLFC43HQ
 .netflix.com	TRUE	/	FALSE	1808638173	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+12%3A59%3A33+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=06badb5d-eed3-42f9-bfda-098bfd4a1e2b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769885052992&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

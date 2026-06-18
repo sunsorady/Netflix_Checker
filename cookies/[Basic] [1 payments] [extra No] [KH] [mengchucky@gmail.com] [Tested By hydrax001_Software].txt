@@ -1,28 +1,2 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Heng
-– Email: mengchucky@gmail.com
-– Country: KH
-– Plan: Basic
-– Member Since: June 2026
-– Next Billing: 2026-07-06
-– Payment: CC
-– Card: 5297
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: $3.99
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Heng
-– User GUID: DCD6VJIZWFARHNFQCBXYLQYJGA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	TRUE	1797815803	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRnJW_R9ZFSz8yND7yueFb8AA_rOlZ3Dvo.%26dt%3D1766279803189
 .netflix.com	TRUE	/	TRUE	1797815803	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLxAnU0LEH7VSRHj08I0K10h_HxOElfqPd4nT3TZrVuMW3wBsbvSrF0q8MgJxW5Hr-zha_FLGpvs-FlsIOpKjNTmcUf5h5JpazcugvbmXylecABOVfja4djDP-exWPOqsSo7A-lczdF2mRsU8-LR_I2PEqusDhWaL4sv5l72w33I3ZW5zdCaMh2Y-ge74syRJ54jL5cMG6uV76im_NdVoSJy7BgruQnMaqOqvWYoGF1Y80gdoNV9ohwEvlhw5vYN7A6Tgu1d7fyM-Yz6EfdpNnEIxIch-dB4OK05AQHr3Z1Px4qu2SXmNoB3MT5xoe9zxAq_BhKM0ArA7ADvGkGiDIxiXkMbKHGZ87RgqAwOxyBWBpXepkak_p5Kk5OWpq3R1MazvRwwOqktt477Y6LRWprvDNpS5ulYNwbS_cy0on4AsYLjuskMt5KzxNFH3akyONLkkUuj5WmBVF_MASLyQDZC9aoAOJLWTnYVN1LWBf8kDNq8xgGIg4KDAbnvPhyNWMgD689oQ..%26pg%3DDCD6VJIZWFARHNFQCBXYLQYJGA%26ch%3DAQEAEAABABR1Ng2QtIggzBSwhlrBBtr8EffEMZFcU8g.

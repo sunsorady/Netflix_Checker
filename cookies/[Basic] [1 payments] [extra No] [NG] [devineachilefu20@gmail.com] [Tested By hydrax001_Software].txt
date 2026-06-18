@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Devine
-– Email: devineachilefu20@gmail.com
-– Country: NG
-– Plan: Basic
-– Member Since: July 2025
-– Next Billing: 2026-06-24
-– Payment: CC
-– Card: 1638
-– Phone: N/A
-– Quality: HD720p
-– Streams: 1
-– Price: ₦4,000
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Ijeoma Esther
-– User GUID: 5QLJTYA4NVA43FNT4HM35NNHJM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1784234203	nfvdid	BQFmAAEBEKt6e7d1s6wS3KD_e0HgYb1gv1zJXL1zVj012f_HPILLD4yA6QuYuyxJoFrus1h-wk18z_yFgvDzRI5VN4Io6dp-Xg2uO-KHcXxZR8k9RlNpV8wIt4fs0vAmFiDZGb7WXkz_LHF88B9ZkHmHKZ8YpAEX
 .netflix.com	TRUE	/	TRUE	1793035599	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT9yhkmP_7r-dShEHdTdcG4SSLtfoNuGAo.%26dt%3D1761499596696
 .netflix.com	TRUE	/	TRUE	1793035599	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4Anbp8GvbISBhUl4R23g3aLF7u14SwvMmcjs7AOA41UHiUQQ1v8WEIt1zkHNp6ZnoL0uRsVEjLcITNjEv0F2q5X4xPpLFVqkl0spZkTHcJMQAZLwA4WolzxfpmgLmImPv2LKrOVMComwW7Es_IaexAE_Q1PfbSGE9Ki-tPuq7rj9DoxXjTy4_KtCQoV7M1bcdq0xIsPLfdfzfTKug8tda1WGsqKmmbmsB0SbtwW8hjoBnMWH6RdPjlERrHtInARf3nkBzc7gDyWJf0uYgxC5vQpUXh2LES0kEb9umFzxlwBL_pNVXZCkPKuhe2728xdRL5VeaxeWu_XYFiJhhwScG94aZXOSG37UOjITeZdcVlVY3_P-6Fdrph7No5PKeZe6-SZdSjc3dEvGdoGhlZAIDtViHlbPt_XKVG90EX9drjTC7SLPVIM_ENxe2iEYFYN2fWsab-2YwVW23DHBbPIxlFpfLx_JJ4vud3k8tv89lTJXh53XX7tLYqxEYBiIOCgyIuYaSHWr4fdtFFFI.%26pg%3D5QLJTYA4NVA43FNT4HM35NNHJM%26ch%3DAQEAEAABABQv7ZIJvpnDRhSIaiCrsXeMPzwiFnW9PWo.

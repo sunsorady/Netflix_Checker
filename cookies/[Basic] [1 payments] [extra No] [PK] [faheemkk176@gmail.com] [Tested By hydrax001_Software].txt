@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: M Faheem
-– Email: faheemkk176@gmail.com
-– Country: PK
-– Plan: Basic
-– Member Since: June 2026
-– Next Billing: 2026-07-01
-– Payment: CC
-– Card: 9285
-– Phone: +923400517596
-– Quality: HD720p
-– Streams: 1
-– Price: PKR 450
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: M Faheem
-– User GUID: PGS4SSYISNBNZKDN6RHMEOHJOE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1793650736	nfvdid	BQFmAAEBEPhrSq-U54BwLRCrRp6O5QJg0hFv9KOtE2_9k12ZLjmKtby91i7TqZltWLPTpTGWAniXc0coeAYaN5SzU9e0FgprdOrktC5EJ-oYI6jDH1vAtnw4OyYGo_tI7RIP698cc81onC4mrexYCaBhz-TLlyqK
 .netflix.com	TRUE	/	FALSE	1802095377	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+08+2026+19%3A02%3A57+GMT%2B0500+(Pakistan+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1afd12df-702c-4f63-aeb0-9138f9047a42&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1812128410	NetflixId	ct%3DBgjHlOvcAxL9A-BwkT_a9lyaDSv_G-ooWb4PG5shV1oOnwLkSp_M1dkco7PVpuXhA4oy7FEsADrPGBoob6pJ4srGD6sUnuhNXH7biS6thdhyJk3BuK5FYY7fx-dCmktNYJb-en81-IdMgW_zrOm1QK_6qrm079Pr482TPfphh1IZMWkOFO3jkKEWJxnFVJiguwCUD1KsCySsKgPlnXRstsyvwPi3_Co5FQ-Lb0NjiA0VqwF6PvfkalGT2aaa3BujwGydPBjhLa-6Nh-A30xr6edfvEmHTYbjkUl6gfmzQ0BMuKMeYm2aegiBd7AEGGXTwL87E1qjv6N9hxLKOZPhgEi3wXGgNt16figPjCbqMR1YixyHfK2GFJVPhd-bw5fFYZfmTSgb4Jhtdy3B4rtG20uVhD-Wu7BnBc8X8G1yUV-xWBJynNC5Hx-zgO6gQyFGma93ThEyZ8XMjaigko6tTRrJqEYkJrwKPRY1YfWOV8VSYo8UYDpwX5ODCN-bI3qSsNP5hoqezU4YadH8kem1g2rQ6quE8uzJZ8np8Co9AjK6iB1ivzlcnm3F3pWEdeeKGrVP4dFdznrie_0V1DYjWM2W3CFmiV3jkXUL-jDFyosQIOEg4IPYaOt7cDCrMxT4S_eN7qyX-lmVuybqx-yYZvvPvFBq9GzRUeS8WPk4Ej39Tj4F_oA9GAYiDgoMIEn6WMh2W1aWwuKy%26ch%3DAQEAEAABABQ8lWDC-6cptOuipontUunepdiyAeetlg0.%26v%3D3%26pg%3DPGS4SSYISNBNZKDN6RHMEOHJOE

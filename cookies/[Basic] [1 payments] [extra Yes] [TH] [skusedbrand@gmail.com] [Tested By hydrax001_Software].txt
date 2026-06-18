@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Sing king
-– Email: skusedbrand@gmail.com
-– Country: TH
-– Plan: Basic
-– Member Since: July 2024
-– Next Billing: 2026-06-23
-– Payment: CC
-– Card: 8920
-– Phone: +66935404135
-– Quality: HD720p
-– Streams: 1
-– Price: THB 169
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Sing king
-– User GUID: THFWCWNOS5GKZNW34SVE2K7IWA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1792415300	nfvdid	BQFmAAEBELhUTiZzOlsXslbiCgZVIsxgGJMeVUKsanb-vMcmM8T17HE3ilCJL3X1JBDd8Y9pMocilq2Zgc3PFmohnpGkdggBP1syMZi1SlUXKYgzlHOizIr-IKaUAhQopKlfRC-eBBvevUV95azf0r0VcIOGQFhG
 .netflix.com	TRUE	/	FALSE	1802847891	NetflixId	ct%3DBgjHlOvcAxLxA9yM668Hqy26oRPFCek8iTJjkhkJ9SSe930r4i1AuQhSriTeVjibuAnWA1MX8iwcRb6ma4AsXpXuE8eAkfNi6zOpcb_loIfNxwAFqTlu_tzcbx3pv-fWIsVraiX68KFtagmN6LTav0Ya5XYF__fBNMqNC7AKJR2Q8EJbcNKpTvmwPtNXnsIuZ6zadAxvCtg92sHQRwiupqG9Tq5JvH3tMEO5qBlNTpftzwQglx-PMQY56XyQ1iMuqJ76rNTB9Aq9RjbJqozcIZnthY3n9kJ5_3KyvZnViSWmEDCS_y4SCcnU74kkylXPFhKekGKNFjTJeQryHjrnh3G7W_Q2_dm-gZ4hTJtoS4GOEZx66DHCc2iHx9Q_quxu5Xom8VX3l0UT60hktJ8SZjMpVJgEte2k3Di5KgKyiw8iSo3l8W7iYb6pu0cQtSYbKbA6ZWdwxrzLvT0R7MxFci31A-mrkkMYnh8TGHRvK9AkDVCN2nfTnZlE30e6eIleIsyotT_AszcDVp8yX9f0VXxL0ojITzG5IE7QsIVWRmFixKj7766RMQJGlKRT2lAsnA352Vru07Pq-gWE4RWxeHLj9tz-4ycgVlj6ZhM7Fir2rGJGxVolBd-Z3dHer_7lFRx-3DidWwOhFaccSWDpFAR1PxOhTV2Lw_rEGAYiDgoMfNf6SAltCCXJ8IbR%26ch%3DAQEAEAABABR7_VfaTXhFgziwEdYGf0PaQACaMiVup-Y.%26v%3D3%26pg%3DTHFWCWNOS5GKZNW34SVE2K7IWA
 .netflix.com	TRUE	/	FALSE	1802847893	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+17+2026+14%3A04%3A53+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=70ce05c2-6987-460d-b4f9-d5231203b823&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

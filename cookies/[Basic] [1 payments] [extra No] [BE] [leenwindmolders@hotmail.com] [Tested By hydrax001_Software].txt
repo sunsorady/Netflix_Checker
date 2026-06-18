@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Liam
-#EMAIL          : leenwindmolders@hotmail.com
-#PHONE          : N/A
-#EMAIL VERIFIED : Yes
-#CREATED        : February 2020
-#COUNTRY        : Belgium 🇧🇪
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : ITUNES
-#SOURCE         : Netflix
-#EXPIRE         : N/A
-#DAYS LEFT      : N/A
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:19
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1795183121	OptanonAlertBoxClosed	2025-11-20T13:58:41.650Z
 .netflix.com	TRUE	/	FALSE	1799529899	nfvdid	BQFmAAEBEL0axaL_b2cQrXkekk_Qos5g9ny687zMceY_cio8UZVYQ21YJxWPBwn78l0MQoOnahbmNMkuiHY56HgTuNG8rasuKUAtx3mz90isiqNR_el4oURYdvZtPR_tTuN0cbzoNsb-EZLcQevEp2TC-mqdJ_GJ
 .netflix.com	TRUE	/	TRUE	1805291757	dsca	true

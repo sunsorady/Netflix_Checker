@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : M
-#EMAIL          : 24120200007@reva.edu.in
-#PHONE          : N/A
-#EMAIL VERIFIED : Yes
-#CREATED        : January 2026
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-06-22
-#DAYS LEFT      : 4 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:21
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1791533561	nfvdid	BQFmAAEBEPnlrog2_2l_GHdHXlbPSpRgryTcGIA7jZmF7X2yjBmRMGD0tNsmWE2PAYVEy70bIZ0uwQvfBtzmg8C_haU5tvrXoc93GX9PNVHetqZ7htRJwdIzmQ9hTC6pTX2Hv-KHx1ahnY49GP9Iuuc1HEJ3mn3h
 .netflix.com	TRUE	/	FALSE	1792602806	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+22%3A43%3A26+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=22f8e38b-c393-42fa-b417-9c9e4be743b8&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	FALSE	1784826803	netflix-sans-bold-3-loaded	true

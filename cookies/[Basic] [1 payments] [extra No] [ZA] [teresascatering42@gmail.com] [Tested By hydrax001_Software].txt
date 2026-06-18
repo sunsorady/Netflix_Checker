@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Arsenio
-– Email: teresascatering42@gmail.com
-– Country: ZA
-– Plan: Basic
-– Member Since: March 2022
-– Next Billing: 2026-06-24
-– Payment: CC
-– Card: 7616
-– Phone: +27785274026
-– Quality: HD720p
-– Streams: 1
-– Price: R 99
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Teresa
-– User GUID: OKTJGYZTGNGDVKSUB3F7BZHU5Y
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1797688552	nfvdid	BQFmAAEBEI7i2eeCPFNFVFkUo9NXo0ZgVraSUsfevQXDK8g8lqW-wspZ4CHG3XqeKQTn0UN1pDCDDyUKCFBm0tVyYsyV5aARouJHdnX3QRZ8XJGOJVXDAS0C98nxpVPagFbOzxOCf7tevF7PdkCDstdM1aHt1UFR
 .netflix.com	TRUE	/	TRUE	1806761801	NetflixId	ct%3DBgjHlOvcAxLLA37uF2Qeszzp6xel3YC-whmHrmNDt99bgFoKLJ8Noq6LrV6uCRP-XClPZkbRdysXMwM2KsGVOrMDD2m9aOEbqL_L4za-OmjMXSIf6DYHV-M92rSC3-M_bdqDJM4k_wWdtLC6_f7m-3y_FNdBHwBsRCzhS1BPWBWxYabjiZfefq1HzSqgZ4xYsdh8e8GHbYTO7uFoJSXgkeVP-wC2uNgSakQARQnoiEVG_gh2tgPqxGC-b2Y4eJ6FzTZOps5xhIRwWtR_WL1gcWqbeVOwtb7qXCvM5OrpE8epZOe6h0Qezdg7Xn56ZDryWatar4Rkwut4PDQXiZ9Uu0ODmqJFt6Wou0SgTRvargvbxbB1vQlU9jyvdCWwFzbGyK10__BWt0287oQiLWo7toI3V_m2K_dx-mvHMrFHLH2AruOOGoW96th4RgdmzSl3m_-OedRZf_qTE_UG3MyjSgMiUPF5o3GcRP6KbPeCPvWEdBd2LFDvtnGxD2IcH6-G5fwm8t6e2HfT22__A1kX9XIJ8azqDUvAfCkWgrZKiA2z9IE_qxtdX2diZ2ULJ0IKz22QhquImr9SUYp_Mqmk0wMi08brTh45UqzlfGnuzUQf4LCYThgGIg4KDGAsHrUss0sSJk8v1w..%26ch%3DAQEAEAABABQyefY22CP0dB1mpvTqNKGMAUD8GhUtiXM.%26v%3D3%26pg%3DOKTJGYZTGNGDVKSUB3F7BZHU5Y
 .netflix.com	TRUE	/	FALSE	1806761827	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+16%3A17%3A07+GMT%2B0200+(South+Africa+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=294587fc-9bd4-411b-91b4-87a64f30398e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&prevHadToken=0

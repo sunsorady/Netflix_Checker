@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Xiv
-– Email: ben10nson@gmail.com
-– Country: MY
-– Plan: Basic
-– Member Since: June 2023
-– Next Billing: 2026-07-09
-– Payment: CC
-– Card: 6160
-– Phone: +60138699814
-– Quality: HD720p
-– Streams: 1
-– Price: RM 29.90
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Jupinah
-– User GUID: FPTYFCZONFCJNATBO53YI73NEY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1800192513	nfvdid	BQFmAAEBEDqBCQG0ZKOT68X93q2PIKNgqpH_8NaG2-dyUJR-TlXwxc-wlXCpOjVlD_GTgqw1rnzGoAofILcdy_uYXTF3UhFcnHKugxB4seAEF8DOkq-vQlWXm_6P3NbfO6jHLTzysqj6qKBDl82M92UhdX2XWIXP
 .netflix.com	TRUE	/	TRUE	1800277141	NetflixId	ct%3DBgjHlOvcAxKsA4Q34gAci6jeGdzrwvR33YW1eEZC4kn3kKhUMpWXdyo0TZG6fzgwWxI1T9mXrtap9Mvk3x3klU2zWpaH6SFQhi5NAjiyGFNCufwO_VviC8zq6biAKHq_dC1ZMSoGzxYVsLaLCZfpjVGciwVTKVJ_3MCWcl9o_D0cKbDplS_IgJUpItDlv3FZFZ0lwrhsSHA7qKdTmjHc3bC-qK9Sf2hXIfHvycckhE-WOFc1iAtvAAu8XTy4TZNfpbgQahAHJalkJpzbd2VbT0A17WiQ9WdB_vLEzPfoIBK7n8goewZ6PVkJB_E8E7CEbEgKY_mkkNP7n_CsIzdMsHE2976XDbZ1AdrdPGYOx1TTqi0V1TRckQpU0O9ucaFjPcu26Zo5_VE7WWt2X3YC-k2aV6hzJuBre139w9AiUGa-539p2Ss_4hOD6tdW7Z1wVf-mlnVA67HQlxqHCeLTPSvOzDHTQOfQ503FCzdWOc27zxqo9cwky-2XPiP3GK3V1zb6Wq5PCs7xjbV5o4Yhji-ZVh7wh1oUpXFGOGkEbFJL_NgGLAn06OPlomL-MjJBbr0JzNlnGAYiDgoMpCURL0wCFcfZNsHF%26ch%3DAQEAEAABABQT-sZSTEFW8mETFONlTfuD8xPJ8nUQ9GM.%26v%3D3%26pg%3DFPTYFCZONFCJNATBO53YI73NEY
 .netflix.com	TRUE	/	TRUE	1800277141	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT4SaDUCPjZo0c_rqqrU3pf_yqONf_FLSY.%26dt%3D1768741142353

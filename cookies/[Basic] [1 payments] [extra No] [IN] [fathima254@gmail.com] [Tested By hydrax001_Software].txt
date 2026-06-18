@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Fadhil
-#EMAIL          : fathima254@gmail.com
-#PHONE          : N/A
-#EMAIL VERIFIED : Yes
-#CREATED        : January 2026
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-07-06
-#DAYS LEFT      : 18 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:22
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1798084332	nfvdid	BQFmAAEBEJDFIsDTXT6_KLOPdrxyqSdgIGpo11hvszCFiyQ3X6v0AKSNqXDo0JcRMeYgAChlEUto0084zsgh-hARyM6gL49hYNMB2RSc4bHlstnFwzWwyz86MLGHJrbquertdeP6oWlDjs6a5CU9fQ-d7lD3sGnJ
 .netflix.com	TRUE	/	FALSE	1801049455	OptanonAlertBoxClosed	2026-01-27T11:30:55.209Z
 .netflix.com	TRUE	/	TRUE	1808307578	NetflixId	ct%3DBgjHlOvcAxLMA9X3-oBp7l9qf_nfbQJ14biJBYgUN5JC9NcNnB-k8zeFCigok5dT9gRrYsW-ZJ7Jl2UTzKszDmrKds9d9Rsjxcs51O7U-XBCUAN3s0GLUukozAHkek7eIZJxTSytvmhGKUj0YivkVqJJLvYRVtZm_jRoo0bssgUArynZUNgMX1QUPwRKooNZFA6FQVBOh9d54NwdCT0Y48P0COz4u42zbEMOQPjWxuVt_FZrSFXHB2tAd29arTw_GbvZrC8CpoQSd5yqqgF8CSwvGC1GMNxHwCIct0N0BStalJTfC8fzaQN6ee3bNOniuF56CTeBuBbqZR-aHie0SCNGKwL5sxHgeFD3llwky9Ml5oUIbh9SgLKLzc7HjY8Dfwu19C45_HW8R5YWo1CEu5qLHqIsyY3j09I5caJTSgF5F-MmZWbkh7P6PKiMVZMeK5iCVLfijLSdO9-RqrcD3RL7crILNg8QqR-w3nFxGvndZ4NON7lnUTxV7-2Wzp1Uj7gLo-Kt6Vvq_mzJA6irZIfcU2N1rvDOrhze3iNR7MmeCNwK90nrJNAMwjGonApaBILQCCqma2Y1MsCWc13jiXBV6fsbhqV8ZF-DRhYetz3jbpKa18QYBiIOCgzJjWlHLzOI6aNYCAs.%26ch%3DAQEAEAABABRdK8l1cbleH7AhQnnfcmESBfz_wEJblXk.%26v%3D3%26pg%3DQOKE6NDRPZCZLBQBVDK4TJCEJU

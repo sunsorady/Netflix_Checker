@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Home
-– Email: lavanyagokavarapu2244@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2025
-– Next Billing: 2026-07-12
-– Payment: UPI
-– Card: N/A
-– Phone: +919040427698
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: lavanyagokavarapu2244
-– User GUID: CHTYYTAXLRC6FCI7VX7CFTNVS4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1807207369	nfvdid	BQFmAAEBEBDwZyEmKL09RqmV5rjQNmFggCmRMA3FafT8g-i8Lvd0pJ6U1nelQNYImokdyTl7afkpzMtpn-0-f9ns_uGDoQGAJeLCUbJlPMJi1eRyN43x8Y-DxesbhIsSGIasVVLvjLoasq_gb1kP4ddhLa7IoYYq
 .netflix.com	TRUE	/	TRUE	1808766098	NetflixId	ct%3DBgjHlOvcAxKyA0qQ64vSiplAyrKXHZDhVeAKOrV727QzBLBmtmejzm9FaqI_lmvVoWbbg5hhhVxC5onIKYkgtNCFhewCIvh610aL_HWlZg3p1E_wwXwPnoA04MlUaSO0Ul89dPKWS1OJZgii3N9a4l_Iqos5nzvPKpTm0uuBxvEEp-LR1vIQ3BiGeVtwrLSZwb1V-bb9rxu6KS6y35aN3c5_quhr76vkaMC-UgqcIjZM1a76nu7IY5LtyHQPPAOA7Gxx7L__d7ft02JkpFcQGkx0gMqTskDCYRR8loNSo-ekLBlQmOtOU_hEVvDyzIirArWLntfbMhFB6xYsf5LeRLhMDmMJFVZNyLgfD8aPCAgE_FBP9tDRfPmzyPxEIyAGjtK-Nsi6Zt2iiWpXt6ZH8MGWec1hViklSivbO7b5ttQBBo-UsOZkOn2pCIJS5jp-F7mP99wPcXXCk0Bs51xPy9imT2K4Z_SZKFEFKILkPAaZuwTA9AF0iTB3OqPExKMKvWJPYyUG30aTvXYAWaun7v9TqrI8fG-O2yvOl6_vJgnj-0Y-IHE0jI4F-dZx4Rn5-w43sDp5lZ04ICpNGAYiDgoMumzKtMnkDZuS3Vz2%26ch%3DAQEAEAABABSzmlYqiJz6QVi-LK1AkVEnl2dO4jllh48.%26v%3D3%26pg%3DCHTYYTAXLRC6FCI7VX7CFTNVS4
 .netflix.com	TRUE	/	TRUE	1808766098	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQcZuWPu4LwVjR5ZLqC87hgr12wgdccwhI.%26dt%3D1777230097862

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Deepak Suresh
-– Email: sdeepaksharma508@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: June 2024
-– Next Billing: 2026-07-09
-– Payment: UPI
-– Card: N/A
-– Phone: +917397546369
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Deepak Suresh
-– User GUID: PGF4BCD4KNGK3LOAXTLZA2WDHM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1794908312	nfvdid	BQFmAAEBEI9FwfPW3EMpWwfTjoWuRMpguL5AVYphzwTGqJ4MInoCJlJcZVRoffDSpzBmbwCbC6xoxXBy4McSFs4NjSUE5oW8ngZTd1CXIWCRORYkgUZSfk1MRNU5wGCbJfYfbQ0tbqavP48cMfpb1g7jdLx0jMhm
 .netflix.com	TRUE	/	FALSE	1799732851	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+11%3A17%3A31+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=563de9fa-b1a9-4fd3-ae39-6c975cffac1c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1800163434	NetflixId	ct%3DBgjHlOvcAxLuAx86cwXRken25L9hTZSJGjjZJNMp3m4ETHvsFYbjHWX-nZGxIc7s73e7yCWgRYo9nmgsWvnioF_EJbg6ETNKBBgYDBltsF7Oglol99blFpMPa2MQMNLy7b7BABSSS8IFxYzno7hIL-rIWphXLkZa8UaTzj7Go2EFu6p7ak2qw7rArRKdIZZExa7-QiDbMqlQqfXTFyJc3Ll1qBF9uou_DoaqqVJPEKiKRjq_wPlWNBRumaxseQ57mMWMupAv1-mJ6CgA7e5TRnjonqCck5gItR0PTsbLxWchj5FztLikW1KATTUjo3Tcd_ZHa0FSJrcXYDrfjGxVyaGhriwgTtCtd2RfZE51NTnqVtX2xRmUMyhGARXNaJ6vQx5E6Y9wO8EPoUU4WGbl1T_8TfDf_rnZY-6vQyvGxp5iK8K3AaxsOZhabHbxddaXrMPVJ9h7_DENrIXS8W8PCiZf2U6pNmuZtUga94ESTmFh6CDrpLOaKA7rT84qqOd1PHpLqwVdpaUDVluag7RCIDUKe8u8NZvOcOSKQx3fNe4KV9XudUlzsN-JSg3FT93NCftWxvPQ-ggrb8tKGKJSqmF2W6Fu9iAAxqJyx_nN5u0fSgrkc9tAPOSSF_ORseEIYB77UzuJ8uUT61Ig1mMY0BFu0Vp6b0GbGAYiDgoMU0eDsN4MODMoItt5%26ch%3DAQEAEAABABRazKQQDThUxj4R3_KSuYKKm86vJ3qlMRw.%26v%3D3%26pg%3DPGF4BCD4KNGK3LOAXTLZA2WDHM

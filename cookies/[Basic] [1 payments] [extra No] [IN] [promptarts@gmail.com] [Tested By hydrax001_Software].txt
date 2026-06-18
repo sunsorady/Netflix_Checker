@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Mahesh Chandra
-– Email: promptarts@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: January 2024
-– Next Billing: 2026-06-26
-– Payment: CC
-– Card: 1000
-– Phone: +919336810797
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Mahesh Chandra
-– User GUID: 4U7PBSGANJAKXABGRMCVQ3IY2Q
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1805032949	nfvdid	BQFmAAEBEKMayrKGFT0RC5T90CcYjVBgv9FDrlkeT6GyImfl5aR1zN_lflRFDa5vPsiB92vf8KzDKdqIFWN44enud0wZu47m3DIBGXtx5M42zwtJ0wmYqZ_hZjReFktfZNquArYAuZ9b5Tr4-J4MV4h5LhvRYmHr
 .netflix.com	TRUE	/	TRUE	1808128438	NetflixId	ct%3DBgjHlOvcAxK8A4WV-MQx_phBu_U6PwnKk6CgjvljiSzIDF6BSqbAG2qzNHJ-4msnWMhk85FRVXeyF2qBbxme9znSFY9QGqyRTtuw8sVzdyUlgEmvlA_BXIT6ZVYwFSRHEgxvQq53JCtQOs1lu2WxqL43stIkgamigfRhsU3yHebnGuJHO9xC0lEzUyU6eYmH66mYY0X2lt9mhyqKVrokB7bcsYATVQleuucWMopd0COa4g3mkDcA3R8RDij1DzZkD0jIDsCyztjuH8NStXDKZz5IjcHrQBbENypf4amhIUw9QzdIwcKI9tisUw2suwzf93JjMFQdDv_xg7vLUWhFSlPfl1xy7LQOWGtY8f8u4Lezcx0sR8CJ0pIAyaIw1-kpD6ToWly8_o7_IxewA_MOsu5UOvG90WAQZ9l9GO-b_oyJRR5gW1aqrSVkg0Zkg6WB6iSxeLIwareYL3uy6oHnCF9Gm90oKExZF8IjJ6v-EpRQuWHj7rZUd5_m-Po5RGSApN-__vS5attkDLeLcE3wI8YarUbisRSSGBYddvJEb48xnTknNQ_xkN83cSwfJlMSiujLI-sYtusZ5ttXuWXLNSM1tOc3oxgGIg4KDMIO3xJIPhdaW1h8oA..%26ch%3DAQEAEAABABT7smWgXqvE3uWNFXRu1uoyeyVI833o2Tg.%26v%3D3%26pg%3D4U7PBSGANJAKXABGRMCVQ3IY2Q
 .netflix.com	TRUE	/	FALSE	1808128452	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+15%3A24%3A12+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8c11a20a-11a7-43c4-92a4-7d7cc3f6fff6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

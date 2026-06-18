@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Jan
-– Email: einbertwinter@kpnmail.nl
-– Country: NL
-– Plan: Basic
-– Member Since: december 2025
-– Next Billing: N/A
-– Payment: KPN_BILLED
-– Card: N/A
-– Phone: +31638225512
-– Quality: HD720p
-– Streams: 1
-– Price: N/A
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: einbertwinter
-– User GUID: QJ2GM3FC5BAWHECKAMYFCRLGE4
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1799932587	nfvdid	BQFmAAEBEDQtQEHpFfTG8jXFqA6rT8ZgcV-_mWC4NLu9nzKqVeVvkdctHrJpHHBGF3Dtei9EhNmtCv1amtRTVSg5DZHAjhI-uLS0jM5VjVS31A0F5no_pWaPwFgEVPAP9kUaEeb_ry1NMUDYhwIxszgUQTC47N1x
 .netflix.com	TRUE	/	FALSE	1799983968	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+15+2026+04%3A32%3A48+GMT%2B0100+(Midden-Europese+standaardtijd)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f241509c-78cb-4699-8f05-5e416a0b2272&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=NL%3BZH&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1805374590	NetflixId	ct%3DBgjHlOvcAxL9A9QnfepN5x0P1V5yKaJxMY3wITfj83NJzmlFJKVJ4FHvyvaZ0KAM3FsrlY-e6LLW0AMc5HWTRrrV5Xmw7gMl97_uxtlKsHnL_CmuxmR0v1GxpU05TuFep-r94eJkFYM2E75q5fveSg5f7I3pR1OIRsI0erbivrd5qo3lUhYig2EltYaegLsCFsHY8HHYuHPOErojvPlA50y0BTA4CKpFuf1zj6kmk6O7Oppr1M8JPPr3H7ksdYVdOfnbvzjFW6pC7suQHN8b08F2ll2ZodRRqMi_SCqhs5vicBWGN1VSXia_qWAJ12EGJwVmVKt6L8_w8q0lZsrGp1SfBjf3W-el2-jD65XEUMo6xwp6_dLsjNnJZoTp_ImXjDF5dBphFSYt6SULduVvGJIqjxC3T4b-q7VNTqyZo23gs4NPO3Gi4o7yKWa0vnurmEgSsShzfNn6T5zO5Xd9r8QRaEQKB_OzB6hAygqIZEabZY7q6dtb1d_vW0VQWEJJoqtiwhviD6CPRck3oQWCA_gOOh_WMeFXqcFHziVqYYI1v2_dYmWO4vwp-5ue2tBdm4t1KBzYeIlzEv2t35dR-Wi6A1A7Ftw-XfAVLRrjz_-8Sd9SlrBOOZ13XmK22Da6ytes1_ukqg12MpD2oqIdDIpiWBu8FrorDdBqx12kUzz0eyx5Lu0RGAYiDgoM7TkUuYEcctTnUACH%26ch%3DAQEAEAABABSHkZoF3V7UEFgWIKfHTYfBtaTy6V_QYKs.%26v%3D3%26pg%3DQJ2GM3FC5BAWHECKAMYFCRLGE4

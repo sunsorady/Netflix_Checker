@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Talha
-– Email: talha303440@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: July 2023
-– Next Billing: N/A
-– Payment: AIRTEL_BILLED
-– Card: N/A
-– Phone: +917208608074
-– Quality: HD720p
-– Streams: 1
-– Price: N/A
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Mohd Talha
-– User GUID: FGU3HUXMN5CE5CCRFYFETY3WFA
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	TRUE	1784562557	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1ApM9kYAgpgpaJoyIKBk3NLqzX3ijsvOUWwl0WUGLK_F54ihIwChVr-KlXhkyj9-d9K2qQh6bPYcrYQwZ_Vm0gG1Efi000arO9jSBk_GWcF6zXfmeOgcmyOwLD9_lY5L5oDsqhLQ0zI6YqWvf8U_NnVEYYeOlrovEO5fVsFHxb-Sg1sU8eHGKswd-OYOR4CL35pOLJO9Ta-toeD2PciTRh7RPxW_TGcv72Vw8Cfi--sDv_DeAvMTLNS1vUsx5Il7hxIOyPYbjDsUVFSVheCPqrE7Hgt-CWSs18qJqGmrWRZYyon62jVe8vX0Z0ZRbkyLV_1iI9QJeH8CL1BSWpgr1Pq0pi1g2q9PO0UizLCgJuAr2cDwuazVBTsbz2iDWUZEzcjs_MOvlB8sMR4blN8xtPh15bUJLyqcsH6oYLa-DRMM_MsNSD0WDKAUjESu0-igNFyC_tL594FkKfHcwDg373EqUIp8hy4BfM3lfCHwsF3tXTrKT4gIYBiIOCgzQHrETvK6I9KefBCg.%26pg%3DFGU3HUXMN5CE5CCRFYFETY3WFA%26ch%3DAQEAEAABABRLM_LYkpCxtDjW2TdBd6APb5BfjCw_8wE.
 .netflix.com	TRUE	/	TRUE	1784562557	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkw1zisxEsMV0isflFPb0GtamZiWDyhDo.%26dt%3D1753026528984
 .netflix.com	TRUE	/	FALSE	1784562549	nfvdid	BQFmAAEBEH93ommwjWbGHEOh_UUfTb5ghcOLZBxrHTBUDcaE3YUR74IxCKBHMeJ3JiNctdSJuiJEEYAGIfr8PBwJimWonn2GjsM54_OmWuDWjbays7GXZ50Yzzr1-iTOvrLITFZd3FGT8zOqhPujCxtRpo3Vautx

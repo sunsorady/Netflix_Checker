@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: goparapuakshitha
-– Email: goparapuakshitha@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2022
-– Next Billing: 2026-06-26
-– Payment: UPI
-– Card: N/A
-– Phone: +919642424298
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: goparapuakshitha
-– User GUID: NXJ4UCK3MVHFNOY3WMCXYXKMSI
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	TRUE	1812362923	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTricmEmxG0mz1zJO_RFH1YZOOhEQPc1_Y.%26dt%3D1780826946308
 .netflix.com	TRUE	/	FALSE	1812362923	nfvdid	BQFmAAEBEEBigha7HxcSiLtthz1RmPJgLczmnavmFr5XafVE4DIpRBeORtOBfqLFZGpcnX-M5b65A_u1Es1IR4NcByNEbQFGS8gjKlDtqvLnCglFEwZAXHXiJbH7K4dVgFumTpwo517X1XnrP20_3mXLA9spdIRA
 .netflix.com	TRUE	/	TRUE	1812362923	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKtA4GyMdbD0A7fS5ySzoCbwIhxmmVsyvCzRJnDRoXHGIJzkEyvyoj8yx8fTMSleC0Zocj682lj0hy7qbEcdqRA2pdSu4V-QSfRyhTj9lg8XCp2cJ42DywUOv50Wr5PvcBmFetugA38c7WjvwVzOl4jomdcynVfreonAXUruoIy02tnKowU9oqIO2w_px9grp3bLC9hKv2AWkB3XDGH9G29VH0HLsnfqxmovK6K9vJbqISF8wkBHBdBiVND6RS991r6YItVIHscVHGiuDKPRdsl8Y-AOXx3ev-_Ff3GTy4ABy1PBuUIGUN0GWX1rRDmLFyIT1sJPXHBCpXwVzD1Cd8HqLX1Cf7uCd_qeYxbuumgDwjTN81bjcl_smh1MXbC9GDsCF-xVf4oW5WB9JVV4NKYt7x1vm9xHvYmeKSPfwzTWQgAzr8oY4xbtEv1_XnzYuuBo3whzWfAPqHt63gYuQwFsIpf7IYz4RxDV3w554so2nMpalelMT87Ma2GZZsdW3RFR46D2TuTS9OaTr6Fd8okE_ldvNC8E-pq4DfymZVB0603PJA1O2a2VQnLQ7WbDhgGIg4KDMSyuX-n6TYx9ZqTmA..%26pg%3DNXJ4UCK3MVHFNOY3WMCXYXKMSI%26ch%3DAQEAEAABABTcCYxEvFnsAG2bk6nitPGFDQI6pEEIWcQ.

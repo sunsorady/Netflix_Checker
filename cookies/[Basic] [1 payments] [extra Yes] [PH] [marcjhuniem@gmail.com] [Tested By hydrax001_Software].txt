@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : marcjhuniem
-#EMAIL          : marcjhuniem@gmail.com
-#PHONE          : N/A
-#EMAIL VERIFIED : Yes
-#CREATED        : May 2026
-#COUNTRY        : Philippines 🇵🇭
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : MOBILE_WALLET
-#SOURCE         : Netflix
-#EXPIRE         : 2026-06-19
-#DAYS LEFT      : 1 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:25
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1797079137	nfvdid	BQFmAAEBEOprYV03TXuDytRHhCx-Y-hg3whzDpo1zWi9AIk9RBcVcVS22HxD2Xxn2T1DUtrsandMnt4iUSrlnWXnhPg4Y7NiaWncydMlHEKH-StZq_0Z7npRqUtsDExpHml2ssXlJyOZyqJ0HyyVZUagwjWg0Gd6
 .netflix.com	TRUE	/	TRUE	1806297216	NetflixId	ct%3DBgjHlOvcAxKGBHSCpH_Y9A_DihPJVCHPyIPIZA-812OZ4pF5AmoIfWMUy5a-EIoFX6jkh8ZylGHviuCIYHMWLjrWZdqFYdIMKoO5NJVsCl1oRQmti2DjWFbxj8lrpfVAKq2oBP2Kn2MbshNrSMMlLe8fxMxujKLcH80BaUzqJBvMxrxaQbE0BMjzpS1cb7j2Oh5mmLslx7HgJA7jWQlRuPNMxBMTrByHO3IrxzShyBIwEApHe4hgCjoofhmy4ws3V3A8RjDcepjSojWSSYW4_4WiyGoJdu78KIDjk0uEa99iLGDiHHJdKkUBottcrjKfXcwkBD_mI75jr_99rYKM6bg7xP6EbN2kQmHZDqgmLega-qwnL7CrjV0URrB6RhnEDHF8FJtAt8uGj5AyW3R_rHx36_xOb_7-bk-8eYMx9oel1uuO77hYy5JJsuXV1oIxTlgM7kyjrEG4KsF5d7src68xdbg31jy_tJe9HoGSHR7yGwHiZX6B31sLtyEytv_vnM0uGxFfjsC3qXXnKOLcH52hX8mlHF0-d9Xvr6Ra5ChjzfV6Lzy58wq2-vA75N2-S_EuiWthgxujHDmBP3ZpPOGERzdPOV4TVYfBOr6nVxP1TgfIzdQCDl1TZEF9l1VlmNOSlD6Xwe0J7DuXd-H-y5eUlplJBuLHaVL67GL1F7R4ZWmNYZ-7LjbCSl7k9ReeGAYiDgoMZJ_bZFsyUKmoF7pD%26ch%3DAQEAEAABABS9ZPMk9Scmmww7rUnbAjmtEkOnJGuTj38.%26v%3D3%26pg%3D6CBX32SPSZFEJLC5LJY6Y4RLKU
 .netflix.com	TRUE	/	FALSE	1806297220	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+13%3A13%3A40+GMT%2B0800+(Philippine+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=720c77ea-2a1c-4669-9fb4-adad7bed6b35&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Ramesh
-– Email: kaddipudiramesh@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: January 2026
-– Next Billing: 2026-07-09
-– Payment: UPI
-– Card: N/A
-– Phone: +919945954578
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Ramesh
-– User GUID: F6BZGJC4TRCGBFY3BM6QSXXNCM
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1810399931	nfvdid	BQFmAAEBEBte4Xbl_RUhJw5qYvNtqmhgQuBrN3LhoT6yOWoekZcbrCPIXAM3TojFTexxA4LGRj7bUg0IdX726tIstO7ofCHbsbC4Kf8LML5efFIv7D3JEilvjDFjAnrkq_8K6u80427zjw3UJUqGiQntMJ56Eo_K
 .netflix.com	TRUE	/	TRUE	1810400033	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA_E-8XDVqYzy4vs_65UNmi0UehyvTCPHSuxLCN_kFHNczCUljKR3R2VxxLCHVUvGCndfzgBX6Oi_ASNjSX9FcVKgdo-1AIvX92LhomXxNkMMWuEv-Y5M5juQyMozw9aR64lk-kUWvdgtg7lWegEyRlRdQrKE35tNmSBlAoryCUKA8Mfb3zlMAnLvhfgUAj2o9JuQ_Q-kFtvZFzi5DnJTD09dee9h1Qx80YlJ2MCI6dONMo2W5o3_Go95hNkLAyDIYs0dLXGB6_Qojpo_QKAFvxoUowhPJZ0oTt8iq-bgSuFP3Rryfkr39ahQ-Cy5cNlZnULyA-TXiL1ozLHBwGnEF8IwLLk9vnxPT8dA7Gegr_FWW165Kc90ILxKDM4uV-ROO0mvNKOanTFtauh1dn16ST-iqWiyaKJ_4djbLRlE-qYcB6qqXKaieOQ03Jl7QuH4YZLWFJzI0Vnh9JQfJrmFgqVmSK496j1Pqmq32wg80BGseYedGDmfKhPwKSDRmiwQeseG_QhVOjAoetQGV8TVrtFXbVizCugdVcD3V3pXRNH7_aHMGAYiDgoMT4kIj4hvdQblPAom%26pg%3DF6BZGJC4TRCGBFY3BM6QSXXNCM%26ch%3DAQEAEAABABSl3ypFMZajdes3c9YcvL4Ku39Gs3wJxB8.
 .netflix.com	TRUE	/	TRUE	1810400033	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7ZOM6pJVUXdRc9dtjofOaq2vMQMv435Q.%26dt%3D1778864033263

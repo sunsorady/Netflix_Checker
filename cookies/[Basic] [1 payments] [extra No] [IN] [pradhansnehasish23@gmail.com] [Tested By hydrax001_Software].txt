@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Rohan
-– Email: pradhansnehasish23@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: November 2024
-– Next Billing: 2026-07-03
-– Payment: UPI
-– Card: N/A
-– Phone: +918117017448
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: pradhansnehasish23
-– User GUID: SP2EABX7XNBBBOKZMUXSHJQQFE
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1804692693	nfvdid	BQFmAAEBENh47ewp-_UxipWqLG_YiQ5gNeU-KEkOlsoRRSMSZppkbclrPhz2brH1Qq-hleysgzZX9GQGHbVrATS5aj513YPsRaRukot-ATWkUMIrNHtWQmdUG6B1RXUBBYsNzDHdsMS7-lIZ4b_uVlaQRF0Ajfyy
 .netflix.com	TRUE	/	TRUE	1808573683	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAyXkKuu8Nkp1MjgxoQXUe6N6AW4_6KKYic9xNbK2fSBj__YsH8XZB_2hwtYynUAzc5lasjvgCdMKKGZGSsup5vcq0CWh0iXFkTRM7g0sjC-GMFcNCDgpj1f9fx48Q6oBeQl_GGVBQz2D82Z-wxE9HGyVYFTThE4IhRl3atx2DKhPuViTxyF_4LPjD-rJbxIZ1H9J7uTiriqqKbLn33_f1kmVH46yZBXYccnzHWi0Hl2evWHGPMaLiXmLCPwbft7uptDnyFip4dXUhM-zOkxmYfnjh9l0ZCFWzXfnDdJ5Wfe1XPCrSDKDTsNYM8Au4-8n8KbkaL0VWRY-Ce8bgxHkMDvukJBLlgPDI92wjuCvy8XEatn1l_VwcumOtawWN9FGgUdrc_x8pUIbySB-mmd-J5ly4hG_aIpNNQvDfpnWxLrr7W_fQSKJ_LZ6EwPzqHOpcX6j5rIoelIK44cqLX_TbeGMoWpAAfApOS3XYHO1jC8h6wyZCGfS8SpfeHY5kCVQugio-ThYKxu9Ld5ujNGZvH5-YlGzfHceqD3MBhgGIg4KDEqri-CmxyzVOm19jA..%26pg%3DSP2EABX7XNBBBOKZMUXSHJQQFE%26ch%3DAQEAEAABABQnmENxuvu8SjLZcIMynQQTpMKzB3MDf6I.
 .netflix.com	TRUE	/	FALSE	1808573684	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+19%3A04%3A44+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3eac629f-1382-4f0c-8a81-3a329603134a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771663504278&AwaitingReconsent=false&prevHadToken=0

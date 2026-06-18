@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Artur
-– Email: artur.m.wojcik@gmail.com
-– Country: PL
-– Plan: Basic
-– Member Since: June 2025
-– Next Billing: 2026-07-03
-– Payment: CC
-– Card: 5120
-– Phone: +48515166513
-– Quality: HD720p
-– Streams: 1
-– Price: 37 zł
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Artur
-– User GUID: YAUG4ZXWNBGQBEBRWMSWRK6Q24
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1799184941	nfvdid	BQFmAAEBEPcrVjVJUwpq263ysZReTfRgvhQL8DGN-0alMu_CSoJCW2Xi4GC5SwV-8K4mARPvrdOHnY2Y5x5c29vKL8yfhmncrnDuJXBKWwSKB4CLPVzrNt13tzL1vE_N5RdWrYdk5gvWbiTtRPNnWQcM85OcPoUo
 .netflix.com	TRUE	/	TRUE	1799572680	NetflixId	ct%3DBgjHlOvcAxLmA6cvxoeU_qAruqMve_ABlIMAQKp2dzwkVpCqf3Mwq8DhPTOHz3W-97xjxq1Fqp59VUbKqYu_kh95-v3sN-odUCKMlZq0zicmSr5QVgbsKfQektjv0iL22CuSL4qjWhorZheKPcDqOeG_k-HYdbbk2XF7MYZHLkC3yoVfoDiZEgkoe3jW8fHe2DA1di1kogzv6QkZ-8Kjdk9Kq69kklTPHeIxXYqCk7-Yf5JcFRiVZvgyRzuAA14lRz-CmISL3dIjNUIMTywlEpdxPGBotXoyJQHTh7foievG_ZyoHuc9Q8azURVpP2rdYvjx4RQTxLxVMUOgq8Rkrx85TqBks_FCCb1iyJBYYNLu7-8m1-8j8S5kvYPkA8mbQiJS4j9coD-Rj2e__fT4KxRkTvPR_frfva3UT3vb1Ej2pfdHUB6jmIEcVU6WOkHdru2E7heWEgQ-NDDM_nyjWEN6yyhP4u0uSpQwnc1GVU96ckROP_hx9gv_bp02Bzic4bN6PxZwjsUZP2Vp2x3lXSlmDofqufxp2JbgU_4WHrLrJwGMK8bIleZt9MMJCCxGNQl_vkz7pmHNKdvD3EpbMcyEZI_CElsJdYyJ2mgkpV1MKOhLN6lAI0QC0exUzu1ZWhMdTb6w9evI8Lbtr8XfhBgGIg4KDCqf7XGikTadezvVSA..%26ch%3DAQEAEAABABTh6GAWyDIkN24GorgklZyNSXn3kOfWQxA.%26v%3D3%26pg%3DYAUG4ZXWNBGQBEBRWMSWRK6Q24
 .netflix.com	TRUE	/	TRUE	1799572680	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZgNqBNc7byoFvfoypzEM9Zi-CtM4oH58.%26dt%3D1768036679364

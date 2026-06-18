@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Kids
-– Email: eestwxxd@gmail.com
-– Country: PH
-– Plan: Basic
-– Member Since: February 2026
-– Next Billing: 2026-07-08
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639777242195
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Dominic
-– User GUID: PTFDEDSBWVF4LM3IMFXAU23WYU
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1811141466	nfvdid	BQFmAAEBEEKvDFPm6qr6Yckl6OWUD6dgXekvhRkUZcjoFekNh1FNzIsp1aXXfbPoT6tUZX-0fffAcSDrKnRLoLYl4haNIKbwT3BnCBp2rupsI6eROOK_R0vAMshUuatgVsNYkidIILnNIqrcrMH3y_04SeMOnW71
 .netflix.com	TRUE	/	TRUE	1811997521	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA0eUGITcmO5AePCO0EJyXDJcLcZsmVCMSqBBLdSOBsbRAdW4EwOq3oXwrf5i9j7VEk9KS8P11jkg2cs8phJ0GMAI-P3t0JCsQzxtBhCFoZcM-El9R6WE6DZruFrVIPF1Aeuo_pPutzOPzdu3l2mgZ3dsg_w7dyduut1QToayprKVuxh5A9HugTJQGsk0oDxPawlsrb8N7ACy05JCs-nr7caZf3OYwVlRMhuqPuAxCZ-jZk77YkCKI8nYSvaEOe-0Vd4Noi_l89Bpv7ubmhah32hjNebX6Ogsc4dRNmiYD2mCQT-rKhJ_UnTmeeLMJp7AhE2zxNIFugMZTIU6mKVDIo1ZTHNR4PY9-jEOv8WhSfY3DP5sPpLE6h5nI_OX8keS41i5W31Rmd4SD6uN5q-uaLCCXydeKXs0VoiPM1sF87LdQf7IaMgqKZntv3LRpbpWFJkVIPHuUT12RJ4_UMzmIBLvHwXZFq7HjiLrdEwsPDymt5TmyuJYRRXw3GNOUx4UNoY26eYIeLrPnZccxqWvlLzLjx4YBiIOCgxzW-FZXagWzOEI_iU.%26pg%3DPTFDEDSBWVF4LM3IMFXAU23WYU%26ch%3DAQEAEAABABREIZ6RHpGnHcck2F7TPUroSkZL7nP6kJo.
 .netflix.com	TRUE	/	FALSE	1811997632	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+12%3A40%3A32+GMT%2B0800+(Philippine+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=cf68acc8-3c7f-4709-a384-c738899a27fa&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779605365263&AwaitingReconsent=false

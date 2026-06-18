@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : Harshdeep
-#EMAIL          : harshdeepsidhu772@gmail.com
-#PHONE          : +919667980679
-#EMAIL VERIFIED : Yes
-#CREATED        : August 2025
-#COUNTRY        : India 🇮🇳
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : UPI
-#SOURCE         : Netflix
-#EXPIRE         : 2026-06-27
-#DAYS LEFT      : 9 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:22
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1787951966	nfvdid	BQFmAAEBEKq76x6kqlHe4V9NJA6K7t9gM0G_T99t5xHmQk3-HVl7BU5G1tjddiYNAC1HtxF1Tdk58_1AWvMpDCOhSasxQ5pZ-KXRuP5hyIQq5P19geLuaIGKTvMwFpmL2SjB4Zj7N-V5M7fbYQRXtpha_yOWP7Uy
 .netflix.com	TRUE	/	TRUE	1807599118	NetflixId	ct%3DBgjHlOvcAxKQBM1KboIez4URTdXD-Vb5ug14ACWTLbFrzcyOOxreS5_U6c9ZXOOHjl3Dr8UgUr_YcGP34oHoKggZbOIRTvZSdenIQBqGMKUmzFPaApoSOie0flMoelECXlrzIGtvDrVasi8zdjre48UnCNnENDn6UUgRWQUmxPlTJt2QZUKfhzZ_YLP2TShNFLSup-n5bhMlhxI2aVWwzzbN3VeO_0mKf9bv3WL5Yickf8D7VweH51h7jOEKkmvXM182Vlb6rQpSs5ZkZp_oK0Kswdy57Ty0V3ug7Wt-Aq_VvdtSiLEhrODkbcMZO4BJ9DJJU6DcUIthRoSytNYvSaHNY9tgpL3RtkkYsoFyhAdTlFOEbxZXU65n3cx7LLWkj03dQAIw1_5gYe4O2m3VH-Ne648ym-n62jEPEASkO4KlToYtuxY6Ch1eRGatDAPeRK7R9pHH6T9hcXUPgn1GDMnscIoXfbYFghdYiKbAcalciUjtlQunrb0Oldxno2sTBL8LavJ6Jc2CWp4pNQZgpWjjoCltXMed9IqEuhlpnhabz3EE-oT6zg5f8JXYpy5EzuUD767jkEzexO20AOZDILAE21VTYqT9gyamj28kTBRANWWixg5rzDUpqf4_TjieVwjQVrGSp46RSGfJduxNvLf4jShTPoG0wKcjJn1jB1G_f0pvmbr2Z2K48ROq5Y86wQQ1HdaS-qh9cBgGIg4KDM9gaDrKDk8p4NnbRg..%26ch%3DAQEAEAABABTMFLwMUYsbqv864JyGV0uB3ocs4t0vNnw.%26v%3D3%26pg%3DHOAO5QTBT5GXZMG5ZIYGHMFJXA
 .netflix.com	TRUE	/	FALSE	1807599120	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+12%3A22%3A00+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ee6a865-8c44-4896-b902-697647debfaa&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

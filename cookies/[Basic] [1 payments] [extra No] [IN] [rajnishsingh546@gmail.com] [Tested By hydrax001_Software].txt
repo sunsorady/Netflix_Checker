@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: rajnishsingh546
-– Email: rajnishsingh546@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: October 2025
-– Next Billing: 2026-07-13
-– Payment: UPI
-– Card: N/A
-– Phone: +918292619772
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: rajnishsingh546
-– User GUID: QXQDNQ4CXZCG5EXFSAYH5OK4GQ
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1810649720	nfvdid	BQFmAAEBEJmjwfahEl_p8drUPxAZzBlgsYI0mf21PAPfGNm6fWZQZ2gmOiUccpE34up1nuD7wsJ1QYwTt_hR9GyR7jidwQQSXvFt-2tnHdgv7DD6-WlxWce3rQtEI9p0j_7lF-kjth0-sBbJjfl_2Fgc8gW9FQRo
 .netflix.com	TRUE	/	FALSE	1810649722	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+18+2026+19%3A45%3A22+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=bb8f7473-1479-40b6-9e80-bf893d234388&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1779113638947&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1810649726	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdA4dItM5qESOPFx0DrzyhvHaJ2s7fHWfItaKVmSLb-0DC7eCootl3D1X_U-JSuX1PqcmPspZlh3bw5z1E5nVRR4SLUC3pzFhfJSvgRs2BmujjfaA4pokHnWojMUZvrVn-YZoYLE_gyaqqWiYFVtVpdX42U7wyfy7GPnUL-pgxBzvoDY2-RHuNvyTZVJ-ipPGExKKDuT0NdeZvmHPcnuLmkgVltBA6CdQG-2mCqwV-r70m6z5OqAKz8mk8HS-QA5Qr3fat7geLTmevPrwoOOgUoQNAxJH98m2gLGoBfTR34kycsdhHO8g2w37EtWwpV8FcMB_zlxu1nkfgOi-wXxCmnKRCefUSB_xCV_0b0EbLF7bumeUmQpPmG-2UfwCKABij-Bd0gK2rPDYFdWmGvzy8xQO21E7SPHbz5hhSjpfctc8RLgKuCNWgEP9hr7zgrD1biqW18S9mSx6lXs0z4ekbB0F59oi5QR4jVU9KQBtQ0rMkDvf6FkNTUjvVQ9fflafXRIs-j7edpI914JlLHDjEq02NmwYVlNnboeWsiUtdGAYiDgoMa34RevucakzlLx__%26pg%3DQXQDNQ4CXZCG5EXFSAYH5OK4GQ%26ch%3DAQEAEAABABS31mDOTJVsd4sEOBLKKXz_NA1yNI17OlI.

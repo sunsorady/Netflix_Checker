@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Berryy
-– Email: estephaniejoymanlapaz028@gmail.com
-– Country: PH
-– Plan: Basic
-– Member Since: April 2026
-– Next Billing: 2026-06-25
-– Payment: MOBILE_WALLET
-– Card: N/A
-– Phone: +639299561913
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Berryy
-– User GUID: SCC7KZHQSRCDLMPE6PGS6Q6X4Y
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	TRUE	1805432034	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKjA8k_oBjmuYgXFCm1MCpNA4Bw_i9C9_9Fz3ff_BcrPTRbjnIPoz_YcBJFhPsO1VB_f3RGjEkGKlsHoQqBik_-p0coHLBCxsiXc063qMBY5HVz0Jj4QMk_rAJP1hH8JYNkxC3AafuQ3U4qm_4-8bfk7JRtDrDQP89iKo1Z8QDoqkFIYFS8d1nhuVrX0yvOj0MHL5VPWi9Fh47MpDjOCahwpUhThFLp793nxeHu7q4elQQTBZJOhl8pBpHgwkF98XiFvtmTWrr0Idd4hZiTCtZA7HSCjO_84uuZsTbNbZ4LOBT06gCfWY8SBplzH2qWlGasp01YU9UKOqmwlLUMQqclqcW0gQBQfWYsjHIjJYm9mG9SD4cXF2QKxmlHyiRaGaLv_zHHv41D50Y3Uv1ht8hq91KjbrX6RRAjPKMbJxPwUTeRkB3JlsuR7PKJ8NEHrNyCF3Gb8nrT8Kp95-bN6fSgDw1SXLaxsnsGfY9fWdbSeVce-SjilMPOQILNw9iW0ZMzcyHQG3uI3HHClat-fS_TeWLWv8opodVo6aKYVfDNhhepGUPcGAYiDgoMPtKCoWYlylkyG2Np%26pg%3DSCC7KZHQSRCDLMPE6PGS6Q6X4Y%26ch%3DAQEAEAABABS2smDC-Qiv5rxg3PAQrdMmC2gBKQX5ckM.
 .netflix.com	TRUE	/	FALSE	1805432035	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+12%3A53%3A55+GMT%2B0800+(Singapore+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77f78ad3-6ba0-45dd-ae06-3ca421d3ffe6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773895965727&AwaitingReconsent=false
 .netflix.com	TRUE	/	FALSE	1805432034	nfvdid	BQFmAAEBEErJ9xz-3ZjWRtUTTQG4oe9giRGKGFAaQqx6f3AiWr3ef1KXvnBQ2fex2BRAjIKt3OEr-ij3pSebcKMGYU21XNd-Iykq0SCOtEiHMHlvTtCLLfapPenXr8d6DR5L1Mj9hsonaNNmLxua-TuZ3X-VduIi

@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Gabo
-– Email: barrios_maryrose@yahoo.com
-– Country: PH
-– Plan: Basic
-– Member Since: August 2024
-– Next Billing: 2026-06-30
-– Payment: CC
-– Card: 9112
-– Phone: +639175756531
-– Quality: HD720p
-– Streams: 1
-– Price: ₱279
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Mary Rose
-– User GUID: RM2TZCR6F5AZFLS2AD4OHFLX4Q
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1793079574	nfvdid	BQFmAAEBEH9DLjOzFci0dBmx42k-IRRgfR_selbpUYUeWjpEQ6NJS8FDKO5SPeYvPMPKt0rntOQkTGY24-I2HKgwsZAu7qOsdiCgAVM_A4-OlreHFW74lzA7mPQD4SCEJLFf21a9kL71IsnWE1RjuTRWBSxQ6Zha
 .netflix.com	TRUE	/	TRUE	1809358888	NetflixId	ct%3DBgjHlOvcAxKCBHu_vj8DxeAgRdqDMOn_6xHFvlJTCkmW-YXnNH-VgA8zSKfdrtunTuhoJc5F65VJlYbkecaLLXhOM8e2hoCGXPNVHLYm8x9-zq7AgLxICffTffZ_b4ydpfzlvQTAoNgulh06VFWN3JhPdC2TWN4X3q2Gy1IM-qMjdeKUeI5q1dojTQlNle5FB4ht5jADiXhGydFE1w_DHuS5RywenRNQP47RvKxD7kpj-aOUglnWnhGscCiA8QOWG6dLI-sRfjQdWmyDNtD-u1m2SDD6Xja5lEFAxDZ4yki7MAgKfU7zIsCEFs17tXNf-NDjbWSrq-FVXOxpvf_Qwitu9CjVc9M3TThsxT0Wair1sWDb7LyAX254PLzC6UpP5J7UU1lzMI6JICNUX5Fk8KTlfkEBRDR-AqqpGM-guJvHm5BoSGV3Ua5u4tRQOURaoys2cNzL7HyDc_nXPGjBOFxDwszwAOlS6muZVR_i8KCgW15GtZEdJQCX8wKTMzTqXGlUsu9In3iKfFlQqdrByeR7I3q_GsJI7JHsDjp1VyoF5Gf_Wo0rVCkdxJlzTJniw1JJ38mNijQmvJSyKgkjqWREKyOpRKrE1YT93EFlvMJOu9HTEy4ZM3mmeQ6aQQ53XHbGZi5EpQoFvrhcurbPCVNu7aws6Z19p9O8ZTZ2hnJMgF-589pHIpoErvwYBiIOCgxk2r9HUMiGgrk-XR0.%26ch%3DAQEAEAABABSttn3gFnwslyVR7FzEUqUA8CCKOIr3XB8.%26v%3D3%26pg%3DRM2TZCR6F5AZFLS2AD4OHFLX4Q
 .netflix.com	TRUE	/	FALSE	1809358890	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+03+2026+23%3A41%3A30+GMT%2B0800+(Philippine+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0d26b828-5c47-46c9-a963-2fe5079070d5&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0

@@ -1,25 +1,3 @@
-#==================================================
-#NETFLIX ACCOUNT DETAILS
-#SOFTWARE: CookiesSentinal - Advanced Cookies module
-#VERSION: V1.0.9
-#BUILD BY: @HYDRA_x001
-#==================================================
-#USERNAME       : LIUBOMIR
-#EMAIL          : liubamicin4@gmail.com
-#PHONE          : +40762788211
-#EMAIL VERIFIED : Yes
-#CREATED        : May 2024
-#COUNTRY        : Romania 🇷🇴
-#PLAN           : Basic [HD720p] [Streams: 1]
-#PAYMENT METHOD : CC (7300)
-#SOURCE         : Netflix
-#EXPIRE         : 2026-07-02
-#DAYS LEFT      : 14 Days
-#PROFILE PIN    : N/A
-#LANGUAGE       : N/A
-#CHECKED AT     : 2026-06-17 20:09:27
-#==================================================
-
 .netflix.com	TRUE	/	FALSE	1809197572	OptanonAlertBoxClosed	2026-05-01T18:52:52.296Z
 .netflix.com	TRUE	/	FALSE	1809197614	nfvdid	BQFmAAEBEOxXZW1AjlniSWV3dfpReL1gu614knE4V9aN4yqhck5F2WB-wqfqmBg0CpuMKEg_mDDuOax3_t6bkeqn63OvEPg1kXHyrQOYJA7eywNevus3CoygEDS8yzWyzS6hG3zhogyBz7jgImFmkJOlP8ZyIqXU
 .netflix.com	TRUE	/	TRUE	1812229014	NetflixId	ct%3DBgjHlOvcAxLbAytwMiwtzQjbz_3A5vM4sNd1lsU_wzmu-rKwDQzIj6DK5jmMhW0PDCV4x7BLNA4SatL5hePadKbOMeiOp-v1SlpEuVA6z__U1BcU3kVnZnYYH6QkofRjV-gsUHK500g6GqoQi2hb1gn8Nr00wJVJ-NUqT5w9d6o6r0mWuR3YoH-kt1Rwuk8f6bQTQEt-jEW0_E1pCLTLEP3os7iAK7jXWUpdmpQFn3BWkaFQNcceF2oSUo3TYsR3tiiKZ2w3t3NNidZBm9GN_RMzGO1MbenSoNg3s-Ko5gF5Gbqm8_BGQgUdCoojA8pBJ-1VuYKxGXDJrecM-w6ha3ix5Tj7jUTD2UP6uih0T1w7J2kUUJvycczQSR_B-jx59QnDE9qeUEV9dhdiaQZOno4VOlEAQFyQXAS5-y6ko_KOz3vyyiTGd2j9R_4AHHqZf_bRODbzSkv5CMfogaQ5DkooZjHo6vs0Gc0slCCcDoQNzqNj0c2P02gdE-zfSCWOGmWhcvK0snqGzyR9ulvHzTVKTJAi1tydTt8Sfumqk4O2uDu0lCxdhAazjF0i9ECh2YvtNfGzbuA2XlceModLEPnEd1u_kB6Hwv3vC0mBNGHvvThcDVCNv8pmL6SEAzdVLMWEil8YBiIOCgzTkZclVGgVplwILhw.%26ch%3DAQEAEAABABQRr3dtAzxlIgDS3b2O3BV7cs79C7c5Of8.%26v%3D3%26pg%3DCSSI7K7TDBCTXI33BKYRNVT7ZE

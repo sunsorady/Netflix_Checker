@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: parvathysree70
-– Email: parvathysree70@gmail.com
-– Country: IN
-– Plan: Basic
-– Member Since: May 2026
-– Next Billing: 2026-06-22
-– Payment: UPI
-– Card: N/A
-– Phone: +919562788912
-– Quality: HD720p
-– Streams: 1
-– Price: ₹199
-– Hold Status: No
-– Extra Member: No
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: parvathysree70
-– User GUID: HLJNEJXVBRB5BOEWA3OS73VEMY
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1784620595	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+21+2025+13%3A26%3A35+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fb771779-a1ae-44ec-8910-5879f132432a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
 .netflix.com	TRUE	/	TRUE	1784620592	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7WAmDqLBRrN8hqGmB7sJQnVsXYvrH0os.%26dt%3D1753084594278
 .netflix.com	TRUE	/	TRUE	1784620592	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKJA4vp-hwVAqiYlhD1jUCbFVTfxJTRUMDvLGw0fQbSpOwbndNjMyKsqFGNdwgV-llbGNEtoK718sYJ6bLqYE2tbNuUlU4P6T7YEf2Mt3-PoaXlf5xuAt0LxnO0uAqfw0TCs5qKV6LICzeKRIwNrYrpXKVlxTyiBgYZmSjWxBJojF9qqXKth8wv8kBxlsdbRo6rfU7ZOP4_6LwsyxpCryYpHedCoCkLbBjB8jjbIiLs39GzW9TsUq_2tUmfy1ZIR2ASA3ODvcG4UI1hq1GsRnJr63zN6xX3bb4h72usXCLLRBYQJ5mlJybtaDbOPksilRIX_DYhNkplG9RTQYCXUvWUp-VUPv1Y30x-SkRFPRrOWP2i7A_jLyuatv8WbafugjFGSNdrXnlO0uJrFO8sHgsHsGor0Yxv6WjBlhDpwNLXoGmpzxa3TtdYNC-Gwzx1Ct7qgWoH5I-tXCNlHx9DsfhICklkslp8791vsxYp74ZQ3Ab6Y2iNo-ki5tFKhnJy1s9UAQ58gjU9vDcZ1RgGIg4KDMOQegjLtQEJo968KA..%26pg%3DHLJNEJXVBRB5BOEWA3OS73VEMY%26ch%3DAQEAEAABABQlQL_gsCEUcS3P_MCBS412A1Dxvm7dGiw.

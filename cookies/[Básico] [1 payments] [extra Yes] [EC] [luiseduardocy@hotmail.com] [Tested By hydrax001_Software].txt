@@ -1,29 +1,3 @@
-═════════════════════════════════
-NETFLIX ACCOUNT DETAILS
-SOFTWARE: DEADFLIX CHECKER BY HYDRA_X001
-VERSION: V2.0.1
-═════════════════════════════════
-– Name: Raton
-– Email: luiseduardocy@hotmail.com
-– Country: EC
-– Plan: Básico
-– Member Since: junio de 2025
-– Next Billing: 2026-06-30
-– Payment: CC
-– Card: 4022
-– Phone: +593986176639
-– Quality: HD720p
-– Streams: 1
-– Price: 5,99 US$
-– Hold Status: No
-– Extra Member: Yes
-– Email Verified: Yes
-– Membership Status: CURRENT_MEMBER
-– Profiles: Eduardo Cupueran
-– User GUID: IQSRVDT4CJEFRPLFYQTKQQNS3U
-– Admin: @hydrax001
-════════════════════════════════════════════════════════════
-
 .netflix.com	TRUE	/	FALSE	1796602546	nfvdid	BQFmAAEBEKAVI3nl4rSyO1I1OxwyvKRgeDXZPpCzwfyw8zI_EWJvnSr2ZjOVI94pwemmpE5QHlJblaR0NirImuBVga5VfEgxeKOn-rNmCoYTjnA2lyjAY1WUf-PF4PZmqD2ktQDLty8Dc9JIpPmQw8fYuPjuquxj
 .netflix.com	TRUE	/	FALSE	1808445176	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+20%3A52%3A56+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff4e0668-58fc-4687-a4a1-a94e398fe4d6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
 .netflix.com	TRUE	/	FALSE	1809625494	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRHaAfSNt4oI56-TO_5b2N2wvbyH6F4rI.%26dt%3D1778089492770
