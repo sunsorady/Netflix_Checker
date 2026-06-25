@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1784834898	gsid	3ac47173-8e92-4136-b7f1-fa0893313af1
+.netflix.com	TRUE	/	FALSE	1784834898	OptanonAlertBoxClosed	2026-05-30T21:35:33.351Z
+.netflix.com	TRUE	/	FALSE	1784834898	flwssn	39176db5-5a1c-48c2-b3e6-a44e2ba568de
+.netflix.com	TRUE	/	FALSE	1784834898	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784834898	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784834898	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKlA8QSrfIcPTgoqoOSBmVMoT3OWVL8c4lQRrRk23GZXMeVwQyM3PXzt6hcdQJ7YX-NzvvqpI2VUpwoQ480ny2CjMIcAclTox8eWKesxGV6o4bm-5uinPgTAHgUrlDSwtYniod_UOoJGm2CircF2A6_lloJ8UESqElbs2YT2NtLwfdTxsK_6RoLX7U6s7qcsFVP4R04MpXLc_37IR-y2zZOyHJNYrSJVvuMvr06480A7X2fr5cUiSaoAR-btJ4rAoebaiIwar5YME-UCIh1aKIN-0HhNAkMGZAlS0JlQNV6dxD8yWuiJ80flA9m--f_xE758lulnmW9M4or4VX1QnxiKkq40PhmfUN130mmhmw26tZHTCaotwK1ELkczgzsW7g0vFMlC9aPBbNgkpq7vm1B78pREx1pGs8PvHIaCrEcZlQuFniiwWYp8LwVefkMrRmuXiJbEIX_HhOGPOkE6eitKa4Hd5-ODSxM5KXkBx_rlw0Y5KcPWCeRd9y0d8k7TmstAAUuH1CTZ2RyN-QECEigFLdUuvmWJWrgOJSZdyK_Rr76sIc9HOAYBiIOCgxmv3AFB4vKZjRplyI.%26pg%3DW5GWGLTL3JHIPLQMJZJ4SIRJN4%26ch%3DAQEAEAABABRcUyBSAqf1zIbHMBdNlXpPswhmizibfAo.
+.netflix.com	TRUE	/	FALSE	1784834898	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+30+2026+23%3A36%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=3ef77e47-c281-4588-bd3b-d90b310cc5cf&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1780176933709&geolocation=FR%3BOCC
+.netflix.com	TRUE	/	FALSE	1784834898	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQOxg7-6hYzJFjADcsWs6lhgioIZcVN660.%26dt%3D1780176967136
+.netflix.com	TRUE	/	FALSE	1784834898	dsca	true
+.netflix.com	TRUE	/	FALSE	1784834898	nfvdid	BQFmAAEBENV4P1sz7Mud1NlN7-0O0FFgrdUWBv931wOfXzZ7J1TI03m-sdeYeusfHl9fz8vQ7gWDx5QnwZwMDtFgNLd0dodxlfG_fFxqlElXceXjRmEQgDg3HMSMiZJFi6aOPb8kkb-_YBotohlZ7O4yEllUm8xG

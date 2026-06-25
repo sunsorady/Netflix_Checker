@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	TRUE	1812650945	dsca	true
+.netflix.com	TRUE	/	TRUE	1782942607	gsid	c5e8cd87-58cf-47cf-a6af-d774800a7385
+.netflix.com	TRUE	/	FALSE	1809626944	nfvdid	BQFmAAEBEEAVTdXDuHS2wHHiPfYQdQFgU9Yin2MtEvKyHyjVEQQQNN5kn15V20UB6NgdtE636niymO0fMGy33xMFqyWhTLFvnGq_Y7iV1HGMbEzePVF7NrxNOmsPDASNoe_qFEPFSgPTHGIQgliw2PHUPjkpWrj5
+.netflix.com	TRUE	/	TRUE	1809703244	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAz7lYzhVgAEsG4ealU-yz26BZ--hpMRMP_dSXC5Hkfx4WJ6XmaHIkyUV6kNYIIFcFp6NnyZlncojlJdcnjyOse7f-C9p3Gd4TgjZzekmL5CMFmMaoIGM2WniP-wS3Udgtk1hwazjl5xfcVg97NUgwE4dJm9nOGrA2w3QIfpF993TG1RFS00a8s0fY8CXRvxUcypMpDhLD8Iu2FZyofQqJtQWoLuM1y9cNu9yXPo1E8_niiAAmuZcjiG3ZyU4K12CYi0NPT3tr7cr3vJKaA2ToLP9ggutb8OEbOLogwwX-AtunM47NuVF2G4kXXsjMKbx4hCQ37KiW1wY0f-W_Q-kt7ypt73j9p9QCtFxQwt0gSx-a0BiUBABIoV0eaoo5aFVIOyUto0CAjq7e42gNnNJl-RuFYREg3-55Bok9rl05nKwQWOWw2c18zpolZbZhvk2Y7Q6EQfzNBBQUOVIb2qdmYXE3BMNkJwOVpGxFjrg6DlFZBvCIoHL29TGoSpN6jzAK_ZrFCzh0uZ2ZkP2k0UHwVSVWmVXCbvN8XaGH6hfGAYiDgoMTr6fsrfG9gUK6tml%26pg%3DC3XTQD5PQRAORBXS4JL43UYAHA%26ch%3DAQEAEAABABS1a9z8rB1X2P3rVJ7bJQLHRCy5rk5kyf4.
+.netflix.com	TRUE	/	FALSE	1809703235	OptanonAlertBoxClosed	2026-05-07T15:20:35.546Z
+.netflix.com	TRUE	/	TRUE	1809703244	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABToFrWX7SpfnEJk2y5OnsXLbK2ruezh2yE.%26dt%3D1778167243792
+.netflix.com	TRUE	/	FALSE	1782942607	flwssn	37902547-3a0a-4fce-bec5-d72c270abf3f
+.netflix.com	TRUE	/	TRUE	1812727244	nap	BgiuuOvcAxJJC0XgFTCCKMRvc4FiD5ESCVpsbVKRHE2_GP7Y3Z0U6TxTKPMdlkNiw33ViWuhgRsD5h19x174iIQcgtUKq8m1fr35hBzYaiIXshgGIg4KDJVrSKT7oi9X7rjW3A..
+.netflix.com	TRUE	/	FALSE	1809703350	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+07+2026+17%3A22%3A30+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=19f81b24-1b5c-49d7-98cc-1783051dd900&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1778167236165&AwaitingReconsent=false&intType=1&geolocation=NL%3BZH
+.netflix.com	TRUE	/	FALSE	1785943350	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785943350	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785943350	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1782942607	profilesNewSession	0

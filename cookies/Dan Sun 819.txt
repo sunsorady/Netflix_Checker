@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1784799262	OptanonAlertBoxClosed	2025-04-27T17:56:27.266Z
+.netflix.com	TRUE	/	FALSE	1784799262	nfvdid	BQFmAAEBEAaDXz8gZRrBiww_C8mdqO5ga81mV6SDv2gZX0gU18d6YMns1NLAsHw4UqAHVs7QzqLx3Xse4or3ufwi0I7KjLxACeGGUpFN0YGJTG4960L5ei-AHqBlkvyj1_ZIal4oc3-zDCa4uhI6kdYU6MxCxT1O
+.netflix.com	TRUE	/	TRUE	1801497569	NetflixId	ct%3DBgjHlOvcAxLmA6h3GbuylAnH9oesgbSosVLH5Vz6_NXbFEAYwwbXwx70BDimFyvXggQSV-ntSYxh4QrwpLKPMqG9zYIvjPNG_trLL2p330qpPBuyZdmk_3PnOpur6qUKmuKyl_ike4O5cxDlcZd14i-fybUyovFbjuc54gyodbzZCz3SfvDxChC9-oSNumNsPycY3AhP9hL3eZ8atxkz0VhSkiKuctkeQogj5TDajjoLAg8SL1o-rJiposZAMiBAXWqXRDbr76gBKj3b0B1a0Y4Aglbo2JeYDvyW1O6kRN5ba7mU-WJ3B6yOYN7dP5GHuoEK5wGdsBAjl-7gk-fKduoeDp3BShvtEMM2rrcErq4MBPIm7igQIDwU7QViylFUUkf12VrNC9xLjJDl-UmrCgyFFNnxnuy3GLgTopfpGAjdjXmPcexwP6nLCngXemjyDj9lDWArA1qYogVVzpx1qAOqz2SZIXZn-x9mwG6qUmdtk5tSMmKMGZ0TChv9OzF9Xtzsfm_LBRpAIyK2je0sOxTRxpWpwwV5kjOIAzonT2ULODxVUfIuPgy32CdubNPAXUtEtz0YNzhzu0Uh_wBOGIbVVlTYTYiYchmiP9w0MvJWDgr3O6eLZZ2kf0QvG-fZ1RLITKbEdJ47FHFUPvbd_xgGIg4KDH2rEt3GVZSD__vDow..%26ch%3DAQEAEAABABR0h-LMVoWX8HCNP2WBIXr6M93MbD6f3Ug.%26v%3D3%26pg%3D6C2DMMHRBNH3RMTH7CEZOFK4RA
+.netflix.com	TRUE	/	FALSE	1801497568	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+16%3A59%3A28+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202512.1.0&isIABGlobal=false&hosts=&consentId=a87b993d-3642-4767-9187-ea4a5af9ad94&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=IT%3B25&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	1801497569	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSJPPizUSUYTfspT0E8xO_DRpf-AtpJCcM.%26dt%3D1769961569618
+.netflix.com	TRUE	/	FALSE	1804521567	dsca	customer
+.netflix.com	TRUE	/	FALSE	1784799262	flwssn	b139888b-ee6d-4523-9bc5-0a330ec61eca
+.netflix.com	TRUE	/	TRUE	1784799262	gsid	cb49d979-f0ca-4280-ae77-f3ee15a45f0f
+.netflix.com	TRUE	/	FALSE	1784799262	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1784799262	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1784761784	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1786050536	OptanonAlertBoxClosed	2025-08-06T21:08:56.280Z
+.netflix.com	TRUE	/	FALSE	1803111619	nfvdid	BQFmAAEBENiIl4QKFfFyE0yjTXq42vxgYzUSm3_NVPu5GGeIw3hr9zFBEqkZOxTqXru3mFlMEFNMoz0YWnQiDn_6p0KywqsMQAVsm0VqnZ76Z2uGEj2SrN81Meeeb0uiWaVGmhU5TjZcp3xLq5yvGvMCfGhJ8j8Q
+.netflix.com	TRUE	/	FALSE	1806771877	dsca	customer
+.netflix.com	TRUE	/	FALSE	1784761784	flwssn	311611cd-bebb-4741-b265-1056dc18e697
+.netflix.com	TRUE	/	TRUE	1803747877	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS0AFFNY-com1pu9mTFMpZcRYz4j9ZPBZo.%26dt%3D1772211877033
+.netflix.com	TRUE	/	TRUE	1803747877	NetflixId	ct%3DBgjHlOvcAxKYA9Ce3J3buubdZATBRVOqk9zptgNSIjCXbxuvgfKOFmpup30rTymZHfYZS7NtycAlrOyAKiBMLaTmwUroFTJ8yjy7-tm4mymBvipH7txQ8ZBTeIN0fAG2iQei5WWDmYx8wNQF7mzWLTeiDVslK1E9cMVdCdbLnCZK2_XjmJm5YqO9yReX2iPikHykfPLSSENmFbFYabwFXCCB6HAi907aW8TFAetUA6C1Yecqwqi2U1Rgqa82daaGudvtz-wqQvmS1MNmTcZcP9lVXRDfwhvtn4HYx4jcMJwkTWmymSCz0f56kbVvhOAyMI4VjssSFQ2Gy1TViomdcnZJjn9uDD2b8hHcfmqGLo7om_wkCEpGTbc2G4YPczZzpEwM_J1qHDXPyGOYLNbUes8_54QICdDmh6SKTwgbZORK889SnelL6i9bMT0duVOEHOku_-BJovy7OE2z5MrvjfAwAi9tYWB9rP4r0qvThHVB-ND2zpm-bh_60aVYfhQicWH2xOAeet9ey4rjTM4lFIB5lDb9lDFBBYNmg-2prVOR7RgGIg4KDK8eNc1Rq_BQ1dlLMw..%26ch%3DAQEAEAABABQLGJDQykyknsTJgvF0b-W0i88HMvNSiEw.%26v%3D3%26pg%3DOYUKF6QOLFDSVPCG3IK24Z6UDY
+.netflix.com	TRUE	/	TRUE	1784761784	gsid	ffec4ec7-5696-4d1b-8b74-2872c6a28757
+.netflix.com	TRUE	/	FALSE	1784761784	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761784	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1803747881	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+18%3A04%3A41+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=4eea9c39-b185-40ad-9a8a-0ca558d79ca1&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&geolocation=FR%3B&intType=2
+.netflix.com	TRUE	/	FALSE	1784761784	profilesNewSession	0

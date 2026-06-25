@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1794105672	OptanonAlertBoxClosed	2025-11-08T02:41:12.206Z
+.netflix.com	TRUE	/	FALSE	1794105676	nfvdid	BQFmAAEBEGHd6CMsEneEI2Ojdn2ThBlgSNKuvJuSKqUB-xzMIQoFUZD-14DlkS9f1b2WL2G-4yyrQBFY2W9SFOugtgiSKGk4JXqDxTPAta7TPrKHLxCDHEpx1gOMEpWTd8wsFbv8mZtNL9NQKloiz4lxk-_JeBZn
+.netflix.com	TRUE	/es-en/title	TRUE	1807061827	dsca	true
+.netflix.com	TRUE	/	TRUE	1808095630	dsca	true
+.netflix.com	TRUE	/ad-en/title	TRUE	1808095628	dsca	true
+.netflix.com	TRUE	/title	TRUE	1808095629	dsca	true
+.netflix.com	TRUE	/	TRUE	1805127509	NetflixId	ct%3DBgjHlOvcAxKVBNtl8ji-EY3x57xKyf1v1OxUcdTfLraHIAfK2H-ONy_cFgof5ji_BQ0ozFtyElCgx_SosIUnJPTyyelC5O1aZGSKi-Q5yjoWO0BJTW8sYFPf-Qrrt8ODzZal7g0_DamA0qqr6LI9-k9ePckfBIbpirHi3cGEGzrUO6_7iLan1p9Rs_fZGVUP_hCOhV4np5-CrMGAYQmYvIXFhW1M2fRhIqkHaQbIgUU7d-V5oDVNfVCZvacN1ECAh3z0fQSbS7u6Zw5Q82U5DE9FXyLomkqOxjiQAInN0PhZ9IrvOwlZxypqj2qnM-eUlBSAD0obMxs3yJ2Pi8nXXHEcJyJ2cPdffBZFWJa36WDLWf-SZgHXXVuwRm5eWxSjlDwj6qxAUP3MzPs2yBGPixt8Hx5Pd6wYZbUJieQ0aWYU6eZZalX5rLOsc0c32EH-8QAsgPtek7GbqjYCeUgQCYv8tLQ6C1FwdpKM7SnikpX1uXaCnaK7MWelsQuN3T8ZsjwOoeCHshruNlrlg-So9_JxBp3BUeIWRiVB8iOJt7fI-QcFy4VdVPiDrEc9fcARXzPflBP19o6bTh2p6p_-xw44BhLAQH-N6cFEiiQ_Iu1Z5LvCFEhfrMSmyNmyxX7GwWgyr7vriKXwFAayx8-QKXkx3dD7alPgfXJWm6PUY1pQplbe4LUzhkzWag7EGHJ9ovlz93IebWS--1rJrzBBGAYiDgoMUJjMreRdHinXTexb%26ch%3DAQEAEAABABRh6FA70MxoUcKiTbFEv8VPTicXJ5P3nMk.%26v%3D3%26pg%3D5HPDQFOLVBB2HHYC7B4ATYM6AU
+.netflix.com	TRUE	/	FALSE	1805127511	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+13%3A18%3A31+GMT-0300+(hora+est%C3%A1ndar+de+Brasilia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=22e2a5a5-6786-4676-b194-4b3e7bf30b6b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805127509	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZdMsSiZQdH0YLBgdVZBkMstvlGU0VpnM.%26dt%3D1773591509555
+.netflix.com	TRUE	/	FALSE	1781367510	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1781367510	netflix-sans-normal-3-loaded	true

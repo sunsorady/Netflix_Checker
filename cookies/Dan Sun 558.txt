@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1784761785	OptanonAlertBoxClosed	2025-02-08T20:02:24.996Z
+.netflix.com	TRUE	/	FALSE	1784672413	_ga	GA1.1.604788069.1750112414
+.netflix.com	TRUE	/	FALSE	1784672478	_ga_97ES2RWR2T	GS2.1.s1750112413$o1$g1$t1750112478$j60$l0$h0
+.netflix.com	TRUE	/	FALSE	1783796790	nfvdid	BQFmAAEBEG6YpyKxeBGpJjjJuBGOuzpgQznfASnkEV1mOMaCt3ZqTFuEUFclvWpAQdwzPfoaMc9ahmpWLyqCtuujM-CYy-98FQvpEpEAd9kbKZzvD6h8gVKz7q6TWmIl8AAyfG12uBs4EfUzYwX9rMPFUYtmc08M
+.netflix.com	TRUE	/	TRUE	1800608819	NetflixId	ct%3DBgjHlOvcAxLnA973A3NRyETxh0KycWlAtdX2LdpjiwX4D0_eavNI2w9m0Vpc4CW2mkVfzeNurvAEt5GQ1EuEVhCoSp5ZqcsyqN2GeZ3BRl8nRWcmMAUL3aMt78Wphvp5Ohmi5ZwMlDTerIqc0An-hL86qJx7LYDRylzo92nmhwCw2PdM9f692mJGALQ3S67fwNDpFHKchxY5gqVACH8aZm4eEkE_bdq-Beb6PyY_01Za5HEYYOfLxAUAZcxrVD09QGouR93NlCkiIBEQHOVi_5_X4l2vSUlEh1xqL1E3njmeNT5amjQj_5Tza3TQhnXi932Kr93GQO7A9YuPL2pNnBQm4ttFqZSW1VQeh0ysotVDRyAxQNL6Dsch7-HerH2TMofPZwMIoJ15cpZ2a7vVnGa0qlqhQqsbye1n74aY64oMIgWNlh1I0OgsWmcCZfKr387MLc0htTwK_TVsXxi2FP2jmm4D5pxDj4wROl7Qwa3ADjK3vIcgxydGMFdg3MpHaqPZa1bCXAdIGlK9nH1m3Z9O-9_VLpnVr3PD5tY58M7kh9F6isEZx8mQz40JdkcfpvCXTBP7tqTApehkQ2dP7pxzxGzA_eZMdWgo3GveXZ2Z6YU-7_xBKI_SfOziNCFNcw7E89q_JIPGteSVqmKw4joYBiIOCgwwmrD19AbomJh_wew.%26ch%3DAQEAEAABABRuPsb08QcayT_71yqqrYmsKiGO1L0wGOc.%26v%3D3%26pg%3DK6SYTU4OOFHXRJDJKW2I6AOQBU
+.netflix.com	TRUE	/	TRUE	1800608819	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKmwlYZN9TWS8sGaMiEbm9xnr-xCAXlyE.%26dt%3D1769072829207
+.netflix.com	TRUE	/	TRUE	1784761785	gsid	12dd4d51-cdba-44de-8104-87b0fe75748e
+.netflix.com	TRUE	/	FALSE	1800620966	OptanonConsent	isIABGlobal=false&datestamp=Thu+Jan+22+2026+13%3A29%3A26+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&consentId=ffa509df-c139-4688-878c-b8b501b1d1f2&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=FR%3BIDF&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	FALSE	1784761785	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761785	profilesNewSession	0

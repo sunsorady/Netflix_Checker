@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1783982024	gsid	3f0fee4f-7896-48d7-b2e0-2eebe3be7289
+.netflix.com	TRUE	/	FALSE	1812388695	nfvdid	BQFmAAEBEAKHTg916tSeIe1cTZ11EHpg3iwAs-z3LBua_trjxBlgKxtp9XnlTULFaWngtoWC2rYRYDzxa6DrA-8CFlbP6sdoFNTBT4q6agAy0sc3Hm2k9g2YeWCOngOL8Ddutzd1kGT0IJwtcs-rAoMTNR4fqytv
+.netflix.com	TRUE	/	TRUE	1812408523	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKdAyCO_f2rLKERC5FTBMqs0EGhXTUcCsJwhozARl10Vx7DirwVJiO4deumijFbEOYSeH4K17xplV5xlTJsM8dHpxH3LznM_cpDUrDLb6URPLdsJpNL8Gq30jwerrl0Bhc9taL3pfpv55ns307SKKTxzm-s8thTLAMnVD6JnGaTxobW1FDK6jCeVKzpZM6-Ft9kbnhoybWchnEJqW38kQybG-RCIikEoE3IBizOF-JhlfSazy2hyJFEn7Wnn3lBfL9RMxL57QOnWLIlZtWT6RWeqFMZ85Gkt8fimCuSsRswBEuzgKJcN2_WivI2E1JUTblUecyEa6yn4Y8O01XVq5TrQl7FzZddSAkFqVjMenI5qcIa__RZt8J3JBD1g-aoIb2VzniSKDZL67Cg2iFRWk6NYbzqlVxGhCgqwDWkSefTx03NYGgz3qZ69ujOYmRiJJfeuGfxyDP-o43VFvhYXvmbzwkwEml5gbAYY136VWgOeSw2CoYK2ew6423LFku0kv32R2J-VDK7oUOGfciDo9V2q6-SA7oPq7B0K4hZBFOYGAYiDgoMC0KzGopj6ZqFZIAt%26pg%3D63NX7AY6LVBE7JGSCB4B6EVWSE%26ch%3DAQEAEAABABTBefU5cRVXPV9cifY4Ftp6_5BamRlTI5o.
+.netflix.com	TRUE	/	FALSE	1812408535	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jun+08+2026+05%3A48%3A55+GMT%2B0700+(%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%94%E0%B8%88%E0%B8%B5%E0%B8%99)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=80b63b7a-0d77-45ce-9b99-dd0777ab9f5e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1780852646874&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1783982024	flwssn	db702996-49a6-4984-a88a-f9fe92470188
+.netflix.com	TRUE	/	FALSE	1788648535	graphik-bold-1-loaded	true
+.netflix.com	TRUE	/	FALSE	1788648535	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788648535	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788648543	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1783982024	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1788648535	graphik-normal-1-loaded	true

@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1806572904	OptanonAlertBoxClosed	2026-04-01T09:48:24.497Z
+.netflix.com	TRUE	/	FALSE	1806573126	nfvdid	BQFmAAEBEPur9Rcs3rI2FElqoJYZuqdgMUXe9KtwhQba27sWFXhwoiKngvN43h_s132RG3Wu1TgTCMLJ1K4ks4RemGeQAxQXW8ZB_hZz_24JlO-mxnKucc7GK23uIjfSC3lcvbGCi-J8JQHb8x5Udj5CYe9jWo9u
+.netflix.com	TRUE	/	TRUE	1809597230	dsca	true
+.netflix.com	TRUE	/mx/title	TRUE	1810925332	dsca	true
+.netflix.com	TRUE	/title	TRUE	1810925332	dsca	true
+.netflix.com	TRUE	/	FALSE	1784867881	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784867881	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784867881	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1808627882	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+24+2026+21%3A38%3A02+GMT-0700+(hora+de+verano+del+Pac%C3%ADfico)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=604d8b97-6ca3-4814-9229-4a211ee5873a&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1775036866322&geolocation=MX%3BBCN&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1808673026	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQZWQCAsoS6ilndLcWGDhQkgAx-Js4EIDw.%26dt%3D1777137025324
+.netflix.com	TRUE	/	TRUE	1808673026	NetflixId	ct%3DBgjHlOvcAxKOBN_1sbFrq7CPMaBA_pLAaX9gpJy07LApAPb7Lar8WMV4JtM9DZsEf3Q0EBg0IZ3BblwOamV2sx8hh1Cry4LiEgRViy2O2t9GkuaAgpGfNLX6d_WVAXpNCAGcLl7nFOOcDFPt_RyAXJ5QhdBVPiW9ATyr4uF-f3cqGJvbAUtv0X6rXPCvMS09MetOALfUvh8JOlQj7g9R-TbPN2kumjlQUtZwl_qtaB5UNcBAqNCLb1u3p9Eyiy9uBsizoQLGQFj0QaAbjSu4ltwXPrSoS5TrXp5qoKSiClIIRskjQOmCmWhqrEXlZvIkQ25aR7Dn1PdqQafjM97aiTv6LgrcdMcqoNqVExq2AdyQuGP1pf4Jgt3Ouf-0Z1GeCkGE5JsIJSixPjv4jS0nDLkGYrvyuP7tTbLWMwBipfXyWBZOpqZHB2zJRJ1DxYk4tqsE0qw4vI_7sFxYOAm66t51gfxrptvldakt8sGzx7e6EGKt-IYCK8kejY0WlbvtkC0vx-t0V8ru0iKWrZDFwm70noVsFPIXaMpjx1ON_37haoZnyYAs_YCYJe7krRQstiNZrSdiVUOO5TEd8o2nz_AyGucoyQQdQI33Ouri9kvI7RYYi2xvLIm_KfLarbce-c8nwpNRucHxqJU7n3jV0pKNMPuXAHkdcZM-eBBbnbDEAMvLyKXqj-IQxB95qYSAaY8HmWxwINcYBiIOCgyWTaYKo6HgjhbdjL4.%26ch%3DAQEAEAABABSFawm_dnyIF6ZNL79jV5BDO-jtWyRAjBA.%26v%3D3%26pg%3DWZFZ4X5RBFHIDC364VWTFYI7CA

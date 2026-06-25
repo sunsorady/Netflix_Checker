@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	FALSE	1784761785	OptanonAlertBoxClosed	2025-04-19T13:36:25.751Z
+.netflix.com	TRUE	/	TRUE	1784761785	gsid	17c26862-a4a0-4306-801d-697e7d88773a
+.netflix.com	TRUE	/	TRUE	1784761785	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1An0kPnBJmD2p8-Wu3a04XealNp8GWuoT8WHDm2oDsvn3E2EHdEaRQy7xv2oUc-QGXnCDQ4wHy6xXC4849zpbLk9h3qFvLTl9gBxFeFrvRu0wbtqbIyxe-zXCO31PXU19rPXPFaHMqAwQb1iRCdXEbS-jcrl_8wGiNekcZs3VzJnIllkopGKWNGvsoKimgl-YTuIciZzFwGrXc-bCeUb9_ZZyagZzI6i_xSx3jf4GGLWdZ2lA-rgT4YGqe7Xx-66gTESwowC5eAATN8tMRx4FOztaWg0J6AdBgiIxvTA5mfN5VDe8bLCBanQ1zSm7T7UQaWw2cdXZAoWUBoWmXk5RBjMkzWFaQMgBfgC63u14Z6J8L87SS-B9qWwEdqOHTbFlAiGS6_11i7cFWXzsDap-zP8uwhou4dYeq17VbVkrhXL4GyJC8kOIRmH4NjzrW1ndL9mDgI_TB11zvfsqcWIo0Wcli5eG91dLLQt5b9RCGhk3otZVCZcYBiIOCgybZLFQ13_Uvu4k-pk.%26ch%3DAQEAEAABABSMsbNds_Jpdo_cxq4h20nTgW5gRZMnkGk.
+.netflix.com	TRUE	/	FALSE	1784761785	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+19+2025+14%3A36%3A45+GMT%2B0100+(British+Summer+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a191802-aa4c-4f72-bc01-f6c0eb3b43d4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IE%3BL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784761785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLtVeBFt5KPb5-pK47FcIcatNosvuirlw.%26dt%3D1745069802637
+.netflix.com	TRUE	/	FALSE	1784761785	nfvdid	BQFmAAEBEIgNxTFhbaYDp5dYZDtEyFJglqJ-K1pb2XnWWHuDHqMJDeR6yDRV9Lf8uVIlHWCbNjzSLBj79VtugF5IcR41ft-OEN7zTKEFmjIPEc3a2J48yMFy2RGKHlaFwnWjKbsHHPOXjGr0ZNqCVYkBBxatIzFD
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761785	profilesNewSession	0

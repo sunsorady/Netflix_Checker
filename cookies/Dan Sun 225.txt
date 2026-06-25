@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1797458967	OptanonAlertBoxClosed	2025-12-16T22:09:27.866Z
+.netflix.com	TRUE	/	FALSE	1797459005	nfvdid	BQFmAAEBEM-NrFz3F8zxb3YoLW41utJgrwpLQpvhzQFhrLCeKkQ0t_XW5sBjLK36tJSK7FzcWm-Ds7QwfgDf090bvHE8KF1wu0R8KvSepypago5IDPbR4Yg9PYrSEgqXk2d32Zz7RiO-dmkEtKMFasIvA7VqFkQO
+.netflix.com	TRUE	/	TRUE	1803933197	NetflixId	ct%3DBgjHlOvcAxLiA6xKO3mkgKgYzXF4B54eCz5C8gBDqf9R3eynKmLFokMPDWYbEIuys9-pM_HU47Rd6s2AVfGy3hsV9gH1AUzTMLQfoh5O-cNK4raFTthMH9PaIdctkn2MTS94nPHm4g3KkcszW564pnMreFdQziShRN1o1hMNx1-uDZzur0ekklj0JA_xNUCHuNsQYKrxbuIgcf88nKjKfCQbxyHsdkgjpO8T74xHEi2GrnZIoRIvaFyR7ubLfKPe5NDX2z8QLMPIU6AWd2eMvEnAQPpnqnZaukslssPRvWupLjIm4n0eWZzWaVF7AD9hrzofEd8yA3VvH79-JDUJeGGpmuHCKdYHTRALZN13C26RffBRPfVtG5jMZzntxQz2-hkXXPyAJsMnKg2C-PoUFNey8SXrnoEZZipdoLbfemASAayBrgkpFF6r6oDpwsl2KXblTofOuGON5GIMpiINZbiySWQyiGtraL3fBHRbfsgFzDE06IvjH6_EIc_JgomYgGcI9zjyrY_I2681VKtj08NP9BpHOz3YmdOHp3zVFotfnhP9_RIvVWw7JnE7ZUxhf4s5cp-pDBgt8JxRWHXMeUEe56PAMLOxnn5dWuSA1ittwR6FbcUANjsN2ApycoSzKgJWv_7QcqLHKcbsGAYiDgoMEwUTiJh43CvWbgQs%26ch%3DAQEAEAABABRWdtTnDPPImxKe_XdUKTm1wCG-5T_VbEI.%26v%3D3%26pg%3D2GEY6JVHGBAS7KESEFI5MOFREU
+.netflix.com	TRUE	/	FALSE	1803933196	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+21%3A33%3A16+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5950241d-a23d-464e-befa-d0669dfea419&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BCM&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1803933197	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ6GwBtH0h-vSRFXF8MzJZLufFl1UiIqTs.%26dt%3D1772397196937
+.netflix.com	TRUE	/	FALSE	1782501938	flwssn	20bc5495-cb7b-452a-8f91-b24b8bcc9c14
+.netflix.com	TRUE	/	TRUE	1782501938	gsid	956a1275-ca8a-424d-a8e2-f2c3de7653a6
+.netflix.com	TRUE	/	FALSE	1780173196	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780173196	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782501938	profilesNewSession	0

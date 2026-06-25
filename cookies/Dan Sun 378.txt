@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	FALSE	2598221120	flwssn	c107fc68-9cd7-43b8-a189-0fa8b2a73b1d
+.netflix.com	TRUE	/	TRUE	2673821120	gsid	57ac2430-724e-47c4-93b5-f4baa2a00e67
+.netflix.com	TRUE	/	FALSE	4058654048	OptanonAlertBoxClosed	2025-03-15T14:33:00.075Z
+.netflix.com	TRUE	/	FALSE	4058725048	nfvdid	BQFmAAEBEC5GPh5IHd9d5dha4nYz_B5goIM4vyvG8xNPzybE_hoIGRENwH930isEc7pn8fWgKbrogei3mpiYwU5mM1Y-KbRfTIlP4OqlD10YnDQbTceE2foB7URHY-r4dn-BAWike7gInnt0nIDndMwtegtYTQzy
+.netflix.com	TRUE	/	TRUE	4058725048	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQfQea1FhGIzCeckPN-TBZrTMo34EXvi4o.%26dt%3D1742049253516
+.netflix.com	TRUE	/	TRUE	4058725048	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNA_XHEIkrFTbEiaeH_SeLMhKR9wjqdaTYR_jgiHdS86Leg_cpjFK8BNFmViTbZAdGc9eG5bFCcm4uzB1EXsaQXycEDEQtxWHLz5rSqVx--4kseQdjkG6dTLzhSYOQsi4PUqZzVvnS7af2CrP5EV6A86vTAgfwcCJggJquceUYMov2bwBcs1YwuxMSYxa-gj7mMboQR9-V-BLMVaS9_hA36ly3hD3wA1E6054PBLwZuVXWjq-c1meDIUFAoH5VpcWVqxF1eWDiPzHqNMQuCmVJu1P1Sf32zj6thaI9-sWruLUjue-UjncocMY_n8LSPuooFmkqqQ9gzCLHCYZdAn0iSF7AhXXzKi59I_6v9QItC0-ThaIMIxcnPJxeOzs-08XTV-8JBIuxXYLLK0ZXY9tpX7lEGt_PaBCuJovQ_OK1QcxCHwi3KWKVg_lNyLcLnKzoPMZyIdlPywY9L6Ao2CM1xe151DkxvPrh2hKczQ1epfRczs85fFjHYfIQ3Y7FduhWSphV0bD9EVNc3tall4wYBiIOCgzV5wS9kHjOecQyQU4.%26ch%3DAQEAEAABABTv1b5vem8_28eZX2_s_Kmm4bx5CLQSq34.
+.netflix.com	TRUE	/	FALSE	4058727048	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+15+2025+15%3A34%3A13+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35b01164-80a8-4bc2-96c3-c20c3a6ce6bc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=IT%3B52&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	2612522120	profilesNewSession	0

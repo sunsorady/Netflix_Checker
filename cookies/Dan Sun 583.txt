@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1789600485	OptanonAlertBoxClosed	2025-09-16T23:14:45.919Z
+.netflix.com	TRUE	/	FALSE	1789600509	nfvdid	BQFmAAEBEHYvf1BrjzNNeLyHM20fD8FgnlzXSCTPRyujM2LpioVO2EY4sFqNsHn7pOWDcF2la6j-fJ7JDnYoMwElskbIKqNdxKYjCO9DX4QKVegftF9IbrHoqhCdXQUnu8sjQSKxrpuZdTdC8k2nqv3w0FPR80OV
+.netflix.com	TRUE	/	FALSE	1808163477	dsca	customer
+.netflix.com	TRUE	/	FALSE	1807706255	NetflixId	ct%3DBgjHlOvcAxKABH2OUjB1WjcQHR9kbDIW38we0JiL1K3rLn6F48qstsYCwAgmORHDbvOcIkcdbvOpTT5MBdB0sx6ejCfAkZPC85rucldz4RpIFEQgB6J9srjbqKmnJYBSwnYxy1MI1BdsuyCUDkJE7XZ8ktYEHa8Jlsb4YVoj6KjxG5-Ab5Kzjax6hSgLj2cq6tuU42vlhNAn1q1HMi7pfMPgl_Hyc8BUljbOCLCWwT49rOmW_W9Cq2pvkulRgHsKdt_nH3OlFl4EwQosYO1TjfRHiw-YZKfb59Wv4Bt0gVni_mwGAJc_Xthtj7CmTkk0GHHMC0iCDMkVBXE35VHV8OCpMos4432KzvsI1jfYZ4Y4yFQyVNjiOV7dJGPbkFH1Tr2Haq0hErAbEH8yCv6TRA6auYIfbGBpj18U0lrUPzwrL0_yfeodxl85lW-dfmTIROR334-IoQiUlsYOXgtH2ChbkfM-RAZosm4E34yfxpSvn_qa0mmUjx4H_xCFIsGEM-VGkKze6CP_6i9hMz6AbzFKcmCcGt0FmGd2Ktkdq5AqvprH7BDLEJZ-VXm7SCgAzQ6WxdeTxlAwm7ALfRW-9ihthUzZTMa4mm29QtSjJOxX52HdtTShfBf2J_1WVOgDVQDqLW6w08FSMjGvO0iiLNEO2df6bUqfNX1t6skq14Uui6ddF4TwNleDGAYiDgoMksUUBbXi2_aO8NT1%26ch%3DAQEAEAABABSK8uvFHcHoHx3HWhw5C_tQ-fk4bo2OC2c.%26v%3D3%26pg%3DOC7OXRORGREWHI4MYRHJVKJOJA
+.netflix.com	TRUE	/	FALSE	1807706255	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTq3B_OhGnbarD4sVdnwwb_sH8odiZQl44.%26dt%3D1776170253091
+.netflix.com	TRUE	/	FALSE	1807733062	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+22%3A04%3A22+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e7ad9a17-0356-4ce0-8298-c58f4ec68597&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B45&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1784799262	gsid	ae0a96fc-c536-4aeb-bf08-ec264c307797
+.netflix.com	TRUE	/	FALSE	1783973061	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783973061	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783973061	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

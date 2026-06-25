@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1800317478	OptanonAlertBoxClosed	2026-01-19T00:11:18.123Z
+.netflix.com	TRUE	/	FALSE	1802133892	nfvdid	BQFmAAEBEDiArht2uR_Di9RFOTaOYxNgEalEdp6UzKqXJOTbRQtj7H-4M_LCF6kwxCNVYRGYc2h4ugrr8jTe1oh2-kYh4rrzBD7deWb4RCZ70ndGcCdZq1amv_dl9ngg12qMS4ceSIYEM1Skqm2r4f0kpGUDu2ot
+.netflix.com	TRUE	/	TRUE	1812023388	NetflixId	ct%3DBgjHlOvcAxKGBEJEGnCJtoj1fy66KecUuaGbfUVjN_Q43kdiLCOvjvfrHkyeN4GcaKAOBZ4yiBT988-A43H1CJbIRjDRAkMr8ot1g1ESPUaR0rGxpX_1DW-7Lig3n9dLotCZ8iK_DVUvqIePwgNoCfvL8omv9FVI7o81J3KuJQB4lfYVCgrekMyGjSLjQelDOTzRcY5qdiHtqUCJ80bhdonyu0TNrh0fS0m7LwnTvJXaY8V3h819v1OgsIayKefKeg7X-Xkf6aYj-tyS7LxOmIhXBWa2eap4nwy8716s7NNQHmYgMlz6wmeZjjBpF0CZIHdU3BjjABGTaG_9Z2Z73fqps4o0T7DxP60bQiF5HwWcntuWW97cC-T0E9Nlgf3uXafxjids9J5gFQ7rVvLwMutVPfEG0q3gVX1pbOe1gyz5oxIGZQ2E6x-OMB63Ti4MBGkq7nBGWDWShIZdnD220yciBHApJ4VO0-yYOFC6eKeHQqR5MtO_YA2522wEgL1nsj3FRDTYC6fGiOLGI8bVsJ9P7R3ScseEa_9j8Bn3gLRL5Co0Q_oRe_mlPicqrqlV8wKwdXpMf0Hdq2aqMi3aYwlFRFzLvxVxrGtcZdU_DTADgfHLU-OihNhwx3v2T64U2UrROm8DvV5QCz02eHWujyx-F2bKCCQjkl7Ko328t605-6wNtmWzZ8tT_eJA4KndGAYiDgoMxUKG9zVNkYoABpAk%26ch%3DAQEAEAABABTTSGVAlM843wMt2D92WKdlayQi30mhU20.%26v%3D3%26pg%3DGO4B3C55DBBSXAVV27A4WGSAGQ
+.netflix.com	TRUE	/	TRUE	1812023388	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRhh6SgPg9tQyWVvup18J6ciHk_gfwO8dc.%26dt%3D1780487387072
+.netflix.com	TRUE	/	TRUE	1815047387	nap	BgjduevcAxJJ5Kz0Namqdika240WU65XRngI40HV7N4GsDRwjQN1QlCiHUJC88sATylDky-3oqsdZXhOBd3k_0Fh51eARI11i8Z09JCKTJpH4RgGIg4KDCSWCZk4YZ9EISK1Vw..
+.netflix.com	TRUE	/	TRUE	1784834898	gsid	f3275731-0694-48d8-89e1-a5d516b2fec0
+.netflix.com	TRUE	/	FALSE	1812024381	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+03+2026+14%3A06%3A21+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f30c85ea-498e-4b6e-908b-dd74ae99ce4c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BPAC&AwaitingReconsent=false&crTime=1768781478493&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1784834898	flwssn	092ef8a8-2060-47f8-906e-1a2d6de86e92
+.netflix.com	TRUE	/	FALSE	1788266184	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788266184	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788266184	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

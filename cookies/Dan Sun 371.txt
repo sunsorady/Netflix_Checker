@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1783448182	OptanonAlertBoxClosed	2025-05-27T19:11:03.016Z
+.netflix.com	TRUE	/	FALSE	1783448182	nfvdid	BQFmAAEBECfPrZ5OLc9pZdZ3fjA0IXVghbkXs9wGtUjfydtVWaWLjtF_QG-T5iIoic4UpepNtc5nt3NHtebPkNAGycVz5gZz-rGpwWxMP6ycZ2ziaBD0WGUw5LE01y9lzqOKZaKOI7O-DYEaYbShVPuqPdcGemq_
+.netflix.com	TRUE	/	TRUE	1783448182	gsid	ec959758-4bc3-4ed1-9872-cb136620e382
+.netflix.com	TRUE	/	TRUE	1783448182	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL5AhnCLsm0rIMQOWIV5OPrL6n7C3CtW2FyABTcTTweV95sP6zeAA_Z4FbMJtzNyhxlR1NUrQmQhdY7KJT4wl3lqWK0SW4nJRDhF6lahYaojtMH-12-UIh6cjzB-mwaSLqe9JRX-wikdS7wabqfL38nOuw2olZUAK2htoWeEHuPJazYzrQxJu-E9-gkTpM9FcJPDmEoqtXNn_fkyGp4BJtwoZ_Ak9qBVU2uPr20w7-YF5EwVbQmhEQUkyUbxCnVJSND2AGCssmcE8lvCPGIyzqBR9M94fk-FJxShJzDFFPjvQVBpWh5Mc5LB8z_GY0j0JGfMBdCKOOAsNf87b3dl1mXQ8PlnQPxAYxkfMqv3pHmZ_tzeSJamQJMFDaa9usrFCTze6PD0Gq-f3-TeTYpVVZNRXSVEiMBfm4x8FM0BPoun6qwBgjJVIEinzcEj1s5wvASXjkgguhQDpDVSySA0F4r6FFd6d7ceoSrIpo8nAn_C2pnNzLxBPJB9J99GAYiDgoMi1f-NWzuUk2dvmza%26ch%3DAQEAEAABABT7xcWnr-qq1me3PZadxyY2IW9QOzycdus.
+.netflix.com	TRUE	/	FALSE	1783448182	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+31+2025+10%3A16%3A47+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6e1361ef-8c07-4ae5-90e5-368997621424&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B34
+.netflix.com	TRUE	/	FALSE	1783239401	dsca	customer
+.netflix.com	TRUE	/	FALSE	1783448182	flwssn	f7d74c01-b22e-4dd4-beab-ba651125c27e
+.netflix.com	TRUE	/	FALSE	1783448182	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783448182	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1783448182	profilesNewSession	0

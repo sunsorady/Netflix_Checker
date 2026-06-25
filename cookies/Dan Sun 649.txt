@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1798078673	OptanonAlertBoxClosed	2025-12-24T02:17:53.301Z
+.netflix.com	TRUE	/	FALSE	1798078672	nfvdid	BQFmAAEBEBV45f3nx9RmwwUPQMsrCL9gD1_k5kXM_oKhYQvYYEFJ0om7vqmJI_2_CBtSpo75LcBjXmAYrJbXzUq_4CnCnRsAwkmYBIIirFdvDTMbozTr6fv5KdkBZ5tNUFm-uTmRgpZQzZhNqkoInrmXcSlu7MXC
+.netflix.com	TRUE	/	TRUE	1808967101	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVA48B2ra41syGMwrzCjDbA5pusp9_81KEGS4P9i7Ga2X6IvZFYBHAqi41GebMxpmQ29EtnrbGTm8rBDplKHEyGKEP7flWOktiFsAN1ZFSUsAfb5yFwRuEwkG4rnWiStTMUK5l73DZWle7XMdJTNQn81gKSjJ2ihICU04T5Hw7P3N8yrZ3Sx2RNhwLf94uY6GSmS_aqe70DLeKaj6HW3WRUtKwXYY_EeS0zvdRMjAepPFE94epYJ96CohN9M6TTFRaWCG8BosDZb3CbJr-MSacJzdMi_WaVsVhNmZnWNjnd0JXoiPPY426CSnjGKtXKk9aN2wo-mzHMTpX2W9mEWcp2g8QSQaEzsFsIOtuP1Igcm6q9Pu5WcYQNeRMbC5b22aYqu1O4dljPrf7QEM9c9YPdH5NvZ0a4skTbaDic7Lz8Ma3RNfaNzj9-VV0we9gxcAevZlQ_ctQLOoNr_eK3gZKUVX6eAMkgYEgAOGtbPslmNdl2TDs8WuXxNYSlRloy5ExTldA5Wd4uYnuYcRKLoGlOVi2bTtn7xgGIg4KDDAIe4g-Jm_JO90Bgw..%26pg%3DL6PIHW33QZEWTE4HZBO6IZUIJI%26ch%3DAQEAEAABABR7IGQ6QGwQOBc0LR0b3Cy0JXQo1Mk1384.
+.netflix.com	TRUE	/	TRUE	1808967101	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTtZheNfYwfHtqC3FLcui9RqZhnkakjYRE.%26dt%3D1777431296084
+.netflix.com	TRUE	/	FALSE	1783197723	flwssn	a6b96d69-60dc-4e23-826b-5063ffa0d2a2
+.netflix.com	TRUE	/	TRUE	1783197723	gsid	2672cf9c-cf55-44a5-87ab-29aa40fe152e
+.netflix.com	TRUE	/	FALSE	1785207083	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785207083	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1785207083	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1808967103	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+22%3A51%3A43+GMT-0400+(Eastern+Daylight+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9509f1f2-f293-449a-aeab-103da6f25298&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1811991103	dsca	true
+.netflix.com	TRUE	/	FALSE	1783197723	profilesNewSession	0

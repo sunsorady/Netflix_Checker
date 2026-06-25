@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1786213821	OptanonAlertBoxClosed	2025-08-08T18:30:21.345Z
+.netflix.com	TRUE	/	FALSE	1786216040	nfvdid	BQFmAAEBEEH-fPL-IeJNnc2yq_9lYv1gCkHMA8JDP8L5r2LjOv2Upj6n5dV0g69CIzkNfi7wokn_yl-XahQkeqnhKltVnF6067sag1GD_jAnIA7EyenpV9s8TEBabC2cWjBWVeF0U8C5-rCNdiVTKNTfZU7DF0jr
+.netflix.com	TRUE	/sb/title	TRUE	1796045489	dsca	true
+.netflix.com	TRUE	/title	TRUE	1796045489	dsca	true
+.netflix.com	TRUE	/	FALSE	1787093369	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787093369	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787093369	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1810908754	NetflixId	ct%3DBgjHlOvcAxL7A9NSoLwaRlWDY4c5L_LRkBRb6xpsUZx0HtVvB3Xk1bgnq6cLBw_yC8-Fj5kIEIIrr1V8Ck8mcmJQG62BZ1-fOnSSQe9PmEdGvzUvciEN7R5pC1xVbbAfOivaII62n1VasWFX0QTMobqfLJuGUXSaZXQ-Ch88Ganu2knOF3oALLj9brNSWWbD5lurYXXwFmpyxroBUiubGGmmhJlU8tjiOA_F39S-sN942VhXN_tlGVybRx0DQjH0WCKPZE297ZkScqHiH9d2rXetUbAH389pnxuFGbA7ZHuR-gEi8hQsUBY2YlXYw0IzDmk90uDleETLn4kkRwpIjty2CZ6ZKSPyeP_1xTuYaydJ8ig8Pbhcm1Ao6nprO0IDKA4J5OnlMuh9MzaYkzKxGZbyj0driOktM2tE8gD8_QXz0gxWkL5HhcqscUxtCG8orGNA_iz2IJlTUtA12ln3EAOFJyvAT-KZEW3w6v48moFGsltJ0nXcAzRQKI6yV3FC3_d98dAI2H4UjTSoJNRZGi3jC-yDmEAkHhZwJtwDcTd_md-7RtNu7k6lB0Syu_JGQ-paFdJrKYSoV8BafB0MLnBDlWo9LqLWAzQe842yj_ZVPQ953ZkzJx5UyqWVHwkAt96KI0jN5jAXYIA2ouJ6BgXHZvpLPc_D2GWFSzMrNvQhXUNFnBgGIg4KDJI4eTUmpt8QRWMxZg..%26ch%3DAQEAEAABABS2bfTqzJo3Ss4_zV1hDizZPBpq8UXbvsA.%26v%3D3%26pg%3DIM4VQ3Q3HZFVXLKK7LSDQUB4V4
+.netflix.com	TRUE	/	TRUE	1810908754	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRRTzBm65a8JmpYd2lVHwdYu3J00n0tuNc.%26dt%3D1779372754635
+.netflix.com	TRUE	/	FALSE	1810930838	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+21+2026+22%3A20%3A38+GMT%2B0200+(Central+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=09476591-71bf-410b-845c-7e7849701290&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=NO%3B03&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1813954837	dsca	true
+.netflix.com	TRUE	/	TRUE	1784761785	gsid	19963c83-a39a-4549-821a-2b4a30425939
+.netflix.com	TRUE	/	FALSE	1784761785	profilesNewSession	0

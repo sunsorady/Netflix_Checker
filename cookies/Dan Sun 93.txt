@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	FALSE	1784761785	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1784761785	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1809157416	locale	en-AT
+.netflix.com	TRUE	/	FALSE	3021191344	OptanonAlertBoxClosed	2025-01-12T21:19:10.584Z
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761785	nfvdid	BQFmAAEBEDDfm788zKfLWJhsc-yvszZgjuhBKhWH4G0iZ9hiT-NxXaqCcYNyZAO9TnUpTomRdeDsjevfiq30lYRtf-BGx9ZxbMWl1n9U8axBc3jJp8lmpPpoXJ2E7wjAuupMviWpQXUzHB35IGToi6SmWfHVB0-6
+.netflix.com	TRUE	/	TRUE	1784761785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTkL1vFhj2FwBgq0p_0M0rd_1_zN7LRc-8.%26dt%3D1751701588813
+.netflix.com	TRUE	/	TRUE	1784761785	NetflixId	ct%3DBgjHlOvcAxLnA_kTl0QuHTaX587IoClMx3GKSGAHD7I3DdUwZeC9jFXeDTECx2RBwoAnmEu1IeA95Rrz1GSI_17XX2VphjBrupNRpVs1STiPyBSJW-Lp6W0KGjDQ53MR5bgX1pfFVW5D2C1pLlT3C2Vb0FbFzkbuHipy-hcPv4haFnGCpTjJzmmnqORTvORdu5WThEMP6CtaECsB1g21qEb8P9fG_jqaPaUBVApEr-MUmHzbN6oHAZq7Z2OlLR2-gk1kNvO0voWvskm39NiCpM8aPtIg0pPYLNTVvLhIwUWUSS3CLp6j8d8N7wssfnvue6buEHfAIAPmzBkrIY-z1zx3k4epv3BoPPrOT98VbZNIFq2ig_IBPDRMw-IIyw6Ppyd3pu1BOUZEsdwcCY8S0LQ8w47qeUu9CqwPgIOfVELFAr6aRq-dJT_ppWUny5dHmh8yilwpDxtQMlGPoflHlbKtntttVIQf6IHmP4Y0PcvNlv164j9Qh-kkRx-c5zqYbL-PgQ7rNASsnjfTeGSapAOEkTNm4CWs0O6tjXj1qvprTA6hV6mEiz1KZlhbIB1BbMVtus2xGTUBXmHswzcPyOIKIXE975U9FKfX_3rGlTrim7accg4ZzJzKEjoNXTh1KVW5wlVOPpuhJvaBX62Igc0YBiIOCgwaC6DHmgAj-y5p2rk.%26ch%3DAQEAEAABABR43HFrdTbc5bFxv4kScHklLbXlYkNbuoM.%26v%3D3%26pg%3D2DSCJDHOERG7ZPCCT4LQWADMYE
+.netflix.com	TRUE	/	FALSE	2871048936	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	3695783528	flwssn	3833a434-9125-4dba-9c8e-2efeb8efcd38
+.netflix.com	TRUE	/	TRUE	3771383528	gsid	3dfc9d79-9caa-4cfd-b8cb-aff26f2c6b8c
+.netflix.com	TRUE	/	FALSE	1784761785	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+05+2025+19%3A31%3A14+GMT%2B0200+(Srednjeevropski+poletni+%C4%8Das)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3553a2a6-2815-409d-b894-add38049a4a8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=AT%3B2
+.netflix.com	TRUE	/	FALSE	3930379528	profilesNewSession	0

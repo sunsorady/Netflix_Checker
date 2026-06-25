@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	2571846568	OptanonAlertBoxClosed	2025-11-01T22:46:49.464Z
+.netflix.com	TRUE	/	FALSE	2571880440	nfvdid	BQFmAAEBEGY8vQPTrtIdxNmbPkY3EoVgJGUN9HKPPy4JJNYN0E72tsCL84VGBWo4adcKsVOImbA2trwS-eQrbf49-y3fBqk0zp_ieu_slzDHa-TyP8LKpGDK_f_ZmvcjGj1OiNrtABU6MKKEcT5Ux_nOtT7-W_HG
+.netflix.com	TRUE	/	FALSE	1784761785	flwssn	c897daf1-47ee-424b-a6d2-ee35f72ce361
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784761785	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1784761785	gsid	b8a7c8ea-6f91-4f47-af6d-5d5c3413e01a
+.netflix.com	TRUE	/	FALSE	2432909272	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+20+2025+02%3A13%3A59+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9d65b44-d0b6-4078-88d7-9178b11445f2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BPAC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	3100149566	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1784761785	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-i3o3lnmkQGZv54O-WFUik1Zon3OcmUU.%26dt%3D1768329919555
+.netflix.com	TRUE	/	TRUE	1784761785	NetflixId	ct%3DBgjHlOvcAxLlAzIP9-KgLVhwktc9wUmWT8emKPX9zB9AAJZDbZE3rmq8osduoK9N1LXLNKbQWEWKN7TLukSpHYGw5nVAMnzo6JDKfOcta5YvHipz9k_f60_VebKx_5Zc8a42pGFy5r_yWdn1G9NkoSu-PLQ8-IcNOdpdD3TriymiucV0-Sqv3DBCbdN4zz7ljjkpagrCiXeclJs0iHqCpvKW82KqNubc1pjKfJKMpv0-4V70PC8Ywifb2GPWNcH5zpJEpLfO_G4gV31ChCqWIzBZH-eDWDzorIAJz3TWHkziNfI2oqJB2s2q_S_s_eRDI1YXXcAMA--THDLn-gLcighy1KFaIMi50FgprGCUn0EzDDG_ydFS2veyu12h96dOqvtWoLix7ZPZ-c1vv9KKEzboSckvGXcJ3DEiDY-adCloooQHvmqGquZQWKKpaLym0zjWNdHX3VBB0IhPPstSeNg9g5xhbvFimlJZZqiZ_JWYnfLeuf2h67t-oymLtOvRedDf-WdnZ061d9okB24-NONGEs4ElxgXBAcjups0yQfar5R3xgjcTWFzcFNPlc8Vh_KQxUCmmpb6BB67CQfKd6Gy1oG6PaF2LcrfZrjNgy8LL09lMw80MG10t3AwEMAQh9w6zddi1AwglShjY7i3GAYiDgoM9FfXYivNBKTZuFoB%26ch%3DAQEAEAABABS0aqLAJfZ_S6ynmfrxL3N9157ZPUBGpAg.%26v%3D3%26pg%3D2BMX5JWM7FFXLIQTXKVVJPCPXU

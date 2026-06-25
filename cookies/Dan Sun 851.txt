@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1784799262	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1809165742	OptanonAlertBoxClosed	2026-05-01T10:02:22.718Z
+.netflix.com	TRUE	/	FALSE	1809165776	nfvdid	BQFmAAEBEKDy54J89_kQ4Kksd6cQ9_FgaUG2gzZndevG6uYzLXDcFRQagNjK-6F_0c9wbB6QytuJWsVQrtmlr4rUFeM2PjKvOd8VYmLUeCGlgzd3tcsVTODYoP3QQ-n4XIuBAOEH44MO-OEUJ9BDJJgi7Q3Ikzr5
+.netflix.com	TRUE	/	FALSE	1811123409	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+23+2026+22%3A50%3A09+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=a8e94bf0-0ce8-4644-a615-1a27792fca1c&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777629743201&geolocation=BR%3BSP&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1784799262	gsid	a57e0585-ab5f-4251-84bb-cb324c6937fc
+.netflix.com	TRUE	/	FALSE	1787363408	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787363408	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787363408	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1811153579	NetflixId	ct%3DBgjHlOvcAxKLBNDY4oVs5KVMiJHa1dtFmSdqoVCVuyd_ypnAhsORrWVZEnJSK_bytWMM6_lFc5TwCjn67m4ng598wzJLnAVANtbOPM8mXW1s6nsBF9hcnkwNo20gzhbNW-cUmMCxr5obClbzTQQwCol2bVJbnnS2GAFoYiH3tFR5kKVCgsDvOauahciKImU-o_Jx-3h7LuGyo4jxIyLvOsyTa72NqTRrMnF_fOhO1uQG-_4W_quSJaV-1Ffxu-DJfDKeXpVCCDNTAjxGmJ4vZQwQspNSdLeKfwGCpERmhGfmPq23l0IMmiYC_cM_JIc_06ydbNT70jHIkpQDfVsfMORjsoPeArHf56wtaaN5Lhcd2tyBLSSa2opMqIVij9lzSvqtfXvpERf383FywhwiVc720PyTGmbbAK_bDQr511VNDb70dKHHTP4cJLSsp_5tuUItQRojLE4YcnoCAxINke5_WuYEsDcFzoyT3-Ghf1pbA9uaGs1EY96Rwo-bWDtdJ_BDDqtsT6K1p9b1PJNndEh8PdDNJEeBwVAk3rdxoo0dlmjvFmGUaWB-mUnKqjF9ZskRZXu8t1Ybyf5kdQWHSED9lgIasoR1Wj4vXFZrFb7Voj5kwbGJEeVq-KxMySGiar5KWkN1J-Qn0gf8oqfufqLxHwH_1YWaYg01P3WrTn9I9IfaD1m1abyiBB8JwH-kFILyNGYYBiIOCgxw48x0-ihk4mJxLHY.%26ch%3DAQEAEAABABRRGG0fltN54oEEMYSJZ2uo-hWOx3lrIFo.%26v%3D3%26pg%3D73WGZBSLARH7PMETPROBB4TQQI
+.netflix.com	TRUE	/	TRUE	1811153579	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTy2OQCVnvOIHd9-LuAL4I4XKTw3K2x_sk.%26dt%3D1779617579546

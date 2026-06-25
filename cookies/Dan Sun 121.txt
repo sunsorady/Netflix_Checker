@@ -1,0 +1,9 @@
+.netflix.com	TRUE	/	TRUE	1780761904	gsid	5b78011a-7e8c-45a3-bbe9-f12a2ee532c9
+.netflix.com	TRUE	/	FALSE	1780761904	flwssn	7a5225f3-75de-405a-84d8-79b1b9e214a6
+.netflix.com	TRUE	/	TRUE	1799389650	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8AiWRDgsUKdrXE9D4_4TJrGjJsmMvEWRh-oJo9Ad9qJtMEWdhi-0rG6fNk-QFj43W94uhiPovwrhDA0iuydUj6Ug9G4ePBbsZ64HS82u3VwOrbUPBo7f-eAaLMhFKZeOZBrT6ondXNrYEGUqEQyQo6-TyUXBnRivac9MMkirvl-B7e0j45eVUYRY81UPtw098o5dvFWcu43sUy6Q3uDEs7k4p_QrCscs2rqU3bNbpcM0z30NQUdrHeJYZYBdjh0_rii75MycgvY4tTwXryax-V-ZldMqAiNSF-PKEbtW2zkFUKnUFGqgoKzRRNTvkNUf579VK28e3KXCItv5jRd2x6W0H7OPldoJqIR53xotu8uBH0_3hz4SmPC9KmUvze7oGC6WFX_IXyn7VzuzcKmNpPOHdY48qIHLTdXU0w2uwTDnc9mbEWz_D4uPc7H4UKqSTPdF8kRL466gsBvv3-BuwWRxdbx8qSxhVALalZ0WmiyoHiwr5mJG6hQsnijf4GAYiDgoMu5R2nUpx2B_dBo6V%26pg%3DFS57FF7WUZCC5DTW6XSPRTVMBE%26ch%3DAQEAEAABABRksE2_HKwRW6_p-kpTX2GqkLxPPYZUUgY.
+.netflix.com	TRUE	/	TRUE	1799389650	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLJEhtoyK9xxwLPXOWTomDWTCwkZCdLW8.%26dt%3D1767853650506
+.netflix.com	TRUE	/	FALSE	1799389646	nfvdid	BQFmAAEBECqzVz-HupseNZ89_a9EYBVg7LiR9Mwn0kTyFlsq-g9EklOwrWF3gS4Ie43dBAHPKZIuC5499Y7BYjGOxuQ6OMY4udSK5Iog451DM9WgNRPr7mtpAWHERqi3HGvRLASxep1rm_IIh2nkDeP5PuI26iC3
+.netflix.com	TRUE	/	FALSE	1780761904	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780761904	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799393702	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+08+2026+15%3A35%3A02+GMT%2B0800+(Philippine+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4518c893-8b20-4c3d-b839-87311dfa24e3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1780761904	profilesNewSession	0

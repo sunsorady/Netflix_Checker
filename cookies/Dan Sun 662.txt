@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1806848805	nfvdid	BQFmAAEBECyF8qfy3uVU3Q5hW0zni31g_lDA42lZWZsmxqK2o4DPLc4xcJXTOhiiNapKgJwn5qZszzVLDTGphO2oCFMxNBmrs1Ipq5UjIcuaK8rSlsCbVBsHrMGKURrk5R4VBCpZfB8cWa3HM993Xre_6BVKYKfr
+.netflix.com	TRUE	/	FALSE	1806848927	OptanonAlertBoxClosed	2026-04-04T14:28:47.451Z
+.netflix.com	TRUE	/	TRUE	1815145127	dsca	true
+.netflix.com	TRUE	/	TRUE	1784761784	gsid	0c761c7f-cf7d-40ae-b977-0450d159f4b1
+.netflix.com	TRUE	/	TRUE	1812876329	NetflixId	ct%3DBgjHlOvcAxL7A1uzfPcjJSGbK0Nwy0q9NPElXmkE1GK-foWVIAatWFdffqaGsR5Q45RrfbIna7VgPhPT6nNBZ8TjMeMU0bCi4oMmA3k6nBM5pFVu-lC6bUi-xRztQTdOGmB2Ljh4lb_H9VVSeHAoTfRczKNf1i5nYyfZZ3rxbEhuiDkgnXHBYoeoh3Mp2Xe9vAlzrIRHU2MyAp_371K-4XTCzUFf4MIddGdtxrD_uJwwY06MIImwaYzLgk2qEyHltPsei9R93lg1QDk7txp0_6BN2ceXvhOq_fzF0cQXUr6jIpZxaYZVGuKvXZaskHQf8Rq5Rzf1GVe6dknUxku09OjlZPIixhbkT9HxZzU_XndvrSdAwP6mKelrbyP_qXucrXGnDlyPKRaj8RJaQrBF9FHZeBDCAmbwrrpWA5qIWu4yzKPk71S1UjYSPevem8cvcR51Z-dPcTgZlprCZ7jHmdudaNWDfYKjLDNWX72veT00PlqIGGgeyrhRF7Q-MFguSHgeas3pL_rKebkIifVIPw4cS9fX-fuAbrltyBALpbNC1Hrl8xevSbCYaCNmJ0tZ5YdF4CKaK_vHZYQDWRs_FZ8yxks0YtKzdih2vqEJHUdWVncGrc_qkqswIdEGm9M0QnR6ZAS9WA2kw2XTWuT5Lu8PwOFLP_Omov2EbfetqHhqfpAKSxgGIg4KDNvLQKC0OCxS41wjtw..%26ch%3DAQEAEAABABRJGAIJbwbWENDIJBiQ74whlU6zLc31a2c.%26v%3D3%26pg%3DO2Q4EDJSLBGU5PO5TOEDRSGZHI
+.netflix.com	TRUE	/	FALSE	1812876331	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+13+2026+10%3A45%3A31+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5da2bc0d-cf97-41d1-b09d-ddd0ef1a5145&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=DE%3BNI&prevHadToken=0&crTime=1775312927854&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1812876329	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7GJS330gLR0z9awB5Rxe9I4Fzxh7QZP8.%26dt%3D1781340329623
+.netflix.com	TRUE	/	FALSE	1789116331	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789116331	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789116331	nkufi-normal-4-loaded	true
+.netflix.com	TRUE	/	FALSE	1789116331	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1784761784	profilesNewSession	0

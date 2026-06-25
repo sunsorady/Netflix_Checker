@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1784799262	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784799262	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784799262	nfvdid	BQFmAAEBECjWggRxE9EI8013j2yA_b5g0guH-ACa4Al9lK8k0NxeRRL_f1tHzxbu-VkOAPMFnwpRn1vSCh2JNvDDSSx1zrD_dvVuW0tPoDwJc90Cxjfrkmcz7lhfa67DKX8JZ_ZS6w5InJZ5vFFcibxzBkoqLOQG
+.netflix.com	TRUE	/	FALSE	1784799262	OptanonAlertBoxClosed	2025-02-13T09:52:31.493Z
+.netflix.com	TRUE	/	FALSE	1784799262	flwssn	24984ad9-c2a3-4a8b-bcff-c117d092dd92
+.netflix.com	TRUE	/	FALSE	1783646643	dsca	customer
+.netflix.com	TRUE	/	TRUE	1784799262	NetflixId	ct%3DBgjHlOvcAxLjA0rsGCnDwKgW6v8Wh4tqBeNa9DHIzlxnXGviEcZUH_XnhO1BIO8moMuaQnW9zAJXhJ0WiXTx8krGsF6t95ReVjdhTBykaV9yo-D7-zoGL4oAHb_T0ZSnkP6HO6ZEdp-E_anF65_BCZQImLLpl67uckkGa7cbq6pvcC8hA8xaGCnYH10q5FF0OV3HGKQ61IPB4DKEL8lR3uZkvsURAv5VsRbc8uSzbcgS7zF79PQ39tiTWZaDKx0hw35QfzPZt8wZSBB1jNZFNx7Mq8aav-h9hK9UOfGxEuBwRNRYOLiw3_ynomnAhHeCTDaC6sSbGpzYqwhgtAK5Bo5a3OCn2HqCTOAF4y12inido1yBjtCU5WJCucL4CG_cxeTQLBRIu4yH0gYdU1-uHM8oMNOQBiNF19PHNUIOtHDyUYCNeQhCvYJpItJPNSzj70Y_jWC7okTNfIecGAf_SZBWAN8I4HTeFzLneE8KvlBeBU5MZvU7tWeNh2F-wI5lMKfFb6opf7lPOymvxfZsO_yiZPWugAV6YQQWTaaLTUgCWf3pt3Yxb3azAL3OFnv8pB8WGuLnnjAHKnG_Y4U3D2O4RhQ6ishjH3aMwVDH6Jn4BRTldQjHeCxEWYdnlfQiD2O0Hnvq4AgJCMaRhxgGIg4KDFjoehmUkFOaCk4X0A..%26ch%3DAQEAEAABABR29DKQn9hw-ajh2uOc1d1acaX8ceruHu4.%26v%3D3
+.netflix.com	TRUE	/	TRUE	1784799262	gsid	85944707-bb03-4118-9638-89fb98dc471e
+.netflix.com	TRUE	/	FALSE	1784799262	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jun+05+2025+20%3A59%3A40+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ab101edd-08e9-491c-9e54-45eb87363144&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=DE%3BNW&AwaitingReconsent=false&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	FALSE	1784799262	profilesNewSession	0

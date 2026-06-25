@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1802195189	OptanonAlertBoxClosed	2026-02-09T17:46:29.313Z
+.netflix.com	TRUE	/	FALSE	1802195193	nfvdid	BQFmAAEBEL70LP7gzM6Xl0Jd27dvHSNgQCPlLb5ihOsYBp9mb_RTfkOlNZkzbryIBhcOf_mTABlFzKQl6f3xnu7JMyynIIW1rVMdTguSBWOXpNWekHoUFtLte-APkTiBzAEdSjlfzJpuWypuTCgLsDwa75zNrjzn
+.netflix.com	TRUE	/watch	TRUE	1808601263	dsca	true
+.netflix.com	TRUE	/	TRUE	1808678828	dsca	true
+.netflix.com	TRUE	/	TRUE	1806146955	NetflixId	ct%3DBgjHlOvcAxKIBGc9PESwFVb6YJiJD2AO1qQEHN8Pi5jULee2MGDMLtGBKM5bDOVkTu0TEAT3j4E1FM9HtXTtzh23rTu55IcrBTzkBEHsMgjolTKMU7izR1-hm6oTx3Kl9vEtVqKkEzHa1xEiYdnxa_3gjfABniYyGNDNgdaCZJefrow3nF5SaTHAWUfIpIxHb-7oJwj3v_j3I7eR8F9aRpgeYlfEC5d5h9WRH19_YRtoi674XLwBRsOUDgV4xxi4xYnwqfJkEcvX6Uc1rhTJYK9fw0LhCjGOqCooiStMlJkCM-LH1IkG19o2JqSxz5tTYAeMoMqVSb3idfPkfpyLVv8bM7ohq6aL-2W8evMbWot75xvdMq5_gMgLra6Au83_2ScaCEOux2XbYaou-SfGnbX9xepNhu_otGp5-yUXhYJXFytnnZkjKSwEJvb8Dd8cOTbBIRzwys9674UIu-rvfclUN9WrKUcn4raAHXE7FvVaod7y1bVrIF7E-yWlLdycL-7aZPX5tbpB3YPd8h2olOJTx4J42en1HCmKES49lwe_sRlqflok2aMmf-iRwzGwiKSjibSERaCBfkd2r_vUNv0_SYVzMQPvAwAs4qZa9IJ5_hxgFo9dC7MJaL3LmZ7VFWlHvqCUNIDTF4K4WqX3XYyvDYJHcqJZ2X_75NkLAqJH6nhfjuTHsRcntwdvOPpIpo8YBiIOCgycNHmH9q2P7bLXA6U.%26ch%3DAQEAEAABABSTKaFmA9KozEQIzSaojFJt2aiEg8uZ0_Y.%26v%3D3%26pg%3DKPLRTDQ53RCC7CS23VM2UMVMCY
+.netflix.com	TRUE	/	FALSE	1806146957	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+12%3A29%3A17+GMT%2B0100+(czas+%C5%9Brodkowoeuropejski+standardowy)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3c65f7e8-cbce-4da3-b7ba-1386e0b48766&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1770659189806&geolocation=PL%3B12&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1806146955	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhmf0z05a5opRjyBsnSPgV0ZKnFyN6jrA.%26dt%3D1774610956276
+.netflix.com	TRUE	/	FALSE	1782386956	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1782386956	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1780920681	profilesNewSession	0

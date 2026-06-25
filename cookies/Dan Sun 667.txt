@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1782765517	OptanonAlertBoxClosed	2025-05-03T21:03:28.727Z
+.netflix.com	TRUE	/	FALSE	1782765517	nfvdid	BQFmAAEBEDnDyoleSgsG4TcTfsPDpnxgaLuSmgf2YmgAN8tY_NIEzCrmN4E4GNQvLOoqGCYlP0UHxGZQwq9FMXL_J97D6tmi4U2-AOjNb7MiLbmqCub4LCjZn4Mks9MIIJd3wdN5JyPSTf-jBaLOwsHlVzrdu7uF
+.netflix.com	TRUE	/	FALSE	1782765517	flwssn	14cf665c-825d-4d22-8644-da278a3a5aaf
+.netflix.com	TRUE	/	FALSE	1810079013	dsca	customer
+.netflix.com	TRUE	/	FALSE	1784633311	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1784633311	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1808393310	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQnNEVAruc8USeHR7nGgIxlsKy1A0dxVBQ.%26dt%3D1776857312674
+.netflix.com	TRUE	/	TRUE	1808393310	NetflixId	ct%3DBgjHlOvcAxKCBDe-LEPbjx0SuThV1FuTT_oIHRPMmCbjNWAPN9yVXynYGJpBRT7xCuqYCwvawNPA1s-TXQrUJjQqbZgZP6qmwd95ZdfstLHRfjKPqqoXcUp7GumaPlAsa87IVOCVjIsVFcjEDk2YGK31VqerpUt7iEHkSAJf48Xb0CVKOKo8xI1dupiobUIkm6ddxSHVm7UV1lRP74gtOzEvO1K85IlMPisTwbQPkYgSiIADBcGD7EufcFoS13XPbGCUD0nQ2VCaSgnDpHGzvCxsYnike5gHcgjY8IVDjSWqpr-Jtav7V1H1__74AGPDlislDHyyQXVIWjjS3zAj95OLXfJw5EvNLjs9ZsqpkkfzYjddp5kR3KVe4PmeF6LL0Vpo5Kry31s5KcFLoDaxATX5wDcW-zZ-5pwE3s76Ug4pI-CxDi2ep8wESartvBunuw1-oZIvCq54GjF6L1FRHEWoyij3WhR0z8dZUjOfRraxAGd-iRm-nmBMLxHDZbT9iDEKLGeScdXodKpwAJdnwHgwlaz3I5Qnc_JaY-ygEhwOotj1b3bd1mXxPdS7ZvtVwfY5_VO_CWs7VOjIcorXEaGvGgrGPSnD-gwEyymQIpkabCyLAFUIkFedkmvKxbh0_d-IfEmdlase6Fl0oMFWvJeU2UuFPEnOAe0-2POSqWiLTFAQt6KLVCHOUmcYBiIOCgwOEJepFWKiNa7IxgA.%26ch%3DAQEAEAABABQFYmpt8PgYAV1auQGnLEE0yeLZIzpyT40.%26v%3D3%26pg%3DA4VLJULEXNBS3L5BIAVGEFUF4I
+.netflix.com	TRUE	/	TRUE	1782765517	gsid	26ba9fbe-46c2-45da-853c-db411b93f29d
+.netflix.com	TRUE	/	FALSE	1808393313	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+13%3A28%3A33+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8422877e-d294-4e51-a0fb-ed4001ce8d28&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BCT&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1782765517	profilesNewSession	0
